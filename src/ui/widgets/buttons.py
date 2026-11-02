@@ -22,7 +22,7 @@ def create_mdbutton(
     button.add_widget(MDButtonText(
         text=text,
         font_size=sp(14),
-        role="label-large",
+        role="small",
         halign="center",
         valign="middle",
         shorten=True,
