@@ -7,3 +7,4 @@ data/*.db
 .buildozer/
 bin/
 .venv-buildozer/
+doc.md

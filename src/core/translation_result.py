@@ -158,7 +158,7 @@ class TranslationResult:
             status=TranslationStatus.UNSUPPORTED,
             verification_status=VERIFICATION_STATUS_UNKNOWN,
             confidence=0.0,
-            notes=[reason],
+            notes=[reason] if reason else [],
         )
 
     @classmethod

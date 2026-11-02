@@ -13,6 +13,11 @@ run:
 # The first build downloads the Android SDK/NDK; output: bin/*.apk.
 # Install by USB with `buildozer android deploy run`, or copy the APK to a phone.
 app:
+	@if ! command -v buildozer >/dev/null 2>&1; then \
+		echo "Buildozer não encontrado. Instale-o e ative o ambiente virtual antes de executar make app."; \
+		echo "Consulte README.md: seção 'Build and install on Android'."; \
+		exit 127; \
+	fi
 	buildozer -v android debug
 
 debug:
