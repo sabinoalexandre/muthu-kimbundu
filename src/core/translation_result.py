@@ -21,11 +21,11 @@ VERIFICATION_STATUS_UNVERIFIED = "unverified"
 VERIFICATION_STATUS_UNKNOWN = "unknown"
 
 STATUS_LABELS = {
-    TranslationStatus.SUCCESS_VERIFIED: "Verified translation",
-    TranslationStatus.SUCCESS_DICTIONARY: "Dictionary-based translation",
-    TranslationStatus.SUCCESS_MACHINE: "Machine translation",
-    TranslationStatus.UNSUPPORTED: "Unsupported expression",
-    TranslationStatus.ERROR: "Translation failed",
+    TranslationStatus.SUCCESS_VERIFIED: "Tradução verificada",
+    TranslationStatus.SUCCESS_DICTIONARY: "Resultado do dicionário",
+    TranslationStatus.SUCCESS_MACHINE: "Tradução automática",
+    TranslationStatus.UNSUPPORTED: "Sem correspondência · texto original mantido",
+    TranslationStatus.ERROR: "Não foi possível concluir a consulta",
 }
 
 
@@ -152,7 +152,7 @@ class TranslationResult:
         """Build an explicit unsupported translation result."""
         return cls(
             original_text=original_text or "",
-            translated_text="",
+            translated_text=original_text or "",
             source_language=source_language or "",
             target_language=target_language or "",
             status=TranslationStatus.UNSUPPORTED,

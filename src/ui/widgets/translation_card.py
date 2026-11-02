@@ -59,15 +59,12 @@ class TranslationCard(MDCard):
     def update(self, result: TranslationResult) -> None:
         """Refresh the card contents from a translation result."""
         self.result = result
-        if not result or not result.is_success:
-            self.translated_text_label.text = ""
-        else:
-            self.translated_text_label.text = result.translated_text
+        self.translated_text_label.text = (
+            result.translated_text if result and result.translated_text
+            else "A tradução aparecerá aqui." if result is None else ""
+        )
         self.headline.text = "Resultado da consulta"
-        status = get_status_label(result.status) if result else "Aguardando consulta"
-        self.status_label.text = status.replace("Dictionary result", "Resultado de dicionário").replace(
-            "Unsupported", "Expressão não encontrada"
-        ).replace("Error", "Erro na consulta")
+        self.status_label.text = get_status_label(result.status) if result else "Aguardando consulta"
         if result and result.notes:
             self.notes_label.text = " · ".join(result.notes)
         elif result and not result.is_success:

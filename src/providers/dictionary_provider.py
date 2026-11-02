@@ -1,10 +1,10 @@
 """Local bilingual dictionary translation provider."""
 
 import json
+import unicodedata
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
-from src.core.exceptions import UnsupportedTranslationError
 from src.core.language import KIMBUNDU, PORTUGUESE
 from src.core.translation_result import TranslationResult
 from src.providers.base_provider import TranslationProvider
@@ -12,6 +12,13 @@ from src.providers.base_provider import TranslationProvider
 DEFAULT_DICTIONARY_PATH = (
     Path(__file__).resolve().parents[2] / "data" / "dictionary.json"
 )
+
+
+def _normalize_term(value: Optional[str]) -> str:
+    """Normalize accents, case, whitespace and sentence-ending punctuation."""
+    normalized = unicodedata.normalize("NFC", str(value or "")).casefold().strip()
+    normalized = " ".join(normalized.split())
+    return normalized.rstrip(".,;:!?…\"'”’»)]}")
 
 
 class LocalDictionaryProvider(TranslationProvider):
@@ -45,11 +52,11 @@ class LocalDictionaryProvider(TranslationProvider):
         portuguese_translation: Optional[str] = None,
     ) -> Optional[Dict[str, Any]]:
         """Return a single dictionary entry matching the given fields."""
-        term = (kimbundu_term or "").strip().lower()
-        translation = (portuguese_translation or "").strip().lower()
+        term = _normalize_term(kimbundu_term)
+        translation = _normalize_term(portuguese_translation)
         for entry in self.entries:
-            entry_term = str(entry.get("kimbundu_term") or "").strip().lower()
-            entry_translation = str(entry.get("portuguese_translation") or "").strip().lower()
+            entry_term = _normalize_term(entry.get("kimbundu_term"))
+            entry_translation = _normalize_term(entry.get("portuguese_translation"))
             if term and entry_term == term:
                 return entry
             if translation and entry_translation == translation:
@@ -68,16 +75,25 @@ class LocalDictionaryProvider(TranslationProvider):
             entry = self.get_entry(portuguese_translation=term)
 
         if entry is None:
-            raise UnsupportedTranslationError(
-                f"No reliable Kimbundu dictionary entry is available for "
-                f"'{term}'. The expression may be unsupported, newly coined, "
-                "or not yet reviewed by a Kimbundu speaker."
+            return TranslationResult.unsupported(
+                term,
+                source,
+                target,
+                "Entrada não encontrada no dicionário. O texto original foi mantido.",
             )
 
         if source == KIMBUNDU:
             translated_text = str(entry.get("portuguese_translation") or "")
         else:
             translated_text = str(entry.get("kimbundu_term") or "")
+        if not translated_text.strip():
+            return TranslationResult.unsupported(
+                term,
+                source,
+                target,
+                "A entrada não contém uma equivalência. O texto original foi mantido.",
+            )
+
         return TranslationResult.from_dictionary(
             original_text=term,
             translated_text=translated_text,

@@ -233,16 +233,16 @@ class HomeScreen(MDScreen):
         self.is_loading = False
         self.result = result
         if result.is_error:
-            self.status_message = result.notes[0] if result.notes else "Translation failed."
+            self.status_message = result.notes[0] if result.notes else "Não foi possível concluir a consulta."
         elif result.is_unsupported:
-            self.status_message = result.notes[0] if result.notes else "Unsupported expression."
+            self.status_message = "Sem correspondência no dicionário · texto original mantido"
         elif result.is_success:
             self.status_message = "Consulta concluída · resultado de dicionário"
         self.result_card.update(result)
 
     def on_copy(self, *args) -> None:
         """Copy the translated text to the clipboard."""
-        if self.result is not None and self.result.is_success:
+        if self.result is not None and self.result.translated_text:
             from kivy.core.clipboard import Clipboard
 
             Clipboard.copy(self.result.translated_text)

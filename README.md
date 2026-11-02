@@ -27,6 +27,10 @@ digital accessibility of the Kimbundu language.
 - Favorites for saved translations and expressions.
 - Light and dark themes.
 - Clear communication of unsupported expressions and limitations.
+- When no entry exists, the original text is returned and clearly marked as
+  unmatched instead of being replaced with an error or invented translation.
+- The initial local lexicon includes sourced single-word entries and documented
+  multiword expressions. It seeds the SQLite dictionary table on startup.
 
 ## Technology
 
@@ -113,8 +117,8 @@ MUTHU/
   dictionary-based provider.
 - Dictionary lookups are not contextual sentence translations.
 - Results identify themselves as dictionary lookups and keep unverified entries marked.
-- Unsupported expressions return an explicit unsupported result instead of
-  a fabricated translation.
+- Unsupported expressions return the original text with an unmatched status;
+  no fabricated translation is shown.
 - Uncertain results must never be presented as confirmed translations.
 
 ## Linguistic Data and Verification
