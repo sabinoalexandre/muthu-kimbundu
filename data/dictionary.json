@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1,
+      "kimbundu_term": "nzo",
+      "portuguese_translation": "pássaro",
+      "definition": "Community contributed entry pending review by Kimbundu speakers.",
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "noun",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Pending review - community contribution",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 2,
+      "kimbundu_term": "mukanda",
+      "portuguese_translation": "família",
+      "definition": "Community contributed entry pending review by Kimbundu speakers.",
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "noun",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Pending review - community contribution",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 3,
+      "kimbundu_term": "kilunda",
+      "portuguese_translation": "montanha",
+      "definition": "Community contributed entry pending review by Kimbundu speakers.",
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "noun",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Pending review - community contribution",
+      "timestamp": "2026-11-02T00:00:00"
+    }
+  ]
+}
