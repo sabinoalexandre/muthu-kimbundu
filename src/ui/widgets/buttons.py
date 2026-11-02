@@ -1,7 +1,6 @@
 """Helpers for creating KivyMD Material Design buttons."""
 
-from kivy.metrics import dp
-from kivy.uix.widget import Widget
+from kivy.metrics import dp, sp
 from kivymd.uix.button import MDButton, MDButtonText
 
 DEFAULT_BUTTON_STYLE = "text"
@@ -18,7 +17,16 @@ def create_mdbutton(
 ):
     """Create a KivyMD text button with the given label and action."""
     button = MDButton(style=style)
-    button.add_widget(MDButtonText(text=text))
+    # Keep button labels on the compact Material label scale so they fit the
+    # 40–54 dp mobile touch targets used throughout the app.
+    button.add_widget(MDButtonText(
+        text=text,
+        font_size=sp(14),
+        role="label-large",
+        halign="center",
+        valign="middle",
+        shorten=True,
+    ))
     if on_release is not None:
         button.bind(on_release=on_release)
     if size_hint_x is not None:

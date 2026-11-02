@@ -67,8 +67,8 @@ class MuthuApp(MDApp):
 
     def build(self):
         """Build the application navigation structure."""
-        self.theme_cls.primary_palette = "Blue"
-        self.theme_cls.primary_hue = "700"
+        self.theme_cls.primary_palette = "LightBlue"
+        self.theme_cls.primary_hue = "300"
         self.theme_cls.theme_style = "Light"
         db.initialize_database()
         settings = AppSettings.from_env()
