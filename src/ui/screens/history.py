@@ -2,134 +2,89 @@
 
 from kivy.metrics import dp
 from kivy.uix.boxlayout import BoxLayout
-from kivy.properties import ListProperty
+from kivy.uix.scrollview import ScrollView
+from kivymd.uix.button import MDIconButton
+from kivymd.uix.card import MDCard
 from kivymd.uix.label import MDLabel
 from kivymd.uix.screen import MDScreen
 from kivymd.uix.textfield import MDTextField
 
-from src.database.models import HistoryEntry
 from src.services.storage_service import StorageService
-from src.ui.widgets.buttons import create_mdbutton
 
 
 class HistoryScreen(MDScreen):
-    """Screen listing the saved translation history."""
+    """Browse, search and remove saved translation lookups."""
 
     storage_service = None
-
-    entries = ListProperty([])
-    filtered_entries = ListProperty([])
 
     def __init__(self, storage_service=None, **kwargs) -> None:
         super().__init__(**kwargs)
         self.storage_service = storage_service
         self.entries = []
-        self.filtered_entries = []
         self._build_ui()
 
     def _build_ui(self) -> None:
-        root = BoxLayout(orientation="vertical")
-        header = MDLabel(
-            text="History",
-            size_hint_y=None,
-            height=dp(40),
-            halign="center",
-            valign="middle",
-        )
-        self.search_field = MDTextField(
-            hint_text="Search history",
-            size_hint_y=None,
-            height=dp(48),
-        )
-        self.search_button = create_mdbutton(
-            "Search",
-            on_release=self.on_search,
-            size_hint_x=None,
-            width=dp(120),
-        )
-        search_row = BoxLayout(orientation="horizontal", spacing=dp(8))
-        search_row.add_widget(self.search_field)
-        search_row.add_widget(self.search_button)
-        self.entries_container = BoxLayout(
-            orientation="vertical",
-            size_hint_y=None,
-        )
-        self.clear_button = create_mdbutton(
-            "Clear history",
-            on_release=self.on_clear_history,
-            size_hint_x=None,
-            width=dp(160),
-        )
+        root = BoxLayout(orientation="vertical", padding=[dp(20), dp(16)], spacing=dp(12))
+        header = BoxLayout(size_hint_y=None, height=dp(44))
+        header.add_widget(MDLabel(text="Histórico", font_style="Headline", role="small", bold=True))
+        header.add_widget(MDIconButton(icon="delete-sweep-outline", on_release=self.on_clear_history))
         root.add_widget(header)
-        root.add_widget(search_row)
-        root.add_widget(self.entries_container)
-        root.add_widget(self.clear_button)
+        self.search_field = MDTextField(hint_text="Pesquisar histórico", mode="outlined",
+                                        size_hint_y=None, height=dp(56))
+        self.search_field.bind(text=lambda *_: self._rebuild_rows())
+        root.add_widget(self.search_field)
+        self.count_label = MDLabel(text="As consultas ficam guardadas neste dispositivo.",
+                                   theme_text_color="Secondary", size_hint_y=None, height=dp(30))
+        root.add_widget(self.count_label)
+        scroll = ScrollView(do_scroll_x=False, bar_width=dp(3))
+        self.entries_container = BoxLayout(orientation="vertical", size_hint_y=None,
+                                           spacing=dp(10), padding=[0, dp(4)])
+        self.entries_container.bind(minimum_height=self.entries_container.setter("height"))
+        scroll.add_widget(self.entries_container)
+        root.add_widget(scroll)
         self.add_widget(root)
-        self.refresh()
 
     def refresh(self) -> None:
-        """Reload history entries from the storage service."""
-        self.entries = self.storage_service.get_history(limit=100)
-        self._apply_filter()
-
-    def _apply_filter(self) -> None:
-        """Filter the visible history entries by the search term."""
-        term = (self.search_field.text or "").strip().lower()
-        if not term:
-            self.filtered_entries = list(self.entries)
-            return
-        self.filtered_entries = [
-            entry
-            for entry in self.entries
-            if term in entry.original_text.lower()
-            or term in entry.translated_text.lower()
-            or term in (entry.provider or "").lower()
-        ]
-
-    def on_search(self, *args) -> None:
-        """Run the history search."""
-        self._apply_filter()
+        if self.storage_service is not None:
+            self.entries = self.storage_service.get_history(limit=100)
         self._rebuild_rows()
 
-    def _rebuild_rows(self) -> None:
-        """Rebuild the history rows from the filtered entries."""
+    def _rebuild_rows(self, *args) -> None:
+        if not hasattr(self, "entries_container"):
+            return
+        term = (self.search_field.text or "").strip().lower()
+        entries = [item for item in self.entries if not term or term in item.original_text.lower()
+                   or term in item.translated_text.lower() or term in (item.provider or "").lower()]
         self.entries_container.clear_widgets()
-        for entry in self.filtered_entries:
-            self.entries_container.add_widget(self._build_entry_row(entry))
-
-    def _build_entry_row(self, entry: HistoryEntry):
-        row = BoxLayout(
-            orientation="vertical",
-            size_hint_y=None,
-            height=dp(170),
-            padding=[4, 4],
-            spacing=dp(2),
-        )
-        row.add_widget(MDLabel(text=entry.original_text, size_hint_y=None, height=dp(20), halign="left", valign="middle"))
-        row.add_widget(MDLabel(text=entry.translated_text, size_hint_y=None, height=dp(20), halign="left", valign="middle"))
-        row.add_widget(MDLabel(text=f"{entry.source_language} -> {entry.target_language}", size_hint_y=None, height=dp(20), halign="left", valign="middle"))
-        row.add_widget(MDLabel(text=f"Status: {entry.verification_status}", size_hint_y=None, height=dp(20), halign="left", valign="middle"))
-        row.add_widget(MDLabel(text=f"Provider: {entry.provider}", size_hint_y=None, height=dp(20), halign="left", valign="middle"))
-        row.add_widget(MDLabel(text=f"Date: {entry.timestamp}", size_hint_y=None, height=dp(20), halign="left", valign="middle"))
-        delete_button = create_mdbutton(
-            "Delete",
-            on_release=lambda entry_id=entry.id: self.on_delete(entry_id),
-            size_hint_x=None,
-            width=dp(100),
-        )
-        row.add_widget(delete_button)
-        return row
+        self.count_label.text = f"{len(entries)} consulta(s) · resultados de dicionário"
+        if not entries:
+            self.entries_container.add_widget(MDLabel(
+                text="Ainda não há consultas guardadas." if not term else "Nenhum registo corresponde à pesquisa.",
+                theme_text_color="Secondary", size_hint_y=None, height=dp(72), halign="center"))
+            return
+        for entry in entries:
+            card = MDCard(orientation="vertical", size_hint_y=None, height=dp(142),
+                          padding=dp(14), spacing=dp(5), radius=[dp(16)])
+            card.add_widget(MDLabel(text=entry.original_text, bold=True,
+                                    size_hint_y=None, height=dp(28), shorten=True))
+            card.add_widget(MDLabel(text=entry.translated_text, size_hint_y=None,
+                                    height=dp(28), shorten=True))
+            card.add_widget(MDLabel(
+                text=f"{entry.source_language} → {entry.target_language} · {entry.verification_status} · {entry.timestamp}",
+                theme_text_color="Secondary", font_style="Label", role="small", size_hint_y=None, height=dp(24)))
+            actions = BoxLayout(size_hint_y=None, height=dp(34))
+            actions.add_widget(MDLabel(text=entry.provider or "Consulta local", theme_text_color="Secondary"))
+            delete = MDIconButton(icon="delete-outline", on_release=lambda *_args, item_id=entry.id: self.on_delete(item_id))
+            actions.add_widget(delete)
+            card.add_widget(actions)
+            self.entries_container.add_widget(card)
 
     def on_delete(self, entry_id) -> None:
-        """Delete a single history entry."""
-        if self.storage_service is None or entry_id is None:
-            return
-        self.storage_service.delete_history(entry_id)
-        self.refresh()
+        if self.storage_service is not None and entry_id is not None:
+            self.storage_service.delete_history(entry_id)
+            self.refresh()
 
     def on_clear_history(self, *args) -> None:
-        """Clear the complete translation history."""
-        if self.storage_service is None:
-            return
-        self.storage_service.clear_history()
-        self.refresh()
+        if self.storage_service is not None:
+            self.storage_service.clear_history()
+            self.refresh()

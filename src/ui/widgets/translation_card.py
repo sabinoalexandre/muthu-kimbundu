@@ -17,15 +17,17 @@ class TranslationCard(MDCard):
     def __init__(self, result: TranslationResult = None, **kwargs) -> None:
         super().__init__(**kwargs)
         self.result = result
+        self.radius = [dp(18)]
+        self.elevation = 1
         self.headline = MDLabel(
-            text="Translation",
+            text="Resultado da consulta",
             size_hint_y=None,
             height=dp(30),
             halign="left",
             valign="middle",
         )
         self.translated_text_label = MDLabel(
-            text="",
+            text="A tradução aparecerá aqui.",
             size_hint_y=None,
             height=dp(60),
             halign="left",
@@ -61,10 +63,13 @@ class TranslationCard(MDCard):
             self.translated_text_label.text = ""
         else:
             self.translated_text_label.text = result.translated_text
-        self.headline.text = "Translation"
-        self.status_label.text = get_status_label(result.status) if result else "Idle"
+        self.headline.text = "Resultado da consulta"
+        status = get_status_label(result.status) if result else "Aguardando consulta"
+        self.status_label.text = status.replace("Dictionary result", "Resultado de dicionário").replace(
+            "Unsupported", "Expressão não encontrada"
+        ).replace("Error", "Erro na consulta")
         if result and result.notes:
-            self.notes_label.text = " | ".join(result.notes)
+            self.notes_label.text = " · ".join(result.notes)
         elif result and not result.is_success:
             self.notes_label.text = result.original_text
         else:

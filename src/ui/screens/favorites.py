@@ -1,140 +1,89 @@
-"""Favorites screen."""
+"""Saved translations screen."""
 
+from kivy.core.clipboard import Clipboard
 from kivy.metrics import dp
 from kivy.uix.boxlayout import BoxLayout
-from kivy.properties import ListProperty
+from kivy.uix.scrollview import ScrollView
+from kivymd.uix.button import MDIconButton
+from kivymd.uix.card import MDCard
 from kivymd.uix.label import MDLabel
 from kivymd.uix.screen import MDScreen
 from kivymd.uix.textfield import MDTextField
 
-from src.database.models import Favorite
 from src.services.storage_service import StorageService
-from src.ui.widgets.buttons import create_mdbutton
 
 
 class FavoritesScreen(MDScreen):
-    """Screen listing the user saved favorites."""
+    """Find, copy and remove favorite expressions."""
 
     storage_service = None
-
-    favorites = ListProperty([])
-    filtered_favorites = ListProperty([])
-    entries = ListProperty([])
 
     def __init__(self, storage_service=None, **kwargs) -> None:
         super().__init__(**kwargs)
         self.storage_service = storage_service
         self.favorites = []
-        self.entries = []
-        self.filtered_favorites = []
         self._build_ui()
 
     def _build_ui(self) -> None:
-        root = BoxLayout(orientation="vertical")
-        header = MDLabel(
-            text="Favorites",
-            size_hint_y=None,
-            height=dp(40),
-            halign="center",
-            valign="middle",
-        )
-        self.search_field = MDTextField(
-            hint_text="Search favorites",
-            size_hint_y=None,
-            height=dp(48),
-        )
-        self.search_button = create_mdbutton(
-            "Search",
-            on_release=self.on_search,
-            size_hint_x=None,
-            width=dp(120),
-        )
-        search_row = BoxLayout(orientation="horizontal", spacing=dp(8))
-        search_row.add_widget(self.search_field)
-        search_row.add_widget(self.search_button)
-        self.entries_container = BoxLayout(
-            orientation="vertical",
-            size_hint_y=None,
-        )
-        self.clear_button = create_mdbutton(
-            "Clear favorites",
-            on_release=self.on_clear,
-            size_hint_x=None,
-            width=dp(160),
-        )
-        root.add_widget(header)
-        root.add_widget(search_row)
-        root.add_widget(self.entries_container)
-        root.add_widget(self.clear_button)
+        root = BoxLayout(orientation="vertical", padding=[dp(20), dp(16)], spacing=dp(12))
+        root.add_widget(MDLabel(text="Guardados", font_style="Headline", role="small", bold=True,
+                                size_hint_y=None, height=dp(42)))
+        self.search_field = MDTextField(hint_text="Pesquisar favoritos", mode="outlined",
+                                        size_hint_y=None, height=dp(56))
+        self.search_field.bind(text=lambda *_: self._rebuild_rows())
+        root.add_widget(self.search_field)
+        self.count_label = MDLabel(text="As suas palavras favoritas.", theme_text_color="Secondary",
+                                   size_hint_y=None, height=dp(30))
+        root.add_widget(self.count_label)
+        scroll = ScrollView(do_scroll_x=False, bar_width=dp(3))
+        self.entries_container = BoxLayout(orientation="vertical", size_hint_y=None,
+                                           spacing=dp(10), padding=[0, dp(4)])
+        self.entries_container.bind(minimum_height=self.entries_container.setter("height"))
+        scroll.add_widget(self.entries_container)
+        root.add_widget(scroll)
         self.add_widget(root)
-        self.refresh()
 
     def refresh(self) -> None:
-        """Reload the favorites from the storage service."""
-        self.favorites = self.storage_service.get_favorites()
-        self.entries = self.favorites
-        self._apply_filter()
-
-    def _apply_filter(self) -> None:
-        """Filter the visible favorites by the search term."""
-        term = (self.search_field.text or "").strip().lower()
-        if not term:
-            self.filtered_favorites = list(self.favorites)
-            return
-        self.filtered_favorites = [
-            favorite
-            for favorite in self.favorites
-            if term in favorite.original_text.lower()
-            or term in favorite.translated_text.lower()
-        ]
-
-    def on_search(self, *args) -> None:
-        """Run the favorites search."""
-        self._apply_filter()
+        self.favorites = self.storage_service.get_favorites() if self.storage_service else []
         self._rebuild_rows()
 
-    def _rebuild_rows(self) -> None:
-        """Rebuild the favorites rows from the filtered entries."""
+    def _rebuild_rows(self, *args) -> None:
+        if not hasattr(self, "entries_container"):
+            return
+        term = (self.search_field.text or "").strip().lower()
+        visible = [fav for fav in self.favorites if not term or term in fav.original_text.lower()
+                   or term in fav.translated_text.lower()]
         self.entries_container.clear_widgets()
-        for favorite in self.filtered_favorites:
-            self.entries_container.add_widget(self._build_entry_row(favorite))
-
-    def _build_entry_row(self, favorite) -> BoxLayout:
-        row = BoxLayout(orientation="vertical", size_hint_y=None, height=dp(110), padding=[4, 4], spacing=dp(2))
-        row.add_widget(MDLabel(text=favorite.original_text, size_hint_y=None, height=dp(20), halign="left", valign="middle"))
-        row.add_widget(MDLabel(text=favorite.translated_text, size_hint_y=None, height=dp(20), halign="left", valign="middle"))
-        copy_button = create_mdbutton(
-            "Copy",
-            on_release=lambda fav=favorite: self.on_copy(fav),
-            size_hint_x=None,
-            width=dp(100),
-        )
-        remove_button = create_mdbutton(
-            "Remove",
-            on_release=lambda fav=favorite: self.on_remove(fav),
-            size_hint_x=None,
-            width=dp(100),
-        )
-        actions = BoxLayout(orientation="horizontal", spacing=dp(8))
-        actions.add_widget(copy_button)
-        actions.add_widget(remove_button)
-        row.add_widget(actions)
-        return row
+        self.count_label.text = f"{len(visible)} expressão(ões) guardada(s)"
+        if not visible:
+            message = "Ainda não guardou nenhuma tradução." if not term else "Nenhum favorito corresponde à pesquisa."
+            self.entries_container.add_widget(MDLabel(text=message, theme_text_color="Secondary",
+                                                      size_hint_y=None, height=dp(72), halign="center"))
+            return
+        for favorite in visible:
+            card = MDCard(orientation="vertical", size_hint_y=None, height=dp(112),
+                          padding=dp(14), spacing=dp(5), radius=[dp(16)])
+            card.add_widget(MDLabel(text=favorite.original_text, bold=True,
+                                    size_hint_y=None, height=dp(28), shorten=True))
+            card.add_widget(MDLabel(text=favorite.translated_text, size_hint_y=None,
+                                    height=dp(26), shorten=True))
+            actions = BoxLayout(size_hint_y=None, height=dp(34))
+            actions.add_widget(MDLabel(text=f"{favorite.source_language} → {favorite.target_language}",
+                                       theme_text_color="Secondary", font_style="Label", role="small"))
+            actions.add_widget(MDIconButton(icon="content-copy", on_release=lambda *_args, item=favorite: self.on_copy(item)))
+            actions.add_widget(MDIconButton(icon="heart-off-outline", on_release=lambda *_args, item_id=favorite.id: self.on_remove(item_id)))
+            card.add_widget(actions)
+            self.entries_container.add_widget(card)
 
     def on_copy(self, favorite) -> None:
-        """Copy a favorite translation to the clipboard."""
-        from kivy.clipboard import Clipboard
-
         Clipboard.copy(favorite.translated_text)
 
-    def on_remove(self, favorite) -> None:
-        """Remove a single favorite."""
-        if favorite is None or favorite.id is None:
-            return
-        self.storage_service.remove_favorite(favorite.id)
-        self.refresh()
+    def on_remove(self, favorite_id) -> None:
+        if self.storage_service is not None and favorite_id is not None:
+            self.storage_service.remove_favorite(favorite_id)
+            self.refresh()
 
     def on_clear(self, *args) -> None:
-        """Clear all favorites."""
-        self.storage_service.clear_favorites()
-        self.refresh()
+        if self.storage_service is not None:
+            self.storage_service.clear_favorites()
+            self.refresh()

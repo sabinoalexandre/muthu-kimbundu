@@ -1,15 +1,11 @@
 """MUTHU application entry point."""
 
-from kivy.app import App
+from kivy.metrics import dp
+from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.screenmanager import ScreenManager
 from kivymd.app import MDApp
-from kivymd.uix.navigationdrawer import (
-    MDNavigationDrawer,
-    MDNavigationDrawerItem,
-    MDNavigationDrawerItemText,
-    MDNavigationDrawerMenu,
-    MDNavigationLayout,
-)
+from kivymd.uix.button import MDButton, MDButtonText
+from kivymd.uix.card import MDCard
 
 from src.config.settings import AppSettings
 from src.core.language import KIMBUNDU, PORTUGUESE
@@ -26,11 +22,11 @@ from src.ui.screens.home import HomeScreen
 from src.ui.screens.settings import SettingsScreen
 
 NAVIGATION_ITEMS = (
-    ("Home", "home"),
-    ("Dictionary", "dictionary"),
-    ("History", "history"),
-    ("Favorites", "favorites"),
-    ("Settings", "settings"),
+    ("Início", "home", "home-outline"),
+    ("Léxico", "dictionary", "book-open-variant"),
+    ("Hist.", "history", "history"),
+    ("Salvos", "favorites", "heart-outline"),
+    ("Ajustes", "settings", "cog-outline"),
 )
 
 
@@ -39,6 +35,8 @@ class MuthuApp(MDApp):
 
     def build(self):
         """Build the application navigation structure."""
+        self.theme_cls.primary_palette = "Teal"
+        self.theme_cls.primary_hue = "700"
         db.initialize_database()
         settings = AppSettings.from_env()
         dictionary_provider = LocalDictionaryProvider()
@@ -54,14 +52,16 @@ class MuthuApp(MDApp):
         self.dictionary_service = dictionary_service
 
         home_screen = HomeScreen(
+            name="home",
             translation_service=translation_service,
             storage_service=storage_service,
             settings=settings,
         )
-        dictionary_screen = DictionaryScreen(dictionary_service=dictionary_service)
-        history_screen = HistoryScreen(storage_service=storage_service)
-        favorites_screen = FavoritesScreen(storage_service=storage_service)
+        dictionary_screen = DictionaryScreen(name="dictionary", dictionary_service=dictionary_service)
+        history_screen = HistoryScreen(name="history", storage_service=storage_service)
+        favorites_screen = FavoritesScreen(name="favorites", storage_service=storage_service)
         settings_screen = SettingsScreen(
+            name="settings",
             storage_service=storage_service, settings=settings
         )
 
@@ -72,33 +72,37 @@ class MuthuApp(MDApp):
         self.screen_manager.add_widget(favorites_screen)
         self.screen_manager.add_widget(settings_screen)
 
-        self.navigation_drawer = MDNavigationDrawer()
-        self.navigation_drawer.add_widget(self._build_drawer_menu())
-        self.navigation_drawer.drawer_type = "standard"
-        self.navigation_drawer.anchor = "left"
+        shell = BoxLayout(orientation="vertical")
+        shell.add_widget(self.screen_manager)
+        self.navigation_bar = MDCard(
+            size_hint_y=None, height=dp(72), radius=[dp(20), dp(20), 0, 0],
+            elevation=2, padding=[dp(4), dp(4)],
+        )
+        nav_row = BoxLayout(spacing=dp(2))
+        self.navigation_buttons = {}
+        for title, route, icon in NAVIGATION_ITEMS:
+            button = MDButton(style="text", size_hint_x=1)
+            button.add_widget(MDButtonText(text=title))
+            button.bind(on_release=lambda instance, route=route: self._on_drawer_item_release(route))
+            self.navigation_buttons[route] = button
+            nav_row.add_widget(button)
+        self.navigation_bar.add_widget(nav_row)
+        shell.add_widget(self.navigation_bar)
+        self.screen_manager.bind(current=self._on_screen_change)
+        self._on_screen_change(self.screen_manager, self.screen_manager.current)
+        return shell
 
-        self.navigation_layout = MDNavigationLayout()
-        self.navigation_layout._screen_manager = self.screen_manager
-        self.navigation_layout._navigation_drawer = self.navigation_drawer
-        self.navigation_layout.add_widget(self.navigation_drawer)
-        self.navigation_layout.add_widget(self.screen_manager)
-        return self.navigation_layout
-
-    def _build_drawer_menu(self):
-        """Build the navigation drawer menu with the application sections."""
-        menu = MDNavigationDrawerMenu()
-        for title, route in NAVIGATION_ITEMS:
-            item = MDNavigationDrawerItem()
-            item.add_widget(MDNavigationDrawerItemText(text=title))
-            item.bind(on_release=lambda instance, route=route: self._on_drawer_item_release(route))
-            menu.add_widget(item)
-        return menu
+    def _on_screen_change(self, instance, route: str) -> None:
+        """Refresh list views whenever their navigation tab is opened."""
+        for key, button in self.navigation_buttons.items():
+            button.style = "filled" if key == route else "text"
+        screen = self.screen_manager.get_screen(route)
+        if hasattr(screen, "refresh"):
+            screen.refresh()
 
     def _on_drawer_item_release(self, route: str) -> None:
         """Open the requested screen from the navigation drawer."""
         self.screen_manager.current = route
-        if self.navigation_drawer is not None:
-            self.navigation_drawer.set_state("close")
 
     def on_start(self) -> None:
         """Apply the persisted theme when the application starts."""
