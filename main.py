@@ -1,6 +1,7 @@
 """MUTHU application entry point."""
 
 from kivy.metrics import dp
+from kivy.core.window import Window
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.screenmanager import ScreenManager
 from kivymd.app import MDApp
@@ -106,6 +107,7 @@ class MuthuApp(MDApp):
 
     def on_start(self) -> None:
         """Apply the persisted theme when the application starts."""
+        Window.softinput_mode = "below_target"
         theme = "light"
         if self.storage_service is not None:
             theme = self.storage_service.get_preference("theme", "light") or "light"

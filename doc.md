@@ -5,8 +5,8 @@
 **Type:** Bilingual translation application\
 **Languages:** Portuguese ↔ Kimbundu\
 **Technology:** Python + KivyMD\
-**Initial platform:** Desktop\
-**Future platform:** Android\
+**Initial platform:** Mobile and desktop\
+**Future milestone:** Android packaging and distribution\
 **Slogan:** "Two languages. One connection."
 
 ------------------------------------------------------------------------
@@ -187,8 +187,9 @@ The interface should be:
 -   Visually consistent.
 -   Designed to avoid unnecessary complexity.
 
-The initial target is desktop. The architecture should make future
-Android support possible without requiring a complete rewrite.
+The interface should prioritize phone-sized screens while remaining
+usable on desktop. Android packaging and distribution can be added as a
+separate milestone without requiring a complete rewrite.
 
 ------------------------------------------------------------------------
 
@@ -572,7 +573,7 @@ Tasks:
 -   Establish the visual identity of MUTHU.
 
 **Completion criteria:** The user can navigate through the application
-and interact with the main interface.
+and interact with the main interface on phone-sized and desktop screens.
 
 ### Phase 3 --- Linguistic Database
 

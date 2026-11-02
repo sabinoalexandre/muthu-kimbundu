@@ -17,6 +17,8 @@ digital accessibility of the Kimbundu language.
 
 ## Features
 
+- Mobile-first, responsive KivyMD interface with a bottom navigation bar.
+- Scrollable screens, live search, clear empty states, and keyboard-aware text input.
 - Bidirectional translation: Portuguese → Kimbundu and Kimbundu → Portuguese.
 - Translation of individual words, expressions, phrases, paragraphs, and
   longer texts.
@@ -32,6 +34,10 @@ digital accessibility of the Kimbundu language.
 - **Kivy** as the application framework.
 - **KivyMD** for Material Design components.
 - **SQLite** for local persistence.
+
+The interface targets phone-sized screens and remains usable on desktop. Android
+packaging and device distribution are planned separately; this repository does
+not yet include a Buildozer configuration or an installable Android package.
 
 ## Getting Started
 
@@ -106,6 +112,7 @@ MUTHU/
   Kimbundu reliably; the current implementation starts with a local
   dictionary-based provider.
 - Dictionary lookups are not contextual sentence translations.
+- Results identify themselves as dictionary lookups and keep unverified entries marked.
 - Unsupported expressions return an explicit unsupported result instead of
   a fabricated translation.
 - Uncertain results must never be presented as confirmed translations.
