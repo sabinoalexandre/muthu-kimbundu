@@ -39,9 +39,9 @@ digital accessibility of the Kimbundu language.
 - **KivyMD** for Material Design components.
 - **SQLite** for local persistence.
 
-The interface targets phone-sized screens and remains usable on desktop. Android
-packaging and device distribution are planned separately; this repository does
-not yet include a Buildozer configuration or an installable Android package.
+The interface previews at 360 × 640 (9:16) on desktop and uses the device's
+native size on phones. Android packaging is configured with Buildozer; a debug
+APK is created locally by following the steps below.
 
 ## Getting Started
 
@@ -81,6 +81,35 @@ Available settings:
 ```bash
 python main.py
 ```
+
+### Build and install on Android
+
+Buildozer packages the Kivy app as an Android APK. Build on Linux or macOS;
+Windows users can use WSL2. The first build downloads the Android SDK/NDK and
+can take a while. Follow Buildozer's [platform-specific installation steps](https://buildozer.readthedocs.io/en/latest/installation/) for the Java and
+system packages needed by your Linux/macOS version.
+
+From the project directory, create a build environment and make a debug APK:
+
+```bash
+python3.12 -m venv .venv-buildozer
+source .venv-buildozer/bin/activate
+python -m pip install --upgrade pip buildozer setuptools "cython==0.29.34"
+make app
+```
+
+The APK will be written to `bin/`. To install it over USB, enable Developer
+Options and USB debugging on the phone, connect it, then run:
+
+```bash
+buildozer android deploy run
+```
+
+You can also copy the APK from `bin/` to the phone and open it there. Android
+will ask you to allow installation from that file source. This debug APK is for
+direct installation; publishing on Google Play requires a signed release build.
+See the [Buildozer quickstart](https://buildozer.readthedocs.io/en/latest/quickstart/)
+for the full workflow.
 
 ### Test
 
@@ -140,7 +169,6 @@ Quality checks:
 ```bash
 make test
 make clean
-make fclean
 make re
 ```
 

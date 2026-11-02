@@ -1,11 +1,16 @@
 """MUTHU application entry point."""
 
+__version__ = "1.0.0"
+
+from pathlib import Path
+
 from kivy.metrics import dp
 from kivy.core.window import Window
 from kivy.graphics import Color, RoundedRectangle
 from kivy.uix.behaviors import ButtonBehavior
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.screenmanager import ScreenManager
+from kivy.utils import platform
 from kivymd.app import MDApp
 from kivymd.uix.card import MDCard
 from kivymd.uix.label import MDIcon, MDLabel
@@ -78,6 +83,9 @@ class MuthuApp(MDApp):
 
     def build(self):
         """Build the application navigation structure."""
+        if platform not in {"android", "ios"}:
+            # Preview the standard 9:16 portrait phone canvas on desktop.
+            Window.size = (360, 640)
         # Avoid a black strip showing through any transparent area below the
         # bottom navigation bar, especially on mobile devices with insets.
         Window.clearcolor = (1, 1, 1, 1)
@@ -85,6 +93,10 @@ class MuthuApp(MDApp):
         self.theme_cls.primary_hue = "800"
         self.theme_cls.theme_style = "Light"
         self.theme_cls.bind(theme_style=self._sync_theme)
+        if platform == "android":
+            data_directory = Path(self.user_data_dir)
+            data_directory.mkdir(parents=True, exist_ok=True)
+            db.DATABASE_PATH = data_directory / "muthu.db"
         db.initialize_database()
         settings = AppSettings.from_env()
         dictionary_provider = LocalDictionaryProvider()

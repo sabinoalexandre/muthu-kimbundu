@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "entries": [
     {
       "id": 1,
@@ -950,6 +950,276 @@
       "regional_variation": null,
       "verification_status": "unverified",
       "source_reference": "Aprender Kimbundu, As ordens, Chatelain (1889) — https://www.kimbundu.org/pt/learn/commands",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 64,
+      "kimbundu_term": "Sukiri",
+      "portuguese_translation": "açúcar",
+      "definition": "Açúcar.",
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Sukiri, Assis Júnior (anos 1940), p. 362 — https://www.kimbundu.org/en/word/sukiri",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 65,
+      "kimbundu_term": "Héju",
+      "portuguese_translation": "queijo",
+      "definition": "Queijo; empréstimo do português registado na fonte.",
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Héju, Assis Júnior (anos 1940), p. 54 — https://www.kimbundu.org/en/word/heju",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 66,
+      "kimbundu_term": "Kisengéria",
+      "portuguese_translation": "acepipe",
+      "definition": "Petisco; acepipe; delicadeza de comida.",
+      "alternative_meanings": [
+        "petisco"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Kisengéria, Assis Júnior (anos 1940), p. 146 — https://www.kimbundu.org/en/word/kisengeria",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 67,
+      "kimbundu_term": "Kisengéria",
+      "portuguese_translation": "petisco",
+      "definition": "Petisco; acepipe; delicadeza de comida.",
+      "alternative_meanings": [
+        "acepipe"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Kisengéria, Assis Júnior (anos 1940), p. 146 — https://www.kimbundu.org/en/word/kisengeria",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 68,
+      "kimbundu_term": "Kakuria",
+      "portuguese_translation": "pequena refeição",
+      "definition": "Pequena quantidade de comida; refeição ligeira.",
+      "alternative_meanings": [
+        "lanche"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Kakuria, Assis Júnior (anos 1940), p. 90 — https://www.kimbundu.org/en/word/kakuria",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 69,
+      "kimbundu_term": "Kakuria",
+      "portuguese_translation": "lanche",
+      "definition": "Pequena quantidade de comida; refeição ligeira.",
+      "alternative_meanings": [
+        "pequena refeição"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Kakuria, Assis Júnior (anos 1940), p. 90 — https://www.kimbundu.org/en/word/kakuria",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 70,
+      "kimbundu_term": "Kiandu",
+      "portuguese_translation": "refeição",
+      "definition": "Refeição; comida.",
+      "alternative_meanings": [
+        "comida"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Kiandu, Assis Júnior (anos 1940), p. 114 — https://www.kimbundu.org/fr/word/kiandu",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 71,
+      "kimbundu_term": "Kiandu",
+      "portuguese_translation": "comida",
+      "definition": "Refeição; comida.",
+      "alternative_meanings": [
+        "refeição"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Kiandu, Assis Júnior (anos 1940), p. 114 — https://www.kimbundu.org/fr/word/kiandu",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 72,
+      "kimbundu_term": "Nona",
+      "portuguese_translation": "milho cozido",
+      "definition": "Milho cozido; papas ou matete de milho.",
+      "alternative_meanings": [
+        "papas de milho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Nona, Assis Júnior (anos 1940), p. 334 — https://www.kimbundu.org/en/word/nona",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 73,
+      "kimbundu_term": "Nona",
+      "portuguese_translation": "papas de milho",
+      "definition": "Milho cozido; papas ou matete de milho.",
+      "alternative_meanings": [
+        "milho cozido",
+        "matete"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Nona, Assis Júnior (anos 1940), p. 334 — https://www.kimbundu.org/en/word/nona",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 74,
+      "kimbundu_term": "Mona",
+      "portuguese_translation": "filho",
+      "definition": "Filho ou filha; uma só forma pode referir-se aos dois sexos.",
+      "alternative_meanings": [
+        "filha",
+        "criança"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Aprender Kimbundu, Palavras para pessoas, Chatelain (1889) — https://www.kimbundu.org/pt/learn/words-for-people",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 75,
+      "kimbundu_term": "Mona",
+      "portuguese_translation": "filha",
+      "definition": "Filho ou filha; uma só forma pode referir-se aos dois sexos.",
+      "alternative_meanings": [
+        "filho",
+        "criança"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Aprender Kimbundu, Palavras para pessoas, Chatelain (1889) — https://www.kimbundu.org/pt/learn/words-for-people",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 76,
+      "kimbundu_term": "Alongi",
+      "portuguese_translation": "professores",
+      "definition": "Plural de Mulongi: professores ou educadores.",
+      "alternative_meanings": [
+        "educadores"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Aprender Kimbundu, Palavras para pessoas, Chatelain (1889) — https://www.kimbundu.org/pt/learn/words-for-people",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 77,
+      "kimbundu_term": "Akwetu",
+      "portuguese_translation": "companheiros",
+      "definition": "Plural de Mukwetu: companheiros.",
+      "alternative_meanings": [
+        "companheiras"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Aprender Kimbundu, Palavras para pessoas, Chatelain (1889) — https://www.kimbundu.org/pt/learn/words-for-people",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 78,
+      "kimbundu_term": "Mangu",
+      "portuguese_translation": "principal refeição do dia",
+      "definition": "Principal refeição do dia; comida ou jantar.",
+      "alternative_meanings": [
+        "jantar",
+        "comida"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Mangu, Assis Júnior (anos 1940), p. 281 — https://www.kimbundu.org/en/word/mangu",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 79,
+      "kimbundu_term": "Mangu",
+      "portuguese_translation": "jantar",
+      "definition": "Principal refeição do dia; comida ou jantar.",
+      "alternative_meanings": [
+        "principal refeição do dia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Mangu, Assis Júnior (anos 1940), p. 281 — https://www.kimbundu.org/en/word/mangu",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 80,
+      "kimbundu_term": "Kuanda",
+      "portuguese_translation": "comer",
+      "definition": "Comer; tomar alimento. Também significa mastigar.",
+      "alternative_meanings": [
+        "mastigar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Kuanda, Assis Júnior (anos 1940), p. 160 — https://www.kimbundu.org/en/word/kuanda",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 81,
+      "kimbundu_term": "Kuanda",
+      "portuguese_translation": "mastigar",
+      "definition": "Mastigar ou triturar com os dentes; a fonte também regista comer.",
+      "alternative_meanings": [
+        "comer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Kuanda, Assis Júnior (anos 1940), p. 160 — https://www.kimbundu.org/en/word/kuanda",
       "timestamp": "2026-11-02T00:00:00"
     }
   ]

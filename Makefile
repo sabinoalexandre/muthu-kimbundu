@@ -1,4 +1,4 @@
-.PHONY: all install run debug clean lint lint-strict test fclean re
+.PHONY: all install run app debug clean lint lint-strict test re
 
 all: run
 
@@ -7,6 +7,13 @@ install:
 
 run:
 	python main.py
+
+# Android APK (debug): install Buildozer and its platform dependencies first.
+# See README.md for Linux/macOS setup and Windows via WSL2 instructions.
+# The first build downloads the Android SDK/NDK; output: bin/*.apk.
+# Install by USB with `buildozer android deploy run`, or copy the APK to a phone.
+app:
+	buildozer -v android debug
 
 debug:
 	python -m pdb main.py
@@ -26,7 +33,4 @@ lint-strict:
 test:
 	python -m pytest
 
-fclean: clean
-	rm -rf data/muthu.db
-
-re: fclean all
+re: clean all
