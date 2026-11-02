@@ -12,7 +12,7 @@ from src.core.translation_result import TranslationResult, get_status_label
 class TranslationCard(MDCard):
     """Card that displays a translation result and its reliability."""
 
-    result = ObjectProperty(None)
+    result = ObjectProperty(None, allownone=True)
 
     def __init__(self, result: TranslationResult = None, **kwargs) -> None:
         super().__init__(**kwargs)
@@ -44,7 +44,7 @@ class TranslationCard(MDCard):
         self.notes_label = MDLabel(
             text="",
             size_hint_y=None,
-            height=dp(40),
+            height=0,
             halign="left",
             valign="top",
             text_size=(dp(340), dp(80)),
@@ -65,9 +65,21 @@ class TranslationCard(MDCard):
         )
         self.headline.text = "Resultado da consulta"
         self.status_label.text = get_status_label(result.status) if result else "Aguardando consulta"
-        if result and result.notes:
-            self.notes_label.text = " · ".join(result.notes)
-        elif result and not result.is_success:
-            self.notes_label.text = result.original_text
+        if result is None:
+            self.status_label.text = ""
+            self.notes_label.text = ""
+        elif result.is_unsupported:
+            self.status_label.text = "Não encontrada · texto original mantido"
+            self.notes_label.text = ""
+        elif result.is_success:
+            self.status_label.text = (
+                "Tradução verificada"
+                if result.is_verified
+                else "Dicionário · por confirmar"
+            )
+            self.notes_label.text = ""
+        elif result.is_error:
+            self.status_label.text = "Não foi possível concluir a consulta"
+            self.notes_label.text = ""
         else:
             self.notes_label.text = ""

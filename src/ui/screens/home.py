@@ -42,12 +42,13 @@ class HomeScreen(MDScreen):
     source_language = StringProperty(PORTUGUESE)
     target_language = StringProperty(KIMBUNDU)
     source_text = StringProperty("")
-    result = ObjectProperty(None)
+    result = ObjectProperty(None, allownone=True)
     is_loading = BooleanProperty(False)
     status_message = StringProperty("")
 
     def __init__(self, **kwargs) -> None:
         super().__init__(**kwargs)
+        self._translation_request = 0
         self._build_ui()
 
     # ------------------------------------------------------------------
@@ -138,9 +139,10 @@ class HomeScreen(MDScreen):
             size_hint_y=None, height=dp(40),
         )
         self.secondary_actions = BoxLayout(
-            orientation="horizontal", spacing=dp(8), size_hint_y=None, height=dp(42),
+            orientation="horizontal", spacing=dp(8), size_hint_y=None, height=dp(52),
         )
         for button in (self.copy_button, self.clear_button, self.save_button):
+            button.height = dp(48)
             self.secondary_actions.add_widget(button)
 
         self.result_card = TranslationCard(result=None)
@@ -148,7 +150,7 @@ class HomeScreen(MDScreen):
         self.result_card.height = dp(194)
         self.status_label = MDLabel(
             text="",
-            size_hint_y=None, height=dp(22), halign="left",
+            size_hint_y=None, height=0, halign="left",
             valign="middle",
             theme_text_color="Secondary", font_style="Body", role="small",
         )
@@ -168,9 +170,9 @@ class HomeScreen(MDScreen):
         content.add_widget(input_card)
         content.add_widget(self.translate_button)
         content.add_widget(self.secondary_actions)
+        content.add_widget(self.status_label)
         content.add_widget(MDLabel(text="RESULTADO", font_style="Label", role="small",
                                    theme_text_color="Secondary", size_hint_y=None, height=dp(18)))
-        content.add_widget(self.status_label)
         content.add_widget(self.result_card)
         scroll.add_widget(content)
         root.add_widget(scroll)
@@ -194,6 +196,7 @@ class HomeScreen(MDScreen):
     def _on_status_message_change(self, instance, value) -> None:
         """Keep the status label in sync with the status message."""
         self.status_label.text = value or ""
+        self.status_label.height = dp(22) if value else 0
 
     def _on_loading_change(self, _instance, value: bool) -> None:
         self.translate_button.disabled = value
@@ -204,6 +207,8 @@ class HomeScreen(MDScreen):
     # ------------------------------------------------------------------
     def on_translate(self, *args) -> None:
         """Translate the current source text."""
+        if self.is_loading:
+            return
         text = self.source_text.strip()
         error = validate_translation_request(
             text, self.source_language, self.target_language
@@ -214,30 +219,38 @@ class HomeScreen(MDScreen):
         self.is_loading = True
         self.status_message = "A consultar o dicionário…"
         self.result = None
-        self._run_translation()
+        self.result_card.update(None)
+        self._translation_request += 1
+        self._run_translation(text, self.source_language, self.target_language, self._translation_request)
 
-    def _run_translation(self, *args) -> None:
+    def _run_translation(self, text: str, source: str, target: str, request_id: int) -> None:
         """Run the translation workflow in the background."""
 
         def worker() -> None:
-            result = self.translation_service.translate(
-                self.source_text, self.source_language, self.target_language
-            )
-            Clock.schedule_once(lambda dt: self._apply_result(result), 0)
+            try:
+                result = self.translation_service.translate(text, source, target)
+            except Exception as exc:  # noqa: BLE001 - always release the loading state
+                result = TranslationResult.error(
+                    text, source, target, f"Falha inesperada na consulta: {exc}",
+                    method="LocalDictionaryProvider",
+                )
+            Clock.schedule_once(lambda _dt: self._apply_result(result, request_id), 0)
 
         thread = threading.Thread(target=worker, daemon=True)
         thread.start()
 
-    def _apply_result(self, result: TranslationResult) -> None:
+    def _apply_result(self, result: TranslationResult, request_id: int = None) -> None:
         """Apply a translation result to the interface."""
+        if request_id is not None and request_id != self._translation_request:
+            return
         self.is_loading = False
         self.result = result
         if result.is_error:
             self.status_message = result.notes[0] if result.notes else "Não foi possível concluir a consulta."
         elif result.is_unsupported:
-            self.status_message = "Sem correspondência no dicionário · texto original mantido"
+            self.status_message = ""
         elif result.is_success:
-            self.status_message = "Consulta concluída · resultado de dicionário"
+            self.status_message = ""
         self.result_card.update(result)
 
     def on_copy(self, *args) -> None:
@@ -269,6 +282,8 @@ class HomeScreen(MDScreen):
 
     def on_clear(self, *args) -> None:
         """Clear the source text and the translation result."""
+        self._translation_request += 1
+        self.is_loading = False
         self.source_text_input.set("")
         self.source_text = ""
         self.result = None

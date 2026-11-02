@@ -40,7 +40,7 @@ class SettingsScreen(MDScreen):
                                 size_hint_y=None, height=dp(38)))
         root.add_widget(hero)
         appearance = MDCard(orientation="vertical", padding=dp(16), spacing=dp(8),
-                            size_hint_y=None, height=dp(156), radius=[dp(20)], elevation=0,
+                            size_hint_y=None, height=dp(168), radius=[dp(20)], elevation=0,
                             md_bg_color=(1, 1, 1, 1))
         appearance.add_widget(MDLabel(text="Aparência", font_style="Title", role="medium",
                                       size_hint_y=None, height=dp(30)))
@@ -55,16 +55,16 @@ class SettingsScreen(MDScreen):
         root.add_widget(appearance)
 
         data_card = MDCard(orientation="vertical", padding=dp(16), spacing=dp(8),
-                           size_hint_y=None, height=dp(188), radius=[dp(20)], elevation=0,
+                           size_hint_y=None, height=dp(232), radius=[dp(20)], elevation=0,
                            md_bg_color=(1, 1, 1, 1))
         data_card.add_widget(MDLabel(text="Os seus dados", font_style="Title", role="medium",
                                      size_hint_y=None, height=dp(30)))
         data_card.add_widget(MDLabel(text="Limpe as consultas ou palavras guardadas neste dispositivo.",
-                                     theme_text_color="Secondary", size_hint_y=None, height=dp(48)))
+                                     theme_text_color="Secondary", size_hint_y=None, height=dp(40)))
         self.clear_history_button = create_mdbutton("Limpar histórico", on_release=self.on_clear_history,
-                                                       style="outlined", size_hint_x=1, size_hint_y=None, height=dp(42))
+                                                       style="outlined", size_hint_x=1, size_hint_y=None, height=dp(48))
         self.clear_favorites_button = create_mdbutton("Limpar favoritos", on_release=self.on_clear_favorites,
-                                                        style="outlined", size_hint_x=1, size_hint_y=None, height=dp(42))
+                                                        style="outlined", size_hint_x=1, size_hint_y=None, height=dp(48))
         data_card.add_widget(self.clear_history_button)
         data_card.add_widget(self.clear_favorites_button)
         root.add_widget(data_card)

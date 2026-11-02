@@ -43,12 +43,15 @@ class TranslationService:
             and result.is_success
             and result.translated_text
         ):
-            self.storage_service.save_history(
-                original_text=result.original_text,
-                translated_text=result.translated_text,
-                source_language=result.source_language,
-                target_language=result.target_language,
-                provider=result.method,
-                verification_status=result.verification_status,
-            )
+            try:
+                self.storage_service.save_history(
+                    original_text=result.original_text,
+                    translated_text=result.translated_text,
+                    source_language=result.source_language,
+                    target_language=result.target_language,
+                    provider=result.method,
+                    verification_status=result.verification_status,
+                )
+            except Exception as exc:  # noqa: BLE001 - persistence must not hide a translation
+                result.notes.append(f"Tradução concluída, mas o histórico não foi guardado: {exc}")
         return result

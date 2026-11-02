@@ -1,5 +1,6 @@
 """Storage service: persistence workflows for history, favorites and settings."""
 
+import sqlite3
 from typing import Any, Dict, List, Optional
 
 from src.database import db
@@ -17,6 +18,7 @@ class StorageService:
             from src.database import db as db_module
 
             db_module.DATABASE_PATH = db_module.Path(database_path)
+        self.database_path = db.DATABASE_PATH
         db.initialize_database()
         self.connection = db.get_connection()
         self.history_repository = HistoryRepository(self.connection)
@@ -44,7 +46,14 @@ class StorageService:
             provider=provider,
             verification_status=verification_status,
         )
-        return self.history_repository.save(entry)
+        # Translation requests run in worker threads. Give each write its own
+        # connection because sqlite3 connections belong to their creating thread.
+        connection = sqlite3.connect(str(self.database_path), timeout=10)
+        connection.row_factory = sqlite3.Row
+        try:
+            return HistoryRepository(connection).save(entry)
+        finally:
+            connection.close()
 
     def get_history(self, limit: int = 100) -> List[HistoryEntry]:
         """Return the most recent translation history entries."""

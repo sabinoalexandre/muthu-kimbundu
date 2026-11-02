@@ -73,7 +73,7 @@ class FavoritesScreen(MDScreen):
                                                       size_hint_y=None, height=dp(72), halign="center"))
             return
         for favorite in visible:
-            card = MDCard(orientation="vertical", size_hint_y=None, height=dp(112),
+            card = MDCard(orientation="vertical", size_hint_y=None, height=dp(132),
                           padding=dp(14), spacing=dp(5), radius=[dp(19)], elevation=0,
                           md_bg_color=(1, 1, 1, 1))
             card.add_widget(MDLabel(text=favorite.original_text, bold=True,
