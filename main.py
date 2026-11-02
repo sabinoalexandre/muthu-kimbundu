@@ -78,6 +78,9 @@ class MuthuApp(MDApp):
 
     def build(self):
         """Build the application navigation structure."""
+        # Avoid a black strip showing through any transparent area below the
+        # bottom navigation bar, especially on mobile devices with insets.
+        Window.clearcolor = (1, 1, 1, 1)
         self.theme_cls.primary_palette = "LightBlue"
         self.theme_cls.primary_hue = "800"
         self.theme_cls.theme_style = "Light"
