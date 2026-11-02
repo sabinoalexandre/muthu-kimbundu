@@ -147,7 +147,7 @@ class HomeScreen(MDScreen):
 
         self.result_card = TranslationCard(result=None)
         self.result_card.size_hint_y = None
-        self.result_card.height = dp(194)
+        self.result_card.height = dp(130)
         self.status_label = MDLabel(
             text="",
             size_hint_y=None, height=0, halign="left",

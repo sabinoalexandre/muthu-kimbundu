@@ -19,15 +19,8 @@ class TranslationCard(MDCard):
         self.result = result
         self.radius = [dp(18)]
         self.elevation = 1
-        self.headline = MDLabel(
-            text="Resultado da consulta",
-            size_hint_y=None,
-            height=dp(30),
-            halign="left",
-            valign="middle",
-        )
         self.translated_text_label = MDLabel(
-            text="A tradução aparecerá aqui.",
+            text="",
             size_hint_y=None,
             height=dp(60),
             halign="left",
@@ -50,7 +43,6 @@ class TranslationCard(MDCard):
             text_size=(dp(340), dp(80)),
         )
         inner = BoxLayout(orientation="vertical", size_hint_y=1, padding=dp(12), spacing=dp(4))
-        inner.add_widget(self.headline)
         inner.add_widget(self.translated_text_label)
         inner.add_widget(self.status_label)
         inner.add_widget(self.notes_label)
@@ -61,15 +53,14 @@ class TranslationCard(MDCard):
         self.result = result
         self.translated_text_label.text = (
             result.translated_text if result and result.translated_text
-            else "A tradução aparecerá aqui." if result is None else ""
+            else ""
         )
-        self.headline.text = "Resultado da consulta"
         self.status_label.text = get_status_label(result.status) if result else "Aguardando consulta"
         if result is None:
             self.status_label.text = ""
             self.notes_label.text = ""
         elif result.is_unsupported:
-            self.status_label.text = "Não encontrada · texto original mantido"
+            self.status_label.text = ""
             self.notes_label.text = ""
         elif result.is_success:
             self.status_label.text = (
