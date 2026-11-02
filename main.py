@@ -23,6 +23,7 @@ from src.ui.screens.favorites import FavoritesScreen
 from src.ui.screens.history import HistoryScreen
 from src.ui.screens.home import HomeScreen
 from src.ui.screens.settings import SettingsScreen
+from src.ui.widgets.theme import ACCENT_BLUE, PALE_BLUE
 
 NAVIGATION_ITEMS = (
     ("Início", "home", "home-variant"),
@@ -56,8 +57,8 @@ class NavigationItem(ButtonBehavior, BoxLayout):
 
     def set_active(self, active: bool) -> None:
         self.active = active
-        self._bg_color.rgba = (0.88, 0.94, 1.0, 1) if active else (0, 0, 0, 0)
-        color = (0.10, 0.42, 0.70, 1) if active else (0.36, 0.45, 0.55, 1)
+        self._bg_color.rgba = PALE_BLUE if active else (0, 0, 0, 0)
+        color = ACCENT_BLUE if active else (0.32, 0.40, 0.48, 1)
         self.icon_label.text_color = color
         self.text_label.text_color = color
 
@@ -68,7 +69,7 @@ class MuthuApp(MDApp):
     def build(self):
         """Build the application navigation structure."""
         self.theme_cls.primary_palette = "LightBlue"
-        self.theme_cls.primary_hue = "300"
+        self.theme_cls.primary_hue = "800"
         self.theme_cls.theme_style = "Light"
         db.initialize_database()
         settings = AppSettings.from_env()

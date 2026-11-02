@@ -84,7 +84,7 @@ class HomeScreen(MDScreen):
 
         hero = MDCard(orientation="vertical", size_hint_y=None, height=dp(116), padding=dp(18),
                       spacing=dp(5), radius=[dp(22)], elevation=0,
-                      md_bg_color=(0.08, 0.35, 0.61, 1))
+                      md_bg_color=ACCENT_BLUE)
         hero.add_widget(MDLabel(text="PORTUGUÊS  ·  KIMBUNDU", font_style="Label", role="small",
                                 theme_text_color="Custom", text_color=(0.78, 0.88, 1.0, 1),
                                 size_hint_y=None, height=dp(20)))

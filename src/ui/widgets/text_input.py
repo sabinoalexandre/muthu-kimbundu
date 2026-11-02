@@ -21,7 +21,7 @@ class SourceTextInput(BoxLayout):
         self.padding = [dp(12), dp(10), dp(12), dp(6)]
         self.max_length = max_length
         with self.canvas.before:
-            Color(0.92, 0.96, 1.0, 1)
+            Color(0.945, 0.973, 0.996, 1)  # #F1F8FE
             self._background = RoundedRectangle(pos=self.pos, size=self.size, radius=[dp(18)])
         self.bind(pos=self._sync_background, size=self._sync_background)
         self.text_input = KivyTextInput(
@@ -30,7 +30,7 @@ class SourceTextInput(BoxLayout):
             padding=[dp(4), dp(6), dp(4), dp(6)],
             background_color=(0, 0, 0, 0),
             foreground_color=(0.12, 0.17, 0.17, 1),
-            cursor_color=(0.10, 0.42, 0.70, 1),
+            cursor_color=(0.008, 0.467, 0.741, 1),
             hint_text="Escreva uma palavra ou expressão…",
         )
         self.counter = MDLabel(
