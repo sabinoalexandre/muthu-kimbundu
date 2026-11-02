@@ -1,5 +1,6 @@
 """Multi-line text input widget with character counter."""
 
+from kivy.app import App
 from kivy.metrics import dp, sp
 from kivy.graphics import Color, Line, RoundedRectangle
 from kivy.properties import NumericProperty, StringProperty
@@ -7,7 +8,9 @@ from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.textinput import TextInput as KivyTextInput
 from kivymd.uix.label import MDLabel
 
-from src.ui.widgets.theme import ACCENT_BLUE, MUTED, SURFACE
+from src.ui.widgets.theme import (
+    ACCENT_BLUE, DARK_MUTED, DARK_SURFACE, MUTED, SURFACE,
+)
 
 
 class SourceTextInput(BoxLayout):
@@ -59,6 +62,10 @@ class SourceTextInput(BoxLayout):
         self.bind(source_text=self._update_counter, max_length=self._update_counter)
         self.text_input.bind(text=self._on_text)
         self.text_input.bind(focus=self._on_focus)
+        app = App.get_running_app()
+        if app is not None:
+            app.theme_cls.bind(theme_style=self._on_theme_style)
+            self._on_theme_style(app.theme_cls, app.theme_cls.theme_style)
 
     def _sync_background(self, *_args) -> None:
         self._background.pos = self.pos
@@ -67,8 +74,23 @@ class SourceTextInput(BoxLayout):
 
     def _on_focus(self, _instance, focused: bool) -> None:
         """Highlight the writing surface when it is ready for input."""
-        self._border_color.rgba = ACCENT_BLUE if focused else (0.84, 0.91, 0.97, 1)
+        app = App.get_running_app()
+        is_dark = app is not None and app.theme_cls.theme_style == "Dark"
+        if focused:
+            self._border_color.rgba = (0.48, 0.76, 0.95, 1) if is_dark else ACCENT_BLUE
+        else:
+            self._border_color.rgba = (0.23, 0.33, 0.43, 1) if is_dark else (0.84, 0.91, 0.97, 1)
         self._border.width = dp(1.5) if focused else dp(1)
+
+    def _on_theme_style(self, _theme, style: str) -> None:
+        """Keep the editor, caret and counter readable in either appearance."""
+        is_dark = style == "Dark"
+        self._background_color.rgba = DARK_SURFACE if is_dark else SURFACE
+        self.text_input.foreground_color = (0.91, 0.94, 0.98, 1) if is_dark else (0.12, 0.17, 0.23, 1)
+        self.text_input.hint_text_color = (0.62, 0.71, 0.81, 1) if is_dark else (0.43, 0.53, 0.63, 1)
+        self.text_input.cursor_color = (0.48, 0.76, 0.95, 1) if is_dark else ACCENT_BLUE
+        self.counter.text_color = DARK_MUTED if is_dark else MUTED
+        self._on_focus(self.text_input, self.text_input.focus)
 
     def _on_text(self, instance, value) -> None:
         """Keep the bound property and the character counter in sync."""

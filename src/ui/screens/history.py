@@ -10,7 +10,10 @@ from kivymd.uix.screen import MDScreen
 from kivymd.uix.textfield import MDTextField
 
 from src.services.storage_service import StorageService
-from src.ui.widgets.theme import ACCENT_BLUE, apply_page_background
+from src.ui.widgets.theme import (
+    ACCENT_BLUE, DARK_ACCENT_BLUE, DARK_SURFACE, SURFACE,
+    apply_page_background, bind_theme_color,
+)
 
 
 class HistoryScreen(MDScreen):
@@ -29,6 +32,7 @@ class HistoryScreen(MDScreen):
         apply_page_background(root)
         header = MDCard(orientation="horizontal", size_hint_y=None, height=dp(100), padding=dp(16),
                         radius=[dp(22)], elevation=0, md_bg_color=ACCENT_BLUE)
+        bind_theme_color(header, "md_bg_color", ACCENT_BLUE, DARK_ACCENT_BLUE)
         title_stack = BoxLayout(orientation="vertical", spacing=dp(3))
         title_stack.add_widget(MDLabel(text="AS SUAS CONSULTAS", font_style="Label", role="small",
                                        theme_text_color="Custom", text_color=(0.80, 0.90, 1.0, 1),
@@ -43,6 +47,7 @@ class HistoryScreen(MDScreen):
         root.add_widget(header)
         search_card = MDCard(padding=[dp(12), dp(6)], size_hint_y=None, height=dp(70),
                              radius=[dp(19)], elevation=0, md_bg_color=(1, 1, 1, 1))
+        bind_theme_color(search_card, "md_bg_color", SURFACE, DARK_SURFACE)
         self.search_field = MDTextField(hint_text="Pesquisar histórico", mode="outlined",
                                         size_hint_y=None, height=dp(56))
         self.search_field.bind(text=lambda *_: self._rebuild_rows())
@@ -82,6 +87,7 @@ class HistoryScreen(MDScreen):
             card = MDCard(orientation="vertical", size_hint_y=None, height=dp(142),
                           padding=dp(14), spacing=dp(5), radius=[dp(19)], elevation=0,
                           md_bg_color=(1, 1, 1, 1))
+            bind_theme_color(card, "md_bg_color", SURFACE, DARK_SURFACE)
             card.add_widget(MDLabel(text=entry.original_text, bold=True,
                                     size_hint_y=None, height=dp(28), shorten=True))
             card.add_widget(MDLabel(text=entry.translated_text, size_hint_y=None,

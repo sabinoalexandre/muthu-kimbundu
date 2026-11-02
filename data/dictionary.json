@@ -1,12 +1,14 @@
 {
-  "version": 2,
+  "version": 3,
   "entries": [
     {
       "id": 1,
       "kimbundu_term": "Éme",
       "portuguese_translation": "eu",
       "definition": "Pronome pessoal de primeira pessoa do singular.",
-      "alternative_meanings": ["a minha pessoa"],
+      "alternative_meanings": [
+        "a minha pessoa"
+      ],
       "examples": [],
       "grammatical_category": "pronome",
       "regional_variation": null,
@@ -19,7 +21,10 @@
       "kimbundu_term": "Éme",
       "portuguese_translation": "aqui estou",
       "definition": "Interjeição de presença; equivalência registada na fonte.",
-      "alternative_meanings": ["presente", "eis-me aqui"],
+      "alternative_meanings": [
+        "presente",
+        "eis-me aqui"
+      ],
       "examples": [],
       "grammatical_category": "interjeição",
       "regional_variation": null,
@@ -32,7 +37,10 @@
       "kimbundu_term": "Éme",
       "portuguese_translation": "eis-me aqui",
       "definition": "Interjeição de presença; equivalência registada na fonte.",
-      "alternative_meanings": ["presente", "aqui estou"],
+      "alternative_meanings": [
+        "presente",
+        "aqui estou"
+      ],
       "examples": [],
       "grammatical_category": "interjeição",
       "regional_variation": null,
@@ -45,7 +53,10 @@
       "kimbundu_term": "Eye",
       "portuguese_translation": "tu",
       "definition": "Pronome pessoal de segunda pessoa do singular.",
-      "alternative_meanings": ["você", "a tua pessoa"],
+      "alternative_meanings": [
+        "você",
+        "a tua pessoa"
+      ],
       "examples": [],
       "grammatical_category": "pronome",
       "regional_variation": null,
@@ -58,7 +69,9 @@
       "kimbundu_term": "Eye",
       "portuguese_translation": "você",
       "definition": "Forma de tratamento da segunda pessoa.",
-      "alternative_meanings": ["tu"],
+      "alternative_meanings": [
+        "tu"
+      ],
       "examples": [],
       "grammatical_category": "pronome",
       "regional_variation": null,
@@ -71,7 +84,9 @@
       "kimbundu_term": "Eye",
       "portuguese_translation": "olá",
       "definition": "Interjeição usada para chamar alguém.",
-      "alternative_meanings": ["ó tu"],
+      "alternative_meanings": [
+        "ó tu"
+      ],
       "examples": [],
       "grammatical_category": "interjeição",
       "regional_variation": null,
@@ -84,7 +99,11 @@
       "kimbundu_term": "Muthu",
       "portuguese_translation": "pessoa",
       "definition": "Pessoa; ser ou criatura.",
-      "alternative_meanings": ["gente", "ser", "criatura"],
+      "alternative_meanings": [
+        "gente",
+        "ser",
+        "criatura"
+      ],
       "examples": [],
       "grammatical_category": "substantivo",
       "regional_variation": null,
@@ -97,7 +116,11 @@
       "kimbundu_term": "Muthu",
       "portuguese_translation": "gente",
       "definition": "Pessoa; ser ou criatura.",
-      "alternative_meanings": ["pessoa", "ser", "criatura"],
+      "alternative_meanings": [
+        "pessoa",
+        "ser",
+        "criatura"
+      ],
       "examples": [],
       "grammatical_category": "substantivo",
       "regional_variation": null,
@@ -110,7 +133,11 @@
       "kimbundu_term": "Athu",
       "portuguese_translation": "pessoas",
       "definition": "Conjunto de pessoas; gente.",
-      "alternative_meanings": ["multidão", "povo", "família"],
+      "alternative_meanings": [
+        "multidão",
+        "povo",
+        "família"
+      ],
       "examples": [],
       "grammatical_category": "substantivo plural",
       "regional_variation": null,
@@ -123,7 +150,11 @@
       "kimbundu_term": "Athu",
       "portuguese_translation": "multidão",
       "definition": "Conjunto de pessoas; gente.",
-      "alternative_meanings": ["pessoas", "povo", "família"],
+      "alternative_meanings": [
+        "pessoas",
+        "povo",
+        "família"
+      ],
       "examples": [],
       "grammatical_category": "substantivo plural",
       "regional_variation": null,
@@ -136,7 +167,11 @@
       "kimbundu_term": "Kima",
       "portuguese_translation": "coisa",
       "definition": "Coisa; aquilo que ocupa espaço ou é tema do discurso.",
-      "alternative_meanings": ["facto", "ação", "indivíduo"],
+      "alternative_meanings": [
+        "facto",
+        "ação",
+        "indivíduo"
+      ],
       "examples": [],
       "grammatical_category": "substantivo",
       "regional_variation": null,
@@ -149,7 +184,10 @@
       "kimbundu_term": "Kima",
       "portuguese_translation": "facto",
       "definition": "Facto; ação feita ou por fazer.",
-      "alternative_meanings": ["coisa", "ação"],
+      "alternative_meanings": [
+        "coisa",
+        "ação"
+      ],
       "examples": [],
       "grammatical_category": "substantivo",
       "regional_variation": null,
@@ -162,7 +200,9 @@
       "kimbundu_term": "Mukútu",
       "portuguese_translation": "corpo",
       "definition": "Corpo; parte exterior ou visível.",
-      "alternative_meanings": ["exterioridade"],
+      "alternative_meanings": [
+        "exterioridade"
+      ],
       "examples": [],
       "grammatical_category": "substantivo",
       "regional_variation": null,
@@ -175,8 +215,14 @@
       "kimbundu_term": "Mênya",
       "portuguese_translation": "água",
       "definition": "Água; lugar por onde a água corre ou alaga; mar.",
-      "alternative_meanings": ["líquido", "lágrimas", "seiva"],
-      "examples": ["mênha ma Kalunga"],
+      "alternative_meanings": [
+        "líquido",
+        "lágrimas",
+        "seiva"
+      ],
+      "examples": [
+        "mênha ma Kalunga"
+      ],
       "grammatical_category": "substantivo",
       "regional_variation": null,
       "verification_status": "unverified",
@@ -188,8 +234,12 @@
       "kimbundu_term": "Mênya",
       "portuguese_translation": "água potável",
       "definition": "Água própria para beber; água doce.",
-      "alternative_meanings": ["água doce"],
-      "examples": ["ma tome"],
+      "alternative_meanings": [
+        "água doce"
+      ],
+      "examples": [
+        "ma tome"
+      ],
       "grammatical_category": "substantivo",
       "regional_variation": null,
       "verification_status": "unverified",
@@ -214,7 +264,11 @@
       "kimbundu_term": "Kinyami",
       "portuguese_translation": "amizade",
       "definition": "Sentimento de atração moral; amizade ou amor.",
-      "alternative_meanings": ["amor", "afeição", "simpatia"],
+      "alternative_meanings": [
+        "amor",
+        "afeição",
+        "simpatia"
+      ],
       "examples": [],
       "grammatical_category": "substantivo",
       "regional_variation": null,
@@ -227,7 +281,11 @@
       "kimbundu_term": "Kinyami",
       "portuguese_translation": "amor",
       "definition": "Sentimento de atração moral; amizade ou amor.",
-      "alternative_meanings": ["amizade", "afeição", "simpatia"],
+      "alternative_meanings": [
+        "amizade",
+        "afeição",
+        "simpatia"
+      ],
       "examples": [],
       "grammatical_category": "substantivo",
       "regional_variation": null,
@@ -240,8 +298,12 @@
       "kimbundu_term": "Kitabhu",
       "portuguese_translation": "cântaro",
       "definition": "Recipiente para água.",
-      "alternative_meanings": ["vasilha para água"],
-      "examples": ["kitabu kia menha"],
+      "alternative_meanings": [
+        "vasilha para água"
+      ],
+      "examples": [
+        "kitabu kia menha"
+      ],
       "grammatical_category": "substantivo",
       "regional_variation": null,
       "verification_status": "unverified",
@@ -253,7 +315,9 @@
       "kimbundu_term": "Kínzo",
       "portuguese_translation": "casarão",
       "definition": "Casa grande e deteriorada.",
-      "alternative_meanings": ["grande armazém"],
+      "alternative_meanings": [
+        "grande armazém"
+      ],
       "examples": [],
       "grammatical_category": "substantivo",
       "regional_variation": null,
@@ -266,7 +330,9 @@
       "kimbundu_term": "Kínzo",
       "portuguese_translation": "mercado",
       "definition": "Casa onde se reúnem vendedoras; mercado.",
-      "alternative_meanings": ["casa onde se reúnem vendedoras"],
+      "alternative_meanings": [
+        "casa onde se reúnem vendedoras"
+      ],
       "examples": [],
       "grammatical_category": "substantivo",
       "regional_variation": null,
@@ -279,8 +345,13 @@
       "kimbundu_term": "Bhata",
       "portuguese_translation": "casa",
       "definition": "Casa; domicílio; residência; lar.",
-      "alternative_meanings": ["residência", "lar"],
-      "examples": ["Atula ku bata"],
+      "alternative_meanings": [
+        "residência",
+        "lar"
+      ],
+      "examples": [
+        "Atula ku bata"
+      ],
       "grammatical_category": "substantivo",
       "regional_variation": null,
       "verification_status": "unverified",
@@ -331,8 +402,13 @@
       "kimbundu_term": "Kútanga",
       "portuguese_translation": "ler",
       "definition": "Ler; contar; narrar.",
-      "alternative_meanings": ["contar", "narrar"],
-      "examples": ["kútanga mukanda"],
+      "alternative_meanings": [
+        "contar",
+        "narrar"
+      ],
+      "examples": [
+        "kútanga mukanda"
+      ],
       "grammatical_category": "verbo",
       "regional_variation": null,
       "verification_status": "unverified",
@@ -344,8 +420,15 @@
       "kimbundu_term": "Múkanda",
       "portuguese_translation": "papel escrito",
       "definition": "Epístola ou qualquer papel escrito.",
-      "alternative_meanings": ["mensagem", "jornal", "bilhete", "vale"],
-      "examples": ["kútanga mukanda"],
+      "alternative_meanings": [
+        "mensagem",
+        "jornal",
+        "bilhete",
+        "vale"
+      ],
+      "examples": [
+        "kútanga mukanda"
+      ],
       "grammatical_category": "substantivo",
       "regional_variation": null,
       "verification_status": "unverified",
@@ -357,12 +440,516 @@
       "kimbundu_term": "kútanga mukanda",
       "portuguese_translation": "ler uma carta",
       "definition": "Expressão de exemplo formada por entradas documentadas; tradução literal, pendente de revisão por falante.",
-      "alternative_meanings": ["ler um papel escrito"],
+      "alternative_meanings": [
+        "ler um papel escrito"
+      ],
       "examples": [],
       "grammatical_category": "expressão verbal",
       "regional_variation": null,
       "verification_status": "unverified",
       "source_reference": "Exemplo em Arquivo Kimbundu, Kútanga (p. 242) e Múkanda (p. 305): https://www.kimbundu.org/pt/word/kutanga",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 29,
+      "kimbundu_term": "Mbólo",
+      "portuguese_translation": "pão",
+      "definition": "Bolo ou pão; empréstimo do português registado no dicionário.",
+      "alternative_meanings": [
+        "bolo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Mbólo, Assis Júnior (anos 1940), p. 27 — https://www.kimbundu.org/en/word/mbolo",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 30,
+      "kimbundu_term": "Mbólo",
+      "portuguese_translation": "bolo",
+      "definition": "Bolo ou pão; empréstimo do português registado no dicionário.",
+      "alternative_meanings": [
+        "pão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Mbólo, Assis Júnior (anos 1940), p. 27 — https://www.kimbundu.org/en/word/mbolo",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 31,
+      "kimbundu_term": "Mbiji",
+      "portuguese_translation": "peixe",
+      "definition": "Peixe; tudo o que se pesca.",
+      "alternative_meanings": [
+        "pescado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Mbiji, Assis Júnior (anos 1940), p. 25 — https://www.kimbundu.org/pt/word/mbiji",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 32,
+      "kimbundu_term": "Mbiji",
+      "portuguese_translation": "tudo o que se pesca",
+      "definition": "Peixe ou qualquer coisa obtida pela pesca.",
+      "alternative_meanings": [
+        "pescado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Mbiji, Assis Júnior (anos 1940), p. 25 — https://www.kimbundu.org/pt/word/mbiji",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 33,
+      "kimbundu_term": "Jimbiji",
+      "portuguese_translation": "peixes",
+      "definition": "Forma plural de Mbiji, segundo o padrão nominal indicado pela fonte.",
+      "alternative_meanings": [
+        "peixe"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Mbiji e classes nominais — https://www.kimbundu.org/pt/word/mbiji",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 34,
+      "kimbundu_term": "Mbinje",
+      "portuguese_translation": "peixe",
+      "definition": "Grafia fornecida pelo utilizador; a fonte consultada regista Mbiji para peixe.",
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": "Grafia pendente de confirmação",
+      "verification_status": "unverified",
+      "source_reference": "Forma indicada pelo utilizador; referência de comparação: Arquivo Kimbundu, Mbiji — https://www.kimbundu.org/pt/word/mbiji",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 35,
+      "kimbundu_term": "Muxikóte",
+      "portuguese_translation": "pão em forma de rosca",
+      "definition": "Pão em forma de rosca.",
+      "alternative_meanings": [
+        "rosca",
+        "pão de rosca"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Muxikóte, Assis Júnior (anos 1940), p. 329 — https://www.kimbundu.org/en/word/muxikote",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 36,
+      "kimbundu_term": "Muxikóte",
+      "portuguese_translation": "rosca",
+      "definition": "Pão em forma de rosca.",
+      "alternative_meanings": [
+        "pão em forma de rosca"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Muxikóte, Assis Júnior (anos 1940), p. 329 — https://www.kimbundu.org/en/word/muxikote",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 37,
+      "kimbundu_term": "Mixikofe",
+      "portuguese_translation": "quantidade de pães em forma de rosca",
+      "definition": "Quantidade de pães em forma de rosca.",
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Mixikofe, Assis Júnior (anos 1940), p. 294 — https://www.kimbundu.org/en/word/mixikofe",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 38,
+      "kimbundu_term": "Kikuanga",
+      "portuguese_translation": "massa de mandioca cozida em forma de pão",
+      "definition": "Massa geralmente de mandioca cozida em forma de pão.",
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Kikuanga, Assis Júnior (anos 1940), p. 128 — https://www.kimbundu.org/en/word/kikuanga",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 39,
+      "kimbundu_term": "Kikuanga",
+      "portuguese_translation": "angu brasileiro",
+      "definition": "Preparação de mandioca comparada pela fonte ao angu brasileiro.",
+      "alternative_meanings": [
+        "angu"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Kikuanga, Assis Júnior (anos 1940), p. 128 — https://www.kimbundu.org/en/word/kikuanga",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 40,
+      "kimbundu_term": "Mikondo",
+      "portuguese_translation": "bolos secos",
+      "definition": "Bolos secos; cavacas.",
+      "alternative_meanings": [
+        "cavacas",
+        "bolachas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Mikondo, Assis Júnior (anos 1940), p. 289 — https://www.kimbundu.org/en/word/mikondo",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 41,
+      "kimbundu_term": "Mikondo",
+      "portuguese_translation": "bolachas",
+      "definition": "Bolos secos; cavacas.",
+      "alternative_meanings": [
+        "bolos secos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Mikondo, Assis Júnior (anos 1940), p. 289 — https://www.kimbundu.org/en/word/mikondo",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 42,
+      "kimbundu_term": "Kwenda",
+      "portuguese_translation": "andar",
+      "definition": "Andar; percorrer; caminhar; marchar.",
+      "alternative_meanings": [
+        "caminhar",
+        "percorrer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Kwenda, Assis Júnior (anos 1940), p. 178 — https://www.kimbundu.org/pt/word/kwenda",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 43,
+      "kimbundu_term": "Kwenda",
+      "portuguese_translation": "viajar",
+      "definition": "Viajar; andar ou caminhar.",
+      "alternative_meanings": [
+        "caminhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Kwenda, Assis Júnior (anos 1940), p. 178 — https://www.kimbundu.org/pt/word/kwenda",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 44,
+      "kimbundu_term": "Kwiza",
+      "portuguese_translation": "vir",
+      "definition": "Vir; chegar até nós.",
+      "alternative_meanings": [
+        "chegar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Kwiza, Assis Júnior (anos 1940), p. 189 — https://www.kimbundu.org/en/classes/6",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 45,
+      "kimbundu_term": "Kwiza",
+      "portuguese_translation": "chegar até nós",
+      "definition": "Vir; chegar até nós.",
+      "alternative_meanings": [
+        "vir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Kwiza, Assis Júnior (anos 1940), p. 189 — https://www.kimbundu.org/en/classes/6",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 46,
+      "kimbundu_term": "Kúzeka",
+      "portuguese_translation": "dormir",
+      "definition": "Dormir; o dormir.",
+      "alternative_meanings": [
+        "repousar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Kúzeka, Assis Júnior (anos 1940), p. 264 — https://www.kimbundu.org/pt/word/kuzeka",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 47,
+      "kimbundu_term": "Kuzola",
+      "portuguese_translation": "amar",
+      "definition": "Verbo amar, segundo o vocabulário citado na lição do infinitivo.",
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Aprender Kimbundu, O infinitivo: ku-, com base em Chatelain (1889) — https://www.kimbundu.org/pt/learn/the-infinitive",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 48,
+      "kimbundu_term": "Kulonga",
+      "portuguese_translation": "ensinar",
+      "definition": "Ensinar; educar.",
+      "alternative_meanings": [
+        "educar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Aprender Kimbundu, O infinitivo: ku-, com base em Chatelain (1889) — https://www.kimbundu.org/pt/learn/the-infinitive",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 49,
+      "kimbundu_term": "Kulonga",
+      "portuguese_translation": "educar",
+      "definition": "Ensinar; educar.",
+      "alternative_meanings": [
+        "ensinar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Aprender Kimbundu, O infinitivo: ku-, com base em Chatelain (1889) — https://www.kimbundu.org/pt/learn/the-infinitive",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 50,
+      "kimbundu_term": "Kutala",
+      "portuguese_translation": "olhar",
+      "definition": "Verbo registado na unidade sobre as ordens: olhar.",
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Aprender Kimbundu, As ordens, com base em Chatelain (1889) — https://www.kimbundu.org/pt/learn/commands",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 51,
+      "kimbundu_term": "Kusota",
+      "portuguese_translation": "procurar",
+      "definition": "Verbo registado na unidade sobre as ordens: procurar.",
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Aprender Kimbundu, As ordens, com base em Chatelain (1889) — https://www.kimbundu.org/pt/learn/commands",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 52,
+      "kimbundu_term": "Kutuma",
+      "portuguese_translation": "mandar",
+      "definition": "Verbo registado na unidade sobre as ordens: mandar.",
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Aprender Kimbundu, As ordens, com base em Chatelain (1889) — https://www.kimbundu.org/pt/learn/commands",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 53,
+      "kimbundu_term": "Kubheka",
+      "portuguese_translation": "trazer",
+      "definition": "Verbo registado na unidade sobre as ordens: trazer.",
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Aprender Kimbundu, As ordens, com base em Chatelain (1889) — https://www.kimbundu.org/pt/learn/commands",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 54,
+      "kimbundu_term": "Kufuta",
+      "portuguese_translation": "pagar",
+      "definition": "Verbo registado na unidade sobre as ordens: pagar.",
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Aprender Kimbundu, As ordens, com base em Chatelain (1889) — https://www.kimbundu.org/pt/learn/commands",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 55,
+      "kimbundu_term": "Kubanga",
+      "portuguese_translation": "fazer",
+      "definition": "Verbo registado na unidade sobre as ordens: fazer.",
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Aprender Kimbundu, As ordens, com base em Chatelain (1889) — https://www.kimbundu.org/pt/learn/commands",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 56,
+      "kimbundu_term": "Múkaji",
+      "portuguese_translation": "mulher",
+      "definition": "Mulher; esposa.",
+      "alternative_meanings": [
+        "esposa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Múkaji, Assis Júnior (anos 1940), p. 304 — https://www.kimbundu.org/en/word/mukaji",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 57,
+      "kimbundu_term": "Múkaji",
+      "portuguese_translation": "esposa",
+      "definition": "Mulher; esposa.",
+      "alternative_meanings": [
+        "mulher"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Múkaji, Assis Júnior (anos 1940), p. 304 — https://www.kimbundu.org/en/word/mukaji",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 58,
+      "kimbundu_term": "Mulóngi",
+      "portuguese_translation": "professor",
+      "definition": "Professor; educador.",
+      "alternative_meanings": [
+        "educador"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Mulóngi, Assis Júnior (anos 1940), p. 312 — https://www.kimbundu.org/en/word/mulongi",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 59,
+      "kimbundu_term": "Mulóngi",
+      "portuguese_translation": "educador",
+      "definition": "Professor; educador.",
+      "alternative_meanings": [
+        "professor"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Mulóngi, Assis Júnior (anos 1940), p. 312 — https://www.kimbundu.org/en/word/mulongi",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 60,
+      "kimbundu_term": "Mukwetu",
+      "portuguese_translation": "companheiro",
+      "definition": "Pessoa que acompanha; companheiro.",
+      "alternative_meanings": [
+        "companheira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Aprender Kimbundu, Palavras para pessoas, Chatelain (1889) — https://www.kimbundu.org/pt/learn/words-for-people",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 61,
+      "kimbundu_term": "Mukaji a mukongo",
+      "portuguese_translation": "a mulher do caçador",
+      "definition": "Expressão de posse documentada na lição de genitivo.",
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "expressão nominal",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Aprender Kimbundu, A posse: a arma do caçador, Chatelain (1889) — https://www.kimbundu.org/pt/learn/possession",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 62,
+      "kimbundu_term": "mulume a muhatu",
+      "portuguese_translation": "o marido da mulher",
+      "definition": "Expressão de posse documentada na lição de genitivo.",
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "expressão nominal",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Aprender Kimbundu, A posse: a arma do caçador, Chatelain (1889) — https://www.kimbundu.org/pt/learn/possession",
+      "timestamp": "2026-11-02T00:00:00"
+    },
+    {
+      "id": 63,
+      "kimbundu_term": "tala muthu",
+      "portuguese_translation": "olha um homem",
+      "definition": "Exemplo de ordem documentado na lição sobre imperativos.",
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "expressão verbal",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Aprender Kimbundu, As ordens, Chatelain (1889) — https://www.kimbundu.org/pt/learn/commands",
       "timestamp": "2026-11-02T00:00:00"
     }
   ]

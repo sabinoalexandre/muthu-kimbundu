@@ -23,7 +23,10 @@ from src.ui.screens.favorites import FavoritesScreen
 from src.ui.screens.history import HistoryScreen
 from src.ui.screens.home import HomeScreen
 from src.ui.screens.settings import SettingsScreen
-from src.ui.widgets.theme import ACCENT_BLUE, PALE_BLUE
+from src.ui.widgets.theme import (
+    ACCENT_BLUE, DARK_ACCENT_BLUE, DARK_PALE_BLUE, DARK_SURFACE,
+    PALE_BLUE, bind_theme_color,
+)
 
 NAVIGATION_ITEMS = (
     ("Início", "home", "home-variant"),
@@ -57,8 +60,15 @@ class NavigationItem(ButtonBehavior, BoxLayout):
 
     def set_active(self, active: bool) -> None:
         self.active = active
-        self._bg_color.rgba = PALE_BLUE if active else (0, 0, 0, 0)
-        color = ACCENT_BLUE if active else (0.32, 0.40, 0.48, 1)
+        app = MDApp.get_running_app()
+        is_dark = app is not None and app.theme_cls.theme_style == "Dark"
+        self._bg_color.rgba = (
+            (DARK_PALE_BLUE if is_dark else PALE_BLUE)
+            if active else (0, 0, 0, 0)
+        )
+        color = (
+            (0.58, 0.80, 0.96, 1) if is_dark else ACCENT_BLUE
+        ) if active else ((0.67, 0.75, 0.83, 1) if is_dark else (0.32, 0.40, 0.48, 1))
         self.icon_label.text_color = color
         self.text_label.text_color = color
 
@@ -71,6 +81,7 @@ class MuthuApp(MDApp):
         self.theme_cls.primary_palette = "LightBlue"
         self.theme_cls.primary_hue = "800"
         self.theme_cls.theme_style = "Light"
+        self.theme_cls.bind(theme_style=self._sync_theme)
         db.initialize_database()
         settings = AppSettings.from_env()
         dictionary_provider = LocalDictionaryProvider()
@@ -112,6 +123,7 @@ class MuthuApp(MDApp):
             size_hint_y=None, height=dp(76), radius=[dp(22), dp(22), 0, 0],
             elevation=2, padding=[dp(8), dp(6)], md_bg_color=(1, 1, 1, 1),
         )
+        bind_theme_color(self.navigation_bar, "md_bg_color", (1, 1, 1, 1), DARK_SURFACE)
         nav_row = BoxLayout(spacing=dp(3))
         self.navigation_buttons = {}
         for title, route, icon in NAVIGATION_ITEMS:
@@ -123,7 +135,14 @@ class MuthuApp(MDApp):
         shell.add_widget(self.navigation_bar)
         self.screen_manager.bind(current=self._on_screen_change)
         self._on_screen_change(self.screen_manager, self.screen_manager.current)
+        self._sync_theme(self.theme_cls, self.theme_cls.theme_style)
         return shell
+
+    def _sync_theme(self, _theme, style: str) -> None:
+        """Use contrasting light-blue tones for the selected appearance."""
+        self.theme_cls.primary_hue = "200" if style == "Dark" else "800"
+        for route, button in getattr(self, "navigation_buttons", {}).items():
+            button.set_active(route == getattr(self.screen_manager, "current", "home"))
 
     def _on_screen_change(self, instance, route: str) -> None:
         """Refresh list views whenever their navigation tab is opened."""

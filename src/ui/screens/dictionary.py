@@ -13,7 +13,10 @@ from kivymd.uix.textfield import MDTextField
 from src.core.language import KIMBUNDU, PORTUGUESE
 from src.services.dictionary_service import DictionaryService
 from src.ui.widgets.dictionary_entry import DictionaryEntryView
-from src.ui.widgets.theme import ACCENT_BLUE, apply_page_background
+from src.ui.widgets.theme import (
+    ACCENT_BLUE, DARK_ACCENT_BLUE, DARK_SURFACE, SURFACE,
+    apply_page_background, bind_theme_color,
+)
 
 
 class DictionaryScreen(MDScreen):
@@ -32,6 +35,7 @@ class DictionaryScreen(MDScreen):
         apply_page_background(root)
         hero = MDCard(orientation="vertical", size_hint_y=None, height=dp(112), padding=dp(17),
                       spacing=dp(6), radius=[dp(22)], elevation=0, md_bg_color=ACCENT_BLUE)
+        bind_theme_color(hero, "md_bg_color", ACCENT_BLUE, DARK_ACCENT_BLUE)
         hero.add_widget(MDLabel(text="O LÉXICO MUTHU", font_style="Label", role="small",
                                 theme_text_color="Custom", text_color=(0.80, 0.90, 1.0, 1),
                                 size_hint_y=None, height=dp(20)))
@@ -45,6 +49,7 @@ class DictionaryScreen(MDScreen):
 
         search_card = MDCard(padding=[dp(12), dp(6)], size_hint_y=None, height=dp(70),
                              radius=[dp(19)], elevation=0, md_bg_color=(1, 1, 1, 1))
+        bind_theme_color(search_card, "md_bg_color", SURFACE, DARK_SURFACE)
         self.search_field = MDTextField(hint_text="Pesquisar palavra ou expressão", mode="outlined",
                                         size_hint_y=None, height=dp(56))
         self.search_field.bind(text=self._on_search_text)

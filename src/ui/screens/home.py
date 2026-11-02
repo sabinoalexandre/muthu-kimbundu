@@ -21,7 +21,10 @@ from src.ui.widgets.buttons import create_mdbutton
 from src.ui.widgets.language_selector import LanguageSelector
 from src.ui.widgets.text_input import SourceTextInput
 from src.ui.widgets.translation_card import TranslationCard
-from src.ui.widgets.theme import ACCENT_BLUE, apply_page_background
+from src.ui.widgets.theme import (
+    ACCENT_BLUE, DARK_ACCENT_BLUE, DARK_SURFACE, SURFACE,
+    apply_page_background, bind_theme_color,
+)
 
 NAVIGATION_ROUTES = {
     "home": "Home",
@@ -64,6 +67,7 @@ class HomeScreen(MDScreen):
         header = BoxLayout(orientation="horizontal", size_hint_y=None, height=dp(62), spacing=dp(12))
         brand_mark = MDCard(size_hint=(None, None), size=(dp(52), dp(52)), radius=[dp(18)],
                             md_bg_color=ACCENT_BLUE, elevation=0)
+        bind_theme_color(brand_mark, "md_bg_color", ACCENT_BLUE, DARK_ACCENT_BLUE)
         brand_mark.add_widget(MDIcon(icon="translate", halign="center", theme_text_color="Custom",
                                      text_color=(1, 1, 1, 1)))
         header.add_widget(brand_mark)
@@ -85,6 +89,7 @@ class HomeScreen(MDScreen):
         hero = MDCard(orientation="vertical", size_hint_y=None, height=dp(116), padding=dp(18),
                       spacing=dp(5), radius=[dp(22)], elevation=0,
                       md_bg_color=ACCENT_BLUE)
+        bind_theme_color(hero, "md_bg_color", ACCENT_BLUE, DARK_ACCENT_BLUE)
         hero.add_widget(MDLabel(text="PORTUGUÊS  ·  KIMBUNDU", font_style="Label", role="small",
                                 theme_text_color="Custom", text_color=(0.78, 0.88, 1.0, 1),
                                 size_hint_y=None, height=dp(20)))
@@ -159,6 +164,7 @@ class HomeScreen(MDScreen):
         content.add_widget(hero)
         pair_card = MDCard(size_hint_y=None, height=dp(70), padding=[dp(6), dp(5)],
                            radius=[dp(19)], elevation=0, md_bg_color=(1, 1, 1, 1))
+        bind_theme_color(pair_card, "md_bg_color", SURFACE, DARK_SURFACE)
         pair_card.add_widget(self.language_selector)
         content.add_widget(pair_card)
         content.add_widget(MDLabel(text="A SUA MENSAGEM", font_style="Label", role="small",
@@ -166,6 +172,7 @@ class HomeScreen(MDScreen):
         input_card = MDCard(orientation="vertical", padding=dp(9), size_hint_y=None,
                             height=dp(142), radius=[dp(20)], elevation=0,
                             md_bg_color=(1, 1, 1, 1))
+        bind_theme_color(input_card, "md_bg_color", SURFACE, DARK_SURFACE)
         input_card.add_widget(self.source_text_input)
         content.add_widget(input_card)
         content.add_widget(self.translate_button)

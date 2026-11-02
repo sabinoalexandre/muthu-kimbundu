@@ -6,6 +6,7 @@ from kivymd.uix.card import MDCard
 from kivymd.uix.label import MDLabel
 
 from src.database.models import DictionaryEntry
+from src.ui.widgets.theme import DARK_SURFACE, SURFACE, bind_theme_color
 
 
 class DictionaryEntryView(MDCard):
@@ -15,6 +16,7 @@ class DictionaryEntryView(MDCard):
         super().__init__(orientation="vertical", padding=dp(16), spacing=dp(6),
                          size_hint_y=None, radius=[dp(18)], elevation=0,
                          md_bg_color=(1, 1, 1, 1), **kwargs)
+        bind_theme_color(self, "md_bg_color", SURFACE, DARK_SURFACE)
         self.entry = entry
         body = BoxLayout(orientation="vertical", size_hint_y=None, spacing=dp(5))
         body.bind(minimum_height=body.setter("height"))

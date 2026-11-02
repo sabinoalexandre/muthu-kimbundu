@@ -9,7 +9,10 @@ from kivymd.uix.screen import MDScreen
 
 from src.services.storage_service import StorageService
 from src.ui.widgets.buttons import create_mdbutton
-from src.ui.widgets.theme import ACCENT_BLUE, apply_page_background
+from src.ui.widgets.theme import (
+    ACCENT_BLUE, DARK_ACCENT_BLUE, DARK_SURFACE, SURFACE,
+    apply_page_background, bind_theme_color,
+)
 
 
 class SettingsScreen(MDScreen):
@@ -32,6 +35,7 @@ class SettingsScreen(MDScreen):
         apply_page_background(root)
         hero = MDCard(orientation="vertical", size_hint_y=None, height=dp(96), padding=dp(16),
                       spacing=dp(4), radius=[dp(22)], elevation=0, md_bg_color=ACCENT_BLUE)
+        bind_theme_color(hero, "md_bg_color", ACCENT_BLUE, DARK_ACCENT_BLUE)
         hero.add_widget(MDLabel(text="PERSONALIZE A EXPERIÊNCIA", font_style="Label", role="small",
                                 theme_text_color="Custom", text_color=(0.80, 0.90, 1.0, 1),
                                 size_hint_y=None, height=dp(20)))
@@ -42,6 +46,7 @@ class SettingsScreen(MDScreen):
         appearance = MDCard(orientation="vertical", padding=dp(16), spacing=dp(8),
                             size_hint_y=None, height=dp(168), radius=[dp(20)], elevation=0,
                             md_bg_color=(1, 1, 1, 1))
+        bind_theme_color(appearance, "md_bg_color", SURFACE, DARK_SURFACE)
         appearance.add_widget(MDLabel(text="Aparência", font_style="Title", role="medium",
                                       size_hint_y=None, height=dp(30)))
         appearance.add_widget(MDLabel(text="Escolha o tema que prefere.", theme_text_color="Secondary",
@@ -57,6 +62,7 @@ class SettingsScreen(MDScreen):
         data_card = MDCard(orientation="vertical", padding=dp(16), spacing=dp(8),
                            size_hint_y=None, height=dp(232), radius=[dp(20)], elevation=0,
                            md_bg_color=(1, 1, 1, 1))
+        bind_theme_color(data_card, "md_bg_color", SURFACE, DARK_SURFACE)
         data_card.add_widget(MDLabel(text="Os seus dados", font_style="Title", role="medium",
                                      size_hint_y=None, height=dp(30)))
         data_card.add_widget(MDLabel(text="Limpe as consultas ou palavras guardadas neste dispositivo.",
@@ -71,6 +77,7 @@ class SettingsScreen(MDScreen):
 
         info = MDCard(orientation="vertical", padding=dp(16), size_hint_y=None,
                       height=dp(128), radius=[dp(20)], elevation=0, md_bg_color=(1, 1, 1, 1))
+        bind_theme_color(info, "md_bg_color", SURFACE, DARK_SURFACE)
         info.add_widget(MDLabel(text="MUTHU", font_style="Title", role="medium", bold=True,
                                 size_hint_y=None, height=dp(30)))
         info.add_widget(MDLabel(text="Duas línguas. Uma conexão.\nPortuguês ↔ Kimbundu",
