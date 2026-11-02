@@ -56,8 +56,8 @@ class NavigationItem(ButtonBehavior, BoxLayout):
 
     def set_active(self, active: bool) -> None:
         self.active = active
-        self._bg_color.rgba = (0.88, 0.94, 0.92, 1) if active else (0, 0, 0, 0)
-        color = (0.03, 0.36, 0.33, 1) if active else (0.40, 0.48, 0.47, 1)
+        self._bg_color.rgba = (0.88, 0.94, 1.0, 1) if active else (0, 0, 0, 0)
+        color = (0.10, 0.42, 0.70, 1) if active else (0.36, 0.45, 0.55, 1)
         self.icon_label.text_color = color
         self.text_label.text_color = color
 
@@ -67,7 +67,7 @@ class MuthuApp(MDApp):
 
     def build(self):
         """Build the application navigation structure."""
-        self.theme_cls.primary_palette = "Teal"
+        self.theme_cls.primary_palette = "Blue"
         self.theme_cls.primary_hue = "700"
         self.theme_cls.theme_style = "Light"
         db.initialize_database()

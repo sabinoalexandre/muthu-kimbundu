@@ -10,7 +10,7 @@ from kivymd.uix.screen import MDScreen
 from kivymd.uix.textfield import MDTextField
 
 from src.services.storage_service import StorageService
-from src.ui.widgets.theme import TEAL, apply_page_background
+from src.ui.widgets.theme import ACCENT_BLUE, apply_page_background
 
 
 class HistoryScreen(MDScreen):
@@ -28,10 +28,10 @@ class HistoryScreen(MDScreen):
         root = BoxLayout(orientation="vertical", padding=[dp(20), dp(16)], spacing=dp(12))
         apply_page_background(root)
         header = MDCard(orientation="horizontal", size_hint_y=None, height=dp(100), padding=dp(16),
-                        radius=[dp(22)], elevation=0, md_bg_color=TEAL)
+                        radius=[dp(22)], elevation=0, md_bg_color=ACCENT_BLUE)
         title_stack = BoxLayout(orientation="vertical", spacing=dp(3))
         title_stack.add_widget(MDLabel(text="AS SUAS CONSULTAS", font_style="Label", role="small",
-                                       theme_text_color="Custom", text_color=(0.72, 0.88, 0.84, 1),
+                                       theme_text_color="Custom", text_color=(0.80, 0.90, 1.0, 1),
                                        size_hint_y=None, height=dp(20)))
         title_stack.add_widget(MDLabel(text="Histórico", font_style="Headline", role="small", bold=True,
                                        theme_text_color="Custom", text_color=(1, 1, 1, 1),

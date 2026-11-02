@@ -13,7 +13,7 @@ from kivymd.uix.textfield import MDTextField
 from src.core.language import KIMBUNDU, PORTUGUESE
 from src.services.dictionary_service import DictionaryService
 from src.ui.widgets.dictionary_entry import DictionaryEntryView
-from src.ui.widgets.theme import PAGE_BACKGROUND, TEAL, apply_page_background
+from src.ui.widgets.theme import ACCENT_BLUE, apply_page_background
 
 
 class DictionaryScreen(MDScreen):
@@ -31,9 +31,9 @@ class DictionaryScreen(MDScreen):
         root = BoxLayout(orientation="vertical", padding=[dp(18), dp(16)], spacing=dp(12))
         apply_page_background(root)
         hero = MDCard(orientation="vertical", size_hint_y=None, height=dp(112), padding=dp(17),
-                      spacing=dp(6), radius=[dp(22)], elevation=0, md_bg_color=TEAL)
+                      spacing=dp(6), radius=[dp(22)], elevation=0, md_bg_color=ACCENT_BLUE)
         hero.add_widget(MDLabel(text="O LÉXICO MUTHU", font_style="Label", role="small",
-                                theme_text_color="Custom", text_color=(0.72, 0.88, 0.84, 1),
+                                theme_text_color="Custom", text_color=(0.80, 0.90, 1.0, 1),
                                 size_hint_y=None, height=dp(20)))
         hero.add_widget(MDLabel(text="Dicionário", font_style="Headline", role="small", bold=True,
                                 theme_text_color="Custom", text_color=(1, 1, 1, 1),

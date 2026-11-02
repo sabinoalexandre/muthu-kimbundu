@@ -9,7 +9,7 @@ from kivymd.uix.screen import MDScreen
 
 from src.services.storage_service import StorageService
 from src.ui.widgets.buttons import create_mdbutton
-from src.ui.widgets.theme import TEAL, apply_page_background
+from src.ui.widgets.theme import ACCENT_BLUE, apply_page_background
 
 
 class SettingsScreen(MDScreen):
@@ -31,9 +31,9 @@ class SettingsScreen(MDScreen):
         root.bind(minimum_height=root.setter("height"))
         apply_page_background(root)
         hero = MDCard(orientation="vertical", size_hint_y=None, height=dp(96), padding=dp(16),
-                      spacing=dp(4), radius=[dp(22)], elevation=0, md_bg_color=TEAL)
+                      spacing=dp(4), radius=[dp(22)], elevation=0, md_bg_color=ACCENT_BLUE)
         hero.add_widget(MDLabel(text="PERSONALIZE A EXPERIÊNCIA", font_style="Label", role="small",
-                                theme_text_color="Custom", text_color=(0.72, 0.88, 0.84, 1),
+                                theme_text_color="Custom", text_color=(0.80, 0.90, 1.0, 1),
                                 size_hint_y=None, height=dp(20)))
         hero.add_widget(MDLabel(text="Ajustes", font_style="Headline", role="small", bold=True,
                                 theme_text_color="Custom", text_color=(1, 1, 1, 1),

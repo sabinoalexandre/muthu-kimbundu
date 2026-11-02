@@ -21,7 +21,7 @@ from src.ui.widgets.buttons import create_mdbutton
 from src.ui.widgets.language_selector import LanguageSelector
 from src.ui.widgets.text_input import SourceTextInput
 from src.ui.widgets.translation_card import TranslationCard
-from src.ui.widgets.theme import apply_page_background
+from src.ui.widgets.theme import ACCENT_BLUE, apply_page_background
 
 NAVIGATION_ROUTES = {
     "home": "Home",
@@ -62,7 +62,7 @@ class HomeScreen(MDScreen):
 
         header = BoxLayout(orientation="horizontal", size_hint_y=None, height=dp(62), spacing=dp(12))
         brand_mark = MDCard(size_hint=(None, None), size=(dp(52), dp(52)), radius=[dp(18)],
-                            md_bg_color=(0.03, 0.36, 0.33, 1), elevation=0)
+                            md_bg_color=ACCENT_BLUE, elevation=0)
         brand_mark.add_widget(MDIcon(icon="translate", halign="center", theme_text_color="Custom",
                                      text_color=(1, 1, 1, 1)))
         header.add_widget(brand_mark)
@@ -83,15 +83,15 @@ class HomeScreen(MDScreen):
 
         hero = MDCard(orientation="vertical", size_hint_y=None, height=dp(116), padding=dp(18),
                       spacing=dp(5), radius=[dp(22)], elevation=0,
-                      md_bg_color=(0.03, 0.30, 0.28, 1))
+                      md_bg_color=(0.08, 0.35, 0.61, 1))
         hero.add_widget(MDLabel(text="PORTUGUÊS  ·  KIMBUNDU", font_style="Label", role="small",
-                                theme_text_color="Custom", text_color=(0.69, 0.87, 0.82, 1),
+                                theme_text_color="Custom", text_color=(0.78, 0.88, 1.0, 1),
                                 size_hint_y=None, height=dp(20)))
         hero.add_widget(MDLabel(text="Palavras que criam pontes.", font_style="Headline",
                                 role="small", bold=True, theme_text_color="Custom",
                                 text_color=(1, 1, 1, 1), size_hint_y=None, height=dp(34)))
         hero.add_widget(MDLabel(text="Uma consulta de cada vez, com respeito pela língua.",
-                                theme_text_color="Custom", text_color=(0.84, 0.92, 0.89, 1),
+                                theme_text_color="Custom", text_color=(0.88, 0.94, 1.0, 1),
                                 size_hint_y=None, height=dp(24)))
 
         self.language_selector = LanguageSelector(

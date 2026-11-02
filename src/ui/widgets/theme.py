@@ -2,10 +2,11 @@
 
 from kivy.graphics import Color, Rectangle
 
-PAGE_BACKGROUND = (0.95, 0.97, 0.96, 1)
+PAGE_BACKGROUND = (0.95, 0.98, 1.0, 1)
 SURFACE = (1, 1, 1, 1)
-TEAL = (0.03, 0.36, 0.33, 1)
-MUTED = (0.38, 0.47, 0.46, 1)
+ACCENT_BLUE = (0.10, 0.42, 0.70, 1)
+PALE_BLUE = (0.88, 0.94, 1.0, 1)
+MUTED = (0.36, 0.45, 0.55, 1)
 
 
 def apply_page_background(widget, color=PAGE_BACKGROUND):
