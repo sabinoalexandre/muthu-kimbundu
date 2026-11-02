@@ -119,24 +119,23 @@ class HomeScreen(MDScreen):
             on_release=self.on_translate,
             style="filled", size_hint_x=1,
             size_hint_y=None, height=dp(54),
-            icon="translate",
         )
         self.copy_button = create_mdbutton(
             "Copiar",
             on_release=self.on_copy,
-            style="tonal", size_hint_x=1,
+            style="outlined", size_hint_x=len("Copiar"),
             size_hint_y=None, height=dp(40),
         )
         self.clear_button = create_mdbutton(
             "Limpar",
             on_release=self.on_clear,
-            style="tonal", size_hint_x=1,
+            style="outlined", size_hint_x=len("Limpar"),
             size_hint_y=None, height=dp(40),
         )
         self.save_button = create_mdbutton(
             "Guardar",
             on_release=self.on_save,
-            style="tonal", size_hint_x=1,
+            style="outlined", size_hint_x=len("Guardar"),
             size_hint_y=None, height=dp(40),
         )
         self.secondary_actions = BoxLayout(
