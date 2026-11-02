@@ -36,13 +36,13 @@ class LanguageSelector(BoxLayout):
             _language_label(source_language),
             on_release=self.open_source_dialog,
             size_hint_x=1,
-            style="outlined",
+            style="tonal",
         )
         self.target_button = create_mdbutton(
             _language_label(target_language),
             on_release=self.open_target_dialog,
             size_hint_x=1,
-            style="outlined",
+            style="tonal",
         )
         self.swap_button = MDIconButton(
             icon="swap-horizontal", on_release=self._swap,
