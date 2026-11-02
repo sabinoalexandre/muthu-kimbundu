@@ -4,6 +4,8 @@ from kivy.metrics import dp
 from kivy.properties import ListProperty
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.scrollview import ScrollView
+from kivymd.uix.card import MDCard
+from kivymd.uix.label import MDIcon
 from kivymd.uix.label import MDLabel
 from kivymd.uix.screen import MDScreen
 from kivymd.uix.textfield import MDTextField
@@ -11,6 +13,7 @@ from kivymd.uix.textfield import MDTextField
 from src.core.language import KIMBUNDU, PORTUGUESE
 from src.services.dictionary_service import DictionaryService
 from src.ui.widgets.dictionary_entry import DictionaryEntryView
+from src.ui.widgets.theme import PAGE_BACKGROUND, TEAL, apply_page_background
 
 
 class DictionaryScreen(MDScreen):
@@ -25,25 +28,32 @@ class DictionaryScreen(MDScreen):
         self._build_ui()
 
     def _build_ui(self) -> None:
-        root = BoxLayout(orientation="vertical", padding=[dp(20), dp(16)], spacing=dp(14))
-        root.add_widget(MDLabel(
-            text="Dicionário", font_style="Headline", role="small", bold=True,
-            size_hint_y=None, height=dp(42),
-        ))
-        root.add_widget(MDLabel(
-            text="Explore palavras e expressões nas duas línguas.",
-            theme_text_color="Secondary", size_hint_y=None, height=dp(28),
-        ))
+        root = BoxLayout(orientation="vertical", padding=[dp(18), dp(16)], spacing=dp(12))
+        apply_page_background(root)
+        hero = MDCard(orientation="vertical", size_hint_y=None, height=dp(112), padding=dp(17),
+                      spacing=dp(6), radius=[dp(22)], elevation=0, md_bg_color=TEAL)
+        hero.add_widget(MDLabel(text="O LÉXICO MUTHU", font_style="Label", role="small",
+                                theme_text_color="Custom", text_color=(0.72, 0.88, 0.84, 1),
+                                size_hint_y=None, height=dp(20)))
+        hero.add_widget(MDLabel(text="Dicionário", font_style="Headline", role="small", bold=True,
+                                theme_text_color="Custom", text_color=(1, 1, 1, 1),
+                                size_hint_y=None, height=dp(36)))
+        hero.add_widget(MDLabel(text="Palavras e expressões em duas direções.",
+                                theme_text_color="Custom", text_color=(0.86, 0.93, 0.91, 1),
+                                size_hint_y=None, height=dp(22)))
+        root.add_widget(hero)
 
-        self.search_field = MDTextField(
-            hint_text="Pesquisar palavra ou expressão", mode="outlined",
-            size_hint_y=None, height=dp(56),
-        )
+        search_card = MDCard(padding=[dp(12), dp(6)], size_hint_y=None, height=dp(70),
+                             radius=[dp(19)], elevation=0, md_bg_color=(1, 1, 1, 1))
+        self.search_field = MDTextField(hint_text="Pesquisar palavra ou expressão", mode="outlined",
+                                        size_hint_y=None, height=dp(56))
         self.search_field.bind(text=self._on_search_text)
-        root.add_widget(self.search_field)
+        search_card.add_widget(self.search_field)
+        root.add_widget(search_card)
         self.direction_label = MDLabel(
-            text="Português ↔ Kimbundu · resultados do dicionário local",
-            theme_text_color="Secondary", size_hint_y=None, height=dp(36),
+            text="PORTUGUÊS  ↔  KIMBUNDU  ·  DICIONÁRIO LOCAL",
+            theme_text_color="Secondary", font_style="Label", role="small",
+            size_hint_y=None, height=dp(24),
         )
         root.add_widget(self.direction_label)
 

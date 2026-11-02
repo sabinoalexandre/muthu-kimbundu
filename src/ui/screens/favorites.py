@@ -11,6 +11,7 @@ from kivymd.uix.screen import MDScreen
 from kivymd.uix.textfield import MDTextField
 
 from src.services.storage_service import StorageService
+from src.ui.widgets.theme import TEAL, apply_page_background
 
 
 class FavoritesScreen(MDScreen):
@@ -26,14 +27,25 @@ class FavoritesScreen(MDScreen):
 
     def _build_ui(self) -> None:
         root = BoxLayout(orientation="vertical", padding=[dp(20), dp(16)], spacing=dp(12))
-        root.add_widget(MDLabel(text="Guardados", font_style="Headline", role="small", bold=True,
-                                size_hint_y=None, height=dp(42)))
-        self.search_field = MDTextField(hint_text="Pesquisar favoritos", mode="outlined",
+        apply_page_background(root)
+        hero = MDCard(orientation="vertical", size_hint_y=None, height=dp(100), padding=dp(16),
+                      spacing=dp(4), radius=[dp(22)], elevation=0, md_bg_color=TEAL)
+        hero.add_widget(MDLabel(text="A SUA COLEÇÃO", font_style="Label", role="small",
+                                theme_text_color="Custom", text_color=(0.72, 0.88, 0.84, 1),
+                                size_hint_y=None, height=dp(20)))
+        hero.add_widget(MDLabel(text="Favoritos", font_style="Headline", role="small", bold=True,
+                                theme_text_color="Custom", text_color=(1, 1, 1, 1),
+                                size_hint_y=None, height=dp(38)))
+        root.add_widget(hero)
+        search_card = MDCard(padding=[dp(12), dp(6)], size_hint_y=None, height=dp(70),
+                             radius=[dp(19)], elevation=0, md_bg_color=(1, 1, 1, 1))
+        self.search_field = MDTextField(hint_text="Pesquisar palavras guardadas", mode="outlined",
                                         size_hint_y=None, height=dp(56))
         self.search_field.bind(text=lambda *_: self._rebuild_rows())
-        root.add_widget(self.search_field)
+        search_card.add_widget(self.search_field)
+        root.add_widget(search_card)
         self.count_label = MDLabel(text="As suas palavras favoritas.", theme_text_color="Secondary",
-                                   size_hint_y=None, height=dp(30))
+                                   font_style="Label", role="small", size_hint_y=None, height=dp(24))
         root.add_widget(self.count_label)
         scroll = ScrollView(do_scroll_x=False, bar_width=dp(3))
         self.entries_container = BoxLayout(orientation="vertical", size_hint_y=None,
@@ -62,7 +74,8 @@ class FavoritesScreen(MDScreen):
             return
         for favorite in visible:
             card = MDCard(orientation="vertical", size_hint_y=None, height=dp(112),
-                          padding=dp(14), spacing=dp(5), radius=[dp(16)])
+                          padding=dp(14), spacing=dp(5), radius=[dp(19)], elevation=0,
+                          md_bg_color=(1, 1, 1, 1))
             card.add_widget(MDLabel(text=favorite.original_text, bold=True,
                                     size_hint_y=None, height=dp(28), shorten=True))
             card.add_widget(MDLabel(text=favorite.translated_text, size_hint_y=None,

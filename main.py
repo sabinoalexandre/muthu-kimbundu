@@ -2,11 +2,13 @@
 
 from kivy.metrics import dp
 from kivy.core.window import Window
+from kivy.graphics import Color, RoundedRectangle
+from kivy.uix.behaviors import ButtonBehavior
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.screenmanager import ScreenManager
 from kivymd.app import MDApp
-from kivymd.uix.button import MDButton, MDButtonText
 from kivymd.uix.card import MDCard
+from kivymd.uix.label import MDIcon, MDLabel
 
 from src.config.settings import AppSettings
 from src.core.language import KIMBUNDU, PORTUGUESE
@@ -23,12 +25,41 @@ from src.ui.screens.home import HomeScreen
 from src.ui.screens.settings import SettingsScreen
 
 NAVIGATION_ITEMS = (
-    ("Início", "home", "home-outline"),
-    ("Léxico", "dictionary", "book-open-variant"),
-    ("Hist.", "history", "history"),
-    ("Salvos", "favorites", "heart-outline"),
+    ("Início", "home", "home-variant"),
+    ("Dicionário", "dictionary", "book-open-variant"),
+    ("Histórico", "history", "history"),
+    ("Favoritos", "favorites", "heart-outline"),
     ("Ajustes", "settings", "cog-outline"),
 )
+
+
+class NavigationItem(ButtonBehavior, BoxLayout):
+    """Compact icon and label tab for the mobile navigation bar."""
+
+    def __init__(self, title: str, icon: str, route: str, **kwargs):
+        super().__init__(orientation="vertical", spacing=dp(2), padding=[dp(2), dp(5)], **kwargs)
+        self.route = route
+        self.active = False
+        self.icon_label = MDIcon(icon=icon, halign="center", size_hint_y=None, height=dp(25))
+        self.text_label = MDLabel(text=title, halign="center", font_style="Label",
+                                  role="small", size_hint_y=None, height=dp(18), shorten=True)
+        self.add_widget(self.icon_label)
+        self.add_widget(self.text_label)
+        with self.canvas.before:
+            self._bg_color = Color(0, 0, 0, 0)
+            self._bg = RoundedRectangle(pos=self.pos, size=self.size, radius=[dp(16)])
+        self.bind(pos=self._sync_bg, size=self._sync_bg)
+
+    def _sync_bg(self, *_args):
+        self._bg.pos = self.pos
+        self._bg.size = self.size
+
+    def set_active(self, active: bool) -> None:
+        self.active = active
+        self._bg_color.rgba = (0.88, 0.94, 0.92, 1) if active else (0, 0, 0, 0)
+        color = (0.03, 0.36, 0.33, 1) if active else (0.40, 0.48, 0.47, 1)
+        self.icon_label.text_color = color
+        self.text_label.text_color = color
 
 
 class MuthuApp(MDApp):
@@ -38,6 +69,7 @@ class MuthuApp(MDApp):
         """Build the application navigation structure."""
         self.theme_cls.primary_palette = "Teal"
         self.theme_cls.primary_hue = "700"
+        self.theme_cls.theme_style = "Light"
         db.initialize_database()
         settings = AppSettings.from_env()
         dictionary_provider = LocalDictionaryProvider()
@@ -76,15 +108,14 @@ class MuthuApp(MDApp):
         shell = BoxLayout(orientation="vertical")
         shell.add_widget(self.screen_manager)
         self.navigation_bar = MDCard(
-            size_hint_y=None, height=dp(72), radius=[dp(20), dp(20), 0, 0],
-            elevation=2, padding=[dp(4), dp(4)],
+            size_hint_y=None, height=dp(76), radius=[dp(22), dp(22), 0, 0],
+            elevation=2, padding=[dp(8), dp(6)], md_bg_color=(1, 1, 1, 1),
         )
-        nav_row = BoxLayout(spacing=dp(2))
+        nav_row = BoxLayout(spacing=dp(3))
         self.navigation_buttons = {}
         for title, route, icon in NAVIGATION_ITEMS:
-            button = MDButton(style="text", size_hint_x=1)
-            button.add_widget(MDButtonText(text=title))
-            button.bind(on_release=lambda instance, route=route: self._on_drawer_item_release(route))
+            button = NavigationItem(title, icon, route, size_hint_x=1)
+            button.bind(on_release=lambda _button, route=route: self._on_navigation(route))
             self.navigation_buttons[route] = button
             nav_row.add_widget(button)
         self.navigation_bar.add_widget(nav_row)
@@ -96,13 +127,13 @@ class MuthuApp(MDApp):
     def _on_screen_change(self, instance, route: str) -> None:
         """Refresh list views whenever their navigation tab is opened."""
         for key, button in self.navigation_buttons.items():
-            button.style = "filled" if key == route else "text"
+            button.set_active(key == route)
         screen = self.screen_manager.get_screen(route)
         if hasattr(screen, "refresh"):
             screen.refresh()
 
-    def _on_drawer_item_release(self, route: str) -> None:
-        """Open the requested screen from the navigation drawer."""
+    def _on_navigation(self, route: str) -> None:
+        """Open a section from the mobile navigation bar."""
         self.screen_manager.current = route
 
     def on_start(self) -> None:

@@ -13,7 +13,8 @@ class DictionaryEntryView(MDCard):
 
     def __init__(self, entry: DictionaryEntry, **kwargs) -> None:
         super().__init__(orientation="vertical", padding=dp(16), spacing=dp(6),
-                         size_hint_y=None, radius=[dp(16)], **kwargs)
+                         size_hint_y=None, radius=[dp(18)], elevation=0,
+                         md_bg_color=(1, 1, 1, 1), **kwargs)
         self.entry = entry
         body = BoxLayout(orientation="vertical", size_hint_y=None, spacing=dp(5))
         body.bind(minimum_height=body.setter("height"))

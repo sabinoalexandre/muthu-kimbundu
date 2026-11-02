@@ -7,8 +7,8 @@ from kivy.metrics import dp
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.scrollview import ScrollView
 from kivy.properties import BooleanProperty, ObjectProperty, StringProperty
-from kivymd.uix.button import MDIconButton
-from kivymd.uix.label import MDLabel
+from kivymd.uix.card import MDCard
+from kivymd.uix.label import MDIcon, MDLabel
 from kivymd.uix.screen import MDScreen
 
 from src.config.settings import AppSettings
@@ -21,6 +21,7 @@ from src.ui.widgets.buttons import create_mdbutton
 from src.ui.widgets.language_selector import LanguageSelector
 from src.ui.widgets.text_input import SourceTextInput
 from src.ui.widgets.translation_card import TranslationCard
+from src.ui.widgets.theme import apply_page_background
 
 NAVIGATION_ROUTES = {
     "home": "Home",
@@ -54,30 +55,52 @@ class HomeScreen(MDScreen):
     # ------------------------------------------------------------------
     def _build_ui(self) -> None:
         root = BoxLayout(orientation="vertical", size_hint_y=1)
+        apply_page_background(root)
         scroll = ScrollView(do_scroll_x=False, bar_width=dp(3))
-        content = BoxLayout(orientation="vertical", size_hint_y=None, padding=[dp(20), dp(12)], spacing=dp(14))
+        content = BoxLayout(orientation="vertical", size_hint_y=None, padding=[dp(18), dp(12)], spacing=dp(13))
         content.bind(minimum_height=content.setter("height"))
 
-        header = BoxLayout(orientation="vertical", size_hint_y=None, height=dp(82), spacing=dp(2))
+        header = BoxLayout(orientation="horizontal", size_hint_y=None, height=dp(62), spacing=dp(12))
+        brand_mark = MDCard(size_hint=(None, None), size=(dp(52), dp(52)), radius=[dp(18)],
+                            md_bg_color=(0.03, 0.36, 0.33, 1), elevation=0)
+        brand_mark.add_widget(MDIcon(icon="translate", halign="center", theme_text_color="Custom",
+                                     text_color=(1, 1, 1, 1)))
+        header.add_widget(brand_mark)
+        brand_text = BoxLayout(orientation="vertical", spacing=dp(1))
         title = MDLabel(
             text="MUTHU",
-            font_style="Headline", role="medium", bold=True,
-            size_hint_y=None, height=dp(46), halign="left", valign="middle",
+            font_style="Headline", role="small", bold=True,
+            size_hint_y=None, height=dp(34), halign="left", valign="middle",
         )
         subtitle = MDLabel(
             text="Duas línguas. Uma conexão.",
-            size_hint_y=None, height=dp(25), halign="left", valign="middle",
+            size_hint_y=None, height=dp(21), halign="left", valign="middle",
             theme_text_color="Secondary",
         )
-        header.add_widget(title)
-        header.add_widget(subtitle)
+        brand_text.add_widget(title)
+        brand_text.add_widget(subtitle)
+        header.add_widget(brand_text)
+
+        hero = MDCard(orientation="vertical", size_hint_y=None, height=dp(116), padding=dp(18),
+                      spacing=dp(5), radius=[dp(22)], elevation=0,
+                      md_bg_color=(0.03, 0.30, 0.28, 1))
+        hero.add_widget(MDLabel(text="PORTUGUÊS  ·  KIMBUNDU", font_style="Label", role="small",
+                                theme_text_color="Custom", text_color=(0.69, 0.87, 0.82, 1),
+                                size_hint_y=None, height=dp(20)))
+        hero.add_widget(MDLabel(text="Palavras que criam pontes.", font_style="Headline",
+                                role="small", bold=True, theme_text_color="Custom",
+                                text_color=(1, 1, 1, 1), size_hint_y=None, height=dp(34)))
+        hero.add_widget(MDLabel(text="Uma consulta de cada vez, com respeito pela língua.",
+                                theme_text_color="Custom", text_color=(0.84, 0.92, 0.89, 1),
+                                size_hint_y=None, height=dp(24)))
 
         self.language_selector = LanguageSelector(
             source_language=self.source_language,
             target_language=self.target_language,
+            on_swap=self.on_swap,
         )
         self.language_selector.size_hint_y = None
-        self.language_selector.height = dp(56)
+        self.language_selector.height = dp(58)
         self.language_selector.bind(
             source_language=self._on_source_language_change,
             target_language=self._on_target_language_change,
@@ -85,7 +108,7 @@ class HomeScreen(MDScreen):
 
         self.source_text_input = SourceTextInput(max_length=5000)
         self.source_text_input.size_hint_y = None
-        self.source_text_input.height = dp(148)
+        self.source_text_input.height = dp(122)
         self.source_text_input.bind(source_text=self._on_source_text_change)
         self.bind(status_message=self._on_status_message_change)
         self.bind(is_loading=self._on_loading_change)
@@ -93,88 +116,62 @@ class HomeScreen(MDScreen):
         self.translate_button = create_mdbutton(
             "Traduzir",
             on_release=self.on_translate,
-            size_hint_x=None,
-            width=dp(140),
-            size_hint_y=0,
-            height=dp(48),
+            style="filled", size_hint_x=1,
+            size_hint_y=None, height=dp(54),
         )
         self.copy_button = create_mdbutton(
             "Copiar",
             on_release=self.on_copy,
-            size_hint_x=None,
-            width=dp(120),
-            size_hint_y=0,
-            height=dp(48),
+            style="outlined", size_hint_x=1,
+            size_hint_y=None, height=dp(40),
         )
         self.clear_button = create_mdbutton(
             "Limpar",
             on_release=self.on_clear,
-            size_hint_x=None,
-            width=dp(120),
-            size_hint_y=0,
-            height=dp(48),
+            style="outlined", size_hint_x=1,
+            size_hint_y=None, height=dp(40),
         )
         self.save_button = create_mdbutton(
             "Guardar",
             on_release=self.on_save,
-            size_hint_x=None,
-            width=dp(100),
-            size_hint_y=0,
-            height=dp(48),
+            style="outlined", size_hint_x=1,
+            size_hint_y=None, height=dp(40),
         )
-        self.swap_button = MDIconButton(
-            icon="swap-vertical", on_release=self.on_swap,
-            size_hint_x=None, width=dp(48), size_hint_y=None, height=dp(48),
-        )
-        self.action_row = BoxLayout(orientation="horizontal", spacing=dp(6), size_hint_y=None, height=dp(52))
-        self.translate_button.size_hint_x = 1
-        self.translate_button.width = 0
-        self.translate_button.height = dp(48)
-        self.copy_button.size_hint_x = None
-        self.copy_button.width = dp(82)
-        self.copy_button.height = dp(48)
-        self.clear_button.size_hint_x = None
-        self.clear_button.width = dp(82)
-        self.clear_button.height = dp(48)
-        self.save_button.size_hint_x = None
-        self.save_button.width = dp(78)
-        self.save_button.height = dp(48)
-        self.action_row.add_widget(self.swap_button)
-        self.action_row.add_widget(self.translate_button)
-
         self.secondary_actions = BoxLayout(
             orientation="horizontal", spacing=dp(8), size_hint_y=None, height=dp(42),
         )
         for button in (self.copy_button, self.clear_button, self.save_button):
-            button.size_hint_x = 1
-            button.width = 0
-            button.height = dp(40)
             self.secondary_actions.add_widget(button)
-
-        self.favorites_button = create_mdbutton(
-            "Ver favoritos",
-            on_release=self.on_open_favorites,
-            size_hint_x=None,
-            width=dp(160), size_hint_y=None, height=dp(42),
-        )
 
         self.result_card = TranslationCard(result=None)
         self.result_card.size_hint_y = None
-        self.result_card.height = dp(190)
+        self.result_card.height = dp(194)
         self.status_label = MDLabel(
             text="",
-            size_hint_y=None, height=dp(24), halign="left",
+            size_hint_y=None, height=dp(22), halign="left",
             valign="middle",
+            theme_text_color="Secondary", font_style="Body", role="small",
         )
 
         content.add_widget(header)
-        content.add_widget(self.language_selector)
-        content.add_widget(self.source_text_input)
-        content.add_widget(self.action_row)
+        content.add_widget(hero)
+        pair_card = MDCard(size_hint_y=None, height=dp(70), padding=[dp(6), dp(5)],
+                           radius=[dp(19)], elevation=0, md_bg_color=(1, 1, 1, 1))
+        pair_card.add_widget(self.language_selector)
+        content.add_widget(pair_card)
+        content.add_widget(MDLabel(text="A SUA MENSAGEM", font_style="Label", role="small",
+                                   theme_text_color="Secondary", size_hint_y=None, height=dp(18)))
+        input_card = MDCard(orientation="vertical", padding=dp(9), size_hint_y=None,
+                            height=dp(142), radius=[dp(20)], elevation=0,
+                            md_bg_color=(1, 1, 1, 1))
+        input_card.add_widget(self.source_text_input)
+        content.add_widget(input_card)
+        content.add_widget(self.translate_button)
         content.add_widget(self.secondary_actions)
+        content.add_widget(MDLabel(text="RESULTADO", font_style="Label", role="small",
+                                   theme_text_color="Secondary", size_hint_y=None, height=dp(18)))
         content.add_widget(self.status_label)
         content.add_widget(self.result_card)
-        content.add_widget(self.favorites_button)
         scroll.add_widget(content)
         root.add_widget(scroll)
         self.add_widget(root)
