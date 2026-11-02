@@ -16,7 +16,9 @@ def create_mdbutton(
     height=None,
 ):
     """Create a KivyMD text button with the given label and action."""
-    button = MDButton(style=style)
+    # Let the parent layout control width; KivyMD's Primary mode can reset a
+    # button to its label's intrinsic width after the layout has sized it.
+    button = MDButton(style=style, theme_width="Custom")
     # Keep button labels on the compact Material label scale so they fit the
     # 40–54 dp mobile touch targets used throughout the app.
     button.add_widget(MDButtonText(
