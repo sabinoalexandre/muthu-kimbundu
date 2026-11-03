@@ -1,41 +1,61 @@
-.PHONY: all install run app debug clean lint lint-strict test re
+.PHONY: all install run app debug clean lint lint-strict test re venv
+
+PYTHON := python3
+VENV := .venv
+BIN := $(VENV)/bin
+PIP := $(BIN)/pip
 
 all: run
 
-install:
-	pip install -r requirements.txt
+# Create Python virtual environment
+venv:
+	$(PYTHON) -m venv $(VENV)
 
+# Install project dependencies
+install: venv
+	$(PIP) install --upgrade pip setuptools wheel
+	$(PIP) install -r requirements.txt
+
+# Run application
 run:
-	python main.py
-
-# Android APK (debug): install Buildozer and its platform dependencies first.
-# See README.md for Linux/macOS setup and Windows via WSL2 instructions.
-# The first build downloads the Android SDK/NDK; output: bin/*.apk.
-# Install by USB with `buildozer android deploy run`, or copy the APK to a phone.
-app:
-	@if ! command -v buildozer >/dev/null 2>&1; then \
-		echo "Buildozer não encontrado. Instale-o e ative o ambiente virtual antes de executar make app."; \
-		echo "Consulte README.md: seção 'Build and install on Android'."; \
-		exit 127; \
+	@if [ ! -x "$(BIN)/python" ]; then \
+		echo "Ambiente virtual não encontrado. Execute: make install"; \
+		exit 1; \
 	fi
-	buildozer -v android debug
+	$(BIN)/python main.py
 
+# Android APK (debug)
+app:
+	@if [ ! -x "$(BIN)/buildozer" ]; then 
+		echo "Buildozer não encontrado no ambiente virtual."; 
+		echo "Execute: make install e instale o Buildozer."; 
+		exit 127; 
+	fi
+	$(BIN)/buildozer -v android debug
+
+# Debug application
 debug:
-	python -m pdb main.py
+	$(BIN)/python -m pdb main.py
 
+# Clean generated files
 clean:
 	rm -rf __pycache__ .mypy_cache .pytest_cache build dist *.egg-info
 	rm -rf src/*/__pycache__ src/*/*/__pycache__ tests/__pycache__
+	rm -rf bin .buildozer
 
+# Code quality checks
 lint:
-	flake8 .
-	mypy . --warn-return-any --warn-unused-ignores --ignore-missing-imports --disallow-untyped-defs --check-untyped-defs
+	$(BIN)/flake8 .
+	$(BIN)/mypy . --warn-return-any --warn-unused-ignores --ignore-missing-imports --disallow-untyped-defs --check-untyped-defs
 
 lint-strict:
-	flake8 .
-	mypy . --strict
+	$(BIN)/flake8 .
+	$(BIN)/mypy . --strict
 
+# Run tests
 test:
-	python -m pytest
+	$(BIN)/python -m pytest
 
+# Clean and run again
 re: clean all
+
