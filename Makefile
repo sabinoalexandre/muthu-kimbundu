@@ -46,6 +46,13 @@ app:
 			break; \
 		fi; \
 	done
+	@for build_python in .buildozer/android/platform/build-*/build/venv/bin/python; do \
+		if [ -x "$$build_python" ] && ! "$$build_python" -c 'from pip._internal.utils.logging import capture_logging' >/dev/null 2>&1; then \
+			echo "A limpar o ambiente pip de build inconsistente."; \
+			build_venv=$${build_python%/bin/python}; \
+			rm -rf "$$build_venv"; \
+		fi; \
+	done
 	PATH="$(CURDIR)/$(BIN):$$PATH" VIRTUAL_ENV="$(CURDIR)/$(VENV)" KIVY_HOME="$(KIVY_HOME)" $(BIN)/buildozer -v android debug
 
 # Debug application
