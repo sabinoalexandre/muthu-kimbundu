@@ -26,10 +26,10 @@ run:
 
 # Android APK (debug)
 app:
-	@if [ ! -x "$(BIN)/buildozer" ]; then 
-		echo "Buildozer não encontrado no ambiente virtual."; 
-		echo "Execute: make install e instale o Buildozer."; 
-		exit 127; 
+	@if [ ! -x "$(BIN)/buildozer" ]; then \
+		echo "Buildozer não encontrado no ambiente virtual."; \
+		echo "Execute: make install e instale o Buildozer."; \
+		exit 127; \
 	fi
 	$(BIN)/buildozer -v android debug
 
