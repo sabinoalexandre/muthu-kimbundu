@@ -6,6 +6,7 @@ from pathlib import Path
 
 from kivy.metrics import dp
 from kivy.core.window import Window
+from kivy.core.text import LabelBase
 from kivy.graphics import Color, RoundedRectangle
 from kivy.uix.behaviors import ButtonBehavior
 from kivy.uix.boxlayout import BoxLayout
@@ -40,6 +41,7 @@ NAVIGATION_ITEMS = (
     ("Favoritos", "favorites", "heart-outline"),
     ("Ajustes", "settings", "cog-outline"),
 )
+FONT_PATH = Path(__file__).parent / "assets" / "fonts" / "JetBrainsMono-Regular.ttf"
 
 
 class NavigationItem(ButtonBehavior, BoxLayout):
@@ -49,10 +51,12 @@ class NavigationItem(ButtonBehavior, BoxLayout):
         super().__init__(orientation="vertical", spacing=dp(2), padding=[dp(2), dp(5)], **kwargs)
         self.route = route
         self.active = False
-        self.icon_label = MDIcon(icon=icon, halign="center", size_hint_y=None, height=dp(25))
+        icon_slot = BoxLayout(size_hint=(1, None), height=dp(25))
+        self.icon_label = MDIcon(icon=icon, halign="center", size_hint=(1, 1))
+        icon_slot.add_widget(self.icon_label)
         self.text_label = MDLabel(text=title, halign="center", font_style="Label",
                                   role="small", size_hint_y=None, height=dp(18), shorten=True)
-        self.add_widget(self.icon_label)
+        self.add_widget(icon_slot)
         self.add_widget(self.text_label)
         with self.canvas.before:
             self._bg_color = Color(0, 0, 0, 0)
@@ -83,6 +87,12 @@ class MuthuApp(MDApp):
 
     def build(self):
         """Build the application navigation structure."""
+        LabelBase.register(name="JetBrainsMono", fn_regular=str(FONT_PATH))
+        for family, styles in self.theme_cls.font_styles.items():
+            if family == "Icon":
+                continue
+            for style in styles.values():
+                style["font-name"] = "JetBrainsMono"
         if platform not in {"android", "ios"}:
             # Preview the standard 9:16 portrait phone canvas on desktop.
             Window.size = (400, 740)

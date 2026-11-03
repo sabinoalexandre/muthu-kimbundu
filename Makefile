@@ -4,6 +4,7 @@ PYTHON := python3
 VENV := .venv
 BIN := $(VENV)/bin
 PIP := $(BIN)/pip
+KIVY_HOME := $(CURDIR)/.kivy
 
 all: run
 
@@ -22,16 +23,15 @@ run:
 		echo "Ambiente virtual não encontrado. Execute: make install"; \
 		exit 1; \
 	fi
-	$(BIN)/python main.py
+	KIVY_HOME="$(KIVY_HOME)" $(BIN)/python main.py
 
 # Android APK (debug)
 app:
 	@if [ ! -x "$(BIN)/buildozer" ]; then \
-		echo "Buildozer não encontrado no ambiente virtual."; \
-		echo "Execute: make install e instale o Buildozer."; \
+		echo "Buildozer não encontrado no ambiente virtual. Execute: make install"; \
 		exit 127; \
 	fi
-	$(BIN)/buildozer -v android debug
+	PATH="$(CURDIR)/$(BIN):$$PATH" VIRTUAL_ENV="$(CURDIR)/$(VENV)" KIVY_HOME="$(KIVY_HOME)" $(BIN)/buildozer -v android debug
 
 # Debug application
 debug:
@@ -41,7 +41,7 @@ debug:
 clean:
 	rm -rf __pycache__ .mypy_cache .pytest_cache build dist *.egg-info
 	rm -rf src/*/__pycache__ src/*/*/__pycache__ tests/__pycache__
-	rm -rf bin .buildozer
+	rm -rf bin .buildozer .kivy
 
 # Code quality checks
 lint:

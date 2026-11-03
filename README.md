@@ -28,6 +28,7 @@ A aplicação foi concebida para funcionar em computadores e dispositivos móvei
 - Histórico de traduções com pesquisa, eliminação individual e limpeza completa.
 - Sistema de favoritos para guardar traduções e expressões.
 - Temas claro e escuro.
+- Tipografia JetBrains Mono incluída no aplicativo para funcionar também sem instalação da fonte no dispositivo.
 - Comunicação transparente sobre expressões não suportadas e limitações das traduções.
 - Quando não existe uma correspondência no dicionário, o texto original é apresentado e identificado como não encontrado, em vez de apresentar uma tradução inventada ou uma mensagem de erro.
 - Dicionário local inicial com palavras de fontes identificadas e expressões compostas documentadas.
@@ -46,9 +47,11 @@ A aplicação foi concebida para funcionar em computadores e dispositivos móvei
 
 ### Ambiente de desenvolvimento
 
-A interface foi concebida para uma visualização de 360 × 640 píxeis (proporção 9:16) em computadores, utilizando o tamanho nativo do ecrã em dispositivos móveis.
+A interface foi concebida para uma visualização de 360 × 640 píxeis (proporção 9:16) em computadores, utilizando o tamanho nativo do ecrã em dispositivos móveis. A fonte JetBrains Mono é carregada de `assets/fonts/` em todas as plataformas; a licença SIL OFL 1.1 acompanha a fonte.
 
 O empacotamento para Android é configurado através do Buildozer, permitindo gerar localmente um ficheiro APK de depuração.
+
+A configuração fixa o Android NDK na versão 28c, recomendada pelo python-for-android usado pelo Buildozer.
 
 ---
 
@@ -250,7 +253,7 @@ Consulte a [documentação oficial de instalação do Buildozer](https://buildoz
 
 O projeto utiliza o ambiente virtual `.venv`.
 
-Instale o Buildozer nesse ambiente:
+O Buildozer está incluído em `requirements.txt` e é instalado por `make install`. Também pode instalá-lo manualmente nesse ambiente:
 
 ```bash
 .venv/bin/python -m pip install --upgrade buildozer setuptools
@@ -376,10 +379,13 @@ MUTHU/
 ├── requirements.txt
 ├── README.md
 ├── Makefile
+├── buildozer.spec
 ├── .gitignore
 ├── .env.example
 │
 ├── assets/
+│   └── fonts/
+│       └── JetBrainsMono-Regular.ttf
 │
 ├── src/
 │   ├── ui/
