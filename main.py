@@ -85,7 +85,7 @@ class MuthuApp(MDApp):
         """Build the application navigation structure."""
         if platform not in {"android", "ios"}:
             # Preview the standard 9:16 portrait phone canvas on desktop.
-            Window.size = (360, 640)
+            Window.size = (400, 740)
         # Avoid a black strip showing through any transparent area below the
         # bottom navigation bar, especially on mobile devices with insets.
         Window.clearcolor = (1, 1, 1, 1)
