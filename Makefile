@@ -35,6 +35,17 @@ app:
 		echo "autoreconf não encontrado. Instale as dependências Android: sudo apt install autoconf automake libtool"; \
 		exit 127; \
 	fi
+	@if ! pkg-config --exists openssl; then \
+		echo "OpenSSL de desenvolvimento não encontrado. Instale: sudo apt install libssl-dev"; \
+		exit 127; \
+	fi
+	@for host_python in .buildozer/android/platform/build-*/build/other_builds/hostpython3/desktop/hostpython3/native-build/root/usr/local/bin/python; do \
+		if [ -x "$$host_python" ] && ! "$$host_python" -c 'import ssl' >/dev/null 2>&1; then \
+			echo "A limpar o host Python em cache, compilado sem suporte SSL."; \
+			PATH="$(CURDIR)/$(BIN):$$PATH" VIRTUAL_ENV="$(CURDIR)/$(VENV)" KIVY_HOME="$(KIVY_HOME)" $(BIN)/buildozer android p4a clean_recipe_build hostpython3 --no-clean-dists || exit $$?; \
+			break; \
+		fi; \
+	done
 	PATH="$(CURDIR)/$(BIN):$$PATH" VIRTUAL_ENV="$(CURDIR)/$(VENV)" KIVY_HOME="$(KIVY_HOME)" $(BIN)/buildozer -v android debug
 
 # Debug application

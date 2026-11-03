@@ -51,7 +51,7 @@ A interface foi concebida para uma visualização de 360 × 640 píxeis (propor�
 
 O empacotamento para Android é configurado através do Buildozer, permitindo gerar localmente um ficheiro APK de depuração.
 
-A configuração fixa o Android NDK na versão 28c, recomendada pelo python-for-android usado pelo Buildozer.
+A configuração usa Android API 24 como versão mínima, necessária para os símbolos `preadv` e `pwritev` usados pelo Python 3.14, e fixa o NDK 28c, recomendado pelo python-for-android usado pelo Buildozer. A API 24 corresponde ao Android 7.0.
 
 ---
 
@@ -247,6 +247,8 @@ sudo apt install -y \
 ```
 
 O Buildozer também necessita das ferramentas e componentes do Android SDK e NDK, que podem ser descarregados durante a primeira compilação.
+
+Se o Buildozer tiver criado o Python auxiliar sem suporte SSL antes da instalação de `libssl-dev`, `make app` remove esse cache específico e recompila-o automaticamente.
 
 Consulte a [documentação oficial de instalação do Buildozer](https://buildozer.readthedocs.io/en/latest/installation/) para verificar os requisitos específicos da versão utilizada.
 
