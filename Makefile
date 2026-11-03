@@ -31,6 +31,10 @@ app:
 		echo "Buildozer não encontrado no ambiente virtual. Execute: make install"; \
 		exit 127; \
 	fi
+	@if ! command -v autoreconf >/dev/null 2>&1; then \
+		echo "autoreconf não encontrado. Instale as dependências Android: sudo apt install autoconf automake libtool"; \
+		exit 127; \
+	fi
 	PATH="$(CURDIR)/$(BIN):$$PATH" VIRTUAL_ENV="$(CURDIR)/$(VENV)" KIVY_HOME="$(KIVY_HOME)" $(BIN)/buildozer -v android debug
 
 # Debug application

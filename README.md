@@ -236,6 +236,7 @@ sudo apt install -y \
     python3-dev \
     build-essential \
     autoconf \
+    automake \
     libtool \
     pkg-config \
     zlib1g-dev \
