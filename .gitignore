@@ -9,3 +9,4 @@ data/*.db
 bin/
 .venv-buildozer/
 doc.md
+.gitignore
