@@ -66,7 +66,7 @@ class TranslationCard(MDCard):
             self.status_label.text = (
                 "Tradução verificada"
                 if result.is_verified
-                else "Correspondência de dicionário"
+                else ""
             )
             self.notes_label.text = ""
         elif result.is_error:
