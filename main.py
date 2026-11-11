@@ -103,10 +103,10 @@ class MuthuApp(MDApp):
         self.theme_cls.primary_hue = "800"
         self.theme_cls.theme_style = "Light"
         self.theme_cls.bind(theme_style=self._sync_theme)
-        if platform == "android":
-            data_directory = Path(self.user_data_dir)
-            data_directory.mkdir(parents=True, exist_ok=True)
-            db.DATABASE_PATH = data_directory / "muthu.db"
+        # Keep writable user data outside the source checkout on desktop too.
+        data_directory = Path(self.user_data_dir)
+        data_directory.mkdir(parents=True, exist_ok=True)
+        db.DATABASE_PATH = data_directory / "muthu.db"
         db.initialize_database()
         settings = AppSettings.from_env()
         dictionary_provider = LocalDictionaryProvider()
