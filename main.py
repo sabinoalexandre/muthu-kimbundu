@@ -95,7 +95,7 @@ class MuthuApp(MDApp):
                 style["font-name"] = "JetBrainsMono"
         if platform not in {"android", "ios"}:
             # Preview the standard 9:16 portrait phone canvas on desktop.
-            Window.size = (400, 740)
+            Window.size = (450, 840)
         # Avoid a black strip showing through any transparent area below the
         # bottom navigation bar, especially on mobile devices with insets.
         Window.clearcolor = (1, 1, 1, 1)
