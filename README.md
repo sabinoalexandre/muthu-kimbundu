@@ -66,7 +66,7 @@ Outros sistemas Linux podem ser utilizados, desde que disponibilizem as dependê
 ### 4.2. Requisitos de software
 
 - Debian 12 ou superior.
-- Python 3.13 (conforme a configuração do projeto).
+- Python 3.11 ou superior (Python 3.11 é a versão fornecida pelo Debian 12).
 - pip.
 - venv.
 - Git.
@@ -100,19 +100,19 @@ sudo apt install -y \
     python3-dev \
     build-essential \
     git \
-    pkg-config
-```
-
-Para evitar problemas durante a instalação e execução de componentes gráficos do Kivy, instale também:
-
-```bash
-sudo apt install -y \
+    pkg-config \
     libgl1-mesa-dev \
     libgles2-mesa-dev \
+    libsdl2-dev \
+    libsdl2-image-dev \
+    libsdl2-mixer-dev \
+    libsdl2-ttf-dev \
     libmtdev-dev \
     libffi-dev \
     libssl-dev
 ```
+
+Num Debian mínimo ou numa sessão SSH, a aplicação gráfica também precisa de um servidor gráfico ativo (X11 ou Wayland). Estas bibliotecas de desenvolvimento não substituem o ambiente gráfico.
 
 ### 5.3. Obter o projeto
 
