@@ -30,6 +30,16 @@ class AppSettings:
         """Build settings from environment variables."""
         import os
 
+        # Load the optional project-local configuration without overriding
+        # environment variables supplied by the shell or the operating system.
+        if environ is None:
+            try:
+                from dotenv import load_dotenv
+
+                load_dotenv()
+            except ImportError:
+                pass
+
         env = os.environ if environ is None else environ
         return cls(
             theme=env.get("MUTHU_THEME", DEFAULT_THEME),
