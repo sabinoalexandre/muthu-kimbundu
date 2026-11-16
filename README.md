@@ -28,7 +28,6 @@ A aplicação foi concebida para funcionar em computadores e dispositivos móvei
 - Histórico de traduções com pesquisa, eliminação individual e limpeza completa.
 - Sistema de favoritos para guardar traduções e expressões.
 - Temas claro e escuro.
-- Tipografia JetBrains Mono incluída no aplicativo para funcionar também sem instalação da fonte no dispositivo.
 - Comunicação transparente sobre expressões não suportadas e limitações das traduções.
 - Quando não existe uma correspondência no dicionário, o texto original é apresentado e identificado como não encontrado, em vez de apresentar uma tradução inventada ou uma mensagem de erro.
 - Dicionário local inicial com palavras de fontes identificadas e expressões compostas documentadas.
@@ -47,7 +46,7 @@ A aplicação foi concebida para funcionar em computadores e dispositivos móvei
 
 ### Ambiente de desenvolvimento
 
-A interface foi concebida para uma visualização de 360 × 640 píxeis (proporção 9:16) em computadores, utilizando o tamanho nativo do ecrã em dispositivos móveis. A fonte JetBrains Mono é carregada de `assets/fonts/` em todas as plataformas; a licença SIL OFL 1.1 acompanha a fonte.
+A interface foi concebida para uma visualização de 360 × 640 píxeis (proporção 9:16) em computadores, utilizando o tamanho nativo do ecrã em dispositivos móveis. A interface utiliza a tipografia padrão do KivyMD.
 
 O empacotamento para Android é configurado através do Buildozer, permitindo gerar localmente um ficheiro APK de depuração.
 
