@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10194,
+      "kimbundu_term": "Kulembula",
+      "portuguese_translation": "Moderar. Tornar brando, menos duro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulembula-1 — https://www.kimbundu.org/pt/word/kulembula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10195,
+      "kimbundu_term": "Kulembula",
+      "portuguese_translation": "Kurilembua, e r. Ter mão em si",
+      "definition": null,
+      "alternative_meanings": [
+        "conter-se. Tornar-se comedido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulembula-1 — https://www.kimbundu.org/pt/word/kulembula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10196,
+      "kimbundu_term": "Kulembwa",
+      "portuguese_translation": "Não continuar",
+      "definition": null,
+      "alternative_meanings": [
+        "não acabar. Abandonar",
+        "desistir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulembwa-1 — https://www.kimbundu.org/pt/word/kulembwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10197,
+      "kimbundu_term": "Kulembwa",
+      "portuguese_translation": "É também r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulembwa-1 — https://www.kimbundu.org/pt/word/kulembwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10198,
+      "kimbundu_term": "Kuléme",
+      "portuguese_translation": "Atear",
+      "definition": null,
+      "alternative_meanings": [
+        "incendiar. Tornar mais intenso (o fogo)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuléme-1 — https://www.kimbundu.org/pt/word/kuleme",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10199,
+      "kimbundu_term": "Kuléme",
+      "portuguese_translation": "Deitar chamas",
+      "definition": null,
+      "alternative_meanings": [
+        "arder"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuléme-1 — https://www.kimbundu.org/pt/word/kuleme",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10200,
+      "kimbundu_term": "Kuléme",
+      "portuguese_translation": "Ficar desesperado, aflito. Estar sobre brasas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuléme-1 — https://www.kimbundu.org/pt/word/kuleme",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10201,
+      "kimbundu_term": "Kulémea",
+      "portuguese_translation": "Atear",
+      "definition": null,
+      "alternative_meanings": [
+        "incendiar",
+        "Tornar mais intenso (o fogo)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulémea-1 — https://www.kimbundu.org/pt/word/kulemea",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10202,
+      "kimbundu_term": "Kulémea",
+      "portuguese_translation": "Deitar chamas",
+      "definition": null,
+      "alternative_meanings": [
+        "arder",
+        "fig. Ficar desesperado, aflito",
+        "Estar sobre brasas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulémea-1 — https://www.kimbundu.org/pt/word/kulemea",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10203,
+      "kimbundu_term": "Kulemesa",
+      "portuguese_translation": "Fazer atear (o fogo). Fazer arder",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulemesa-1 — https://www.kimbundu.org/pt/word/kulemesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
