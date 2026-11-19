@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19434,
+      "kimbundu_term": "Úbubu",
+      "portuguese_translation": "Mudez",
+      "definition": null,
+      "alternative_meanings": [
+        "impossibilidade de falar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úbubu-1 — https://www.kimbundu.org/pt/word/ububu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19435,
+      "kimbundu_term": "Ubuiminu",
+      "portuguese_translation": "Forma de respirar",
+      "definition": null,
+      "alternative_meanings": [
+        "Ofego"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubuiminu-1 — https://www.kimbundu.org/pt/word/ubuiminu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19436,
+      "kimbundu_term": "Ubunjikilu",
+      "portuguese_translation": "Dobramento",
+      "definition": null,
+      "alternative_meanings": [
+        "Maneira de vincar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubunjikilu-1 — https://www.kimbundu.org/pt/word/ubunjikilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19437,
+      "kimbundu_term": "Úbutilu",
+      "portuguese_translation": "Forma de barbear, de cortar o cabelo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úbutilu-1 — https://www.kimbundu.org/pt/word/ubutilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19438,
+      "kimbundu_term": "Udi",
+      "portuguese_translation": "Calado",
+      "definition": null,
+      "alternative_meanings": [
+        "silencioso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, udi-1 — https://www.kimbundu.org/pt/word/udi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19439,
+      "kimbundu_term": "Udi",
+      "portuguese_translation": "Calmo",
+      "definition": null,
+      "alternative_meanings": [
+        "tranquilo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, udi-1 — https://www.kimbundu.org/pt/word/udi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19440,
+      "kimbundu_term": "Udidilu",
+      "portuguese_translation": "Forma, maneira de chorar, de uivar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, udidilu-1 — https://www.kimbundu.org/pt/word/udidilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19441,
+      "kimbundu_term": "Udidilu",
+      "portuguese_translation": "Timbre de voz peculiar a certos animais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, udidilu-1 — https://www.kimbundu.org/pt/word/udidilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19442,
+      "kimbundu_term": "Údilu",
+      "portuguese_translation": "Maneira de comer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, údilu-1 — https://www.kimbundu.org/pt/word/udilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19443,
+      "kimbundu_term": "Údimí",
+      "portuguese_translation": "Linguarice",
+      "definition": null,
+      "alternative_meanings": [
+        "bisbilhotice"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, údimí-1 — https://www.kimbundu.org/pt/word/udimi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
