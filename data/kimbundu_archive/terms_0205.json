@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2154,
+      "kimbundu_term": "Imbya",
+      "portuguese_translation": "Vaso de barro ou metal em que se coze a comida",
+      "definition": null,
+      "alternative_meanings": [
+        "Panela",
+        "Tacho",
+        "Caçarola"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imbya-1 — https://www.kimbundu.org/pt/word/imbya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2155,
+      "kimbundu_term": "Imenga",
+      "portuguese_translation": "Cacaria",
+      "definition": null,
+      "alternative_meanings": [
+        "Carareus",
+        "Trastes velhos",
+        "Quantidade de cacos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imenga-1 — https://www.kimbundu.org/pt/word/imenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2156,
+      "kimbundu_term": "Imiokofo",
+      "portuguese_translation": "Congoxas",
+      "definition": null,
+      "alternative_meanings": [
+        "Cócegas",
+        "Titilações"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imiokofo-1 — https://www.kimbundu.org/pt/word/imiokofo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2157,
+      "kimbundu_term": "Imónya",
+      "portuguese_translation": "Grupo de mamíferos que compreende os que se tornam notáveis pela lentidão dos movimentos",
+      "definition": null,
+      "alternative_meanings": [
+        "Tardígrados",
+        "Preguiças"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imónya-1 — https://www.kimbundu.org/pt/word/imonya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2158,
+      "kimbundu_term": "Imoxi",
+      "portuguese_translation": "Que não admite divisão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imoxi-1 — https://www.kimbundu.org/pt/word/imoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2159,
+      "kimbundu_term": "Imoxi",
+      "portuguese_translation": "Um",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imoxi-1 — https://www.kimbundu.org/pt/word/imoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2160,
+      "kimbundu_term": "Imoxi",
+      "portuguese_translation": "Igual",
+      "definition": null,
+      "alternative_meanings": [
+        "da mesma natureza"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imoxi-1 — https://www.kimbundu.org/pt/word/imoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2161,
+      "kimbundu_term": "Imoxi",
+      "portuguese_translation": "Que representa unidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imoxi-1 — https://www.kimbundu.org/pt/word/imoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2162,
+      "kimbundu_term": "Imoxi",
+      "portuguese_translation": "Só",
+      "definition": null,
+      "alternative_meanings": [
+        "único"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imoxi-1 — https://www.kimbundu.org/pt/word/imoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2163,
+      "kimbundu_term": "Imoxi",
+      "portuguese_translation": "Uma coisa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imoxi-1 — https://www.kimbundu.org/pt/word/imoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
