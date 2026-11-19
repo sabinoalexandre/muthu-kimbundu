@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12964,
+      "kimbundu_term": "Kuvudisa",
+      "portuguese_translation": "Fazer amontoar, ir pondo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvudisa-1 — https://www.kimbundu.org/pt/word/kuvudisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12965,
+      "kimbundu_term": "Kuvudisa",
+      "portuguese_translation": "Mandar ou fazer remar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvudisa-1 — https://www.kimbundu.org/pt/word/kuvudisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12966,
+      "kimbundu_term": "Kuvudixila",
+      "portuguese_translation": "Tornar abundante, multiplicar por meio de",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer aumentar o número por virtude de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvudixila-1 — https://www.kimbundu.org/pt/word/kuvudixila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12967,
+      "kimbundu_term": "Kuvuéma",
+      "portuguese_translation": "Vergar. (Mais vernáculo, mas menos usado.)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvuéma-1 — https://www.kimbundu.org/pt/word/kuvuema",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12968,
+      "kimbundu_term": "Kúvuka",
+      "portuguese_translation": "Fabricar azeite",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúvuka-1 — https://www.kimbundu.org/pt/word/kuvuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12969,
+      "kimbundu_term": "Kúvuka",
+      "portuguese_translation": "Premer",
+      "definition": null,
+      "alternative_meanings": [
+        "extrair líquidos oleosos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúvuka-1 — https://www.kimbundu.org/pt/word/kuvuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12970,
+      "kimbundu_term": "Kúvuka",
+      "portuguese_translation": "Encovar",
+      "definition": null,
+      "alternative_meanings": [
+        "profundar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúvuka-1 — https://www.kimbundu.org/pt/word/kuvuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12971,
+      "kimbundu_term": "Kuvúla",
+      "portuguese_translation": "Abundar",
+      "definition": null,
+      "alternative_meanings": [
+        "ter muito",
+        "haver em excesso, em quantidade"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvúla-1 — https://www.kimbundu.org/pt/word/kuvula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12972,
+      "kimbundu_term": "Kuvúla",
+      "portuguese_translation": "Ser numeroso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvúla-1 — https://www.kimbundu.org/pt/word/kuvula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12973,
+      "kimbundu_term": "Kuvúla",
+      "portuguese_translation": "Abundância",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvúla-1 — https://www.kimbundu.org/pt/word/kuvula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
