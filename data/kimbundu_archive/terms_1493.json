@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15034,
+      "kimbundu_term": "Mázelu",
+      "portuguese_translation": "Limeira",
+      "definition": null,
+      "alternative_meanings": [
+        "Conjunto de limas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mázelu-1 — https://www.kimbundu.org/pt/word/mazelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15035,
+      "kimbundu_term": "Mázembu",
+      "portuguese_translation": "Rancores, (ó lios do túmulo, quando se não morre)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mázembu-1 — https://www.kimbundu.org/pt/word/mazembu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15036,
+      "kimbundu_term": "Mazófe",
+      "portuguese_translation": "Conjunto de pequenos sapos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mazófe-1 — https://www.kimbundu.org/pt/word/mazofe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15037,
+      "kimbundu_term": "Mazófe",
+      "portuguese_translation": "O seu grasnar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mazófe-1 — https://www.kimbundu.org/pt/word/mazofe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15038,
+      "kimbundu_term": "Mazubílu",
+      "portuguese_translation": "Acabamentos",
+      "definition": null,
+      "alternative_meanings": [
+        "fins"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mazubílu-1 — https://www.kimbundu.org/pt/word/mazubilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15039,
+      "kimbundu_term": "Mazuika",
+      "portuguese_translation": "Antigo bairro traseiro à igreja do Carmo, na cidade, conc. e distr. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "topografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mazuika-1 — https://www.kimbundu.org/pt/word/mazuika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15040,
+      "kimbundu_term": "Mazúlu",
+      "portuguese_translation": "Canos",
+      "definition": null,
+      "alternative_meanings": [
+        "tubos",
+        "canudos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mazúlu-1 — https://www.kimbundu.org/pt/word/mazulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15041,
+      "kimbundu_term": "Mazúlu",
+      "portuguese_translation": "As fossas nasais",
+      "definition": null,
+      "alternative_meanings": [
+        "Narícolas",
+        "ventas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mazúlu-1 — https://www.kimbundu.org/pt/word/mazulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15042,
+      "kimbundu_term": "Mazúmbila",
+      "portuguese_translation": "Aparecimento de espíritos sob a forma humana",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mazúmbila-1 — https://www.kimbundu.org/pt/word/mazumbila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15043,
+      "kimbundu_term": "Mazúmbila",
+      "portuguese_translation": "Visões",
+      "definition": null,
+      "alternative_meanings": [
+        "espectros",
+        "sombras"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mazúmbila-1 — https://www.kimbundu.org/pt/word/mazumbila",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
