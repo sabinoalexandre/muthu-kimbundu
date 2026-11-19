@@ -1239,23 +1239,202 @@
       "verification_status": "unverified",
       "source_reference": "Arquivo Kimbundu, Kuanda, Assis Júnior (anos 1940), p. 160 — https://www.kimbundu.org/en/word/kuanda",
       "timestamp": "2026-11-02T00:00:00"
-    }
-    ,
-    {"id":82,"kimbundu_term":"Kibakelu","portuguese_translation":"arrecadação","definition":"Lugar destinado a guardar ou arrecadar utensílios.","alternative_meanings":["reservatório","caixa","baú"],"examples":[],"grammatical_category":"substantivo","regional_variation":null,"verification_status":"unverified","source_reference":"Arquivo Kimbundu, Kibakelu, Assis Júnior (anos 1940), p. 115 — https://www.kimbundu.org/pt/word/kibakelu","timestamp":"2026-11-11T00:00:00"},
-    {"id":83,"kimbundu_term":"Kibakelu","portuguese_translation":"caixa","definition":"Caixa ou baú.","alternative_meanings":["arrecadação","reservatório","baú"],"examples":[],"grammatical_category":"substantivo","regional_variation":null,"verification_status":"unverified","source_reference":"Arquivo Kimbundu, Kibakelu, Assis Júnior (anos 1940), p. 115 — https://www.kimbundu.org/pt/word/kibakelu","timestamp":"2026-11-11T00:00:00"},
-    {"id":84,"kimbundu_term":"Kibakelu","portuguese_translation":"baú","definition":"Caixa ou baú.","alternative_meanings":["arrecadação","reservatório","caixa"],"examples":[],"grammatical_category":"substantivo","regional_variation":null,"verification_status":"unverified","source_reference":"Arquivo Kimbundu, Kibakelu, Assis Júnior (anos 1940), p. 115 — https://www.kimbundu.org/pt/word/kibakelu","timestamp":"2026-11-11T00:00:00"},
-    {"id":85,"kimbundu_term":"Dixilu","portuguese_translation":"quarto","definition":"Aposento ou quarto de dormir.","alternative_meanings":["alcova","câmara"],"examples":[],"grammatical_category":"substantivo","regional_variation":null,"verification_status":"unverified","source_reference":"Arquivo Kimbundu, Dixilu, Assis Júnior (anos 1940), p. 356 — https://www.kimbundu.org/pt/word/dixilu","timestamp":"2026-11-11T00:00:00"},
-    {"id":86,"kimbundu_term":"Dixilu","portuguese_translation":"alcova","definition":"Aposento, quarto ou alcova.","alternative_meanings":["quarto","câmara"],"examples":[],"grammatical_category":"substantivo","regional_variation":null,"verification_status":"unverified","source_reference":"Arquivo Kimbundu, Dixilu, Assis Júnior (anos 1940), p. 356 — https://www.kimbundu.org/pt/word/dixilu","timestamp":"2026-11-11T00:00:00"},
-    {"id":87,"kimbundu_term":"Kúlota","portuguese_translation":"alcançar","definition":"Agarrar ou alcançar.","alternative_meanings":["agarrar"],"examples":[],"grammatical_category":"verbo","regional_variation":null,"verification_status":"unverified","source_reference":"Arquivo Kimbundu, palavra do dia — https://www.kimbundu.org/pt/","timestamp":"2026-11-11T00:00:00"},
-    {"id":88,"kimbundu_term":"Kúlota","portuguese_translation":"agarrar","definition":"Agarrar ou alcançar.","alternative_meanings":["alcançar"],"examples":[],"grammatical_category":"verbo","regional_variation":null,"verification_status":"unverified","source_reference":"Arquivo Kimbundu, palavra do dia — https://www.kimbundu.org/pt/","timestamp":"2026-11-11T00:00:00"},
-    {"id":89,"kimbundu_term":"Kuhinduka","portuguese_translation":"acordar","definition":"Acordar ou aparecer.","alternative_meanings":["aparecer","ser visível"],"examples":[],"grammatical_category":"verbo","regional_variation":null,"verification_status":"unverified","source_reference":"Arquivo Kimbundu, Kuhinduka, Assis Júnior (anos 1940), p. 185 — https://www.kimbundu.org/pt/word/kuhinduka","timestamp":"2026-11-11T00:00:00"},
-    {"id":90,"kimbundu_term":"Kutonesa","portuguese_translation":"despertar","definition":"Acordar ou fazer alguém despertar do sono.","alternative_meanings":["acordar"],"examples":[],"grammatical_category":"verbo","regional_variation":null,"verification_status":"unverified","source_reference":"Arquivo Kimbundu, Kutonesa, Assis Júnior (anos 1940), p. 248 — https://www.kimbundu.org/pt/word/kutonesa","timestamp":"2026-11-11T00:00:00"},
-    {"id":91,"kimbundu_term":"Kutonesa","portuguese_translation":"acordar","definition":"Acordar ou fazer alguém despertar do sono.","alternative_meanings":["despertar"],"examples":[],"grammatical_category":"verbo","regional_variation":null,"verification_status":"unverified","source_reference":"Arquivo Kimbundu, Kutonesa, Assis Júnior (anos 1940), p. 248 — https://www.kimbundu.org/pt/word/kutonesa","timestamp":"2026-11-11T00:00:00"},
-    {"id":92,"kimbundu_term":"Fúndu","portuguese_translation":"acampamento","definition":"Acampamento, pousada ou lugar onde viajantes pernoitam.","alternative_meanings":["pousada","cabana","barraca de campo"],"examples":[],"grammatical_category":"substantivo","regional_variation":null,"verification_status":"unverified","source_reference":"Arquivo Kimbundu, Fúndu, Assis Júnior (anos 1940), p. 41 — https://www.kimbundu.org/pt/word/fundu","timestamp":"2026-11-11T00:00:00"},
-    {"id":93,"kimbundu_term":"Fúndu","portuguese_translation":"pousada","definition":"Lugar onde viajantes pernoitam; pousada ou cabana.","alternative_meanings":["acampamento","cabana"],"examples":[],"grammatical_category":"substantivo","regional_variation":null,"verification_status":"unverified","source_reference":"Arquivo Kimbundu, Fúndu, Assis Júnior (anos 1940), p. 41 — https://www.kimbundu.org/pt/word/fundu","timestamp":"2026-11-11T00:00:00"},
+    },
+    {
+      "id": 82,
+      "kimbundu_term": "Kibakelu",
+      "portuguese_translation": "arrecadação",
+      "definition": "Lugar destinado a guardar ou arrecadar utensílios.",
+      "alternative_meanings": [
+        "reservatório",
+        "caixa",
+        "baú"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Kibakelu, Assis Júnior (anos 1940), p. 115 — https://www.kimbundu.org/pt/word/kibakelu",
+      "timestamp": "2026-11-11T00:00:00"
+    },
+    {
+      "id": 83,
+      "kimbundu_term": "Kibakelu",
+      "portuguese_translation": "caixa",
+      "definition": "Caixa ou baú.",
+      "alternative_meanings": [
+        "arrecadação",
+        "reservatório",
+        "baú"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Kibakelu, Assis Júnior (anos 1940), p. 115 — https://www.kimbundu.org/pt/word/kibakelu",
+      "timestamp": "2026-11-11T00:00:00"
+    },
+    {
+      "id": 84,
+      "kimbundu_term": "Kibakelu",
+      "portuguese_translation": "baú",
+      "definition": "Caixa ou baú.",
+      "alternative_meanings": [
+        "arrecadação",
+        "reservatório",
+        "caixa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Kibakelu, Assis Júnior (anos 1940), p. 115 — https://www.kimbundu.org/pt/word/kibakelu",
+      "timestamp": "2026-11-11T00:00:00"
+    },
+    {
+      "id": 85,
+      "kimbundu_term": "Dixilu",
+      "portuguese_translation": "quarto",
+      "definition": "Aposento ou quarto de dormir.",
+      "alternative_meanings": [
+        "alcova",
+        "câmara"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Dixilu, Assis Júnior (anos 1940), p. 356 — https://www.kimbundu.org/pt/word/dixilu",
+      "timestamp": "2026-11-11T00:00:00"
+    },
+    {
+      "id": 86,
+      "kimbundu_term": "Dixilu",
+      "portuguese_translation": "alcova",
+      "definition": "Aposento, quarto ou alcova.",
+      "alternative_meanings": [
+        "quarto",
+        "câmara"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Dixilu, Assis Júnior (anos 1940), p. 356 — https://www.kimbundu.org/pt/word/dixilu",
+      "timestamp": "2026-11-11T00:00:00"
+    },
+    {
+      "id": 87,
+      "kimbundu_term": "Kúlota",
+      "portuguese_translation": "alcançar",
+      "definition": "Agarrar ou alcançar.",
+      "alternative_meanings": [
+        "agarrar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, palavra do dia — https://www.kimbundu.org/pt/",
+      "timestamp": "2026-11-11T00:00:00"
+    },
+    {
+      "id": 88,
+      "kimbundu_term": "Kúlota",
+      "portuguese_translation": "agarrar",
+      "definition": "Agarrar ou alcançar.",
+      "alternative_meanings": [
+        "alcançar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, palavra do dia — https://www.kimbundu.org/pt/",
+      "timestamp": "2026-11-11T00:00:00"
+    },
+    {
+      "id": 89,
+      "kimbundu_term": "Kuhinduka",
+      "portuguese_translation": "acordar",
+      "definition": "Acordar ou aparecer.",
+      "alternative_meanings": [
+        "aparecer",
+        "ser visível"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Kuhinduka, Assis Júnior (anos 1940), p. 185 — https://www.kimbundu.org/pt/word/kuhinduka",
+      "timestamp": "2026-11-11T00:00:00"
+    },
+    {
+      "id": 90,
+      "kimbundu_term": "Kutonesa",
+      "portuguese_translation": "despertar",
+      "definition": "Acordar ou fazer alguém despertar do sono.",
+      "alternative_meanings": [
+        "acordar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Kutonesa, Assis Júnior (anos 1940), p. 248 — https://www.kimbundu.org/pt/word/kutonesa",
+      "timestamp": "2026-11-11T00:00:00"
+    },
+    {
+      "id": 91,
+      "kimbundu_term": "Kutonesa",
+      "portuguese_translation": "acordar",
+      "definition": "Acordar ou fazer alguém despertar do sono.",
+      "alternative_meanings": [
+        "despertar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Kutonesa, Assis Júnior (anos 1940), p. 248 — https://www.kimbundu.org/pt/word/kutonesa",
+      "timestamp": "2026-11-11T00:00:00"
+    },
+    {
+      "id": 92,
+      "kimbundu_term": "Fúndu",
+      "portuguese_translation": "acampamento",
+      "definition": "Acampamento, pousada ou lugar onde viajantes pernoitam.",
+      "alternative_meanings": [
+        "pousada",
+        "cabana",
+        "barraca de campo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Fúndu, Assis Júnior (anos 1940), p. 41 — https://www.kimbundu.org/pt/word/fundu",
+      "timestamp": "2026-11-11T00:00:00"
+    },
+    {
+      "id": 93,
+      "kimbundu_term": "Fúndu",
+      "portuguese_translation": "pousada",
+      "definition": "Lugar onde viajantes pernoitam; pousada ou cabana.",
+      "alternative_meanings": [
+        "acampamento",
+        "cabana"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, Fúndu, Assis Júnior (anos 1940), p. 41 — https://www.kimbundu.org/pt/word/fundu",
+      "timestamp": "2026-11-11T00:00:00"
+    },
     {
       "id": 94,
-      "kimbundu_term": "",
+      "kimbundu_term": "Kumbi",
       "kikongo_term": "ntângu",
       "portuguese_translation": "sol",
       "definition": "Sol.",
@@ -1264,12 +1443,12 @@
       "grammatical_category": "substantivo",
       "regional_variation": "Forma registada no Léxikongo; confirmar variantes locais.",
       "verification_status": "unverified",
-      "source_reference": "Kia Kongo, conteúdo das classes nominais — https://www.kiakongo.com/9-conteudo-dos-diferentes-classes/",
+      "source_reference": "Kia Kongo, conteúdo das classes nominais — https://www.kiakongo.com/9-conteudo-dos-diferentes-classes/; Arquivo Kimbundu, Kumbi — https://www.kimbundu.org/pt/word/kumbi",
       "timestamp": "2026-11-19T00:00:00"
     },
     {
       "id": 95,
-      "kimbundu_term": "",
+      "kimbundu_term": "Mâvu",
       "kikongo_term": "nza",
       "portuguese_translation": "terra",
       "definition": "Terra.",
@@ -1278,26 +1457,28 @@
       "grammatical_category": "substantivo",
       "regional_variation": "Forma registada no Léxikongo; confirmar variantes locais.",
       "verification_status": "unverified",
-      "source_reference": "Kia Kongo, conteúdo das classes nominais — https://www.kiakongo.com/9-conteudo-dos-diferentes-classes/",
+      "source_reference": "Kia Kongo, conteúdo das classes nominais — https://www.kiakongo.com/9-conteudo-dos-diferentes-classes/; Arquivo Kimbundu, Mâvu — https://www.kimbundu.org/pt/word/mavu",
       "timestamp": "2026-11-19T00:00:00"
     },
     {
       "id": 96,
-      "kimbundu_term": "",
+      "kimbundu_term": "Mbua",
       "kikongo_term": "mbwa",
       "portuguese_translation": "cão",
       "definition": "Cão; a fonte também regista a grafia variante mbua.",
-      "alternative_meanings": ["cachorro"],
+      "alternative_meanings": [
+        "cachorro"
+      ],
       "examples": [],
       "grammatical_category": "substantivo",
       "regional_variation": "A fonte regista também mbua.",
       "verification_status": "unverified",
-      "source_reference": "Kia Kongo, Mbwa — https://www.kiakongo.com/mbwa/",
+      "source_reference": "Kia Kongo, Mbwa — https://www.kiakongo.com/mbwa/; Arquivo Kimbundu, Mbua — https://www.kimbundu.org/pt/word/mbua",
       "timestamp": "2026-11-19T00:00:00"
     },
     {
       "id": 97,
-      "kimbundu_term": "",
+      "kimbundu_term": "Ngúlu",
       "kikongo_term": "ngulu",
       "portuguese_translation": "porco",
       "definition": "Porco.",
@@ -1306,12 +1487,12 @@
       "grammatical_category": "substantivo",
       "regional_variation": "Forma registada no Léxikongo; confirmar variantes locais.",
       "verification_status": "unverified",
-      "source_reference": "Kia Kongo, conteúdo das classes nominais — https://www.kiakongo.com/9-conteudo-dos-diferentes-classes/",
+      "source_reference": "Kia Kongo, conteúdo das classes nominais — https://www.kiakongo.com/9-conteudo-dos-diferentes-classes/; Arquivo Kimbundu, Ngúlu — https://www.kimbundu.org/pt/word/ngulu",
       "timestamp": "2026-11-19T00:00:00"
     },
     {
       "id": 98,
-      "kimbundu_term": "",
+      "kimbundu_term": "Mánhi",
       "kikongo_term": "ngudi",
       "portuguese_translation": "mãe",
       "definition": "Mãe.",
@@ -1320,12 +1501,12 @@
       "grammatical_category": "substantivo",
       "regional_variation": "Forma registada na fonte Kia Kongo; confirmar variantes locais.",
       "verification_status": "unverified",
-      "source_reference": "Kia Kongo, composição da família em Kikongo — https://www.kiakongo.com/composicao-da-familia-em-kikongo/",
+      "source_reference": "Kia Kongo, composição da família em Kikongo — https://www.kiakongo.com/composicao-da-familia-em-kikongo/; Arquivo Kimbundu, Mánhi — https://www.kimbundu.org/pt/word/manhi",
       "timestamp": "2026-11-19T00:00:00"
     },
     {
       "id": 99,
-      "kimbundu_term": "",
+      "kimbundu_term": "Pái",
       "kikongo_term": "tata",
       "portuguese_translation": "pai",
       "definition": "Pai.",
@@ -1334,12 +1515,12 @@
       "grammatical_category": "substantivo",
       "regional_variation": "Forma registada na fonte Kia Kongo; confirmar variantes locais.",
       "verification_status": "unverified",
-      "source_reference": "Kia Kongo, composição da família em Kikongo — https://www.kiakongo.com/composicao-da-familia-em-kikongo/",
+      "source_reference": "Kia Kongo, composição da família em Kikongo — https://www.kiakongo.com/composicao-da-familia-em-kikongo/; Arquivo Kimbundu, Pái — https://www.kimbundu.org/pt/word/pai",
       "timestamp": "2026-11-19T00:00:00"
     },
     {
       "id": 100,
-      "kimbundu_term": "",
+      "kimbundu_term": "Muíji",
       "kikongo_term": "kanda",
       "portuguese_translation": "família",
       "definition": "Família.",
@@ -1348,12 +1529,12 @@
       "grammatical_category": "substantivo",
       "regional_variation": "Forma registada na fonte Kia Kongo; confirmar variantes locais.",
       "verification_status": "unverified",
-      "source_reference": "Kia Kongo, composição da família em Kikongo — https://www.kiakongo.com/composicao-da-familia-em-kikongo/",
+      "source_reference": "Kia Kongo, composição da família em Kikongo — https://www.kiakongo.com/composicao-da-familia-em-kikongo/; Arquivo Kimbundu, Muíji — https://www.kimbundu.org/pt/word/muiji",
       "timestamp": "2026-11-19T00:00:00"
     },
     {
       "id": 101,
-      "kimbundu_term": "",
+      "kimbundu_term": "Kiálu",
       "kikongo_term": "kiti",
       "portuguese_translation": "cadeira",
       "definition": "Cadeira.",
@@ -1362,12 +1543,12 @@
       "grammatical_category": "substantivo",
       "regional_variation": "Forma registada no Léxikongo; confirmar variantes locais.",
       "verification_status": "unverified",
-      "source_reference": "Kia Kongo, conteúdo das classes nominais — https://www.kiakongo.com/9-conteudo-dos-diferentes-classes/",
+      "source_reference": "Kia Kongo, conteúdo das classes nominais — https://www.kiakongo.com/9-conteudo-dos-diferentes-classes/; Arquivo Kimbundu, Kiálu — https://www.kimbundu.org/pt/word/kialu",
       "timestamp": "2026-11-19T00:00:00"
     },
     {
       "id": 102,
-      "kimbundu_term": "",
+      "kimbundu_term": "Rikalu",
       "kikongo_term": "kalu",
       "portuguese_translation": "carro",
       "definition": "Carro.",
@@ -1376,21 +1557,23 @@
       "grammatical_category": "substantivo",
       "regional_variation": "Forma registada no material pedagógico Kia Kongo.",
       "verification_status": "unverified",
-      "source_reference": "Kia Kongo, substantivo em Kikongo — https://www.kiakongo.com/substantivo-em-kikongo/",
+      "source_reference": "Kia Kongo, substantivo em Kikongo — https://www.kiakongo.com/substantivo-em-kikongo/; Arquivo Kimbundu, Rikalu — https://www.kimbundu.org/pt/word/rikalu",
       "timestamp": "2026-11-19T00:00:00"
     },
     {
       "id": 103,
-      "kimbundu_term": "",
+      "kimbundu_term": "Mákinu",
       "kikongo_term": "makinu",
       "portuguese_translation": "danças",
       "definition": "Danças; forma plural registada pela fonte.",
-      "alternative_meanings": ["dança"],
+      "alternative_meanings": [
+        "dança"
+      ],
       "examples": [],
       "grammatical_category": "substantivo plural",
       "regional_variation": "Forma registada no material pedagógico Kia Kongo.",
       "verification_status": "unverified",
-      "source_reference": "Kia Kongo, substantivo em Kikongo — https://www.kiakongo.com/substantivo-em-kikongo/",
+      "source_reference": "Kia Kongo, substantivo em Kikongo — https://www.kiakongo.com/substantivo-em-kikongo/; Arquivo Kimbundu, Mákinu — https://www.kimbundu.org/pt/word/makinu",
       "timestamp": "2026-11-19T00:00:00"
     },
     {
@@ -1399,7 +1582,9 @@
       "kikongo_term": "mfumu",
       "portuguese_translation": "chefe",
       "definition": "Chefe; a fonte também regista o sentido de cabeça.",
-      "alternative_meanings": ["cabeça"],
+      "alternative_meanings": [
+        "cabeça"
+      ],
       "examples": [],
       "grammatical_category": "substantivo",
       "regional_variation": "Forma registada no material Kia Kongo; sentido depende do contexto.",

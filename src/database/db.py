@@ -82,15 +82,8 @@ def _seed_dictionary(connection: sqlite3.Connection) -> None:
     dictionary_path = BASE_DIR / "data" / "dictionary.json"
     if not dictionary_path.exists():
         return
-    try:
-        with dictionary_path.open("r", encoding="utf-8") as handle:
-            payload = json.load(handle)
-    except (OSError, json.JSONDecodeError):
-        return
-
-    entries = payload.get("entries", []) if isinstance(payload, dict) else []
-    if not isinstance(entries, list):
-        return
+    payloads = [dictionary_path]
+    payloads.extend(sorted((dictionary_path.parent / "kimbundu_archive").glob("terms_*.json")))
 
     existing = {
         tuple(str(value).casefold().strip() for value in row)
@@ -98,57 +91,66 @@ def _seed_dictionary(connection: sqlite3.Connection) -> None:
             "SELECT kimbundu_term, kikongo_term, portuguese_translation FROM dictionary"
         )
     }
-    for entry in entries:
-        if not isinstance(entry, dict):
+    for payload_path in payloads:
+        try:
+            with payload_path.open("r", encoding="utf-8") as handle:
+                payload = json.load(handle)
+        except (OSError, json.JSONDecodeError):
             continue
-        kimbundu_term = str(entry.get("kimbundu_term") or "").strip()
-        kikongo_term = str(entry.get("kikongo_term") or "").strip()
-        portuguese_translation = str(entry.get("portuguese_translation") or "").strip()
-        if not (kimbundu_term or kikongo_term) or not portuguese_translation:
+        entries = payload.get("entries", []) if isinstance(payload, dict) else []
+        if not isinstance(entries, list):
             continue
-        key = (
-            kimbundu_term.casefold(),
-            kikongo_term.casefold(),
-            portuguese_translation.casefold(),
-        )
-        if key in existing:
-            continue
-        legacy_key = (
-            kimbundu_term.casefold(),
-            "",
-            portuguese_translation.casefold(),
-        )
-        if kikongo_term and legacy_key in existing:
-            connection.execute(
-                """UPDATE dictionary SET kikongo_term = ?
-                   WHERE lower(trim(kimbundu_term)) = ?
-                     AND lower(trim(portuguese_translation)) = ?
-                     AND trim(kikongo_term) = ''""",
-                (kikongo_term, legacy_key[0], legacy_key[2]),
+        for entry in entries:
+            if not isinstance(entry, dict):
+                continue
+            kimbundu_term = str(entry.get("kimbundu_term") or "").strip()
+            kikongo_term = str(entry.get("kikongo_term") or "").strip()
+            portuguese_translation = str(entry.get("portuguese_translation") or "").strip()
+            if not (kimbundu_term or kikongo_term) or not portuguese_translation:
+                continue
+            key = (
+                kimbundu_term.casefold(),
+                kikongo_term.casefold(),
+                portuguese_translation.casefold(),
             )
-            existing.discard(legacy_key)
+            if key in existing:
+                continue
+            legacy_key = (
+                kimbundu_term.casefold(),
+                "",
+                portuguese_translation.casefold(),
+            )
+            if kikongo_term and legacy_key in existing:
+                connection.execute(
+                    """UPDATE dictionary SET kikongo_term = ?
+                       WHERE lower(trim(kimbundu_term)) = ?
+                         AND lower(trim(portuguese_translation)) = ?
+                         AND trim(kikongo_term) = ''""",
+                    (kikongo_term, legacy_key[0], legacy_key[2]),
+                )
+                existing.discard(legacy_key)
+                existing.add(key)
+                continue
+            connection.execute(
+                """
+                INSERT INTO dictionary (
+                    kimbundu_term, kikongo_term, portuguese_translation, definition,
+                    alternative_meanings, examples, grammatical_category,
+                    regional_variation, verification_status, source_reference, timestamp
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                """,
+                (
+                    kimbundu_term,
+                    kikongo_term,
+                    portuguese_translation,
+                    entry.get("definition"),
+                    json.dumps(entry.get("alternative_meanings") or [], ensure_ascii=False),
+                    json.dumps(entry.get("examples") or [], ensure_ascii=False),
+                    entry.get("grammatical_category"),
+                    entry.get("regional_variation"),
+                    entry.get("verification_status") or "unverified",
+                    entry.get("source_reference"),
+                    entry.get("timestamp") or "",
+                ),
+            )
             existing.add(key)
-            continue
-        connection.execute(
-            """
-            INSERT INTO dictionary (
-                kimbundu_term, kikongo_term, portuguese_translation, definition,
-                alternative_meanings, examples, grammatical_category,
-                regional_variation, verification_status, source_reference, timestamp
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-            """,
-            (
-                kimbundu_term,
-                kikongo_term,
-                portuguese_translation,
-                entry.get("definition"),
-                json.dumps(entry.get("alternative_meanings") or [], ensure_ascii=False),
-                json.dumps(entry.get("examples") or [], ensure_ascii=False),
-                entry.get("grammatical_category"),
-                entry.get("regional_variation"),
-                entry.get("verification_status") or "unverified",
-                entry.get("source_reference"),
-                entry.get("timestamp") or "",
-            ),
-        )
-        existing.add(key)

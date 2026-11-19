@@ -41,7 +41,21 @@ class LocalDictionaryProvider(TranslationProvider):
         entries = data.get("entries") or []
         if not isinstance(entries, list):
             return []
-        return [entry for entry in entries if isinstance(entry, dict)]
+        loaded = [entry for entry in entries if isinstance(entry, dict)]
+        if self.dictionary_path.resolve() == DEFAULT_DICTIONARY_PATH.resolve():
+            imported_dir = self.dictionary_path.parent / "kimbundu_archive"
+            for shard_path in sorted(imported_dir.glob("terms_*.json")):
+                try:
+                    with shard_path.open("r", encoding="utf-8") as handle:
+                        shard = json.load(handle)
+                except (OSError, json.JSONDecodeError):
+                    continue
+                shard_entries = shard.get("entries") if isinstance(shard, dict) else None
+                if isinstance(shard_entries, list):
+                    loaded.extend(
+                        entry for entry in shard_entries if isinstance(entry, dict)
+                    )
+        return loaded
 
     @property
     def entry_count(self) -> int:
