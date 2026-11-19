@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19384,
+      "kimbundu_term": "Uanji",
+      "portuguese_translation": "Inteligência",
+      "definition": null,
+      "alternative_meanings": [
+        "Estro",
+        "poder intelectual",
+        "Dom",
+        "imaginação",
+        "ideia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uanji-1 — https://www.kimbundu.org/pt/word/uanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19385,
+      "kimbundu_term": "Uaselu",
+      "portuguese_translation": "Maneira de atirar setas",
+      "definition": null,
+      "alternative_meanings": [
+        "Forma de arpoar, de disparar frechas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uaselu-1 — https://www.kimbundu.org/pt/word/uaselu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19386,
+      "kimbundu_term": "Uáxedi",
+      "portuguese_translation": "Ímpar",
+      "definition": null,
+      "alternative_meanings": [
+        "desirmanado",
+        "sem outro da sua espécie ou qualidade"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uáxedi-1 — https://www.kimbundu.org/pt/word/uaxedi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19387,
+      "kimbundu_term": "Uáxedi",
+      "portuguese_translation": "Sobrevivente",
+      "definition": null,
+      "alternative_meanings": [
+        "o que ficou",
+        "O último"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uáxedi-1 — https://www.kimbundu.org/pt/word/uaxedi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19388,
+      "kimbundu_term": "Úba",
+      "portuguese_translation": "e sub. Amigo de dar",
+      "definition": null,
+      "alternative_meanings": [
+        "generoso, liberal"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úba-1 — https://www.kimbundu.org/pt/word/uba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19389,
+      "kimbundu_term": "Úba",
+      "portuguese_translation": "Generosidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úba-1 — https://www.kimbundu.org/pt/word/uba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19390,
+      "kimbundu_term": "Ubabelu",
+      "portuguese_translation": "Maneira de acalentar",
+      "definition": null,
+      "alternative_meanings": [
+        "Forma de fazer adormecer crianças"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubabelu-1 — https://www.kimbundu.org/pt/word/ubabelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19391,
+      "kimbundu_term": "Ubádi",
+      "portuguese_translation": "Comissão ou percentagem de venda por conta de outrem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubádi-1 — https://www.kimbundu.org/pt/word/ubadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19392,
+      "kimbundu_term": "Ubádi",
+      "portuguese_translation": "Vendagem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubádi-1 — https://www.kimbundu.org/pt/word/ubadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19393,
+      "kimbundu_term": "Ubáji",
+      "portuguese_translation": "Estado de mulher virgem",
+      "definition": null,
+      "alternative_meanings": [
+        "Pureza original",
+        "fig. Singeleza"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubáji-1 — https://www.kimbundu.org/pt/word/ubaji",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
