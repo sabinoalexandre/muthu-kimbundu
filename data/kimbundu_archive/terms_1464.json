@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14744,
+      "kimbundu_term": "Máma",
+      "portuguese_translation": "Estes",
+      "definition": null,
+      "alternative_meanings": [
+        "estas. (Mais próprio, mas menos usado)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, máma-1 — https://www.kimbundu.org/pt/word/mama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14745,
+      "kimbundu_term": "Mamála",
+      "portuguese_translation": "Diarreia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mamála-1 — https://www.kimbundu.org/pt/word/mamala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14746,
+      "kimbundu_term": "Mámama",
+      "portuguese_translation": "Ama de leite",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mámama-1 — https://www.kimbundu.org/pt/word/mamama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14747,
+      "kimbundu_term": "Mamatekenu",
+      "portuguese_translation": "Elementos",
+      "definition": null,
+      "alternative_meanings": [
+        "rudimentos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mamatekenu-1 — https://www.kimbundu.org/pt/word/mamatekenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14748,
+      "kimbundu_term": "Mamatekenu",
+      "portuguese_translation": "Regras gerais e fundamentais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mamatekenu-1 — https://www.kimbundu.org/pt/word/mamatekenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14749,
+      "kimbundu_term": "Mamatekenu",
+      "portuguese_translation": "Princípios",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mamatekenu-1 — https://www.kimbundu.org/pt/word/mamatekenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14750,
+      "kimbundu_term": "Mámbu",
+      "portuguese_translation": "Doutrina",
+      "definition": null,
+      "alternative_meanings": [
+        "orações",
+        "rezas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mámbu-1 — https://www.kimbundu.org/pt/word/mambu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14751,
+      "kimbundu_term": "Mámbu",
+      "portuguese_translation": "Panegírico",
+      "definition": null,
+      "alternative_meanings": [
+        "preces"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mámbu-1 — https://www.kimbundu.org/pt/word/mambu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14752,
+      "kimbundu_term": "Mámbu",
+      "portuguese_translation": "Salmos",
+      "definition": null,
+      "alternative_meanings": [
+        "hinos sacros"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mámbu-1 — https://www.kimbundu.org/pt/word/mambu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14753,
+      "kimbundu_term": "Mambuêsa",
+      "portuguese_translation": "Leguminosa de fruto alimentício (Dolichos Lablab)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mambuêsa-1 — https://www.kimbundu.org/pt/word/mambuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
