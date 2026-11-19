@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11964,
+      "kimbundu_term": "Kusúta",
+      "portuguese_translation": "Surripiar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusúta-1 — https://www.kimbundu.org/pt/word/kusuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11965,
+      "kimbundu_term": "Kusutula",
+      "portuguese_translation": "Empanzinar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar obtuso",
+        "Empachar",
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusutula-1 — https://www.kimbundu.org/pt/word/kusutula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11966,
+      "kimbundu_term": "Kusutura",
+      "portuguese_translation": "Estar obeso, cheio, pesado",
+      "definition": null,
+      "alternative_meanings": [
+        "Diz-se do afogado que, devido a água ingerida, não pode emergir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusutura-1 — https://www.kimbundu.org/pt/word/kusutura",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11967,
+      "kimbundu_term": "Kusutura",
+      "portuguese_translation": "Obesidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusutura-1 — https://www.kimbundu.org/pt/word/kusutura",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11968,
+      "kimbundu_term": "Kusutuxisa",
+      "portuguese_translation": "Fazer empachar, encher em demasia",
+      "definition": null,
+      "alternative_meanings": [
+        "Tornar pesado, sem ação"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusutuxisa-1 — https://www.kimbundu.org/pt/word/kusutuxisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11969,
+      "kimbundu_term": "Kusuuafa",
+      "portuguese_translation": "Estar pensativo, triste",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuuafa-1 — https://www.kimbundu.org/pt/word/kusuuafa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11970,
+      "kimbundu_term": "Kusuuafa",
+      "portuguese_translation": "Kurisuuafa, e r. Mostrar-se desgostoso",
+      "definition": null,
+      "alternative_meanings": [
+        "Ter o queixo apoiado nas palmas das mãos (em sinal de sentimento)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuuafa-1 — https://www.kimbundu.org/pt/word/kusuuafa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11971,
+      "kimbundu_term": "Kusuuatesa",
+      "portuguese_translation": "Fazer atender, ouvir (a voz da consciência). É tb. r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuuatesa-1 — https://www.kimbundu.org/pt/word/kusuuatesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11972,
+      "kimbundu_term": "Kusuwa",
+      "portuguese_translation": "Arpoar",
+      "definition": null,
+      "alternative_meanings": [
+        "fisgar",
+        "Apanhar peixe com chuço"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuwa-1 — https://www.kimbundu.org/pt/word/kusuwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11973,
+      "kimbundu_term": "Kusuwa",
+      "portuguese_translation": "Atender",
+      "definition": null,
+      "alternative_meanings": [
+        "Cuidar de",
+        "ter consideração por"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuwa-1 — https://www.kimbundu.org/pt/word/kusuwa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
