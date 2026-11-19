@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10814,
+      "kimbundu_term": "Kundúnda",
+      "portuguese_translation": "Kurindunda, e r. Encontrar-se e produzir embate recíproco",
+      "definition": null,
+      "alternative_meanings": [
+        "Chocar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kundúnda-1 — https://www.kimbundu.org/pt/word/kundunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10815,
+      "kimbundu_term": "Kundunduma",
+      "portuguese_translation": "Retumbar",
+      "definition": null,
+      "alternative_meanings": [
+        "rumorejar",
+        "Produzir som confuso não muito forte",
+        "Ecoar",
+        "repercutir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kundunduma-1 — https://www.kimbundu.org/pt/word/kundunduma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10816,
+      "kimbundu_term": "Kundunjila",
+      "portuguese_translation": "Concitar",
+      "definition": null,
+      "alternative_meanings": [
+        "induzir",
+        "Aconselhar (para o mal)",
+        "sugerir",
+        "sub. Insinuação",
+        "incitamento",
+        "Kurindunjila, v. r. Inspirar-se",
+        "aceitar sugestões"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kundunjila-1 — https://www.kimbundu.org/pt/word/kundunjila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10817,
+      "kimbundu_term": "Kunéma",
+      "portuguese_translation": "Pesar: njila mu ende u à mone o kuleba",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunéma-1 — https://www.kimbundu.org/pt/word/kunema",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10818,
+      "kimbundu_term": "Kunéma",
+      "portuguese_translation": "Ter peso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunéma-1 — https://www.kimbundu.org/pt/word/kunema",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10819,
+      "kimbundu_term": "Kunéma",
+      "portuguese_translation": "Sopesar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunéma-1 — https://www.kimbundu.org/pt/word/kunema",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10820,
+      "kimbundu_term": "Kunéma",
+      "portuguese_translation": "Peso",
+      "definition": null,
+      "alternative_meanings": [
+        "força"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunéma-2 — https://www.kimbundu.org/pt/word/kunema",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10821,
+      "kimbundu_term": "Kunemana",
+      "portuguese_translation": "Ficar deformado, aleijado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunemana-1 — https://www.kimbundu.org/pt/word/kunemana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10822,
+      "kimbundu_term": "Kunemana",
+      "portuguese_translation": "Estar ou ficar coxo, ter defeito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunemana-1 — https://www.kimbundu.org/pt/word/kunemana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10823,
+      "kimbundu_term": "Kunemeka",
+      "portuguese_translation": "Defeituar",
+      "definition": null,
+      "alternative_meanings": [
+        "aleijár"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunemeka-1 — https://www.kimbundu.org/pt/word/kunemeka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
