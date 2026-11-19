@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17224,
+      "kimbundu_term": "Mútangu",
+      "portuguese_translation": "Professo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mútangu-1 — https://www.kimbundu.org/pt/word/mutangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17225,
+      "kimbundu_term": "Mutanu",
+      "portuguese_translation": "Feixe de vides por atar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutanu-1 — https://www.kimbundu.org/pt/word/mutanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17226,
+      "kimbundu_term": "Mutanu",
+      "portuguese_translation": "Pov. e sede do posto do Humbe, circ. civ. dos Gambos, est. postal e Missão Católica",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutanu-1 — https://www.kimbundu.org/pt/word/mutanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17227,
+      "kimbundu_term": "Mutanyi",
+      "portuguese_translation": "Varal",
+      "definition": null,
+      "alternative_meanings": [
+        "pau comprido"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutanyi-1 — https://www.kimbundu.org/pt/word/mutanyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17228,
+      "kimbundu_term": "Mutata",
+      "portuguese_translation": "Macho",
+      "definition": null,
+      "alternative_meanings": [
+        "varão. (adj.) Robusto",
+        "masculino"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutata-1 — https://www.kimbundu.org/pt/word/mutata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17229,
+      "kimbundu_term": "Mutata",
+      "portuguese_translation": "sub. e adj. Rústico",
+      "definition": null,
+      "alternative_meanings": [
+        "incívil. Homem do campo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutata-1 — https://www.kimbundu.org/pt/word/mutata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17230,
+      "kimbundu_term": "Mutáta",
+      "portuguese_translation": "Arbusto da família das poligaláceas (securidaca longepedunculata), cuja casca e flores contêm um alcaloide extremamente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutáta-1 — https://www.kimbundu.org/pt/word/mutata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17231,
+      "kimbundu_term": "Mútate",
+      "portuguese_translation": "Amarrador. Que cinge",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mútate-1 — https://www.kimbundu.org/pt/word/mutate",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17232,
+      "kimbundu_term": "Mutáte",
+      "portuguese_translation": "Lamentador. Que manifesta sentimento por. Queixoso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutáte-1 — https://www.kimbundu.org/pt/word/mutate",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17233,
+      "kimbundu_term": "Mutáu",
+      "portuguese_translation": "Estrado sobre o qual se estende mandioca ou outros produtos para secar. Tarima",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutáu-1 — https://www.kimbundu.org/pt/word/mutau",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
