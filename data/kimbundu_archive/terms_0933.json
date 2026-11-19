@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9434,
+      "kimbundu_term": "Kukindula",
+      "portuguese_translation": "Balanceamento. Kurikindula, intr. e r.: Andar no balanço",
+      "definition": null,
+      "alternative_meanings": [
+        "balouçar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukindula-1 — https://www.kimbundu.org/pt/word/kukindula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9435,
+      "kimbundu_term": "Kukindula",
+      "portuguese_translation": "Kurikindula. intr. e r. Andar no balanço",
+      "definition": null,
+      "alternative_meanings": [
+        "balouçar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukindula-1 — https://www.kimbundu.org/pt/word/kukindula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9436,
+      "kimbundu_term": "Kukinga",
+      "portuguese_translation": "Esperar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukinga-1 — https://www.kimbundu.org/pt/word/kukinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9437,
+      "kimbundu_term": "Kukinga",
+      "portuguese_translation": "Ter esperança",
+      "definition": null,
+      "alternative_meanings": [
+        "aguardar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukinga-1 — https://www.kimbundu.org/pt/word/kukinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9438,
+      "kimbundu_term": "Kukinga",
+      "portuguese_translation": "Espera. Kuricinga, e r.: Ser derradeiro. Revezar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "esperar um pelo outro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukinga-1 — https://www.kimbundu.org/pt/word/kukinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9439,
+      "kimbundu_term": "Kukinga",
+      "portuguese_translation": "Kurikinga, e r. Ser derradeiro. Revezar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "esperar um pelo outro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukinga-1 — https://www.kimbundu.org/pt/word/kukinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9440,
+      "kimbundu_term": "Kukingisa",
+      "portuguese_translation": "Fazer esperar, mandar aguardar. Esperançar",
+      "definition": null,
+      "alternative_meanings": [
+        "deter. Kurikingisa, v. r.: Fazer-se esperar. Deter-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukingisa-1 — https://www.kimbundu.org/pt/word/kukingisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9441,
+      "kimbundu_term": "Kukingisa",
+      "portuguese_translation": "Kurikingisa, v. r. Fazer-se esperar",
+      "definition": null,
+      "alternative_meanings": [
+        "Deter-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukingisa-1 — https://www.kimbundu.org/pt/word/kukingisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9442,
+      "kimbundu_term": "Kukinisa",
+      "portuguese_translation": "Fazer folgar, dançar, divertir. fig. Fazer atrapalhar, arreliar. É também recíproco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukinisa-1 — https://www.kimbundu.org/pt/word/kukinisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9443,
+      "kimbundu_term": "Kúkita",
+      "portuguese_translation": "Dar forma a. Fazer",
+      "definition": null,
+      "alternative_meanings": [
+        "produzir. Ser tido ou havido. Parir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkita-1 — https://www.kimbundu.org/pt/word/kukita",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
