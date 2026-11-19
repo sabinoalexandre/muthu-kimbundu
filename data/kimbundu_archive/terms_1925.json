@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19354,
+      "kimbundu_term": "Uaia",
+      "portuguese_translation": "(IX) Olheira. É us. no pl. jiudia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo, onomatopaico",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uaia-1 — https://www.kimbundu.org/pt/word/uaia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19355,
+      "kimbundu_term": "Uakamukuá",
+      "portuguese_translation": "e pron. indef. (I) Outra",
+      "definition": null,
+      "alternative_meanings": [
+        "outro",
+        "Diferente",
+        "restante"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uakamukuá-1 — https://www.kimbundu.org/pt/word/uakamukua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19356,
+      "kimbundu_term": "Uakamukuá",
+      "portuguese_translation": "Outrem",
+      "definition": null,
+      "alternative_meanings": [
+        "outra pessoa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uakamukuá-1 — https://www.kimbundu.org/pt/word/uakamukua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19357,
+      "kimbundu_term": "Uâku",
+      "portuguese_translation": "(IX) Maldição",
+      "definition": null,
+      "alternative_meanings": [
+        "vileza"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uâku-1 — https://www.kimbundu.org/pt/word/uaku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19358,
+      "kimbundu_term": "Uâku",
+      "portuguese_translation": "Vilmente",
+      "definition": null,
+      "alternative_meanings": [
+        "com rudeza"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uâku-1 — https://www.kimbundu.org/pt/word/uaku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19359,
+      "kimbundu_term": "Uâku",
+      "portuguese_translation": "Infame",
+      "definition": null,
+      "alternative_meanings": [
+        "nocivo",
+        "prejudicial"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uâku-1 — https://www.kimbundu.org/pt/word/uaku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19360,
+      "kimbundu_term": "Uálende",
+      "portuguese_translation": "(V) port. Aguardente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uálende-1 — https://www.kimbundu.org/pt/word/ualende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19361,
+      "kimbundu_term": "Uâlua",
+      "portuguese_translation": "(V) Grapa",
+      "definition": null,
+      "alternative_meanings": [
+        "cerveja"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uâlua-1 — https://www.kimbundu.org/pt/word/ualua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19362,
+      "kimbundu_term": "Uâlua",
+      "portuguese_translation": "cervejeiro., vendedor de cerveja",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uâlua-1 — https://www.kimbundu.org/pt/word/ualua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19363,
+      "kimbundu_term": "Uambelu",
+      "portuguese_translation": "Expressão",
+      "definition": null,
+      "alternative_meanings": [
+        "dito"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uambelu-1 — https://www.kimbundu.org/pt/word/uambelu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
