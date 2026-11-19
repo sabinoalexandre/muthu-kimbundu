@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14504,
+      "kimbundu_term": "Maiski",
+      "portuguese_translation": "Ovas — ma pungu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maiski-1 — https://www.kimbundu.org/pt/word/maiski",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14505,
+      "kimbundu_term": "Maiski",
+      "portuguese_translation": "Ovada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maiski-1 — https://www.kimbundu.org/pt/word/maiski",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14506,
+      "kimbundu_term": "Maiundu",
+      "portuguese_translation": "Cercanias",
+      "definition": null,
+      "alternative_meanings": [
+        "arrabaldes"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maiundu-1 — https://www.kimbundu.org/pt/word/maiundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14507,
+      "kimbundu_term": "Maiundu",
+      "portuguese_translation": "A parte ou lugares que ficam no aro de uma povoação, vila ou cidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maiundu-1 — https://www.kimbundu.org/pt/word/maiundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14508,
+      "kimbundu_term": "Maiundu",
+      "portuguese_translation": "Arredores",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maiundu-1 — https://www.kimbundu.org/pt/word/maiundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14509,
+      "kimbundu_term": "Maiundu",
+      "portuguese_translation": "O que mora fora da cidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maiundu-1 — https://www.kimbundu.org/pt/word/maiundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14510,
+      "kimbundu_term": "Maiundu",
+      "portuguese_translation": "De arrabalde",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maiundu-1 — https://www.kimbundu.org/pt/word/maiundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14511,
+      "kimbundu_term": "Mâji",
+      "portuguese_translation": "Óleo",
+      "definition": null,
+      "alternative_meanings": [
+        "azeite"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mâji-1 — https://www.kimbundu.org/pt/word/maji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14512,
+      "kimbundu_term": "Mâji",
+      "portuguese_translation": "Gordura",
+      "definition": null,
+      "alternative_meanings": [
+        "banha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mâji-1 — https://www.kimbundu.org/pt/word/maji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14513,
+      "kimbundu_term": "Mâji",
+      "portuguese_translation": "Sebo",
+      "definition": null,
+      "alternative_meanings": [
+        "unto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mâji-1 — https://www.kimbundu.org/pt/word/maji",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
