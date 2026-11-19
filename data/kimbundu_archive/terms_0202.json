@@ -1,0 +1,172 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2124,
+      "kimbundu_term": "Iluminu",
+      "portuguese_translation": "Estrondos",
+      "definition": null,
+      "alternative_meanings": [
+        "Trovões",
+        "Ressonâncias",
+        "Ruídos",
+        "rumores"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iluminu-1 — https://www.kimbundu.org/pt/word/iluminu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2125,
+      "kimbundu_term": "Ilwezu",
+      "portuguese_translation": "Imprevidência",
+      "definition": null,
+      "alternative_meanings": [
+        "Perigo",
+        "Falta de previdência, de cuidado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ilwezu-1 — https://www.kimbundu.org/pt/word/ilwezu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2126,
+      "kimbundu_term": "Ilwezu",
+      "portuguese_translation": "adj. Imprevidente",
+      "definition": null,
+      "alternative_meanings": [
+        "Perigoso",
+        "Que pode causar dano"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ilwezu-1 — https://www.kimbundu.org/pt/word/ilwezu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2127,
+      "kimbundu_term": "Ima",
+      "portuguese_translation": "Têres",
+      "definition": null,
+      "alternative_meanings": [
+        "Bens",
+        "haveres",
+        "Meios de fortuna",
+        "Adubos",
+        "O que se deita na comida para lhe dar substância",
+        "Aviamentos",
+        "preparos",
+        "temperos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ima-1 — https://www.kimbundu.org/pt/word/ima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2128,
+      "kimbundu_term": "Ima",
+      "portuguese_translation": "Coisas necessárias para o acabamento de qualquer obra",
+      "definition": null,
+      "alternative_meanings": [
+        "O que se faz ou diz",
+        "Casos",
+        "Mistérios"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ima-1 — https://www.kimbundu.org/pt/word/ima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2129,
+      "kimbundu_term": "Imana",
+      "portuguese_translation": "Alto! Pára! Tá! Não te movas! Espera",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imana-1 — https://www.kimbundu.org/pt/word/imana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2130,
+      "kimbundu_term": "Imavumu",
+      "portuguese_translation": "Grandes barrigas",
+      "definition": null,
+      "alternative_meanings": [
+        "Barrigadas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imavumu-1 — https://www.kimbundu.org/pt/word/imavumu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2131,
+      "kimbundu_term": "Imbalambi",
+      "portuguese_translation": "Diz-se das pessoas que, no dia do casamento, acompanham a noiva à casa do marido",
+      "definition": null,
+      "alternative_meanings": [
+        "Convidados"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imbalambi-1 — https://www.kimbundu.org/pt/word/imbalambi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2132,
+      "kimbundu_term": "Imbámba",
+      "portuguese_translation": "Vermes",
+      "definition": null,
+      "alternative_meanings": [
+        "Lombrigas",
+        "Bichos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imbámba-1 — https://www.kimbundu.org/pt/word/imbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2133,
+      "kimbundu_term": "Imbâmba",
+      "portuguese_translation": "Cargas",
+      "definition": null,
+      "alternative_meanings": [
+        "Grande quantidade de coisas pesadas",
+        "Camada",
+        "aglomeração de volumes",
+        "Tarecos",
+        "Carregamento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imbâmba-1 — https://www.kimbundu.org/pt/word/imbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
