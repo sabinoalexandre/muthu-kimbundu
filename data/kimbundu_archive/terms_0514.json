@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5244,
+      "kimbundu_term": "Kikomba",
+      "portuguese_translation": "Pov. e sede do posto de Chicomba, circ. civ. de Caconda, distrit. e pov. da Huila, 16.612 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikomba-1 — https://www.kimbundu.org/pt/word/kikomba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5245,
+      "kimbundu_term": "Kikombelu",
+      "portuguese_translation": "Vasculho",
+      "definition": null,
+      "alternative_meanings": [
+        "O que serve para limpar, varrendo",
+        "Varredouro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikombelu-1 — https://www.kimbundu.org/pt/word/kikombelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5246,
+      "kimbundu_term": "Kikombelu",
+      "portuguese_translation": "Vassoura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikombelu-1 — https://www.kimbundu.org/pt/word/kikombelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5247,
+      "kimbundu_term": "Kikómbo",
+      "portuguese_translation": "Nome por que é tb. conhecido o rio Cubil, ao sul de Novo Redondo, distr. do Quanza-Sul, prov. de Benguela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikómbo-1 — https://www.kimbundu.org/pt/word/kikombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5248,
+      "kimbundu_term": "Kikonda",
+      "portuguese_translation": "Guarnição",
+      "definition": null,
+      "alternative_meanings": [
+        "cercadura",
+        "orla",
+        "Cerco",
+        "Sítio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikonda-1 — https://www.kimbundu.org/pt/word/kikonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5249,
+      "kimbundu_term": "Kikónda",
+      "portuguese_translation": "Tegumento",
+      "definition": null,
+      "alternative_meanings": [
+        "pele",
+        "Epiderme"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikónda-1 — https://www.kimbundu.org/pt/word/kikonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5250,
+      "kimbundu_term": "Kikondekelu",
+      "portuguese_translation": "Abrigo",
+      "definition": null,
+      "alternative_meanings": [
+        "refúgio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikondekelu-1 — https://www.kimbundu.org/pt/word/kikondekelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5251,
+      "kimbundu_term": "Kikondekelu",
+      "portuguese_translation": "Próprio para esconder",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikondekelu-1 — https://www.kimbundu.org/pt/word/kikondekelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5252,
+      "kimbundu_term": "Kikongo",
+      "portuguese_translation": "Língua do Congo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikongo-1 — https://www.kimbundu.org/pt/word/kikongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5253,
+      "kimbundu_term": "Kikongo",
+      "portuguese_translation": "Coronha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikongo-1 — https://www.kimbundu.org/pt/word/kikongo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
