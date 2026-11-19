@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10134,
+      "kimbundu_term": "Kulekela",
+      "portuguese_translation": "Cumprimento a, ou de quem parte",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulekela-1 — https://www.kimbundu.org/pt/word/kulekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10135,
+      "kimbundu_term": "Kulekela",
+      "portuguese_translation": "Kurilekela, v. r. Despedir-se",
+      "definition": null,
+      "alternative_meanings": [
+        "dizer adeus"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulekela-1 — https://www.kimbundu.org/pt/word/kulekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10136,
+      "kimbundu_term": "Kulekelela",
+      "portuguese_translation": "Vozear",
+      "definition": null,
+      "alternative_meanings": [
+        "grasnar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulekelela-1 — https://www.kimbundu.org/pt/word/kulekelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10137,
+      "kimbundu_term": "Kulekelela",
+      "portuguese_translation": "Requerer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulekelela-1 — https://www.kimbundu.org/pt/word/kulekelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10138,
+      "kimbundu_term": "Kulekesa",
+      "portuguese_translation": "Indigitar",
+      "definition": null,
+      "alternative_meanings": [
+        "indicar",
+        "apontar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulekesa-1 — https://www.kimbundu.org/pt/word/kulekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10139,
+      "kimbundu_term": "Kulekesa",
+      "portuguese_translation": "Despedir (o golpe)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulekesa-1 — https://www.kimbundu.org/pt/word/kulekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10140,
+      "kimbundu_term": "Kuleketa",
+      "portuguese_translation": "Provar (com a língua)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuleketa-1 — https://www.kimbundu.org/pt/word/kuleketa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10141,
+      "kimbundu_term": "Kuleketa",
+      "portuguese_translation": "Tomar gosto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuleketa-1 — https://www.kimbundu.org/pt/word/kuleketa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10142,
+      "kimbundu_term": "Kulekujuka",
+      "portuguese_translation": "Chamejar",
+      "definition": null,
+      "alternative_meanings": [
+        "deitar línguas de fogo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulekujuka-1 — https://www.kimbundu.org/pt/word/kulekujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10143,
+      "kimbundu_term": "Kulekujuka",
+      "portuguese_translation": "Arder com violência e por muito tempo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulekujuka-1 — https://www.kimbundu.org/pt/word/kulekujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
