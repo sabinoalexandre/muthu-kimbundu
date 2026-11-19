@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5514,
+      "kimbundu_term": "Kilúngu",
+      "portuguese_translation": "Espera para atacar de improviso quem passa. Emboscada. Cilada",
+      "definition": null,
+      "alternative_meanings": [
+        "traição"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilúngu-1 — https://www.kimbundu.org/pt/word/kilungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5515,
+      "kimbundu_term": "Kilúngu",
+      "portuguese_translation": "Lugar onde se faz a emboscada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilúngu-1 — https://www.kimbundu.org/pt/word/kilungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5516,
+      "kimbundu_term": "Kilungulu",
+      "portuguese_translation": "Que não tem consciência. Irresponsável. Volúvel",
+      "definition": null,
+      "alternative_meanings": [
+        "inconstante. Infiel"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilungulu-1 — https://www.kimbundu.org/pt/word/kilungulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5517,
+      "kimbundu_term": "Kilungulúlu",
+      "portuguese_translation": "Mudança de forma ou de qualidade. Conversão",
+      "definition": null,
+      "alternative_meanings": [
+        "transferência"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilungulúlu-1 — https://www.kimbundu.org/pt/word/kilungululu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5518,
+      "kimbundu_term": "Kilungulungu",
+      "portuguese_translation": "Vão",
+      "definition": null,
+      "alternative_meanings": [
+        "falto de inteligência. Frívolo",
+        "ridículo",
+        "oco. Sem juízo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilungulungu-1 — https://www.kimbundu.org/pt/word/kilungulungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5519,
+      "kimbundu_term": "Kilúnji",
+      "portuguese_translation": "Juízo. Discernimento",
+      "definition": null,
+      "alternative_meanings": [
+        "tino",
+        "bom senso. Entendimento",
+        "raciocínio",
+        "memória"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilúnji-1 — https://www.kimbundu.org/pt/word/kilunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5520,
+      "kimbundu_term": "Kilúnji",
+      "portuguese_translation": "Pensamento. Reflexão",
+      "definition": null,
+      "alternative_meanings": [
+        "ideia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilúnji-1 — https://www.kimbundu.org/pt/word/kilunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5521,
+      "kimbundu_term": "Kiluse",
+      "portuguese_translation": "Vomitório. Vomitivo. Vomitado",
+      "definition": null,
+      "alternative_meanings": [
+        "lançado (da boca)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiluse-1 — https://www.kimbundu.org/pt/word/kiluse",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5522,
+      "kimbundu_term": "Kiluse",
+      "portuguese_translation": "O que faz vomitar. fig. Asneira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiluse-1 — https://www.kimbundu.org/pt/word/kiluse",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5523,
+      "kimbundu_term": "Kilute",
+      "portuguese_translation": "Abortado, estragado",
+      "definition": null,
+      "alternative_meanings": [
+        "podre"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilute-1 — https://www.kimbundu.org/pt/word/kilute",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
