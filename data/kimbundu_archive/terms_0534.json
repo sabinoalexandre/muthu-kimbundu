@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5444,
+      "kimbundu_term": "Kiléndu",
+      "portuguese_translation": "Careta que consiste em deitar a língua de fora",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiléndu-1 — https://www.kimbundu.org/pt/word/kilendu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5445,
+      "kimbundu_term": "Kilénge",
+      "portuguese_translation": "Hortícola",
+      "definition": null,
+      "alternative_meanings": [
+        "hortense",
+        "Das hortas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilénge-1 — https://www.kimbundu.org/pt/word/kilenge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5446,
+      "kimbundu_term": "Kilénge",
+      "portuguese_translation": "Pov. da circ. civ. deste nome, freg. de Sant'Ana, distr. e prov. da Huila, 14° 5' lat. S. e 14° 6' de lat. E., 809 mts.",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilénge-1 — https://www.kimbundu.org/pt/word/kilenge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5447,
+      "kimbundu_term": "Kilénge",
+      "portuguese_translation": "Região compreendida na circ. civ. dos Dembos, distrito e prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilénge-1 — https://www.kimbundu.org/pt/word/kilenge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5448,
+      "kimbundu_term": "Kilengu",
+      "portuguese_translation": "Urgência. Apressamento",
+      "definition": null,
+      "alternative_meanings": [
+        "velocidade. Celeridade",
+        "presteza"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilengu-1 — https://www.kimbundu.org/pt/word/kilengu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5449,
+      "kimbundu_term": "Kilengu",
+      "portuguese_translation": "Veloz",
+      "definition": null,
+      "alternative_meanings": [
+        "ligeiro",
+        "apressado",
+        "Que se move com presteza"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilengu-1 — https://www.kimbundu.org/pt/word/kilengu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5450,
+      "kimbundu_term": "Kilêua",
+      "portuguese_translation": "Sáfaro",
+      "definition": null,
+      "alternative_meanings": [
+        "agreste",
+        "rude",
+        "Que não deixa medrar",
+        "Bravio",
+        "inculto",
+        "seco"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilêua-1 — https://www.kimbundu.org/pt/word/kileua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5451,
+      "kimbundu_term": "Kilêua",
+      "portuguese_translation": "Terra improdutiva",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilêua-1 — https://www.kimbundu.org/pt/word/kileua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5452,
+      "kimbundu_term": "Kilóko",
+      "portuguese_translation": "Fórmula do juramento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilóko-1 — https://www.kimbundu.org/pt/word/kiloko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5453,
+      "kimbundu_term": "Kilóko",
+      "portuguese_translation": "Jura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilóko-1 — https://www.kimbundu.org/pt/word/kiloko",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
