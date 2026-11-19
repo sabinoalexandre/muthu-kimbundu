@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3864,
+      "kimbundu_term": "Kángengo",
+      "portuguese_translation": "Relativo ao gémeo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kángengo-1 — https://www.kimbundu.org/pt/word/kangengo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3865,
+      "kimbundu_term": "Kangîji",
+      "portuguese_translation": "Ribeirinho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kangîji-1 — https://www.kimbundu.org/pt/word/kangiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3866,
+      "kimbundu_term": "Kangîji",
+      "portuguese_translation": "Pequeno curso de água",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kangîji-1 — https://www.kimbundu.org/pt/word/kangiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3867,
+      "kimbundu_term": "Kangîji",
+      "portuguese_translation": "Regato",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kangîji-1 — https://www.kimbundu.org/pt/word/kangiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3868,
+      "kimbundu_term": "Kanginga",
+      "portuguese_translation": "Pequeno lacrau",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanginga-1 — https://www.kimbundu.org/pt/word/kanginga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3869,
+      "kimbundu_term": "Kanginga",
+      "portuguese_translation": "Planta herbácea de propriedades medicinais em casos de dores de dentes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanginga-1 — https://www.kimbundu.org/pt/word/kanginga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3870,
+      "kimbundu_term": "Kangoji",
+      "portuguese_translation": "Cordel",
+      "definition": null,
+      "alternative_meanings": [
+        "barbante",
+        "fio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kangoji-1 — https://www.kimbundu.org/pt/word/kangoji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3871,
+      "kimbundu_term": "Kangola",
+      "portuguese_translation": "De Angola",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kangola-1 — https://www.kimbundu.org/pt/word/kangola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3872,
+      "kimbundu_term": "Kangola",
+      "portuguese_translation": "Angolense",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kangola-1 — https://www.kimbundu.org/pt/word/kangola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3873,
+      "kimbundu_term": "Kangóma",
+      "portuguese_translation": "Tamborim. Pequeno tambor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kangóma-1 — https://www.kimbundu.org/pt/word/kangoma",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
