@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12844,
+      "kimbundu_term": "Kutuuika",
+      "portuguese_translation": "Tapar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutuuika-1 — https://www.kimbundu.org/pt/word/kutuuika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12845,
+      "kimbundu_term": "Kutuuika",
+      "portuguese_translation": "Cobrir com tampa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutuuika-1 — https://www.kimbundu.org/pt/word/kutuuika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12846,
+      "kimbundu_term": "Kutuuikisa",
+      "portuguese_translation": "Fazer tapar, cobrir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutuuikisa-1 — https://www.kimbundu.org/pt/word/kutuuikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12847,
+      "kimbundu_term": "Kutuuisa",
+      "portuguese_translation": "Fazer errar, enganar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutuuisa-1 — https://www.kimbundu.org/pt/word/kutuuisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12848,
+      "kimbundu_term": "Kutuúla",
+      "portuguese_translation": "Destampar",
+      "definition": null,
+      "alternative_meanings": [
+        "descobrir (uma panela)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutuúla-1 — https://www.kimbundu.org/pt/word/kutuula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12849,
+      "kimbundu_term": "Kutuúla",
+      "portuguese_translation": "Kurituúla, v. r. Tornar-se descalado. Descobrir-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutuúla-1 — https://www.kimbundu.org/pt/word/kutuula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12850,
+      "kimbundu_term": "Kútuza",
+      "portuguese_translation": "Mexericar",
+      "definition": null,
+      "alternative_meanings": [
+        "traquinar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútuza-1 — https://www.kimbundu.org/pt/word/kutuza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12851,
+      "kimbundu_term": "Kútuza",
+      "portuguese_translation": "Fazer travessuras",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútuza-1 — https://www.kimbundu.org/pt/word/kutuza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12852,
+      "kimbundu_term": "Kútuza",
+      "portuguese_translation": "Latejar",
+      "definition": null,
+      "alternative_meanings": [
+        "doer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútuza-1 — https://www.kimbundu.org/pt/word/kutuza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12853,
+      "kimbundu_term": "Kútuza",
+      "portuguese_translation": "Pulsação",
+      "definition": null,
+      "alternative_meanings": [
+        "dor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútuza-1 — https://www.kimbundu.org/pt/word/kutuza",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
