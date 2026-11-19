@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11784,
+      "kimbundu_term": "Kusuangala",
+      "portuguese_translation": "Estar seco, sem umidade",
+      "definition": null,
+      "alternative_meanings": [
+        "Diz-se do pirão feito só com azeite, sem água, ou do arroz solto"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuangala-1 — https://www.kimbundu.org/pt/word/kusuangala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11785,
+      "kimbundu_term": "Kusuangalesa",
+      "portuguese_translation": "Tornar seco, solto (qualquer iguaria)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuangalesa-1 — https://www.kimbundu.org/pt/word/kusuangalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11786,
+      "kimbundu_term": "Kusuasuana",
+      "portuguese_translation": "Estar atormentado",
+      "definition": null,
+      "alternative_meanings": [
+        "Estar desfarelado, carcomido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuasuana-1 — https://www.kimbundu.org/pt/word/kusuasuana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11787,
+      "kimbundu_term": "Kusuasuana",
+      "portuguese_translation": "Atrapalhar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "encontrar-se em dificuldades",
+        "não saber que fazer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuasuana-1 — https://www.kimbundu.org/pt/word/kusuasuana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11788,
+      "kimbundu_term": "Kusuasuanesa",
+      "portuguese_translation": "Arruinar, transtornar (o espírito)",
+      "definition": null,
+      "alternative_meanings": [
+        "Meter em apertos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuasuanesa-1 — https://www.kimbundu.org/pt/word/kusuasuanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11789,
+      "kimbundu_term": "Kusuasula",
+      "portuguese_translation": "Estugar, aligeirar (o passo)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuasula-1 — https://www.kimbundu.org/pt/word/kusuasula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11790,
+      "kimbundu_term": "Kusuáta",
+      "portuguese_translation": "Cair certo",
+      "definition": null,
+      "alternative_meanings": [
+        "estar justo, na medida"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuáta-1 — https://www.kimbundu.org/pt/word/kusuata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11791,
+      "kimbundu_term": "Kusuáta",
+      "portuguese_translation": "Exatidão",
+      "definition": null,
+      "alternative_meanings": [
+        "certeza"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuáta-1 — https://www.kimbundu.org/pt/word/kusuata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11792,
+      "kimbundu_term": "Kusuatesa",
+      "portuguese_translation": "Ajustar",
+      "definition": null,
+      "alternative_meanings": [
+        "Pôr na medida"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuatesa-1 — https://www.kimbundu.org/pt/word/kusuatesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11793,
+      "kimbundu_term": "Kusúba",
+      "portuguese_translation": "Restar",
+      "definition": null,
+      "alternative_meanings": [
+        "ficar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusúba-1 — https://www.kimbundu.org/pt/word/kusuba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
