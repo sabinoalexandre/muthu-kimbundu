@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5694,
+      "kimbundu_term": "Kinâna",
+      "portuguese_translation": "(III) Que faz grande vulto",
+      "definition": null,
+      "alternative_meanings": [
+        "Volumoso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinâna-1 — https://www.kimbundu.org/pt/word/kinana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5695,
+      "kimbundu_term": "Kinâna",
+      "portuguese_translation": "De graça",
+      "definition": null,
+      "alternative_meanings": [
+        "À granel",
+        "Sem conta"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinâna-1 — https://www.kimbundu.org/pt/word/kinana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5696,
+      "kimbundu_term": "Kinanenu",
+      "portuguese_translation": "Esticador",
+      "definition": null,
+      "alternative_meanings": [
+        "Utensílio para retesar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinanenu-1 — https://www.kimbundu.org/pt/word/kinanenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5697,
+      "kimbundu_term": "Kinanese",
+      "portuguese_translation": "(III) Que faz levedar, aumentar de volume (devido ao fermento). Exagerado",
+      "definition": null,
+      "alternative_meanings": [
+        "hiperbólico",
+        "Que torna as coisas maiores do que são"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinanese-1 — https://www.kimbundu.org/pt/word/kinanese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5698,
+      "kimbundu_term": "Kinanese",
+      "portuguese_translation": "Levedura",
+      "definition": null,
+      "alternative_meanings": [
+        "Fermento"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinanese-1 — https://www.kimbundu.org/pt/word/kinanese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5699,
+      "kimbundu_term": "Kinanga",
+      "portuguese_translation": "Lugar de estar",
+      "definition": null,
+      "alternative_meanings": [
+        "Largo",
+        "praça. Fig. Mercado",
+        "feira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinanga-1 — https://www.kimbundu.org/pt/word/kinanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5700,
+      "kimbundu_term": "Kinanga",
+      "portuguese_translation": "Lugarejo à beira da praia, ao sul da cidade de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinanga-1 — https://www.kimbundu.org/pt/word/kinanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5701,
+      "kimbundu_term": "Kinangenenu",
+      "portuguese_translation": "(III) Que faz demorar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinangenenu-1 — https://www.kimbundu.org/pt/word/kinangenenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5702,
+      "kimbundu_term": "Kinangenenu",
+      "portuguese_translation": "Demora",
+      "definition": null,
+      "alternative_meanings": [
+        "tardança",
+        "Delonga"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinangenenu-1 — https://www.kimbundu.org/pt/word/kinangenenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5703,
+      "kimbundu_term": "Kinangenu",
+      "portuguese_translation": "Coisa que faz ou ajuda a passar o tempo",
+      "definition": null,
+      "alternative_meanings": [
+        "Acompanhamento",
+        "companhia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinangenu-1 — https://www.kimbundu.org/pt/word/kinangenu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
