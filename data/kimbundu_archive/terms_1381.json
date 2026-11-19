@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13914,
+      "kimbundu_term": "Kwimajana",
+      "portuguese_translation": "Levantar-se à miúde (do lugar)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwimajana-1 — https://www.kimbundu.org/pt/word/kwimajana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13915,
+      "kimbundu_term": "Kwimana",
+      "portuguese_translation": "Parar",
+      "definition": null,
+      "alternative_meanings": [
+        "pôr-se em pé"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwimana-1 — https://www.kimbundu.org/pt/word/kwimana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13916,
+      "kimbundu_term": "Kwimana",
+      "portuguese_translation": "e intr. Cessar de andar, estar quieto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwimana-1 — https://www.kimbundu.org/pt/word/kwimana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13917,
+      "kimbundu_term": "Kwimanesa",
+      "portuguese_translation": "Fazer parar, levantar, deter",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwimanesa-1 — https://www.kimbundu.org/pt/word/kwimanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13918,
+      "kimbundu_term": "Kwimba",
+      "portuguese_translation": "Arrulhar",
+      "definition": null,
+      "alternative_meanings": [
+        "trautear"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwimba-1 — https://www.kimbundu.org/pt/word/kwimba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13919,
+      "kimbundu_term": "Kwimba",
+      "portuguese_translation": "Pov. e sede do posto civ. deste nome, circ. de S. Salvador, distr. do Congo, prov. de Luanda, 8.571 hab. e est. postal d",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwimba-1 — https://www.kimbundu.org/pt/word/kwimba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13920,
+      "kimbundu_term": "Kwimbila",
+      "portuguese_translation": "Cantar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwimbila-1 — https://www.kimbundu.org/pt/word/kwimbila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13921,
+      "kimbundu_term": "Kwimbila",
+      "portuguese_translation": "Trovar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwimbila-1 — https://www.kimbundu.org/pt/word/kwimbila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13922,
+      "kimbundu_term": "Kwimbila",
+      "portuguese_translation": "Cantarolar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwimbila-1 — https://www.kimbundu.org/pt/word/kwimbila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13923,
+      "kimbundu_term": "Kwimika",
+      "portuguese_translation": "Espetar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer parar",
+        "pôr em pé",
+        "Colocar em posição vertical"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwimika-1 — https://www.kimbundu.org/pt/word/kwimika",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
