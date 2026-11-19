@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10454,
+      "kimbundu_term": "Kulumbila",
+      "portuguese_translation": "Kurilumbila, v. r. Consagrar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "Oferecer-se à Divindade",
+        "Dedicar-se",
+        "votar-se",
+        "Ataviarse",
+        "abilhar-se",
+        "Ornar-se com esmero"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulumbila-1 — https://www.kimbundu.org/pt/word/kulumbila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10455,
+      "kimbundu_term": "Kulumbúla",
+      "portuguese_translation": "Acasalar",
+      "definition": null,
+      "alternative_meanings": [
+        "Conjugar",
+        "Estabelecer conjugação entre",
+        "Copular"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulumbúla-1 — https://www.kimbundu.org/pt/word/kulumbula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10456,
+      "kimbundu_term": "Kulumbúla",
+      "portuguese_translation": "Ganhar",
+      "definition": null,
+      "alternative_meanings": [
+        "lucrar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulumbúla-1 — https://www.kimbundu.org/pt/word/kulumbula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10457,
+      "kimbundu_term": "Kulumbúla",
+      "portuguese_translation": "Conjugação",
+      "definition": null,
+      "alternative_meanings": [
+        "junção"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulumbúla-1 — https://www.kimbundu.org/pt/word/kulumbula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10458,
+      "kimbundu_term": "Kulumbúla",
+      "portuguese_translation": "Kurilumbula, v. r. Unir intimamente",
+      "definition": null,
+      "alternative_meanings": [
+        "Ligar-se (macho e fêmea)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulumbúla-1 — https://www.kimbundu.org/pt/word/kulumbula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10459,
+      "kimbundu_term": "Kulumina",
+      "portuguese_translation": "Resoar",
+      "definition": null,
+      "alternative_meanings": [
+        "retumbar",
+        "Trovejar",
+        "rimbombar",
+        "repercutir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulumina-1 — https://www.kimbundu.org/pt/word/kulumina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10460,
+      "kimbundu_term": "Kulumina",
+      "portuguese_translation": "Esbravejar",
+      "definition": null,
+      "alternative_meanings": [
+        "vociferar",
+        "rugir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulumina-1 — https://www.kimbundu.org/pt/word/kulumina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10461,
+      "kimbundu_term": "Kulumina",
+      "portuguese_translation": "Retumbância",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulumina-1 — https://www.kimbundu.org/pt/word/kulumina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10462,
+      "kimbundu_term": "Kulúnda",
+      "portuguese_translation": "Conservar",
+      "definition": null,
+      "alternative_meanings": [
+        "guardar por muito tempo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulúnda-1 — https://www.kimbundu.org/pt/word/kulunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10463,
+      "kimbundu_term": "Kulúnda",
+      "portuguese_translation": "Arquivar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulúnda-1 — https://www.kimbundu.org/pt/word/kulunda",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
