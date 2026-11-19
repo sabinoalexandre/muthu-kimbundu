@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10154,
+      "kimbundu_term": "Kuléla",
+      "portuguese_translation": "Mitigar (no regaço) a criança",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuléla-1 — https://www.kimbundu.org/pt/word/kulela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10155,
+      "kimbundu_term": "Kuléla",
+      "portuguese_translation": "Amarelecer",
+      "definition": null,
+      "alternative_meanings": [
+        "empalidecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuléla-1 — https://www.kimbundu.org/pt/word/kulela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10156,
+      "kimbundu_term": "Kuléla",
+      "portuguese_translation": "Definhar",
+      "definition": null,
+      "alternative_meanings": [
+        "perder a cor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuléla-1 — https://www.kimbundu.org/pt/word/kulela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10157,
+      "kimbundu_term": "Kuléla",
+      "portuguese_translation": "Acalentamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuléla-1 — https://www.kimbundu.org/pt/word/kulela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10158,
+      "kimbundu_term": "Kuléla",
+      "portuguese_translation": "Definhamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuléla-1 — https://www.kimbundu.org/pt/word/kulela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10159,
+      "kimbundu_term": "Kuléla",
+      "portuguese_translation": "Palidez",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuléla-1 — https://www.kimbundu.org/pt/word/kulela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10160,
+      "kimbundu_term": "Kúlela",
+      "portuguese_translation": "Aventar",
+      "definition": null,
+      "alternative_meanings": [
+        "Grançar",
+        "limpar o farelo dos cereais",
+        "Ventilar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlela-1 — https://www.kimbundu.org/pt/word/kulela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10161,
+      "kimbundu_term": "Kúlela",
+      "portuguese_translation": "Grinça",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlela-1 — https://www.kimbundu.org/pt/word/kulela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10162,
+      "kimbundu_term": "Kulelâma",
+      "portuguese_translation": "Brilhar",
+      "definition": null,
+      "alternative_meanings": [
+        "luzir",
+        "Lustiar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulelâma-1 — https://www.kimbundu.org/pt/word/kulelama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10163,
+      "kimbundu_term": "Kulelâma",
+      "portuguese_translation": "Brilho",
+      "definition": null,
+      "alternative_meanings": [
+        "luzimento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulelâma-1 — https://www.kimbundu.org/pt/word/kulelama",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
