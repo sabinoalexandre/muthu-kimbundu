@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5374,
+      "kimbundu_term": "Kilandu",
+      "portuguese_translation": "Desleixo",
+      "definition": null,
+      "alternative_meanings": [
+        "negligência"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilandu-1 — https://www.kimbundu.org/pt/word/kilandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5375,
+      "kimbundu_term": "Kilânga",
+      "portuguese_translation": "Papada",
+      "definition": null,
+      "alternative_meanings": [
+        "A maçã do peito das rezes",
+        "Barbela",
+        "papeira",
+        "Broncócele",
+        "bócio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilânga-1 — https://www.kimbundu.org/pt/word/kilanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5376,
+      "kimbundu_term": "Kilânga",
+      "portuguese_translation": "Papo",
+      "definition": null,
+      "alternative_meanings": [
+        "Inflamação ou tumor na papada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilânga-1 — https://www.kimbundu.org/pt/word/kilanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5377,
+      "kimbundu_term": "Kilangeku",
+      "portuguese_translation": "Previsão",
+      "definition": null,
+      "alternative_meanings": [
+        "previdência"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilangeku-1 — https://www.kimbundu.org/pt/word/kilangeku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5378,
+      "kimbundu_term": "Kilangidilu",
+      "portuguese_translation": "Guarita",
+      "definition": null,
+      "alternative_meanings": [
+        "lugar onde se vigia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilangidilu-1 — https://www.kimbundu.org/pt/word/kilangidilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5379,
+      "kimbundu_term": "Kilangidilu",
+      "portuguese_translation": "Sentinela",
+      "definition": null,
+      "alternative_meanings": [
+        "guarda"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilangidilu-1 — https://www.kimbundu.org/pt/word/kilangidilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5380,
+      "kimbundu_term": "Kilangulangu",
+      "portuguese_translation": "Perturbação",
+      "definition": null,
+      "alternative_meanings": [
+        "arrebatamento",
+        "falta de serenidade. Inquietação",
+        "falta de sossego"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilangulangu-1 — https://www.kimbundu.org/pt/word/kilangulangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5381,
+      "kimbundu_term": "Kilangulangu",
+      "portuguese_translation": "Pena",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilangulangu-1 — https://www.kimbundu.org/pt/word/kilangulangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5382,
+      "kimbundu_term": "Kilangulangu",
+      "portuguese_translation": "Agitado",
+      "definition": null,
+      "alternative_meanings": [
+        "perturbado",
+        "penado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilangulangu-1 — https://www.kimbundu.org/pt/word/kilangulangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5383,
+      "kimbundu_term": "Kilapanga",
+      "portuguese_translation": "Festa alegre e ruidosa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilapanga-1 — https://www.kimbundu.org/pt/word/kilapanga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
