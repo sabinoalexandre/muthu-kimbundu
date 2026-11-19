@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3364,
+      "kimbundu_term": "Kakulúmba",
+      "portuguese_translation": "Ave do género pombo, assim chamada em razão do seu cantar",
+      "definition": null,
+      "alternative_meanings": [
+        "Rol"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakulúmba-1 — https://www.kimbundu.org/pt/word/kakulumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3365,
+      "kimbundu_term": "Kakunda",
+      "portuguese_translation": "Corcovado",
+      "definition": null,
+      "alternative_meanings": [
+        "Giboso",
+        "Pessoa de costas arqueadas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakunda-1 — https://www.kimbundu.org/pt/word/kakunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3366,
+      "kimbundu_term": "Kakunda",
+      "portuguese_translation": "Corcova",
+      "definition": null,
+      "alternative_meanings": [
+        "giba"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakunda-1 — https://www.kimbundu.org/pt/word/kakunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3367,
+      "kimbundu_term": "Kakusu",
+      "portuguese_translation": "Perca",
+      "definition": null,
+      "alternative_meanings": [
+        "cacusso pequeno",
+        "Pl. tulkusu"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakusu-1 — https://www.kimbundu.org/pt/word/kakusu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3368,
+      "kimbundu_term": "Kakuta",
+      "portuguese_translation": "Qualidade de feijão miúdo, muito parecido com «macunde»",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakuta-1 — https://www.kimbundu.org/pt/word/kakuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3369,
+      "kimbundu_term": "Kakutukutu",
+      "portuguese_translation": "Ave notívaga de rapina",
+      "definition": null,
+      "alternative_meanings": [
+        "Coruja. (É tb. conhecida por, em razão do seu canto)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakutukutu-1 — https://www.kimbundu.org/pt/word/kakutukutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3370,
+      "kimbundu_term": "Kakutukutu",
+      "portuguese_translation": "O que se não apresenta às vistas",
+      "definition": null,
+      "alternative_meanings": [
+        "Pessoa que anda às ocultas, a horas mortas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakutukutu-1 — https://www.kimbundu.org/pt/word/kakutukutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3371,
+      "kimbundu_term": "Kakúue",
+      "portuguese_translation": "Família de plantas gamopétalas (cryptosepalum curtissiorum)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakúue-1 — https://www.kimbundu.org/pt/word/kakuue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3372,
+      "kimbundu_term": "Kakúue",
+      "portuguese_translation": "Planta asclepiadea",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakúue-1 — https://www.kimbundu.org/pt/word/kakuue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3373,
+      "kimbundu_term": "Kakuxi",
+      "portuguese_translation": "interrog. Quantas vezes",
+      "definition": null,
+      "alternative_meanings": [
+        "Qual (das vezes)",
+        "Há quanto tempo"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakuxi-1 — https://www.kimbundu.org/pt/word/kakuxi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
