@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13464,
+      "kimbundu_term": "Kuzambesa",
+      "portuguese_translation": "Fazer glorificar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzambesa-1 — https://www.kimbundu.org/pt/word/kuzambesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13465,
+      "kimbundu_term": "Kuzambula",
+      "portuguese_translation": "Adivinhar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzambula-1 — https://www.kimbundu.org/pt/word/kuzambula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13466,
+      "kimbundu_term": "Kuzambula",
+      "portuguese_translation": "Prognosticar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzambula-1 — https://www.kimbundu.org/pt/word/kuzambula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13467,
+      "kimbundu_term": "Kuzambula",
+      "portuguese_translation": "sub. Prognosticação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzambula-1 — https://www.kimbundu.org/pt/word/kuzambula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13468,
+      "kimbundu_term": "Kuzamesa",
+      "portuguese_translation": "Mandar aproximar, abordar, atracar. Fazer abeirar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzamesa-1 — https://www.kimbundu.org/pt/word/kuzamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13469,
+      "kimbundu_term": "Kuzána",
+      "portuguese_translation": "Escarapelar",
+      "definition": null,
+      "alternative_meanings": [
+        "despedaçar com unhas e dentes"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzána-1 — https://www.kimbundu.org/pt/word/kuzana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13470,
+      "kimbundu_term": "Kuzána",
+      "portuguese_translation": "Esfrangalhar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzána-1 — https://www.kimbundu.org/pt/word/kuzana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13471,
+      "kimbundu_term": "Kuzána",
+      "portuguese_translation": "sub. Escarapela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzána-1 — https://www.kimbundu.org/pt/word/kuzana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13472,
+      "kimbundu_term": "Kuzánda",
+      "portuguese_translation": "Medrar",
+      "definition": null,
+      "alternative_meanings": [
+        "crescer",
+        "desenvolver-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzánda-1 — https://www.kimbundu.org/pt/word/kuzanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13473,
+      "kimbundu_term": "Kuzánda",
+      "portuguese_translation": "Florir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzánda-1 — https://www.kimbundu.org/pt/word/kuzanda",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
