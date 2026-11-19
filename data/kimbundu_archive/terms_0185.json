@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1954,
+      "kimbundu_term": "I",
+      "portuguese_translation": "Nome da letra I",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, i-2 — https://www.kimbundu.org/pt/word/i",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1955,
+      "kimbundu_term": "Iá",
+      "portuguese_translation": "para designar pessoas que estão presentes ou próximas de quem fala, ou das que se falaram em último lugar. Estas",
+      "definition": null,
+      "alternative_meanings": [
+        "estes",
+        "aná alenge"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iá-1 — https://www.kimbundu.org/pt/word/ia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1956,
+      "kimbundu_term": "Ia",
+      "portuguese_translation": "e pron. poss. pl. Delas",
+      "definition": null,
+      "alternative_meanings": [
+        "deles",
+        "Pertencente às pessoas deles"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ia-1 — https://www.kimbundu.org/pt/word/ia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1957,
+      "kimbundu_term": "Ia",
+      "portuguese_translation": "Que",
+      "definition": null,
+      "alternative_meanings": [
+        "Quem",
+        "Cujos"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ia-1 — https://www.kimbundu.org/pt/word/ia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1958,
+      "kimbundu_term": "Ia",
+      "portuguese_translation": "que une ao nome o seu complemento",
+      "definition": null,
+      "alternative_meanings": [
+        "De",
+        "imbia — mutoto"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ia-1 — https://www.kimbundu.org/pt/word/ia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1959,
+      "kimbundu_term": "Ia",
+      "portuguese_translation": "éne, adv. e pron. poss. pl. Propriamente seus (deles, delas)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ia-1 — https://www.kimbundu.org/pt/word/ia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1960,
+      "kimbundu_term": "Iaiúlu",
+      "portuguese_translation": "Ruído de muitas vozes",
+      "definition": null,
+      "alternative_meanings": [
+        "Igreja",
+        "Sussurro"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iaiúlu-1 — https://www.kimbundu.org/pt/word/iaiulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1961,
+      "kimbundu_term": "Iakamukua",
+      "portuguese_translation": "Outros",
+      "definition": null,
+      "alternative_meanings": [
+        "outras",
+        "Não estes",
+        "diferentes",
+        "Não iguais",
+        "Seguintes",
+        "Restantes",
+        "Precedentes"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iakamukua-1 — https://www.kimbundu.org/pt/word/iakamukua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1962,
+      "kimbundu_term": "Iala",
+      "portuguese_translation": "Homem",
+      "definition": null,
+      "alternative_meanings": [
+        "Varão",
+        "marido"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iala-1 — https://www.kimbundu.org/pt/word/iala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1963,
+      "kimbundu_term": "Iâla",
+      "portuguese_translation": "Garras",
+      "definition": null,
+      "alternative_meanings": [
+        "Unhas",
+        "Marcas ou sinais de unhas"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iâla-1 — https://www.kimbundu.org/pt/word/iala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
