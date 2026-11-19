@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10874,
+      "kimbundu_term": "Kúngu",
+      "portuguese_translation": "Pov. no antigo conc. de Zenza do Golungo, circ. civ. de Icolo e Bengo, distr. e prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúngu-1 — https://www.kimbundu.org/pt/word/kungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10875,
+      "kimbundu_term": "Kûngú",
+      "portuguese_translation": "de ri.kungu",
+      "definition": null,
+      "alternative_meanings": [
+        "Barroca, cova., antigo bairro da cidade de Luanda, próximo da est. da Cidade Alta.. Pov. junto à margem esquerda do rio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kûngú-1 — https://www.kimbundu.org/pt/word/kungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10876,
+      "kimbundu_term": "Kungulu",
+      "portuguese_translation": "Paralelo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungulu-1 — https://www.kimbundu.org/pt/word/kungulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10877,
+      "kimbundu_term": "Kungulu",
+      "portuguese_translation": "Povoação na circunscrição do Amboim, distrito de Novo Redondo, província de Benguela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungulu-1 — https://www.kimbundu.org/pt/word/kungulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10878,
+      "kimbundu_term": "Kungulule",
+      "portuguese_translation": "Correntiço, torrencial",
+      "definition": null,
+      "alternative_meanings": [
+        "caudaloso",
+        "Que leva muita água",
+        "que vai passando ou correndo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungulule-1 — https://www.kimbundu.org/pt/word/kungulule",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10879,
+      "kimbundu_term": "Kungulule",
+      "portuguese_translation": "Água corrente (geralmente das chuvas)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungulule-1 — https://www.kimbundu.org/pt/word/kungulule",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10880,
+      "kimbundu_term": "Kungulungunda",
+      "portuguese_translation": "e intr. Diz-se do corpo que se movimenta dentro de um bojo",
+      "definition": null,
+      "alternative_meanings": [
+        "da bola dentro de um saco",
+        "do feto dentro do ventre que o gera, etc"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungulungunda-1 — https://www.kimbundu.org/pt/word/kungulungunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10881,
+      "kimbundu_term": "Kungulungunda",
+      "portuguese_translation": "Movimento interno provocado por um corpo estranho",
+      "definition": null,
+      "alternative_meanings": [
+        "Conjunto de grânulos por baixo de uma superfície"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungulungunda-1 — https://www.kimbundu.org/pt/word/kungulungunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10882,
+      "kimbundu_term": "Kungungujuna",
+      "portuguese_translation": "Soltar muitos sons graves e prolongados",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungungujuna-1 — https://www.kimbundu.org/pt/word/kungungujuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10883,
+      "kimbundu_term": "Kungungujuna",
+      "portuguese_translation": "Resoamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungungujuna-1 — https://www.kimbundu.org/pt/word/kungungujuna",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
