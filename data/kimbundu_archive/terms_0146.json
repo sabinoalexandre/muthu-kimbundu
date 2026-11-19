@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1564,
+      "kimbundu_term": "Ebhi",
+      "portuguese_translation": "adjetivo interrogativo, servindo para determinar pessoas entre várias",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ebhi-1 — https://www.kimbundu.org/pt/word/ebhi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1565,
+      "kimbundu_term": "Ebhi",
+      "portuguese_translation": "pronome relativo: os quais",
+      "definition": null,
+      "alternative_meanings": [
+        "as quais",
+        "cujos"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ebhi-1 — https://www.kimbundu.org/pt/word/ebhi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1566,
+      "kimbundu_term": "Ëbu",
+      "portuguese_translation": "substantivo plural (classe I): sobrinhas",
+      "definition": null,
+      "alternative_meanings": [
+        "sobrinhos",
+        "filhas de irmão ou irmã"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ëbu-1 — https://www.kimbundu.org/pt/word/ebu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1567,
+      "kimbundu_term": "Ëbu",
+      "portuguese_translation": "( ) sobrinhos de maior idade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ëbu-1 — https://www.kimbundu.org/pt/word/ebu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1568,
+      "kimbundu_term": "Édi",
+      "portuguese_translation": "pronome demonstrativo da coisa que está presente. Esta, este",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, édi-1 — https://www.kimbundu.org/pt/word/edi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1569,
+      "kimbundu_term": "Édi",
+      "portuguese_translation": "advérbio. Forma antiga de 'hoje': Atualmente",
+      "definition": null,
+      "alternative_meanings": [
+        "Hoje em dia",
+        "Presentemente",
+        "Na presente época"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, édi-1 — https://www.kimbundu.org/pt/word/edi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1570,
+      "kimbundu_term": "Êi",
+      "portuguese_translation": "adjetivo e substantivo plural (classe I): que roubam ou furtam",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, êi-1 — https://www.kimbundu.org/pt/word/ei",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1571,
+      "kimbundu_term": "Êi",
+      "portuguese_translation": "ladrões",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, êi-1 — https://www.kimbundu.org/pt/word/ei",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1572,
+      "kimbundu_term": "Êi",
+      "portuguese_translation": "faltos de consciência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, êi-1 — https://www.kimbundu.org/pt/word/ei",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1573,
+      "kimbundu_term": "Éi",
+      "portuguese_translation": "pronome demonstrativo plural: estes, estas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, éi-1 — https://www.kimbundu.org/pt/word/ei",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
