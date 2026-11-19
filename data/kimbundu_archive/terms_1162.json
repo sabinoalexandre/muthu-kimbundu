@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11724,
+      "kimbundu_term": "Kusombola",
+      "portuguese_translation": "Provocar, insultar",
+      "definition": null,
+      "alternative_meanings": [
+        "Reptar",
+        "chamar a desafio",
+        "Afrontar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusombola-1 — https://www.kimbundu.org/pt/word/kusombola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11725,
+      "kimbundu_term": "Kusombola",
+      "portuguese_translation": "Provocação",
+      "definition": null,
+      "alternative_meanings": [
+        "repto"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusombola-1 — https://www.kimbundu.org/pt/word/kusombola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11726,
+      "kimbundu_term": "Kusomboloka",
+      "portuguese_translation": "Ir muito além",
+      "definition": null,
+      "alternative_meanings": [
+        "Transpor",
+        "exceder o limite em muitos lugares",
+        "Violar",
+        "transgredir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusomboloka-1 — https://www.kimbundu.org/pt/word/kusomboloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11727,
+      "kimbundu_term": "Kusomeka",
+      "portuguese_translation": "Conchavar",
+      "definition": null,
+      "alternative_meanings": [
+        "Enfiar, espetar paus (entre outros)",
+        "intercalar",
+        "Meter",
+        "introduzir em"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusomeka-1 — https://www.kimbundu.org/pt/word/kusomeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11728,
+      "kimbundu_term": "Kusomekena",
+      "portuguese_translation": "Premiar",
+      "definition": null,
+      "alternative_meanings": [
+        "Recompensar",
+        "assinalar",
+        "distinguir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusomekena-1 — https://www.kimbundu.org/pt/word/kusomekena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11729,
+      "kimbundu_term": "Kusomesa",
+      "portuguese_translation": "Fazer carregar (uma espingarda)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusomesa-1 — https://www.kimbundu.org/pt/word/kusomesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11730,
+      "kimbundu_term": "Kusomesa",
+      "portuguese_translation": "Fazer encascar, atacar: vedar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusomesa-1 — https://www.kimbundu.org/pt/word/kusomesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11731,
+      "kimbundu_term": "Kusomesa",
+      "portuguese_translation": "Fazer colocar paus (entre outros)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusomesa-1 — https://www.kimbundu.org/pt/word/kusomesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11732,
+      "kimbundu_term": "Kusomona",
+      "portuguese_translation": "Estrear",
+      "definition": null,
+      "alternative_meanings": [
+        "inaugurar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusomona-1 — https://www.kimbundu.org/pt/word/kusomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11733,
+      "kimbundu_term": "Kusomona",
+      "portuguese_translation": "Fazer uma coisa pela primeira vez",
+      "definition": null,
+      "alternative_meanings": [
+        "Vender (a primeira coisa do dia ou ser o primeiro a comprar)",
+        "Principiar o dia (fazendo ou sofrendo alguma coisa)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusomona-2 — https://www.kimbundu.org/pt/word/kusomona",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
