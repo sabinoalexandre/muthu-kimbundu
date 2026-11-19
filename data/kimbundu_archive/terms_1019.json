@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10294,
+      "kimbundu_term": "Kulomboka",
+      "portuguese_translation": "Diz-se da pessoa que assentada, se deixa cair para frente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulomboka-1 — https://www.kimbundu.org/pt/word/kulomboka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10295,
+      "kimbundu_term": "Kulomboloka",
+      "portuguese_translation": "Estar desanuviado, claro (o tempo)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulomboloka-1 — https://www.kimbundu.org/pt/word/kulomboloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10296,
+      "kimbundu_term": "Kulomboloka",
+      "portuguese_translation": "Estar traduzido, explicado (o texto)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulomboloka-1 — https://www.kimbundu.org/pt/word/kulomboloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10297,
+      "kimbundu_term": "Kulomboloka",
+      "portuguese_translation": "Não sofrer dúvidas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulomboloka-1 — https://www.kimbundu.org/pt/word/kulomboloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10298,
+      "kimbundu_term": "Kulomboloka",
+      "portuguese_translation": "Estar evidente, manifesto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulomboloka-1 — https://www.kimbundu.org/pt/word/kulomboloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10299,
+      "kimbundu_term": "Kulombolola",
+      "portuguese_translation": "Regurgitar",
+      "definition": null,
+      "alternative_meanings": [
+        "lançar",
+        "deitar pela boca",
+        "Fazer tombar, cair de bruços"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulombolola-1 — https://www.kimbundu.org/pt/word/kulombolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10300,
+      "kimbundu_term": "Kulombolola",
+      "portuguese_translation": "Simbolizar",
+      "definition": null,
+      "alternative_meanings": [
+        "significar por imagens"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulombolola-2 — https://www.kimbundu.org/pt/word/kulombolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10301,
+      "kimbundu_term": "Kulombolola",
+      "portuguese_translation": "Expor por meio de exemplos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulombolola-2 — https://www.kimbundu.org/pt/word/kulombolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10302,
+      "kimbundu_term": "Kulombolola",
+      "portuguese_translation": "Corroborar",
+      "definition": null,
+      "alternative_meanings": [
+        "confirmar",
+        "traduzir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulombolola-2 — https://www.kimbundu.org/pt/word/kulombolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10303,
+      "kimbundu_term": "Kulombolola",
+      "portuguese_translation": "Desanuviar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "convencer-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulombolola-2 — https://www.kimbundu.org/pt/word/kulombolola",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
