@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12734,
+      "kimbundu_term": "Kutumuka",
+      "portuguese_translation": "Sofrer esfoladela, ter escoriação",
+      "definition": null,
+      "alternative_meanings": [
+        "Ficar arranhado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutumuka-1 — https://www.kimbundu.org/pt/word/kutumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12735,
+      "kimbundu_term": "Kutumuka",
+      "portuguese_translation": "Esfolamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutumuka-1 — https://www.kimbundu.org/pt/word/kutumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12736,
+      "kimbundu_term": "Kutumuna",
+      "portuguese_translation": "Excoriar",
+      "definition": null,
+      "alternative_meanings": [
+        "esfolar",
+        "fig. Assinalar: hondo, mu sule",
+        "mbonda, mu tumune"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutumuna-1 — https://www.kimbundu.org/pt/word/kutumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12737,
+      "kimbundu_term": "Kutumuna",
+      "portuguese_translation": "Escoriação",
+      "definition": null,
+      "alternative_meanings": [
+        "arranhadura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutumuna-1 — https://www.kimbundu.org/pt/word/kutumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12738,
+      "kimbundu_term": "Kutumuna",
+      "portuguese_translation": "Kuritumuna, r. Ferir-se (na pele): esfolar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutumuna-1 — https://www.kimbundu.org/pt/word/kutumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12739,
+      "kimbundu_term": "Kutumuna",
+      "portuguese_translation": "Ferir-se (na pele): esfolar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutumuna-1 — https://www.kimbundu.org/pt/word/kutumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12740,
+      "kimbundu_term": "Kutúnda",
+      "portuguese_translation": "Sair",
+      "definition": null,
+      "alternative_meanings": [
+        "tirar-se do lugar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutúnda-1 — https://www.kimbundu.org/pt/word/kutunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12741,
+      "kimbundu_term": "Kutúnda",
+      "portuguese_translation": "Proceder",
+      "definition": null,
+      "alternative_meanings": [
+        "provir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutúnda-1 — https://www.kimbundu.org/pt/word/kutunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12742,
+      "kimbundu_term": "Kutúnda",
+      "portuguese_translation": "Ser semelhante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutúnda-1 — https://www.kimbundu.org/pt/word/kutunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12743,
+      "kimbundu_term": "Kutúnda",
+      "portuguese_translation": "Saimento",
+      "definition": null,
+      "alternative_meanings": [
+        "procedência"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutúnda-2 — https://www.kimbundu.org/pt/word/kutunda",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
