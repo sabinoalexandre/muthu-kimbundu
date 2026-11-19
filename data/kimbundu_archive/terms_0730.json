@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7404,
+      "kimbundu_term": "Kubhengalesa",
+      "portuguese_translation": "Entortar",
+      "definition": null,
+      "alternative_meanings": [
+        "empenar",
+        "Torcer",
+        "Não dar boa direção a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhengalesa-1 — https://www.kimbundu.org/pt/word/kubhengalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7405,
+      "kimbundu_term": "Kubhetuka",
+      "portuguese_translation": "Soerguer",
+      "definition": null,
+      "alternative_meanings": [
+        "levantar-se um tanto"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhetuka-1 — https://www.kimbundu.org/pt/word/kubhetuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7406,
+      "kimbundu_term": "Kubhetula",
+      "portuguese_translation": "Levantar (um pouco o que está deitado, abaixado, inclinado)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhetula-1 — https://www.kimbundu.org/pt/word/kubhetula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7407,
+      "kimbundu_term": "Kubhetula",
+      "portuguese_translation": "Erguer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhetula-1 — https://www.kimbundu.org/pt/word/kubhetula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7408,
+      "kimbundu_term": "Kubheza",
+      "portuguese_translation": "Idolatrar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubheza-1 — https://www.kimbundu.org/pt/word/kubheza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7409,
+      "kimbundu_term": "Kubheza",
+      "portuguese_translation": "Adorar",
+      "definition": null,
+      "alternative_meanings": [
+        "prestar culto a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubheza-1 — https://www.kimbundu.org/pt/word/kubheza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7410,
+      "kimbundu_term": "Kubheza",
+      "portuguese_translation": "Venerar",
+      "definition": null,
+      "alternative_meanings": [
+        "ter em grande consideração"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubheza-1 — https://www.kimbundu.org/pt/word/kubheza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7411,
+      "kimbundu_term": "Kubheza",
+      "portuguese_translation": "Temer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubheza-1 — https://www.kimbundu.org/pt/word/kubheza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7412,
+      "kimbundu_term": "Kubheza",
+      "portuguese_translation": "Veneração",
+      "definition": null,
+      "alternative_meanings": [
+        "idolatria"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubheza-1 — https://www.kimbundu.org/pt/word/kubheza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7413,
+      "kimbundu_term": "Kubheza",
+      "portuguese_translation": "Temor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubheza-1 — https://www.kimbundu.org/pt/word/kubheza",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
