@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4394,
+      "kimbundu_term": "Kelejá",
+      "portuguese_translation": "Maldito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kelejá-1 — https://www.kimbundu.org/pt/word/keleja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4395,
+      "kimbundu_term": "Kelema",
+      "portuguese_translation": "Quermes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kelema-1 — https://www.kimbundu.org/pt/word/kelema",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4396,
+      "kimbundu_term": "Kelema",
+      "portuguese_translation": "Empréstimo do português",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kelema-1 — https://www.kimbundu.org/pt/word/kelema",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4397,
+      "kimbundu_term": "Kélu",
+      "portuguese_translation": "Pov. e sede do posto civ. deste nome, circ. de S. Ant. do Zaire, distr. do Zaire, prov. de Luanda, 9.211 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kélu-1 — https://www.kimbundu.org/pt/word/kelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4398,
+      "kimbundu_term": "Kende",
+      "portuguese_translation": "Abrev. de rikende",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kende-1 — https://www.kimbundu.org/pt/word/kende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4399,
+      "kimbundu_term": "Kende",
+      "portuguese_translation": "Bola",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kende-1 — https://www.kimbundu.org/pt/word/kende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4400,
+      "kimbundu_term": "Kêne",
+      "portuguese_translation": "de afirmação. Sim",
+      "definition": null,
+      "alternative_meanings": [
+        "o mesmo"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kêne-1 — https://www.kimbundu.org/pt/word/kene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4401,
+      "kimbundu_term": "Kêne",
+      "portuguese_translation": "Este ou esse mesmo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kêne-1 — https://www.kimbundu.org/pt/word/kene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4402,
+      "kimbundu_term": "Kene",
+      "portuguese_translation": "que indica falta, exclusão, condição",
+      "definition": null,
+      "alternative_meanings": [
+        "Sem, sem pena, sem nome, etc"
+      ],
+      "examples": [],
+      "grammatical_category": "preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kene-1 — https://www.kimbundu.org/pt/word/kene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4403,
+      "kimbundu_term": "Kene'oko",
+      "portuguese_translation": "Esse, essa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kene'oko-1 — https://www.kimbundu.org/pt/word/kene'oko",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
