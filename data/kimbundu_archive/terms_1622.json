@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16324,
+      "kimbundu_term": "Mukáme",
+      "portuguese_translation": "Escrava que é amásia de seu senhor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukáme-1 — https://www.kimbundu.org/pt/word/mukame",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16325,
+      "kimbundu_term": "Mukáme",
+      "portuguese_translation": "Serviçal que vive em mancebia com o seu amo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukáme-1 — https://www.kimbundu.org/pt/word/mukame",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16326,
+      "kimbundu_term": "Múkame",
+      "portuguese_translation": "Espremedor",
+      "definition": null,
+      "alternative_meanings": [
+        "Prensador"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkame-1 — https://www.kimbundu.org/pt/word/mukame",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16327,
+      "kimbundu_term": "Múkanda",
+      "portuguese_translation": "Epístola",
+      "definition": null,
+      "alternative_meanings": [
+        "Qualquer papel escrito"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkanda-1 — https://www.kimbundu.org/pt/word/mukanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16328,
+      "kimbundu_term": "Múkanda",
+      "portuguese_translation": "Mensagem que se dirige a qualquer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkanda-1 — https://www.kimbundu.org/pt/word/mukanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16329,
+      "kimbundu_term": "Múkanda",
+      "portuguese_translation": "Jornal",
+      "definition": null,
+      "alternative_meanings": [
+        "bilhete",
+        "vale",
+        "Ordem escrita"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkanda-1 — https://www.kimbundu.org/pt/word/mukanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16330,
+      "kimbundu_term": "Mukánda",
+      "portuguese_translation": "Ilhota de capim",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukánda-1 — https://www.kimbundu.org/pt/word/mukanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16331,
+      "kimbundu_term": "Múkandanda",
+      "portuguese_translation": "Superfície",
+      "definition": null,
+      "alternative_meanings": [
+        "planura",
+        "O comprimento e a largura considerados sem profundidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkandanda-1 — https://www.kimbundu.org/pt/word/mukandanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16332,
+      "kimbundu_term": "Múkandanda",
+      "portuguese_translation": "Superficialmente",
+      "definition": null,
+      "alternative_meanings": [
+        "Sem fundura"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkandanda-1 — https://www.kimbundu.org/pt/word/mukandanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16333,
+      "kimbundu_term": "Mukánde",
+      "portuguese_translation": "e sub. Que abre valas, fossos, covas, etc",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukánde-1 — https://www.kimbundu.org/pt/word/mukande",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
