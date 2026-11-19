@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4574,
+      "kimbundu_term": "Kibézu",
+      "portuguese_translation": "Pov. na área do posto civil de Cabiri, circ. de Icolo e Bengo, distr. e prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibézu-1 — https://www.kimbundu.org/pt/word/kibezu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4575,
+      "kimbundu_term": "Kibha",
+      "portuguese_translation": "Pele",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibha-1 — https://www.kimbundu.org/pt/word/kibha",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4576,
+      "kimbundu_term": "Kibha",
+      "portuguese_translation": "Cabedal, coiro. A pele de um animal separada do corpo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibha-1 — https://www.kimbundu.org/pt/word/kibha",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4577,
+      "kimbundu_term": "Kibha",
+      "portuguese_translation": "Vasilha feita de pele de certos animais. Odre. Correia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibha-1 — https://www.kimbundu.org/pt/word/kibha",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4578,
+      "kimbundu_term": "Kibhaka",
+      "portuguese_translation": "Ombreira. Cada uma das duas partes laterais que determinam a largura de uma porta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibhaka-1 — https://www.kimbundu.org/pt/word/kibhaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4579,
+      "kimbundu_term": "Kibhaka",
+      "portuguese_translation": "Entrada",
+      "definition": null,
+      "alternative_meanings": [
+        "portal"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibhaka-1 — https://www.kimbundu.org/pt/word/kibhaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4580,
+      "kimbundu_term": "Kibhakatu",
+      "portuguese_translation": "Coura. Vestimenta de couro com que os antigos guerreiros se defendiam dos golpes do inimigo. Armadura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibhakatu-1 — https://www.kimbundu.org/pt/word/kibhakatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4581,
+      "kimbundu_term": "Kibhaku",
+      "portuguese_translation": "Banco que se coloca debaixo dos pés. Estrado",
+      "definition": null,
+      "alternative_meanings": [
+        "escabelo",
+        "supedâneo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibhaku-1 — https://www.kimbundu.org/pt/word/kibhaku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4582,
+      "kimbundu_term": "Kibhaku",
+      "portuguese_translation": "Assento de pau",
+      "definition": null,
+      "alternative_meanings": [
+        "mocho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibhaku-1 — https://www.kimbundu.org/pt/word/kibhaku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4583,
+      "kimbundu_term": "Kibhaku",
+      "portuguese_translation": "Palanque",
+      "definition": null,
+      "alternative_meanings": [
+        "suporte. Tamborete"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibhaku-1 — https://www.kimbundu.org/pt/word/kibhaku",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
