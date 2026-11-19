@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9264,
+      "kimbundu_term": "Kukasana",
+      "portuguese_translation": "Estar encardido, nojento, sujo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukasana-1 — https://www.kimbundu.org/pt/word/kukasana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9265,
+      "kimbundu_term": "Kukasana",
+      "portuguese_translation": "sub. Asquerosidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukasana-1 — https://www.kimbundu.org/pt/word/kukasana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9266,
+      "kimbundu_term": "Kukasanesa",
+      "portuguese_translation": "Tornar asqueroso. Emporcalhar",
+      "definition": null,
+      "alternative_meanings": [
+        "sujar",
+        "encardir. É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukasanesa-1 — https://www.kimbundu.org/pt/word/kukasanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9267,
+      "kimbundu_term": "Kukasesa",
+      "portuguese_translation": "Mandar amarrar, fazer prender. É tb. r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukasesa-1 — https://www.kimbundu.org/pt/word/kukasesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9268,
+      "kimbundu_term": "Kukasumuka",
+      "portuguese_translation": "Estar desatado",
+      "definition": null,
+      "alternative_meanings": [
+        "desperto"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukasumuka-1 — https://www.kimbundu.org/pt/word/kukasumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9269,
+      "kimbundu_term": "Kukasumuka",
+      "portuguese_translation": "Ficar desprendido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukasumuka-1 — https://www.kimbundu.org/pt/word/kukasumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9270,
+      "kimbundu_term": "Kukasumuka",
+      "portuguese_translation": "sub. Desatadura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukasumuka-1 — https://www.kimbundu.org/pt/word/kukasumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9271,
+      "kimbundu_term": "Kukasumuna",
+      "portuguese_translation": "Despertar",
+      "definition": null,
+      "alternative_meanings": [
+        "desembaraçar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukasumuna-1 — https://www.kimbundu.org/pt/word/kukasumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9272,
+      "kimbundu_term": "Kukasumuna",
+      "portuguese_translation": "Desatar",
+      "definition": null,
+      "alternative_meanings": [
+        "tirar o laço ou nó"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukasumuna-1 — https://www.kimbundu.org/pt/word/kukasumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9273,
+      "kimbundu_term": "Kukasumuna",
+      "portuguese_translation": "Kurikasumuna, v. r. Livrar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "desempedir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukasumuna-1 — https://www.kimbundu.org/pt/word/kukasumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
