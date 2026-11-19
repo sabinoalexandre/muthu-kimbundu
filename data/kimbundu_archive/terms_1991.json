@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 20014,
+      "kimbundu_term": "Wanga",
+      "portuguese_translation": "Veneno",
+      "definition": null,
+      "alternative_meanings": [
+        "peçonha",
+        "feitiço"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wanga-1 — https://www.kimbundu.org/pt/word/wanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20015,
+      "kimbundu_term": "Wanga",
+      "portuguese_translation": "Droga ou filtro de feiticeiros",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wanga-1 — https://www.kimbundu.org/pt/word/wanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20016,
+      "kimbundu_term": "Wanza",
+      "portuguese_translation": "Esperma",
+      "definition": null,
+      "alternative_meanings": [
+        "sémen"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wanza-1 — https://www.kimbundu.org/pt/word/wanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20017,
+      "kimbundu_term": "Wasu",
+      "portuguese_translation": "Goma drástica extraída de eufórbios",
+      "definition": null,
+      "alternative_meanings": [
+        "Látex",
+        "Visco",
+        "resina"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wasu-1 — https://www.kimbundu.org/pt/word/wasu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20018,
+      "kimbundu_term": "Wawé",
+      "portuguese_translation": "de alarme",
+      "definition": null,
+      "alternative_meanings": [
+        "Socorro!",
+        "Acudam!",
+        "Oh! da guarda!"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wawé-1 — https://www.kimbundu.org/pt/word/wawe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20019,
+      "kimbundu_term": "Wawé",
+      "portuguese_translation": "Grito aflitivo denunciando calamidade, desgraça",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wawé-1 — https://www.kimbundu.org/pt/word/wawe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20020,
+      "kimbundu_term": "Webhi",
+      "portuguese_translation": "Qual?",
+      "definition": null,
+      "alternative_meanings": [
+        "Que pessoa (entre várias)"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, webhi-1 — https://www.kimbundu.org/pt/word/webhi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20021,
+      "kimbundu_term": "Webhi",
+      "portuguese_translation": "Quem?",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, webhi-1 — https://www.kimbundu.org/pt/word/webhi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20022,
+      "kimbundu_term": "Wemba",
+      "portuguese_translation": "Calda",
+      "definition": null,
+      "alternative_meanings": [
+        "(de açúcar)",
+        "melaço"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wemba-1 — https://www.kimbundu.org/pt/word/wemba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20023,
+      "kimbundu_term": "Wendelu",
+      "portuguese_translation": "Modo de andar: — ua k áma",
+      "definition": null,
+      "alternative_meanings": [
+        "Andadura",
+        "passo",
+        "O caminhar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wendelu-1 — https://www.kimbundu.org/pt/word/wendelu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
