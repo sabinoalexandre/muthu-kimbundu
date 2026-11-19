@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8034,
+      "kimbundu_term": "Kudasuka",
+      "portuguese_translation": "Ficar revolto, indignado, irritado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudasuka-1 — https://www.kimbundu.org/pt/word/kudasuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8035,
+      "kimbundu_term": "Kudi",
+      "portuguese_translation": "Porquanto",
+      "definition": null,
+      "alternative_meanings": [
+        "visto que: bu asange o sanjl mu menekene,—sanjl k'en'ê polo, polo o musungu ue"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudi-1 — https://www.kimbundu.org/pt/word/kudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8036,
+      "kimbundu_term": "Kudi",
+      "portuguese_translation": "Devido a",
+      "definition": null,
+      "alternative_meanings": [
+        "por causa de que"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudi-1 — https://www.kimbundu.org/pt/word/kudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8037,
+      "kimbundu_term": "Kúdia",
+      "portuguese_translation": "Comer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúdia-1 — https://www.kimbundu.org/pt/word/kudia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8038,
+      "kimbundu_term": "Kúdia",
+      "portuguese_translation": "Estar colorido, vivo, tinto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúdia-1 — https://www.kimbundu.org/pt/word/kudia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8039,
+      "kimbundu_term": "Kúdia",
+      "portuguese_translation": "Intrujar",
+      "definition": null,
+      "alternative_meanings": [
+        "enganar",
+        "iludir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúdia-1 — https://www.kimbundu.org/pt/word/kudia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8040,
+      "kimbundu_term": "Kúdia",
+      "portuguese_translation": "Matar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúdia-1 — https://www.kimbundu.org/pt/word/kudia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8041,
+      "kimbundu_term": "Kúdia",
+      "portuguese_translation": "Comida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúdia-1 — https://www.kimbundu.org/pt/word/kudia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8042,
+      "kimbundu_term": "Kúdia",
+      "portuguese_translation": "Consoada",
+      "definition": null,
+      "alternative_meanings": [
+        "ceia"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúdia-1 — https://www.kimbundu.org/pt/word/kudia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8043,
+      "kimbundu_term": "Kúdia",
+      "portuguese_translation": "Cerimónia que consiste na oferta, alta noite, de comidas às almas dos mortos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúdia-1 — https://www.kimbundu.org/pt/word/kudia",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
