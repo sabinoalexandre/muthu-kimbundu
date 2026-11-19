@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8914,
+      "kimbundu_term": "Kuivila",
+      "portuguese_translation": "Dar ouvidos a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuivila-1 — https://www.kimbundu.org/pt/word/kuivila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8915,
+      "kimbundu_term": "Kuivila",
+      "portuguese_translation": "Estar com atenção",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuivila-1 — https://www.kimbundu.org/pt/word/kuivila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8916,
+      "kimbundu_term": "Kuivisa",
+      "portuguese_translation": "Fazer perceber, ouvir, prestar atenção",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuivisa-1 — https://www.kimbundu.org/pt/word/kuivisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8917,
+      "kimbundu_term": "Kuivisa",
+      "portuguese_translation": "Fazer compreender",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuivisa-1 — https://www.kimbundu.org/pt/word/kuivisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8918,
+      "kimbundu_term": "Kuivisa",
+      "portuguese_translation": "Kurivisa, v. r. Fazer-se ouvir, sentir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuivisa-1 — https://www.kimbundu.org/pt/word/kuivisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8919,
+      "kimbundu_term": "Kuivisa",
+      "portuguese_translation": "Dar sinal de si",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuivisa-1 — https://www.kimbundu.org/pt/word/kuivisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8920,
+      "kimbundu_term": "Kuixika",
+      "portuguese_translation": "e intr. Alijar",
+      "definition": null,
+      "alternative_meanings": [
+        "desfazer-se de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuixika-1 — https://www.kimbundu.org/pt/word/kuixika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8921,
+      "kimbundu_term": "Kuixika",
+      "portuguese_translation": "Sair",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuixika-1 — https://www.kimbundu.org/pt/word/kuixika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8922,
+      "kimbundu_term": "Kuixika",
+      "portuguese_translation": "Alijamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuixika-1 — https://www.kimbundu.org/pt/word/kuixika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8923,
+      "kimbundu_term": "Kuixika",
+      "portuguese_translation": "Kurixika, v. r. Atirar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "lançar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuixika-1 — https://www.kimbundu.org/pt/word/kuixika",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
