@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19684,
+      "kimbundu_term": "Umama",
+      "portuguese_translation": "Maternidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, umama-1 — https://www.kimbundu.org/pt/word/umama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19685,
+      "kimbundu_term": "Umama",
+      "portuguese_translation": "Estado, carácter ou qualidade de mãe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, umama-1 — https://www.kimbundu.org/pt/word/umama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19686,
+      "kimbundu_term": "Úmba",
+      "portuguese_translation": "Unigénito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úmba-1 — https://www.kimbundu.org/pt/word/umba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19687,
+      "kimbundu_term": "Úmba",
+      "portuguese_translation": "Morgado",
+      "definition": null,
+      "alternative_meanings": [
+        "adotivo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úmba-1 — https://www.kimbundu.org/pt/word/umba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19688,
+      "kimbundu_term": "Úmba",
+      "portuguese_translation": "Indígena",
+      "definition": null,
+      "alternative_meanings": [
+        "comum"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úmba-1 — https://www.kimbundu.org/pt/word/umba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19689,
+      "kimbundu_term": "Úmba",
+      "portuguese_translation": "Último",
+      "definition": null,
+      "alternative_meanings": [
+        "único (de quem teve muitos filhos)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úmba-1 — https://www.kimbundu.org/pt/word/umba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19690,
+      "kimbundu_term": "Úmba",
+      "portuguese_translation": "Qualidade da pessoa que só tem um filho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úmba-1 — https://www.kimbundu.org/pt/word/umba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19691,
+      "kimbundu_term": "Umbadi",
+      "portuguese_translation": "Cargo de mordomo",
+      "definition": null,
+      "alternative_meanings": [
+        "função de feitor"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, umbadi-1 — https://www.kimbundu.org/pt/word/umbadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19692,
+      "kimbundu_term": "Umbaku",
+      "portuguese_translation": "Agenésia",
+      "definition": null,
+      "alternative_meanings": [
+        "esterilidade",
+        "incapacidade procriativa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, umbaku-1 — https://www.kimbundu.org/pt/word/umbaku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19693,
+      "kimbundu_term": "Umbalu",
+      "portuguese_translation": "Qualidade de animal bravo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, umbalu-1 — https://www.kimbundu.org/pt/word/umbalu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
