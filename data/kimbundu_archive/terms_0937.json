@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9474,
+      "kimbundu_term": "Kukohona",
+      "portuguese_translation": "Tosse",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukohona-1 — https://www.kimbundu.org/pt/word/kukohona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9475,
+      "kimbundu_term": "Kukohonesa",
+      "portuguese_translation": "Provocar tosse!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukohonesa-1 — https://www.kimbundu.org/pt/word/kukohonesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9476,
+      "kimbundu_term": "Kukohonesa",
+      "portuguese_translation": "Fazer expectorar, tossir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukohonesa-1 — https://www.kimbundu.org/pt/word/kukohonesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9477,
+      "kimbundu_term": "Kukóka",
+      "portuguese_translation": "Podar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukóka-1 — https://www.kimbundu.org/pt/word/kukoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9478,
+      "kimbundu_term": "Kukóka",
+      "portuguese_translation": "Machadar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukóka-1 — https://www.kimbundu.org/pt/word/kukoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9479,
+      "kimbundu_term": "Kukóka",
+      "portuguese_translation": "Decepar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukóka-1 — https://www.kimbundu.org/pt/word/kukoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9480,
+      "kimbundu_term": "Kukóka",
+      "portuguese_translation": "Mutilar",
+      "definition": null,
+      "alternative_meanings": [
+        "dar golpes em"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukóka-1 — https://www.kimbundu.org/pt/word/kukoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9481,
+      "kimbundu_term": "Kukóka",
+      "portuguese_translation": "Ato e efeito de podar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukóka-1 — https://www.kimbundu.org/pt/word/kukoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9482,
+      "kimbundu_term": "Kukóka",
+      "portuguese_translation": "Desbaste",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukóka-1 — https://www.kimbundu.org/pt/word/kukoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9483,
+      "kimbundu_term": "Kúkoka",
+      "portuguese_translation": "Arrastar",
+      "definition": null,
+      "alternative_meanings": [
+        "rojar",
+        "levar após si"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkoka-1 — https://www.kimbundu.org/pt/word/kukoka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
