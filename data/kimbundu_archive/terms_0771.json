@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7814,
+      "kimbundu_term": "Kubuizisa",
+      "portuguese_translation": "Embaraçar",
+      "definition": null,
+      "alternative_meanings": [
+        "complicar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuizisa-1 — https://www.kimbundu.org/pt/word/kubuizisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7815,
+      "kimbundu_term": "Kubúka",
+      "portuguese_translation": "Agitar o ar",
+      "definition": null,
+      "alternative_meanings": [
+        "sacudir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubúka-1 — https://www.kimbundu.org/pt/word/kubuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7816,
+      "kimbundu_term": "Kubúka",
+      "portuguese_translation": "Fazer vento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubúka-1 — https://www.kimbundu.org/pt/word/kubuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7817,
+      "kimbundu_term": "Kubukama",
+      "portuguese_translation": "Sair de casa para tomar ares",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubukama-1 — https://www.kimbundu.org/pt/word/kubukama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7818,
+      "kimbundu_term": "Kubukama",
+      "portuguese_translation": "Recrear-se",
+      "definition": null,
+      "alternative_meanings": [
+        "espairecer",
+        "distrair-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubukama-1 — https://www.kimbundu.org/pt/word/kubukama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7819,
+      "kimbundu_term": "Kubukama",
+      "portuguese_translation": "Difundir-se alegre e suavemente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubukama-1 — https://www.kimbundu.org/pt/word/kubukama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7820,
+      "kimbundu_term": "Kubukamena",
+      "portuguese_translation": "Tomar (cousa ou lugar) para se recrear, distrair",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubukamena-1 — https://www.kimbundu.org/pt/word/kubukamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7821,
+      "kimbundu_term": "Kubukamesa",
+      "portuguese_translation": "Fazer recrear, espairecer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubukamesa-1 — https://www.kimbundu.org/pt/word/kubukamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7822,
+      "kimbundu_term": "Kubukamesa",
+      "portuguese_translation": "Fazer ter alívio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubukamesa-1 — https://www.kimbundu.org/pt/word/kubukamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7823,
+      "kimbundu_term": "Kubukana",
+      "portuguese_translation": "Dar encontro com o pé",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubukana-1 — https://www.kimbundu.org/pt/word/kubukana",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
