@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8894,
+      "kimbundu_term": "Kuiokola",
+      "portuguese_translation": "Obter vantagem sobre",
+      "definition": null,
+      "alternative_meanings": [
+        "triunfar",
+        "vencer",
+        "É também reflexivo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuiokola-1 — https://www.kimbundu.org/pt/word/kuiokola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8895,
+      "kimbundu_term": "Kuitáia",
+      "portuguese_translation": "Aceitar",
+      "definition": null,
+      "alternative_meanings": [
+        "atender à chamada",
+        "Aprovar",
+        "corresponder",
+        "Acudir a uma interpelação"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuitáia-1 — https://www.kimbundu.org/pt/word/kuitaia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8896,
+      "kimbundu_term": "Kuitáia",
+      "portuguese_translation": "Retribuir condignamente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuitáia-1 — https://www.kimbundu.org/pt/word/kuitaia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8897,
+      "kimbundu_term": "Kuítu",
+      "portuguese_translation": "Importante afluente da margem esquerda do rio Cubango, com origem nos montes de Cambiambia, distr. do Moxico, prov. do B",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuítu-1 — https://www.kimbundu.org/pt/word/kuitu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8898,
+      "kimbundu_term": "Kuíu",
+      "portuguese_translation": "Pequeno afluente do rio Luanda, na região de Kimbangu, prov. de Malange",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuíu-1 — https://www.kimbundu.org/pt/word/kuiu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8899,
+      "kimbundu_term": "Kuíu",
+      "portuguese_translation": "Pov. marí",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuíu-1 — https://www.kimbundu.org/pt/word/kuiu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8900,
+      "kimbundu_term": "Kúiu",
+      "portuguese_translation": "Povoação marítima ao Sul do concelho e distrito de Benguela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúiu-1 — https://www.kimbundu.org/pt/word/kuiu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8901,
+      "kimbundu_term": "Kúiu",
+      "portuguese_translation": "Grande árvore do género ficus",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúiu-1 — https://www.kimbundu.org/pt/word/kuiu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8902,
+      "kimbundu_term": "Kuiúba",
+      "portuguese_translation": "Condensar",
+      "definition": null,
+      "alternative_meanings": [
+        "concentrar",
+        "fazer convergir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuiúba-1 — https://www.kimbundu.org/pt/word/kuiuba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8903,
+      "kimbundu_term": "Kuiúba",
+      "portuguese_translation": "Concentração",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuiúba-1 — https://www.kimbundu.org/pt/word/kuiuba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
