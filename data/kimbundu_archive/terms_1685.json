@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16954,
+      "kimbundu_term": "Munzumbi",
+      "portuguese_translation": "Chuva que amanhece e se conserva toda a manhã",
+      "definition": null,
+      "alternative_meanings": [
+        "Chuva miúda",
+        "Cereais recolhidos debaixo de chuva"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munzumbi-1 — https://www.kimbundu.org/pt/word/munzumbi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16955,
+      "kimbundu_term": "Muóhe",
+      "portuguese_translation": "Aquele que assa ou queima viandas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muóhe-1 — https://www.kimbundu.org/pt/word/muohe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16956,
+      "kimbundu_term": "Muómbe",
+      "portuguese_translation": "Claridade frouxa do dia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muómbe-1 — https://www.kimbundu.org/pt/word/muombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16957,
+      "kimbundu_term": "Muómbe",
+      "portuguese_translation": "Crepúsculo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muómbe-1 — https://www.kimbundu.org/pt/word/muombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16958,
+      "kimbundu_term": "Muómbe",
+      "portuguese_translation": "Ocaso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muómbe-1 — https://www.kimbundu.org/pt/word/muombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16959,
+      "kimbundu_term": "Muómbe",
+      "portuguese_translation": "Crepuscular",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muómbe-1 — https://www.kimbundu.org/pt/word/muombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16960,
+      "kimbundu_term": "Muómbe",
+      "portuguese_translation": "Do ocidente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muómbe-1 — https://www.kimbundu.org/pt/word/muombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16961,
+      "kimbundu_term": "Muondo",
+      "portuguese_translation": "Espécie de tartaruga de água doce",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muondo-1 — https://www.kimbundu.org/pt/word/muondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16962,
+      "kimbundu_term": "Muondo",
+      "portuguese_translation": "Apodo",
+      "definition": null,
+      "alternative_meanings": [
+        "alcunha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muondo-1 — https://www.kimbundu.org/pt/word/muondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16963,
+      "kimbundu_term": "Muondo",
+      "portuguese_translation": "Comparar: zombar",
+      "definition": null,
+      "alternative_meanings": [
+        "escarnecer"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muondo-1 — https://www.kimbundu.org/pt/word/muondo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
