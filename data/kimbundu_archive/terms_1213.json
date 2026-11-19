@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12234,
+      "kimbundu_term": "Kutekúka",
+      "portuguese_translation": "Ficar enlevado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutekúka-1 — https://www.kimbundu.org/pt/word/kutekuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12235,
+      "kimbundu_term": "Kutekula",
+      "portuguese_translation": "Deslumbrar",
+      "definition": null,
+      "alternative_meanings": [
+        "encantar",
+        "seduzir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutekula-1 — https://www.kimbundu.org/pt/word/kutekula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12236,
+      "kimbundu_term": "Kutekula",
+      "portuguese_translation": "Deliciar",
+      "definition": null,
+      "alternative_meanings": [
+        "fascinar",
+        "prender a atenção de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutekula-1 — https://www.kimbundu.org/pt/word/kutekula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12237,
+      "kimbundu_term": "Kutekula",
+      "portuguese_translation": "Sedução",
+      "definition": null,
+      "alternative_meanings": [
+        "fascinação"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutekula-1 — https://www.kimbundu.org/pt/word/kutekula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12238,
+      "kimbundu_term": "Kutekula",
+      "portuguese_translation": "Diz-se tb. do facto de mostrar as palmas das mãos, significando isenção",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutekula-1 — https://www.kimbundu.org/pt/word/kutekula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12239,
+      "kimbundu_term": "Kutela",
+      "portuguese_translation": "Colocar, meter, pôr junto de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutela-1 — https://www.kimbundu.org/pt/word/kutela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12240,
+      "kimbundu_term": "Kuteleka",
+      "portuguese_translation": "Deitar comida no prato",
+      "definition": null,
+      "alternative_meanings": [
+        "servir: pôr na mesa"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuteleka-1 — https://www.kimbundu.org/pt/word/kuteleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12241,
+      "kimbundu_term": "Kuteleka",
+      "portuguese_translation": "Entregar",
+      "definition": null,
+      "alternative_meanings": [
+        "tributar",
+        "oferecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuteleka-1 — https://www.kimbundu.org/pt/word/kuteleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12242,
+      "kimbundu_term": "Kuteleka",
+      "portuguese_translation": "Cozinhar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuteleka-1 — https://www.kimbundu.org/pt/word/kuteleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12243,
+      "kimbundu_term": "Kutelekala",
+      "portuguese_translation": "Entregar… (continues next column)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutelekala-1 — https://www.kimbundu.org/pt/word/kutelekala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
