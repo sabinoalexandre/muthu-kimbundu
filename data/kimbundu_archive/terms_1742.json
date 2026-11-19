@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17524,
+      "kimbundu_term": "Muzengezénge",
+      "portuguese_translation": "Grande árvore do género «ficus»",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzengezénge-1 — https://www.kimbundu.org/pt/word/muzengezenge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17525,
+      "kimbundu_term": "Muzenze",
+      "portuguese_translation": "Planta dicotiledónea fam. das leguminosas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzenze-1 — https://www.kimbundu.org/pt/word/muzenze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17526,
+      "kimbundu_term": "Muzévu",
+      "portuguese_translation": "Pedúnculo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzévu-1 — https://www.kimbundu.org/pt/word/muzevu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17527,
+      "kimbundu_term": "Múzeze",
+      "portuguese_translation": "Acácia, e sua madeira",
+      "definition": null,
+      "alternative_meanings": [
+        "Acacina"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múzeze-1 — https://www.kimbundu.org/pt/word/muzeze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17528,
+      "kimbundu_term": "Muzézi",
+      "portuguese_translation": "Baboso",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Larápio"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzézi-1 — https://www.kimbundu.org/pt/word/muzezi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17529,
+      "kimbundu_term": "Muzokeledi",
+      "portuguese_translation": "Pessoa que toma a defesa de outra",
+      "definition": null,
+      "alternative_meanings": [
+        "Defensor"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzokeledi-1 — https://www.kimbundu.org/pt/word/muzokeledi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17530,
+      "kimbundu_term": "Muzóku",
+      "portuguese_translation": "Leguminosa cesalpínea, de lenho muito rijo empregue em cabos de machado e enxadas",
+      "definition": null,
+      "alternative_meanings": [
+        "É também medicinal em casos de otites e otorreias"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzóku-1 — https://www.kimbundu.org/pt/word/muzoku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17531,
+      "kimbundu_term": "Múzombe",
+      "portuguese_translation": "Vagaroso",
+      "definition": null,
+      "alternative_meanings": [
+        "moroso",
+        "Que anda lentamente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múzombe-1 — https://www.kimbundu.org/pt/word/muzombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17532,
+      "kimbundu_term": "Muzombo",
+      "portuguese_translation": "Árvore ornamental de madeira resistente para construções, tb. conhecida por kazombo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzombo-1 — https://www.kimbundu.org/pt/word/muzombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17533,
+      "kimbundu_term": "Múzome",
+      "portuguese_translation": "Sóbrio",
+      "definition": null,
+      "alternative_meanings": [
+        "moderado (no beber)",
+        "Beberricador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múzome-1 — https://www.kimbundu.org/pt/word/muzome",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
