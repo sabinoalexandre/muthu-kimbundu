@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9304,
+      "kimbundu_term": "Kukaúla",
+      "portuguese_translation": "Antecipação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukaúla-1 — https://www.kimbundu.org/pt/word/kukaula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9305,
+      "kimbundu_term": "Kukauluka",
+      "portuguese_translation": "Rarear",
+      "definition": null,
+      "alternative_meanings": [
+        "ir diminuindo, tornar-se menos frequente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukauluka-1 — https://www.kimbundu.org/pt/word/kukauluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9306,
+      "kimbundu_term": "Kukauluka",
+      "portuguese_translation": "Estar fora da moda",
+      "definition": null,
+      "alternative_meanings": [
+        "entrar em desuso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukauluka-1 — https://www.kimbundu.org/pt/word/kukauluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9307,
+      "kimbundu_term": "Kukaulukisa",
+      "portuguese_translation": "Fazer escassear, diminuto, pôr fora do uso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukaulukisa-1 — https://www.kimbundu.org/pt/word/kukaulukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9308,
+      "kimbundu_term": "Kukaulukisa",
+      "portuguese_translation": "Kurikaulukisa, v. r. Tornar-se mais raro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukaulukisa-1 — https://www.kimbundu.org/pt/word/kukaulukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9309,
+      "kimbundu_term": "Kukaulula",
+      "portuguese_translation": "Escassear",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar mais raro",
+        "Abrogar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukaulula-1 — https://www.kimbundu.org/pt/word/kukaulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9310,
+      "kimbundu_term": "Kukaxima",
+      "portuguese_translation": "Ter arrepios",
+      "definition": null,
+      "alternative_meanings": [
+        "sentir calafrios",
+        "Ficar horrorizado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukaxima-1 — https://www.kimbundu.org/pt/word/kukaxima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9311,
+      "kimbundu_term": "Kukaximisa",
+      "portuguese_translation": "Horrípilar, causar horror a",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer ter calafrios"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukaximisa-1 — https://www.kimbundu.org/pt/word/kukaximisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9312,
+      "kimbundu_term": "Kukaximisa",
+      "portuguese_translation": "Kurikaximisa, v. r. Horrorizar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukaximisa-1 — https://www.kimbundu.org/pt/word/kukaximisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9313,
+      "kimbundu_term": "Kukayela",
+      "portuguese_translation": "Imitar",
+      "definition": null,
+      "alternative_meanings": [
+        "seguir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukayela-1 — https://www.kimbundu.org/pt/word/kukayela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
