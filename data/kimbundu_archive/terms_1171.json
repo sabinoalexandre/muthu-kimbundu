@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11814,
+      "kimbundu_term": "Kusuekesa",
+      "portuguese_translation": "Dar a esconder",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuekesa-1 — https://www.kimbundu.org/pt/word/kusuekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11815,
+      "kimbundu_term": "Kusuekesa",
+      "portuguese_translation": "Fazer alapar, ocultar (para que se não veja)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuekesa-1 — https://www.kimbundu.org/pt/word/kusuekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11816,
+      "kimbundu_term": "Kusuenya",
+      "portuguese_translation": "Engasgar",
+      "definition": null,
+      "alternative_meanings": [
+        "ficar com a garganta embaraçada"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuenya-1 — https://www.kimbundu.org/pt/word/kusuenya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11817,
+      "kimbundu_term": "Kusuenya",
+      "portuguese_translation": "Engasgamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuenya-1 — https://www.kimbundu.org/pt/word/kusuenya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11818,
+      "kimbundu_term": "Kusuenya",
+      "portuguese_translation": "Kurisuenha, e r. Engasgar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "sufocar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuenya-1 — https://www.kimbundu.org/pt/word/kusuenya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11819,
+      "kimbundu_term": "Kusuenyesa",
+      "portuguese_translation": "Fazer engasgar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuenyesa-1 — https://www.kimbundu.org/pt/word/kusuenyesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11820,
+      "kimbundu_term": "Kusuenyesa",
+      "portuguese_translation": "Fazer sufocar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuenyesa-1 — https://www.kimbundu.org/pt/word/kusuenyesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11821,
+      "kimbundu_term": "Kusuéta",
+      "portuguese_translation": "Pôr-se ao alcance",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuéta-1 — https://www.kimbundu.org/pt/word/kusueta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11822,
+      "kimbundu_term": "Kusuéta",
+      "portuguese_translation": "Chegar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "aproximar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuéta-1 — https://www.kimbundu.org/pt/word/kusueta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11823,
+      "kimbundu_term": "Kusuéta",
+      "portuguese_translation": "Acercar-se, abeirar-se de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuéta-1 — https://www.kimbundu.org/pt/word/kusueta",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
