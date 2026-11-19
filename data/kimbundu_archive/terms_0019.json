@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 294,
+      "kimbundu_term": "Anji",
+      "portuguese_translation": "Ainda",
+      "definition": null,
+      "alternative_meanings": [
+        "desde",
+        "por ora"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, anji-1 — https://www.kimbundu.org/pt/word/anji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 295,
+      "kimbundu_term": "Anji",
+      "portuguese_translation": "Mais",
+      "definition": null,
+      "alternative_meanings": [
+        "continuamente"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, anji-1 — https://www.kimbundu.org/pt/word/anji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 296,
+      "kimbundu_term": "Anji",
+      "portuguese_translation": "Sempre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, anji-1 — https://www.kimbundu.org/pt/word/anji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 297,
+      "kimbundu_term": "Anji",
+      "portuguese_translation": "Contrariamente",
+      "definition": null,
+      "alternative_meanings": [
+        "pelo contrário"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, anji-1 — https://www.kimbundu.org/pt/word/anji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 298,
+      "kimbundu_term": "Anji",
+      "portuguese_translation": "Preposição que indica relação de tempo. Antes de",
+      "definition": null,
+      "alternative_meanings": [
+        "precedentemente. Ainda não"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, anji-1 — https://www.kimbundu.org/pt/word/anji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 299,
+      "kimbundu_term": "Anyá",
+      "portuguese_translation": "Adjetivo demonstrativo plural, usado no interior. Aqueles",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, anyá-1 — https://www.kimbundu.org/pt/word/anya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 300,
+      "kimbundu_term": "Anyáma",
+      "portuguese_translation": "Veadores",
+      "definition": null,
+      "alternative_meanings": [
+        "caçadores",
+        "comedores de carne (de caça)",
+        "que vivem da caça"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, anyáma-1 — https://www.kimbundu.org/pt/word/anyama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 301,
+      "kimbundu_term": "Anyámi",
+      "portuguese_translation": "Comedores de carne",
+      "definition": null,
+      "alternative_meanings": [
+        "carnívoros",
+        "antropófagos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, anyámi-1 — https://www.kimbundu.org/pt/word/anyami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 302,
+      "kimbundu_term": "Anyani",
+      "portuguese_translation": "Roubadores",
+      "definition": null,
+      "alternative_meanings": [
+        "que roubam",
+        "usurpadores",
+        "ladrões"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, anyani-1 — https://www.kimbundu.org/pt/word/anyani",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 303,
+      "kimbundu_term": "Anyi",
+      "portuguese_translation": "Que",
+      "definition": null,
+      "alternative_meanings": [
+        "quais",
+        "quem Que gente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, anyi-1 — https://www.kimbundu.org/pt/word/anyi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
