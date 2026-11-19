@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9394,
+      "kimbundu_term": "Kukesujula",
+      "portuguese_translation": "Reduzir, com tesoura ou faca, a pequenos fragmentos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukesujula-1 — https://www.kimbundu.org/pt/word/kukesujula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9395,
+      "kimbundu_term": "Kukesuka",
+      "portuguese_translation": "Estar cortado, roído em muitos lugares",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukesuka-1 — https://www.kimbundu.org/pt/word/kukesuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9396,
+      "kimbundu_term": "Kukesula",
+      "portuguese_translation": "Cortar, roer aos poucos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukesula-1 — https://www.kimbundu.org/pt/word/kukesula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9397,
+      "kimbundu_term": "Kukesula",
+      "portuguese_translation": "Corroer, morder levemente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukesula-1 — https://www.kimbundu.org/pt/word/kukesula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9398,
+      "kimbundu_term": "Kukéta",
+      "portuguese_translation": "Voltar para um lado",
+      "definition": null,
+      "alternative_meanings": [
+        "virar (para cima)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukéta-1 — https://www.kimbundu.org/pt/word/kuketa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9399,
+      "kimbundu_term": "Kukéta",
+      "portuguese_translation": "Kuriketa, e r. Virar-se (debaixo para cima)",
+      "definition": null,
+      "alternative_meanings": [
+        "mudar de posição"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukéta-1 — https://www.kimbundu.org/pt/word/kuketa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9400,
+      "kimbundu_term": "Kukéta",
+      "portuguese_translation": "Inquietar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "atormentar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukéta-1 — https://www.kimbundu.org/pt/word/kuketa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9401,
+      "kimbundu_term": "Kuketejeka",
+      "portuguese_translation": "Revirar",
+      "definition": null,
+      "alternative_meanings": [
+        "dar revira-voltas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuketejeka-1 — https://www.kimbundu.org/pt/word/kuketejeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9402,
+      "kimbundu_term": "Kuketejeka",
+      "portuguese_translation": "Kuriketejeka, e r. Voltar-se a cada momento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuketejeka-1 — https://www.kimbundu.org/pt/word/kuketejeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9403,
+      "kimbundu_term": "Kuketejeka",
+      "portuguese_translation": "Revirar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "dar voltas (na cama)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuketejeka-1 — https://www.kimbundu.org/pt/word/kuketejeka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
