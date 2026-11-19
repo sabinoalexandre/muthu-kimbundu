@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6024,
+      "kimbundu_term": "Kipúpu",
+      "portuguese_translation": "O que fica da espiga do milho depois de desgranado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipúpu-1 — https://www.kimbundu.org/pt/word/kipupu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6025,
+      "kimbundu_term": "Kipúpu",
+      "portuguese_translation": "Sabugo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipúpu-1 — https://www.kimbundu.org/pt/word/kipupu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6026,
+      "kimbundu_term": "Kipúpu",
+      "portuguese_translation": "Rolha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipúpu-1 — https://www.kimbundu.org/pt/word/kipupu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6027,
+      "kimbundu_term": "Kipúpulu",
+      "portuguese_translation": "Baboca. Destituído de senso prático",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipúpulu-1 — https://www.kimbundu.org/pt/word/kipupulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6028,
+      "kimbundu_term": "Kipúpulu",
+      "portuguese_translation": "Pessoa sem préstimo. Paspalhão",
+      "definition": null,
+      "alternative_meanings": [
+        "estafermo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipúpulu-1 — https://www.kimbundu.org/pt/word/kipupulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6029,
+      "kimbundu_term": "Kisa",
+      "portuguese_translation": "Instrumento para apanhar jacarés",
+      "definition": null,
+      "alternative_meanings": [
+        "Gancho quadripartido que se mete na isca"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisa-1 — https://www.kimbundu.org/pt/word/kisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6030,
+      "kimbundu_term": "Kisa",
+      "portuguese_translation": "Anzol de quatro hastes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisa-1 — https://www.kimbundu.org/pt/word/kisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6031,
+      "kimbundu_term": "Kisa",
+      "portuguese_translation": "Disposição em cruz",
+      "definition": null,
+      "alternative_meanings": [
+        "Ato de dar essa disposição"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisa-1 — https://www.kimbundu.org/pt/word/kisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6032,
+      "kimbundu_term": "Kisába",
+      "portuguese_translation": "Conjunto de ramos e folhas de uma árvore",
+      "definition": null,
+      "alternative_meanings": [
+        "Ramagem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisába-1 — https://www.kimbundu.org/pt/word/kisaba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6033,
+      "kimbundu_term": "Kisadimba",
+      "portuguese_translation": "Dança regional (no Bengo)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisadimba-1 — https://www.kimbundu.org/pt/word/kisadimba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
