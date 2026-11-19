@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1334,
+      "kimbundu_term": "Diték-",
+      "portuguese_translation": "Urucú",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diték--1 — https://www.kimbundu.org/pt/word/ditek-",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1335,
+      "kimbundu_term": "Ditéle",
+      "portuguese_translation": "Vestimenta que se põe por cima da camisa. Casaco curto sem mangas. Colete",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ditéle-1 — https://www.kimbundu.org/pt/word/ditele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1336,
+      "kimbundu_term": "Ditelélu",
+      "portuguese_translation": "Terreiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ditelélu-1 — https://www.kimbundu.org/pt/word/ditelelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1337,
+      "kimbundu_term": "Dítelu",
+      "portuguese_translation": "Forma, modo ou maneira de dizer ou pôr. Uso",
+      "definition": null,
+      "alternative_meanings": [
+        "costume. Proposição",
+        "argumento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dítelu-1 — https://www.kimbundu.org/pt/word/ditelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1338,
+      "kimbundu_term": "Ditemu",
+      "portuguese_translation": "Enxada. fig. Profissão",
+      "definition": null,
+      "alternative_meanings": [
+        "ganha-pão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ditemu-1 — https://www.kimbundu.org/pt/word/ditemu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1339,
+      "kimbundu_term": "Ditemu",
+      "portuguese_translation": "Nome de um peixe do mar, quase redondo e chato",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ditemu-1 — https://www.kimbundu.org/pt/word/ditemu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1340,
+      "kimbundu_term": "Ditenda",
+      "portuguese_translation": "Canhão",
+      "definition": null,
+      "alternative_meanings": [
+        "bombarda",
+        "granada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ditenda-1 — https://www.kimbundu.org/pt/word/ditenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1341,
+      "kimbundu_term": "Ditenda",
+      "portuguese_translation": "Oficina",
+      "definition": null,
+      "alternative_meanings": [
+        "loja de trabalho e aprendizagem. Atelier. fig. Cabeçaria"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ditenda-1 — https://www.kimbundu.org/pt/word/ditenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1342,
+      "kimbundu_term": "Diténde",
+      "portuguese_translation": "Sardadisca",
+      "definition": null,
+      "alternative_meanings": [
+        "O-ga",
+        "lagartixa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diténde-1 — https://www.kimbundu.org/pt/word/ditende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1343,
+      "kimbundu_term": "Diténde",
+      "portuguese_translation": "Sardão",
+      "definition": null,
+      "alternative_meanings": [
+        "réptil sáurio das pedras"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diténde-1 — https://www.kimbundu.org/pt/word/ditende",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
