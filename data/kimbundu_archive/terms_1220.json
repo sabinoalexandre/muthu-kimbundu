@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12304,
+      "kimbundu_term": "Kutendela",
+      "portuguese_translation": "Entender",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutendela-1 — https://www.kimbundu.org/pt/word/kutendela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12305,
+      "kimbundu_term": "Kutendela",
+      "portuguese_translation": "Kuritendela, v. r. Combinar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutendela-1 — https://www.kimbundu.org/pt/word/kutendela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12306,
+      "kimbundu_term": "Kutendela",
+      "portuguese_translation": "Entender-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutendela-1 — https://www.kimbundu.org/pt/word/kutendela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12307,
+      "kimbundu_term": "Kutendelela",
+      "portuguese_translation": "Recomendar",
+      "definition": null,
+      "alternative_meanings": [
+        "encarecer",
+        "pedir com instância"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutendelela-1 — https://www.kimbundu.org/pt/word/kutendelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12308,
+      "kimbundu_term": "Kutendelela",
+      "portuguese_translation": "Chamar a atenção sobre",
+      "definition": null,
+      "alternative_meanings": [
+        "instruir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutendelela-1 — https://www.kimbundu.org/pt/word/kutendelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12309,
+      "kimbundu_term": "Kutendelela",
+      "portuguese_translation": "Recomendação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutendelela-1 — https://www.kimbundu.org/pt/word/kutendelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12310,
+      "kimbundu_term": "Kutendelesa",
+      "portuguese_translation": "Fazer recomendações",
+      "definition": null,
+      "alternative_meanings": [
+        "dar instruções"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutendelesa-1 — https://www.kimbundu.org/pt/word/kutendelesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12311,
+      "kimbundu_term": "Kutendelesa",
+      "portuguese_translation": "Dar a entender",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutendelesa-1 — https://www.kimbundu.org/pt/word/kutendelesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12312,
+      "kimbundu_term": "Kútendesa",
+      "portuguese_translation": "Fazer soar, tanger, tinir",
+      "definition": null,
+      "alternative_meanings": [
+        "Mandar tocar, dar badaladas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútendesa-1 — https://www.kimbundu.org/pt/word/kutendesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12313,
+      "kimbundu_term": "Kutendula",
+      "portuguese_translation": "Não ligar importância",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutendula-1 — https://www.kimbundu.org/pt/word/kutendula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
