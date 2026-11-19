@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19414,
+      "kimbundu_term": "Ubelelu",
+      "portuguese_translation": "Maneira de emagrecer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubelelu-1 — https://www.kimbundu.org/pt/word/ubelelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19415,
+      "kimbundu_term": "Úbelu",
+      "portuguese_translation": "Forma de dar, de oferecer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úbelu-1 — https://www.kimbundu.org/pt/word/ubelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19416,
+      "kimbundu_term": "Ubhane",
+      "portuguese_translation": "Prometido",
+      "definition": null,
+      "alternative_meanings": [
+        "dado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubhane-1 — https://www.kimbundu.org/pt/word/ubhane",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19417,
+      "kimbundu_term": "Ubhane",
+      "portuguese_translation": "Dádiva",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubhane-1 — https://www.kimbundu.org/pt/word/ubhane",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19418,
+      "kimbundu_term": "Ubhanga",
+      "portuguese_translation": "Festa de casamento. Boda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubhanga-1 — https://www.kimbundu.org/pt/word/ubhanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19419,
+      "kimbundu_term": "Ubhanga",
+      "portuguese_translation": "Banquete nupcial",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubhanga-1 — https://www.kimbundu.org/pt/word/ubhanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19420,
+      "kimbundu_term": "Ubhange",
+      "portuguese_translation": "Formado",
+      "definition": null,
+      "alternative_meanings": [
+        "lavrado",
+        "feito"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubhange-1 — https://www.kimbundu.org/pt/word/ubhange",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19421,
+      "kimbundu_term": "Ubhange",
+      "portuguese_translation": "O que está feito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubhange-1 — https://www.kimbundu.org/pt/word/ubhange",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19422,
+      "kimbundu_term": "Ubhe",
+      "portuguese_translation": "Novidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubhe-1 — https://www.kimbundu.org/pt/word/ubhe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19423,
+      "kimbundu_term": "Ubhe",
+      "portuguese_translation": "Novo",
+      "definition": null,
+      "alternative_meanings": [
+        "recente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubhe-1 — https://www.kimbundu.org/pt/word/ubhe",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
