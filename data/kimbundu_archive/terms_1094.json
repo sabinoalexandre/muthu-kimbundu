@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11044,
+      "kimbundu_term": "Kunyongola",
+      "portuguese_translation": "Ter cólica, dor de barriga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyongola-1 — https://www.kimbundu.org/pt/word/kunyongola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11045,
+      "kimbundu_term": "Kunyongona",
+      "portuguese_translation": "Estorcegar",
+      "definition": null,
+      "alternative_meanings": [
+        "torcer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyongona-1 — https://www.kimbundu.org/pt/word/kunyongona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11046,
+      "kimbundu_term": "Kunyongonoka",
+      "portuguese_translation": "Ficar estorcegado, retorcido. Sofrer uma torcedura. Ficar deslocado por meio de uma torcidela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyongonoka-1 — https://www.kimbundu.org/pt/word/kunyongonoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11047,
+      "kimbundu_term": "Kunyongonona",
+      "portuguese_translation": "Retorcer",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer deslocar algo do seu lugar por torceduras: ngirla ndenge l art.sokokela",
+        "Desarticular, separar, arrancar por meio de torcimento",
+        "Despegar, desunir (torcendo)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyongonona-1 — https://www.kimbundu.org/pt/word/kunyongonona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11048,
+      "kimbundu_term": "Kunyongonona",
+      "portuguese_translation": "Torcedura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyongonona-1 — https://www.kimbundu.org/pt/word/kunyongonona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11049,
+      "kimbundu_term": "Kunyongonona",
+      "portuguese_translation": "É tb. r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyongonona-1 — https://www.kimbundu.org/pt/word/kunyongonona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11050,
+      "kimbundu_term": "Kunyonyala",
+      "portuguese_translation": "Adular",
+      "definition": null,
+      "alternative_meanings": [
+        "engodar",
+        "enganar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyonyala-1 — https://www.kimbundu.org/pt/word/kunyonyala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11051,
+      "kimbundu_term": "Kunyonyala",
+      "portuguese_translation": "Subornar",
+      "definition": null,
+      "alternative_meanings": [
+        "corromper por meio de sedução"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyonyala-1 — https://www.kimbundu.org/pt/word/kunyonyala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11052,
+      "kimbundu_term": "Kunyúka",
+      "portuguese_translation": "Costurar",
+      "definition": null,
+      "alternative_meanings": [
+        "pospontar",
+        "coser"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyúka-1 — https://www.kimbundu.org/pt/word/kunyuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11053,
+      "kimbundu_term": "Kúnyunga",
+      "portuguese_translation": "Estar empenado, torcido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúnyunga-1 — https://www.kimbundu.org/pt/word/kunyunga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
