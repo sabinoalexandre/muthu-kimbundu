@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18024,
+      "kimbundu_term": "Ngányu",
+      "portuguese_translation": "Ganho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngányu-1 — https://www.kimbundu.org/pt/word/nganyu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18025,
+      "kimbundu_term": "Nganza",
+      "portuguese_translation": "Copo, caneca sem asa. Pequena cabaça, vaso para beber água, vinho, etc. (fig.) Bebedeira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nganza-1 — https://www.kimbundu.org/pt/word/nganza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18026,
+      "kimbundu_term": "Ngánza",
+      "portuguese_translation": "Escuro. Ferrete (cor escura). Cor de ferro. Tirante a ferro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngánza-1 — https://www.kimbundu.org/pt/word/nganza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18027,
+      "kimbundu_term": "Nganzuânzua",
+      "portuguese_translation": "Cada uma das peças ósseas em que estão implantados os dentes no homem e animais vertebrados",
+      "definition": null,
+      "alternative_meanings": [
+        "Maxila",
+        "Queixada"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nganzuânzua-1 — https://www.kimbundu.org/pt/word/nganzuanzua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18028,
+      "kimbundu_term": "Ngasêse",
+      "portuguese_translation": "Peixe escombrídeo, parecido com a sarda",
+      "definition": null,
+      "alternative_meanings": [
+        "escombro",
+        "cavala"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngasêse-1 — https://www.kimbundu.org/pt/word/ngasese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18029,
+      "kimbundu_term": "Ngásu",
+      "portuguese_translation": "Gasto",
+      "definition": null,
+      "alternative_meanings": [
+        "despesa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngásu-1 — https://www.kimbundu.org/pt/word/ngasu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18030,
+      "kimbundu_term": "Ngátu",
+      "portuguese_translation": "Gato",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngátu-1 — https://www.kimbundu.org/pt/word/ngatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18031,
+      "kimbundu_term": "Ngaxâxa",
+      "portuguese_translation": "Movimento convulsivo dos músculos das vias respiratórias seguido de explosão ruidosa do ar",
+      "definition": null,
+      "alternative_meanings": [
+        "esternutação",
+        "espirro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngaxâxa-1 — https://www.kimbundu.org/pt/word/ngaxaxa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18032,
+      "kimbundu_term": "Ngaxâxa",
+      "portuguese_translation": "Nome por que erradamente se conhece o peixe ngasêse",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngaxâxa-1 — https://www.kimbundu.org/pt/word/ngaxaxa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18033,
+      "kimbundu_term": "Ngayala",
+      "portuguese_translation": "Antigo. Tratamento que se dava ao homem casado",
+      "definition": null,
+      "alternative_meanings": [
+        "abreviatura de ngana ia riiala"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngayala-1 — https://www.kimbundu.org/pt/word/ngayala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
