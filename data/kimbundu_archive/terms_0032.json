@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 424,
+      "kimbundu_term": "Bhoxi",
+      "portuguese_translation": "Chão",
+      "definition": null,
+      "alternative_meanings": [
+        "terra"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhoxi-1 — https://www.kimbundu.org/pt/word/bhoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 425,
+      "kimbundu_term": "Bhu",
+      "portuguese_translation": "Que indica relação de lugar",
+      "definition": null,
+      "alternative_meanings": [
+        "em",
+        "no lugar de",
+        "no",
+        "na"
+      ],
+      "examples": [],
+      "grammatical_category": "preposição, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhu-1 — https://www.kimbundu.org/pt/word/bhu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 426,
+      "kimbundu_term": "Bhu",
+      "portuguese_translation": "Naquele lugar",
+      "definition": null,
+      "alternative_meanings": [
+        "lá"
+      ],
+      "examples": [],
+      "grammatical_category": "preposição, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhu-1 — https://www.kimbundu.org/pt/word/bhu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 427,
+      "kimbundu_term": "Bhu",
+      "portuguese_translation": "No qual lugar",
+      "definition": null,
+      "alternative_meanings": [
+        "no lugar em que",
+        "aí",
+        "onde"
+      ],
+      "examples": [],
+      "grammatical_category": "preposição, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhu-1 — https://www.kimbundu.org/pt/word/bhu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 428,
+      "kimbundu_term": "Bhu",
+      "portuguese_translation": "Em qualquer parte que. (prep. 'bu' com elisão do artigo uniforme 'o')",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "preposição, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhu-1 — https://www.kimbundu.org/pt/word/bhu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 429,
+      "kimbundu_term": "Bhulu",
+      "portuguese_translation": "Em cima",
+      "definition": null,
+      "alternative_meanings": [
+        "no alto",
+        "na parte superior. Abreviatura de búriúlu"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhulu-1 — https://www.kimbundu.org/pt/word/bhulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 430,
+      "kimbundu_term": "Bhuta",
+      "portuguese_translation": "Que tem menos altura que a ordinária",
+      "definition": null,
+      "alternative_meanings": [
+        "Baixo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhuta-1 — https://www.kimbundu.org/pt/word/bhuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 431,
+      "kimbundu_term": "Bhuta",
+      "portuguese_translation": "desenfestado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhuta-1 — https://www.kimbundu.org/pt/word/bhuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 432,
+      "kimbundu_term": "Bhute",
+      "portuguese_translation": "Rapado",
+      "definition": null,
+      "alternative_meanings": [
+        "Cortado rente à raiz"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhute-1 — https://www.kimbundu.org/pt/word/bhute",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 433,
+      "kimbundu_term": "Bhwamoxi",
+      "portuguese_translation": "A pouca distância",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhwamoxi-1 — https://www.kimbundu.org/pt/word/bhwamoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
