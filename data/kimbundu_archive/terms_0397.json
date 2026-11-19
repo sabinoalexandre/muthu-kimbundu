@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4074,
+      "kimbundu_term": "Kasekeseke",
+      "portuguese_translation": "Migalhinha. Pequeno fragmento que se desprende do pão ou semelhante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasekeseke-1 — https://www.kimbundu.org/pt/word/kasekeseke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4075,
+      "kimbundu_term": "Kasembe",
+      "portuguese_translation": "Planta herbácea de flores alternas, de utilidade medicinal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasembe-1 — https://www.kimbundu.org/pt/word/kasembe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4076,
+      "kimbundu_term": "Kasembe",
+      "portuguese_translation": "Enlevado. Encantado. Maravilhado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasembe-2 — https://www.kimbundu.org/pt/word/kasembe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4077,
+      "kimbundu_term": "Kasênda",
+      "portuguese_translation": "Chato. Mucuim",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasênda-1 — https://www.kimbundu.org/pt/word/kasenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4078,
+      "kimbundu_term": "Kasénge",
+      "portuguese_translation": "Divorciado",
+      "definition": null,
+      "alternative_meanings": [
+        "desquitado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasénge-1 — https://www.kimbundu.org/pt/word/kasenge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4079,
+      "kimbundu_term": "Kásenu",
+      "portuguese_translation": "Joio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kásenu-1 — https://www.kimbundu.org/pt/word/kasenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4080,
+      "kimbundu_term": "Kásenu",
+      "portuguese_translation": "Causa má que prejudica outra boa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kásenu-1 — https://www.kimbundu.org/pt/word/kasenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4081,
+      "kimbundu_term": "Kasexi",
+      "portuguese_translation": "Corça de poucos meses. Gazela. fig. Pessoa esperta, ladina, sagaz",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasexi-1 — https://www.kimbundu.org/pt/word/kasexi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4082,
+      "kimbundu_term": "Kasexi",
+      "portuguese_translation": "Doreas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasexi-1 — https://www.kimbundu.org/pt/word/kasexi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4083,
+      "kimbundu_term": "Kasínga",
+      "portuguese_translation": "Pov. e sede do posto deste nome, na circ. civ. das Ganguelas, distr. e prov. da Huíla, 8.420 hab. e est. postal de 3.ª c",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasínga-1 — https://www.kimbundu.org/pt/word/kasinga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
