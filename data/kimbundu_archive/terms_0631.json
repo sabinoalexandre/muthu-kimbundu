@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6414,
+      "kimbundu_term": "Kitoua",
+      "portuguese_translation": "Lama",
+      "definition": null,
+      "alternative_meanings": [
+        "lodaçal",
+        "Tremedal formado por águas estagnadas",
+        "Pântano",
+        "charco"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitoua-1 — https://www.kimbundu.org/pt/word/kitoua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6415,
+      "kimbundu_term": "Kitoue",
+      "portuguese_translation": "Doçura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitoue-1 — https://www.kimbundu.org/pt/word/kitoue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6416,
+      "kimbundu_term": "Kitoue",
+      "portuguese_translation": "Nome genérico do que é feito com açúcar ou mel",
+      "definition": null,
+      "alternative_meanings": [
+        "Sabor doce"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitoue-1 — https://www.kimbundu.org/pt/word/kitoue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6417,
+      "kimbundu_term": "Kitoue",
+      "portuguese_translation": "Tempero",
+      "definition": null,
+      "alternative_meanings": [
+        "sal"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitoue-1 — https://www.kimbundu.org/pt/word/kitoue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6418,
+      "kimbundu_term": "Kitoue",
+      "portuguese_translation": "Cousa que deleita os sentidos",
+      "definition": null,
+      "alternative_meanings": [
+        "Voluptuosidade",
+        "gozo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitoue-1 — https://www.kimbundu.org/pt/word/kitoue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6419,
+      "kimbundu_term": "Kitouese",
+      "portuguese_translation": "Dulcificante",
+      "definition": null,
+      "alternative_meanings": [
+        "Que adoça ou deixa a boca doce"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitouese-1 — https://www.kimbundu.org/pt/word/kitouese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6420,
+      "kimbundu_term": "Kítu",
+      "portuguese_translation": "Vaso bojudo de barro com gargalo curto e estreito para líquidos",
+      "definition": null,
+      "alternative_meanings": [
+        "Bilha",
+        "cântaro",
+        "talha: ele ta mu mbinda, eme ngl ta mu —",
+        "Ânfora"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kítu-1 — https://www.kimbundu.org/pt/word/kitu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6421,
+      "kimbundu_term": "Kítu",
+      "portuguese_translation": "Medida para líquidos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kítu-1 — https://www.kimbundu.org/pt/word/kitu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6422,
+      "kimbundu_term": "Kituamenenu",
+      "portuguese_translation": "Que vai adiante",
+      "definition": null,
+      "alternative_meanings": [
+        "Guia: ngombe i binga —",
+        "Cavalo ou parelha que vai à frente das outras"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kituamenenu-1 — https://www.kimbundu.org/pt/word/kituamenenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6423,
+      "kimbundu_term": "Kituamenu",
+      "portuguese_translation": "Adiantamento",
+      "definition": null,
+      "alternative_meanings": [
+        "Avanço",
+        "Ato de adiantar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kituamenu-1 — https://www.kimbundu.org/pt/word/kituamenu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
