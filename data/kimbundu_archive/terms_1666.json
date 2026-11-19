@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16764,
+      "kimbundu_term": "Mulúndi",
+      "portuguese_translation": "Arquivista",
+      "definition": null,
+      "alternative_meanings": [
+        "Conservador",
+        "Depositário"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulúndi-1 — https://www.kimbundu.org/pt/word/mulundi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16765,
+      "kimbundu_term": "Mulundu",
+      "portuguese_translation": "Serra",
+      "definition": null,
+      "alternative_meanings": [
+        "montanha",
+        "morro: mutu u banda"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulundu-1 — https://www.kimbundu.org/pt/word/mulundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16766,
+      "kimbundu_term": "Mulundu",
+      "portuguese_translation": "Penedo",
+      "definition": null,
+      "alternative_meanings": [
+        "rocha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulundu-1 — https://www.kimbundu.org/pt/word/mulundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16767,
+      "kimbundu_term": "Mulundudi",
+      "portuguese_translation": "Herdeiro",
+      "definition": null,
+      "alternative_meanings": [
+        "sucessor (na herança)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulundudi-1 — https://www.kimbundu.org/pt/word/mulundudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16768,
+      "kimbundu_term": "Mulunga",
+      "portuguese_translation": "Círculo de madeira com que se adorna o tornozelo",
+      "definition": null,
+      "alternative_meanings": [
+        "Elo",
+        "argola",
+        "manilha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulunga-1 — https://www.kimbundu.org/pt/word/mulunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16769,
+      "kimbundu_term": "Mulunga",
+      "portuguese_translation": "Nome por que no Cuanhama se conhece a Hyphaena ventricosa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulunga-1 — https://www.kimbundu.org/pt/word/mulunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16770,
+      "kimbundu_term": "Múlunge",
+      "portuguese_translation": "Triunfador",
+      "definition": null,
+      "alternative_meanings": [
+        "vencedor (de uma demanda)",
+        "Aquele que obteve decisão favorável, ou vitória"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múlunge-1 — https://www.kimbundu.org/pt/word/mulunge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16771,
+      "kimbundu_term": "Mulúngi",
+      "portuguese_translation": "Orientador",
+      "definition": null,
+      "alternative_meanings": [
+        "dirigente",
+        "Pessoa que estabelece diretrizes, que faz seguir uma direção ou rumo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulúngi-1 — https://www.kimbundu.org/pt/word/mulungi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16772,
+      "kimbundu_term": "Mulungidi",
+      "portuguese_translation": "Diretor",
+      "definition": null,
+      "alternative_meanings": [
+        "guia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulungidi-1 — https://www.kimbundu.org/pt/word/mulungidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16773,
+      "kimbundu_term": "Mulungu",
+      "portuguese_translation": "Planta condimentícia",
+      "definition": null,
+      "alternative_meanings": [
+        "Solano",
+        "erva-moura"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulungu-1 — https://www.kimbundu.org/pt/word/mulungu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
