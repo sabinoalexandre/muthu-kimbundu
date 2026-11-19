@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12454,
+      "kimbundu_term": "Kutolomba",
+      "portuguese_translation": "Gingar (levantando os pés)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutolomba-1 — https://www.kimbundu.org/pt/word/kutolomba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12455,
+      "kimbundu_term": "Kutolomba",
+      "portuguese_translation": "Afetar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutolomba-1 — https://www.kimbundu.org/pt/word/kutolomba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12456,
+      "kimbundu_term": "Kútoma",
+      "portuguese_translation": "Sarjar",
+      "definition": null,
+      "alternative_meanings": [
+        "golpear",
+        "pungir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútoma-1 — https://www.kimbundu.org/pt/word/kutoma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12457,
+      "kimbundu_term": "Kútoma",
+      "portuguese_translation": "Ferir levemente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútoma-1 — https://www.kimbundu.org/pt/word/kutoma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12458,
+      "kimbundu_term": "Kútoma",
+      "portuguese_translation": "Marcar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútoma-1 — https://www.kimbundu.org/pt/word/kutoma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12459,
+      "kimbundu_term": "Kútoma",
+      "portuguese_translation": "Sangria",
+      "definition": null,
+      "alternative_meanings": [
+        "golpe"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútoma-1 — https://www.kimbundu.org/pt/word/kutoma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12460,
+      "kimbundu_term": "Kútoma",
+      "portuguese_translation": "Punção",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútoma-1 — https://www.kimbundu.org/pt/word/kutoma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12461,
+      "kimbundu_term": "Kutomba",
+      "portuguese_translation": "Andar à caça",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutomba-1 — https://www.kimbundu.org/pt/word/kutomba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12462,
+      "kimbundu_term": "Kutomba",
+      "portuguese_translation": "Caçar rastejando",
+      "definition": null,
+      "alternative_meanings": [
+        "seguir a pista de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutomba-1 — https://www.kimbundu.org/pt/word/kutomba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12463,
+      "kimbundu_term": "Kutomba",
+      "portuguese_translation": "Investigar (segundo indícios incertos ou duvidosos)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutomba-1 — https://www.kimbundu.org/pt/word/kutomba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
