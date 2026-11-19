@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16104,
+      "kimbundu_term": "Muetéte",
+      "portuguese_translation": "Carga transportada em cesto. Pacotilha",
+      "definition": null,
+      "alternative_meanings": [
+        "mercância ordinária. Cesto comprido (para provisões)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muetéte-1 — https://www.kimbundu.org/pt/word/muetete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16105,
+      "kimbundu_term": "Muetu",
+      "portuguese_translation": "(contr. da prep. mua e do pron. pess etu). Em nós",
+      "definition": null,
+      "alternative_meanings": [
+        "para nós",
+        "connosco"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muetu-1 — https://www.kimbundu.org/pt/word/muetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16106,
+      "kimbundu_term": "Muetu",
+      "portuguese_translation": "Dentro de nós",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muetu-1 — https://www.kimbundu.org/pt/word/muetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16107,
+      "kimbundu_term": "Muetu",
+      "portuguese_translation": "Em nós mesmo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muetu-1 — https://www.kimbundu.org/pt/word/muetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16108,
+      "kimbundu_term": "Mufángu",
+      "portuguese_translation": "Gramínea fam. das rizofuráceas, de fruto comestível e saboroso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mufángu-1 — https://www.kimbundu.org/pt/word/mufangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16109,
+      "kimbundu_term": "Mufefeti",
+      "portuguese_translation": "Cuchichador. Pessoa que fala em voz baixa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mufefeti-1 — https://www.kimbundu.org/pt/word/mufefeti",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16110,
+      "kimbundu_term": "Mufekezu",
+      "portuguese_translation": "Planta de propriedades purgativas e tintoriais. Guteira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mufekezu-1 — https://www.kimbundu.org/pt/word/mufekezu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16111,
+      "kimbundu_term": "Mufenyi",
+      "portuguese_translation": "Aquele que cheira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mufenyi-1 — https://www.kimbundu.org/pt/word/mufenyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16112,
+      "kimbundu_term": "Múfete",
+      "portuguese_translation": "Peixe assado com escamas sobre brasas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múfete-1 — https://www.kimbundu.org/pt/word/mufete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16113,
+      "kimbundu_term": "Múfete",
+      "portuguese_translation": "Cadáver de criança",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múfete-1 — https://www.kimbundu.org/pt/word/mufete",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
