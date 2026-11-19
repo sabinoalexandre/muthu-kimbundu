@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5184,
+      "kimbundu_term": "Kikanga",
+      "portuguese_translation": "— 'a-njila, bot. Árvore da família das rubiáceas (cantium medusula), de utilidade medicinal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikanga-1 — https://www.kimbundu.org/pt/word/kikanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5185,
+      "kimbundu_term": "Kikangalakata",
+      "portuguese_translation": "Terreno plano e descoberto",
+      "definition": null,
+      "alternative_meanings": [
+        "Esplanada: campo liso",
+        "Largo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikangalakata-1 — https://www.kimbundu.org/pt/word/kikangalakata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5186,
+      "kimbundu_term": "Kikangálu",
+      "portuguese_translation": "Transversário",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikangálu-1 — https://www.kimbundu.org/pt/word/kikangalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5187,
+      "kimbundu_term": "Kikangálu",
+      "portuguese_translation": "Atravessado",
+      "definition": null,
+      "alternative_meanings": [
+        "transverso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikangálu-1 — https://www.kimbundu.org/pt/word/kikangalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5188,
+      "kimbundu_term": "Kikange",
+      "portuguese_translation": "Manchas no rosto ou palidez demonstrativa da puberdade ou gravidez",
+      "definition": null,
+      "alternative_meanings": [
+        "Manchas brancas na pele"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikange-1 — https://www.kimbundu.org/pt/word/kikange",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5189,
+      "kimbundu_term": "Kikange",
+      "portuguese_translation": "Mukua —, adj. Mascarino",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikange-1 — https://www.kimbundu.org/pt/word/kikange",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5190,
+      "kimbundu_term": "Kikangelu",
+      "portuguese_translation": "Torresmo. É mais usado no plural ikangelu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikangelu-1 — https://www.kimbundu.org/pt/word/kikangelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5191,
+      "kimbundu_term": "Kikangelu",
+      "portuguese_translation": "Utensílio de cozinha para torrar ou fritar",
+      "definition": null,
+      "alternative_meanings": [
+        "Caço"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikangelu-1 — https://www.kimbundu.org/pt/word/kikangelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5192,
+      "kimbundu_term": "Kikangu",
+      "portuguese_translation": "Secura",
+      "definition": null,
+      "alternative_meanings": [
+        "aridez",
+        "Falta de leite (às amas)",
+        "Sede contínua"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikangu-1 — https://www.kimbundu.org/pt/word/kikangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5193,
+      "kimbundu_term": "Kikangu",
+      "portuguese_translation": "Torrado",
+      "definition": null,
+      "alternative_meanings": [
+        "seco"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikangu-1 — https://www.kimbundu.org/pt/word/kikangu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
