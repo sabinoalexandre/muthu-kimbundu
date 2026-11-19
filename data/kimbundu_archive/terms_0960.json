@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9704,
+      "kimbundu_term": "Kukukulula",
+      "portuguese_translation": "Apanhar, reunir, juntar mais uma vez (lixo, capim, etc.)",
+      "definition": null,
+      "alternative_meanings": [
+        "Arrepanhar",
+        "tornar a limpar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukukulula-1 — https://www.kimbundu.org/pt/word/kukukulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9705,
+      "kimbundu_term": "Kukukuma",
+      "portuguese_translation": "Gaguejar",
+      "definition": null,
+      "alternative_meanings": [
+        "ser gago"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukukuma-1 — https://www.kimbundu.org/pt/word/kukukuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9706,
+      "kimbundu_term": "Kukukuma",
+      "portuguese_translation": "Dizer hesitando",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukukuma-1 — https://www.kimbundu.org/pt/word/kukukuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9707,
+      "kimbundu_term": "Kukukuma",
+      "portuguese_translation": "Gaguice",
+      "definition": null,
+      "alternative_meanings": [
+        "Deslalia",
+        "dificuldade no falar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukukuma-1 — https://www.kimbundu.org/pt/word/kukukuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9708,
+      "kimbundu_term": "Kukukumba",
+      "portuguese_translation": "Andar ajoujado, sobrecarregado sem saber onde pousar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukukumba-1 — https://www.kimbundu.org/pt/word/kukukumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9709,
+      "kimbundu_term": "Kukukumbisa",
+      "portuguese_translation": "Fazer sofrer ajoujo",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer andar sobrecarregado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukukumbisa-1 — https://www.kimbundu.org/pt/word/kukukumbisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9710,
+      "kimbundu_term": "Kukukumuisa",
+      "portuguese_translation": "Fazer escovar, espanar, vasculhar, sacudir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukukumuisa-1 — https://www.kimbundu.org/pt/word/kukukumuisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9711,
+      "kimbundu_term": "Kukukumuisa",
+      "portuguese_translation": "Kurikukumuisa, v. r. Fazer-se escovar, espanar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukukumuisa-1 — https://www.kimbundu.org/pt/word/kukukumuisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9712,
+      "kimbundu_term": "Kukukumuka",
+      "portuguese_translation": "Ficar escovado, sacudido",
+      "definition": null,
+      "alternative_meanings": [
+        "Estar limpo (de poeira)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukukumuka-1 — https://www.kimbundu.org/pt/word/kukukumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9713,
+      "kimbundu_term": "Kukukumuna",
+      "portuguese_translation": "Espanejar",
+      "definition": null,
+      "alternative_meanings": [
+        "escovar",
+        "sacudir. Limpar (o pó de). Agitar com força e repetidas vezes"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukukumuna-1 — https://www.kimbundu.org/pt/word/kukukumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
