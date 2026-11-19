@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3494,
+      "kimbundu_term": "Kalúnda",
+      "portuguese_translation": "Pov. e sede do posto deste nome, na circ. civ. do Alto Zambeze, distr. do Moxico, com 16.286 hab., posto de despacho alf",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalúnda-1 — https://www.kimbundu.org/pt/word/kalunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3495,
+      "kimbundu_term": "Kalundúa",
+      "portuguese_translation": "Importante afluente do rio Luandu, na região do Moxico, distr. do Bié",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalundúa-1 — https://www.kimbundu.org/pt/word/kalundua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3496,
+      "kimbundu_term": "Kalúnga",
+      "portuguese_translation": "Eminente. Insigne. Grande. Incomensurável. Infinito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalúnga-1 — https://www.kimbundu.org/pt/word/kalunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3497,
+      "kimbundu_term": "Kalúnga",
+      "portuguese_translation": "Massa líquida que circunda os continentes. Oceano. O mar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalúnga-2 — https://www.kimbundu.org/pt/word/kalunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3498,
+      "kimbundu_term": "Kalúnga",
+      "portuguese_translation": "A imensidade",
+      "definition": null,
+      "alternative_meanings": [
+        "o vácuo",
+        "o abismo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalúnga-2 — https://www.kimbundu.org/pt/word/kalunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3499,
+      "kimbundu_term": "Kalúnga",
+      "portuguese_translation": "Infortúnio",
+      "definition": null,
+      "alternative_meanings": [
+        "desgraça",
+        "peste. Calamidade. Morticínio. A Morte"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalúnga-2 — https://www.kimbundu.org/pt/word/kalunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3500,
+      "kimbundu_term": "Kalúnga",
+      "portuguese_translation": "Tratamento equivalente a Excelência, a Eminência. Senhor. Fidalgo que tem honras de grandeza. Pessoa de alta hierarquia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalúnga-2 — https://www.kimbundu.org/pt/word/kalunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3501,
+      "kimbundu_term": "Kalúnga",
+      "portuguese_translation": "Deus., Deus da Morte. A própria Morte. O Além, a Eternidade. Uma das três deusas que fiavam e cortavam o fio da vida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalúnga-2 — https://www.kimbundu.org/pt/word/kalunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3502,
+      "kimbundu_term": "Kalúnga",
+      "portuguese_translation": "Deus da família, da vida. O maior dos Deuses",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalúnga-2 — https://www.kimbundu.org/pt/word/kalunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3503,
+      "kimbundu_term": "Kalúnga",
+      "portuguese_translation": "Rio, afluente da margem esquerda do rio Capororo, no distr. e prov. de Benguela., pov. e posto de Cameia, circ. civ. do",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalúnga-2 — https://www.kimbundu.org/pt/word/kalunga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
