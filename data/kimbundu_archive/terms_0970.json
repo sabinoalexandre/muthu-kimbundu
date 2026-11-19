@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9804,
+      "kimbundu_term": "Kukundumuisa",
+      "portuguese_translation": "É tb. r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukundumuisa-1 — https://www.kimbundu.org/pt/word/kukundumuisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9805,
+      "kimbundu_term": "Kukundumuka",
+      "portuguese_translation": "Ir rolando",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukundumuka-1 — https://www.kimbundu.org/pt/word/kukundumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9806,
+      "kimbundu_term": "Kukundumuka",
+      "portuguese_translation": "Girar ou mover-se sobre si mesmo, avançando",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukundumuka-1 — https://www.kimbundu.org/pt/word/kukundumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9807,
+      "kimbundu_term": "Kukundumuka",
+      "portuguese_translation": "Andar à roda sobre uma superfície",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukundumuka-1 — https://www.kimbundu.org/pt/word/kukundumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9808,
+      "kimbundu_term": "Kukundumuna",
+      "portuguese_translation": "Rolar (barril, pipa, tronco de árvore, etc.)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukundumuna-1 — https://www.kimbundu.org/pt/word/kukundumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9809,
+      "kimbundu_term": "Kukundumuna",
+      "portuguese_translation": "Ir virando",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukundumuna-1 — https://www.kimbundu.org/pt/word/kukundumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9810,
+      "kimbundu_term": "Kukundumuna",
+      "portuguese_translation": "Kurikundumuna, v. r. Rolar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "virar-se de baixo para cima (como o barril)",
+        "Ir-se virando"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukundumuna-1 — https://www.kimbundu.org/pt/word/kukundumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9811,
+      "kimbundu_term": "Kúkunga",
+      "portuguese_translation": "Tocar levemente",
+      "definition": null,
+      "alternative_meanings": [
+        "ser tangente",
+        "Roçar",
+        "contactar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkunga-1 — https://www.kimbundu.org/pt/word/kukunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9812,
+      "kimbundu_term": "Kukúnga",
+      "portuguese_translation": "Esfregar",
+      "definition": null,
+      "alternative_meanings": [
+        "Friccionar, limpar (esfregando)",
+        "É tb. intr. e r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukúnga-1 — https://www.kimbundu.org/pt/word/kukunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9813,
+      "kimbundu_term": "Kukungisa",
+      "portuguese_translation": "Mandar esfregar, friccionar, limpar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukungisa-1 — https://www.kimbundu.org/pt/word/kukungisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
