@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5064,
+      "kimbundu_term": "Kiiámba",
+      "portuguese_translation": "Tempo que dura o cativeiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiiámba-1 — https://www.kimbundu.org/pt/word/kiiamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5065,
+      "kimbundu_term": "Kiickoioko",
+      "portuguese_translation": "Esfalfamento",
+      "definition": null,
+      "alternative_meanings": [
+        "fadiga"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiickoioko-1 — https://www.kimbundu.org/pt/word/kiickoioko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5066,
+      "kimbundu_term": "Kiickoioko",
+      "portuguese_translation": "Grande cansaço",
+      "definition": null,
+      "alternative_meanings": [
+        "fraqueza"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiickoioko-1 — https://www.kimbundu.org/pt/word/kiickoioko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5067,
+      "kimbundu_term": "Kiiéie",
+      "portuguese_translation": "Matinal",
+      "definition": null,
+      "alternative_meanings": [
+        "oriental"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiiéie-1 — https://www.kimbundu.org/pt/word/kiieie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5068,
+      "kimbundu_term": "Kiiéie",
+      "portuguese_translation": "Êdo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiiéie-1 — https://www.kimbundu.org/pt/word/kiieie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5069,
+      "kimbundu_term": "Kiiéie",
+      "portuguese_translation": "Clarão ou o astro da manhã",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiiéie-1 — https://www.kimbundu.org/pt/word/kiieie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5070,
+      "kimbundu_term": "Kiieke",
+      "portuguese_translation": "Alacridade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiieke-1 — https://www.kimbundu.org/pt/word/kiieke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5071,
+      "kimbundu_term": "Kiieke",
+      "portuguese_translation": "Ruído de muitas vozes (conversando)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiieke-1 — https://www.kimbundu.org/pt/word/kiieke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5072,
+      "kimbundu_term": "Kiieke",
+      "portuguese_translation": "Chilreada",
+      "definition": null,
+      "alternative_meanings": [
+        "tagarelice",
+        "chilro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiieke-1 — https://www.kimbundu.org/pt/word/kiieke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5073,
+      "kimbundu_term": "Kiiengu",
+      "portuguese_translation": "Dança de cabindas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiiengu-1 — https://www.kimbundu.org/pt/word/kiiengu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
