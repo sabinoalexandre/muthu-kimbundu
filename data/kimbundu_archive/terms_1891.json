@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19014,
+      "kimbundu_term": "Sombo",
+      "portuguese_translation": "Diz-se do fruto da palmeira de dendém (Elaeis guineensis) de muita polpa e pequeno caroço mole",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sombo-1 — https://www.kimbundu.org/pt/word/sombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19015,
+      "kimbundu_term": "Sombo",
+      "portuguese_translation": "Pov. e sede do posto deste nome, circ. civ. do Chitato, dist. da Lunda, prov. do Malange",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sombo-1 — https://www.kimbundu.org/pt/word/sombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19016,
+      "kimbundu_term": "Somboxi",
+      "portuguese_translation": "Primogénito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, somboxi-1 — https://www.kimbundu.org/pt/word/somboxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19017,
+      "kimbundu_term": "Somosomo",
+      "portuguese_translation": "Estreia",
+      "definition": null,
+      "alternative_meanings": [
+        "inauguração",
+        "começo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, somosomo-1 — https://www.kimbundu.org/pt/word/somosomo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19018,
+      "kimbundu_term": "Somosomo",
+      "portuguese_translation": "Ato de estrear",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, somosomo-1 — https://www.kimbundu.org/pt/word/somosomo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19019,
+      "kimbundu_term": "Somosomo",
+      "portuguese_translation": "Semanal",
+      "definition": null,
+      "alternative_meanings": [
+        "Semanário"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, somosomo-2 — https://www.kimbundu.org/pt/word/somosomo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19020,
+      "kimbundu_term": "Sóna",
+      "portuguese_translation": "Semana. O que se faz no espaço de sete dias",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sóna-1 — https://www.kimbundu.org/pt/word/sona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19021,
+      "kimbundu_term": "Sóndi",
+      "portuguese_translation": "Desocupação",
+      "definition": null,
+      "alternative_meanings": [
+        "folga"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sóndi-1 — https://www.kimbundu.org/pt/word/sondi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19022,
+      "kimbundu_term": "Sóndi",
+      "portuguese_translation": "Falta de trabalho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sóndi-1 — https://www.kimbundu.org/pt/word/sondi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19023,
+      "kimbundu_term": "Sóndi",
+      "portuguese_translation": "Ocioso",
+      "definition": null,
+      "alternative_meanings": [
+        "que não trabalha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sóndi-1 — https://www.kimbundu.org/pt/word/sondi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
