@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15424,
+      "kimbundu_term": "Melá",
+      "portuguese_translation": "Melão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, melá-1 — https://www.kimbundu.org/pt/word/mela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15425,
+      "kimbundu_term": "Méle",
+      "portuguese_translation": "Mamas",
+      "definition": null,
+      "alternative_meanings": [
+        "seios. Os dois pomos da mulher"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, méle-1 — https://www.kimbundu.org/pt/word/mele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15426,
+      "kimbundu_term": "Méle",
+      "portuguese_translation": "Nome genérico de frutos de certas plantas (como os de mbamba uri-uri, os de muxixi, etc.). Cápsulas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, méle-1 — https://www.kimbundu.org/pt/word/mele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15427,
+      "kimbundu_term": "Mélu",
+      "portuguese_translation": "Pargo (peixe)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mélu-1 — https://www.kimbundu.org/pt/word/melu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15428,
+      "kimbundu_term": "Mêmbe",
+      "portuguese_translation": "Bando ou conjunto de rolas. (É mais correto mas menos usado que mariembe)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mêmbe-1 — https://www.kimbundu.org/pt/word/membe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15429,
+      "kimbundu_term": "Même",
+      "portuguese_translation": "Cabra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, même-1 — https://www.kimbundu.org/pt/word/meme",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15430,
+      "kimbundu_term": "Mêngi",
+      "portuguese_translation": "Outros",
+      "definition": null,
+      "alternative_meanings": [
+        "outras. Diferentes"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mêngi-1 — https://www.kimbundu.org/pt/word/mengi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15431,
+      "kimbundu_term": "Menu",
+      "portuguese_translation": "e pron. poss. pl. (contr. da prep. ma e do pron. pess. enu). Vossas",
+      "definition": null,
+      "alternative_meanings": [
+        "vossos. De vós"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, menu-1 — https://www.kimbundu.org/pt/word/menu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15432,
+      "kimbundu_term": "Ménu",
+      "portuguese_translation": "Forma Kimbundu do nome próprio Manuel",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ménu-1 — https://www.kimbundu.org/pt/word/menu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15433,
+      "kimbundu_term": "Ménya",
+      "portuguese_translation": "port. Meia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ménya-1 — https://www.kimbundu.org/pt/word/menya",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
