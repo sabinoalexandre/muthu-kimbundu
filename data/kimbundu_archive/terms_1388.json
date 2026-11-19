@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13984,
+      "kimbundu_term": "Kwongeka",
+      "portuguese_translation": "Acumular",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer monte"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwongeka-1 — https://www.kimbundu.org/pt/word/kwongeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13985,
+      "kimbundu_term": "Kwongeka",
+      "portuguese_translation": "Reunir em um só lugar coisas espalhadas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwongeka-1 — https://www.kimbundu.org/pt/word/kwongeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13986,
+      "kimbundu_term": "Kwoso",
+      "portuguese_translation": "Onde",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwoso-1 — https://www.kimbundu.org/pt/word/kwoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13987,
+      "kimbundu_term": "Kwoso",
+      "portuguese_translation": "Em qualquer parte, em lugar indeterminado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwoso-1 — https://www.kimbundu.org/pt/word/kwoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13988,
+      "kimbundu_term": "Kwota",
+      "portuguese_translation": "Aquecer-se (ao sol)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwota-1 — https://www.kimbundu.org/pt/word/kwota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13989,
+      "kimbundu_term": "Kwota",
+      "portuguese_translation": "Aquecer-se",
+      "definition": null,
+      "alternative_meanings": [
+        "chegar-se ao lume"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwota-1 — https://www.kimbundu.org/pt/word/kwota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13990,
+      "kimbundu_term": "Kwota",
+      "portuguese_translation": "Aquecimento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwota-1 — https://www.kimbundu.org/pt/word/kwota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13991,
+      "kimbundu_term": "Kwoza",
+      "portuguese_translation": "Ralar (pau ou raiz para ser reduzido a pó)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwoza-1 — https://www.kimbundu.org/pt/word/kwoza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13992,
+      "kimbundu_term": "Kwoza",
+      "portuguese_translation": "Roçar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwoza-1 — https://www.kimbundu.org/pt/word/kwoza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13993,
+      "kimbundu_term": "Kyabu",
+      "portuguese_translation": "Em seguida. Depois. Logo a seguir. Em tempo posterior. Mais tarde",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyabu-1 — https://www.kimbundu.org/pt/word/kyabu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
