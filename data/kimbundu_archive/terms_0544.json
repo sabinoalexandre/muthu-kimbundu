@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5544,
+      "kimbundu_term": "Kimánga",
+      "portuguese_translation": "Cabaça apropriada para guardar provisões",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimánga-1 — https://www.kimbundu.org/pt/word/kimanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5545,
+      "kimbundu_term": "Kimangata",
+      "portuguese_translation": "Alimária. Cavalgadura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimangata-1 — https://www.kimbundu.org/pt/word/kimangata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5546,
+      "kimbundu_term": "Kimangata",
+      "portuguese_translation": "Pessoa que leva outra às cavaleiras. Carregador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimangata-1 — https://www.kimbundu.org/pt/word/kimangata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5547,
+      "kimbundu_term": "Kimbadi",
+      "portuguese_translation": "Feitor",
+      "definition": null,
+      "alternative_meanings": [
+        "mordomo",
+        "caseiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbadi-1 — https://www.kimbundu.org/pt/word/kimbadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5548,
+      "kimbundu_term": "Kimbadi",
+      "portuguese_translation": "Empregado rural",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbadi-1 — https://www.kimbundu.org/pt/word/kimbadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5549,
+      "kimbundu_term": "Kimbadi",
+      "portuguese_translation": "Capataz",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbadi-2 — https://www.kimbundu.org/pt/word/kimbadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5550,
+      "kimbundu_term": "Kimbaka",
+      "portuguese_translation": "Construção, recinto ou povoação fortificada. Paliçada. Cercado. Muro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbaka-1 — https://www.kimbundu.org/pt/word/kimbaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5551,
+      "kimbundu_term": "Kimbala",
+      "portuguese_translation": "Canoa larga de pouca altura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbala-1 — https://www.kimbundu.org/pt/word/kimbala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5552,
+      "kimbundu_term": "Kimbalambi",
+      "portuguese_translation": "Assistente",
+      "definition": null,
+      "alternative_meanings": [
+        "ouvinte. O que está presente. Morador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbalambi-1 — https://www.kimbundu.org/pt/word/kimbalambi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5553,
+      "kimbundu_term": "Kimbamba",
+      "portuguese_translation": "Carga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbamba-1 — https://www.kimbundu.org/pt/word/kimbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
