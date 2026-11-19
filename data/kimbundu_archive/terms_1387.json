@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13974,
+      "kimbundu_term": "Kwoha",
+      "portuguese_translation": "Ato e efeito de assar ou queimar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwoha-1 — https://www.kimbundu.org/pt/word/kwoha",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13975,
+      "kimbundu_term": "Kwoha",
+      "portuguese_translation": "Kurióha, v. r. Queimar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "escaldar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwoha-1 — https://www.kimbundu.org/pt/word/kwoha",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13976,
+      "kimbundu_term": "Kwoha",
+      "portuguese_translation": "Comprometer-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwoha-1 — https://www.kimbundu.org/pt/word/kwoha",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13977,
+      "kimbundu_term": "Kwoleka",
+      "portuguese_translation": "Prover de armas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwoleka-1 — https://www.kimbundu.org/pt/word/kwoleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13978,
+      "kimbundu_term": "Kwoleka",
+      "portuguese_translation": "aparelhar",
+      "definition": null,
+      "alternative_meanings": [
+        "preparar (para servir em determinado momento)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwoleka-1 — https://www.kimbundu.org/pt/word/kwoleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13979,
+      "kimbundu_term": "Kwoleka",
+      "portuguese_translation": "Kurioleka, e r. Preparar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "precaver-se",
+        "premunir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwoleka-1 — https://www.kimbundu.org/pt/word/kwoleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13980,
+      "kimbundu_term": "Kwolela",
+      "portuguese_translation": "Sorrir",
+      "definition": null,
+      "alternative_meanings": [
+        "mostrar-se prasenteiro",
+        "fig. Gracejar",
+        "chalacear"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwolela-1 — https://www.kimbundu.org/pt/word/kwolela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13981,
+      "kimbundu_term": "Kwolela",
+      "portuguese_translation": "sub. Ato de sorrir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwolela-1 — https://www.kimbundu.org/pt/word/kwolela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13982,
+      "kimbundu_term": "Kwolelesa",
+      "portuguese_translation": "Fazer sorrir",
+      "definition": null,
+      "alternative_meanings": [
+        "agradar",
+        "causar alegria. É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwolelesa-1 — https://www.kimbundu.org/pt/word/kwolelesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13983,
+      "kimbundu_term": "Kwongeka",
+      "portuguese_translation": "Juntar por aglomeração",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwongeka-1 — https://www.kimbundu.org/pt/word/kwongeka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
