@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19344,
+      "kimbundu_term": "Twoso",
+      "portuguese_translation": "Quaisquer",
+      "definition": null,
+      "alternative_meanings": [
+        "sejam quais forem"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, twoso-1 — https://www.kimbundu.org/pt/word/twoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19345,
+      "kimbundu_term": "Ua",
+      "portuguese_translation": "e pron. demonstr. pl. Delas",
+      "definition": null,
+      "alternative_meanings": [
+        "deles"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, preposição, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ua-1 — https://www.kimbundu.org/pt/word/ua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19346,
+      "kimbundu_term": "Ua",
+      "portuguese_translation": "que une ao nome o seu complemento: mukolo mateba",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, preposição, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ua-1 — https://www.kimbundu.org/pt/word/ua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19347,
+      "kimbundu_term": "Ua",
+      "portuguese_translation": "Do mesmo modo",
+      "definition": null,
+      "alternative_meanings": [
+        "também"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, preposição, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ua-1 — https://www.kimbundu.org/pt/word/ua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19348,
+      "kimbundu_term": "Uá",
+      "portuguese_translation": "para apupar, vaiar, ridicularizar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uá-1 — https://www.kimbundu.org/pt/word/ua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19349,
+      "kimbundu_term": "Uá",
+      "portuguese_translation": "Expressão para significar oposição, desprezo, dúvida",
+      "definition": null,
+      "alternative_meanings": [
+        "Ora, adens! Qual hesitaria! Pois sim!"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uá-1 — https://www.kimbundu.org/pt/word/ua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19350,
+      "kimbundu_term": "Uádi",
+      "portuguese_translation": "Jogo (geralmente de azar)",
+      "definition": null,
+      "alternative_meanings": [
+        "Jogatina"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uádi-1 — https://www.kimbundu.org/pt/word/uadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19351,
+      "kimbundu_term": "Uadiama",
+      "portuguese_translation": "Pobreza",
+      "definition": null,
+      "alternative_meanings": [
+        "indigência",
+        "Estado de pessoa pobre"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uadiama-1 — https://www.kimbundu.org/pt/word/uadiama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19352,
+      "kimbundu_term": "Uadiekimi",
+      "portuguese_translation": "Anciania",
+      "definition": null,
+      "alternative_meanings": [
+        "estado de velhice",
+        "Dito ou ato próprio de pessoa velha e apegada aos usos antigos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uadiekimi-1 — https://www.kimbundu.org/pt/word/uadiekimi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19353,
+      "kimbundu_term": "Uaia",
+      "portuguese_translation": "Onomat. do ruído produzido pelo derramamento de água ou areia",
+      "definition": null,
+      "alternative_meanings": [
+        "Zás"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo, onomatopaico",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uaia-1 — https://www.kimbundu.org/pt/word/uaia",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
