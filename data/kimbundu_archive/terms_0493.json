@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5034,
+      "kimbundu_term": "Kiholongonyo",
+      "portuguese_translation": "Caveira",
+      "definition": null,
+      "alternative_meanings": [
+        "Cabeça descarnada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiholongonyo-1 — https://www.kimbundu.org/pt/word/kiholongonyo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5035,
+      "kimbundu_term": "Kiholua",
+      "portuguese_translation": "Que bebe muito — kia ngó",
+      "definition": null,
+      "alternative_meanings": [
+        "Beberrão"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiholua-1 — https://www.kimbundu.org/pt/word/kiholua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5036,
+      "kimbundu_term": "Kihombo",
+      "portuguese_translation": "Grande bode",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihombo-1 — https://www.kimbundu.org/pt/word/kihombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5037,
+      "kimbundu_term": "Kihombo",
+      "portuguese_translation": "Sinantéria",
+      "definition": null,
+      "alternative_meanings": [
+        "suas raízes utilizadas para fins tinturiais"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihombo-1 — https://www.kimbundu.org/pt/word/kihombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5038,
+      "kimbundu_term": "Kihombo",
+      "portuguese_translation": "Plantas sinantéreas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihombo-1 — https://www.kimbundu.org/pt/word/kihombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5039,
+      "kimbundu_term": "Kihombonji",
+      "portuguese_translation": "Planta fam. das sinantéreas, utilizada (as raízes) para fins tinturiais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihombonji-1 — https://www.kimbundu.org/pt/word/kihombonji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5040,
+      "kimbundu_term": "Kihonjo",
+      "portuguese_translation": "Bananal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihonjo-1 — https://www.kimbundu.org/pt/word/kihonjo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5041,
+      "kimbundu_term": "Kihonya",
+      "portuguese_translation": "Epilepsia",
+      "definition": null,
+      "alternative_meanings": [
+        "Gota coral. Tb. se diz kikonha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihonya-1 — https://www.kimbundu.org/pt/word/kihonya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5042,
+      "kimbundu_term": "Kihuba",
+      "portuguese_translation": "Carraça",
+      "definition": null,
+      "alternative_meanings": [
+        "Carrapato grande (dos animais)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihuba-1 — https://www.kimbundu.org/pt/word/kihuba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5043,
+      "kimbundu_term": "Kihúhu",
+      "portuguese_translation": "Ave de rapina",
+      "definition": null,
+      "alternative_meanings": [
+        "Grifo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihúhu-1 — https://www.kimbundu.org/pt/word/kihuhu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
