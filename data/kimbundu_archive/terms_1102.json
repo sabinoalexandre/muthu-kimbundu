@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11124,
+      "kimbundu_term": "Kuondolola",
+      "portuguese_translation": "Congraçar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuondolola-1 — https://www.kimbundu.org/pt/word/kuondolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11125,
+      "kimbundu_term": "Kuondolola",
+      "portuguese_translation": "Conciliar (cousas aparentemente opostas)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuondolola-1 — https://www.kimbundu.org/pt/word/kuondolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11126,
+      "kimbundu_term": "Kuongama",
+      "portuguese_translation": "Estar aglomerado, agrupado ou reunido em volta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuongama-1 — https://www.kimbundu.org/pt/word/kuongama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11127,
+      "kimbundu_term": "Kuongamena",
+      "portuguese_translation": "Formar aglomeração ou grupo em volta de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuongamena-1 — https://www.kimbundu.org/pt/word/kuongamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11128,
+      "kimbundu_term": "Kuongamena",
+      "portuguese_translation": "Cercar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuongamena-1 — https://www.kimbundu.org/pt/word/kuongamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11129,
+      "kimbundu_term": "Kuongamesa",
+      "portuguese_translation": "Fazer agrupar, reunir em volta de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuongamesa-1 — https://www.kimbundu.org/pt/word/kuongamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11130,
+      "kimbundu_term": "Kuongola",
+      "portuguese_translation": "Confortar",
+      "definition": null,
+      "alternative_meanings": [
+        "consolar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuongola-1 — https://www.kimbundu.org/pt/word/kuongola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11131,
+      "kimbundu_term": "Kuongola",
+      "portuguese_translation": "Arrecadar",
+      "definition": null,
+      "alternative_meanings": [
+        "colher"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuongola-1 — https://www.kimbundu.org/pt/word/kuongola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11132,
+      "kimbundu_term": "Kuongola",
+      "portuguese_translation": "Consolação",
+      "definition": null,
+      "alternative_meanings": [
+        "conforto"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuongola-1 — https://www.kimbundu.org/pt/word/kuongola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11133,
+      "kimbundu_term": "Kuongola",
+      "portuguese_translation": "Kuriongola, v. r. Conformar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuongola-1 — https://www.kimbundu.org/pt/word/kuongola",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
