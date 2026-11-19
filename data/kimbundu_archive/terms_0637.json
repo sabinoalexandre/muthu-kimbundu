@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6474,
+      "kimbundu_term": "Kitutu",
+      "portuguese_translation": "Som cavo de instrumentos ou utensílios rachados",
+      "definition": null,
+      "alternative_meanings": [
+        "Parte do objeto em que os sons resoam",
+        "Arca",
+        "caixa",
+        "baú velho",
+        "Panela, cabaça ou outro vaso rachado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitutu-1 — https://www.kimbundu.org/pt/word/kitutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6475,
+      "kimbundu_term": "Kitutu",
+      "portuguese_translation": "Que tem rachas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitutu-1 — https://www.kimbundu.org/pt/word/kitutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6476,
+      "kimbundu_term": "Kitutulu",
+      "portuguese_translation": "Lugar em que dormem certas aves",
+      "definition": null,
+      "alternative_meanings": [
+        "Ninho",
+        "guarida",
+        "abrigo",
+        "Diz-se dos ninhos que não são de pássaros"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitutulu-1 — https://www.kimbundu.org/pt/word/kitutulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6477,
+      "kimbundu_term": "Kitúua",
+      "portuguese_translation": "(III) Que não tem culpa",
+      "definition": null,
+      "alternative_meanings": [
+        "Inocente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitúua-1 — https://www.kimbundu.org/pt/word/kituua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6478,
+      "kimbundu_term": "Kitúua",
+      "portuguese_translation": "Pessoa não implicada em crime",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitúua-1 — https://www.kimbundu.org/pt/word/kituua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6479,
+      "kimbundu_term": "Kitúua",
+      "portuguese_translation": "Criança",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitúua-1 — https://www.kimbundu.org/pt/word/kituua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6480,
+      "kimbundu_term": "Kitúua",
+      "portuguese_translation": "adv. Confiadamente",
+      "definition": null,
+      "alternative_meanings": [
+        "ao acaso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitúua-1 — https://www.kimbundu.org/pt/word/kituua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6481,
+      "kimbundu_term": "Kituuamu",
+      "portuguese_translation": "(III) Surpreendente",
+      "definition": null,
+      "alternative_meanings": [
+        "Inesperado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kituuamu-1 — https://www.kimbundu.org/pt/word/kituuamu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6482,
+      "kimbundu_term": "Kituuamu",
+      "portuguese_translation": "O que acontece fortuitamente",
+      "definition": null,
+      "alternative_meanings": [
+        "Ocasião não esperada"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kituuamu-1 — https://www.kimbundu.org/pt/word/kituuamu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6483,
+      "kimbundu_term": "Kituxi",
+      "portuguese_translation": "Delito: crime",
+      "definition": null,
+      "alternative_meanings": [
+        "Infração",
+        "pecado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kituxi-1 — https://www.kimbundu.org/pt/word/kituxi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
