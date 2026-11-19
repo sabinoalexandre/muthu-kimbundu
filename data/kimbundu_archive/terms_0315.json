@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3254,
+      "kimbundu_term": "Kaiundu",
+      "portuguese_translation": "Pov. e sede do posto deste nome, circ. civ. do Baixo Cunene, distr. e prov. do Bié, na margem direita do rio Cubango, co",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaiundu-1 — https://www.kimbundu.org/pt/word/kaiundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3255,
+      "kimbundu_term": "Kajalala",
+      "portuguese_translation": "Arbusto talamifloro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kajalala-1 — https://www.kimbundu.org/pt/word/kajalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3256,
+      "kimbundu_term": "Kaji",
+      "portuguese_translation": "Cais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaji-1 — https://www.kimbundu.org/pt/word/kaji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3257,
+      "kimbundu_term": "Kaji",
+      "portuguese_translation": "Palavra que se junta ao sub. para o qualificar ou determinar, etc",
+      "definition": null,
+      "alternative_meanings": [
+        "adj. Próprio de mulher",
+        "Fêmea"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaji-1 — https://www.kimbundu.org/pt/word/kaji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3258,
+      "kimbundu_term": "Kajihoji",
+      "portuguese_translation": "Leonino",
+      "definition": null,
+      "alternative_meanings": [
+        "Parecido com o leão",
+        "Pessoa que lida com leões"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kajihoji-1 — https://www.kimbundu.org/pt/word/kajihoji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3259,
+      "kimbundu_term": "Kajikijiki",
+      "portuguese_translation": "Demorado",
+      "definition": null,
+      "alternative_meanings": [
+        "Prolongado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kajikijiki-1 — https://www.kimbundu.org/pt/word/kajikijiki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3260,
+      "kimbundu_term": "Kajikijiki",
+      "portuguese_translation": "Prolonga",
+      "definition": null,
+      "alternative_meanings": [
+        "demora",
+        "Tempo que se junta à duração de algo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kajikijiki-1 — https://www.kimbundu.org/pt/word/kajikijiki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3261,
+      "kimbundu_term": "Kajikijiki",
+      "portuguese_translation": "Demoradamente",
+      "definition": null,
+      "alternative_meanings": [
+        "Em demasia"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kajikijiki-1 — https://www.kimbundu.org/pt/word/kajikijiki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3262,
+      "kimbundu_term": "Kajimbéndu",
+      "portuguese_translation": "Tocador ou fabricante de flautas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kajimbéndu-1 — https://www.kimbundu.org/pt/word/kajimbendu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3263,
+      "kimbundu_term": "Kajimbéndu",
+      "portuguese_translation": "Bêbedo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kajimbéndu-1 — https://www.kimbundu.org/pt/word/kajimbendu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
