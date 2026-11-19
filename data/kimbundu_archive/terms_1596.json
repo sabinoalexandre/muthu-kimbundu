@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16064,
+      "kimbundu_term": "Muêbi",
+      "portuguese_translation": "interrog. Em que lugar (dentro)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muêbi-1 — https://www.kimbundu.org/pt/word/muebi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16065,
+      "kimbundu_term": "Muêbi",
+      "portuguese_translation": "Onde?",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muêbi-1 — https://www.kimbundu.org/pt/word/muebi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16066,
+      "kimbundu_term": "Muedi",
+      "portuguese_translation": "Culpável. Digno de censura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muedi-1 — https://www.kimbundu.org/pt/word/muedi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16067,
+      "kimbundu_term": "Muéhi",
+      "portuguese_translation": "Deixador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muéhi-1 — https://www.kimbundu.org/pt/word/muehi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16068,
+      "kimbundu_term": "Muéhi",
+      "portuguese_translation": "Pessoa que larga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muéhi-1 — https://www.kimbundu.org/pt/word/muehi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16069,
+      "kimbundu_term": "Muéia",
+      "portuguese_translation": "Planta terminal combretácea (terminalia angolensis), de fruto comestível e madeira rija e amarelada, própria para marcen",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muéia-1 — https://www.kimbundu.org/pt/word/mueia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16070,
+      "kimbundu_term": "Muéla",
+      "portuguese_translation": "Sopro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muéla-1 — https://www.kimbundu.org/pt/word/muela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16071,
+      "kimbundu_term": "Muéla",
+      "portuguese_translation": "Respiração",
+      "definition": null,
+      "alternative_meanings": [
+        "fôlego"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muéla-1 — https://www.kimbundu.org/pt/word/muela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16072,
+      "kimbundu_term": "Muele",
+      "portuguese_translation": "Errado",
+      "definition": null,
+      "alternative_meanings": [
+        "transviado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muele-1 — https://www.kimbundu.org/pt/word/muele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16073,
+      "kimbundu_term": "Muele",
+      "portuguese_translation": "Que tem ou cometeu culpa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muele-1 — https://www.kimbundu.org/pt/word/muele",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
