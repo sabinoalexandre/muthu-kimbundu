@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19424,
+      "kimbundu_term": "Ubhe",
+      "portuguese_translation": "Moderno",
+      "definition": null,
+      "alternative_meanings": [
+        "que ainda não serviu"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubhe-1 — https://www.kimbundu.org/pt/word/ubhe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19425,
+      "kimbundu_term": "Ubheka",
+      "portuguese_translation": "Solidão",
+      "definition": null,
+      "alternative_meanings": [
+        "isolamento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubheka-1 — https://www.kimbundu.org/pt/word/ubheka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19426,
+      "kimbundu_term": "Ubheka",
+      "portuguese_translation": "Soledade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubheka-1 — https://www.kimbundu.org/pt/word/ubheka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19427,
+      "kimbundu_term": "Ubheka",
+      "portuguese_translation": "Isolado",
+      "definition": null,
+      "alternative_meanings": [
+        "só"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubheka-1 — https://www.kimbundu.org/pt/word/ubheka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19428,
+      "kimbundu_term": "Ubheka",
+      "portuguese_translation": "Sem companheiro ou testemunha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubheka-1 — https://www.kimbundu.org/pt/word/ubheka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19429,
+      "kimbundu_term": "Ubhika",
+      "portuguese_translation": "Serviço",
+      "definition": null,
+      "alternative_meanings": [
+        "servilismo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubhika-1 — https://www.kimbundu.org/pt/word/ubhika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19430,
+      "kimbundu_term": "Ubhika",
+      "portuguese_translation": "Serviço militar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubhika-1 — https://www.kimbundu.org/pt/word/ubhika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19431,
+      "kimbundu_term": "Ubhika",
+      "portuguese_translation": "Sujeição",
+      "definition": null,
+      "alternative_meanings": [
+        "cativeiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubhika-1 — https://www.kimbundu.org/pt/word/ubhika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19432,
+      "kimbundu_term": "Ubhika",
+      "portuguese_translation": "Pertença",
+      "definition": null,
+      "alternative_meanings": [
+        "falta de liberdade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubhika-1 — https://www.kimbundu.org/pt/word/ubhika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19433,
+      "kimbundu_term": "Ubingánu",
+      "portuguese_translation": "Hereditariedade",
+      "definition": null,
+      "alternative_meanings": [
+        "Direito de sucessão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubingánu-1 — https://www.kimbundu.org/pt/word/ubinganu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
