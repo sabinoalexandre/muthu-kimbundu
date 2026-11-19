@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7854,
+      "kimbundu_term": "Kubukulula",
+      "portuguese_translation": "Reduzir a pedaços mais pequenos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubukulula-1 — https://www.kimbundu.org/pt/word/kubukulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7855,
+      "kimbundu_term": "Kubukumuna",
+      "portuguese_translation": "Fazer vento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubukumuna-1 — https://www.kimbundu.org/pt/word/kubukumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7856,
+      "kimbundu_term": "Kubukumuna",
+      "portuguese_translation": "Sacudir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubukumuna-1 — https://www.kimbundu.org/pt/word/kubukumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7857,
+      "kimbundu_term": "Kubukumuna",
+      "portuguese_translation": "Exorcizar",
+      "definition": null,
+      "alternative_meanings": [
+        "curar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubukumuna-1 — https://www.kimbundu.org/pt/word/kubukumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7858,
+      "kimbundu_term": "Kubukumuna",
+      "portuguese_translation": "Fazer gorar (o mal, a doença)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubukumuna-1 — https://www.kimbundu.org/pt/word/kubukumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7859,
+      "kimbundu_term": "Kubukumuna",
+      "portuguese_translation": "Kuribukumuna, v. r. Imunizar-se, curar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubukumuna-1 — https://www.kimbundu.org/pt/word/kubukumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7860,
+      "kimbundu_term": "Kubukuta",
+      "portuguese_translation": "Intrujar",
+      "definition": null,
+      "alternative_meanings": [
+        "burlar",
+        "ludibriar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubukuta-1 — https://www.kimbundu.org/pt/word/kubukuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7861,
+      "kimbundu_term": "Kúbula",
+      "portuguese_translation": "Quebrar",
+      "definition": null,
+      "alternative_meanings": [
+        "partir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbula-1 — https://www.kimbundu.org/pt/word/kubula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7862,
+      "kimbundu_term": "Kúbula",
+      "portuguese_translation": "Desmanchar",
+      "definition": null,
+      "alternative_meanings": [
+        "arrombar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbula-1 — https://www.kimbundu.org/pt/word/kubula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7863,
+      "kimbundu_term": "Kúbula",
+      "portuguese_translation": "Destruir",
+      "definition": null,
+      "alternative_meanings": [
+        "demolir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbula-1 — https://www.kimbundu.org/pt/word/kubula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
