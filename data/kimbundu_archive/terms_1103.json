@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11134,
+      "kimbundu_term": "Kuongola",
+      "portuguese_translation": "Consolar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuongola-1 — https://www.kimbundu.org/pt/word/kuongola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11135,
+      "kimbundu_term": "Kuotesa",
+      "portuguese_translation": "Comunicar calor a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuotesa-1 — https://www.kimbundu.org/pt/word/kuotesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11136,
+      "kimbundu_term": "Kuotesa",
+      "portuguese_translation": "Fazer ou mandar estar ao sol, (para se aquecer)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuotesa-1 — https://www.kimbundu.org/pt/word/kuotesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11137,
+      "kimbundu_term": "Kuoua",
+      "portuguese_translation": "Nadar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuoua-1 — https://www.kimbundu.org/pt/word/kuoua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11138,
+      "kimbundu_term": "Kuozesa",
+      "portuguese_translation": "Mandar roçar, ralar, lapidar pedra, pau ou raiz",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuozesa-1 — https://www.kimbundu.org/pt/word/kuozesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11139,
+      "kimbundu_term": "Kuozesa",
+      "portuguese_translation": "Mandar reduzir a pó ralando",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuozesa-1 — https://www.kimbundu.org/pt/word/kuozesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11140,
+      "kimbundu_term": "Kupádia",
+      "portuguese_translation": "Pestanejar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupádia-1 — https://www.kimbundu.org/pt/word/kupadia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11141,
+      "kimbundu_term": "Kupádia",
+      "portuguese_translation": "Bruxolear",
+      "definition": null,
+      "alternative_meanings": [
+        "tremeluzir (a estrela)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupádia-1 — https://www.kimbundu.org/pt/word/kupadia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11142,
+      "kimbundu_term": "Kupádia",
+      "portuguese_translation": "Pestanejo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupádia-2 — https://www.kimbundu.org/pt/word/kupadia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11143,
+      "kimbundu_term": "Kupadika",
+      "portuguese_translation": "Entalar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupadika-1 — https://www.kimbundu.org/pt/word/kupadika",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
