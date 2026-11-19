@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10774,
+      "kimbundu_term": "Kúnanga",
+      "portuguese_translation": "Duração",
+      "definition": null,
+      "alternative_meanings": [
+        "demora",
+        "Dura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúnanga-1 — https://www.kimbundu.org/pt/word/kunanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10775,
+      "kimbundu_term": "Kunangenena",
+      "portuguese_translation": "e intr. Retardar",
+      "definition": null,
+      "alternative_meanings": [
+        "permanecer",
+        "Vir ou chegar tarde"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunangenena-1 — https://www.kimbundu.org/pt/word/kunangenena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10776,
+      "kimbundu_term": "Kunangenena",
+      "portuguese_translation": "É tb. r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunangenena-1 — https://www.kimbundu.org/pt/word/kunangenena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10777,
+      "kimbundu_term": "Kunangenesa",
+      "portuguese_translation": "Fazer demorar, retardar, perder tempo",
+      "definition": null,
+      "alternative_meanings": [
+        "Não dar expediente tão rápido como é devido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunangenesa-1 — https://www.kimbundu.org/pt/word/kunangenesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10778,
+      "kimbundu_term": "Kunangesa",
+      "portuguese_translation": "Ajudar a passar o tempo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunangesa-1 — https://www.kimbundu.org/pt/word/kunangesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10779,
+      "kimbundu_term": "Kunangesa",
+      "portuguese_translation": "Fazer permanecer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunangesa-1 — https://www.kimbundu.org/pt/word/kunangesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10780,
+      "kimbundu_term": "Kunangesa",
+      "portuguese_translation": "Fazer companhia a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunangesa-1 — https://www.kimbundu.org/pt/word/kunangesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10781,
+      "kimbundu_term": "Kunanujuka",
+      "portuguese_translation": "Crescer aos poucos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunanujuka-1 — https://www.kimbundu.org/pt/word/kunanujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10782,
+      "kimbundu_term": "Kunanujuka",
+      "portuguese_translation": "Animar-se, ir tomando vulto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunanujuka-1 — https://www.kimbundu.org/pt/word/kunanujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10783,
+      "kimbundu_term": "Kunanujuka",
+      "portuguese_translation": "Gesticular com arrogância",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunanujuka-1 — https://www.kimbundu.org/pt/word/kunanujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
