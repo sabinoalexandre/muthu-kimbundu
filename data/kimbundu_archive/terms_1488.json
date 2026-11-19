@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14984,
+      "kimbundu_term": "Maúlu",
+      "portuguese_translation": "Paraíso. Olimpo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, interjeição, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maúlu-1 — https://www.kimbundu.org/pt/word/maulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14985,
+      "kimbundu_term": "Maúlu",
+      "portuguese_translation": "fig. A altura e a grandeza dos céus",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, interjeição, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maúlu-1 — https://www.kimbundu.org/pt/word/maulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14986,
+      "kimbundu_term": "Mauta",
+      "portuguese_translation": "Espingardaria",
+      "definition": null,
+      "alternative_meanings": [
+        "Armamento",
+        "fig. Preparativos de guerra"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mauta-1 — https://www.kimbundu.org/pt/word/mauta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14987,
+      "kimbundu_term": "Mâútue",
+      "portuguese_translation": "Cabeça",
+      "definition": null,
+      "alternative_meanings": [
+        "A parte superior de certos objetos. Princípio",
+        "começo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mâútue-1 — https://www.kimbundu.org/pt/word/mautue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14988,
+      "kimbundu_term": "Mâútue",
+      "portuguese_translation": "peixe do mar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mâútue-1 — https://www.kimbundu.org/pt/word/mautue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14989,
+      "kimbundu_term": "Mâútue",
+      "portuguese_translation": "Pilador",
+      "definition": null,
+      "alternative_meanings": [
+        "Pessoa que tritura cereais (com pilão)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mâútue-2 — https://www.kimbundu.org/pt/word/mautue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14990,
+      "kimbundu_term": "Mauuisu",
+      "portuguese_translation": "Aspetos verdes dos vegetais. Desejos",
+      "definition": null,
+      "alternative_meanings": [
+        "Incorreções de principiante"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mauuisu-1 — https://www.kimbundu.org/pt/word/mauuisu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14991,
+      "kimbundu_term": "Mauzuelelu",
+      "portuguese_translation": "Ditos",
+      "definition": null,
+      "alternative_meanings": [
+        "Maneiras de falar, de exprimir"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mauzuelelu-1 — https://www.kimbundu.org/pt/word/mauzuelelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14992,
+      "kimbundu_term": "Mavándu",
+      "portuguese_translation": "Levantamentos",
+      "definition": null,
+      "alternative_meanings": [
+        "revoltas",
+        "tumultos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mavándu-1 — https://www.kimbundu.org/pt/word/mavandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14993,
+      "kimbundu_term": "Máveve",
+      "portuguese_translation": "Bolhas",
+      "definition": null,
+      "alternative_meanings": [
+        "Empolas que se criam na pele"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, máveve-1 — https://www.kimbundu.org/pt/word/maveve",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
