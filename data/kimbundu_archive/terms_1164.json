@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11744,
+      "kimbundu_term": "Kusonesa",
+      "portuguese_translation": "É também recíproco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusonesa-1 — https://www.kimbundu.org/pt/word/kusonesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11745,
+      "kimbundu_term": "Kusónga",
+      "portuguese_translation": "Aguçar",
+      "definition": null,
+      "alternative_meanings": [
+        "Desbastar",
+        "aparelhar",
+        "Endireitar",
+        "aparar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusónga-1 — https://www.kimbundu.org/pt/word/kusonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11746,
+      "kimbundu_term": "Kusongesa",
+      "portuguese_translation": "Mandar adelgaçar a ponta de",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer desbastar",
+        "tornar agudo, penetrante"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusongesa-1 — https://www.kimbundu.org/pt/word/kusongesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11747,
+      "kimbundu_term": "Kusongesa",
+      "portuguese_translation": "Estimular",
+      "definition": null,
+      "alternative_meanings": [
+        "atiçar, fomentar",
+        "incitar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusongesa-1 — https://www.kimbundu.org/pt/word/kusongesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11748,
+      "kimbundu_term": "Kusongola",
+      "portuguese_translation": "Afastar",
+      "definition": null,
+      "alternative_meanings": [
+        "retirar de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusongola-1 — https://www.kimbundu.org/pt/word/kusongola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11749,
+      "kimbundu_term": "Kusongoloka",
+      "portuguese_translation": "Estar afastado. Ficar desviado",
+      "definition": null,
+      "alternative_meanings": [
+        "sair do grupo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusongoloka-1 — https://www.kimbundu.org/pt/word/kusongoloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11750,
+      "kimbundu_term": "Kusongolola",
+      "portuguese_translation": "Desviar",
+      "definition": null,
+      "alternative_meanings": [
+        "afastar. Acantoar",
+        "pôr de parte"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusongolola-1 — https://www.kimbundu.org/pt/word/kusongolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11751,
+      "kimbundu_term": "Kusongolola",
+      "portuguese_translation": "Kurisongolola, v. r. Isolar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "afastar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusongolola-1 — https://www.kimbundu.org/pt/word/kusongolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11752,
+      "kimbundu_term": "Kusonoka",
+      "portuguese_translation": "Perder",
+      "definition": null,
+      "alternative_meanings": [
+        "cair"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusonoka-1 — https://www.kimbundu.org/pt/word/kusonoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11753,
+      "kimbundu_term": "Kusonoka",
+      "portuguese_translation": "Perdimento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusonoka-1 — https://www.kimbundu.org/pt/word/kusonoka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
