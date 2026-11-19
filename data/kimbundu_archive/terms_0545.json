@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5554,
+      "kimbundu_term": "Kimbamba",
+      "portuguese_translation": "A cruz de Cristo. A carga sagrada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbamba-1 — https://www.kimbundu.org/pt/word/kimbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5555,
+      "kimbundu_term": "Kimbamba",
+      "portuguese_translation": "N. S. dos Passos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbamba-1 — https://www.kimbundu.org/pt/word/kimbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5556,
+      "kimbundu_term": "Kimbámba",
+      "portuguese_translation": "Inseto. Bicho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbámba-1 — https://www.kimbundu.org/pt/word/kimbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5557,
+      "kimbundu_term": "Kimbámba",
+      "portuguese_translation": "Piolho. Animáculo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbámba-1 — https://www.kimbundu.org/pt/word/kimbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5558,
+      "kimbundu_term": "Kímbambe",
+      "portuguese_translation": "Demarcação",
+      "definition": null,
+      "alternative_meanings": [
+        "extrema",
+        "limite",
+        "Sinal que marca meta. adj. Confinante",
+        "limítrofe",
+        "confim",
+        "É mais usado no plural imbambe"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kímbambe-1 — https://www.kimbundu.org/pt/word/kimbambe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5559,
+      "kimbundu_term": "Kimbambule",
+      "portuguese_translation": "Fruta meia verde",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbambule-1 — https://www.kimbundu.org/pt/word/kimbambule",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5560,
+      "kimbundu_term": "Kimbambule",
+      "portuguese_translation": "Que não está sazonado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbambule-1 — https://www.kimbundu.org/pt/word/kimbambule",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5561,
+      "kimbundu_term": "Kimbambule",
+      "portuguese_translation": "Não preparado",
+      "definition": null,
+      "alternative_meanings": [
+        "fraco"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbambule-1 — https://www.kimbundu.org/pt/word/kimbambule",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5562,
+      "kimbundu_term": "Kimbánda",
+      "portuguese_translation": "Pessoa que trata de doentes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbánda-1 — https://www.kimbundu.org/pt/word/kimbanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5563,
+      "kimbundu_term": "Kimbánda",
+      "portuguese_translation": "Mágico",
+      "definition": null,
+      "alternative_meanings": [
+        "exorcista",
+        "necromante",
+        "bruxo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbánda-1 — https://www.kimbundu.org/pt/word/kimbanda",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
