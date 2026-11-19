@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5584,
+      "kimbundu_term": "Kimbiâmbia",
+      "portuguese_translation": "Borboleta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbiâmbia-1 — https://www.kimbundu.org/pt/word/kimbiambia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5585,
+      "kimbundu_term": "Kimbiâmbia",
+      "portuguese_translation": "mariposa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbiâmbia-1 — https://www.kimbundu.org/pt/word/kimbiambia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5586,
+      "kimbundu_term": "Kimbiámbidi",
+      "portuguese_translation": "Borboleta de língua muito desenvolvida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbiámbidi-1 — https://www.kimbundu.org/pt/word/kimbiambidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5587,
+      "kimbundu_term": "Kimbiámbidi",
+      "portuguese_translation": "Manoglosso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbiámbidi-1 — https://www.kimbundu.org/pt/word/kimbiambidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5588,
+      "kimbundu_term": "Kimbiámbila",
+      "portuguese_translation": "Borboleta grande, diurna",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbiámbila-1 — https://www.kimbundu.org/pt/word/kimbiambila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5589,
+      "kimbundu_term": "Kimbiámbila",
+      "portuguese_translation": "Danáide",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbiámbila-1 — https://www.kimbundu.org/pt/word/kimbiambila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5590,
+      "kimbundu_term": "Kimbiji",
+      "portuguese_translation": "Nome genérico dos grandes peixes",
+      "definition": null,
+      "alternative_meanings": [
+        "Peixão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbiji-1 — https://www.kimbundu.org/pt/word/kimbiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5591,
+      "kimbundu_term": "Kimbóanzu",
+      "portuguese_translation": "Estiagem",
+      "definition": null,
+      "alternative_meanings": [
+        "falta de chuvas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbóanzu-1 — https://www.kimbundu.org/pt/word/kimboanzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5592,
+      "kimbundu_term": "Kimbóanzu",
+      "portuguese_translation": "Tempo seco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbóanzu-1 — https://www.kimbundu.org/pt/word/kimboanzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5593,
+      "kimbundu_term": "Kimbokota",
+      "portuguese_translation": "Usurpador",
+      "definition": null,
+      "alternative_meanings": [
+        "Pessoa que pela astúcia ou pela violência se apodera do que pertence a outrem",
+        "Salteador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbokota-1 — https://www.kimbundu.org/pt/word/kimbokota",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
