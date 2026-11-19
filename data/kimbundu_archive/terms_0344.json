@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3544,
+      "kimbundu_term": "Kamalundu",
+      "portuguese_translation": "Olhudo",
+      "definition": null,
+      "alternative_meanings": [
+        "Que tem olhos salientes"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamalundu-1 — https://www.kimbundu.org/pt/word/kamalundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3545,
+      "kimbundu_term": "Kamama",
+      "portuguese_translation": "Da mãe",
+      "definition": null,
+      "alternative_meanings": [
+        "Materno",
+        "Do lado da mãe",
+        "Maternal"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, topografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamama-1 — https://www.kimbundu.org/pt/word/kamama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3546,
+      "kimbundu_term": "Kamama",
+      "portuguese_translation": "Pov. e muceque nos arredores da cidade de Luanda, na antiga estrada de Calumbo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, topografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamama-1 — https://www.kimbundu.org/pt/word/kamama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3547,
+      "kimbundu_term": "Kamama",
+      "portuguese_translation": "Pov. na circ. civ. e distr. do Huambo, prov. de Benguela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, topografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamama-1 — https://www.kimbundu.org/pt/word/kamama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3548,
+      "kimbundu_term": "Kamangonya",
+      "portuguese_translation": "Mangonheiro",
+      "definition": null,
+      "alternative_meanings": [
+        "Malicioso",
+        "hipócrita"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamangonya-1 — https://www.kimbundu.org/pt/word/kamangonya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3549,
+      "kimbundu_term": "Kamanonge",
+      "portuguese_translation": "Pov. e sede do posto deste nome, conc. e distr. do Moxico, prov. do Bié, com 16.799 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamanonge-1 — https://www.kimbundu.org/pt/word/kamanonge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3550,
+      "kimbundu_term": "Kamása",
+      "portuguese_translation": "Do milho, ou a ele relativo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamása-1 — https://www.kimbundu.org/pt/word/kamasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3551,
+      "kimbundu_term": "Kamása",
+      "portuguese_translation": "Planta esterculiácea, (Assonia quanzensis), de propriedades medicinais",
+      "definition": null,
+      "alternative_meanings": [
+        "Coleira",
+        "Sem fruto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamása-1 — https://www.kimbundu.org/pt/word/kamasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3552,
+      "kimbundu_term": "Kamatama",
+      "portuguese_translation": "Bochechudo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamatama-1 — https://www.kimbundu.org/pt/word/kamatama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3553,
+      "kimbundu_term": "Kamatambu",
+      "portuguese_translation": "Pov. e posto da circ. civ. da Damba, distr. do Congo, prov. de Luanda, com 10.391 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamatambu-1 — https://www.kimbundu.org/pt/word/kamatambu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
