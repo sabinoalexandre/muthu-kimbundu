@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5164,
+      "kimbundu_term": "Kikalangu",
+      "portuguese_translation": "Planta liliácea (Aloe littoralis)",
+      "definition": null,
+      "alternative_meanings": [
+        "Aloe",
+        "o seu suco (purgativo)",
+        "Aloetina"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikalangu-1 — https://www.kimbundu.org/pt/word/kikalangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5165,
+      "kimbundu_term": "Kikalangu",
+      "portuguese_translation": "Planta do género asfódelo, de utilidade medicinal",
+      "definition": null,
+      "alternative_meanings": [
+        "Babosa",
+        "agave",
+        "ramie"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikalangu-1 — https://www.kimbundu.org/pt/word/kikalangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5166,
+      "kimbundu_term": "Kikále",
+      "portuguese_translation": "Salvo",
+      "definition": null,
+      "alternative_meanings": [
+        "afora",
+        "Exceto"
+      ],
+      "examples": [],
+      "grammatical_category": "preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikále-1 — https://www.kimbundu.org/pt/word/kikale",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5167,
+      "kimbundu_term": "Kikále",
+      "portuguese_translation": "Seja",
+      "definition": null,
+      "alternative_meanings": [
+        "embora",
+        "é-me indiferente",
+        "Deixa-lo"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição, conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikále-2 — https://www.kimbundu.org/pt/word/kikale",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5168,
+      "kimbundu_term": "Kikále",
+      "portuguese_translation": "Ainda que",
+      "definition": null,
+      "alternative_meanings": [
+        "não obstante",
+        "Ou",
+        "(Entra na composição de várias locuções, éne amoxi)"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição, conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikále-2 — https://www.kimbundu.org/pt/word/kikale",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5169,
+      "kimbundu_term": "Kikalu",
+      "portuguese_translation": "Arranhão",
+      "definition": null,
+      "alternative_meanings": [
+        "rasgão ligeiro na pele",
+        "Escoriação",
+        "unhada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikalu-1 — https://www.kimbundu.org/pt/word/kikalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5170,
+      "kimbundu_term": "Kikamate",
+      "portuguese_translation": "Forte aperto por meio de laço ou pressão dos dedos",
+      "definition": null,
+      "alternative_meanings": [
+        "Ato de comprimir",
+        "Estrangulação"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikamate-1 — https://www.kimbundu.org/pt/word/kikamate",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5171,
+      "kimbundu_term": "Kikamba",
+      "portuguese_translation": "Suíça",
+      "definition": null,
+      "alternative_meanings": [
+        "barba em cada uma das partes laterais da face"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikamba-1 — https://www.kimbundu.org/pt/word/kikamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5172,
+      "kimbundu_term": "Kikambamanu",
+      "portuguese_translation": "(III) Justaposição",
+      "definition": null,
+      "alternative_meanings": [
+        "Aposição"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikambamanu-1 — https://www.kimbundu.org/pt/word/kikambamanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5173,
+      "kimbundu_term": "Kikambamanu",
+      "portuguese_translation": "Sobreposse",
+      "definition": null,
+      "alternative_meanings": [
+        "de sobejo",
+        "excessivamente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikambamanu-1 — https://www.kimbundu.org/pt/word/kikambamanu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
