@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6754,
+      "kimbundu_term": "Kizongo",
+      "portuguese_translation": "Pequena casa construída sobre estacaria à margem dos lagos para guardar mantimentos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizongo-1 — https://www.kimbundu.org/pt/word/kizongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6755,
+      "kimbundu_term": "Kizonzo",
+      "portuguese_translation": "Engano em que se empregam boas palavras, falsas aparências ou promessas tentadoras",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizonzo-1 — https://www.kimbundu.org/pt/word/kizonzo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6756,
+      "kimbundu_term": "Kizonzo",
+      "portuguese_translation": "imbeleco",
+      "definition": null,
+      "alternative_meanings": [
+        "imbaramento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizonzo-1 — https://www.kimbundu.org/pt/word/kizonzo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6757,
+      "kimbundu_term": "Kizonzo",
+      "portuguese_translation": "Artifício para se obter o que se deseja",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizonzo-1 — https://www.kimbundu.org/pt/word/kizonzo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6758,
+      "kimbundu_term": "Kizonzo",
+      "portuguese_translation": "Ilusão",
+      "definition": null,
+      "alternative_meanings": [
+        "logro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizonzo-1 — https://www.kimbundu.org/pt/word/kizonzo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6759,
+      "kimbundu_term": "Kizóto",
+      "portuguese_translation": "Patetice",
+      "definition": null,
+      "alternative_meanings": [
+        "parvoice"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizóto-1 — https://www.kimbundu.org/pt/word/kizoto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6760,
+      "kimbundu_term": "Kizozelu",
+      "portuguese_translation": "Instrumento para tornar lasso, frouxo, largo alguma cousa apertada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizozelu-1 — https://www.kimbundu.org/pt/word/kizozelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6761,
+      "kimbundu_term": "Kizozelu",
+      "portuguese_translation": "Parafuso ou manivela para desapertar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizozelu-1 — https://www.kimbundu.org/pt/word/kizozelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6762,
+      "kimbundu_term": "Kizu",
+      "portuguese_translation": "Bainha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizu-1 — https://www.kimbundu.org/pt/word/kizu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6763,
+      "kimbundu_term": "Kizu",
+      "portuguese_translation": "Cavidade aberta numa peça para receber a parte saliente de outra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizu-1 — https://www.kimbundu.org/pt/word/kizu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
