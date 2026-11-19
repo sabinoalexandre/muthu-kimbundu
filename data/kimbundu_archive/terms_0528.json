@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5384,
+      "kimbundu_term": "Kilapanga",
+      "portuguese_translation": "Bródio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilapanga-1 — https://www.kimbundu.org/pt/word/kilapanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5385,
+      "kimbundu_term": "Kiláu",
+      "portuguese_translation": "Incesto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiláu-1 — https://www.kimbundu.org/pt/word/kilau",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5386,
+      "kimbundu_term": "Kiláu",
+      "portuguese_translation": "adj. Incestuoso",
+      "definition": null,
+      "alternative_meanings": [
+        "impudico",
+        "torpe. M. us. no pl. iláu"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiláu-1 — https://www.kimbundu.org/pt/word/kilau",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5387,
+      "kimbundu_term": "Kilau",
+      "portuguese_translation": "Adoidado",
+      "definition": null,
+      "alternative_meanings": [
+        "maluco"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilau-1 — https://www.kimbundu.org/pt/word/kilau",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5388,
+      "kimbundu_term": "Kilau",
+      "portuguese_translation": "Cismático",
+      "definition": null,
+      "alternative_meanings": [
+        "maníaco"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilau-1 — https://www.kimbundu.org/pt/word/kilau",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5389,
+      "kimbundu_term": "Kiléba",
+      "portuguese_translation": "Que tem maior altura que a ordinária",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiléba-1 — https://www.kimbundu.org/pt/word/kileba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5390,
+      "kimbundu_term": "Kiléba",
+      "portuguese_translation": "Alto",
+      "definition": null,
+      "alternative_meanings": [
+        "elevado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiléba-1 — https://www.kimbundu.org/pt/word/kileba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5391,
+      "kimbundu_term": "Kiléba",
+      "portuguese_translation": "Comprido (considerado de baixo para cima)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiléba-1 — https://www.kimbundu.org/pt/word/kileba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5392,
+      "kimbundu_term": "Kiléba",
+      "portuguese_translation": "Que se destaca",
+      "definition": null,
+      "alternative_meanings": [
+        "que chama atenção"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiléba-1 — https://www.kimbundu.org/pt/word/kileba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5393,
+      "kimbundu_term": "Kiléba",
+      "portuguese_translation": "Pessoa alta, de elevada estatura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiléba-1 — https://www.kimbundu.org/pt/word/kileba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
