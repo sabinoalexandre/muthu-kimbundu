@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10374,
+      "kimbundu_term": "Kuludikisa",
+      "portuguese_translation": "Fazer arranjar, consertar, compor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuludikisa-1 — https://www.kimbundu.org/pt/word/kuludikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10375,
+      "kimbundu_term": "Kuludikisa",
+      "portuguese_translation": "Kurilurikisa, v. r. Fazer-se consertar, compor",
+      "definition": null,
+      "alternative_meanings": [
+        "Adornar-se",
+        "ataviar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuludikisa-1 — https://www.kimbundu.org/pt/word/kuludikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10376,
+      "kimbundu_term": "Kuludisa",
+      "portuguese_translation": "Fazer amargar, salgar",
+      "definition": null,
+      "alternative_meanings": [
+        "Amargurar",
+        "desgostar",
+        "fig. Fazer passar um mau bocado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuludisa-1 — https://www.kimbundu.org/pt/word/kuludisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10377,
+      "kimbundu_term": "Kulufuka",
+      "portuguese_translation": "Ficar furado (por arrombamento). Ter rombo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulufuka-1 — https://www.kimbundu.org/pt/word/kulufuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10378,
+      "kimbundu_term": "Kulufuka",
+      "portuguese_translation": "Rombo",
+      "definition": null,
+      "alternative_meanings": [
+        "topada"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulufuka-1 — https://www.kimbundu.org/pt/word/kulufuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10379,
+      "kimbundu_term": "Kulufula",
+      "portuguese_translation": "Fazer rombo em. Tornar bojudo. É tb. r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulufula-1 — https://www.kimbundu.org/pt/word/kulufula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10380,
+      "kimbundu_term": "Kuluíka",
+      "portuguese_translation": "Dar cabeçada. Marrar. Diz-se do ataque do touro e outros animais armados. Investir com a cabeça",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuluíka-1 — https://www.kimbundu.org/pt/word/kuluika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10381,
+      "kimbundu_term": "Kuluíka",
+      "portuguese_translation": "Kuriluika, v. r. Brigar",
+      "definition": null,
+      "alternative_meanings": [
+        "lutar (como os carneiros). Dar-se marradas, cabeçadas. Encornar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuluíka-1 — https://www.kimbundu.org/pt/word/kuluika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10382,
+      "kimbundu_term": "Kuluikisa",
+      "portuguese_translation": "Fazer atacar com marradas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuluikisa-1 — https://www.kimbundu.org/pt/word/kuluikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10383,
+      "kimbundu_term": "Kulúka",
+      "portuguese_translation": "Denominar",
+      "definition": null,
+      "alternative_meanings": [
+        "designar",
+        "alcunhar. Dar nome a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulúka-1 — https://www.kimbundu.org/pt/word/kuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
