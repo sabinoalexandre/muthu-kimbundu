@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12164,
+      "kimbundu_term": "Kutatu",
+      "portuguese_translation": "Afluente da margem esquerda do rio Cubango, nas Ganguelas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutatu-1 — https://www.kimbundu.org/pt/word/kutatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12165,
+      "kimbundu_term": "Kutatulula",
+      "portuguese_translation": "Tornar a amarrar, a atar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutatulula-1 — https://www.kimbundu.org/pt/word/kutatulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12166,
+      "kimbundu_term": "Kutatulula",
+      "portuguese_translation": "Determinar por espécies",
+      "definition": null,
+      "alternative_meanings": [
+        "mencionar por partes"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutatulula-1 — https://www.kimbundu.org/pt/word/kutatulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12167,
+      "kimbundu_term": "Kutatulula",
+      "portuguese_translation": "Especificação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutatulula-1 — https://www.kimbundu.org/pt/word/kutatulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12168,
+      "kimbundu_term": "Kutatumuka",
+      "portuguese_translation": "Rebentar",
+      "definition": null,
+      "alternative_meanings": [
+        "partir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutatumuka-1 — https://www.kimbundu.org/pt/word/kutatumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12169,
+      "kimbundu_term": "Kutatumuka",
+      "portuguese_translation": "Romper",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutatumuka-1 — https://www.kimbundu.org/pt/word/kutatumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12170,
+      "kimbundu_term": "Kutatumuna",
+      "portuguese_translation": "Quebrar, rebentar",
+      "definition": null,
+      "alternative_meanings": [
+        "romper"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutatumuna-1 — https://www.kimbundu.org/pt/word/kutatumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12171,
+      "kimbundu_term": "Kutatumuna",
+      "portuguese_translation": "Kuritatumuna, e r. Desprender-se",
+      "definition": null,
+      "alternative_meanings": [
+        "dar-se arranco (no falar)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutatumuna-1 — https://www.kimbundu.org/pt/word/kutatumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12172,
+      "kimbundu_term": "Kutaua",
+      "portuguese_translation": "Corroborar",
+      "definition": null,
+      "alternative_meanings": [
+        "comprovar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutaua-1 — https://www.kimbundu.org/pt/word/kutaua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12173,
+      "kimbundu_term": "Kutaua",
+      "portuguese_translation": "Aceitar",
+      "definition": null,
+      "alternative_meanings": [
+        "responder afirmativamente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutaua-1 — https://www.kimbundu.org/pt/word/kutaua",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
