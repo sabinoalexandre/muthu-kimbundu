@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14054,
+      "kimbundu_term": "Kyene",
+      "portuguese_translation": "Também indica surpresa, admiração: Ai sim!? Será verdade? É isso possível? Ora essa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyene-1 — https://www.kimbundu.org/pt/word/kyene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14055,
+      "kimbundu_term": "Kyene",
+      "portuguese_translation": "loc. adv. É assim mesmo",
+      "definition": null,
+      "alternative_meanings": [
+        "exatamente assim. Ao certo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyene-1 — https://www.kimbundu.org/pt/word/kyene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14056,
+      "kimbundu_term": "Kyene",
+      "portuguese_translation": "Assim",
+      "definition": null,
+      "alternative_meanings": [
+        "desta maneira. Do mesmo modo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyene-1 — https://www.kimbundu.org/pt/word/kyene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14057,
+      "kimbundu_term": "Kyene",
+      "portuguese_translation": "À vista de tal",
+      "definition": null,
+      "alternative_meanings": [
+        "pois. Portanto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyene-1 — https://www.kimbundu.org/pt/word/kyene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14058,
+      "kimbundu_term": "Kyene",
+      "portuguese_translation": "adj. Essa ou esse mesmo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyene-1 — https://www.kimbundu.org/pt/word/kyene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14059,
+      "kimbundu_term": "Kyene",
+      "portuguese_translation": "Então",
+      "definition": null,
+      "alternative_meanings": [
+        "desde esse momento"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyene-1 — https://www.kimbundu.org/pt/word/kyene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14060,
+      "kimbundu_term": "Kyenga",
+      "portuguese_translation": "Utensílio para torrar farinha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyenga-1 — https://www.kimbundu.org/pt/word/kyenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14061,
+      "kimbundu_term": "Kyenga",
+      "portuguese_translation": "Tacho",
+      "definition": null,
+      "alternative_meanings": [
+        "torrador"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyenga-1 — https://www.kimbundu.org/pt/word/kyenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14062,
+      "kimbundu_term": "Kyengi",
+      "portuguese_translation": "Diferente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyengi-1 — https://www.kimbundu.org/pt/word/kyengi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14063,
+      "kimbundu_term": "Kyengi",
+      "portuguese_translation": "Diverso",
+      "definition": null,
+      "alternative_meanings": [
+        "distinto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyengi-1 — https://www.kimbundu.org/pt/word/kyengi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
