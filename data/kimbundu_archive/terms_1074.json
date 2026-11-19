@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10844,
+      "kimbundu_term": "Kunenganesa",
+      "portuguese_translation": "Kurinenganesa, e r. Aplacar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar-se brando"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunenganesa-1 — https://www.kimbundu.org/pt/word/kunenganesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10845,
+      "kimbundu_term": "Kunéta",
+      "portuguese_translation": "Engordar, medrar, nutrir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunéta-1 — https://www.kimbundu.org/pt/word/kuneta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10846,
+      "kimbundu_term": "Kunéta",
+      "portuguese_translation": "Estar gordo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunéta-1 — https://www.kimbundu.org/pt/word/kuneta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10847,
+      "kimbundu_term": "Kunéta",
+      "portuguese_translation": "Gordura",
+      "definition": null,
+      "alternative_meanings": [
+        "obesidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunéta-2 — https://www.kimbundu.org/pt/word/kuneta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10848,
+      "kimbundu_term": "Kunéta",
+      "portuguese_translation": "Parte gorda das carnes mortas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunéta-2 — https://www.kimbundu.org/pt/word/kuneta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10849,
+      "kimbundu_term": "Kunéta",
+      "portuguese_translation": "Banha",
+      "definition": null,
+      "alternative_meanings": [
+        "unto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunéta-2 — https://www.kimbundu.org/pt/word/kuneta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10850,
+      "kimbundu_term": "Kunetesa",
+      "portuguese_translation": "Fazer engordar, nutrir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunetesa-1 — https://www.kimbundu.org/pt/word/kunetesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10851,
+      "kimbundu_term": "Kunetesa",
+      "portuguese_translation": "Kurinetesa, e r. Anafar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "ir criando gordura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunetesa-1 — https://www.kimbundu.org/pt/word/kunetesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10852,
+      "kimbundu_term": "Kunga",
+      "portuguese_translation": "Lago a O. de Muxima, distr. e prov. de Luanda, margem esquerda do rio Quanza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunga-1 — https://www.kimbundu.org/pt/word/kunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10853,
+      "kimbundu_term": "Kunganala",
+      "portuguese_translation": "Enganar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunganala-1 — https://www.kimbundu.org/pt/word/kunganala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
