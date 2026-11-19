@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15084,
+      "kimbundu_term": "Mbalundu",
+      "portuguese_translation": "Natural do Bailundo. Homem nascido nas terras do Bailundo ou a elas referente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbalundu-1 — https://www.kimbundu.org/pt/word/mbalundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15085,
+      "kimbundu_term": "Mbalundu",
+      "portuguese_translation": "Território a E. da província de Benguela, a 1650 m de altitude",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbalundu-1 — https://www.kimbundu.org/pt/word/mbalundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15086,
+      "kimbundu_term": "Mbalundu",
+      "portuguese_translation": "Povoação e sede da circunscrição civil do mesmo nome, «vila Teixeira da Silva», a 12º 10' e 5\" de latitude S. e 15º 50'",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbalundu-1 — https://www.kimbundu.org/pt/word/mbalundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15087,
+      "kimbundu_term": "Mbámba",
+      "portuguese_translation": "Mestre consumado. Exímio. Excelente",
+      "definition": null,
+      "alternative_meanings": [
+        "excelso",
+        "insigne. Sem rival. Sabido",
+        "como ninguém mais. Sabedor"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbámba-1 — https://www.kimbundu.org/pt/word/mbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15088,
+      "kimbundu_term": "Mbámba",
+      "portuguese_translation": "Pessoa que sobressai entre os da sua classe pelo seu saber. Sumidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbámba-1 — https://www.kimbundu.org/pt/word/mbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15089,
+      "kimbundu_term": "Mbamba",
+      "portuguese_translation": "Junco. Vara comprida e delgada para fustigar. Vergôntea. Ramo delgado de árvore. Chibata",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbamba-1 — https://www.kimbundu.org/pt/word/mbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15090,
+      "kimbundu_term": "Mbamba",
+      "portuguese_translation": "Pequeno pau que serve para apoio de quem caminha. Bordão",
+      "definition": null,
+      "alternative_meanings": [
+        "bengala"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbamba-1 — https://www.kimbundu.org/pt/word/mbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15091,
+      "kimbundu_term": "Mbamba",
+      "portuguese_translation": "Corda grossa de certos instrumentos. Bordão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbamba-1 — https://www.kimbundu.org/pt/word/mbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15092,
+      "kimbundu_term": "Mbamba",
+      "portuguese_translation": "Rio que, nascendo na parte setentrional da serra de Kanganza, corta o concelho de Encoge passando a E. da povoação deste",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbamba-1 — https://www.kimbundu.org/pt/word/mbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15093,
+      "kimbundu_term": "Mbamba",
+      "portuguese_translation": "Povoação e serra junto ao rio deste nome, no concelho do Ambriz, distrito e província de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbamba-1 — https://www.kimbundu.org/pt/word/mbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
