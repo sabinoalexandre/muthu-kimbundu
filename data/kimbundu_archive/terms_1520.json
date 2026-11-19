@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15304,
+      "kimbundu_term": "Mbuanga",
+      "portuguese_translation": "Engano",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuanga-1 — https://www.kimbundu.org/pt/word/mbuanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15305,
+      "kimbundu_term": "Mbuanga",
+      "portuguese_translation": "Equívoco",
+      "definition": null,
+      "alternative_meanings": [
+        "erro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuanga-1 — https://www.kimbundu.org/pt/word/mbuanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15306,
+      "kimbundu_term": "Mbuanga",
+      "portuguese_translation": "Artifício para iludir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuanga-1 — https://www.kimbundu.org/pt/word/mbuanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15307,
+      "kimbundu_term": "Mbuanga",
+      "portuguese_translation": "Falso",
+      "definition": null,
+      "alternative_meanings": [
+        "simulado",
+        "fingido"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuanga-1 — https://www.kimbundu.org/pt/word/mbuanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15308,
+      "kimbundu_term": "Mbuangungu",
+      "portuguese_translation": "Planta herbácea da família das cucurbitáceas, que medra e se estende sobre as águas das lagoas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuangungu-1 — https://www.kimbundu.org/pt/word/mbuangungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15309,
+      "kimbundu_term": "Mbuangungu",
+      "portuguese_translation": "Lagoa próxima da povoação de Calumbo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuangungu-1 — https://www.kimbundu.org/pt/word/mbuangungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15310,
+      "kimbundu_term": "Mbuanji",
+      "portuguese_translation": "Pequena cabaça cheia de vinho de palma",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuanji-1 — https://www.kimbundu.org/pt/word/mbuanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15311,
+      "kimbundu_term": "Mbuánza",
+      "portuguese_translation": "Habitual",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuánza-1 — https://www.kimbundu.org/pt/word/mbuanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15312,
+      "kimbundu_term": "Mbuánza",
+      "portuguese_translation": "Comum",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuánza-1 — https://www.kimbundu.org/pt/word/mbuanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15313,
+      "kimbundu_term": "Mbuánza",
+      "portuguese_translation": "Ordinário",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuánza-1 — https://www.kimbundu.org/pt/word/mbuanza",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
