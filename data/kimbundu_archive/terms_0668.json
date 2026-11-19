@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6784,
+      "kimbundu_term": "Kizuze",
+      "portuguese_translation": "Próprio para assar",
+      "definition": null,
+      "alternative_meanings": [
+        "sub. O que se assa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizuze-1 — https://www.kimbundu.org/pt/word/kizuze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6785,
+      "kimbundu_term": "Kizuzilu",
+      "portuguese_translation": "Grelha",
+      "definition": null,
+      "alternative_meanings": [
+        "grade de ferro, para assar sobre brasas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizuzilu-1 — https://www.kimbundu.org/pt/word/kizuzilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6786,
+      "kimbundu_term": "Kízuzu",
+      "portuguese_translation": "Assado",
+      "definition": null,
+      "alternative_meanings": [
+        "O que se assou"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kízuzu-1 — https://www.kimbundu.org/pt/word/kizuzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6787,
+      "kimbundu_term": "Kizúzu",
+      "portuguese_translation": "Tecido velho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizúzu-1 — https://www.kimbundu.org/pt/word/kizuzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6788,
+      "kimbundu_term": "Kizwelu",
+      "portuguese_translation": "Palavra",
+      "definition": null,
+      "alternative_meanings": [
+        "expressão",
+        "dito",
+        "Fala",
+        "arenga",
+        "discurso",
+        "Som que tem um sentido",
+        "Termo",
+        "dicção"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizwelu-1 — https://www.kimbundu.org/pt/word/kizwelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6789,
+      "kimbundu_term": "Kizwua",
+      "portuguese_translation": "Dia",
+      "definition": null,
+      "alternative_meanings": [
+        "Espaço de tempo compreendido do nascer ao pôr do sol",
+        "Tempo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizwua-1 — https://www.kimbundu.org/pt/word/kizwua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6790,
+      "kimbundu_term": "Kóbidi",
+      "portuguese_translation": "Cobre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kóbidi-1 — https://www.kimbundu.org/pt/word/kobidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6791,
+      "kimbundu_term": "Kóbo",
+      "portuguese_translation": "Beberrico",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kóbo-1 — https://www.kimbundu.org/pt/word/kobo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6792,
+      "kimbundu_term": "Kófidi",
+      "portuguese_translation": "Cofre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kófidi-1 — https://www.kimbundu.org/pt/word/kofidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6793,
+      "kimbundu_term": "Kóka",
+      "portuguese_translation": "e pron. demonstr., designativo de cousa que está presente ou mais próxima de quem fala",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kóka-1 — https://www.kimbundu.org/pt/word/koka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
