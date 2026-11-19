@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5874,
+      "kimbundu_term": "Kinyami",
+      "portuguese_translation": "Afeição",
+      "definition": null,
+      "alternative_meanings": [
+        "apego, simpatia de um filho por seus pais"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinyami-1 — https://www.kimbundu.org/pt/word/kinyami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5875,
+      "kimbundu_term": "Kinyami",
+      "portuguese_translation": "Querença",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinyami-1 — https://www.kimbundu.org/pt/word/kinyami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5876,
+      "kimbundu_term": "Kinyami",
+      "portuguese_translation": "Afeto que o animal tem ao domicílio ou ao seu dono",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinyami-1 — https://www.kimbundu.org/pt/word/kinyami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5877,
+      "kimbundu_term": "Kinyenge",
+      "portuguese_translation": "Mágua",
+      "definition": null,
+      "alternative_meanings": [
+        "dó",
+        "Impulso pelo qual desistimos de ser severos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinyenge-1 — https://www.kimbundu.org/pt/word/kinyenge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5878,
+      "kimbundu_term": "Kinyenge",
+      "portuguese_translation": "adj. Sensível",
+      "definition": null,
+      "alternative_meanings": [
+        "compassivo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinyenge-1 — https://www.kimbundu.org/pt/word/kinyenge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5879,
+      "kimbundu_term": "Kinyengete",
+      "portuguese_translation": "Paixão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinyengete-1 — https://www.kimbundu.org/pt/word/kinyengete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5880,
+      "kimbundu_term": "Kinyengete",
+      "portuguese_translation": "Impressão viva",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinyengete-1 — https://www.kimbundu.org/pt/word/kinyengete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5881,
+      "kimbundu_term": "Kinyengete",
+      "portuguese_translation": "Grande pesar, desgosto, pena",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinyengete-1 — https://www.kimbundu.org/pt/word/kinyengete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5882,
+      "kimbundu_term": "Kînyi",
+      "portuguese_translation": "O que é (isto)?",
+      "definition": null,
+      "alternative_meanings": [
+        "Que?"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kînyi-1 — https://www.kimbundu.org/pt/word/kinyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5883,
+      "kimbundu_term": "Kínyinga",
+      "portuguese_translation": "Ato de enrolar",
+      "definition": null,
+      "alternative_meanings": [
+        "Enroscadura"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kínyinga-1 — https://www.kimbundu.org/pt/word/kinyinga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
