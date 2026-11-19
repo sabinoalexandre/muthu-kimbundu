@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10864,
+      "kimbundu_term": "Kúngonga",
+      "portuguese_translation": "Murmurar",
+      "definition": null,
+      "alternative_meanings": [
+        "Dar sinais de descontentamento (falando baixinho)",
+        "Lamentar-se",
+        "queixar-se",
+        "mostrar-se prejudicado ou ofendido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúngonga-1 — https://www.kimbundu.org/pt/word/kungonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10865,
+      "kimbundu_term": "Kungongama",
+      "portuguese_translation": "Pôr-se de cócoras",
+      "definition": null,
+      "alternative_meanings": [
+        "Assentar-se sobre os calcanhares",
+        "Agachar-se",
+        "fig. Defecar",
+        "evacuar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungongama-1 — https://www.kimbundu.org/pt/word/kungongama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10866,
+      "kimbundu_term": "Kungongamana",
+      "portuguese_translation": "Estar ou ficar acocorado",
+      "definition": null,
+      "alternative_meanings": [
+        "Conservar-se assentado sobre os calcanhares"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungongamana-1 — https://www.kimbundu.org/pt/word/kungongamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10867,
+      "kimbundu_term": "Kungongamesa",
+      "portuguese_translation": "Fazer acocorar",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer evacuar (às crianças)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungongamesa-1 — https://www.kimbundu.org/pt/word/kungongamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10868,
+      "kimbundu_term": "Kungongena",
+      "portuguese_translation": "Murmurar sobre",
+      "definition": null,
+      "alternative_meanings": [
+        "manifestar sentimento",
+        "Lamentar-se por"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungongena-1 — https://www.kimbundu.org/pt/word/kungongena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10869,
+      "kimbundu_term": "Kungongena",
+      "portuguese_translation": "Kuringongena, v. r. Falar a sós",
+      "definition": null,
+      "alternative_meanings": [
+        "lamentar-se",
+        "queixar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungongena-1 — https://www.kimbundu.org/pt/word/kungongena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10870,
+      "kimbundu_term": "Kungongesa",
+      "portuguese_translation": "Fazer resmungar",
+      "definition": null,
+      "alternative_meanings": [
+        "dar lugar a murmúrios, a lamentos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungongesa-1 — https://www.kimbundu.org/pt/word/kungongesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10871,
+      "kimbundu_term": "Kungongota",
+      "portuguese_translation": "Estar doente da barriga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungongota-1 — https://www.kimbundu.org/pt/word/kungongota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10872,
+      "kimbundu_term": "Kungongota",
+      "portuguese_translation": "Sentir picadas (nos intestinos)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungongota-1 — https://www.kimbundu.org/pt/word/kungongota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10873,
+      "kimbundu_term": "Kungongota",
+      "portuguese_translation": "sub. Dor de barriga: revolução intestinal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungongota-1 — https://www.kimbundu.org/pt/word/kungongota",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
