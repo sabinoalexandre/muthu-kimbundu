@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2264,
+      "kimbundu_term": "Isaselu",
+      "portuguese_translation": "Criação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, isaselu-1 — https://www.kimbundu.org/pt/word/isaselu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2265,
+      "kimbundu_term": "Isaʃu",
+      "portuguese_translation": "Família de plantas dicotiledóneas, vizinhas das tiliáceas",
+      "definition": null,
+      "alternative_meanings": [
+        "Plantas bixáceas",
+        "Urucús"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, isaʃu-1 — https://www.kimbundu.org/pt/word/isa%CA%83u",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2266,
+      "kimbundu_term": "Isaʃu",
+      "portuguese_translation": "Indecentes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, isaʃu-1 — https://www.kimbundu.org/pt/word/isa%CA%83u",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2267,
+      "kimbundu_term": "Isaʃu-saʃu",
+      "portuguese_translation": "Barbas",
+      "definition": null,
+      "alternative_meanings": [
+        "Pelos ou fios de vassoura"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, isaʃu-saʃu-1 — https://www.kimbundu.org/pt/word/isa%CA%83u-sa%CA%83u",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2268,
+      "kimbundu_term": "Isekele",
+      "portuguese_translation": "Areias",
+      "definition": null,
+      "alternative_meanings": [
+        "Terra movediça",
+        "areia fofa em que se enterram os pés andando"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, isekele-1 — https://www.kimbundu.org/pt/word/isekele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2269,
+      "kimbundu_term": "Isekele",
+      "portuguese_translation": "Areal",
+      "definition": null,
+      "alternative_meanings": [
+        "Deserto",
+        "Terra de areia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, isekele-1 — https://www.kimbundu.org/pt/word/isekele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2270,
+      "kimbundu_term": "Isekeseke",
+      "portuguese_translation": "Fragmentos",
+      "definition": null,
+      "alternative_meanings": [
+        "Pedaços de coisas quebradas, gastas ou queimadas",
+        "Migalhas",
+        "Pequenas porções"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, isekeseke-1 — https://www.kimbundu.org/pt/word/isekeseke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2271,
+      "kimbundu_term": "Isekeseke",
+      "portuguese_translation": "Dinheiro miúdo",
+      "definition": null,
+      "alternative_meanings": [
+        "Trocos",
+        "fig. moeda"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, isekeseke-1 — https://www.kimbundu.org/pt/word/isekeseke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2272,
+      "kimbundu_term": "Isekeseke",
+      "portuguese_translation": "Próprio para trocos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, isekeseke-1 — https://www.kimbundu.org/pt/word/isekeseke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2273,
+      "kimbundu_term": "Iséla",
+      "portuguese_translation": "Favos",
+      "definition": null,
+      "alternative_meanings": [
+        "Colmeias",
+        "Quantidade de cera das abelhas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iséla-1 — https://www.kimbundu.org/pt/word/isela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
