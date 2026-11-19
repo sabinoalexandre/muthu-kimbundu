@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8864,
+      "kimbundu_term": "Kuílúla",
+      "portuguese_translation": "Remediar",
+      "definition": null,
+      "alternative_meanings": [
+        "sanear"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuílúla-1 — https://www.kimbundu.org/pt/word/kuilula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8865,
+      "kimbundu_term": "Kuílúla",
+      "portuguese_translation": "Kurilula, v. r. Curar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "purificar-se",
+        "livrar-se do mal"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuílúla-1 — https://www.kimbundu.org/pt/word/kuilula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8866,
+      "kimbundu_term": "Kuimanena",
+      "portuguese_translation": "Estar em pé junto de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuimanena-1 — https://www.kimbundu.org/pt/word/kuimanena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8867,
+      "kimbundu_term": "Kuimanena",
+      "portuguese_translation": "Presenciar",
+      "definition": null,
+      "alternative_meanings": [
+        "assistir",
+        "dar fé"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuimanena-1 — https://www.kimbundu.org/pt/word/kuimanena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8868,
+      "kimbundu_term": "Kuimanena",
+      "portuguese_translation": "Kurimanena, v. r. Destacar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "isolar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuimanena-1 — https://www.kimbundu.org/pt/word/kuimanena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8869,
+      "kimbundu_term": "Kuimbisa",
+      "portuguese_translation": "Fazer arrulhar, cantar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuimbisa-1 — https://www.kimbundu.org/pt/word/kuimbisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8870,
+      "kimbundu_term": "Kuime",
+      "portuguese_translation": "Importante afluente do rio Quanza, com origem nos montes de Cambimbia, distrito do Moxico, província do Bié",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuime-1 — https://www.kimbundu.org/pt/word/kuime",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8871,
+      "kimbundu_term": "Kuimikisa",
+      "portuguese_translation": "Fazer espetar, pôr de pé",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuimikisa-1 — https://www.kimbundu.org/pt/word/kuimikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8872,
+      "kimbundu_term": "Kuiminisa",
+      "portuguese_translation": "Fazer negar, recusar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuiminisa-1 — https://www.kimbundu.org/pt/word/kuiminisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8873,
+      "kimbundu_term": "Kuiminisa",
+      "portuguese_translation": "Kuriminisa, v. r. Fazer que outrem nos negue o que carecemos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuiminisa-1 — https://www.kimbundu.org/pt/word/kuiminisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
