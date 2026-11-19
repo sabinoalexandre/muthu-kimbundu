@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4914,
+      "kimbundu_term": "Kiése",
+      "portuguese_translation": "adj. Cicioso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiése-1 — https://www.kimbundu.org/pt/word/kiese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4915,
+      "kimbundu_term": "Kiézu",
+      "portuguese_translation": "Vassoura",
+      "definition": null,
+      "alternative_meanings": [
+        "varredouro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiézu-1 — https://www.kimbundu.org/pt/word/kiezu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4916,
+      "kimbundu_term": "Kifa",
+      "portuguese_translation": "Porventura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifa-1 — https://www.kimbundu.org/pt/word/kifa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4917,
+      "kimbundu_term": "Kifa",
+      "portuguese_translation": "Possivelmente",
+      "definition": null,
+      "alternative_meanings": [
+        "talvez"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifa-1 — https://www.kimbundu.org/pt/word/kifa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4918,
+      "kimbundu_term": "Kifakasa",
+      "portuguese_translation": "Película que envolve a maçaroca",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifakasa-1 — https://www.kimbundu.org/pt/word/kifakasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4919,
+      "kimbundu_term": "Kifakasa",
+      "portuguese_translation": "Folhelho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifakasa-1 — https://www.kimbundu.org/pt/word/kifakasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4920,
+      "kimbundu_term": "Kifánda",
+      "portuguese_translation": "Soldado",
+      "definition": null,
+      "alternative_meanings": [
+        "ascenso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifánda-1 — https://www.kimbundu.org/pt/word/kifanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4921,
+      "kimbundu_term": "Kifánda",
+      "portuguese_translation": "Indivíduo que faz parte de uma guarnição",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifánda-1 — https://www.kimbundu.org/pt/word/kifanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4922,
+      "kimbundu_term": "Kifánda",
+      "portuguese_translation": "Infante",
+      "definition": null,
+      "alternative_meanings": [
+        "guerreiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifánda-1 — https://www.kimbundu.org/pt/word/kifanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4923,
+      "kimbundu_term": "Kifangondo",
+      "portuguese_translation": "Povoação do antigo concelho da Barra do Bengo, distrito e província de Luanda, estação do Caminho de Ferro e ermida sob",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifangondo-1 — https://www.kimbundu.org/pt/word/kifangondo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
