@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10214,
+      "kimbundu_term": "Kulengalala",
+      "portuguese_translation": "Ter pouco peso",
+      "definition": null,
+      "alternative_meanings": [
+        "ser leve"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulengalala-1 — https://www.kimbundu.org/pt/word/kulengalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10215,
+      "kimbundu_term": "Kulengalala",
+      "portuguese_translation": "Qualidade do que é leve",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulengalala-1 — https://www.kimbundu.org/pt/word/kulengalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10216,
+      "kimbundu_term": "Kulengela",
+      "portuguese_translation": "Recorrer",
+      "definition": null,
+      "alternative_meanings": [
+        "buscar amparo",
+        "Lançar mão, valer-se, socorrer-se de",
+        "v. r. Acolher-se",
+        "refugiar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulengela-1 — https://www.kimbundu.org/pt/word/kulengela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10217,
+      "kimbundu_term": "Kulengesa",
+      "portuguese_translation": "Fazer recorrer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulengesa-1 — https://www.kimbundu.org/pt/word/kulengesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10218,
+      "kimbundu_term": "Kulengesa",
+      "portuguese_translation": "Evitar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulengesa-1 — https://www.kimbundu.org/pt/word/kulengesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10219,
+      "kimbundu_term": "Kulengesa",
+      "portuguese_translation": "Esquivar-se a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulengesa-1 — https://www.kimbundu.org/pt/word/kulengesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10220,
+      "kimbundu_term": "Kulengesa",
+      "portuguese_translation": "Tirar das vistas",
+      "definition": null,
+      "alternative_meanings": [
+        "esconder"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulengesa-1 — https://www.kimbundu.org/pt/word/kulengesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10221,
+      "kimbundu_term": "Kulengudisa",
+      "portuguese_translation": "Dar urgência a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulengudisa-1 — https://www.kimbundu.org/pt/word/kulengudisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10222,
+      "kimbundu_term": "Kulengudisa",
+      "portuguese_translation": "Apressar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulengudisa-1 — https://www.kimbundu.org/pt/word/kulengudisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10223,
+      "kimbundu_term": "Kulengudisa",
+      "portuguese_translation": "É também intr. e r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulengudisa-1 — https://www.kimbundu.org/pt/word/kulengudisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
