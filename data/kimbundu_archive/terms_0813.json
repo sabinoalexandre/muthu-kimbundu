@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8234,
+      "kimbundu_term": "Kudimbuka",
+      "portuguese_translation": "Ficar enlameado, sujo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudimbuka-1 — https://www.kimbundu.org/pt/word/kudimbuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8235,
+      "kimbundu_term": "Kudimbukisa",
+      "portuguese_translation": "Agitar, perturbar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudimbukisa-1 — https://www.kimbundu.org/pt/word/kudimbukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8236,
+      "kimbundu_term": "Kudimbukisa",
+      "portuguese_translation": "Pôr em revolução",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudimbukisa-1 — https://www.kimbundu.org/pt/word/kudimbukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8237,
+      "kimbundu_term": "Kudimbula",
+      "portuguese_translation": "Toldar",
+      "definition": null,
+      "alternative_meanings": [
+        "misturar",
+        "tornar escuro, turvo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudimbula-1 — https://www.kimbundu.org/pt/word/kudimbula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8238,
+      "kimbundu_term": "Kudimbula",
+      "portuguese_translation": "Enlamear",
+      "definition": null,
+      "alternative_meanings": [
+        "envolver"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudimbula-1 — https://www.kimbundu.org/pt/word/kudimbula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8239,
+      "kimbundu_term": "Kudimbula",
+      "portuguese_translation": "É tb. r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudimbula-1 — https://www.kimbundu.org/pt/word/kudimbula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8240,
+      "kimbundu_term": "Kudimbuluka",
+      "portuguese_translation": "Ficar tempestuoso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudimbuluka-1 — https://www.kimbundu.org/pt/word/kudimbuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8241,
+      "kimbundu_term": "Kudimbuluka",
+      "portuguese_translation": "Ficar muito mexido, agitado, sujo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudimbuluka-1 — https://www.kimbundu.org/pt/word/kudimbuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8242,
+      "kimbundu_term": "Kudimbulula",
+      "portuguese_translation": "Tornar a misturar, a agitar, a toldar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudimbulula-1 — https://www.kimbundu.org/pt/word/kudimbulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8243,
+      "kimbundu_term": "Kudimbulula",
+      "portuguese_translation": "Tornar a sujar",
+      "definition": null,
+      "alternative_meanings": [
+        "a revolver"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudimbulula-1 — https://www.kimbundu.org/pt/word/kudimbulula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
