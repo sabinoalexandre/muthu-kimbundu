@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1604,
+      "kimbundu_term": "Énu",
+      "portuguese_translation": "Pertencentes às pessoas com quem se fala",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, pessoa",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, énu-1 — https://www.kimbundu.org/pt/word/enu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1605,
+      "kimbundu_term": "Ési",
+      "portuguese_translation": "A letra S",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ési-1 — https://www.kimbundu.org/pt/word/esi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1606,
+      "kimbundu_term": "Ésu",
+      "portuguese_translation": "adjetivo e pronome pessoal do plural: Nós. Forma antiga de 'etu'",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, pessoa",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ésu-1 — https://www.kimbundu.org/pt/word/esu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1607,
+      "kimbundu_term": "Ethu",
+      "portuguese_translation": "pronome pessoal plural: nós",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ethu-1 — https://www.kimbundu.org/pt/word/ethu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1608,
+      "kimbundu_term": "Ethu",
+      "portuguese_translation": "a nós",
+      "definition": null,
+      "alternative_meanings": [
+        "pertencente às nossas pessoas"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ethu-1 — https://www.kimbundu.org/pt/word/ethu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1609,
+      "kimbundu_term": "Ethu",
+      "portuguese_translation": "das pessoas que falam",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ethu-1 — https://www.kimbundu.org/pt/word/ethu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1610,
+      "kimbundu_term": "Ethu",
+      "portuguese_translation": "adjetivo e pronome possessivo plural absoluto: nosso, nossa",
+      "definition": null,
+      "alternative_meanings": [
+        "das nossas pessoas"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ethu-1 — https://www.kimbundu.org/pt/word/ethu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1611,
+      "kimbundu_term": "Ethu",
+      "portuguese_translation": "adjetivo e pronome pessoal designativo de pessoas da mesma qualidade, grupo ou profissão daquela que fala",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ethu-1 — https://www.kimbundu.org/pt/word/ethu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1612,
+      "kimbundu_term": "Eue",
+      "portuguese_translation": "advérbio de afirmação: sim",
+      "definition": null,
+      "alternative_meanings": [
+        "de certo",
+        "efetivamente",
+        "exato"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, eue-1 — https://www.kimbundu.org/pt/word/eue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1613,
+      "kimbundu_term": "Eue",
+      "portuguese_translation": "assim seja",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, eue-1 — https://www.kimbundu.org/pt/word/eue",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
