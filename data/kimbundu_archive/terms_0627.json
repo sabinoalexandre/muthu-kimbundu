@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6374,
+      "kimbundu_term": "Kithembu",
+      "portuguese_translation": "Sede da pov. e posto de circ. civ. do Alto Cuanza, Chitembo, distr. e prov. do Bié, a 13º 30' 59\" de Lat. S. e 16º 45' 2",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kithembu-1 — https://www.kimbundu.org/pt/word/kithembu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6375,
+      "kimbundu_term": "Kithômbe",
+      "portuguese_translation": "Escuridão: trevas",
+      "definition": null,
+      "alternative_meanings": [
+        "Ausência completa de claridade ou de luz"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kithômbe-1 — https://www.kimbundu.org/pt/word/kithombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6376,
+      "kimbundu_term": "Kithômbe",
+      "portuguese_translation": "Escuro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kithômbe-1 — https://www.kimbundu.org/pt/word/kithombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6377,
+      "kimbundu_term": "Kithômbe",
+      "portuguese_translation": "Ignorante",
+      "definition": null,
+      "alternative_meanings": [
+        "falto de luzes"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kithômbe-1 — https://www.kimbundu.org/pt/word/kithombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6378,
+      "kimbundu_term": "Kithulu",
+      "portuguese_translation": "Flor",
+      "definition": null,
+      "alternative_meanings": [
+        "A parte do vegetal de que sai a frutificação"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kithulu-1 — https://www.kimbundu.org/pt/word/kithulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6379,
+      "kimbundu_term": "Kithulu",
+      "portuguese_translation": "Lírio",
+      "definition": null,
+      "alternative_meanings": [
+        "flor de jardim"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kithulu-1 — https://www.kimbundu.org/pt/word/kithulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6380,
+      "kimbundu_term": "Kithundu",
+      "portuguese_translation": "Grinalda",
+      "definition": null,
+      "alternative_meanings": [
+        "coroa",
+        "Sinal de distinção, de glória",
+        "O que dá honra ou lustre",
+        "Turbante"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kithundu-1 — https://www.kimbundu.org/pt/word/kithundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6381,
+      "kimbundu_term": "Kithundu",
+      "portuguese_translation": "Árvore terebintácea (anaphrenium abyssinium). Anacardo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kithundu-1 — https://www.kimbundu.org/pt/word/kithundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6382,
+      "kimbundu_term": "Kitodi",
+      "portuguese_translation": "Ulonci",
+      "definition": null,
+      "alternative_meanings": [
+        "escróbato"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitodi-1 — https://www.kimbundu.org/pt/word/kitodi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6383,
+      "kimbundu_term": "Kitodi",
+      "portuguese_translation": "Doença dantes conhecida por «mal de Luanda»",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitodi-1 — https://www.kimbundu.org/pt/word/kitodi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
