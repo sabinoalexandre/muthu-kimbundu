@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14834,
+      "kimbundu_term": "Masamanu",
+      "portuguese_translation": "(precedido de sub.) Seis",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, masamanu-1 — https://www.kimbundu.org/pt/word/masamanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14835,
+      "kimbundu_term": "Masambala",
+      "portuguese_translation": "Dora",
+      "definition": null,
+      "alternative_meanings": [
+        "sorgo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, masambala-1 — https://www.kimbundu.org/pt/word/masambala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14836,
+      "kimbundu_term": "Masambisámbi",
+      "portuguese_translation": "(IX) Mostras de alienação mental",
+      "definition": null,
+      "alternative_meanings": [
+        "Indícios de loucura., adj. e sub. Que tem indícios de alienação mental",
+        "Que não está em seu perfeito juízo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, masambisámbi-1 — https://www.kimbundu.org/pt/word/masambisambi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14837,
+      "kimbundu_term": "Másana",
+      "portuguese_translation": "Leite",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, másana-1 — https://www.kimbundu.org/pt/word/masana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14838,
+      "kimbundu_term": "Masangalala",
+      "portuguese_translation": "Conjunto de plantas têxteis fam. das gramíneas (eragrostis fascicularis), utilizada em obras de verga (gaiolas)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, masangalala-1 — https://www.kimbundu.org/pt/word/masangalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14839,
+      "kimbundu_term": "Masangalala",
+      "portuguese_translation": "Campo plantado destas plantas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, masangalala-1 — https://www.kimbundu.org/pt/word/masangalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14840,
+      "kimbundu_term": "Masanganu",
+      "portuguese_translation": "Confluência",
+      "definition": null,
+      "alternative_meanings": [
+        "foz. Lugar onde dois rios se juntam num só"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, masanganu-1 — https://www.kimbundu.org/pt/word/masanganu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14841,
+      "kimbundu_term": "Masanganu",
+      "portuguese_translation": "Antigo concelho, freguesia de N. S. da Vitória, constituindo hoje a área e sede do posto deste nome, conc. de Cambimbe (",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, masanganu-1 — https://www.kimbundu.org/pt/word/masanganu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14842,
+      "kimbundu_term": "Masanganu",
+      "portuguese_translation": "Pov. e sede do posto de Luimbale (londo ibari), conc. de Bailundo, prov. de Benguela, a 12° de lat. S. e 15° de long. E.",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, masanganu-1 — https://www.kimbundu.org/pt/word/masanganu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14843,
+      "kimbundu_term": "Másangu",
+      "portuguese_translation": "Cereal miúdo fam. das gramíneas (pennisetum typhoideum), de propriedade alimentícia. Alpiste",
+      "definition": null,
+      "alternative_meanings": [
+        "painço"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, másangu-1 — https://www.kimbundu.org/pt/word/masangu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
