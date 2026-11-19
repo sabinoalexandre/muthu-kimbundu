@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16554,
+      "kimbundu_term": "Mukúlu",
+      "portuguese_translation": "Encosta",
+      "definition": null,
+      "alternative_meanings": [
+        "vertente",
+        "Outeiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukúlu-1 — https://www.kimbundu.org/pt/word/mukulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16555,
+      "kimbundu_term": "Mukúlu",
+      "portuguese_translation": "Redondeza",
+      "definition": null,
+      "alternative_meanings": [
+        "extremo",
+        "confim"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukúlu-1 — https://www.kimbundu.org/pt/word/mukulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16556,
+      "kimbundu_term": "Mukúlu",
+      "portuguese_translation": "Planta fam. das leguminosas (acacia mossambicensis), utilizada para sombra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukúlu-1 — https://www.kimbundu.org/pt/word/mukulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16557,
+      "kimbundu_term": "Múkulu",
+      "portuguese_translation": "Alma de um antepassado",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Valente, protetor"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkulu-1 — https://www.kimbundu.org/pt/word/mukulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16558,
+      "kimbundu_term": "Múkulu",
+      "portuguese_translation": "e sub. Defunto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkulu-1 — https://www.kimbundu.org/pt/word/mukulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16559,
+      "kimbundu_term": "Mukuluja",
+      "portuguese_translation": "Vala",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukuluja-1 — https://www.kimbundu.org/pt/word/mukuluja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16560,
+      "kimbundu_term": "Mukulukuxu",
+      "portuguese_translation": "Sem mastigar",
+      "definition": null,
+      "alternative_meanings": [
+        "Sem triturar"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukulukuxu-1 — https://www.kimbundu.org/pt/word/mukulukuxu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16561,
+      "kimbundu_term": "Mukuluma",
+      "portuguese_translation": "Silêncio",
+      "definition": null,
+      "alternative_meanings": [
+        "O silêncio da noite"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukuluma-1 — https://www.kimbundu.org/pt/word/mukuluma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16562,
+      "kimbundu_term": "Mukulumu",
+      "portuguese_translation": "Que faz baixar, descer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukulumu-1 — https://www.kimbundu.org/pt/word/mukulumu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16563,
+      "kimbundu_term": "Mukulumu",
+      "portuguese_translation": "Silencioso",
+      "definition": null,
+      "alternative_meanings": [
+        "em que se não ouve ruído"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukulumu-1 — https://www.kimbundu.org/pt/word/mukulumu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
