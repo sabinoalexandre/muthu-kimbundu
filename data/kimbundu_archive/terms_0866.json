@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8764,
+      "kimbundu_term": "Kuhoholola",
+      "portuguese_translation": "Kurihoholola, e r. Refrescar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "restabelecer-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhoholola-1 — https://www.kimbundu.org/pt/word/kuhoholola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8765,
+      "kimbundu_term": "Kúhoka",
+      "portuguese_translation": "Circular",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúhoka-1 — https://www.kimbundu.org/pt/word/kuhoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8766,
+      "kimbundu_term": "Kúhoka",
+      "portuguese_translation": "Cercar",
+      "definition": null,
+      "alternative_meanings": [
+        "rodear. Fazer circuito. sub. Circuição"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúhoka-1 — https://www.kimbundu.org/pt/word/kuhoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8767,
+      "kimbundu_term": "Kuholomoka",
+      "portuguese_translation": "Estar enfezado, raquítico. Ter aspeto de doente e velho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuholomoka-1 — https://www.kimbundu.org/pt/word/kuholomoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8768,
+      "kimbundu_term": "Kuholomoka",
+      "portuguese_translation": "Depauperação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuholomoka-1 — https://www.kimbundu.org/pt/word/kuholomoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8769,
+      "kimbundu_term": "Kuholomona",
+      "portuguese_translation": "Avelhantar",
+      "definition": null,
+      "alternative_meanings": [
+        "enfezar. Depauperar",
+        "fazer perder as forças"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuholomona-1 — https://www.kimbundu.org/pt/word/kuholomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8770,
+      "kimbundu_term": "Kuholomona",
+      "portuguese_translation": "Kuriholomona, e r. Depauperar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "enfezar-se",
+        "tornar-se fraco"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuholomona-1 — https://www.kimbundu.org/pt/word/kuholomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8771,
+      "kimbundu_term": "Kuhonda",
+      "portuguese_translation": "Contornar",
+      "definition": null,
+      "alternative_meanings": [
+        "rodear. Circundar",
+        "circunscrever"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhonda-1 — https://www.kimbundu.org/pt/word/kuhonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8772,
+      "kimbundu_term": "Kuhondeka",
+      "portuguese_translation": "Girar",
+      "definition": null,
+      "alternative_meanings": [
+        "dar voltas",
+        "agitar-se à roda. Passar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhondeka-1 — https://www.kimbundu.org/pt/word/kuhondeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8773,
+      "kimbundu_term": "Kuhondojoka",
+      "portuguese_translation": "Ziguezaguear",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhondojoka-1 — https://www.kimbundu.org/pt/word/kuhondojoka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
