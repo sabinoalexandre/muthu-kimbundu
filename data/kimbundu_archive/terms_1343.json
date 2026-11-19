@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13534,
+      "kimbundu_term": "Kuzanzumuka",
+      "portuguese_translation": "Derreter-se",
+      "definition": null,
+      "alternative_meanings": [
+        "ficar contente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzanzumuka-1 — https://www.kimbundu.org/pt/word/kuzanzumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13535,
+      "kimbundu_term": "Kuzanzumuka",
+      "portuguese_translation": "Requebrar-se, consumir-se em agradecimentos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzanzumuka-1 — https://www.kimbundu.org/pt/word/kuzanzumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13536,
+      "kimbundu_term": "Kuzanzumuna",
+      "portuguese_translation": "Liquefazer",
+      "definition": null,
+      "alternative_meanings": [
+        "derreter"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzanzumuna-1 — https://www.kimbundu.org/pt/word/kuzanzumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13537,
+      "kimbundu_term": "Kuzaúka",
+      "portuguese_translation": "Vadear",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzaúka-1 — https://www.kimbundu.org/pt/word/kuzauka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13538,
+      "kimbundu_term": "Kuzaúka",
+      "portuguese_translation": "Passar a vau para outra margem (do [rio])",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzaúka-1 — https://www.kimbundu.org/pt/word/kuzauka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13539,
+      "kimbundu_term": "Kuzaúka",
+      "portuguese_translation": "rio)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzaúka-1 — https://www.kimbundu.org/pt/word/kuzauka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13540,
+      "kimbundu_term": "Kuzaúka",
+      "portuguese_translation": "sub. Vadeação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzaúka-1 — https://www.kimbundu.org/pt/word/kuzauka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13541,
+      "kimbundu_term": "Kuzaúla",
+      "portuguese_translation": "Fazer passar a vau",
+      "definition": null,
+      "alternative_meanings": [
+        "transpor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzaúla-1 — https://www.kimbundu.org/pt/word/kuzaula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13542,
+      "kimbundu_term": "Kuzavuka",
+      "portuguese_translation": "Saltar por si (a mola de uma armadilha)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzavuka-1 — https://www.kimbundu.org/pt/word/kuzavuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13543,
+      "kimbundu_term": "Kuzavuka",
+      "portuguese_translation": "Sair do lugar (saltando)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzavuka-1 — https://www.kimbundu.org/pt/word/kuzavuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
