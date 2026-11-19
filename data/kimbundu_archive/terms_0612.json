@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6224,
+      "kimbundu_term": "Kisubu",
+      "portuguese_translation": "Que sobra ou excede",
+      "definition": null,
+      "alternative_meanings": [
+        "Remanescente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisubu-1 — https://www.kimbundu.org/pt/word/kisubu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6225,
+      "kimbundu_term": "Kisudi",
+      "portuguese_translation": "Odre",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Pessoa barriguda"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisudi-1 — https://www.kimbundu.org/pt/word/kisudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6226,
+      "kimbundu_term": "Kisudi",
+      "portuguese_translation": "Próprio para ser forjado, batido na forja",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisudi-1 — https://www.kimbundu.org/pt/word/kisudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6227,
+      "kimbundu_term": "Kisue",
+      "portuguese_translation": "Sentimento que nos faz aborrecer uma pessoa ou coisa depois de possuirmos outra",
+      "definition": null,
+      "alternative_meanings": [
+        "Desigualdade (no trato)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisue-1 — https://www.kimbundu.org/pt/word/kisue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6228,
+      "kimbundu_term": "Kisue",
+      "portuguese_translation": "adj. Que trata com desigualdade",
+      "definition": null,
+      "alternative_meanings": [
+        "Áspero",
+        "inconstante"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisue-1 — https://www.kimbundu.org/pt/word/kisue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6229,
+      "kimbundu_term": "Kisue",
+      "portuguese_translation": "Mamífero digitígrado, carnívoro, tipo dos felinos",
+      "definition": null,
+      "alternative_meanings": [
+        "Gato de algália — kia Kombe. Almíscar",
+        "Gato de pivete"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisue-2 — https://www.kimbundu.org/pt/word/kisue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6230,
+      "kimbundu_term": "Kisueia",
+      "portuguese_translation": "Nome genérico dos mamíferos carnívoros",
+      "definition": null,
+      "alternative_meanings": [
+        "Fera",
+        "fig. Pessoa cruel"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisueia-1 — https://www.kimbundu.org/pt/word/kisueia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6231,
+      "kimbundu_term": "Kisueia",
+      "portuguese_translation": "Sanguinário",
+      "definition": null,
+      "alternative_meanings": [
+        "Déspota"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisueia-1 — https://www.kimbundu.org/pt/word/kisueia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6232,
+      "kimbundu_term": "Kisuelele",
+      "portuguese_translation": "Fragmento de madeira que se enterra na carne",
+      "definition": null,
+      "alternative_meanings": [
+        "Espinho",
+        "Lasca de madeira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisuelele-1 — https://www.kimbundu.org/pt/word/kisuelele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6233,
+      "kimbundu_term": "Kisuka",
+      "portuguese_translation": "Impulso",
+      "definition": null,
+      "alternative_meanings": [
+        "Empurrão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisuka-1 — https://www.kimbundu.org/pt/word/kisuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
