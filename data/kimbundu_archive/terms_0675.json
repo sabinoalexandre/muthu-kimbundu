@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6854,
+      "kimbundu_term": "Kú ungisa",
+      "portuguese_translation": "Dar razão a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kú ungisa-1 — https://www.kimbundu.org/pt/word/ku%20ungisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6855,
+      "kimbundu_term": "Ku-mbulu",
+      "portuguese_translation": "À última hora",
+      "definition": null,
+      "alternative_meanings": [
+        "Às pressas",
+        "do pé para a mão"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ku-mbulu-1 — https://www.kimbundu.org/pt/word/ku-mbulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6856,
+      "kimbundu_term": "Ku'muna",
+      "portuguese_translation": "Avaliar",
+      "definition": null,
+      "alternative_meanings": [
+        "alvitrar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ku'muna-1 — https://www.kimbundu.org/pt/word/ku'muna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6857,
+      "kimbundu_term": "Ku'muna",
+      "portuguese_translation": "Dar parecer, conselho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ku'muna-1 — https://www.kimbundu.org/pt/word/ku'muna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6858,
+      "kimbundu_term": "Ku'onoka",
+      "portuguese_translation": "Estrinchar",
+      "definition": null,
+      "alternative_meanings": [
+        "folgar",
+        "dançar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ku'onoka-1 — https://www.kimbundu.org/pt/word/ku'onoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6859,
+      "kimbundu_term": "Ku'onoka",
+      "portuguese_translation": "Brincadeira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ku'onoka-1 — https://www.kimbundu.org/pt/word/ku'onoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6860,
+      "kimbundu_term": "Ku'undujuka",
+      "portuguese_translation": "Andar a cambalear (como os bêbedos)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ku'undujuka-1 — https://www.kimbundu.org/pt/word/ku'undujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6861,
+      "kimbundu_term": "Ku'undujuka",
+      "portuguese_translation": "Cair a cada passo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ku'undujuka-1 — https://www.kimbundu.org/pt/word/ku'undujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6862,
+      "kimbundu_term": "Ku'undujula",
+      "portuguese_translation": "Empurrar a cada instante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ku'undujula-1 — https://www.kimbundu.org/pt/word/ku'undujula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6863,
+      "kimbundu_term": "Ku'undujula",
+      "portuguese_translation": "Fazer andar aos empurrões",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ku'undujula-1 — https://www.kimbundu.org/pt/word/ku'undujula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
