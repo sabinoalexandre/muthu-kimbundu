@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 404,
+      "kimbundu_term": "Bhene",
+      "portuguese_translation": "(béne)hando: ali mesmo",
+      "definition": null,
+      "alternative_meanings": [
+        "naquele mesmo lugar",
+        "mesmo acolá"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhene-1 — https://www.kimbundu.org/pt/word/bhene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 405,
+      "kimbundu_term": "Bhene",
+      "portuguese_translation": "(béne)obo: até aí",
+      "definition": null,
+      "alternative_meanings": [
+        "nesse mesmo lugar",
+        "precisamente aí"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhene-1 — https://www.kimbundu.org/pt/word/bhene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 406,
+      "kimbundu_term": "Bhene",
+      "portuguese_translation": "(béne)muene: exatamente, precisamente",
+      "definition": null,
+      "alternative_meanings": [
+        "nem mais nem menos",
+        "sim",
+        "aí mesmo. (Mais usado, mas menos correto.)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhene-1 — https://www.kimbundu.org/pt/word/bhene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 407,
+      "kimbundu_term": "Bhixila",
+      "portuguese_translation": "Despedida",
+      "definition": null,
+      "alternative_meanings": [
+        "boa viagem!",
+        "adeus!",
+        "vá com Deus"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhixila-1 — https://www.kimbundu.org/pt/word/bhixila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 408,
+      "kimbundu_term": "Bho",
+      "portuguese_translation": "Conjunção que denota oposição, restrição, diferença",
+      "definition": null,
+      "alternative_meanings": [
+        "porém",
+        "mas",
+        "não obstante",
+        "apesar disso"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bho-1 — https://www.kimbundu.org/pt/word/bho",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 409,
+      "kimbundu_term": "Bhobho",
+      "portuguese_translation": "Nesse lugar",
+      "definition": null,
+      "alternative_meanings": [
+        "aí",
+        "junto de si",
+        "desse lado"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhobho-1 — https://www.kimbundu.org/pt/word/bhobho",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 410,
+      "kimbundu_term": "Bhobho",
+      "portuguese_translation": "Aí mesmo",
+      "definition": null,
+      "alternative_meanings": [
+        "nesse mesmo lugar"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhobho-1 — https://www.kimbundu.org/pt/word/bhobho",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 411,
+      "kimbundu_term": "Bhongolole",
+      "portuguese_translation": "Recolhido",
+      "definition": null,
+      "alternative_meanings": [
+        "aboletado",
+        "arrecadado",
+        "diz-se da pessoa recolhida por favor, que está a expensas de outrem"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhongolole-1 — https://www.kimbundu.org/pt/word/bhongolole",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 412,
+      "kimbundu_term": "Bhonzo",
+      "portuguese_translation": "Frio",
+      "definition": null,
+      "alternative_meanings": [
+        "sensibilizado",
+        "triste"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhonzo-1 — https://www.kimbundu.org/pt/word/bhonzo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 413,
+      "kimbundu_term": "Bhonzo",
+      "portuguese_translation": "Falto de ternura, de alegria",
+      "definition": null,
+      "alternative_meanings": [
+        "que aborrece, que enfada ou aflige"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhonzo-1 — https://www.kimbundu.org/pt/word/bhonzo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
