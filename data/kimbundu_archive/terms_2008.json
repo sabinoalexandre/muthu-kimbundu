@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 20184,
+      "kimbundu_term": "Zaï",
+      "portuguese_translation": "Expressão usada nos cemitérios ao lançar-se o corpo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, zaï-1 — https://www.kimbundu.org/pt/word/zai",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20185,
+      "kimbundu_term": "Zaï",
+      "portuguese_translation": "Almofadinha de minúsculas dimensões que os feiticeiros trazem à cintura e os avisa, dizem, de qualquer acontecimento fun",
+      "definition": null,
+      "alternative_meanings": [
+        "Preservativo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, zaï-1 — https://www.kimbundu.org/pt/word/zai",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20186,
+      "kimbundu_term": "Zaï",
+      "portuguese_translation": "Expressão usada nos cemitérios ao lançar-se o corpo à terra: «Descanse em paz»",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, zaï-2 — https://www.kimbundu.org/pt/word/zai",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20187,
+      "kimbundu_term": "Zaï",
+      "portuguese_translation": "Em paz",
+      "definition": null,
+      "alternative_meanings": [
+        "serenamente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, zaï-2 — https://www.kimbundu.org/pt/word/zai",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20188,
+      "kimbundu_term": "Zalata",
+      "portuguese_translation": "Alface",
+      "definition": null,
+      "alternative_meanings": [
+        "chicória"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, zalata-1 — https://www.kimbundu.org/pt/word/zalata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20189,
+      "kimbundu_term": "Zanga",
+      "portuguese_translation": "Insua",
+      "definition": null,
+      "alternative_meanings": [
+        "ilha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, zanga-1 — https://www.kimbundu.org/pt/word/zanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20190,
+      "kimbundu_term": "Zanga",
+      "portuguese_translation": "adj. e sub. Baiano",
+      "definition": null,
+      "alternative_meanings": [
+        "ilhéu",
+        "Insulano"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, zanga-1 — https://www.kimbundu.org/pt/word/zanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20191,
+      "kimbundu_term": "Zanú-zanu",
+      "portuguese_translation": "Esfarrapado",
+      "definition": null,
+      "alternative_meanings": [
+        "roto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, zanú-zanu-1 — https://www.kimbundu.org/pt/word/zanu-zanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20192,
+      "kimbundu_term": "Zanú-zanu",
+      "portuguese_translation": "Andrajosamente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, zanú-zanu-1 — https://www.kimbundu.org/pt/word/zanu-zanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20193,
+      "kimbundu_term": "Zauada",
+      "portuguese_translation": "Chanfana",
+      "definition": null,
+      "alternative_meanings": [
+        "comida mal feita"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, zauada-1 — https://www.kimbundu.org/pt/word/zauada",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
