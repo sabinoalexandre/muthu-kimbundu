@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 224,
+      "kimbundu_term": "Akwetu",
+      "portuguese_translation": "Outros (como eu, como nós)",
+      "definition": null,
+      "alternative_meanings": [
+        "nós outros",
+        "meus companheiros"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akwetu-1 — https://www.kimbundu.org/pt/word/akwetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 225,
+      "kimbundu_term": "Ala",
+      "portuguese_translation": "de desprezo. Ora!... Qual história!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ala-1 — https://www.kimbundu.org/pt/word/ala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 226,
+      "kimbundu_term": "Alándi",
+      "portuguese_translation": "Perseguidores",
+      "definition": null,
+      "alternative_meanings": [
+        "Que vão no encalço de",
+        "Que perseguem",
+        "Seguidores",
+        "Os que seguem alguém ou alguma coisa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, alándi-1 — https://www.kimbundu.org/pt/word/alandi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 227,
+      "kimbundu_term": "Alangidilu",
+      "portuguese_translation": "Sentinelas",
+      "definition": null,
+      "alternative_meanings": [
+        "Guardas",
+        "Vigias"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, alangidilu-1 — https://www.kimbundu.org/pt/word/alangidilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 228,
+      "kimbundu_term": "Alaúla",
+      "portuguese_translation": "Netos",
+      "definition": null,
+      "alternative_meanings": [
+        "Descendentes",
+        "Vindouros"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, alaúla-1 — https://www.kimbundu.org/pt/word/alaula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 229,
+      "kimbundu_term": "Alaúla",
+      "portuguese_translation": "Filhas do filho ou filha, em relação ao avô",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, alaúla-1 — https://www.kimbundu.org/pt/word/alaula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 230,
+      "kimbundu_term": "Aléle",
+      "portuguese_translation": "Muito alto",
+      "definition": null,
+      "alternative_meanings": [
+        "Lá em cima",
+        "No espaço",
+        "no abismo"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, aléle-1 — https://www.kimbundu.org/pt/word/alele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 231,
+      "kimbundu_term": "Alembéki",
+      "portuguese_translation": "Tardinheiros",
+      "definition": null,
+      "alternative_meanings": [
+        "Que viajam ao entardecer",
+        "Tardios"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, alembéki-1 — https://www.kimbundu.org/pt/word/alembeki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 232,
+      "kimbundu_term": "Alengi",
+      "portuguese_translation": "Corredores",
+      "definition": null,
+      "alternative_meanings": [
+        "Que correm",
+        "Velozes"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, alengi-1 — https://www.kimbundu.org/pt/word/alengi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 233,
+      "kimbundu_term": "Alóji",
+      "portuguese_translation": "Pessoas que fazem malefícios",
+      "definition": null,
+      "alternative_meanings": [
+        "Feiticeiros",
+        "Que causam doenças por meio de benzeduras",
+        "Envenenadores"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, alóji-1 — https://www.kimbundu.org/pt/word/aloji",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
