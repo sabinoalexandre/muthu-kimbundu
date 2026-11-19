@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10624,
+      "kimbundu_term": "Kumbumbika",
+      "portuguese_translation": "Abolar",
+      "definition": null,
+      "alternative_meanings": [
+        "Arredondar",
+        "tornar esférico",
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumbumbika-1 — https://www.kimbundu.org/pt/word/kumbumbika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10625,
+      "kimbundu_term": "Kumeketa",
+      "portuguese_translation": "Luzir por efeito de óleo ou gordura",
+      "definition": null,
+      "alternative_meanings": [
+        "Ter untura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumeketa-1 — https://www.kimbundu.org/pt/word/kumeketa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10626,
+      "kimbundu_term": "Kumemona",
+      "portuguese_translation": "Debicar",
+      "definition": null,
+      "alternative_meanings": [
+        "crivar (com o bico)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumemona-1 — https://www.kimbundu.org/pt/word/kumemona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10627,
+      "kimbundu_term": "Kumemona",
+      "portuguese_translation": "Bicada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumemona-1 — https://www.kimbundu.org/pt/word/kumemona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10628,
+      "kimbundu_term": "Kumendala",
+      "portuguese_translation": "(port) Aumentar",
+      "definition": null,
+      "alternative_meanings": [
+        "emendar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumendala-1 — https://www.kimbundu.org/pt/word/kumendala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10629,
+      "kimbundu_term": "Kumeneka",
+      "portuguese_translation": "Matinar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumeneka-1 — https://www.kimbundu.org/pt/word/kumeneka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10630,
+      "kimbundu_term": "Kumeneka",
+      "portuguese_translation": "Kurimeneka, e r. Madrugar",
+      "definition": null,
+      "alternative_meanings": [
+        "Antecipar-se",
+        "adiantar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumeneka-1 — https://www.kimbundu.org/pt/word/kumeneka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10631,
+      "kimbundu_term": "Kumenekena",
+      "portuguese_translation": "Cantar matinas",
+      "definition": null,
+      "alternative_meanings": [
+        "cumprimentar",
+        "saudar",
+        "Enviar recordações",
+        "Salvar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumenekena-1 — https://www.kimbundu.org/pt/word/kumenekena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10632,
+      "kimbundu_term": "Kumenekena",
+      "portuguese_translation": "Saudação",
+      "definition": null,
+      "alternative_meanings": [
+        "vénia",
+        "cortesia"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumenekena-1 — https://www.kimbundu.org/pt/word/kumenekena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10633,
+      "kimbundu_term": "Kumenekena",
+      "portuguese_translation": "Kurimenekena, v. r. Trocar saudações",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumenekena-1 — https://www.kimbundu.org/pt/word/kumenekena",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
