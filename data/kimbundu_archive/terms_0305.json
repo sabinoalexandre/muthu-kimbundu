@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3154,
+      "kimbundu_term": "Kaditenda",
+      "portuguese_translation": "Peça (de fogo) de pequeno calibre",
+      "definition": null,
+      "alternative_meanings": [
+        "Obus"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaditenda-1 — https://www.kimbundu.org/pt/word/kaditenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3155,
+      "kimbundu_term": "Kaditodi",
+      "portuguese_translation": "Pequeno resíduo ou detrito de peixe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaditodi-1 — https://www.kimbundu.org/pt/word/kaditodi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3156,
+      "kimbundu_term": "Kaditodi",
+      "portuguese_translation": "Feto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaditodi-1 — https://www.kimbundu.org/pt/word/kaditodi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3157,
+      "kimbundu_term": "Kadivulu",
+      "portuguese_translation": "Livrinho",
+      "definition": null,
+      "alternative_meanings": [
+        "livrete"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kadivulu-1 — https://www.kimbundu.org/pt/word/kadivulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3158,
+      "kimbundu_term": "Kadixisa",
+      "portuguese_translation": "Esteirinha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kadixisa-1 — https://www.kimbundu.org/pt/word/kadixisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3159,
+      "kimbundu_term": "Kadixisa",
+      "portuguese_translation": "Planta fam. das euforbiáceas (tragia okanima)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kadixisa-1 — https://www.kimbundu.org/pt/word/kadixisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3160,
+      "kimbundu_term": "Kadizanga",
+      "portuguese_translation": "Pequeno lago",
+      "definition": null,
+      "alternative_meanings": [
+        "Poço de água",
+        "Charco"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kadizanga-1 — https://www.kimbundu.org/pt/word/kadizanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3161,
+      "kimbundu_term": "Kadizundu",
+      "portuguese_translation": "Sapo pequeno",
+      "definition": null,
+      "alternative_meanings": [
+        "Rela"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kadizundu-1 — https://www.kimbundu.org/pt/word/kadizundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3162,
+      "kimbundu_term": "Kadizungu",
+      "portuguese_translation": "Pequeno buraco ou furo",
+      "definition": null,
+      "alternative_meanings": [
+        "Orifício: ostíolo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kadizungu-1 — https://www.kimbundu.org/pt/word/kadizungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3163,
+      "kimbundu_term": "Kadizungu",
+      "portuguese_translation": "Fresta estreita aberta na parede para dar claridade a uma habitação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kadizungu-1 — https://www.kimbundu.org/pt/word/kadizungu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
