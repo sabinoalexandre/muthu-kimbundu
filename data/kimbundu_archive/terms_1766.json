@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17764,
+      "kimbundu_term": "Ndimba",
+      "portuguese_translation": "Pessoa astuciosa, esperta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndimba-1 — https://www.kimbundu.org/pt/word/ndimba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17765,
+      "kimbundu_term": "Ndindi",
+      "portuguese_translation": "Povoação e sede do posto da circunscrição civil de Quilengues, distrito e província da Huíla, com 6.060 habitantes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndindi-1 — https://www.kimbundu.org/pt/word/ndindi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17766,
+      "kimbundu_term": "Ndíngu",
+      "portuguese_translation": "Capim",
+      "definition": null,
+      "alternative_meanings": [
+        "Planta herbácea de colmos lenhosos, compridos, tenazes e cortantes (Setaria Welwitschii)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndíngu-1 — https://www.kimbundu.org/pt/word/ndingu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17767,
+      "kimbundu_term": "Ndlém",
+      "portuguese_translation": "Onomatopeia do som do dinheiro ou do toque da sineta",
+      "definition": null,
+      "alternative_meanings": [
+        "tlim. Usa-se mais repetido: tlim-tlim"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição, onomatopaico",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndlém-1 — https://www.kimbundu.org/pt/word/ndlem",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17768,
+      "kimbundu_term": "Ndo",
+      "portuguese_translation": "Do português 'dó'. Luto",
+      "definition": null,
+      "alternative_meanings": [
+        "vestuário preto",
+        "demonstração de tristeza"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndo-1 — https://www.kimbundu.org/pt/word/ndo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17769,
+      "kimbundu_term": "Ndóbi",
+      "portuguese_translation": "Ladrilho",
+      "definition": null,
+      "alternative_meanings": [
+        "tijolo",
+        "barro amassado e modelado que se seca ao sol",
+        "adufo",
+        "tijolo cru",
+        "adobe"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndóbi-1 — https://www.kimbundu.org/pt/word/ndobi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17770,
+      "kimbundu_term": "Ndôdi",
+      "portuguese_translation": "(zoologia) Gafanhoto verde",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndôdi-1 — https://www.kimbundu.org/pt/word/ndodi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17771,
+      "kimbundu_term": "Ndôko",
+      "portuguese_translation": "Familiar: valeu",
+      "definition": null,
+      "alternative_meanings": [
+        "vá",
+        "vamos",
+        "aceito",
+        "consinto"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndôko-1 — https://www.kimbundu.org/pt/word/ndoko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17772,
+      "kimbundu_term": "Ndôlo",
+      "portuguese_translation": "Espécie de búzio",
+      "definition": null,
+      "alternative_meanings": [
+        "pequena concha univalve"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndôlo-1 — https://www.kimbundu.org/pt/word/ndolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17773,
+      "kimbundu_term": "Ndôlo",
+      "portuguese_translation": "Planta medicinal, da família das compostas",
+      "definition": null,
+      "alternative_meanings": [
+        "planta ornamental (Vernonia auriculifera)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndôlo-1 — https://www.kimbundu.org/pt/word/ndolo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
