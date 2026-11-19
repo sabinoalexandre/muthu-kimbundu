@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16264,
+      "kimbundu_term": "Mujinjingu",
+      "portuguese_translation": "Costas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mujinjingu-1 — https://www.kimbundu.org/pt/word/mujinjingu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16265,
+      "kimbundu_term": "Mujinya",
+      "portuguese_translation": "Cotão, algodão em rama",
+      "definition": null,
+      "alternative_meanings": [
+        "Algodoeiro",
+        "sua semente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mujinya-1 — https://www.kimbundu.org/pt/word/mujinya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16266,
+      "kimbundu_term": "Mujitu",
+      "portuguese_translation": "Respeitador",
+      "definition": null,
+      "alternative_meanings": [
+        "atencioso",
+        "honesto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mujitu-1 — https://www.kimbundu.org/pt/word/mujitu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16267,
+      "kimbundu_term": "Mujitu",
+      "portuguese_translation": "Pessoa que usa da cortesia",
+      "definition": null,
+      "alternative_meanings": [
+        "urbano"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mujitu-1 — https://www.kimbundu.org/pt/word/mujitu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16268,
+      "kimbundu_term": "Mujitu",
+      "portuguese_translation": "Hóspede",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mujitu-1 — https://www.kimbundu.org/pt/word/mujitu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16269,
+      "kimbundu_term": "Mujómbe",
+      "portuguese_translation": "Pequena árvore de sombra, de folhas lanceoladas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mujómbe-1 — https://www.kimbundu.org/pt/word/mujombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16270,
+      "kimbundu_term": "Mújongolo",
+      "portuguese_translation": "Planta da família das ebanáceas (Diospyros mespiliformis), utilizada para sebes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mújongolo-1 — https://www.kimbundu.org/pt/word/mujongolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16271,
+      "kimbundu_term": "Mújongolo",
+      "portuguese_translation": "Silveira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mújongolo-1 — https://www.kimbundu.org/pt/word/mujongolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16272,
+      "kimbundu_term": "Múju",
+      "portuguese_translation": "Fio ou cordão fino (de ouro) de trazer ao pescoço",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múju-1 — https://www.kimbundu.org/pt/word/muju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16273,
+      "kimbundu_term": "Múju",
+      "portuguese_translation": "Trancelim",
+      "definition": null,
+      "alternative_meanings": [
+        "muje"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múju-1 — https://www.kimbundu.org/pt/word/muju",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
