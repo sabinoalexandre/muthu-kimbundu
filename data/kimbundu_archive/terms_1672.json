@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16824,
+      "kimbundu_term": "Múnange",
+      "portuguese_translation": "Jornaleiro",
+      "definition": null,
+      "alternative_meanings": [
+        "Pessoa que passa o dia em algum lugar",
+        "Estacionário"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múnange-1 — https://www.kimbundu.org/pt/word/munange",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16825,
+      "kimbundu_term": "Múnangu",
+      "portuguese_translation": "Jornada",
+      "definition": null,
+      "alternative_meanings": [
+        "façanha",
+        "Etapa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múnangu-1 — https://www.kimbundu.org/pt/word/munangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16826,
+      "kimbundu_term": "Múnangu",
+      "portuguese_translation": "Passadio",
+      "definition": null,
+      "alternative_meanings": [
+        "vida",
+        "costume",
+        "Diário"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múnangu-1 — https://www.kimbundu.org/pt/word/munangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16827,
+      "kimbundu_term": "Munangulundu",
+      "portuguese_translation": "Macacauba",
+      "definition": null,
+      "alternative_meanings": [
+        "Árvore fam. das ebenáceas, de rija madeira",
+        "Granadilho",
+        "ébano vermelho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munangulundu-1 — https://www.kimbundu.org/pt/word/munangulundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16828,
+      "kimbundu_term": "Munaulususu",
+      "portuguese_translation": "Árvore tb. conhecida por musanguixi, própria para construções",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munaulususu-1 — https://www.kimbundu.org/pt/word/munaulususu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16829,
+      "kimbundu_term": "Mundai",
+      "portuguese_translation": "Planta rubiácea (gardenia jovis-tonantis), que, segundo crença, tem a propriedade de fazer parar o raio",
+      "definition": null,
+      "alternative_meanings": [
+        "Planta feiticeira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mundai-1 — https://www.kimbundu.org/pt/word/mundai",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16830,
+      "kimbundu_term": "Mundalangole",
+      "portuguese_translation": "Tamareira",
+      "definition": null,
+      "alternative_meanings": [
+        "Grelo da palmeira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mundalangole-1 — https://www.kimbundu.org/pt/word/mundalangole",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16831,
+      "kimbundu_term": "Mundámbe",
+      "portuguese_translation": "Preparador",
+      "definition": null,
+      "alternative_meanings": [
+        "manipulador",
+        "compositor"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mundámbe-1 — https://www.kimbundu.org/pt/word/mundambe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16832,
+      "kimbundu_term": "Mundangala",
+      "portuguese_translation": "Malaquite",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mundangala-1 — https://www.kimbundu.org/pt/word/mundangala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16833,
+      "kimbundu_term": "Mundangalanga",
+      "portuguese_translation": "Árvore da borracha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mundangalanga-1 — https://www.kimbundu.org/pt/word/mundangalanga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
