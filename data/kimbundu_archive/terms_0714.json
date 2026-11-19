@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7244,
+      "kimbundu_term": "Kúbekela",
+      "portuguese_translation": "Apresentar",
+      "definition": null,
+      "alternative_meanings": [
+        "conduzir (por alguém ou por via de)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbekela-1 — https://www.kimbundu.org/pt/word/kubekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7245,
+      "kimbundu_term": "Kúbekela",
+      "portuguese_translation": "Levar para",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbekela-1 — https://www.kimbundu.org/pt/word/kubekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7246,
+      "kimbundu_term": "Kubeketa",
+      "portuguese_translation": "Ser oleoso",
+      "definition": null,
+      "alternative_meanings": [
+        "ter luzimento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubeketa-1 — https://www.kimbundu.org/pt/word/kubeketa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7247,
+      "kimbundu_term": "Kubekuka",
+      "portuguese_translation": "Desviar-se (por uma travessa)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubekuka-1 — https://www.kimbundu.org/pt/word/kubekuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7248,
+      "kimbundu_term": "Kubekuka",
+      "portuguese_translation": "Dobrar (uma esquina)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubekuka-1 — https://www.kimbundu.org/pt/word/kubekuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7249,
+      "kimbundu_term": "Kubekuka",
+      "portuguese_translation": "Sair de uma rua para outra transversal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubekuka-1 — https://www.kimbundu.org/pt/word/kubekuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7250,
+      "kimbundu_term": "Kubekukila",
+      "portuguese_translation": "Esquinar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, intransitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubekukila-1 — https://www.kimbundu.org/pt/word/kubekukila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7251,
+      "kimbundu_term": "Kubekukila",
+      "portuguese_translation": "Tomar por caminho outro que enquadra no principal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, intransitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubekukila-1 — https://www.kimbundu.org/pt/word/kubekukila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7252,
+      "kimbundu_term": "Kubekukila",
+      "portuguese_translation": "Seguir por uma travessa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, intransitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubekukila-1 — https://www.kimbundu.org/pt/word/kubekukila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7253,
+      "kimbundu_term": "Kubekukisa",
+      "portuguese_translation": "Fazer tomar caminho que parte do principal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubekukisa-1 — https://www.kimbundu.org/pt/word/kubekukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
