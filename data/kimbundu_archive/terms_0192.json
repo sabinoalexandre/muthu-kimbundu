@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2024,
+      "kimbundu_term": "Ibutilu",
+      "portuguese_translation": "Instrumentos que servem para rasoirar, tosquiar ou rapar (cabelos)",
+      "definition": null,
+      "alternative_meanings": [
+        "Tesouras",
+        "navalhas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ibutilu-1 — https://www.kimbundu.org/pt/word/ibutilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2025,
+      "kimbundu_term": "Ibutu",
+      "portuguese_translation": "Tosquias",
+      "definition": null,
+      "alternative_meanings": [
+        "Cortes de cabelo",
+        "Tosquiaduras",
+        "Razias"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ibutu-1 — https://www.kimbundu.org/pt/word/ibutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2026,
+      "kimbundu_term": "Ibwa",
+      "portuguese_translation": "Cambalhotas",
+      "definition": null,
+      "alternative_meanings": [
+        "Tombos",
+        "Quedas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ibwa-1 — https://www.kimbundu.org/pt/word/ibwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2027,
+      "kimbundu_term": "Idiandu",
+      "portuguese_translation": "As partes dos corpos organizados",
+      "definition": null,
+      "alternative_meanings": [
+        "Órgãos",
+        "Os membros do corpo",
+        "As articulações (dos ossos)",
+        "Juntas",
+        "Pontos em que dois órgãos ou membros se juntam",
+        "Os braços",
+        "as pernas, os dedos. As partes de um todo (separados do corpo)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, idiandu-1 — https://www.kimbundu.org/pt/word/idiandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2028,
+      "kimbundu_term": "Idibukanu",
+      "portuguese_translation": "Tropeções",
+      "definition": null,
+      "alternative_meanings": [
+        "Cousas em que se tropeça",
+        "Tropeços: obstáculos",
+        "Impedilhos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, idibukanu-1 — https://www.kimbundu.org/pt/word/idibukanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2029,
+      "kimbundu_term": "Îdie",
+      "portuguese_translation": "Géneros alimentícios",
+      "definition": null,
+      "alternative_meanings": [
+        "Comestíveis",
+        "Víveres"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, îdie-1 — https://www.kimbundu.org/pt/word/idie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2030,
+      "kimbundu_term": "Îdie",
+      "portuguese_translation": "Cómes e bebes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, îdie-1 — https://www.kimbundu.org/pt/word/idie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2031,
+      "kimbundu_term": "Idíma",
+      "portuguese_translation": "Nome genérico de todas as plantas (cereais, hortaliças e legumes)",
+      "definition": null,
+      "alternative_meanings": [
+        "Vegetais",
+        "Produção das lavras",
+        "Mantimentos e frutos colhidos das lavras, hortas e pomares",
+        "Quantidade de culturas",
+        "Produtos (agrícolas)",
+        "O que o solo produz"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, idíma-1 — https://www.kimbundu.org/pt/word/idima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2032,
+      "kimbundu_term": "Idiuanu",
+      "portuguese_translation": "Maravilhas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, idiuanu-1 — https://www.kimbundu.org/pt/word/idiuanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2033,
+      "kimbundu_term": "Iê",
+      "portuguese_translation": "Teu",
+      "definition": null,
+      "alternative_meanings": [
+        "tua",
+        "Da tua pessoa",
+        "Pertencentes à tua pessoa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iê-1 — https://www.kimbundu.org/pt/word/ie",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
