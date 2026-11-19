@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7434,
+      "kimbundu_term": "Kubhinjika",
+      "portuguese_translation": "Forçar",
+      "definition": null,
+      "alternative_meanings": [
+        "constranger",
+        "Obrigar",
+        "tolher",
+        "Causar embaraço"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhinjika-1 — https://www.kimbundu.org/pt/word/kubhinjika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7435,
+      "kimbundu_term": "Kubhinjika",
+      "portuguese_translation": "Kuribínjika, v. r. Obrigar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "meter-se em dificuldades"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhinjika-1 — https://www.kimbundu.org/pt/word/kubhinjika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7436,
+      "kimbundu_term": "Kubhita",
+      "portuguese_translation": "Passar, transpor",
+      "definition": null,
+      "alternative_meanings": [
+        "deixar para trás"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhita-1 — https://www.kimbundu.org/pt/word/kubhita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7437,
+      "kimbundu_term": "Kubhita",
+      "portuguese_translation": "Atravessar",
+      "definition": null,
+      "alternative_meanings": [
+        "transitar",
+        "ir mais longe"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhita-1 — https://www.kimbundu.org/pt/word/kubhita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7438,
+      "kimbundu_term": "Kubhita",
+      "portuguese_translation": "Decorrer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhita-1 — https://www.kimbundu.org/pt/word/kubhita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7439,
+      "kimbundu_term": "Kubhita",
+      "portuguese_translation": "Suceder, acontecer inesperadamente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhita-1 — https://www.kimbundu.org/pt/word/kubhita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7440,
+      "kimbundu_term": "Kubhita",
+      "portuguese_translation": "Ocorrer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhita-1 — https://www.kimbundu.org/pt/word/kubhita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7441,
+      "kimbundu_term": "Kubhita",
+      "portuguese_translation": "Passar e repassar",
+      "definition": null,
+      "alternative_meanings": [
+        "transitar muitas vezes"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhita-1 — https://www.kimbundu.org/pt/word/kubhita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7442,
+      "kimbundu_term": "Kubhitila",
+      "portuguese_translation": "Passar, transitar, correr por",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhitila-1 — https://www.kimbundu.org/pt/word/kubhitila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7443,
+      "kimbundu_term": "Kubhitisa",
+      "portuguese_translation": "Fazer ou deixar passar, atravessar, coar, filtrar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhitisa-1 — https://www.kimbundu.org/pt/word/kubhitisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
