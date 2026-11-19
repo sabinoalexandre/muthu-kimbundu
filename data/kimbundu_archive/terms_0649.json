@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6594,
+      "kimbundu_term": "Kixikanu",
+      "portuguese_translation": "Crença",
+      "definition": null,
+      "alternative_meanings": [
+        "Confiança",
+        "Convicção",
+        "Fé",
+        "Adesão absoluta do espírito àquilo que se considera verdadeiro",
+        "Esperança firme",
+        "Fidelidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixikanu-1 — https://www.kimbundu.org/pt/word/kixikanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6595,
+      "kimbundu_term": "Kixikanu",
+      "portuguese_translation": "Credo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixikanu-2 — https://www.kimbundu.org/pt/word/kixikanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6596,
+      "kimbundu_term": "Kixikela",
+      "portuguese_translation": "Escuridão",
+      "definition": null,
+      "alternative_meanings": [
+        "trevas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixikela-1 — https://www.kimbundu.org/pt/word/kixikela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6597,
+      "kimbundu_term": "Kixikila",
+      "portuguese_translation": "Dinheiro, ração ou salário que um operário dá a outro para, no fim da semana ou mês, restituir-lh'o em dobro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixikila-1 — https://www.kimbundu.org/pt/word/kixikila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6598,
+      "kimbundu_term": "Kixikinu",
+      "portuguese_translation": "Sossego",
+      "definition": null,
+      "alternative_meanings": [
+        "quietação",
+        "comodidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixikinu-1 — https://www.kimbundu.org/pt/word/kixikinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6599,
+      "kimbundu_term": "Kixikinu",
+      "portuguese_translation": "Aprovação",
+      "definition": null,
+      "alternative_meanings": [
+        "Assentimento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixikinu-1 — https://www.kimbundu.org/pt/word/kixikinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6600,
+      "kimbundu_term": "Kixila",
+      "portuguese_translation": "Tradição",
+      "definition": null,
+      "alternative_meanings": [
+        "Símbolo",
+        "memória",
+        "recordação",
+        "hábito",
+        "O que se deixa ou transmite a outros",
+        "Via pela qual os factos ou dogmas, usos ou costumes são transmitidos de geração em geração",
+        "Transferência perene de bens ou direitos",
+        "Deixação",
+        "legado",
+        "Testamento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixila-1 — https://www.kimbundu.org/pt/word/kixila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6601,
+      "kimbundu_term": "Kixiluanda",
+      "portuguese_translation": "Papas de farinha com peixe guisado",
+      "definition": null,
+      "alternative_meanings": [
+        "Mingau"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixiluanda-1 — https://www.kimbundu.org/pt/word/kixiluanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6602,
+      "kimbundu_term": "Kixima",
+      "portuguese_translation": "Tanque",
+      "definition": null,
+      "alternative_meanings": [
+        "Cisterna"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixima-1 — https://www.kimbundu.org/pt/word/kixima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6603,
+      "kimbundu_term": "Kixímba",
+      "portuguese_translation": "Imbecil",
+      "definition": null,
+      "alternative_meanings": [
+        "desajeitado",
+        "sem habilidade"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixímba-1 — https://www.kimbundu.org/pt/word/kiximba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
