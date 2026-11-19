@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14184,
+      "kimbundu_term": "Luêbi",
+      "portuguese_translation": "interrog. Qual? Que dile",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, luêbi-1 — https://www.kimbundu.org/pt/word/luebi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14185,
+      "kimbundu_term": "Luéi",
+      "portuguese_translation": "Pequeno afluente da margem esquerda do Quanza, no distr. do Moxico, prov. do Bié",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, luéi-1 — https://www.kimbundu.org/pt/word/luei",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14186,
+      "kimbundu_term": "Lueka",
+      "portuguese_translation": "Nome por que na região do Seles é conhecida a árvore mukuákasa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lueka-1 — https://www.kimbundu.org/pt/word/lueka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14187,
+      "kimbundu_term": "Luêna",
+      "portuguese_translation": "Grande rio que deu o nome à região que atravessa, afluente direito do Zimbaze, com o curso no território do distr. do Mo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, luêna-1 — https://www.kimbundu.org/pt/word/luena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14188,
+      "kimbundu_term": "Luêngi",
+      "portuguese_translation": "(VI) Diferente",
+      "definition": null,
+      "alternative_meanings": [
+        "Diverso",
+        "distinto",
+        "não o mesmo",
+        "Pl. mêngi"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, luêngi-1 — https://www.kimbundu.org/pt/word/luengi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14189,
+      "kimbundu_term": "Luêze",
+      "portuguese_translation": "Afluente da margem direita do rio Luándu, na região do Moxico, distr. do Bié",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, luêze-1 — https://www.kimbundu.org/pt/word/lueze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14190,
+      "kimbundu_term": "Lúfeku",
+      "portuguese_translation": "(VI) port. Refego",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lúfeku-1 — https://www.kimbundu.org/pt/word/lufeku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14191,
+      "kimbundu_term": "Lúfiku",
+      "portuguese_translation": "(VI) Birateio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lúfiku-1 — https://www.kimbundu.org/pt/word/lufiku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14192,
+      "kimbundu_term": "Lúfiku",
+      "portuguese_translation": "Pov. e sede do posto da cir. civ. de Nóqui, distr. do Zaire e prov. de Luanda, 1.203 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lúfiku-1 — https://www.kimbundu.org/pt/word/lufiku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14193,
+      "kimbundu_term": "Lufúku",
+      "portuguese_translation": "(VI) Perversidade",
+      "definition": null,
+      "alternative_meanings": [
+        "malvadez"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lufúku-1 — https://www.kimbundu.org/pt/word/lufuku",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
