@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8284,
+      "kimbundu_term": "Kúdiuisa",
+      "portuguese_translation": "Fazer carunchar, corroer, destruir pelo salalé",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúdiuisa-1 — https://www.kimbundu.org/pt/word/kudiuisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8285,
+      "kimbundu_term": "Kudiulula",
+      "portuguese_translation": "Convalescer",
+      "definition": null,
+      "alternative_meanings": [
+        "ir-se restabelecendo (da doença)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudiulula-1 — https://www.kimbundu.org/pt/word/kudiulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8286,
+      "kimbundu_term": "Kúdiunga",
+      "portuguese_translation": "Estar isolado, só. Afastar-se da convivência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúdiunga-1 — https://www.kimbundu.org/pt/word/kudiunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8287,
+      "kimbundu_term": "Kudiungisa",
+      "portuguese_translation": "Conservar isolado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudiungisa-1 — https://www.kimbundu.org/pt/word/kudiungisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8288,
+      "kimbundu_term": "Kudiununa",
+      "portuguese_translation": "Espreguçar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "retezar-se. Distender os músculos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudiununa-1 — https://www.kimbundu.org/pt/word/kudiununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8289,
+      "kimbundu_term": "Kudiununa",
+      "portuguese_translation": "Espreguiçamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudiununa-1 — https://www.kimbundu.org/pt/word/kudiununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8290,
+      "kimbundu_term": "Kúdivisa",
+      "portuguese_translation": "Fazer-se ouvir",
+      "definition": null,
+      "alternative_meanings": [
+        "dar sinal de si (falando). Dar-se a conhecer (pela voz)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúdivisa-1 — https://www.kimbundu.org/pt/word/kudivisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8291,
+      "kimbundu_term": "Kúdivua",
+      "portuguese_translation": "Ouvir no [lado] do outro. Audir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúdivua-1 — https://www.kimbundu.org/pt/word/kudivua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8292,
+      "kimbundu_term": "Kudivuzakanya",
+      "portuguese_translation": "Despir a armadura, as armas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudivuzakanya-1 — https://www.kimbundu.org/pt/word/kudivuzakanya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8293,
+      "kimbundu_term": "Kudixiba",
+      "portuguese_translation": "Calar-se. Não produzir ruído nem som",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudixiba-1 — https://www.kimbundu.org/pt/word/kudixiba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
