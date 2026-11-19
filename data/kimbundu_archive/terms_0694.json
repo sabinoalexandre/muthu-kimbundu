@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7044,
+      "kimbundu_term": "Kubamuna",
+      "portuguese_translation": "Destruir",
+      "definition": null,
+      "alternative_meanings": [
+        "matar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubamuna-1 — https://www.kimbundu.org/pt/word/kubamuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7045,
+      "kimbundu_term": "Kubana",
+      "portuguese_translation": "Dar",
+      "definition": null,
+      "alternative_meanings": [
+        "entregar",
+        "presentear",
+        "oferecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubana-1 — https://www.kimbundu.org/pt/word/kubana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7046,
+      "kimbundu_term": "Kubana",
+      "portuguese_translation": "Permitir",
+      "definition": null,
+      "alternative_meanings": [
+        "consentir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubana-1 — https://www.kimbundu.org/pt/word/kubana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7047,
+      "kimbundu_term": "Kubana",
+      "portuguese_translation": "Tocar",
+      "definition": null,
+      "alternative_meanings": [
+        "espancar",
+        "bater"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubana-1 — https://www.kimbundu.org/pt/word/kubana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7048,
+      "kimbundu_term": "Kubana",
+      "portuguese_translation": "Agasalhar",
+      "definition": null,
+      "alternative_meanings": [
+        "acomodar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubana-1 — https://www.kimbundu.org/pt/word/kubana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7049,
+      "kimbundu_term": "Kubana",
+      "portuguese_translation": "Ensinar",
+      "definition": null,
+      "alternative_meanings": [
+        "aconselhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubana-1 — https://www.kimbundu.org/pt/word/kubana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7050,
+      "kimbundu_term": "Kubana",
+      "portuguese_translation": "Dar atenção",
+      "definition": null,
+      "alternative_meanings": [
+        "ouvir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubana-1 — https://www.kimbundu.org/pt/word/kubana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7051,
+      "kimbundu_term": "Kubana",
+      "portuguese_translation": "Entoar",
+      "definition": null,
+      "alternative_meanings": [
+        "cantar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubana-1 — https://www.kimbundu.org/pt/word/kubana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7052,
+      "kimbundu_term": "Kubana",
+      "portuguese_translation": "bana",
+      "definition": null,
+      "alternative_meanings": [
+        "Dar sempre, constantemente",
+        "Dar continuamente, todos os dias"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubana-1 — https://www.kimbundu.org/pt/word/kubana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7053,
+      "kimbundu_term": "Kubana",
+      "portuguese_translation": "— jinga Dar sempre",
+      "definition": null,
+      "alternative_meanings": [
+        "sem cessar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubana-1 — https://www.kimbundu.org/pt/word/kubana",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
