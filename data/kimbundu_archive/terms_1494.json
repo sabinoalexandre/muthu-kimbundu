@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15044,
+      "kimbundu_term": "Mazúmbila",
+      "portuguese_translation": "Figuras",
+      "definition": null,
+      "alternative_meanings": [
+        "vultos",
+        "fantasmas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mazúmbila-1 — https://www.kimbundu.org/pt/word/mazumbila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15045,
+      "kimbundu_term": "Mázundu",
+      "portuguese_translation": "Família de batráquios ranídeos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mázundu-1 — https://www.kimbundu.org/pt/word/mazundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15046,
+      "kimbundu_term": "Mázungu",
+      "portuguese_translation": "Buracos",
+      "definition": null,
+      "alternative_meanings": [
+        "furos",
+        "Saídas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mázungu-1 — https://www.kimbundu.org/pt/word/mazungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15047,
+      "kimbundu_term": "Mázunu",
+      "portuguese_translation": "Narizes",
+      "definition": null,
+      "alternative_meanings": [
+        "feições"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mázunu-1 — https://www.kimbundu.org/pt/word/mazunu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15048,
+      "kimbundu_term": "Mázwi",
+      "portuguese_translation": "Vozes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mázwi-1 — https://www.kimbundu.org/pt/word/mazwi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15049,
+      "kimbundu_term": "Mázwi",
+      "portuguese_translation": "Reparos",
+      "definition": null,
+      "alternative_meanings": [
+        "Exprobação",
+        "censuras"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mázwi-1 — https://www.kimbundu.org/pt/word/mazwi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15050,
+      "kimbundu_term": "Mba",
+      "portuguese_translation": "Ora essa! Pois não!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, advérbio, conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mba-1 — https://www.kimbundu.org/pt/word/mba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15051,
+      "kimbundu_term": "Mba",
+      "portuguese_translation": "Mas",
+      "definition": null,
+      "alternative_meanings": [
+        "porém",
+        "todavia",
+        "também",
+        "por enquanto"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição, advérbio, conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mba-1 — https://www.kimbundu.org/pt/word/mba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15052,
+      "kimbundu_term": "Mba",
+      "portuguese_translation": "Conjunção que indica alternativa: ou",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, advérbio, conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mba-1 — https://www.kimbundu.org/pt/word/mba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15053,
+      "kimbundu_term": "Mba",
+      "portuguese_translation": "Se",
+      "definition": null,
+      "alternative_meanings": [
+        "no caso de",
+        "se acaso",
+        "dando-se a circunstância de"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição, advérbio, conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mba-1 — https://www.kimbundu.org/pt/word/mba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
