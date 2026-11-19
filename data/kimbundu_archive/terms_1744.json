@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17544,
+      "kimbundu_term": "Muzuídi",
+      "portuguese_translation": "Espicha",
+      "definition": null,
+      "alternative_meanings": [
+        "Enfiada",
+        "Fio de uma série de coisas"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzuídi-1 — https://www.kimbundu.org/pt/word/muzuidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17545,
+      "kimbundu_term": "Muzuike",
+      "portuguese_translation": "Amolador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzuike-1 — https://www.kimbundu.org/pt/word/muzuike",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17546,
+      "kimbundu_term": "Múzuke",
+      "portuguese_translation": "Pilador",
+      "definition": null,
+      "alternative_meanings": [
+        "Que tritura por meio de pilão"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múzuke-1 — https://www.kimbundu.org/pt/word/muzuke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17547,
+      "kimbundu_term": "Muzukita",
+      "portuguese_translation": "Diz-se dos alimentos ou frutos que cozem ao calor (no borralho)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzukita-1 — https://www.kimbundu.org/pt/word/muzukita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17548,
+      "kimbundu_term": "Múzukutu",
+      "portuguese_translation": "Apoquentação, Importunação. É mais usado no pl. muzukutu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múzukutu-1 — https://www.kimbundu.org/pt/word/muzukutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17549,
+      "kimbundu_term": "Muzúmba",
+      "portuguese_translation": "Tábua",
+      "definition": null,
+      "alternative_meanings": [
+        "uma madeira muito rija, podendo servir de prego nas construções"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzúmba-1 — https://www.kimbundu.org/pt/word/muzumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17550,
+      "kimbundu_term": "Muzúmbu",
+      "portuguese_translation": "Rebordo",
+      "definition": null,
+      "alternative_meanings": [
+        "orla",
+        "lábio",
+        "beiço",
+        "Focinho",
+        "Boca",
+        "Bucelário",
+        "medianeiro",
+        "Tradutor",
+        "intérprete"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzúmbu-1 — https://www.kimbundu.org/pt/word/muzumbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17551,
+      "kimbundu_term": "Muzumu",
+      "portuguese_translation": "Planta fam. das rosáceas",
+      "definition": null,
+      "alternative_meanings": [
+        "rubus pinnatus, de propriedades medicinais e frutos comestíveis"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzumu-1 — https://www.kimbundu.org/pt/word/muzumu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17552,
+      "kimbundu_term": "Muzunda",
+      "portuguese_translation": "Planta de propriedades medicinais em casos de amigdalites",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzunda-1 — https://www.kimbundu.org/pt/word/muzunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17553,
+      "kimbundu_term": "Muzúndu",
+      "portuguese_translation": "Certo peixe de rio de ovas venenosas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzúndu-1 — https://www.kimbundu.org/pt/word/muzundu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
