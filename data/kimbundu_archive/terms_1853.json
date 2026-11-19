@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18634,
+      "kimbundu_term": "Pé",
+      "portuguese_translation": "Limpo",
+      "definition": null,
+      "alternative_meanings": [
+        "sem mancha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pé-1 — https://www.kimbundu.org/pt/word/pe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18635,
+      "kimbundu_term": "Pe",
+      "portuguese_translation": "copul. E",
+      "definition": null,
+      "alternative_meanings": [
+        "porém",
+        "contudo: eie–inga u lenga. Ora",
+        "portanto",
+        "à vista de tal"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção, copulativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pe-1 — https://www.kimbundu.org/pt/word/pe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18636,
+      "kimbundu_term": "Pe",
+      "portuguese_translation": "causat. Por",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "conjunção, causativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pe-2 — https://www.kimbundu.org/pt/word/pe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18637,
+      "kimbundu_term": "Pe",
+      "portuguese_translation": "Então",
+      "definition": null,
+      "alternative_meanings": [
+        "nesse caso"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pe-3 — https://www.kimbundu.org/pt/word/pe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18638,
+      "kimbundu_term": "Péba",
+      "portuguese_translation": "Peixe do mar semelhante à taínha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, péba-1 — https://www.kimbundu.org/pt/word/peba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18639,
+      "kimbundu_term": "Pekalu",
+      "portuguese_translation": "Pecado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pekalu-1 — https://www.kimbundu.org/pt/word/pekalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18640,
+      "kimbundu_term": "Péku",
+      "portuguese_translation": "Isento de sujidades. Claro",
+      "definition": null,
+      "alternative_meanings": [
+        "pelendende. —"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, péku-1 — https://www.kimbundu.org/pt/word/peku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18641,
+      "kimbundu_term": "Péku",
+      "portuguese_translation": "Lugar limpo, varrido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, péku-1 — https://www.kimbundu.org/pt/word/peku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18642,
+      "kimbundu_term": "Péla",
+      "portuguese_translation": "Haste de palmeira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, péla-1 — https://www.kimbundu.org/pt/word/pela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18643,
+      "kimbundu_term": "Péleka",
+      "portuguese_translation": "Perda. Prejuízo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, péleka-1 — https://www.kimbundu.org/pt/word/peleka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
