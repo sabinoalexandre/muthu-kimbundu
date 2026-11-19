@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18584,
+      "kimbundu_term": "Paláia",
+      "portuguese_translation": "Praia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, paláia-1 — https://www.kimbundu.org/pt/word/palaia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18585,
+      "kimbundu_term": "Paláia",
+      "portuguese_translation": "Nome com que d'antes era designada a parte baixa da cidade de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, paláia-1 — https://www.kimbundu.org/pt/word/palaia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18586,
+      "kimbundu_term": "Palaka",
+      "portuguese_translation": "Praga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, palaka-1 — https://www.kimbundu.org/pt/word/palaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18587,
+      "kimbundu_term": "Palakete",
+      "portuguese_translation": "Pargo pequeno",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, palakete-1 — https://www.kimbundu.org/pt/word/palakete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18588,
+      "kimbundu_term": "Palála",
+      "portuguese_translation": "Excremento líquido",
+      "definition": null,
+      "alternative_meanings": [
+        "diarreia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, palála-1 — https://www.kimbundu.org/pt/word/palala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18589,
+      "kimbundu_term": "Palama",
+      "portuguese_translation": "Rival",
+      "definition": null,
+      "alternative_meanings": [
+        "pretendente à posse da mesma mulher"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, palama-1 — https://www.kimbundu.org/pt/word/palama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18590,
+      "kimbundu_term": "Palama",
+      "portuguese_translation": "Antagonista",
+      "definition": null,
+      "alternative_meanings": [
+        "contrário"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, palama-1 — https://www.kimbundu.org/pt/word/palama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18591,
+      "kimbundu_term": "Palame",
+      "portuguese_translation": "Adúltero",
+      "definition": null,
+      "alternative_meanings": [
+        "Adulterado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, palame-1 — https://www.kimbundu.org/pt/word/palame",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18592,
+      "kimbundu_term": "Palánga",
+      "portuguese_translation": "Esteira sobre a qual se realiza a cerimónia do xinguilamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, palánga-1 — https://www.kimbundu.org/pt/word/palanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18593,
+      "kimbundu_term": "Palánga",
+      "portuguese_translation": "Quadrúpede ruminante cervino",
+      "definition": null,
+      "alternative_meanings": [
+        "Wapiti",
+        "veado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, palánga-1 — https://www.kimbundu.org/pt/word/palanga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
