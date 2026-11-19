@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7254,
+      "kimbundu_term": "Kubekukisa",
+      "portuguese_translation": "Mandar seguir por uma travessa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubekukisa-1 — https://www.kimbundu.org/pt/word/kubekukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7255,
+      "kimbundu_term": "Kubekumuna",
+      "portuguese_translation": "Assoprar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer vento (o tempo)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, impessoal",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubekumuna-1 — https://www.kimbundu.org/pt/word/kubekumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7256,
+      "kimbundu_term": "Kubekumuna",
+      "portuguese_translation": "Vento fresco e brando",
+      "definition": null,
+      "alternative_meanings": [
+        "Aragem"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, impessoal",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubekumuna-1 — https://www.kimbundu.org/pt/word/kubekumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7257,
+      "kimbundu_term": "Kúbela",
+      "portuguese_translation": "Estar magro",
+      "definition": null,
+      "alternative_meanings": [
+        "Definhar, enfraquecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbela-1 — https://www.kimbundu.org/pt/word/kubela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7258,
+      "kimbundu_term": "Kúbela",
+      "portuguese_translation": "Não ter razão",
+      "definition": null,
+      "alternative_meanings": [
+        "decair (em juízo.)",
+        "Pecar, ser culpado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbela-1 — https://www.kimbundu.org/pt/word/kubela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7259,
+      "kimbundu_term": "Kúbela",
+      "portuguese_translation": "Emagrecimento",
+      "definition": null,
+      "alternative_meanings": [
+        "Debilidade",
+        "fraqueza"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbela-1 — https://www.kimbundu.org/pt/word/kubela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7260,
+      "kimbundu_term": "Kubéla",
+      "portuguese_translation": "Pousar (de ou por cima)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubéla-1 — https://www.kimbundu.org/pt/word/kubela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7261,
+      "kimbundu_term": "Kubéla",
+      "portuguese_translation": "Empoleirar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "equilibrar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubéla-1 — https://www.kimbundu.org/pt/word/kubela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7262,
+      "kimbundu_term": "Kubeleketa",
+      "portuguese_translation": "Estar mole",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubeleketa-1 — https://www.kimbundu.org/pt/word/kubeleketa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7263,
+      "kimbundu_term": "Kubeleketa",
+      "portuguese_translation": "Ser flexível",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubeleketa-1 — https://www.kimbundu.org/pt/word/kubeleketa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
