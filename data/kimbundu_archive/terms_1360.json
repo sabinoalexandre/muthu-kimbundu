@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13704,
+      "kimbundu_term": "Kuzubidisa",
+      "portuguese_translation": "Consumar",
+      "definition": null,
+      "alternative_meanings": [
+        "ultimar",
+        "Rematar",
+        "Encerrar",
+        "finalizar",
+        "concluir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzubidisa-1 — https://www.kimbundu.org/pt/word/kuzubidisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13705,
+      "kimbundu_term": "Kúzubila",
+      "portuguese_translation": "Chibatar",
+      "definition": null,
+      "alternative_meanings": [
+        "bater",
+        "zurzir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúzubila-1 — https://www.kimbundu.org/pt/word/kuzubila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13706,
+      "kimbundu_term": "Kuzubisa",
+      "portuguese_translation": "Mandar acabar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer terminar, concluir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzubisa-1 — https://www.kimbundu.org/pt/word/kuzubisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13707,
+      "kimbundu_term": "Kuzudisa",
+      "portuguese_translation": "Fazer molhar, encharcar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzudisa-1 — https://www.kimbundu.org/pt/word/kuzudisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13708,
+      "kimbundu_term": "Kuzudisa",
+      "portuguese_translation": "Mandar desnudar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer despir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzudisa-1 — https://www.kimbundu.org/pt/word/kuzudisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13709,
+      "kimbundu_term": "Kuzudisa",
+      "portuguese_translation": "Kurizurisa, e r. Molhar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer-se despir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzudisa-1 — https://www.kimbundu.org/pt/word/kuzudisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13710,
+      "kimbundu_term": "Kuzuikila",
+      "portuguese_translation": "Amolar, afiar por meio de",
+      "definition": null,
+      "alternative_meanings": [
+        "Aguçar para"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzuikila-1 — https://www.kimbundu.org/pt/word/kuzuikila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13711,
+      "kimbundu_term": "Kuzuila",
+      "portuguese_translation": "Encambar",
+      "definition": null,
+      "alternative_meanings": [
+        "espichar",
+        "Enfiar",
+        "ensartar",
+        "Engarrafar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzuila-1 — https://www.kimbundu.org/pt/word/kuzuila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13712,
+      "kimbundu_term": "Kuzuila",
+      "portuguese_translation": "Kurizuíla, e r. fig. Embebedar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzuila-1 — https://www.kimbundu.org/pt/word/kuzuila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13713,
+      "kimbundu_term": "Kuzúka",
+      "portuguese_translation": "Estar furado, estragado pela broca",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzúka-1 — https://www.kimbundu.org/pt/word/kuzuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
