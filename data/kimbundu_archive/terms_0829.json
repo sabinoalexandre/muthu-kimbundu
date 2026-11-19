@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8394,
+      "kimbundu_term": "Kufenyesa",
+      "portuguese_translation": "Fazer aspirar, sorver",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufenyesa-1 — https://www.kimbundu.org/pt/word/kufenyesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8395,
+      "kimbundu_term": "Kufenyesa",
+      "portuguese_translation": "Dar a cheirar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufenyesa-1 — https://www.kimbundu.org/pt/word/kufenyesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8396,
+      "kimbundu_term": "Kuféta",
+      "portuguese_translation": "Segredar",
+      "definition": null,
+      "alternative_meanings": [
+        "dizer baixinho"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuféta-1 — https://www.kimbundu.org/pt/word/kufeta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8397,
+      "kimbundu_term": "Kuféta",
+      "portuguese_translation": "Som indistinto de palavras de quem murmura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuféta-1 — https://www.kimbundu.org/pt/word/kufeta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8398,
+      "kimbundu_term": "Kuféta",
+      "portuguese_translation": "Cochicheo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuféta-1 — https://www.kimbundu.org/pt/word/kufeta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8399,
+      "kimbundu_term": "Kufetala",
+      "portuguese_translation": "Enfeitar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufetala-1 — https://www.kimbundu.org/pt/word/kufetala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8400,
+      "kimbundu_term": "Kufetela",
+      "portuguese_translation": "Falar ao ouvido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufetela-1 — https://www.kimbundu.org/pt/word/kufetela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8401,
+      "kimbundu_term": "Kufetela",
+      "portuguese_translation": "Transmitir palavras em voz baixa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufetela-1 — https://www.kimbundu.org/pt/word/kufetela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8402,
+      "kimbundu_term": "Kufetela",
+      "portuguese_translation": "Cochichar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufetela-1 — https://www.kimbundu.org/pt/word/kufetela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8403,
+      "kimbundu_term": "Kufetela",
+      "portuguese_translation": "Kurifetela, v. r. Permutar segredos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufetela-1 — https://www.kimbundu.org/pt/word/kufetela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
