@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15324,
+      "kimbundu_term": "Mbuaze",
+      "portuguese_translation": "Leitariga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuaze-1 — https://www.kimbundu.org/pt/word/mbuaze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15325,
+      "kimbundu_term": "Mbuaze",
+      "portuguese_translation": "Poligala",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuaze-1 — https://www.kimbundu.org/pt/word/mbuaze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15326,
+      "kimbundu_term": "Mbuaze",
+      "portuguese_translation": "Erva leiteira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuaze-1 — https://www.kimbundu.org/pt/word/mbuaze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15327,
+      "kimbundu_term": "Mbuaze",
+      "portuguese_translation": "Planta euforbiácea de efeitos corrosivos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuaze-1 — https://www.kimbundu.org/pt/word/mbuaze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15328,
+      "kimbundu_term": "Mbuaze",
+      "portuguese_translation": "Maleiteira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuaze-1 — https://www.kimbundu.org/pt/word/mbuaze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15329,
+      "kimbundu_term": "Mbúdi",
+      "portuguese_translation": "Mamífero ruminante",
+      "definition": null,
+      "alternative_meanings": [
+        "Carneiro",
+        "Ovelha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbúdi-1 — https://www.kimbundu.org/pt/word/mbudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15330,
+      "kimbundu_term": "Mbuelekese",
+      "portuguese_translation": "Pedra geralmente redonda e lisa, de pequeno tamanho, que abunda nas praias, no leito dos rios e nas faldas dos montes. S",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuelekese-1 — https://www.kimbundu.org/pt/word/mbuelekese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15331,
+      "kimbundu_term": "Mbuélu",
+      "portuguese_translation": "Ver honga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuélu-1 — https://www.kimbundu.org/pt/word/mbuelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15332,
+      "kimbundu_term": "Mbuémbue",
+      "portuguese_translation": "Adjetivo. Que borbulha",
+      "definition": null,
+      "alternative_meanings": [
+        "que está em murmuração ou dado a ela",
+        "borbulhante",
+        "murmurador",
+        "maldizente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuémbue-1 — https://www.kimbundu.org/pt/word/mbuembue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15333,
+      "kimbundu_term": "Mbuémbue",
+      "portuguese_translation": "Substantivo. Som mal distinto",
+      "definition": null,
+      "alternative_meanings": [
+        "murmúrio",
+        "ruído das águas correntes",
+        "sussurro",
+        "borborinho"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuémbue-1 — https://www.kimbundu.org/pt/word/mbuembue",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
