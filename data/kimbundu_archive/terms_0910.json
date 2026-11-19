@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9204,
+      "kimbundu_term": "Kukambelela",
+      "portuguese_translation": "Empregar exorcismos. Apaziguar (os espíritos)",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer com que o mal se afaste do doente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukambelela-1 — https://www.kimbundu.org/pt/word/kukambelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9205,
+      "kimbundu_term": "Kukambelela",
+      "portuguese_translation": "Kurikambelela, v. r. Exorcizar-se. Fazer afastar de si o mal que o atormenta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukambelela-1 — https://www.kimbundu.org/pt/word/kukambelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9206,
+      "kimbundu_term": "Kukambesa",
+      "portuguese_translation": "Fazer faltar. Concorrer para não haver (o que é preciso). Privar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer escassear"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukambesa-1 — https://www.kimbundu.org/pt/word/kukambesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9207,
+      "kimbundu_term": "Kukambesa",
+      "portuguese_translation": "Kurikambesa, e r. Fazer-se faltar: —sonhi. Não ter consigo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukambesa-1 — https://www.kimbundu.org/pt/word/kukambesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9208,
+      "kimbundu_term": "Kukambudila",
+      "portuguese_translation": "Receber no ar o que outrem atira, ou apanhar o que vai caindo. Aparar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukambudila-1 — https://www.kimbundu.org/pt/word/kukambudila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9209,
+      "kimbundu_term": "Kukambula",
+      "portuguese_translation": "Agarrar, no ar, um objeto em movimento. Colher",
+      "definition": null,
+      "alternative_meanings": [
+        "não deixar cair"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukambula-1 — https://www.kimbundu.org/pt/word/kukambula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9210,
+      "kimbundu_term": "Kukamesa",
+      "portuguese_translation": "Mandar prensar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer expremer, comprimir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukamesa-1 — https://www.kimbundu.org/pt/word/kukamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9211,
+      "kimbundu_term": "Kukaminína",
+      "portuguese_translation": "Ficar entupido. Engasgar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukaminína-1 — https://www.kimbundu.org/pt/word/kukaminina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9212,
+      "kimbundu_term": "Kukaminísa",
+      "portuguese_translation": "Fazer engasgar, entupir a garganta de. Engorgar",
+      "definition": null,
+      "alternative_meanings": [
+        "sufocar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukaminísa-1 — https://www.kimbundu.org/pt/word/kukaminisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9213,
+      "kimbundu_term": "Kukaminísa",
+      "portuguese_translation": "Kurikaminisa, v. r. Embuchar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukaminísa-1 — https://www.kimbundu.org/pt/word/kukaminisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
