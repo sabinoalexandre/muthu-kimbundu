@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9914,
+      "kimbundu_term": "Kukwatela",
+      "portuguese_translation": "Kurikuatela, v. r. Ver com os próprios olhos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukwatela-1 — https://www.kimbundu.org/pt/word/kukwatela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9915,
+      "kimbundu_term": "Kukwatela",
+      "portuguese_translation": "Assegurar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "certificar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukwatela-1 — https://www.kimbundu.org/pt/word/kukwatela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9916,
+      "kimbundu_term": "Kukwatela",
+      "portuguese_translation": "Apanhar com a boca na botija",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukwatela-1 — https://www.kimbundu.org/pt/word/kukwatela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9917,
+      "kimbundu_term": "Kukwika",
+      "portuguese_translation": "Laçar",
+      "definition": null,
+      "alternative_meanings": [
+        "capturar",
+        "ter preso",
+        "sub. Captura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukwika-1 — https://www.kimbundu.org/pt/word/kukwika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9918,
+      "kimbundu_term": "Kukwika",
+      "portuguese_translation": "Kurikuka, e r. Entalar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "prender-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukwika-1 — https://www.kimbundu.org/pt/word/kukwika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9919,
+      "kimbundu_term": "Kukya",
+      "portuguese_translation": "Amanhecer",
+      "definition": null,
+      "alternative_meanings": [
+        "Ser manhã"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukya-1 — https://www.kimbundu.org/pt/word/kukya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9920,
+      "kimbundu_term": "Kula",
+      "portuguese_translation": "Nome por que é conhecida, em Cabinda, a leguminosa lukula",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kula-1 — https://www.kimbundu.org/pt/word/kula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9921,
+      "kimbundu_term": "Kúlaba",
+      "portuguese_translation": "Trepar",
+      "definition": null,
+      "alternative_meanings": [
+        "subir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlaba-1 — https://www.kimbundu.org/pt/word/kulaba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9922,
+      "kimbundu_term": "Kúlaba",
+      "portuguese_translation": "Subir enroscando-se como as plantas trepadeiras",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlaba-1 — https://www.kimbundu.org/pt/word/kulaba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9923,
+      "kimbundu_term": "Kulába",
+      "portuguese_translation": "Aplicar",
+      "definition": null,
+      "alternative_meanings": [
+        "besuntar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulába-1 — https://www.kimbundu.org/pt/word/kulaba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
