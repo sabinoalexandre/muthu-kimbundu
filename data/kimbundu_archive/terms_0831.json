@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8414,
+      "kimbundu_term": "Kufika",
+      "portuguese_translation": "Julgar possível",
+      "definition": null,
+      "alternative_meanings": [
+        "ser levado a pensar, a crer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufika-1 — https://www.kimbundu.org/pt/word/kufika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8415,
+      "kimbundu_term": "Kufika",
+      "portuguese_translation": "O que é barato, de pouco preço",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufika-1 — https://www.kimbundu.org/pt/word/kufika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8416,
+      "kimbundu_term": "Kufika",
+      "portuguese_translation": "Kurifika, v. r. Pensar, supor-se",
+      "definition": null,
+      "alternative_meanings": [
+        "ter-se na conta de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufika-1 — https://www.kimbundu.org/pt/word/kufika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8417,
+      "kimbundu_term": "Kufika",
+      "portuguese_translation": "Estar convencido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufika-1 — https://www.kimbundu.org/pt/word/kufika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8418,
+      "kimbundu_term": "Kufikala",
+      "portuguese_translation": "Acordar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer combinação de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufikala-1 — https://www.kimbundu.org/pt/word/kufikala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8419,
+      "kimbundu_term": "Kufikala",
+      "portuguese_translation": "Pactuar",
+      "definition": null,
+      "alternative_meanings": [
+        "ajustar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufikala-1 — https://www.kimbundu.org/pt/word/kufikala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8420,
+      "kimbundu_term": "Kufikala",
+      "portuguese_translation": "Pacto",
+      "definition": null,
+      "alternative_meanings": [
+        "acordo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufikala-1 — https://www.kimbundu.org/pt/word/kufikala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8421,
+      "kimbundu_term": "Kufikala",
+      "portuguese_translation": "Kurifikala, e r. Estar de acordo, combinado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufikala-1 — https://www.kimbundu.org/pt/word/kufikala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8422,
+      "kimbundu_term": "Kufikidila",
+      "portuguese_translation": "Amparar",
+      "definition": null,
+      "alternative_meanings": [
+        "escorar",
+        "sustentar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufikidila-1 — https://www.kimbundu.org/pt/word/kufikidila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8423,
+      "kimbundu_term": "Kufikidila",
+      "portuguese_translation": "Ajudar a ficar de pé (o que está para cair)",
+      "definition": null,
+      "alternative_meanings": [
+        "Segurar",
+        "proteger"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufikidila-1 — https://www.kimbundu.org/pt/word/kufikidila",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
