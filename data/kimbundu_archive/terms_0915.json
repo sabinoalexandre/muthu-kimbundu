@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9254,
+      "kimbundu_term": "Kukanguluka",
+      "portuguese_translation": "Ficar resequido, torrado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukanguluka-1 — https://www.kimbundu.org/pt/word/kukanguluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9255,
+      "kimbundu_term": "Kukangulula",
+      "portuguese_translation": "Tornar a fritar, a queimar em azeite",
+      "definition": null,
+      "alternative_meanings": [
+        "Resecar ao calor do fogo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukangulula-1 — https://www.kimbundu.org/pt/word/kukangulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9256,
+      "kimbundu_term": "Kúkanza",
+      "portuguese_translation": "Desfolhar",
+      "definition": null,
+      "alternative_meanings": [
+        "Colher, tirar da haste",
+        "Arrepanhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkanza-1 — https://www.kimbundu.org/pt/word/kukanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9257,
+      "kimbundu_term": "Kukanzabala",
+      "portuguese_translation": "Estar escanzelado, magro (por desregramento de vida)",
+      "definition": null,
+      "alternative_meanings": [
+        "Estar esgrouviado, enfezado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukanzabala-1 — https://www.kimbundu.org/pt/word/kukanzabala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9258,
+      "kimbundu_term": "Kukanzabala",
+      "portuguese_translation": "Escanzelamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukanzabala-1 — https://www.kimbundu.org/pt/word/kukanzabala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9259,
+      "kimbundu_term": "Kukanzana",
+      "portuguese_translation": "Levar vida de parasita",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukanzana-1 — https://www.kimbundu.org/pt/word/kukanzana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9260,
+      "kimbundu_term": "Kukanzana",
+      "portuguese_translation": "Andar esfarrapado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukanzana-1 — https://www.kimbundu.org/pt/word/kukanzana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9261,
+      "kimbundu_term": "Kukapála",
+      "portuguese_translation": "Capar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukapála-1 — https://www.kimbundu.org/pt/word/kukapala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9262,
+      "kimbundu_term": "Kúkasa",
+      "portuguese_translation": "Apernar",
+      "definition": null,
+      "alternative_meanings": [
+        "Amarrar junto",
+        "prender. Contratar",
+        "engajar. Fazer tomar compromisso",
+        "tornar responsável. fig. Enganar",
+        "mentir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkasa-1 — https://www.kimbundu.org/pt/word/kukasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9263,
+      "kimbundu_term": "Kúkasa",
+      "portuguese_translation": "Kurikasa, v. r. Obrigar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "comprometer-se",
+        "prender-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkasa-1 — https://www.kimbundu.org/pt/word/kukasa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
