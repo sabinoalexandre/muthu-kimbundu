@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2454,
+      "kimbundu_term": "Jâmi",
+      "portuguese_translation": "adv. e pron. poss. Propriamente meus",
+      "definition": null,
+      "alternative_meanings": [
+        "De mim mesmo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jâmi-1 — https://www.kimbundu.org/pt/word/jami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2455,
+      "kimbundu_term": "Janda",
+      "portuguese_translation": "(IX) Palavra com que se forma o futuro dos verbos",
+      "definition": null,
+      "alternative_meanings": [
+        "Hão-de",
+        "O mesmo que jondo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, janda-1 — https://www.kimbundu.org/pt/word/janda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2456,
+      "kimbundu_term": "Jânyi",
+      "portuguese_translation": "interrog. De que? De quais?",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jânyi-1 — https://www.kimbundu.org/pt/word/janyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2457,
+      "kimbundu_term": "Jayu",
+      "portuguese_translation": "Alho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jayu-1 — https://www.kimbundu.org/pt/word/jayu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2458,
+      "kimbundu_term": "Jê",
+      "portuguese_translation": "e pron. poss. (contr. da prep. ja e do pron. pess. êle). Teus",
+      "definition": null,
+      "alternative_meanings": [
+        "tuas",
+        "Da tua pessoa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jê-1 — https://www.kimbundu.org/pt/word/je",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2459,
+      "kimbundu_term": "Jê",
+      "portuguese_translation": "interrog. Quais?",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jê-1 — https://www.kimbundu.org/pt/word/je",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2460,
+      "kimbundu_term": "Je",
+      "portuguese_translation": "e pron. poss. (contr. da prep. ja e do pron. pess. muene). Dela",
+      "definition": null,
+      "alternative_meanings": [
+        "dele",
+        "Da pessoa ou pertencente à pessoa dele"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, je-1 — https://www.kimbundu.org/pt/word/je",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2461,
+      "kimbundu_term": "Je",
+      "portuguese_translation": "adv. e pron. poss. Dele mesmo",
+      "definition": null,
+      "alternative_meanings": [
+        "Propriamente dele"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, je-1 — https://www.kimbundu.org/pt/word/je",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2462,
+      "kimbundu_term": "Jêji",
+      "portuguese_translation": "e pron. demonstr. Estes",
+      "definition": null,
+      "alternative_meanings": [
+        "estas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jêji-1 — https://www.kimbundu.org/pt/word/jeji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2463,
+      "kimbundu_term": "Jêngi",
+      "portuguese_translation": "Outros",
+      "definition": null,
+      "alternative_meanings": [
+        "outras. Não estes. Os alheios. Diversos. Diferentes"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jêngi-1 — https://www.kimbundu.org/pt/word/jengi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
