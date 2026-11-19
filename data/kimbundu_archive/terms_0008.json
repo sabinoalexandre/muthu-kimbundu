@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 184,
+      "kimbundu_term": "Àfi",
+      "portuguese_translation": "O género humano",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, àfi-1 — https://www.kimbundu.org/pt/word/afi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 185,
+      "kimbundu_term": "Afúndi",
+      "portuguese_translation": "Enterradores",
+      "definition": null,
+      "alternative_meanings": [
+        "que enterram",
+        "coveiros"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, afúndi-1 — https://www.kimbundu.org/pt/word/afundi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 186,
+      "kimbundu_term": "Afundixi",
+      "portuguese_translation": "Juízes",
+      "definition": null,
+      "alternative_meanings": [
+        "julgadores",
+        "jurados",
+        "ouvidores",
+        "os que têm a função de decidir pleitos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, afundixi-1 — https://www.kimbundu.org/pt/word/afundixi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 187,
+      "kimbundu_term": "Ahuki",
+      "portuguese_translation": "Raptores",
+      "definition": null,
+      "alternative_meanings": [
+        "surripiadores",
+        "que cometem raptos",
+        "que vivem de rapina",
+        "rapinantes"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ahuki-1 — https://www.kimbundu.org/pt/word/ahuki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 188,
+      "kimbundu_term": "Aí",
+      "portuguese_translation": "Interjeição de compaixão, de saudade. Oh! Aí!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, aí-1 — https://www.kimbundu.org/pt/word/ai",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 189,
+      "kimbundu_term": "Aí",
+      "portuguese_translation": "De surpresa, de espanto. Olá! Como?",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, aí-1 — https://www.kimbundu.org/pt/word/ai",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 190,
+      "kimbundu_term": "Aiadi",
+      "portuguese_translation": "Dois",
+      "definition": null,
+      "alternative_meanings": [
+        "o mesmo que Kiiari"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, aiadi-1 — https://www.kimbundu.org/pt/word/aiadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 191,
+      "kimbundu_term": "Aiaki",
+      "portuguese_translation": "Veja-se mataki",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, aiaki-1 — https://www.kimbundu.org/pt/word/aiaki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 192,
+      "kimbundu_term": "Aiuê",
+      "portuguese_translation": "Interjeição de dor",
+      "definition": null,
+      "alternative_meanings": [
+        "grito de aflição"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, aiuê-1 — https://www.kimbundu.org/pt/word/aiue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 193,
+      "kimbundu_term": "Ajitu",
+      "portuguese_translation": "Pessoas que dão provas de consideração e respeito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ajitu-1 — https://www.kimbundu.org/pt/word/ajitu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
