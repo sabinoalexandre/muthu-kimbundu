@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13604,
+      "kimbundu_term": "Kuzendeleka",
+      "portuguese_translation": "Desaprumar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer descair. É tb. intr. e r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzendeleka-1 — https://www.kimbundu.org/pt/word/kuzendeleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13605,
+      "kimbundu_term": "Kuzenduka",
+      "portuguese_translation": "Ficar desequilibrado, desnivelado, tombado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzenduka-1 — https://www.kimbundu.org/pt/word/kuzenduka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13606,
+      "kimbundu_term": "Kuzendukisa",
+      "portuguese_translation": "Fazer desequilibrar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzendukisa-1 — https://www.kimbundu.org/pt/word/kuzendukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13607,
+      "kimbundu_term": "Kuzénga",
+      "portuguese_translation": "Manejar",
+      "definition": null,
+      "alternative_meanings": [
+        "brandir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzénga-1 — https://www.kimbundu.org/pt/word/kuzenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13608,
+      "kimbundu_term": "Kuzénga",
+      "portuguese_translation": "Fazer menção de descarregar (o golpe)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzénga-1 — https://www.kimbundu.org/pt/word/kuzenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13609,
+      "kimbundu_term": "Kuzénga",
+      "portuguese_translation": "Agitar para arremessar (ao longe)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzénga-1 — https://www.kimbundu.org/pt/word/kuzenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13610,
+      "kimbundu_term": "Kuzénga",
+      "portuguese_translation": "Brandimento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzénga-1 — https://www.kimbundu.org/pt/word/kuzenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13611,
+      "kimbundu_term": "Kuzénga",
+      "portuguese_translation": "Kurizénga, e r. Fazer menção de se atirar",
+      "definition": null,
+      "alternative_meanings": [
+        "Vacilar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzénga-1 — https://www.kimbundu.org/pt/word/kuzenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13612,
+      "kimbundu_term": "Kuzengela",
+      "portuguese_translation": "Brandir para",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzengela-1 — https://www.kimbundu.org/pt/word/kuzengela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13613,
+      "kimbundu_term": "Kuzengela",
+      "portuguese_translation": "Menear",
+      "definition": null,
+      "alternative_meanings": [
+        "ameaçar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzengela-1 — https://www.kimbundu.org/pt/word/kuzengela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
