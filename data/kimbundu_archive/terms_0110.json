@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1204,
+      "kimbundu_term": "Dinyungu",
+      "portuguese_translation": "Planta cucurbitácea (Lagenaria vulgaris), comestível. Aboboreira",
+      "definition": null,
+      "alternative_meanings": [
+        "seu fruto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dinyungu-1 — https://www.kimbundu.org/pt/word/dinyungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1205,
+      "kimbundu_term": "Dinzenze",
+      "portuguese_translation": "Ralo",
+      "definition": null,
+      "alternative_meanings": [
+        "grilo. Apito (de bolinha)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dinzenze-1 — https://www.kimbundu.org/pt/word/dinzenze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1206,
+      "kimbundu_term": "Dinzenze",
+      "portuguese_translation": "Estridente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dinzenze-1 — https://www.kimbundu.org/pt/word/dinzenze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1207,
+      "kimbundu_term": "Dinzenzu",
+      "portuguese_translation": "Prestes",
+      "definition": null,
+      "alternative_meanings": [
+        "por um nó"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dinzenzu-1 — https://www.kimbundu.org/pt/word/dinzenzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1208,
+      "kimbundu_term": "Dinzuela",
+      "portuguese_translation": "Campainha",
+      "definition": null,
+      "alternative_meanings": [
+        "guizo. É m. us. no pl. mansuela"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dinzuela-1 — https://www.kimbundu.org/pt/word/dinzuela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1209,
+      "kimbundu_term": "Dióbe",
+      "portuguese_translation": "Aposta",
+      "definition": null,
+      "alternative_meanings": [
+        "jogo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dióbe-1 — https://www.kimbundu.org/pt/word/diobe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1210,
+      "kimbundu_term": "Dióbe",
+      "portuguese_translation": "Fome",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dióbe-1 — https://www.kimbundu.org/pt/word/diobe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1211,
+      "kimbundu_term": "Dióbe",
+      "portuguese_translation": "Jogar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dióbe-1 — https://www.kimbundu.org/pt/word/diobe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1212,
+      "kimbundu_term": "Dióbe",
+      "portuguese_translation": "palavra com que se forma o futuro dos verbos. Há-de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dióbe-1 — https://www.kimbundu.org/pt/word/diobe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1213,
+      "kimbundu_term": "Diódio",
+      "portuguese_translation": "Esse",
+      "definition": null,
+      "alternative_meanings": [
+        "essa"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diódio-1 — https://www.kimbundu.org/pt/word/diodio",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
