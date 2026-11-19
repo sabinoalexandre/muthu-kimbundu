@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9154,
+      "kimbundu_term": "Kukalakala",
+      "portuguese_translation": "Trabalhar",
+      "definition": null,
+      "alternative_meanings": [
+        "lavrar",
+        "obrar",
+        "Labutar",
+        "lidar",
+        "Vencer (uma dificuldade)",
+        "Produzir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukalakala-1 — https://www.kimbundu.org/pt/word/kukalakala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9155,
+      "kimbundu_term": "Kukalakalesa",
+      "portuguese_translation": "Mandar trabalhar, dar que fazer",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer produzir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukalakalesa-1 — https://www.kimbundu.org/pt/word/kukalakalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9156,
+      "kimbundu_term": "Kukalakasa",
+      "portuguese_translation": "Estar enrugado, crespo. Produzir (no tato) uma impressão desagradável",
+      "definition": null,
+      "alternative_meanings": [
+        "Ser escabroso, áspero"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukalakasa-1 — https://www.kimbundu.org/pt/word/kukalakasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9157,
+      "kimbundu_term": "Kukalakasa",
+      "portuguese_translation": "Enrugar",
+      "definition": null,
+      "alternative_meanings": [
+        "crespir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukalakasa-1 — https://www.kimbundu.org/pt/word/kukalakasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9158,
+      "kimbundu_term": "Kukalakasa",
+      "portuguese_translation": "Aspereza",
+      "definition": null,
+      "alternative_meanings": [
+        "escabiosidade"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukalakasa-1 — https://www.kimbundu.org/pt/word/kukalakasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9159,
+      "kimbundu_term": "Kukalala",
+      "portuguese_translation": "Escarrar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukalala-1 — https://www.kimbundu.org/pt/word/kukalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9160,
+      "kimbundu_term": "Kukalanga",
+      "portuguese_translation": "Acautelar: antecipar",
+      "definition": null,
+      "alternative_meanings": [
+        "prevenir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukalanga-1 — https://www.kimbundu.org/pt/word/kukalanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9161,
+      "kimbundu_term": "Kukalanga",
+      "portuguese_translation": "Avisar (outrem) do que há de acontecer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukalanga-1 — https://www.kimbundu.org/pt/word/kukalanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9162,
+      "kimbundu_term": "Kukalanga",
+      "portuguese_translation": "Habilitar",
+      "definition": null,
+      "alternative_meanings": [
+        "precatar",
+        "compor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukalanga-1 — https://www.kimbundu.org/pt/word/kukalanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9163,
+      "kimbundu_term": "Kukalanga",
+      "portuguese_translation": "Prevenção",
+      "definition": null,
+      "alternative_meanings": [
+        "cautela"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukalanga-1 — https://www.kimbundu.org/pt/word/kukalanga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
