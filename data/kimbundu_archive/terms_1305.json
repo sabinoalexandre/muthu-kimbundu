@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13154,
+      "kimbundu_term": "Kuxetukisa",
+      "portuguese_translation": "Fazer deslocar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxetukisa-1 — https://www.kimbundu.org/pt/word/kuxetukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13155,
+      "kimbundu_term": "Kuxetukisa",
+      "portuguese_translation": "recear-se",
+      "definition": null,
+      "alternative_meanings": [
+        "Arreliar-se",
+        "ter complicações",
+        "Desgostar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxetukisa-1 — https://www.kimbundu.org/pt/word/kuxetukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13156,
+      "kimbundu_term": "Kuxetukisa",
+      "portuguese_translation": "Fazer deslocar, mudar de posição",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxetukisa-2 — https://www.kimbundu.org/pt/word/kuxetukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13157,
+      "kimbundu_term": "Kuxetukisa",
+      "portuguese_translation": "mudar de posição",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxetukisa-2 — https://www.kimbundu.org/pt/word/kuxetukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13158,
+      "kimbundu_term": "Kuxetula",
+      "portuguese_translation": "Deslocar",
+      "definition": null,
+      "alternative_meanings": [
+        "Mover"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxetula-1 — https://www.kimbundu.org/pt/word/kuxetula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13159,
+      "kimbundu_term": "Kuxetula",
+      "portuguese_translation": "Deslocadura. É tb. intr. e r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxetula-1 — https://www.kimbundu.org/pt/word/kuxetula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13160,
+      "kimbundu_term": "Kuxexeta",
+      "portuguese_translation": "Precatar",
+      "definition": null,
+      "alternative_meanings": [
+        "tentear, sondar",
+        "Observar com cuidado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxexeta-1 — https://www.kimbundu.org/pt/word/kuxexeta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13161,
+      "kimbundu_term": "Kuxi",
+      "portuguese_translation": "interrog. Quando",
+      "definition": null,
+      "alternative_meanings": [
+        "Até quando ou onde",
+        "Em que lugar?"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, conjunção, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxi-1 — https://www.kimbundu.org/pt/word/kuxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13162,
+      "kimbundu_term": "Kuxi",
+      "portuguese_translation": "e pron. interrog. Quanto",
+      "definition": null,
+      "alternative_meanings": [
+        "que quantidade, que preço",
+        "Que pessoa ou cousa entre vários",
+        "Qual",
+        "Que",
+        "cujo"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, conjunção, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxi-1 — https://www.kimbundu.org/pt/word/kuxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13163,
+      "kimbundu_term": "Kuxi",
+      "portuguese_translation": "Como, de que modo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, conjunção, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxi-1 — https://www.kimbundu.org/pt/word/kuxi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
