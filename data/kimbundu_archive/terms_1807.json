@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18174,
+      "kimbundu_term": "Ngóle",
+      "portuguese_translation": "Bagre do rio",
+      "definition": null,
+      "alternative_meanings": [
+        "Peixe silurídeo Pl. jingóle"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngóle-1 — https://www.kimbundu.org/pt/word/ngole",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18175,
+      "kimbundu_term": "Ngolela",
+      "portuguese_translation": "Manifestação de contentamento e júbilo",
+      "definition": null,
+      "alternative_meanings": [
+        "Alegria",
+        "O que causa essa manifestação",
+        "Graça",
+        "riso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngolela-1 — https://www.kimbundu.org/pt/word/ngolela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18176,
+      "kimbundu_term": "Ngolela",
+      "portuguese_translation": "O primeiro in-",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngolela-1 — https://www.kimbundu.org/pt/word/ngolela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18177,
+      "kimbundu_term": "Ngólo",
+      "portuguese_translation": "Resistência",
+      "definition": null,
+      "alternative_meanings": [
+        "Força",
+        "Vigor"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngólo-1 — https://www.kimbundu.org/pt/word/ngolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18178,
+      "kimbundu_term": "Ngólo",
+      "portuguese_translation": "Zebra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngólo-2 — https://www.kimbundu.org/pt/word/ngolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18179,
+      "kimbundu_term": "Ngolokela",
+      "portuguese_translation": "Prevenção: aviso",
+      "definition": null,
+      "alternative_meanings": [
+        "notícia",
+        "Pregão",
+        "Bando",
+        "Grupo de indivíduos que percorrem a localidade anunciando um acontecimento",
+        "Édito",
+        "Anúncio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngolokela-1 — https://www.kimbundu.org/pt/word/ngolokela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18180,
+      "kimbundu_term": "Ngolôlo",
+      "portuguese_translation": "Arruaça",
+      "definition": null,
+      "alternative_meanings": [
+        "Gritaria",
+        "Assuada",
+        "Alarido",
+        "berreiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngolôlo-1 — https://www.kimbundu.org/pt/word/ngololo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18181,
+      "kimbundu_term": "Ngolôlo",
+      "portuguese_translation": "Quantidade de vozes que se ouvem ao mesmo tempo",
+      "definition": null,
+      "alternative_meanings": [
+        "Ruído",
+        "vozeiro",
+        "barulho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngolôlo-1 — https://www.kimbundu.org/pt/word/ngololo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18182,
+      "kimbundu_term": "Ngolôlo",
+      "portuguese_translation": "Lamentação",
+      "definition": null,
+      "alternative_meanings": [
+        "Pranto",
+        "Queixa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngolôlo-1 — https://www.kimbundu.org/pt/word/ngololo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18183,
+      "kimbundu_term": "Ngolome",
+      "portuguese_translation": "Pov. no antigo conc. do Golungo Alto, circ. civ. de Casenge, distr. do Cuanza-Norte",
+      "definition": null,
+      "alternative_meanings": [
+        "prov. de Luanda"
+      ],
+      "examples": [],
+      "grammatical_category": "corografia, povoação",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngolome-1 — https://www.kimbundu.org/pt/word/ngolome",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
