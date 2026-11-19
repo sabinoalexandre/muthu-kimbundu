@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8314,
+      "kimbundu_term": "Kuéiu",
+      "portuguese_translation": "Pequeno afluente do rio Cubango na região das Ganguelas, distr. e prov. do Bié",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuéiu-1 — https://www.kimbundu.org/pt/word/kueiu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8315,
+      "kimbundu_term": "Kuékia",
+      "portuguese_translation": "Deixar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuékia-1 — https://www.kimbundu.org/pt/word/kuekia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8316,
+      "kimbundu_term": "Kuela",
+      "portuguese_translation": "Errar",
+      "definition": null,
+      "alternative_meanings": [
+        "pecar",
+        "não ter razão",
+        "Ser réu",
+        "sofrer condenação"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuela-1 — https://www.kimbundu.org/pt/word/kuela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8317,
+      "kimbundu_term": "Kuela",
+      "portuguese_translation": "Erro",
+      "definition": null,
+      "alternative_meanings": [
+        "Engano",
+        "culpa"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuela-1 — https://www.kimbundu.org/pt/word/kuela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8318,
+      "kimbundu_term": "Kuelelesa",
+      "portuguese_translation": "Fazer condimentar, dar sabor (à comida)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuelelesa-1 — https://www.kimbundu.org/pt/word/kuelelesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8319,
+      "kimbundu_term": "Kuelelesa",
+      "portuguese_translation": "Fazer gargalhar, rir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuelelesa-1 — https://www.kimbundu.org/pt/word/kuelelesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8320,
+      "kimbundu_term": "Kuelesa",
+      "portuguese_translation": "Induzir ou fazer estar em erro",
+      "definition": null,
+      "alternative_meanings": [
+        "Enganar, fazer perder, ser réu"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuelesa-1 — https://www.kimbundu.org/pt/word/kuelesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8321,
+      "kimbundu_term": "Kuelesa",
+      "portuguese_translation": "Kurielesa, e r. Tornar-se ocupado",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer-se pecar, condenar, estar em erro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuelesa-1 — https://www.kimbundu.org/pt/word/kuelesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8322,
+      "kimbundu_term": "Kuelúla",
+      "portuguese_translation": "Curar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuelúla-1 — https://www.kimbundu.org/pt/word/kuelula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8323,
+      "kimbundu_term": "Kuémba",
+      "portuguese_translation": "Afluente da margem direita do rio Kuíba, no distr. do Moxico, prov. do Bié",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuémba-1 — https://www.kimbundu.org/pt/word/kuemba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
