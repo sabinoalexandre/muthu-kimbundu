@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8884,
+      "kimbundu_term": "Kuinginisa",
+      "portuguese_translation": "Enxamear",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer pousar moscas sobre"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuinginisa-1 — https://www.kimbundu.org/pt/word/kuinginisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8885,
+      "kimbundu_term": "Kuinungula",
+      "portuguese_translation": "Exceturar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuinungula-1 — https://www.kimbundu.org/pt/word/kuinungula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8886,
+      "kimbundu_term": "Kuinungula",
+      "portuguese_translation": "Excluir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuinungula-1 — https://www.kimbundu.org/pt/word/kuinungula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8887,
+      "kimbundu_term": "Kuioiesa",
+      "portuguese_translation": "Fazer cansar, moer (andado)",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer ter fadiga"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuioiesa-1 — https://www.kimbundu.org/pt/word/kuioiesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8888,
+      "kimbundu_term": "Kuiója",
+      "portuguese_translation": "Estar estafado, cansado, moído",
+      "definition": null,
+      "alternative_meanings": [
+        "Estar derreado, exausto"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuiója-1 — https://www.kimbundu.org/pt/word/kuioja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8889,
+      "kimbundu_term": "Kuiója",
+      "portuguese_translation": "Estafa",
+      "definition": null,
+      "alternative_meanings": [
+        "Jornada comprida e fatigosa"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuiója-1 — https://www.kimbundu.org/pt/word/kuioja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8890,
+      "kimbundu_term": "Kuióka",
+      "portuguese_translation": "Fazer troça, zombaria",
+      "definition": null,
+      "alternative_meanings": [
+        "Gracejar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuióka-1 — https://www.kimbundu.org/pt/word/kuioka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8891,
+      "kimbundu_term": "Kuiokojoka",
+      "portuguese_translation": "Ficar extremamente cansado, muito extenuado",
+      "definition": null,
+      "alternative_meanings": [
+        "Estar sem forças",
+        "Ficar afadigado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuiokojoka-1 — https://www.kimbundu.org/pt/word/kuiokojoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8892,
+      "kimbundu_term": "Kuiokoka",
+      "portuguese_translation": "Estar miçaído, estafado (por excesso de trabalho)",
+      "definition": null,
+      "alternative_meanings": [
+        "Ficar batido, vencido",
+        "Decair",
+        "estar convencido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuiokoka-1 — https://www.kimbundu.org/pt/word/kuiokoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8893,
+      "kimbundu_term": "Kuiokola",
+      "portuguese_translation": "Causar fadiga a",
+      "definition": null,
+      "alternative_meanings": [
+        "estafar",
+        "Domar",
+        "amansar",
+        "bater",
+        "Convencer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuiokola-1 — https://www.kimbundu.org/pt/word/kuiokola",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
