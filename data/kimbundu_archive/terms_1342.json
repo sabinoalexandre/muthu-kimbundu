@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13524,
+      "kimbundu_term": "Kuzánza",
+      "portuguese_translation": "Tirar (às ocultas) comida da panela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzánza-1 — https://www.kimbundu.org/pt/word/kuzanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13525,
+      "kimbundu_term": "Kuzánza",
+      "portuguese_translation": "Furtar da comida que está a cozer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzánza-1 — https://www.kimbundu.org/pt/word/kuzanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13526,
+      "kimbundu_term": "Kuzánza",
+      "portuguese_translation": "Tirar (da panela) aos poucos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzánza-1 — https://www.kimbundu.org/pt/word/kuzanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13527,
+      "kimbundu_term": "Kuzanzala",
+      "portuguese_translation": "Andar levemente sobre (como o caranguejo)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzanzala-1 — https://www.kimbundu.org/pt/word/kuzanzala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13528,
+      "kimbundu_term": "Kuzanzala",
+      "portuguese_translation": "Sentir arrepios",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzanzala-1 — https://www.kimbundu.org/pt/word/kuzanzala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13529,
+      "kimbundu_term": "Kuzanzala",
+      "portuguese_translation": "Sentir a passagem de um inseto sobre o corpo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzanzala-1 — https://www.kimbundu.org/pt/word/kuzanzala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13530,
+      "kimbundu_term": "Kuzanzalesa",
+      "portuguese_translation": "Causar arrepios",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer cócegas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzanzalesa-1 — https://www.kimbundu.org/pt/word/kuzanzalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13531,
+      "kimbundu_term": "Kuzanzalesa",
+      "portuguese_translation": "Passar levemente os dedos sobre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzanzalesa-1 — https://www.kimbundu.org/pt/word/kuzanzalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13532,
+      "kimbundu_term": "Kuzanzumuka",
+      "portuguese_translation": "Liquescer",
+      "definition": null,
+      "alternative_meanings": [
+        "ficar derretido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzanzumuka-1 — https://www.kimbundu.org/pt/word/kuzanzumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13533,
+      "kimbundu_term": "Kuzanzumuka",
+      "portuguese_translation": "Liquefação",
+      "definition": null,
+      "alternative_meanings": [
+        "derretimento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzanzumuka-1 — https://www.kimbundu.org/pt/word/kuzanzumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
