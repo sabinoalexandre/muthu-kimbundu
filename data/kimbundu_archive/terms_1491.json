@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15014,
+      "kimbundu_term": "Maxokolólo",
+      "portuguese_translation": "Extremos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maxokolólo-1 — https://www.kimbundu.org/pt/word/maxokololo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15015,
+      "kimbundu_term": "Máxolo",
+      "portuguese_translation": "Pequenas gotas em fio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, máxolo-1 — https://www.kimbundu.org/pt/word/maxolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15016,
+      "kimbundu_term": "Máxolo",
+      "portuguese_translation": "Pingos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, máxolo-1 — https://www.kimbundu.org/pt/word/maxolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15017,
+      "kimbundu_term": "Maxukululu",
+      "portuguese_translation": "Olhares",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maxukululu-1 — https://www.kimbundu.org/pt/word/maxukululu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15018,
+      "kimbundu_term": "Mayala",
+      "portuguese_translation": "Forma verdadeira mas menos corrente do pl. de riiala",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mayala-1 — https://www.kimbundu.org/pt/word/mayala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15019,
+      "kimbundu_term": "Māza",
+      "portuguese_translation": "Ontem",
+      "definition": null,
+      "alternative_meanings": [
+        "recentemente"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, māza-1 — https://www.kimbundu.org/pt/word/maza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15020,
+      "kimbundu_term": "Māza",
+      "portuguese_translation": "O dia anterior",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, māza-1 — https://www.kimbundu.org/pt/word/maza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15021,
+      "kimbundu_term": "Mazadiná",
+      "portuguese_translation": "Ante-ontem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mazadiná-1 — https://www.kimbundu.org/pt/word/mazadina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15022,
+      "kimbundu_term": "Mazadiná",
+      "portuguese_translation": "— ku, Trasante-ontem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mazadiná-1 — https://www.kimbundu.org/pt/word/mazadina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15023,
+      "kimbundu_term": "Mázaka",
+      "portuguese_translation": "Fístulas",
+      "definition": null,
+      "alternative_meanings": [
+        "úlceras que marejam matéria"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mázaka-1 — https://www.kimbundu.org/pt/word/mazaka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
