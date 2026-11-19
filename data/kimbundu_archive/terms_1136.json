@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11464,
+      "kimbundu_term": "Kusása",
+      "portuguese_translation": "nutrir-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusása-1 — https://www.kimbundu.org/pt/word/kusasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11465,
+      "kimbundu_term": "Kusasáka",
+      "portuguese_translation": "Autopsiar",
+      "definition": null,
+      "alternative_meanings": [
+        "dissecar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusasáka-1 — https://www.kimbundu.org/pt/word/kusasaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11466,
+      "kimbundu_term": "Kusasáka",
+      "portuguese_translation": "Dissecação",
+      "definition": null,
+      "alternative_meanings": [
+        "autópsia"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusasáka-1 — https://www.kimbundu.org/pt/word/kusasaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11467,
+      "kimbundu_term": "Kusasala",
+      "portuguese_translation": "Fazer restolho, ruído",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusasala-1 — https://www.kimbundu.org/pt/word/kusasala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11468,
+      "kimbundu_term": "Kusasala",
+      "portuguese_translation": "Restolhada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusasala-1 — https://www.kimbundu.org/pt/word/kusasala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11469,
+      "kimbundu_term": "Kusasata",
+      "portuguese_translation": "Dar pequenos saltos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusasata-1 — https://www.kimbundu.org/pt/word/kusasata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11470,
+      "kimbundu_term": "Kusasata",
+      "portuguese_translation": "Diz-se do andar do passarinho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusasata-1 — https://www.kimbundu.org/pt/word/kusasata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11471,
+      "kimbundu_term": "Kusasela",
+      "portuguese_translation": "Crescer em",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusasela-1 — https://www.kimbundu.org/pt/word/kusasela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11472,
+      "kimbundu_term": "Kusasela",
+      "portuguese_translation": "Podar",
+      "definition": null,
+      "alternative_meanings": [
+        "esfacelar no lugar de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusasela-1 — https://www.kimbundu.org/pt/word/kusasela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11473,
+      "kimbundu_term": "Kusasesa",
+      "portuguese_translation": "Fazer criar, dar existência a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusasesa-1 — https://www.kimbundu.org/pt/word/kusasesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
