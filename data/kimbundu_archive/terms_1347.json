@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13574,
+      "kimbundu_term": "Kuzeketa",
+      "portuguese_translation": "A parte gorda das carnes mortas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzeketa-1 — https://www.kimbundu.org/pt/word/kuzeketa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13575,
+      "kimbundu_term": "Kúzela",
+      "portuguese_translation": "Estar claro, desanuviado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúzela-1 — https://www.kimbundu.org/pt/word/kuzela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13576,
+      "kimbundu_term": "Kúzela",
+      "portuguese_translation": "Estar purificado, limpo (de consciência)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúzela-1 — https://www.kimbundu.org/pt/word/kuzela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13577,
+      "kimbundu_term": "Kúzela",
+      "portuguese_translation": "Brancura",
+      "definition": null,
+      "alternative_meanings": [
+        "Clareza"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúzela-1 — https://www.kimbundu.org/pt/word/kuzela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13578,
+      "kimbundu_term": "Kuzelesa",
+      "portuguese_translation": "Dealvar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar claro, limpo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzelesa-1 — https://www.kimbundu.org/pt/word/kuzelesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13579,
+      "kimbundu_term": "Kuzelesa",
+      "portuguese_translation": "Kurizelesa, e r. Clarear",
+      "definition": null,
+      "alternative_meanings": [
+        "limpar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzelesa-1 — https://www.kimbundu.org/pt/word/kuzelesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13580,
+      "kimbundu_term": "Kuzeluka",
+      "portuguese_translation": "Desmaiar",
+      "definition": null,
+      "alternative_meanings": [
+        "empalidecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzeluka-1 — https://www.kimbundu.org/pt/word/kuzeluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13581,
+      "kimbundu_term": "Kuzeluka",
+      "portuguese_translation": "Ficar descorado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzeluka-1 — https://www.kimbundu.org/pt/word/kuzeluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13582,
+      "kimbundu_term": "Kuzelula",
+      "portuguese_translation": "Descorar",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. desmaiar",
+        "tornar pálido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzelula-1 — https://www.kimbundu.org/pt/word/kuzelula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13583,
+      "kimbundu_term": "Kuzeluluka",
+      "portuguese_translation": "Amarelecer",
+      "definition": null,
+      "alternative_meanings": [
+        "estar pálido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzeluluka-1 — https://www.kimbundu.org/pt/word/kuzeluluka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
