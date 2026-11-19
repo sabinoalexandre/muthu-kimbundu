@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8824,
+      "kimbundu_term": "Kuiála",
+      "portuguese_translation": "Mirar",
+      "definition": null,
+      "alternative_meanings": [
+        "ver"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuiála-1 — https://www.kimbundu.org/pt/word/kuiala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8825,
+      "kimbundu_term": "Kuiála",
+      "portuguese_translation": "Reparar",
+      "definition": null,
+      "alternative_meanings": [
+        "atentar",
+        "Rever"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuiála-2 — https://www.kimbundu.org/pt/word/kuiala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8826,
+      "kimbundu_term": "Kuiála",
+      "portuguese_translation": "Kuriíála, v. r. Ver-se ao espelho: mirar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuiála-2 — https://www.kimbundu.org/pt/word/kuiala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8827,
+      "kimbundu_term": "Kuiáxa",
+      "portuguese_translation": "Ser intrépido, obstinado, animoso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuiáxa-1 — https://www.kimbundu.org/pt/word/kuiaxa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8828,
+      "kimbundu_term": "Kuiáxa",
+      "portuguese_translation": "Denodo",
+      "definition": null,
+      "alternative_meanings": [
+        "valor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuiáxa-1 — https://www.kimbundu.org/pt/word/kuiaxa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8829,
+      "kimbundu_term": "Kúiba",
+      "portuguese_translation": "Ser desagradável, feio, desonesto",
+      "definition": null,
+      "alternative_meanings": [
+        "Estar mal"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúiba-1 — https://www.kimbundu.org/pt/word/kuiba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8830,
+      "kimbundu_term": "Kúiba",
+      "portuguese_translation": "Fealdade",
+      "definition": null,
+      "alternative_meanings": [
+        "desformidade, irregularidade desagradável nas feições ou no aspeto",
+        "Torpeza, dano",
+        "Calamidades",
+        "ofensa",
+        "desgraça"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúiba-1 — https://www.kimbundu.org/pt/word/kuiba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8831,
+      "kimbundu_term": "Kúiba",
+      "portuguese_translation": "Malmente",
+      "definition": null,
+      "alternative_meanings": [
+        "Com rudeza"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúiba-1 — https://www.kimbundu.org/pt/word/kuiba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8832,
+      "kimbundu_term": "Kuíba",
+      "portuguese_translation": "Levantar",
+      "definition": null,
+      "alternative_meanings": [
+        "levar consigo (coisa alheia)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuíba-1 — https://www.kimbundu.org/pt/word/kuiba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8833,
+      "kimbundu_term": "Kuíba",
+      "portuguese_translation": "Furtar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuíba-1 — https://www.kimbundu.org/pt/word/kuiba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
