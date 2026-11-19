@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14344,
+      "kimbundu_term": "Lwiji",
+      "portuguese_translation": "O ponto cardeal oposto ao norte",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lwiji-1 — https://www.kimbundu.org/pt/word/lwiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14345,
+      "kimbundu_term": "Lwiji",
+      "portuguese_translation": "Abaixo",
+      "definition": null,
+      "alternative_meanings": [
+        "aquém"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lwiji-1 — https://www.kimbundu.org/pt/word/lwiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14346,
+      "kimbundu_term": "Lwimbi",
+      "portuguese_translation": "Avareza",
+      "definition": null,
+      "alternative_meanings": [
+        "mesquinharia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lwimbi-1 — https://www.kimbundu.org/pt/word/lwimbi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14347,
+      "kimbundu_term": "Lwimbi",
+      "portuguese_translation": "adj. e sub. Ambicioso",
+      "definition": null,
+      "alternative_meanings": [
+        "miserável"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lwimbi-1 — https://www.kimbundu.org/pt/word/lwimbi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14348,
+      "kimbundu_term": "Lwoso",
+      "portuguese_translation": "Todo",
+      "definition": null,
+      "alternative_meanings": [
+        "completo",
+        "inteiro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lwoso-1 — https://www.kimbundu.org/pt/word/lwoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14349,
+      "kimbundu_term": "Lwoso",
+      "portuguese_translation": "Em peso",
+      "definition": null,
+      "alternative_meanings": [
+        "todo ele",
+        "Completamente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lwoso-1 — https://www.kimbundu.org/pt/word/lwoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14350,
+      "kimbundu_term": "Lwoso",
+      "portuguese_translation": "Tudo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lwoso-1 — https://www.kimbundu.org/pt/word/lwoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14351,
+      "kimbundu_term": "M banga",
+      "portuguese_translation": "Asperezas",
+      "definition": null,
+      "alternative_meanings": [
+        "fragosidades",
+        "Cousas escabrosas",
+        "altibaixos de uma superfície"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, m banga-1 — https://www.kimbundu.org/pt/word/m%20banga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14352,
+      "kimbundu_term": "M banga",
+      "portuguese_translation": "Conjunto de plantas solanáceas a que pertence a camroeira",
+      "definition": null,
+      "alternative_meanings": [
+        "Espinheiros"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, m banga-1 — https://www.kimbundu.org/pt/word/m%20banga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14353,
+      "kimbundu_term": "M:hámba",
+      "portuguese_translation": "Cestos compridos para condução de cargas em viagem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, m:hámba-1 — https://www.kimbundu.org/pt/word/m%3Ahamba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
