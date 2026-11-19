@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2534,
+      "kimbundu_term": "Jikuku",
+      "portuguese_translation": "Avós",
+      "definition": null,
+      "alternative_meanings": [
+        "Antepassados",
+        "Parentes remotos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jikuku-1 — https://www.kimbundu.org/pt/word/jikuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2535,
+      "kimbundu_term": "Jikukululu",
+      "portuguese_translation": "Os mais antigos",
+      "definition": null,
+      "alternative_meanings": [
+        "Os avoengos",
+        "os remotos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jikukululu-1 — https://www.kimbundu.org/pt/word/jikukululu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2536,
+      "kimbundu_term": "Jikuxi",
+      "portuguese_translation": "Quantos, quantas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, interrogativo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jikuxi-1 — https://www.kimbundu.org/pt/word/jikuxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2537,
+      "kimbundu_term": "Jimama",
+      "portuguese_translation": "Mais",
+      "definition": null,
+      "alternative_meanings": [
+        "Mulheres que têm ou tiveram filhos",
+        "Mulheres caridosas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimama-1 — https://www.kimbundu.org/pt/word/jimama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2538,
+      "kimbundu_term": "Jimamá",
+      "portuguese_translation": "Mamões",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimamá-1 — https://www.kimbundu.org/pt/word/jimama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2539,
+      "kimbundu_term": "Jimanyi",
+      "portuguese_translation": "Mais",
+      "definition": null,
+      "alternative_meanings": [
+        "Mamãs"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimanyi-1 — https://www.kimbundu.org/pt/word/jimanyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2540,
+      "kimbundu_term": "Jimata",
+      "portuguese_translation": "Quantidade ou calda de tomate",
+      "definition": null,
+      "alternative_meanings": [
+        "Tomateiro",
+        "Planta solanácea"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimata-1 — https://www.kimbundu.org/pt/word/jimata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2541,
+      "kimbundu_term": "Jimbalá",
+      "portuguese_translation": "Família de plantas monocotiledóneas que têm por tipo a «junça»",
+      "definition": null,
+      "alternative_meanings": [
+        "Plantas ciperáceas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimbalá-1 — https://www.kimbundu.org/pt/word/jimbala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2542,
+      "kimbundu_term": "Jimbalu",
+      "portuguese_translation": "Ripas",
+      "definition": null,
+      "alternative_meanings": [
+        "Travessas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimbalu-1 — https://www.kimbundu.org/pt/word/jimbalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2543,
+      "kimbundu_term": "Jimbalu",
+      "portuguese_translation": "Revoltados",
+      "definition": null,
+      "alternative_meanings": [
+        "revoltosos",
+        "Embravecidos",
+        "Que se não sujeitam à boa ordem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimbalu-1 — https://www.kimbundu.org/pt/word/jimbalu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
