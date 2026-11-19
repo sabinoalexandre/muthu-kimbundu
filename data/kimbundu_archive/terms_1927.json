@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19374,
+      "kimbundu_term": "Uandanda",
+      "portuguese_translation": "Aranheira",
+      "definition": null,
+      "alternative_meanings": [
+        "teia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uandanda-1 — https://www.kimbundu.org/pt/word/uandanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19375,
+      "kimbundu_term": "Uandanda",
+      "portuguese_translation": "Enredo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uandanda-1 — https://www.kimbundu.org/pt/word/uandanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19376,
+      "kimbundu_term": "Uandelu",
+      "portuguese_translation": "Forma de mastigar os alimentos, de triturar com os dentes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uandelu-1 — https://www.kimbundu.org/pt/word/uandelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19377,
+      "kimbundu_term": "Uandelu",
+      "portuguese_translation": "Maneira de comer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uandelu-1 — https://www.kimbundu.org/pt/word/uandelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19378,
+      "kimbundu_term": "Uandolo",
+      "portuguese_translation": "Andor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uandolo-1 — https://www.kimbundu.org/pt/word/uandolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19379,
+      "kimbundu_term": "Uanexenu",
+      "portuguese_translation": "Maneira de expor ao sol, de estender roupa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uanexenu-1 — https://www.kimbundu.org/pt/word/uanexenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19380,
+      "kimbundu_term": "Uanexenu",
+      "portuguese_translation": "Forma por que uma pessoa estende ou expõe às vistas uma coisa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uanexenu-1 — https://www.kimbundu.org/pt/word/uanexenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19381,
+      "kimbundu_term": "Uangéla",
+      "portuguese_translation": "Sésamo",
+      "definition": null,
+      "alternative_meanings": [
+        "planta bignoneácea (sesamum indicum)",
+        "Gergelim",
+        "A sua semente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uangéla-1 — https://www.kimbundu.org/pt/word/uangela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19382,
+      "kimbundu_term": "Uangelelu",
+      "portuguese_translation": "Maneira de lançar em rosto os favores recebidos",
+      "definition": null,
+      "alternative_meanings": [
+        "Forma de reprovar, de vituperar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uangelelu-1 — https://www.kimbundu.org/pt/word/uangelelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19383,
+      "kimbundu_term": "Uangila",
+      "portuguese_translation": "Planta da família das pedaliáceas (sesamum orientale) de semente oleaginosa",
+      "definition": null,
+      "alternative_meanings": [
+        "O mesmo que uangéla"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uangila-1 — https://www.kimbundu.org/pt/word/uangila",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
