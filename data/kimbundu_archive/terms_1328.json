@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13384,
+      "kimbundu_term": "Kuxongota",
+      "portuguese_translation": "Fumegar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxongota-1 — https://www.kimbundu.org/pt/word/kuxongota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13385,
+      "kimbundu_term": "Kuxongota",
+      "portuguese_translation": "começar a atear",
+      "definition": null,
+      "alternative_meanings": [
+        "Manifestar-se por indícios"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxongota-1 — https://www.kimbundu.org/pt/word/kuxongota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13386,
+      "kimbundu_term": "Kuxongota",
+      "portuguese_translation": "Fumear",
+      "definition": null,
+      "alternative_meanings": [
+        "ter comichão (na garganta)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxongota-1 — https://www.kimbundu.org/pt/word/kuxongota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13387,
+      "kimbundu_term": "Kuxongotesa",
+      "portuguese_translation": "Afumear",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer fumegar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxongotesa-1 — https://www.kimbundu.org/pt/word/kuxongotesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13388,
+      "kimbundu_term": "Kuxongwena",
+      "portuguese_translation": "Dizer insolências em voz baixa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxongwena-1 — https://www.kimbundu.org/pt/word/kuxongwena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13389,
+      "kimbundu_term": "Kuxongwena",
+      "portuguese_translation": "Dirigir ironias a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxongwena-1 — https://www.kimbundu.org/pt/word/kuxongwena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13390,
+      "kimbundu_term": "Kuxonona",
+      "portuguese_translation": "Fazer resvalar brandamente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxonona-1 — https://www.kimbundu.org/pt/word/kuxonona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13391,
+      "kimbundu_term": "Kuxononoka",
+      "portuguese_translation": "Vanguejar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxononoka-1 — https://www.kimbundu.org/pt/word/kuxononoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13392,
+      "kimbundu_term": "Kuxononoka",
+      "portuguese_translation": "Ir deslisando suavemente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxononoka-1 — https://www.kimbundu.org/pt/word/kuxononoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13393,
+      "kimbundu_term": "Kuxononoka",
+      "portuguese_translation": "Escorregamento",
+      "definition": null,
+      "alternative_meanings": [
+        "deslise"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxononoka-1 — https://www.kimbundu.org/pt/word/kuxononoka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
