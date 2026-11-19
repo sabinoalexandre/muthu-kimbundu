@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 314,
+      "kimbundu_term": "Asonyi",
+      "portuguese_translation": "Visitantes",
+      "definition": null,
+      "alternative_meanings": [
+        "alheios",
+        "hóspedes",
+        "que não são do lugar",
+        "estrangeiros"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, asonyi-1 — https://www.kimbundu.org/pt/word/asonyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 315,
+      "kimbundu_term": "Asudi",
+      "portuguese_translation": "Forjadores",
+      "definition": null,
+      "alternative_meanings": [
+        "malhadores",
+        "operários que trabalham o ferro",
+        "(fig.) batedores"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, asudi-1 — https://www.kimbundu.org/pt/word/asudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 316,
+      "kimbundu_term": "Asumbi",
+      "portuguese_translation": "Compradores",
+      "definition": null,
+      "alternative_meanings": [
+        "licitantes",
+        "pessoas que podem comprar",
+        "comprantes",
+        "adquirentes",
+        "os que compram"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, asumbi-1 — https://www.kimbundu.org/pt/word/asumbi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 317,
+      "kimbundu_term": "Atabi",
+      "portuguese_translation": "Aguadeiros",
+      "definition": null,
+      "alternative_meanings": [
+        "pessoas que tiram água da fonte, rio ou mar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, atabi-1 — https://www.kimbundu.org/pt/word/atabi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 318,
+      "kimbundu_term": "Atafunu",
+      "portuguese_translation": "Serviçais ou escravos pertencentes ao mesmo senhor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, atafunu-1 — https://www.kimbundu.org/pt/word/atafunu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 319,
+      "kimbundu_term": "Atafunu",
+      "portuguese_translation": "Tratamento que os escravos se dão entre si quando ao serviço ou pertencentes ao mesmo dono",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, atafunu-1 — https://www.kimbundu.org/pt/word/atafunu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 320,
+      "kimbundu_term": "Atangi",
+      "portuguese_translation": "Contadores",
+      "definition": null,
+      "alternative_meanings": [
+        "reveladores",
+        "delatores"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, atangi-1 — https://www.kimbundu.org/pt/word/atangi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 321,
+      "kimbundu_term": "Atangi",
+      "portuguese_translation": "Pessoas encarregadas de uma contadoria",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, atangi-1 — https://www.kimbundu.org/pt/word/atangi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 322,
+      "kimbundu_term": "Atata",
+      "portuguese_translation": "Rústicos",
+      "definition": null,
+      "alternative_meanings": [
+        "homens do campo",
+        "selvagens",
+        "homens sem consideração"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, atata-1 — https://www.kimbundu.org/pt/word/atata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 323,
+      "kimbundu_term": "Atata",
+      "portuguese_translation": "Mocetões",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, atata-1 — https://www.kimbundu.org/pt/word/atata",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
