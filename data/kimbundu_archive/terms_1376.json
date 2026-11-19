@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13864,
+      "kimbundu_term": "Kwehela",
+      "portuguese_translation": "Kuriehela, e r. Tolerar",
+      "definition": null,
+      "alternative_meanings": [
+        "consentir",
+        "Dar largueza (por vezes)",
+        "deixar passar",
+        "Permitir-se",
+        "pôr-se à vontade"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwehela-1 — https://www.kimbundu.org/pt/word/kwehela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13865,
+      "kimbundu_term": "Kwehela",
+      "portuguese_translation": "Tolerância",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwehela-1 — https://www.kimbundu.org/pt/word/kwehela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13866,
+      "kimbundu_term": "Kwehela",
+      "portuguese_translation": "Kuriehelela, v. r. Desleixar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "deixar-se ir",
+        "Confiar em demasia"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwehela-1 — https://www.kimbundu.org/pt/word/kwehela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13867,
+      "kimbundu_term": "Kwelela",
+      "portuguese_translation": "Condimentar",
+      "definition": null,
+      "alternative_meanings": [
+        "temperar",
+        "Fazer acompanhar de conduto qualquer alimento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwelela-1 — https://www.kimbundu.org/pt/word/kwelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13868,
+      "kimbundu_term": "Kwelela",
+      "portuguese_translation": "Rir",
+      "definition": null,
+      "alternative_meanings": [
+        "dar gargalhadas",
+        "manifestar alegria"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwelela-1 — https://www.kimbundu.org/pt/word/kwelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13869,
+      "kimbundu_term": "Kwelela",
+      "portuguese_translation": "Kurielela, v. r. Rir-se",
+      "definition": null,
+      "alternative_meanings": [
+        "escarnecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwelela-1 — https://www.kimbundu.org/pt/word/kwelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13870,
+      "kimbundu_term": "Kwema",
+      "portuguese_translation": "Fabricar vinho",
+      "definition": null,
+      "alternative_meanings": [
+        "Vinhatar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwema-1 — https://www.kimbundu.org/pt/word/kwema",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13871,
+      "kimbundu_term": "Kwema",
+      "portuguese_translation": "Vinhataria",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwema-1 — https://www.kimbundu.org/pt/word/kwema",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13872,
+      "kimbundu_term": "Kwenda",
+      "portuguese_translation": "Andadura",
+      "definition": null,
+      "alternative_meanings": [
+        "marcha"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwenda-1 — https://www.kimbundu.org/pt/word/kwenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13873,
+      "kimbundu_term": "Kwendela",
+      "portuguese_translation": "Andar de",
+      "definition": null,
+      "alternative_meanings": [
+        "Percorrer",
+        "ir por"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwendela-1 — https://www.kimbundu.org/pt/word/kwendela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
