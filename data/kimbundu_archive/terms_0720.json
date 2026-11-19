@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7304,
+      "kimbundu_term": "Kubengama",
+      "portuguese_translation": "Ter resguardo",
+      "definition": null,
+      "alternative_meanings": [
+        "Estar abrigado, protegido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubengama-1 — https://www.kimbundu.org/pt/word/kubengama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7305,
+      "kimbundu_term": "Kubengama",
+      "portuguese_translation": "Procurar abrigo",
+      "definition": null,
+      "alternative_meanings": [
+        "tirar-se do mau lugar",
+        "resguardar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubengama-1 — https://www.kimbundu.org/pt/word/kubengama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7306,
+      "kimbundu_term": "Kubengamesa",
+      "portuguese_translation": "Resguardar",
+      "definition": null,
+      "alternative_meanings": [
+        "Dar abrigo a",
+        "Amparar",
+        "proteger"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubengamesa-1 — https://www.kimbundu.org/pt/word/kubengamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7307,
+      "kimbundu_term": "Kubengeka",
+      "portuguese_translation": "Encostar",
+      "definition": null,
+      "alternative_meanings": [
+        "cerrar",
+        "Não fechar de todo (a porta ou janela)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubengeka-1 — https://www.kimbundu.org/pt/word/kubengeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7308,
+      "kimbundu_term": "Kubengeleka",
+      "portuguese_translation": "Acompanhar, à despedida, quem conosco não volta",
+      "definition": null,
+      "alternative_meanings": [
+        "Despedir-se de uma visita à certa distância da casa"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubengeleka-1 — https://www.kimbundu.org/pt/word/kubengeleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7309,
+      "kimbundu_term": "Kubengula",
+      "portuguese_translation": "Abrir um pouco",
+      "definition": null,
+      "alternative_meanings": [
+        "aclarar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubengula-1 — https://www.kimbundu.org/pt/word/kubengula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7310,
+      "kimbundu_term": "Kubengulula",
+      "portuguese_translation": "Descerrar",
+      "definition": null,
+      "alternative_meanings": [
+        "reabrir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubengulula-1 — https://www.kimbundu.org/pt/word/kubengulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7311,
+      "kimbundu_term": "Kubengumúka",
+      "portuguese_translation": "Estar ou ficar entreaberto",
+      "definition": null,
+      "alternative_meanings": [
+        "Principiar a aclarar (o tempo)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubengumúka-1 — https://www.kimbundu.org/pt/word/kubengumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7312,
+      "kimbundu_term": "Kubengumúka",
+      "portuguese_translation": "Entreaberta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubengumúka-1 — https://www.kimbundu.org/pt/word/kubengumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7313,
+      "kimbundu_term": "Kubengumuna",
+      "portuguese_translation": "Entreabrir",
+      "definition": null,
+      "alternative_meanings": [
+        "Descerrar",
+        "fazer aclarar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubengumuna-1 — https://www.kimbundu.org/pt/word/kubengumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
