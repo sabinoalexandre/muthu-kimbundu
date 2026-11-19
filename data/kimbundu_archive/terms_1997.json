@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 20074,
+      "kimbundu_term": "Xi",
+      "portuguese_translation": "de afirmação ou anuência",
+      "definition": null,
+      "alternative_meanings": [
+        "Sim",
+        "efetivamente"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xi-1 — https://www.kimbundu.org/pt/word/xi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20075,
+      "kimbundu_term": "Xibha",
+      "portuguese_translation": "para chamar cães",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xibha-1 — https://www.kimbundu.org/pt/word/xibha",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20076,
+      "kimbundu_term": "Xibhata",
+      "portuguese_translation": "Espada, mbanji",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xibhata-1 — https://www.kimbundu.org/pt/word/xibhata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20077,
+      "kimbundu_term": "Xibhata",
+      "portuguese_translation": "Peixe do mar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xibhata-1 — https://www.kimbundu.org/pt/word/xibhata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20078,
+      "kimbundu_term": "Xibulu",
+      "portuguese_translation": "Discípulo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xibulu-1 — https://www.kimbundu.org/pt/word/xibulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20079,
+      "kimbundu_term": "Xidi",
+      "portuguese_translation": "Expectativa",
+      "definition": null,
+      "alternative_meanings": [
+        "intento",
+        "ideia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xidi-1 — https://www.kimbundu.org/pt/word/xidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20080,
+      "kimbundu_term": "Xidi",
+      "portuguese_translation": "e intr. Estar na expectativa, na esperança de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xidi-1 — https://www.kimbundu.org/pt/word/xidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20081,
+      "kimbundu_term": "Xidika",
+      "portuguese_translation": "Sujidade",
+      "definition": null,
+      "alternative_meanings": [
+        "cisco, monte de lixo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xidika-1 — https://www.kimbundu.org/pt/word/xidika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20082,
+      "kimbundu_term": "Xíji",
+      "portuguese_translation": "Nome da letra X",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xíji-1 — https://www.kimbundu.org/pt/word/xiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20083,
+      "kimbundu_term": "Xikata",
+      "portuguese_translation": "Escada",
+      "definition": null,
+      "alternative_meanings": [
+        "kibandelu"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xikata-1 — https://www.kimbundu.org/pt/word/xikata",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
