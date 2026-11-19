@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18594,
+      "kimbundu_term": "Palánga",
+      "portuguese_translation": "Localidade nos subúrbios de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, palánga-1 — https://www.kimbundu.org/pt/word/palanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18595,
+      "kimbundu_term": "Paláte",
+      "portuguese_translation": "Prata (metal)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, paláte-1 — https://www.kimbundu.org/pt/word/palate",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18596,
+      "kimbundu_term": "Pálávala",
+      "portuguese_translation": "Palavra. kizuélu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pálávala-1 — https://www.kimbundu.org/pt/word/palavala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18597,
+      "kimbundu_term": "Palejende",
+      "portuguese_translation": "Presente. Oferta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, palejende-1 — https://www.kimbundu.org/pt/word/palejende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18598,
+      "kimbundu_term": "Paléla",
+      "portuguese_translation": "Canteiro",
+      "definition": null,
+      "alternative_meanings": [
+        "Pequena cova para plantar tabaco"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, paléla-1 — https://www.kimbundu.org/pt/word/palela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18599,
+      "kimbundu_term": "Paluku",
+      "portuguese_translation": "pargo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, paluku-1 — https://www.kimbundu.org/pt/word/paluku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18600,
+      "kimbundu_term": "Pamá",
+      "portuguese_translation": "(IX) Pasmado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pamá-1 — https://www.kimbundu.org/pt/word/pama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18601,
+      "kimbundu_term": "Pamá",
+      "portuguese_translation": "Pasmaceira",
+      "definition": null,
+      "alternative_meanings": [
+        "Contemplação parvoa",
+        "Diz-se da pessoa admirada e de boca aberta"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pamá-1 — https://www.kimbundu.org/pt/word/pama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18602,
+      "kimbundu_term": "Pamba",
+      "portuguese_translation": "Pov.ª 15 Kil da vila do Ambriz, margem direita do rio Loge, distr. e prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pamba-1 — https://www.kimbundu.org/pt/word/pamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18603,
+      "kimbundu_term": "Pamba",
+      "portuguese_translation": "Pov. e antiga sede do conc. de Ambica, circ. de Cazengo, prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pamba-1 — https://www.kimbundu.org/pt/word/pamba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
