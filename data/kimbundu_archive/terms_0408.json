@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4184,
+      "kimbundu_term": "Katembu",
+      "portuguese_translation": "Passarinho dentirostro de rabo comprido, conhecido por «viúva»",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, katembu-1 — https://www.kimbundu.org/pt/word/katembu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4185,
+      "kimbundu_term": "Katénde",
+      "portuguese_translation": "À maneira de lagartixa",
+      "definition": null,
+      "alternative_meanings": [
+        "É tb. adj"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, katénde-1 — https://www.kimbundu.org/pt/word/katende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4186,
+      "kimbundu_term": "Katêndu",
+      "portuguese_translation": "Ousadia",
+      "definition": null,
+      "alternative_meanings": [
+        "Desrespeito",
+        "Falta de atenção, de cortesia",
+        "abuso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, katêndu-1 — https://www.kimbundu.org/pt/word/katendu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4187,
+      "kimbundu_term": "Katêndu",
+      "portuguese_translation": "adj. Ousado",
+      "definition": null,
+      "alternative_meanings": [
+        "atrevido",
+        "Desrespeitoso",
+        "Desobediente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, katêndu-1 — https://www.kimbundu.org/pt/word/katendu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4188,
+      "kimbundu_term": "Kàtendu",
+      "portuguese_translation": "Carocinho",
+      "definition": null,
+      "alternative_meanings": [
+        "pequena castanha",
+        "pevide"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kàtendu-1 — https://www.kimbundu.org/pt/word/katendu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4189,
+      "kimbundu_term": "Kátengu",
+      "portuguese_translation": "Planta gramínea (andropogon muricatus) utilizada para forragens e obra de verga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kátengu-1 — https://www.kimbundu.org/pt/word/katengu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4190,
+      "kimbundu_term": "Katéta",
+      "portuguese_translation": "Noctiluz",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, katéta-1 — https://www.kimbundu.org/pt/word/kateta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4191,
+      "kimbundu_term": "Katéta",
+      "portuguese_translation": "Tenro",
+      "definition": null,
+      "alternative_meanings": [
+        "novo",
+        "Nanco",
+        "De raça pequena",
+        "Pequeno",
+        "miúdo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, katéta-2 — https://www.kimbundu.org/pt/word/kateta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4192,
+      "kimbundu_term": "Katéta",
+      "portuguese_translation": "Arbusto trepador, cujo cozimento das folhas se toma como anti-emético",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, katéta-2 — https://www.kimbundu.org/pt/word/kateta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4193,
+      "kimbundu_term": "Katéte",
+      "portuguese_translation": "Passarinho conirostro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, katéte-1 — https://www.kimbundu.org/pt/word/katete",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
