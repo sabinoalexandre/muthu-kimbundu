@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13794,
+      "kimbundu_term": "Kuzuzuma",
+      "portuguese_translation": "Ter pouca consistência ou solidez",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzuzuma-1 — https://www.kimbundu.org/pt/word/kuzuzuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13795,
+      "kimbundu_term": "Kuzuzuma",
+      "portuguese_translation": "Estar quebradiço",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzuzuma-1 — https://www.kimbundu.org/pt/word/kuzuzuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13796,
+      "kimbundu_term": "Kuzuzuta",
+      "portuguese_translation": "Caminhar sem tino",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzuzuta-1 — https://www.kimbundu.org/pt/word/kuzuzuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13797,
+      "kimbundu_term": "Kuzuzuta",
+      "portuguese_translation": "Atoleimar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzuzuta-1 — https://www.kimbundu.org/pt/word/kuzuzuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13798,
+      "kimbundu_term": "Kuzuzuta",
+      "portuguese_translation": "Estar sob a ação da embriaguez",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzuzuta-1 — https://www.kimbundu.org/pt/word/kuzuzuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13799,
+      "kimbundu_term": "Kuzwata",
+      "portuguese_translation": "Trajar",
+      "definition": null,
+      "alternative_meanings": [
+        "abilhar",
+        "vestir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzwata-1 — https://www.kimbundu.org/pt/word/kuzwata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13800,
+      "kimbundu_term": "Kuzwata",
+      "portuguese_translation": "Calçar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzwata-1 — https://www.kimbundu.org/pt/word/kuzwata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13801,
+      "kimbundu_term": "Kuzwata",
+      "portuguese_translation": "Fardar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzwata-1 — https://www.kimbundu.org/pt/word/kuzwata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13802,
+      "kimbundu_term": "Kuzwela",
+      "portuguese_translation": "Falar",
+      "definition": null,
+      "alternative_meanings": [
+        "conversar",
+        "dizer palavras"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzwela-1 — https://www.kimbundu.org/pt/word/kuzwela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13803,
+      "kimbundu_term": "Kuzwelela",
+      "portuguese_translation": "Falar por",
+      "definition": null,
+      "alternative_meanings": [
+        "Expressar-se em",
+        "Ditar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzwelela-1 — https://www.kimbundu.org/pt/word/kuzwelela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
