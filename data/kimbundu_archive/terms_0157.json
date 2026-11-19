@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1674,
+      "kimbundu_term": "Fúka",
+      "portuguese_translation": "Torcida",
+      "definition": null,
+      "alternative_meanings": [
+        "objeto de fio ou pano comprido e torcido",
+        "pavio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fúka-1 — https://www.kimbundu.org/pt/word/fuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1675,
+      "kimbundu_term": "Fúka",
+      "portuguese_translation": "planta ampelidácea, cujos caules servem de cordas",
+      "definition": null,
+      "alternative_meanings": [
+        "género de plantas sarmentáceas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fúka-1 — https://www.kimbundu.org/pt/word/fuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1676,
+      "kimbundu_term": "Fúka",
+      "portuguese_translation": "cambalhota",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fúka-1 — https://www.kimbundu.org/pt/word/fuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1677,
+      "kimbundu_term": "Fuku",
+      "portuguese_translation": "numeral: dez vezes mil",
+      "definition": null,
+      "alternative_meanings": [
+        "dez mil"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fuku-1 — https://www.kimbundu.org/pt/word/fuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1678,
+      "kimbundu_term": "Fuku",
+      "portuguese_translation": "o número 10.000",
+      "definition": null,
+      "alternative_meanings": [
+        "fig.: o mês das mulheres",
+        "menstruo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fuku-1 — https://www.kimbundu.org/pt/word/fuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1679,
+      "kimbundu_term": "Fuku",
+      "portuguese_translation": "Diz-se dos primeiros alvores da manhã",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fuku-1 — https://www.kimbundu.org/pt/word/fuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1680,
+      "kimbundu_term": "Fukúmba",
+      "portuguese_translation": "Ave do género pombo",
+      "definition": null,
+      "alternative_meanings": [
+        "rola"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fukúmba-1 — https://www.kimbundu.org/pt/word/fukumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1681,
+      "kimbundu_term": "Fúla",
+      "portuguese_translation": "Veja-se nos nomes próprios",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fúla-1 — https://www.kimbundu.org/pt/word/fula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1682,
+      "kimbundu_term": "Fúla",
+      "portuguese_translation": "Fúla mbombo: animal caracterizado por dois escudos ósseos que lhe cobrem todo o corpo",
+      "definition": null,
+      "alternative_meanings": [
+        "cágado",
+        "tartaruga pequena (veja-se mbaxi)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fúla-1 — https://www.kimbundu.org/pt/word/fula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1683,
+      "kimbundu_term": "Fúla",
+      "portuguese_translation": "Fúla ria kibetu: diz-se da pessoa (geralmente serviçal) escolhida pelo patrão para aplicar castigos corporais aos outros",
+      "definition": null,
+      "alternative_meanings": [
+        "(fig.) martirizador"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fúla-1 — https://www.kimbundu.org/pt/word/fula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
