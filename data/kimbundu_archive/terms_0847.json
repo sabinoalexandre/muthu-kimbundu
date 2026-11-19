@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8574,
+      "kimbundu_term": "Kufúmba",
+      "portuguese_translation": "Defraudar",
+      "definition": null,
+      "alternative_meanings": [
+        "prejudicar",
+        "danificar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufúmba-1 — https://www.kimbundu.org/pt/word/kufumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8575,
+      "kimbundu_term": "Kufumbisa",
+      "portuguese_translation": "Fazer tirar a metade maior",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufumbisa-1 — https://www.kimbundu.org/pt/word/kufumbisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8576,
+      "kimbundu_term": "Kufumbisa",
+      "portuguese_translation": "Fazer tomar o faro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufumbisa-1 — https://www.kimbundu.org/pt/word/kufumbisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8577,
+      "kimbundu_term": "Kufumbuka",
+      "portuguese_translation": "Estar enfunado, bojudo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufumbuka-1 — https://www.kimbundu.org/pt/word/kufumbuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8578,
+      "kimbundu_term": "Kufumbuka",
+      "portuguese_translation": "Despontar",
+      "definition": null,
+      "alternative_meanings": [
+        "começar a aparecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufumbuka-1 — https://www.kimbundu.org/pt/word/kufumbuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8579,
+      "kimbundu_term": "Kufumbula",
+      "portuguese_translation": "Enfunar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar bojudo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufumbula-1 — https://www.kimbundu.org/pt/word/kufumbula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8580,
+      "kimbundu_term": "Kufumbula",
+      "portuguese_translation": "Abreviar a morte de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufumbula-1 — https://www.kimbundu.org/pt/word/kufumbula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8581,
+      "kimbundu_term": "Kúfuna",
+      "portuguese_translation": "Comerciar",
+      "definition": null,
+      "alternative_meanings": [
+        "traficar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúfuna-1 — https://www.kimbundu.org/pt/word/kufuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8582,
+      "kimbundu_term": "Kúfuna",
+      "portuguese_translation": "Comprar e vender",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúfuna-1 — https://www.kimbundu.org/pt/word/kufuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8583,
+      "kimbundu_term": "Kúfuna",
+      "portuguese_translation": "Ganhar",
+      "definition": null,
+      "alternative_meanings": [
+        "tirar proveito"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúfuna-1 — https://www.kimbundu.org/pt/word/kufuna",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
