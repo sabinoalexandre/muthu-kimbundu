@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9374,
+      "kimbundu_term": "Kukenzamesa",
+      "portuguese_translation": "Fazer assentar (a água)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukenzamesa-1 — https://www.kimbundu.org/pt/word/kukenzamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9375,
+      "kimbundu_term": "Kukenzesa",
+      "portuguese_translation": "Fazer passar pelo coador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukenzesa-1 — https://www.kimbundu.org/pt/word/kukenzesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9376,
+      "kimbundu_term": "Kukenzesa",
+      "portuguese_translation": "Mandar limpar de impurezas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukenzesa-1 — https://www.kimbundu.org/pt/word/kukenzesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9377,
+      "kimbundu_term": "Kukenzesa",
+      "portuguese_translation": "Fazer cortar às escovinhas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukenzesa-1 — https://www.kimbundu.org/pt/word/kukenzesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9378,
+      "kimbundu_term": "Kukenzuka",
+      "portuguese_translation": "Ficar coado, filtrado, límpido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukenzuka-1 — https://www.kimbundu.org/pt/word/kukenzuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9379,
+      "kimbundu_term": "Kukenzuka",
+      "portuguese_translation": "Estar livre de impurezas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukenzuka-1 — https://www.kimbundu.org/pt/word/kukenzuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9380,
+      "kimbundu_term": "Kukenzuka",
+      "portuguese_translation": "Estar embriagado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukenzuka-1 — https://www.kimbundu.org/pt/word/kukenzuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9381,
+      "kimbundu_term": "Kukenzula",
+      "portuguese_translation": "Roçar",
+      "definition": null,
+      "alternative_meanings": [
+        "rasar",
+        "tirar por cima"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukenzula-1 — https://www.kimbundu.org/pt/word/kukenzula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9382,
+      "kimbundu_term": "Kukenzula",
+      "portuguese_translation": "Passar a raseira pela medida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukenzula-1 — https://www.kimbundu.org/pt/word/kukenzula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9383,
+      "kimbundu_term": "Kukenzula",
+      "portuguese_translation": "Embriagar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukenzula-1 — https://www.kimbundu.org/pt/word/kukenzula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
