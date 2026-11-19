@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6924,
+      "kimbundu_term": "Kuânza",
+      "portuguese_translation": "Rio majestoso, o maior que tem o seu curso no território de Angola. Nasce nas Ganguelas e desagua no Oceano ao S da cida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuânza-1 — https://www.kimbundu.org/pt/word/kuanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6925,
+      "kimbundu_term": "Kuasa",
+      "portuguese_translation": "Arpoar",
+      "definition": null,
+      "alternative_meanings": [
+        "copejar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuasa-1 — https://www.kimbundu.org/pt/word/kuasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6926,
+      "kimbundu_term": "Kuasa",
+      "portuguese_translation": "Cravar",
+      "definition": null,
+      "alternative_meanings": [
+        "espetar",
+        "disparar flechas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuasa-1 — https://www.kimbundu.org/pt/word/kuasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6927,
+      "kimbundu_term": "Kuasa",
+      "portuguese_translation": "Fisgar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuasa-1 — https://www.kimbundu.org/pt/word/kuasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6928,
+      "kimbundu_term": "Kuasa",
+      "portuguese_translation": "Arpoação",
+      "definition": null,
+      "alternative_meanings": [
+        "copejadura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuasa-1 — https://www.kimbundu.org/pt/word/kuasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6929,
+      "kimbundu_term": "Kuasesa",
+      "portuguese_translation": "Mandar arpoar, fisgar",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer disparar flechas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuasesa-1 — https://www.kimbundu.org/pt/word/kuasesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6930,
+      "kimbundu_term": "Kuasesa",
+      "portuguese_translation": "Kuriasesa, v. r. Fazer-se espetar",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer ter mau resultado (nos negócios)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuasesa-1 — https://www.kimbundu.org/pt/word/kuasesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6931,
+      "kimbundu_term": "Kuatidi",
+      "portuguese_translation": "Afluente do rio Cubango, na circ. civ. de Menonge, distr. e prov. do Bié",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuatidi-1 — https://www.kimbundu.org/pt/word/kuatidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6932,
+      "kimbundu_term": "Kuaúka",
+      "portuguese_translation": "Ficar chamuscado",
+      "definition": null,
+      "alternative_meanings": [
+        "estar queimado ou assado à superfície"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuaúka-1 — https://www.kimbundu.org/pt/word/kuauka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6933,
+      "kimbundu_term": "Kuaúka",
+      "portuguese_translation": "Chamuscadura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuaúka-1 — https://www.kimbundu.org/pt/word/kuauka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
