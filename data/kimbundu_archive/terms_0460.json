@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4704,
+      "kimbundu_term": "Kibuia",
+      "portuguese_translation": "Peixe descarnado de ambos os lados, ficando apenas a cabeça e a espinha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibuia-1 — https://www.kimbundu.org/pt/word/kibuia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4705,
+      "kimbundu_term": "Kibuiminu",
+      "portuguese_translation": "Que faz respirar ou tomar ar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibuiminu-1 — https://www.kimbundu.org/pt/word/kibuiminu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4706,
+      "kimbundu_term": "Kibuiminu",
+      "portuguese_translation": "Qualquer utensílio ou órgão respiratório",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibuiminu-1 — https://www.kimbundu.org/pt/word/kibuiminu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4707,
+      "kimbundu_term": "Kibuise",
+      "portuguese_translation": "Terminal",
+      "definition": null,
+      "alternative_meanings": [
+        "Que faz acabar, extinguir, pôr fim. Que faz chegar ao fim"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibuise-1 — https://www.kimbundu.org/pt/word/kibuise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4708,
+      "kimbundu_term": "Kibukane",
+      "portuguese_translation": "Escandaloso",
+      "definition": null,
+      "alternative_meanings": [
+        "indecoroso",
+        "vergonhoso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibukane-1 — https://www.kimbundu.org/pt/word/kibukane",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4709,
+      "kimbundu_term": "Kibukánu",
+      "portuguese_translation": "Escândalo. Indignação produzida por mau exemplo",
+      "definition": null,
+      "alternative_meanings": [
+        "Ofensa à moral, dos bons costumes",
+        "Topada",
+        "choque",
+        "Asneira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibukánu-1 — https://www.kimbundu.org/pt/word/kibukanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4710,
+      "kimbundu_term": "Kibukidilu",
+      "portuguese_translation": "Artefacto para avivar o lume",
+      "definition": null,
+      "alternative_meanings": [
+        "Ventarola",
+        "abano",
+        "Pancar",
+        "Aparelho que estabelece a corrente de ar",
+        "Ventoinha",
+        "leque"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibukidilu-1 — https://www.kimbundu.org/pt/word/kibukidilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4711,
+      "kimbundu_term": "Kibúku",
+      "portuguese_translation": "Ventura",
+      "definition": null,
+      "alternative_meanings": [
+        "sorte",
+        "felicidade",
+        "Felícia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibúku-1 — https://www.kimbundu.org/pt/word/kibuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4712,
+      "kimbundu_term": "Kibúku",
+      "portuguese_translation": "Deus da sorte",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibúku-1 — https://www.kimbundu.org/pt/word/kibuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4713,
+      "kimbundu_term": "Kibukumunu",
+      "portuguese_translation": "Movimento interior que nos instiga fazer o mal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibukumunu-1 — https://www.kimbundu.org/pt/word/kibukumunu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
