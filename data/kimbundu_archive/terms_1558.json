@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15684,
+      "kimbundu_term": "Miseju",
+      "portuguese_translation": "Hortaliças",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, miseju-1 — https://www.kimbundu.org/pt/word/miseju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15685,
+      "kimbundu_term": "Mísengu",
+      "portuguese_translation": "Pequenas covas em que se lançam as sementes de feijão ou milho para germinar e frutificar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mísengu-1 — https://www.kimbundu.org/pt/word/misengu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15686,
+      "kimbundu_term": "Misoko",
+      "portuguese_translation": "Ramos",
+      "definition": null,
+      "alternative_meanings": [
+        "palmas",
+        "Grelos de palmeira",
+        "Palmitos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, misoko-1 — https://www.kimbundu.org/pt/word/misoko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15687,
+      "kimbundu_term": "Misombo",
+      "portuguese_translation": "Grupo de batráquios de espécie ranida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, misombo-1 — https://www.kimbundu.org/pt/word/misombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15688,
+      "kimbundu_term": "Misóngo",
+      "portuguese_translation": "Raios",
+      "definition": null,
+      "alternative_meanings": [
+        "frechas",
+        "espetos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, misóngo-1 — https://www.kimbundu.org/pt/word/misongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15689,
+      "kimbundu_term": "Misóngo",
+      "portuguese_translation": "Parte de um exército armado de lanças",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, misóngo-1 — https://www.kimbundu.org/pt/word/misongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15690,
+      "kimbundu_term": "Misóngo",
+      "portuguese_translation": "As pontas aguçadas de que se reveste o cacho do dendém",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, misóngo-1 — https://www.kimbundu.org/pt/word/misongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15691,
+      "kimbundu_term": "Misóso",
+      "portuguese_translation": "Família de plantas mimoseáceas",
+      "definition": null,
+      "alternative_meanings": [
+        "O seu conjunto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, misóso-1 — https://www.kimbundu.org/pt/word/misoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15692,
+      "kimbundu_term": "Misóso",
+      "portuguese_translation": "Paus",
+      "definition": null,
+      "alternative_meanings": [
+        "cajados",
+        "cacetes"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, misóso-1 — https://www.kimbundu.org/pt/word/misoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15693,
+      "kimbundu_term": "Misóso",
+      "portuguese_translation": "Mastros",
+      "definition": null,
+      "alternative_meanings": [
+        "Vigas",
+        "traves"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, misóso-1 — https://www.kimbundu.org/pt/word/misoso",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
