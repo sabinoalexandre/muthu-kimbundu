@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2634,
+      "kimbundu_term": "Jindalu",
+      "portuguese_translation": "Cotas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jindalu-1 — https://www.kimbundu.org/pt/word/jindalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2635,
+      "kimbundu_term": "Jindalu",
+      "portuguese_translation": "Saias curtas feitas de fibras de embondeiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jindalu-1 — https://www.kimbundu.org/pt/word/jindalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2636,
+      "kimbundu_term": "Jindâmba",
+      "portuguese_translation": "Restolhal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jindâmba-1 — https://www.kimbundu.org/pt/word/jindamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2637,
+      "kimbundu_term": "Jindambu",
+      "portuguese_translation": "Carneiros",
+      "definition": null,
+      "alternative_meanings": [
+        "Depósito de ossadas",
+        "Criptas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jindambu-1 — https://www.kimbundu.org/pt/word/jindambu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2638,
+      "kimbundu_term": "Jindanda",
+      "portuguese_translation": "Plantas da família das ciperáceas que têm por tipo a junça",
+      "definition": null,
+      "alternative_meanings": [
+        "Bunho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jindanda-1 — https://www.kimbundu.org/pt/word/jindanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2639,
+      "kimbundu_term": "Jindandu",
+      "portuguese_translation": "Parentes",
+      "definition": null,
+      "alternative_meanings": [
+        "Pessoas de família"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jindandu-1 — https://www.kimbundu.org/pt/word/jindandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2640,
+      "kimbundu_term": "Jindánji",
+      "portuguese_translation": "Raízes",
+      "definition": null,
+      "alternative_meanings": [
+        "Rizomas",
+        "Bases"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jindánji-1 — https://www.kimbundu.org/pt/word/jindanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2641,
+      "kimbundu_term": "Jindánji",
+      "portuguese_translation": "Varinhas com que se tocam marimbas, tambores e outros instrumentos sonoros",
+      "definition": null,
+      "alternative_meanings": [
+        "Baguetas",
+        "Badalos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jindánji-1 — https://www.kimbundu.org/pt/word/jindanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2642,
+      "kimbundu_term": "Jindele",
+      "portuguese_translation": "Almas do outro mundo",
+      "definition": null,
+      "alternative_meanings": [
+        "Espíritos dos que tiveram morte violenta e que vêm, por sua vez, perseguir e imolar os descendentes dos seus sacrificado",
+        "Manes",
+        "Espíritos dos sacrificados pelos caçadores de vítimas",
+        "Sombras dos mortos",
+        "Almas de salteadores ou criminosos que se encarnam em corpos de pessoas arrebatadas, infecundas ou obcecadas, determinan",
+        "fig. Deuses infernais"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jindele-1 — https://www.kimbundu.org/pt/word/jindele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2643,
+      "kimbundu_term": "Jindemba",
+      "portuguese_translation": "Conjunto de pelos da cabeça e, p. ext., do corpo humano",
+      "definition": null,
+      "alternative_meanings": [
+        "Cabelo",
+        "Pelo comprido de certos animais"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jindemba-1 — https://www.kimbundu.org/pt/word/jindemba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
