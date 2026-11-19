@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10934,
+      "kimbundu_term": "Kunúa",
+      "portuguese_translation": "Cheirar",
+      "definition": null,
+      "alternative_meanings": [
+        "feder"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunúa-1 — https://www.kimbundu.org/pt/word/kunua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10935,
+      "kimbundu_term": "Kunúa",
+      "portuguese_translation": "Aroma",
+      "definition": null,
+      "alternative_meanings": [
+        "cheiro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunúa-1 — https://www.kimbundu.org/pt/word/kunua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10936,
+      "kimbundu_term": "Kunúa",
+      "portuguese_translation": "Kurinúa, v. r. Tomar o cheiro um ao outro, ou a si mesmo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunúa-1 — https://www.kimbundu.org/pt/word/kunua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10937,
+      "kimbundu_term": "Kunuéka",
+      "portuguese_translation": "Arfar",
+      "definition": null,
+      "alternative_meanings": [
+        "Sentir tefe-tefe"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunuéka-1 — https://www.kimbundu.org/pt/word/kunueka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10938,
+      "kimbundu_term": "Kunuhisa",
+      "portuguese_translation": "Dar a cheirar. Fazer exalar cheiro",
+      "definition": null,
+      "alternative_meanings": [
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunuhisa-1 — https://www.kimbundu.org/pt/word/kunuhisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10939,
+      "kimbundu_term": "Kunuikina",
+      "portuguese_translation": "Emborrachar",
+      "definition": null,
+      "alternative_meanings": [
+        "embebedar",
+        "Dar de beber demasiado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunuikina-1 — https://www.kimbundu.org/pt/word/kunuikina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10940,
+      "kimbundu_term": "Kunuikina",
+      "portuguese_translation": "Kurinuikina, e r. Embebedar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "embriagar-se até cair"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunuikina-1 — https://www.kimbundu.org/pt/word/kunuikina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10941,
+      "kimbundu_term": "Kunúma",
+      "portuguese_translation": "Concordar",
+      "definition": null,
+      "alternative_meanings": [
+        "estar em harmonia",
+        "Acordar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunúma-1 — https://www.kimbundu.org/pt/word/kunuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10942,
+      "kimbundu_term": "Kunúma",
+      "portuguese_translation": "Harmonia",
+      "definition": null,
+      "alternative_meanings": [
+        "combinação",
+        "acordo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunúma-1 — https://www.kimbundu.org/pt/word/kunuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10943,
+      "kimbundu_term": "Kunúma",
+      "portuguese_translation": "Kurinuma, v. r. Lembrar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "recordar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunúma-1 — https://www.kimbundu.org/pt/word/kunuma",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
