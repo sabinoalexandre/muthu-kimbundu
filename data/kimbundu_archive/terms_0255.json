@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2654,
+      "kimbundu_term": "Jindóngo",
+      "portuguese_translation": "Ensinamentos",
+      "definition": null,
+      "alternative_meanings": [
+        "Pareceres",
+        "Conselhos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jindóngo-1 — https://www.kimbundu.org/pt/word/jindongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2655,
+      "kimbundu_term": "Jindumbe",
+      "portuguese_translation": "Noviços",
+      "definition": null,
+      "alternative_meanings": [
+        "Os que se preparam para professar em xinguilamentos",
+        "Novatos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jindumbe-1 — https://www.kimbundu.org/pt/word/jindumbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2656,
+      "kimbundu_term": "Jindunda",
+      "portuguese_translation": "Responsabilidades",
+      "definition": null,
+      "alternative_meanings": [
+        "Culpas",
+        "Queixas",
+        "Informações",
+        "boatos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jindunda-1 — https://www.kimbundu.org/pt/word/jindunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2657,
+      "kimbundu_term": "Jindundu",
+      "portuguese_translation": "Socos",
+      "definition": null,
+      "alternative_meanings": [
+        "Murros",
+        "Pancadas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jindundu-1 — https://www.kimbundu.org/pt/word/jindundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2658,
+      "kimbundu_term": "Jindundu",
+      "portuguese_translation": "Família de plantas solanáceas (solanum albifolium), utilizada como condimento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jindundu-1 — https://www.kimbundu.org/pt/word/jindundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2659,
+      "kimbundu_term": "Jindungu",
+      "portuguese_translation": "Fruto de plantas piperáceas. Pimenta, de que há várias espécies",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jindungu-1 — https://www.kimbundu.org/pt/word/jindungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2660,
+      "kimbundu_term": "Jindungu",
+      "portuguese_translation": "Ardor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jindungu-1 — https://www.kimbundu.org/pt/word/jindungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2661,
+      "kimbundu_term": "Jindúta",
+      "portuguese_translation": "Presentes que a mulher casada recebe de seu amante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jindúta-1 — https://www.kimbundu.org/pt/word/jinduta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2662,
+      "kimbundu_term": "Jindúta",
+      "portuguese_translation": "Dádivas para subornar",
+      "definition": null,
+      "alternative_meanings": [
+        "peita"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jindúta-1 — https://www.kimbundu.org/pt/word/jinduta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2663,
+      "kimbundu_term": "Jindúta",
+      "portuguese_translation": "Objetos adquiridos com o produto da prostituição",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jindúta-1 — https://www.kimbundu.org/pt/word/jinduta",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
