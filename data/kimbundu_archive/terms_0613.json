@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6234,
+      "kimbundu_term": "Kisuka",
+      "portuguese_translation": "Perda ou falta de esperança",
+      "definition": null,
+      "alternative_meanings": [
+        "Impaciência",
+        "frenesi",
+        "pressa",
+        "Aborrecimento",
+        "desespero"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisuka-1 — https://www.kimbundu.org/pt/word/kisuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6235,
+      "kimbundu_term": "Kisuka",
+      "portuguese_translation": "adj. Possuído de frenesi",
+      "definition": null,
+      "alternative_meanings": [
+        "Impaciente",
+        "intolerante"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisuka-1 — https://www.kimbundu.org/pt/word/kisuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6236,
+      "kimbundu_term": "Kisuke",
+      "portuguese_translation": "Bastante",
+      "definition": null,
+      "alternative_meanings": [
+        "suficiente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisuke-1 — https://www.kimbundu.org/pt/word/kisuke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6237,
+      "kimbundu_term": "Kisúkila",
+      "portuguese_translation": "Imagem que se julga ver em sonhos",
+      "definition": null,
+      "alternative_meanings": [
+        "Ilusão do espírito"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisúkila-1 — https://www.kimbundu.org/pt/word/kisukila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6238,
+      "kimbundu_term": "Kisúkila",
+      "portuguese_translation": "Coisas que Deus faz ver aos seus escolhidos",
+      "definition": null,
+      "alternative_meanings": [
+        "Visão",
+        "sonho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisúkila-1 — https://www.kimbundu.org/pt/word/kisukila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6239,
+      "kimbundu_term": "Kisukininu",
+      "portuguese_translation": "Termo: finalidade",
+      "definition": null,
+      "alternative_meanings": [
+        "remate",
+        "Conclusão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisukininu-1 — https://www.kimbundu.org/pt/word/kisukininu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6240,
+      "kimbundu_term": "Kisukininu",
+      "portuguese_translation": "O que está ou ficou atrás",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Couce"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisukininu-1 — https://www.kimbundu.org/pt/word/kisukininu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6241,
+      "kimbundu_term": "Kisukininu",
+      "portuguese_translation": "Precedente",
+      "definition": null,
+      "alternative_meanings": [
+        "anterior",
+        "Atrasado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisukininu-1 — https://www.kimbundu.org/pt/word/kisukininu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6242,
+      "kimbundu_term": "Kisuku",
+      "portuguese_translation": "Extremo",
+      "definition": null,
+      "alternative_meanings": [
+        "Derradeiro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisuku-1 — https://www.kimbundu.org/pt/word/kisuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6243,
+      "kimbundu_term": "Kisuku",
+      "portuguese_translation": "Que se faz ou se relaciona com a noite",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisuku-1 — https://www.kimbundu.org/pt/word/kisuku",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
