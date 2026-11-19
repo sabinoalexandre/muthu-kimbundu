@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10094,
+      "kimbundu_term": "Kuléba",
+      "portuguese_translation": "Ser elevado, alto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuléba-1 — https://www.kimbundu.org/pt/word/kuleba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10095,
+      "kimbundu_term": "Kuléba",
+      "portuguese_translation": "Ser comprido, extenso: njll-mu ende u mu mone o —",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuléba-1 — https://www.kimbundu.org/pt/word/kuleba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10096,
+      "kimbundu_term": "Kuléba",
+      "portuguese_translation": "Dimensão de alto a baixo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuléba-1 — https://www.kimbundu.org/pt/word/kuleba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10097,
+      "kimbundu_term": "Kuléba",
+      "portuguese_translation": "Comprimento",
+      "definition": null,
+      "alternative_meanings": [
+        "extensão"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuléba-1 — https://www.kimbundu.org/pt/word/kuleba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10098,
+      "kimbundu_term": "Kulebelela",
+      "portuguese_translation": "Ser longo, comprido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulebelela-1 — https://www.kimbundu.org/pt/word/kulebelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10099,
+      "kimbundu_term": "Kulebelela",
+      "portuguese_translation": "Comprimento",
+      "definition": null,
+      "alternative_meanings": [
+        "longura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulebelela-1 — https://www.kimbundu.org/pt/word/kulebelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10100,
+      "kimbundu_term": "Kulebelela",
+      "portuguese_translation": "Extensão entre duas extremidades (no sentido longitudinal)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulebelela-1 — https://www.kimbundu.org/pt/word/kulebelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10101,
+      "kimbundu_term": "Kulebelésa",
+      "portuguese_translation": "Alongar",
+      "definition": null,
+      "alternative_meanings": [
+        "estender",
+        "tornar comprido. É também reflexivo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulebelésa-1 — https://www.kimbundu.org/pt/word/kulebelesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10102,
+      "kimbundu_term": "Kúlebesa",
+      "portuguese_translation": "Dar amostra a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlebesa-1 — https://www.kimbundu.org/pt/word/kulebesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10103,
+      "kimbundu_term": "Kulebésa",
+      "portuguese_translation": "Esticar, rematar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar extenso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulebésa-1 — https://www.kimbundu.org/pt/word/kulebesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
