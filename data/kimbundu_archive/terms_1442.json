@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14524,
+      "kimbundu_term": "Majita",
+      "portuguese_translation": "As bolas que se criam na panela do funje",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, majita-1 — https://www.kimbundu.org/pt/word/majita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14525,
+      "kimbundu_term": "Máju",
+      "portuguese_translation": "Dentes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, máju-1 — https://www.kimbundu.org/pt/word/maju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14526,
+      "kimbundu_term": "Máju",
+      "portuguese_translation": "Fio",
+      "definition": null,
+      "alternative_meanings": [
+        "gume. Aguçadura"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, máju-1 — https://www.kimbundu.org/pt/word/maju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14527,
+      "kimbundu_term": "Máju",
+      "portuguese_translation": "Dental. Dentário",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, máju-1 — https://www.kimbundu.org/pt/word/maju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14528,
+      "kimbundu_term": "Máju",
+      "portuguese_translation": "Dentar",
+      "definition": null,
+      "alternative_meanings": [
+        "morder"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, máju-1 — https://www.kimbundu.org/pt/word/maju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14529,
+      "kimbundu_term": "Máka",
+      "portuguese_translation": "Conversação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, máka-1 — https://www.kimbundu.org/pt/word/maka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14530,
+      "kimbundu_term": "Máka",
+      "portuguese_translation": "Falas",
+      "definition": null,
+      "alternative_meanings": [
+        "ditos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, máka-1 — https://www.kimbundu.org/pt/word/maka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14531,
+      "kimbundu_term": "Máka",
+      "portuguese_translation": "Questões",
+      "definition": null,
+      "alternative_meanings": [
+        "pendências"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, máka-1 — https://www.kimbundu.org/pt/word/maka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14532,
+      "kimbundu_term": "Máka",
+      "portuguese_translation": "Assunto",
+      "definition": null,
+      "alternative_meanings": [
+        "os dizeres de uma carta"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, máka-1 — https://www.kimbundu.org/pt/word/maka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14533,
+      "kimbundu_term": "Máka",
+      "portuguese_translation": "Colóquio",
+      "definition": null,
+      "alternative_meanings": [
+        "conversa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, máka-1 — https://www.kimbundu.org/pt/word/maka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
