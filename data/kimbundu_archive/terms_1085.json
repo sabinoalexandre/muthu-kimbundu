@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10954,
+      "kimbundu_term": "Kunyakuka",
+      "portuguese_translation": "Ficar pejado, abarrotado, bojudo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyakuka-1 — https://www.kimbundu.org/pt/word/kunyakuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10955,
+      "kimbundu_term": "Kunyakuka",
+      "portuguese_translation": "Arremessar-se, atirar-se (ao chão)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyakuka-1 — https://www.kimbundu.org/pt/word/kunyakuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10956,
+      "kimbundu_term": "Kunyakuka",
+      "portuguese_translation": "Abarrotamento",
+      "definition": null,
+      "alternative_meanings": [
+        "enfarte"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyakuka-1 — https://www.kimbundu.org/pt/word/kunyakuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10957,
+      "kimbundu_term": "Kunyakukisa",
+      "portuguese_translation": "Enfartar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer pejar, encher quanto possível"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyakukisa-1 — https://www.kimbundu.org/pt/word/kunyakukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10958,
+      "kimbundu_term": "Kunyáma",
+      "portuguese_translation": "Caçar",
+      "definition": null,
+      "alternative_meanings": [
+        "Andar à caça (no mato)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyáma-1 — https://www.kimbundu.org/pt/word/kunyama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10959,
+      "kimbundu_term": "Kunyáma",
+      "portuguese_translation": "Caça",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyáma-1 — https://www.kimbundu.org/pt/word/kunyama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10960,
+      "kimbundu_term": "Kunyamuna",
+      "portuguese_translation": "Falar sem ser a propósito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyamuna-1 — https://www.kimbundu.org/pt/word/kunyamuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10961,
+      "kimbundu_term": "Kunyamuna",
+      "portuguese_translation": "Delatar",
+      "definition": null,
+      "alternative_meanings": [
+        "revelar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyamuna-1 — https://www.kimbundu.org/pt/word/kunyamuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10962,
+      "kimbundu_term": "Kunyamuna",
+      "portuguese_translation": "Dizer coisas inverosímeis",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyamuna-1 — https://www.kimbundu.org/pt/word/kunyamuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10963,
+      "kimbundu_term": "Kunyana",
+      "portuguese_translation": "Furtar",
+      "definition": null,
+      "alternative_meanings": [
+        "roubar",
+        "Raptar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyana-1 — https://www.kimbundu.org/pt/word/kunyana",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
