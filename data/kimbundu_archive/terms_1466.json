@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14764,
+      "kimbundu_term": "Mandinga",
+      "portuguese_translation": "sub. pl. (IX) Indignação",
+      "definition": null,
+      "alternative_meanings": [
+        "cólera",
+        "Mau humor",
+        "fig. Bílis"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mandinga-1 — https://www.kimbundu.org/pt/word/mandinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14765,
+      "kimbundu_term": "Mandinga",
+      "portuguese_translation": "Superstição",
+      "definition": null,
+      "alternative_meanings": [
+        "preconceitos",
+        "Presságio que se tira de acidentes e circunstâncias meramente fortuitas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mandinga-1 — https://www.kimbundu.org/pt/word/mandinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14766,
+      "kimbundu_term": "Mandinga",
+      "portuguese_translation": "Que é dominado pela superstição",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mandinga-1 — https://www.kimbundu.org/pt/word/mandinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14767,
+      "kimbundu_term": "Mándu",
+      "portuguese_translation": "(IX) port. Manto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mándu-1 — https://www.kimbundu.org/pt/word/mandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14768,
+      "kimbundu_term": "Mánga",
+      "portuguese_translation": "(IX) bot. Fruto da mangueira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mánga-1 — https://www.kimbundu.org/pt/word/manga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14769,
+      "kimbundu_term": "Mangala",
+      "portuguese_translation": "(II) bot. Arbusto ramoso de folhas simples e flores polinizadas",
+      "definition": null,
+      "alternative_meanings": [
+        "Árvore, tipo das rubiáceas, fam. das rizoforáceas (rhizophora mangle), empregada na indústria de tinturaria e medicina."
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mangala-1 — https://www.kimbundu.org/pt/word/mangala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14770,
+      "kimbundu_term": "Mangênge",
+      "portuguese_translation": "Boto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mangênge-1 — https://www.kimbundu.org/pt/word/mangenge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14771,
+      "kimbundu_term": "Mángi",
+      "portuguese_translation": "Pato",
+      "definition": null,
+      "alternative_meanings": [
+        "marreco"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mángi-1 — https://www.kimbundu.org/pt/word/mangi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14772,
+      "kimbundu_term": "Mangole",
+      "portuguese_translation": "Deus",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mangole-1 — https://www.kimbundu.org/pt/word/mangole",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14773,
+      "kimbundu_term": "Mangongena",
+      "portuguese_translation": "Lamentações",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mangongena-1 — https://www.kimbundu.org/pt/word/mangongena",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
