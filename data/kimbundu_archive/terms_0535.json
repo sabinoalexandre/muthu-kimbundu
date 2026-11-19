@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5454,
+      "kimbundu_term": "Kilólo",
+      "portuguese_translation": "Brigadeiro",
+      "definition": null,
+      "alternative_meanings": [
+        "comandante",
+        "cabo de guerra",
+        "Guerreador"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilólo-1 — https://www.kimbundu.org/pt/word/kilolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5455,
+      "kimbundu_term": "Kilombe",
+      "portuguese_translation": "Negror",
+      "definition": null,
+      "alternative_meanings": [
+        "negrume",
+        "O que constitui a cor negra"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilombe-1 — https://www.kimbundu.org/pt/word/kilombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5456,
+      "kimbundu_term": "Kilombe",
+      "portuguese_translation": "Que enegrece",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilombe-1 — https://www.kimbundu.org/pt/word/kilombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5457,
+      "kimbundu_term": "Kilombelombe",
+      "portuguese_translation": "Corvo",
+      "definition": null,
+      "alternative_meanings": [
+        "Gralha",
+        "pega",
+        "Género de aves corvícidas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilombelombe-1 — https://www.kimbundu.org/pt/word/kilombelombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5458,
+      "kimbundu_term": "Kilombelombe",
+      "portuguese_translation": "Negregoso",
+      "definition": null,
+      "alternative_meanings": [
+        "muito preto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilombelombe-1 — https://www.kimbundu.org/pt/word/kilombelombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5459,
+      "kimbundu_term": "Kilómbo",
+      "portuguese_translation": "Conjunto de forças militares",
+      "definition": null,
+      "alternative_meanings": [
+        "Arraial"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilómbo-1 — https://www.kimbundu.org/pt/word/kilombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5460,
+      "kimbundu_term": "Kilómbo",
+      "portuguese_translation": "Lugar de reunião ou sanzala de trabalhadores",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilómbo-1 — https://www.kimbundu.org/pt/word/kilombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5461,
+      "kimbundu_term": "Kilómbo",
+      "portuguese_translation": "Pessoa de vista turva, ou cujos olhos não miram na mesma direção",
+      "definition": null,
+      "alternative_meanings": [
+        "Assa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilómbo-1 — https://www.kimbundu.org/pt/word/kilombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5462,
+      "kimbundu_term": "Kilombolwelu",
+      "portuguese_translation": "Suscetível de interpretação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilombolwelu-1 — https://www.kimbundu.org/pt/word/kilombolwelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5463,
+      "kimbundu_term": "Kilónda",
+      "portuguese_translation": "Ferida",
+      "definition": null,
+      "alternative_meanings": [
+        "golpe",
+        "chaga"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilónda-1 — https://www.kimbundu.org/pt/word/kilonda",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
