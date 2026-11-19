@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11394,
+      "kimbundu_term": "Kusangáta",
+      "portuguese_translation": "Estado de fêmea no período da gestação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusangáta-1 — https://www.kimbundu.org/pt/word/kusangata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11395,
+      "kimbundu_term": "Kusangatesa",
+      "portuguese_translation": "Fazer pejar, encher",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusangatesa-1 — https://www.kimbundu.org/pt/word/kusangatesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11396,
+      "kimbundu_term": "Kusangela",
+      "portuguese_translation": "Cotisar",
+      "definition": null,
+      "alternative_meanings": [
+        "contribuir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusangela-1 — https://www.kimbundu.org/pt/word/kusangela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11397,
+      "kimbundu_term": "Kusangela",
+      "portuguese_translation": "Compartilhar",
+      "definition": null,
+      "alternative_meanings": [
+        "ser sócio em"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusangela-1 — https://www.kimbundu.org/pt/word/kusangela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11398,
+      "kimbundu_term": "Kusangela",
+      "portuguese_translation": "Encontrar",
+      "definition": null,
+      "alternative_meanings": [
+        "achar (procurando)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusangela-1 — https://www.kimbundu.org/pt/word/kusangela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11399,
+      "kimbundu_term": "Kusangelesa",
+      "portuguese_translation": "Fazer cotisar, dar sociedade em",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusangelesa-1 — https://www.kimbundu.org/pt/word/kusangelesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11400,
+      "kimbundu_term": "Kusangesa",
+      "portuguese_translation": "Fazer encontrar, deparar, achar o",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusangesa-1 — https://www.kimbundu.org/pt/word/kusangesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11401,
+      "kimbundu_term": "Kusangesa",
+      "portuguese_translation": "Pôr diante de",
+      "definition": null,
+      "alternative_meanings": [
+        "apresentar (sem ser esperado)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusangesa-1 — https://www.kimbundu.org/pt/word/kusangesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11402,
+      "kimbundu_term": "Kusanguluka",
+      "portuguese_translation": "Ser folgasão, jovial",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusanguluka-1 — https://www.kimbundu.org/pt/word/kusanguluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11403,
+      "kimbundu_term": "Kusanguluka",
+      "portuguese_translation": "Sentir prazer, contentamento, alegria",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusanguluka-1 — https://www.kimbundu.org/pt/word/kusanguluka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
