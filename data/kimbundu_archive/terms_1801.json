@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18114,
+      "kimbundu_term": "Ngiángia",
+      "portuguese_translation": "Vivo (esperto)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngiángia-1 — https://www.kimbundu.org/pt/word/ngiangia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18115,
+      "kimbundu_term": "Ngidi",
+      "portuguese_translation": "(IX) Parente",
+      "definition": null,
+      "alternative_meanings": [
+        "familiar",
+        "amigo",
+        "Pessoa de nossa intimidade, de nossa família",
+        "Semelhante"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngidi-1 — https://www.kimbundu.org/pt/word/ngidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18116,
+      "kimbundu_term": "Ngidi",
+      "portuguese_translation": "Afeiçoado, partidário",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngidi-1 — https://www.kimbundu.org/pt/word/ngidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18117,
+      "kimbundu_term": "Ngididi",
+      "portuguese_translation": "Pedaço de madeira em forma cónica com um bico que serve de jogo de rapazes",
+      "definition": null,
+      "alternative_meanings": [
+        "Pião"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngididi-1 — https://www.kimbundu.org/pt/word/ngididi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18118,
+      "kimbundu_term": "Ngidinyá",
+      "portuguese_translation": "Prisão",
+      "definition": null,
+      "alternative_meanings": [
+        "Rede para envolver e prender animais ferozes"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngidinyá-1 — https://www.kimbundu.org/pt/word/ngidinya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18119,
+      "kimbundu_term": "Ngidinyá",
+      "portuguese_translation": "É mais usado no plural jingirinhá",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngidinyá-1 — https://www.kimbundu.org/pt/word/ngidinya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18120,
+      "kimbundu_term": "Ngidiuána!",
+      "portuguese_translation": "Credo! Eu te esconjuro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngidiuána!-1 — https://www.kimbundu.org/pt/word/ngidiuana%21",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18121,
+      "kimbundu_term": "Ngijí",
+      "portuguese_translation": "Curso de água",
+      "definition": null,
+      "alternative_meanings": [
+        "rio",
+        "líquido que corre abundantemente",
+        "riacho",
+        "ribeiro",
+        "pequeno rio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngijí-1 — https://www.kimbundu.org/pt/word/ngiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18122,
+      "kimbundu_term": "Ngijí",
+      "portuguese_translation": "Riacho",
+      "definition": null,
+      "alternative_meanings": [
+        "Ribeiro",
+        "Pequeno rio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngijí-1 — https://www.kimbundu.org/pt/word/ngiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18123,
+      "kimbundu_term": "Ngijí",
+      "portuguese_translation": "Conhecido",
+      "definition": null,
+      "alternative_meanings": [
+        "que conhece",
+        "pessoa que nos é conhecida",
+        "do nosso conhecimento"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngijí-2 — https://www.kimbundu.org/pt/word/ngiji",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
