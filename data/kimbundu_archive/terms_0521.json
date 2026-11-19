@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5314,
+      "kimbundu_term": "Kikumba",
+      "portuguese_translation": "Continente",
+      "definition": null,
+      "alternative_meanings": [
+        "vaso",
+        "ceira",
+        "Conjunto de aparelhos ou utensílios destinados a certo fim",
+        "Trem",
+        "bagagem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikumba-1 — https://www.kimbundu.org/pt/word/kikumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5315,
+      "kimbundu_term": "Kikumbi",
+      "portuguese_translation": "Anequim",
+      "definition": null,
+      "alternative_meanings": [
+        "primeiros sintomas da puberdade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikumbi-1 — https://www.kimbundu.org/pt/word/kikumbi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5316,
+      "kimbundu_term": "Kikumbi",
+      "portuguese_translation": "A festa da puberdade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikumbi-1 — https://www.kimbundu.org/pt/word/kikumbi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5317,
+      "kimbundu_term": "Kikumbi",
+      "portuguese_translation": "e sub. Púbere",
+      "definition": null,
+      "alternative_meanings": [
+        "que está na puberdade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikumbi-1 — https://www.kimbundu.org/pt/word/kikumbi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5318,
+      "kimbundu_term": "Kikúmbu",
+      "portuguese_translation": "Dignidade",
+      "definition": null,
+      "alternative_meanings": [
+        "Gravidade",
+        "Seriedade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikúmbu-1 — https://www.kimbundu.org/pt/word/kikumbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5319,
+      "kimbundu_term": "Kikume",
+      "portuguese_translation": "Que aborrece ou causa aborrecimento",
+      "definition": null,
+      "alternative_meanings": [
+        "Aborrecido"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikume-1 — https://www.kimbundu.org/pt/word/kikume",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5320,
+      "kimbundu_term": "Kikúnda",
+      "portuguese_translation": "Quebra aleivosa da fé empenhada",
+      "definition": null,
+      "alternative_meanings": [
+        "Traimento",
+        "perfídia",
+        "falsa fé"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikúnda-1 — https://www.kimbundu.org/pt/word/kikunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5321,
+      "kimbundu_term": "Kikúnda",
+      "portuguese_translation": "Desforra",
+      "definition": null,
+      "alternative_meanings": [
+        "vingança",
+        "inimizade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikúnda-1 — https://www.kimbundu.org/pt/word/kikunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5322,
+      "kimbundu_term": "Kikune",
+      "portuguese_translation": "(III) Suscetível de ser plantado ou semeado",
+      "definition": null,
+      "alternative_meanings": [
+        "Próprio para semear"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikune-1 — https://www.kimbundu.org/pt/word/kikune",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5323,
+      "kimbundu_term": "Kikune",
+      "portuguese_translation": "Semente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikune-1 — https://www.kimbundu.org/pt/word/kikune",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
