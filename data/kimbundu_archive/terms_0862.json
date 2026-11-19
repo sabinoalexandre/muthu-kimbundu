@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8724,
+      "kimbundu_term": "Kuhénda",
+      "portuguese_translation": "Presidir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhénda-1 — https://www.kimbundu.org/pt/word/kuhenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8725,
+      "kimbundu_term": "Kuhénda",
+      "portuguese_translation": "Exercer a função de presidente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhénda-1 — https://www.kimbundu.org/pt/word/kuhenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8726,
+      "kimbundu_term": "Kuhidika",
+      "portuguese_translation": "e intr. Demonstrar",
+      "definition": null,
+      "alternative_meanings": [
+        "persuadir. Ter a convicção de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhidika-1 — https://www.kimbundu.org/pt/word/kuhidika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8727,
+      "kimbundu_term": "Kuhidika",
+      "portuguese_translation": "Acreditar",
+      "definition": null,
+      "alternative_meanings": [
+        "convencer-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhidika-1 — https://www.kimbundu.org/pt/word/kuhidika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8728,
+      "kimbundu_term": "Kuhidikiza",
+      "portuguese_translation": "Fazer acreditar, persuadir. Provar",
+      "definition": null,
+      "alternative_meanings": [
+        "pôr à evidência"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhidikiza-1 — https://www.kimbundu.org/pt/word/kuhidikiza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8729,
+      "kimbundu_term": "Kuhínda",
+      "portuguese_translation": "Estimar",
+      "definition": null,
+      "alternative_meanings": [
+        "gostar",
+        "querer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhínda-1 — https://www.kimbundu.org/pt/word/kuhinda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8730,
+      "kimbundu_term": "Kuhínda",
+      "portuguese_translation": "Querença",
+      "definition": null,
+      "alternative_meanings": [
+        "amizade"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhínda-1 — https://www.kimbundu.org/pt/word/kuhinda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8731,
+      "kimbundu_term": "Kuhindila",
+      "portuguese_translation": "Desejar",
+      "definition": null,
+      "alternative_meanings": [
+        "sentir prazer por"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhindila-1 — https://www.kimbundu.org/pt/word/kuhindila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8732,
+      "kimbundu_term": "Kuhindila",
+      "portuguese_translation": "Aspirar a",
+      "definition": null,
+      "alternative_meanings": [
+        "querer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhindila-1 — https://www.kimbundu.org/pt/word/kuhindila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8733,
+      "kimbundu_term": "Kuhindingila",
+      "portuguese_translation": "Afanar. Praticar (algo) com ânsia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhindingila-1 — https://www.kimbundu.org/pt/word/kuhindingila",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
