@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17294,
+      "kimbundu_term": "Mútoue",
+      "portuguese_translation": "Planta fam. das leguminosas (berlinia panticulata), semelhante à árvore mupandi",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mútoue-2 — https://www.kimbundu.org/pt/word/mutoue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17295,
+      "kimbundu_term": "Mutóxi",
+      "portuguese_translation": "Planta rosácea",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutóxi-1 — https://www.kimbundu.org/pt/word/mutoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17296,
+      "kimbundu_term": "Mutuábe",
+      "portuguese_translation": "Exprobador",
+      "definition": null,
+      "alternative_meanings": [
+        "censor"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutuábe-1 — https://www.kimbundu.org/pt/word/mutuabe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17297,
+      "kimbundu_term": "Mutuameneni",
+      "portuguese_translation": "Que vai na vanguarda",
+      "definition": null,
+      "alternative_meanings": [
+        "Pessoa que toma a dianteira",
+        "Guia"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutuameneni-1 — https://www.kimbundu.org/pt/word/mutuameneni",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17298,
+      "kimbundu_term": "Mutuamu",
+      "portuguese_translation": "Dianteiro",
+      "definition": null,
+      "alternative_meanings": [
+        "passavante"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutuamu-1 — https://www.kimbundu.org/pt/word/mutuamu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17299,
+      "kimbundu_term": "Mutuange",
+      "portuguese_translation": "Vituperador",
+      "definition": null,
+      "alternative_meanings": [
+        "Que lança em rosto (atos censuráveis)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutuange-1 — https://www.kimbundu.org/pt/word/mutuange",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17300,
+      "kimbundu_term": "Mútudi",
+      "portuguese_translation": "Viúvo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mútudi-1 — https://www.kimbundu.org/pt/word/mutudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17301,
+      "kimbundu_term": "Mútudi",
+      "portuguese_translation": "Privado",
+      "definition": null,
+      "alternative_meanings": [
+        "triste"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mútudi-1 — https://www.kimbundu.org/pt/word/mutudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17302,
+      "kimbundu_term": "Mútudi",
+      "portuguese_translation": "Desgostoso",
+      "definition": null,
+      "alternative_meanings": [
+        "contristado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mútudi-1 — https://www.kimbundu.org/pt/word/mutudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17303,
+      "kimbundu_term": "Mutuini",
+      "portuguese_translation": "Vingador",
+      "definition": null,
+      "alternative_meanings": [
+        "desforçador",
+        "Que se desafronta"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutuini-1 — https://www.kimbundu.org/pt/word/mutuini",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
