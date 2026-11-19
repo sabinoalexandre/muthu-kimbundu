@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7144,
+      "kimbundu_term": "Kubatajala",
+      "portuguese_translation": "Dissimular",
+      "definition": null,
+      "alternative_meanings": [
+        "fingir",
+        "ocultar-se",
+        "caminhar por lugares escusos",
+        "alapar-se",
+        "disfarçar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatajala-1 — https://www.kimbundu.org/pt/word/kubatajala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7145,
+      "kimbundu_term": "Kubatalala",
+      "portuguese_translation": "Encolher-se (continua na coluna seguinte)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatalala-1 — https://www.kimbundu.org/pt/word/kubatalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7146,
+      "kimbundu_term": "Kubatalala",
+      "portuguese_translation": "(para se esconder)",
+      "definition": null,
+      "alternative_meanings": [
+        "Abaixar-se (pondo-se de cócoras)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatalala-1 — https://www.kimbundu.org/pt/word/kubatalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7147,
+      "kimbundu_term": "Kubatama",
+      "portuguese_translation": "Espiar",
+      "definition": null,
+      "alternative_meanings": [
+        "ocultar-se",
+        "esconder-se (para surpreender)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatama-1 — https://www.kimbundu.org/pt/word/kubatama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7148,
+      "kimbundu_term": "Kubatama",
+      "portuguese_translation": "Estar emboscado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatama-1 — https://www.kimbundu.org/pt/word/kubatama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7149,
+      "kimbundu_term": "Kubatama",
+      "portuguese_translation": "Disfarçar-se para não ser visto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatama-1 — https://www.kimbundu.org/pt/word/kubatama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7150,
+      "kimbundu_term": "Kubatamena",
+      "portuguese_translation": "Fazer espera",
+      "definition": null,
+      "alternative_meanings": [
+        "armar emboscada a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatamena-1 — https://www.kimbundu.org/pt/word/kubatamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7151,
+      "kimbundu_term": "Kubateka",
+      "portuguese_translation": "Entestar",
+      "definition": null,
+      "alternative_meanings": [
+        "tapar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubateka-1 — https://www.kimbundu.org/pt/word/kubateka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7152,
+      "kimbundu_term": "Kubatekela",
+      "portuguese_translation": "Meditar",
+      "definition": null,
+      "alternative_meanings": [
+        "amadurecer",
+        "refletir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatekela-1 — https://www.kimbundu.org/pt/word/kubatekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7153,
+      "kimbundu_term": "Kubatekela",
+      "portuguese_translation": "Pensar antes de decidir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatekela-1 — https://www.kimbundu.org/pt/word/kubatekela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
