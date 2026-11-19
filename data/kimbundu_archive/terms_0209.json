@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2194,
+      "kimbundu_term": "Ingolelo",
+      "portuguese_translation": "Ordem de batráquios anuros",
+      "definition": null,
+      "alternative_meanings": [
+        "Rãs sem cauda"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ingolelo-1 — https://www.kimbundu.org/pt/word/ingolelo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2195,
+      "kimbundu_term": "Ingolongolo",
+      "portuguese_translation": "Família de animais articulados miriápodes, cujo tipo é o escolopendra",
+      "definition": null,
+      "alternative_meanings": [
+        "Animais escolopendridas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ingolongolo-1 — https://www.kimbundu.org/pt/word/ingolongolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2196,
+      "kimbundu_term": "Ingolongondo",
+      "portuguese_translation": "Tarecada",
+      "definition": null,
+      "alternative_meanings": [
+        "Ciqueirada",
+        "Tralhoada",
+        "Grande número de coisas miúdas",
+        "Trastes velhos meio quebrados ou de pouco valor",
+        "Porção de cacos",
+        "Tarecos",
+        "Instrumentos",
+        "alfaias"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ingolongondo-1 — https://www.kimbundu.org/pt/word/ingolongondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2197,
+      "kimbundu_term": "Ingondengonde",
+      "portuguese_translation": "Emaranhamento",
+      "definition": null,
+      "alternative_meanings": [
+        "Enrodilhamento",
+        "Entrelaçamento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ingondengonde-1 — https://www.kimbundu.org/pt/word/ingondengonde",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2198,
+      "kimbundu_term": "Ingondengonde",
+      "portuguese_translation": "Ramagem",
+      "definition": null,
+      "alternative_meanings": [
+        "Ramificações",
+        "Esteios"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ingondengonde-1 — https://www.kimbundu.org/pt/word/ingondengonde",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2199,
+      "kimbundu_term": "ingonga",
+      "portuguese_translation": "Jogo de dois paus munidos de um estribo ou pedal em que assenta o pé para andar a certa altura do solo",
+      "definition": null,
+      "alternative_meanings": [
+        "Andas",
+        "Varais de tumba, andor ou maca para ser transportada a ombros"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ingonga-1 — https://www.kimbundu.org/pt/word/ingonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2200,
+      "kimbundu_term": "ingonga",
+      "portuguese_translation": "Pessoa de ombros subidos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ingonga-1 — https://www.kimbundu.org/pt/word/ingonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2201,
+      "kimbundu_term": "Inguanji",
+      "portuguese_translation": "Tribo de salteadores famintos que infestavam as povoações",
+      "definition": null,
+      "alternative_meanings": [
+        "Grupo de indivíduos que assolados pela fome assaltavam e tragavam o que alcançassem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, inguanji-1 — https://www.kimbundu.org/pt/word/inguanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2202,
+      "kimbundu_term": "Inguanji",
+      "portuguese_translation": "Homens sórdidos, esgravitados e mal alimentados",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Espectros",
+        "Fantasmas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, inguanji-1 — https://www.kimbundu.org/pt/word/inguanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2203,
+      "kimbundu_term": "Inguénya",
+      "portuguese_translation": "Família de mamíferos digitígrados, que tem por tipo a hiena",
+      "definition": null,
+      "alternative_meanings": [
+        "Hiénidas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, inguénya-1 — https://www.kimbundu.org/pt/word/inguenya",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
