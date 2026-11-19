@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5224,
+      "kimbundu_term": "Kíki",
+      "portuguese_translation": "Atualmente",
+      "definition": null,
+      "alternative_meanings": [
+        "neste tempo",
+        "Agora"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, advérbio, substantivo, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kíki-1 — https://www.kimbundu.org/pt/word/kiki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5225,
+      "kimbundu_term": "Kíki",
+      "portuguese_translation": "Assim",
+      "definition": null,
+      "alternative_meanings": [
+        "Desta maneira",
+        "Do mesmo modo"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, advérbio, substantivo, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kíki-1 — https://www.kimbundu.org/pt/word/kiki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5226,
+      "kimbundu_term": "Kíki",
+      "portuguese_translation": "interrog. E então? E agora",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, advérbio, substantivo, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kíki-1 — https://www.kimbundu.org/pt/word/kiki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5227,
+      "kimbundu_term": "Kíki",
+      "portuguese_translation": "O tempo presente",
+      "definition": null,
+      "alternative_meanings": [
+        "hoje em dia"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, advérbio, substantivo, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kíki-1 — https://www.kimbundu.org/pt/word/kiki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5228,
+      "kimbundu_term": "Kikoakoa",
+      "portuguese_translation": "Crista",
+      "definition": null,
+      "alternative_meanings": [
+        "Excrescência carnosa na cabeça de certos répteis"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikoakoa-1 — https://www.kimbundu.org/pt/word/kikoakoa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5229,
+      "kimbundu_term": "Kikoakoa",
+      "portuguese_translation": "Adorno superior do elmo ou capacete",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikoakoa-1 — https://www.kimbundu.org/pt/word/kikoakoa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5230,
+      "kimbundu_term": "Kikoka",
+      "portuguese_translation": "Via pública",
+      "definition": null,
+      "alternative_meanings": [
+        "estrada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikoka-1 — https://www.kimbundu.org/pt/word/kikoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5231,
+      "kimbundu_term": "Kikola",
+      "portuguese_translation": "(III) Funesto",
+      "definition": null,
+      "alternative_meanings": [
+        "grave",
+        "perigoso",
+        "Defeso",
+        "não pode ser"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikola-1 — https://www.kimbundu.org/pt/word/kikola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5232,
+      "kimbundu_term": "Kikola",
+      "portuguese_translation": "O que se considera impossível",
+      "definition": null,
+      "alternative_meanings": [
+        "O que é contra o dever, o direito, os bons costumes",
+        "O que se não deve tocar ou praticar"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikola-1 — https://www.kimbundu.org/pt/word/kikola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5233,
+      "kimbundu_term": "Kikolame",
+      "portuguese_translation": "Agravo",
+      "definition": null,
+      "alternative_meanings": [
+        "ofensa",
+        "aumento do mal",
+        "Rancor",
+        "aversão",
+        "ódio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikolame-1 — https://www.kimbundu.org/pt/word/kikolame",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
