@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11684,
+      "kimbundu_term": "Kusokesa",
+      "portuguese_translation": "Mandar calcar, apertar com calcador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokesa-1 — https://www.kimbundu.org/pt/word/kusokesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11685,
+      "kimbundu_term": "Kusokoka",
+      "portuguese_translation": "Ficar arrancado, extraído (do lugar próprio)",
+      "definition": null,
+      "alternative_meanings": [
+        "Sair ou cair por si"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokoka-1 — https://www.kimbundu.org/pt/word/kusokoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11686,
+      "kimbundu_term": "Kusokola",
+      "portuguese_translation": "Extrair",
+      "definition": null,
+      "alternative_meanings": [
+        "Desenraizar",
+        "desprender: jindende",
+        "Desencravar",
+        "Deslocar",
+        "desencaixar",
+        "Desdentar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokola-1 — https://www.kimbundu.org/pt/word/kusokola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11687,
+      "kimbundu_term": "Kusokoloka",
+      "portuguese_translation": "Ter bom êxito ou feliz resultado",
+      "definition": null,
+      "alternative_meanings": [
+        "Vingar",
+        "medrar",
+        "crescer (em negócios)",
+        "Alcançar",
+        "galgar",
+        "chegar",
+        "Atingir o fim"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokoloka-1 — https://www.kimbundu.org/pt/word/kusokoloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11688,
+      "kimbundu_term": "Kusokolola",
+      "portuguese_translation": "Fazer prosperar, desenvolver",
+      "definition": null,
+      "alternative_meanings": [
+        "Produzir a aparição de: mbutu",
+        "Fazer aumentar o número de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokolola-1 — https://www.kimbundu.org/pt/word/kusokolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11689,
+      "kimbundu_term": "Kusokolola",
+      "portuguese_translation": "Kurisokolola, v. r. Desobrigar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "eximir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokolola-1 — https://www.kimbundu.org/pt/word/kusokolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11690,
+      "kimbundu_term": "Kusokomoka",
+      "portuguese_translation": "Estar ou ficar despregado, desconjuntado, desfeito",
+      "definition": null,
+      "alternative_meanings": [
+        "Ficar desmembrado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokomoka-1 — https://www.kimbundu.org/pt/word/kusokomoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11691,
+      "kimbundu_term": "Kusokomona",
+      "portuguese_translation": "Desconjuntar",
+      "definition": null,
+      "alternative_meanings": [
+        "Desmanchar",
+        "desarmar",
+        "Desfazer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokomona-1 — https://www.kimbundu.org/pt/word/kusokomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11692,
+      "kimbundu_term": "Kusokomona",
+      "portuguese_translation": "Kurisokomona, e r. Desmanchar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "desconjuntar-se",
+        "desfazer-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokomona-1 — https://www.kimbundu.org/pt/word/kusokomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11693,
+      "kimbundu_term": "Kusokomuesa",
+      "portuguese_translation": "Mandar despregar, desmanchar, desarmar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokomuesa-1 — https://www.kimbundu.org/pt/word/kusokomuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
