@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6554,
+      "kimbundu_term": "Kixanji",
+      "portuguese_translation": "Tavão",
+      "definition": null,
+      "alternative_meanings": [
+        "mosca grande"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixanji-1 — https://www.kimbundu.org/pt/word/kixanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6555,
+      "kimbundu_term": "Kixanju",
+      "portuguese_translation": "Contenda",
+      "definition": null,
+      "alternative_meanings": [
+        "Querela"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixanju-1 — https://www.kimbundu.org/pt/word/kixanju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6556,
+      "kimbundu_term": "Kixanju",
+      "portuguese_translation": "Escândalo",
+      "definition": null,
+      "alternative_meanings": [
+        "vergonha",
+        "Ato que ofende o pudor",
+        "Desordem",
+        "alvoroço",
+        "tumulto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixanju-1 — https://www.kimbundu.org/pt/word/kixanju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6557,
+      "kimbundu_term": "Kixanu",
+      "portuguese_translation": "Chamamento",
+      "definition": null,
+      "alternative_meanings": [
+        "chamada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixanu-1 — https://www.kimbundu.org/pt/word/kixanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6558,
+      "kimbundu_term": "Kixanu",
+      "portuguese_translation": "Convocação",
+      "definition": null,
+      "alternative_meanings": [
+        "convite"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixanu-1 — https://www.kimbundu.org/pt/word/kixanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6559,
+      "kimbundu_term": "Kixanu",
+      "portuguese_translation": "ext. Sinal de referência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixanu-1 — https://www.kimbundu.org/pt/word/kixanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6560,
+      "kimbundu_term": "Kixaxatu",
+      "portuguese_translation": "A palpadela",
+      "definition": null,
+      "alternative_meanings": [
+        "Tateamento",
+        "Apalpo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixaxatu-1 — https://www.kimbundu.org/pt/word/kixaxatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6561,
+      "kimbundu_term": "Kixaxi",
+      "portuguese_translation": "Haste de gramínea seca",
+      "definition": null,
+      "alternative_meanings": [
+        "Cascabulho",
+        "palha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixaxi-1 — https://www.kimbundu.org/pt/word/kixaxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6562,
+      "kimbundu_term": "Kixaxi",
+      "portuguese_translation": "Papel-moeda",
+      "definition": null,
+      "alternative_meanings": [
+        "cédula"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixaxi-1 — https://www.kimbundu.org/pt/word/kixaxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6563,
+      "kimbundu_term": "Kixaxi",
+      "portuguese_translation": "Dobrado",
+      "definition": null,
+      "alternative_meanings": [
+        "duplicado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixaxi-1 — https://www.kimbundu.org/pt/word/kixaxi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
