@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1944,
+      "kimbundu_term": "Hutile",
+      "portuguese_translation": "(IX) Detido",
+      "definition": null,
+      "alternative_meanings": [
+        "Recluso em cadeia",
+        "Preso",
+        "Ligado, amarrado. fig. Que não tem liberdade de ação"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hutile-1 — https://www.kimbundu.org/pt/word/hutile",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1945,
+      "kimbundu_term": "Hutile",
+      "portuguese_translation": "Prisioneiro",
+      "definition": null,
+      "alternative_meanings": [
+        "Cativo, encarcerado",
+        "Pessoa que está presa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hutile-1 — https://www.kimbundu.org/pt/word/hutile",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1946,
+      "kimbundu_term": "Hutu",
+      "portuguese_translation": "Saco",
+      "definition": null,
+      "alternative_meanings": [
+        "bolsa",
+        "fole",
+        "sacola",
+        "Saquinho para guardar dinheiro",
+        "Tufo, papo (na roupa que não assenta bem). fig. Dinheiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hutu-1 — https://www.kimbundu.org/pt/word/hutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1947,
+      "kimbundu_term": "Hutu",
+      "portuguese_translation": "Diz-se do feitiço atribuído aos adolescentes como herdado dos pais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hutu-1 — https://www.kimbundu.org/pt/word/hutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1948,
+      "kimbundu_term": "Huua",
+      "portuguese_translation": "Pómulo",
+      "definition": null,
+      "alternative_meanings": [
+        "Maçã do rosto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, huua-1 — https://www.kimbundu.org/pt/word/huua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1949,
+      "kimbundu_term": "Huua",
+      "portuguese_translation": "Osso saliente da face",
+      "definition": null,
+      "alternative_meanings": [
+        "Maxila",
+        "Mandíbula",
+        "Osso molar",
+        "Pl. jihuua"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, huua-1 — https://www.kimbundu.org/pt/word/huua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1950,
+      "kimbundu_term": "Huxi",
+      "portuguese_translation": "Pancada dada na face com a mão aberta",
+      "definition": null,
+      "alternative_meanings": [
+        "Bofetada. fig. Injúria",
+        "Ofensa disfarçada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, huxi-1 — https://www.kimbundu.org/pt/word/huxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1951,
+      "kimbundu_term": "Hwelendende",
+      "portuguese_translation": "Molusco gasterópodo desprovido de concha, Lesma",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hwelendende-1 — https://www.kimbundu.org/pt/word/hwelendende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1952,
+      "kimbundu_term": "Hwelendende",
+      "portuguese_translation": "Indolente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hwelendende-1 — https://www.kimbundu.org/pt/word/hwelendende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1953,
+      "kimbundu_term": "I",
+      "portuguese_translation": "para significar admiração",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, i-2 — https://www.kimbundu.org/pt/word/i",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
