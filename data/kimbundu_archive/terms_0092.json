@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1024,
+      "kimbundu_term": "Dikulungu",
+      "portuguese_translation": "Pelicano. Tb. se diz, (e talvez melhor), kikulungu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikulungu-1 — https://www.kimbundu.org/pt/word/dikulungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1025,
+      "kimbundu_term": "Dikulusu",
+      "portuguese_translation": "Cruz",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikulusu-1 — https://www.kimbundu.org/pt/word/dikulusu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1026,
+      "kimbundu_term": "Dikulusu",
+      "portuguese_translation": "a corda de espinhos que engrinalda a cruz. fig. Sofrimento",
+      "definition": null,
+      "alternative_meanings": [
+        "martírio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikulusu-1 — https://www.kimbundu.org/pt/word/dikulusu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1027,
+      "kimbundu_term": "Dikuluvina",
+      "portuguese_translation": "Corvina",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikuluvina-1 — https://www.kimbundu.org/pt/word/dikuluvina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1028,
+      "kimbundu_term": "Dikumba",
+      "portuguese_translation": "Movimento ondulatório",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikumba-1 — https://www.kimbundu.org/pt/word/dikumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1029,
+      "kimbundu_term": "Dikumba",
+      "portuguese_translation": "Aspecto do que se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikumba-1 — https://www.kimbundu.org/pt/word/dikumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1030,
+      "kimbundu_term": "Dikumba",
+      "portuguese_translation": "assemelha a ondas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikumba-1 — https://www.kimbundu.org/pt/word/dikumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1031,
+      "kimbundu_term": "Dikumba",
+      "portuguese_translation": "Que avança ondulando",
+      "definition": null,
+      "alternative_meanings": [
+        "que se propaga por ondulações. E' m. us. no pl. mákimba"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikumba-1 — https://www.kimbundu.org/pt/word/dikumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1032,
+      "kimbundu_term": "Díkumba",
+      "portuguese_translation": "Cadeado",
+      "definition": null,
+      "alternative_meanings": [
+        "ferrolhos",
+        "fechadura"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, díkumba-1 — https://www.kimbundu.org/pt/word/dikumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1033,
+      "kimbundu_term": "Dikumba",
+      "portuguese_translation": "Trago",
+      "definition": null,
+      "alternative_meanings": [
+        "gole: u aminha —",
+        "Liquido que se engole de uma vez",
+        "fig. Embatucamento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikumba-2 — https://www.kimbundu.org/pt/word/dikumba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
