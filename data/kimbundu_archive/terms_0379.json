@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3894,
+      "kimbundu_term": "Kangutu",
+      "portuguese_translation": "Colherinha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kangutu-1 — https://www.kimbundu.org/pt/word/kangutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3895,
+      "kimbundu_term": "Kangutu",
+      "portuguese_translation": "Colher de chá ou café",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kangutu-1 — https://www.kimbundu.org/pt/word/kangutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3896,
+      "kimbundu_term": "Kanguvu",
+      "portuguese_translation": "Hipopótamo de poucos meses",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanguvu-1 — https://www.kimbundu.org/pt/word/kanguvu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3897,
+      "kimbundu_term": "Kánini",
+      "portuguese_translation": "Formoso",
+      "definition": null,
+      "alternative_meanings": [
+        "delicado",
+        "distinto",
+        "Apurado",
+        "fino"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kánini-1 — https://www.kimbundu.org/pt/word/kanini",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3898,
+      "kimbundu_term": "Kánini",
+      "portuguese_translation": "Pessoa delicada, fina",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kánini-1 — https://www.kimbundu.org/pt/word/kanini",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3899,
+      "kimbundu_term": "Kanjénje",
+      "portuguese_translation": "Pessoa mesquinha",
+      "definition": null,
+      "alternative_meanings": [
+        "Unhas de fome",
+        "Miséria",
+        "Fornice"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanjénje-1 — https://www.kimbundu.org/pt/word/kanjenje",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3900,
+      "kimbundu_term": "Kanjénje",
+      "portuguese_translation": "Mesquinho",
+      "definition": null,
+      "alternative_meanings": [
+        "agarrado",
+        "miserável"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanjénje-1 — https://www.kimbundu.org/pt/word/kanjenje",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3901,
+      "kimbundu_term": "Kanjika",
+      "portuguese_translation": "Guisado de feijão e milho temperado com banha ou óleo de palma",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanjika-1 — https://www.kimbundu.org/pt/word/kanjika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3902,
+      "kimbundu_term": "Kánjila",
+      "portuguese_translation": "Passarinho",
+      "definition": null,
+      "alternative_meanings": [
+        "Pequena ave"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kánjila-1 — https://www.kimbundu.org/pt/word/kanjila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3903,
+      "kimbundu_term": "Kanjíla",
+      "portuguese_translation": "Atalho",
+      "definition": null,
+      "alternative_meanings": [
+        "vereda",
+        "carreiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanjíla-1 — https://www.kimbundu.org/pt/word/kanjila",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
