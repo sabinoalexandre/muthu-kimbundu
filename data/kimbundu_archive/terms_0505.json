@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5154,
+      "kimbundu_term": "Kikakela",
+      "portuguese_translation": "Cercado que se faz à beira do rio para se resguardar dos ataques do jacaré",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikakela-1 — https://www.kimbundu.org/pt/word/kikakela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5155,
+      "kimbundu_term": "Kikála",
+      "portuguese_translation": "Salvo se",
+      "definition": null,
+      "alternative_meanings": [
+        "só se",
+        "A não ser que"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikála-1 — https://www.kimbundu.org/pt/word/kikala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5156,
+      "kimbundu_term": "Kikála",
+      "portuguese_translation": "Pov. de pescadores na ilha de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikála-1 — https://www.kimbundu.org/pt/word/kikala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5157,
+      "kimbundu_term": "Kikála",
+      "portuguese_translation": "Apeadeiro do C. F. de Benguela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikála-1 — https://www.kimbundu.org/pt/word/kikala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5158,
+      "kimbundu_term": "Kikala",
+      "portuguese_translation": "Crise",
+      "definition": null,
+      "alternative_meanings": [
+        "Escassez",
+        "falta"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikala-1 — https://www.kimbundu.org/pt/word/kikala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5159,
+      "kimbundu_term": "Kikala",
+      "portuguese_translation": "Tempo sereno e seco",
+      "definition": null,
+      "alternative_meanings": [
+        "Estiagem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikala-1 — https://www.kimbundu.org/pt/word/kikala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5160,
+      "kimbundu_term": "Kikala",
+      "portuguese_translation": "Máximo abaixamento das águas de um rio ou lago",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikala-1 — https://www.kimbundu.org/pt/word/kikala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5161,
+      "kimbundu_term": "Kikalabafa",
+      "portuguese_translation": "Escabroso",
+      "definition": null,
+      "alternative_meanings": [
+        "áspero (ao tato)",
+        "Rude"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikalabafa-1 — https://www.kimbundu.org/pt/word/kikalabafa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5162,
+      "kimbundu_term": "Kikalakadi",
+      "portuguese_translation": "Obra: — kia ngana Ato",
+      "definition": null,
+      "alternative_meanings": [
+        "feito",
+        "Produto de um agente",
+        "Labor"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikalakadi-1 — https://www.kimbundu.org/pt/word/kikalakadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5163,
+      "kimbundu_term": "Kikalakalu",
+      "portuguese_translation": "Trabalho",
+      "definition": null,
+      "alternative_meanings": [
+        "faina",
+        "Qualquer ocupação manual ou intelectual",
+        "Ato de trabalhar. Labutação",
+        "lida. V pl. ikalakalu"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikalakalu-1 — https://www.kimbundu.org/pt/word/kikalakalu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
