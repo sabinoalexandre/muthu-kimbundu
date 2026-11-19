@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1254,
+      "kimbundu_term": "Disése",
+      "portuguese_translation": "Primeiro estado do inseto. Lagarta",
+      "definition": null,
+      "alternative_meanings": [
+        "larva",
+        "verme"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disése-1 — https://www.kimbundu.org/pt/word/disese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1255,
+      "kimbundu_term": "Disésu",
+      "portuguese_translation": "Matacão",
+      "definition": null,
+      "alternative_meanings": [
+        "pedregulho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disésu-1 — https://www.kimbundu.org/pt/word/disesu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1256,
+      "kimbundu_term": "Disésu",
+      "portuguese_translation": "Machado",
+      "definition": null,
+      "alternative_meanings": [
+        "instrumento para cortar paus"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disésu-1 — https://www.kimbundu.org/pt/word/disesu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1257,
+      "kimbundu_term": "Disóko",
+      "portuguese_translation": "Coetâneo. Da mesma época ou idade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disóko-1 — https://www.kimbundu.org/pt/word/disoko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1258,
+      "kimbundu_term": "Disokolo",
+      "portuguese_translation": "Espingarda de pederneira. A própria pederneira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disokolo-1 — https://www.kimbundu.org/pt/word/disokolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1259,
+      "kimbundu_term": "Disoládi",
+      "portuguese_translation": "Soldado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disoládi-1 — https://www.kimbundu.org/pt/word/disoladi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1260,
+      "kimbundu_term": "Disolongo",
+      "portuguese_translation": "Mata virgem",
+      "definition": null,
+      "alternative_meanings": [
+        "Selva",
+        "matagal. Longes paragens de mata fechada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disolongo-1 — https://www.kimbundu.org/pt/word/disolongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1261,
+      "kimbundu_term": "Disombo",
+      "portuguese_translation": "Certa qualidade de dendém polposo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disombo-1 — https://www.kimbundu.org/pt/word/disombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1262,
+      "kimbundu_term": "Disonga",
+      "portuguese_translation": "Clítoris",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disonga-1 — https://www.kimbundu.org/pt/word/disonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1263,
+      "kimbundu_term": "Disósa",
+      "portuguese_translation": "Licença. Alicerce",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disósa-1 — https://www.kimbundu.org/pt/word/disosa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
