@@ -1,0 +1,180 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1824,
+      "kimbundu_term": "Henda",
+      "portuguese_translation": "Comiseração",
+      "definition": null,
+      "alternative_meanings": [
+        "clemência",
+        "lástima",
+        "pena",
+        "Compaixão",
+        "dó"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, henda-1 — https://www.kimbundu.org/pt/word/henda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1825,
+      "kimbundu_term": "Henda",
+      "portuguese_translation": "Sentimento que nos induz a obter ou a conservar a pessoa ou a cousa que nos agrada sobremaneira",
+      "definition": null,
+      "alternative_meanings": [
+        "Paixão",
+        "amor",
+        "Afeição ilimitada",
+        "Desejo veemente de conviver com outrem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, henda-1 — https://www.kimbundu.org/pt/word/henda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1826,
+      "kimbundu_term": "Henda",
+      "portuguese_translation": "Cousa dada por caridade",
+      "definition": null,
+      "alternative_meanings": [
+        "Esmola",
+        "Lembrança: saudade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, henda-1 — https://www.kimbundu.org/pt/word/henda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1827,
+      "kimbundu_term": "Henda",
+      "portuguese_translation": "Graça",
+      "definition": null,
+      "alternative_meanings": [
+        "perdão",
+        "favor",
+        "Dom de pessoa graciosa",
+        "afabilidade",
+        "afectuosidade",
+        "agrado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, henda-1 — https://www.kimbundu.org/pt/word/henda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1828,
+      "kimbundu_term": "Henda",
+      "portuguese_translation": "Enternecimento",
+      "definition": null,
+      "alternative_meanings": [
+        "comoção",
+        "Pezar",
+        "Amor paternal"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, henda-1 — https://www.kimbundu.org/pt/word/henda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1829,
+      "kimbundu_term": "Henda",
+      "portuguese_translation": "adj. Clemente",
+      "definition": null,
+      "alternative_meanings": [
+        "Misericordioso",
+        "Compassivo",
+        "Que tem piedade, carinhoso",
+        "Devotado",
+        "Saudoso",
+        "Que sente, ou dá mostras ou inspira saudade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, henda-1 — https://www.kimbundu.org/pt/word/henda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1830,
+      "kimbundu_term": "Hengele",
+      "portuguese_translation": "Narração alegórica que envolve algum preceito moral ou alguma verdade importante",
+      "definition": null,
+      "alternative_meanings": [
+        "Parábola: —, —",
+        "ndunge, ndunge, ndunge ia ukou'a-kime",
+        "Alegoria"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hengele-1 — https://www.kimbundu.org/pt/word/hengele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1831,
+      "kimbundu_term": "Hete",
+      "portuguese_translation": "Que executa uma coisa com perfeição",
+      "definition": null,
+      "alternative_meanings": [
+        "Hábil",
+        "inteligente",
+        "habilidoso",
+        "Destro",
+        "Engenhoso",
+        "Asseado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hete-1 — https://www.kimbundu.org/pt/word/hete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1832,
+      "kimbundu_term": "Hete",
+      "portuguese_translation": "Pessoa que trabalha bem, com gosto",
+      "definition": null,
+      "alternative_meanings": [
+        "O que faz coisas bonitas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hete-2 — https://www.kimbundu.org/pt/word/hete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1833,
+      "kimbundu_term": "Hihêtu",
+      "portuguese_translation": "Mulherona. Mulher corpulenta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hihêtu-1 — https://www.kimbundu.org/pt/word/hihetu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
