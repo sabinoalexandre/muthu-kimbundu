@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6514,
+      "kimbundu_term": "Kivadi",
+      "portuguese_translation": "Que tem muitos filhos",
+      "definition": null,
+      "alternative_meanings": [
+        "Progenitor",
+        "Parturente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivadi-1 — https://www.kimbundu.org/pt/word/kivadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6515,
+      "kimbundu_term": "Kivadi",
+      "portuguese_translation": "Mulher que está de parto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivadi-1 — https://www.kimbundu.org/pt/word/kivadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6516,
+      "kimbundu_term": "Kivaji",
+      "portuguese_translation": "Madre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivaji-1 — https://www.kimbundu.org/pt/word/kivaji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6517,
+      "kimbundu_term": "Kivalelu",
+      "portuguese_translation": "Lugar onde a parturiente teve o filho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivalelu-1 — https://www.kimbundu.org/pt/word/kivalelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6518,
+      "kimbundu_term": "Kivémba",
+      "portuguese_translation": "Que oscila ou verga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivémba-1 — https://www.kimbundu.org/pt/word/kivemba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6519,
+      "kimbundu_term": "Kivémba",
+      "portuguese_translation": "Pov. e sede da «Vila Pereira de Eça», circ. civ. do Baixo Cunene (Ku-anhama), distr. e prov. da Huíla, a 1.062 mts. de a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivémba-1 — https://www.kimbundu.org/pt/word/kivemba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6520,
+      "kimbundu_term": "Kivémba",
+      "portuguese_translation": "Pov. da circ. civ. dos Gambos, distr. e prov. da Huíla, a 15º 43' de lat. S. e 14º 9' 31'' long. E. Gr., 4.639 hab., del",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivémba-1 — https://www.kimbundu.org/pt/word/kivemba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6521,
+      "kimbundu_term": "Kivi",
+      "portuguese_translation": "Pau carunchoso",
+      "definition": null,
+      "alternative_meanings": [
+        "Pau carcomido (pela ação do tempo)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivi-1 — https://www.kimbundu.org/pt/word/kivi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6522,
+      "kimbundu_term": "Kíviku",
+      "portuguese_translation": "Sonegado",
+      "definition": null,
+      "alternative_meanings": [
+        "O que se subtraiu ao dízimo, manifesto ou imposto",
+        "Contrabando"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kíviku-1 — https://www.kimbundu.org/pt/word/kiviku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6523,
+      "kimbundu_term": "Kivimba",
+      "portuguese_translation": "Que está intacto",
+      "definition": null,
+      "alternative_meanings": [
+        "De uma só peça",
+        "inteiriço"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivimba-1 — https://www.kimbundu.org/pt/word/kivimba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
