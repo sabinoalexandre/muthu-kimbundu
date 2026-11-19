@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8634,
+      "kimbundu_term": "Kufunzuk'sa",
+      "portuguese_translation": "Kurisunzukisa, v. r. Descorar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "embaciar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufunzuk'sa-1 — https://www.kimbundu.org/pt/word/kufunzuk'sa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8635,
+      "kimbundu_term": "Kufunzuka",
+      "portuguese_translation": "Ficar desmaiado, empanado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufunzuka-1 — https://www.kimbundu.org/pt/word/kufunzuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8636,
+      "kimbundu_term": "Kufunzuka",
+      "portuguese_translation": "Estar baço, perder o brilho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufunzuka-1 — https://www.kimbundu.org/pt/word/kufunzuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8637,
+      "kimbundu_term": "Kufunzuka",
+      "portuguese_translation": "Embaciamento",
+      "definition": null,
+      "alternative_meanings": [
+        "empanamento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufunzuka-1 — https://www.kimbundu.org/pt/word/kufunzuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8638,
+      "kimbundu_term": "Kufusana",
+      "portuguese_translation": "Faltar ao decoro, à decência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufusana-1 — https://www.kimbundu.org/pt/word/kufusana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8639,
+      "kimbundu_term": "Kufusana",
+      "portuguese_translation": "Ser desleixado no asseio do corpo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufusana-1 — https://www.kimbundu.org/pt/word/kufusana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8640,
+      "kimbundu_term": "Kufusana",
+      "portuguese_translation": "Ter o cabelo desgrenhado, em desalinho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufusana-1 — https://www.kimbundu.org/pt/word/kufusana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8641,
+      "kimbundu_term": "Kufusanesa",
+      "portuguese_translation": "Desalinhar",
+      "definition": null,
+      "alternative_meanings": [
+        "desgrenhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufusanesa-1 — https://www.kimbundu.org/pt/word/kufusanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8642,
+      "kimbundu_term": "Kufusanesa",
+      "portuguese_translation": "Kurisusanesa, v. r. Desleixar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "não ter decência (no vestir)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufusanesa-1 — https://www.kimbundu.org/pt/word/kufusanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8643,
+      "kimbundu_term": "Kúfuta",
+      "portuguese_translation": "Vendar",
+      "definition": null,
+      "alternative_meanings": [
+        "cobrir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúfuta-1 — https://www.kimbundu.org/pt/word/kufuta",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
