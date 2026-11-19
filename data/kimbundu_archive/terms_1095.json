@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11054,
+      "kimbundu_term": "Kúnyunga",
+      "portuguese_translation": "Errar",
+      "definition": null,
+      "alternative_meanings": [
+        "volutear",
+        "girar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúnyunga-1 — https://www.kimbundu.org/pt/word/kunyunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11055,
+      "kimbundu_term": "Kúnyunga",
+      "portuguese_translation": "Rodear",
+      "definition": null,
+      "alternative_meanings": [
+        "andar em torno de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúnyunga-1 — https://www.kimbundu.org/pt/word/kunyunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11056,
+      "kimbundu_term": "Kúnyunga",
+      "portuguese_translation": "Movimento de rotação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúnyunga-1 — https://www.kimbundu.org/pt/word/kunyunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11057,
+      "kimbundu_term": "Kunyungana",
+      "portuguese_translation": "Divagar",
+      "definition": null,
+      "alternative_meanings": [
+        "caminhar sem destino"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyungana-1 — https://www.kimbundu.org/pt/word/kunyungana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11058,
+      "kimbundu_term": "Kunyungana",
+      "portuguese_translation": "Vadiar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyungana-1 — https://www.kimbundu.org/pt/word/kunyungana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11059,
+      "kimbundu_term": "Kunyungana",
+      "portuguese_translation": "Rodear",
+      "definition": null,
+      "alternative_meanings": [
+        "vaguear",
+        "percorrer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyungana-1 — https://www.kimbundu.org/pt/word/kunyungana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11060,
+      "kimbundu_term": "Kunyungana",
+      "portuguese_translation": "Vagueação",
+      "definition": null,
+      "alternative_meanings": [
+        "vadiice"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyungana-1 — https://www.kimbundu.org/pt/word/kunyungana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11061,
+      "kimbundu_term": "Kunyunganesa",
+      "portuguese_translation": "Fazer andar, caminhar ao acaso, percorrer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyunganesa-1 — https://www.kimbundu.org/pt/word/kunyunganesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11062,
+      "kimbundu_term": "Kunyungina",
+      "portuguese_translation": "Rodear por",
+      "definition": null,
+      "alternative_meanings": [
+        "andar à roda de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyungina-1 — https://www.kimbundu.org/pt/word/kunyungina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11063,
+      "kimbundu_term": "Kunyungina",
+      "portuguese_translation": "Ir de volta a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyungina-1 — https://www.kimbundu.org/pt/word/kunyungina",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
