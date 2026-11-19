@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7594,
+      "kimbundu_term": "Kubitulula",
+      "portuguese_translation": "Repassar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubitulula-1 — https://www.kimbundu.org/pt/word/kubitulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7595,
+      "kimbundu_term": "Kubitulula",
+      "portuguese_translation": "Fazer atravessar, levar de novo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubitulula-1 — https://www.kimbundu.org/pt/word/kubitulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7596,
+      "kimbundu_term": "Kubitulula",
+      "portuguese_translation": "Aperfeiçoar",
+      "definition": null,
+      "alternative_meanings": [
+        "retocar, corrigir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubitulula-1 — https://www.kimbundu.org/pt/word/kubitulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7597,
+      "kimbundu_term": "Kubixidisa",
+      "portuguese_translation": "Mandar levar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubixidisa-1 — https://www.kimbundu.org/pt/word/kubixidisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7598,
+      "kimbundu_term": "Kubixidisa",
+      "portuguese_translation": "para perto",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer chegar a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubixidisa-1 — https://www.kimbundu.org/pt/word/kubixidisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7599,
+      "kimbundu_term": "Kubixika",
+      "portuguese_translation": "Dar",
+      "definition": null,
+      "alternative_meanings": [
+        "oferecer",
+        "fazer chegar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubixika-1 — https://www.kimbundu.org/pt/word/kubixika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7600,
+      "kimbundu_term": "Kubluluka",
+      "portuguese_translation": "Mudar de cor",
+      "definition": null,
+      "alternative_meanings": [
+        "desmaiar",
+        "empalidecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubluluka-1 — https://www.kimbundu.org/pt/word/kubluluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7601,
+      "kimbundu_term": "Kubluluka",
+      "portuguese_translation": "Tergiversar",
+      "definition": null,
+      "alternative_meanings": [
+        "desdizer-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubluluka-1 — https://www.kimbundu.org/pt/word/kubluluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7602,
+      "kimbundu_term": "Kubluluka",
+      "portuguese_translation": "Voltar para trás",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubluluka-1 — https://www.kimbundu.org/pt/word/kubluluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7603,
+      "kimbundu_term": "Kubóba",
+      "portuguese_translation": "Alagar",
+      "definition": null,
+      "alternative_meanings": [
+        "inundar",
+        "ficar coberto de água: irima io-so i aboba"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubóba-1 — https://www.kimbundu.org/pt/word/kuboba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
