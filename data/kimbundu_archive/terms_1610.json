@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16204,
+      "kimbundu_term": "Muhundi",
+      "portuguese_translation": "Votante",
+      "definition": null,
+      "alternative_meanings": [
+        "opinante"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muhundi-1 — https://www.kimbundu.org/pt/word/muhundi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16205,
+      "kimbundu_term": "Muhundi",
+      "portuguese_translation": "Árbitro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muhundi-1 — https://www.kimbundu.org/pt/word/muhundi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16206,
+      "kimbundu_term": "Muhundua-hundua",
+      "portuguese_translation": "Planta malvácea",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muhundua-hundua-1 — https://www.kimbundu.org/pt/word/muhundua-hundua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16207,
+      "kimbundu_term": "Muhúngu",
+      "portuguese_translation": "Planta loganiácea",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muhúngu-1 — https://www.kimbundu.org/pt/word/muhungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16208,
+      "kimbundu_term": "Muhúni",
+      "portuguese_translation": "Grunhidor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muhúni-1 — https://www.kimbundu.org/pt/word/muhuni",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16209,
+      "kimbundu_term": "Múhunza",
+      "portuguese_translation": "Planta malvácea de fruto comestível e propriedades medicinais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múhunza-1 — https://www.kimbundu.org/pt/word/muhunza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16210,
+      "kimbundu_term": "Muialadi",
+      "portuguese_translation": "Nome por que na Huíla se conhece o mundal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muialadi-1 — https://www.kimbundu.org/pt/word/muialadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16211,
+      "kimbundu_term": "Múibe",
+      "portuguese_translation": "Que não é bonito. De aspeto desagradável",
+      "definition": null,
+      "alternative_meanings": [
+        "feio"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múibe-1 — https://www.kimbundu.org/pt/word/muibe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16212,
+      "kimbundu_term": "Muîbi",
+      "portuguese_translation": "Rapinante",
+      "definition": null,
+      "alternative_meanings": [
+        "gatuno"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muîbi-1 — https://www.kimbundu.org/pt/word/muibi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16213,
+      "kimbundu_term": "Múibise",
+      "portuguese_translation": "Que torna feio, desagradável. Que faz horrorizar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múibise-1 — https://www.kimbundu.org/pt/word/muibise",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
