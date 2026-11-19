@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12144,
+      "kimbundu_term": "Kutapeka",
+      "portuguese_translation": "Encobrir",
+      "definition": null,
+      "alternative_meanings": [
+        "tapar (para que se não note falta ou defeito)",
+        "Disfarçar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutapeka-1 — https://www.kimbundu.org/pt/word/kutapeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12145,
+      "kimbundu_term": "Kutapeka",
+      "portuguese_translation": "Kuritapexa, v. r. Pespegar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "Mascarrar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutapeka-1 — https://www.kimbundu.org/pt/word/kutapeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12146,
+      "kimbundu_term": "Kutapesa",
+      "portuguese_translation": "Tornar melhor, menos feio",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer ser sofrível (em qualidade)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutapesa-1 — https://www.kimbundu.org/pt/word/kutapesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12147,
+      "kimbundu_term": "Kutapesa",
+      "portuguese_translation": "Almoeda",
+      "definition": null,
+      "alternative_meanings": [
+        "venda",
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutapesa-2 — https://www.kimbundu.org/pt/word/kutapesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12148,
+      "kimbundu_term": "Kutáta",
+      "portuguese_translation": "Lamentar",
+      "definition": null,
+      "alternative_meanings": [
+        "Manifestar privações"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutáta-1 — https://www.kimbundu.org/pt/word/kutata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12149,
+      "kimbundu_term": "Kutáta",
+      "portuguese_translation": "Referir com pesar agravos e injúrias",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutáta-1 — https://www.kimbundu.org/pt/word/kutata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12150,
+      "kimbundu_term": "Kutáta",
+      "portuguese_translation": "Kuritáta, v. r. Queixar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "lastimar-se",
+        "apresentar desculpas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutáta-1 — https://www.kimbundu.org/pt/word/kutata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12151,
+      "kimbundu_term": "Kútata",
+      "portuguese_translation": "Amarrar bordões ou ripisaos paus em altura",
+      "definition": null,
+      "alternative_meanings": [
+        "Formar com enchameis o tabique de uma casa"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútata-1 — https://www.kimbundu.org/pt/word/kutata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12152,
+      "kimbundu_term": "Kútata",
+      "portuguese_translation": "Fazer uma costura mal acabada",
+      "definition": null,
+      "alternative_meanings": [
+        "Remendar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútata-1 — https://www.kimbundu.org/pt/word/kutata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12153,
+      "kimbundu_term": "Kutatama",
+      "portuguese_translation": "Aturar",
+      "definition": null,
+      "alternative_meanings": [
+        "durar",
+        "resistir",
+        "Demorar (no lugar)",
+        "kn bata k'atatam'ê-ku",
+        "Ser estável"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutatama-1 — https://www.kimbundu.org/pt/word/kutatama",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
