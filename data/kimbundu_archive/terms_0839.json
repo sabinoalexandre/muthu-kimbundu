@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8494,
+      "kimbundu_term": "Kufujumuka",
+      "portuguese_translation": "Feculência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufujumuka-1 — https://www.kimbundu.org/pt/word/kufujumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8495,
+      "kimbundu_term": "Kufujumuna",
+      "portuguese_translation": "Tornar feculento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufujumuna-1 — https://www.kimbundu.org/pt/word/kufujumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8496,
+      "kimbundu_term": "Kufúka",
+      "portuguese_translation": "Afocinhar",
+      "definition": null,
+      "alternative_meanings": [
+        "foçar. Dar focinhadas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufúka-1 — https://www.kimbundu.org/pt/word/kufuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8497,
+      "kimbundu_term": "Kufúka",
+      "portuguese_translation": "Revolver",
+      "definition": null,
+      "alternative_meanings": [
+        "remexer, (com focinho)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufúka-1 — https://www.kimbundu.org/pt/word/kufuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8498,
+      "kimbundu_term": "Kúfuka",
+      "portuguese_translation": "Cobrir de palha ou capim (a casa). Imbricar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúfuka-1 — https://www.kimbundu.org/pt/word/kufuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8499,
+      "kimbundu_term": "Kufukama",
+      "portuguese_translation": "Ajoelhar",
+      "definition": null,
+      "alternative_meanings": [
+        "genuflectir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufukama-1 — https://www.kimbundu.org/pt/word/kufukama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8500,
+      "kimbundu_term": "Kufukama",
+      "portuguese_translation": "Prostrar-se (de joelhos)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufukama-1 — https://www.kimbundu.org/pt/word/kufukama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8501,
+      "kimbundu_term": "Kufukama",
+      "portuguese_translation": "Genuflexão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufukama-1 — https://www.kimbundu.org/pt/word/kufukama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8502,
+      "kimbundu_term": "Kufukamena",
+      "portuguese_translation": "Prosternar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "ajoelhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufukamena-1 — https://www.kimbundu.org/pt/word/kufukamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8503,
+      "kimbundu_term": "Kufukamena",
+      "portuguese_translation": "Curvar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "humilhar-se diante de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufukamena-1 — https://www.kimbundu.org/pt/word/kufukamena",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
