@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5214,
+      "kimbundu_term": "Kikengele",
+      "portuguese_translation": "Enviesado",
+      "definition": null,
+      "alternative_meanings": [
+        "esguelhado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikengele-1 — https://www.kimbundu.org/pt/word/kikengele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5215,
+      "kimbundu_term": "Kikengele",
+      "portuguese_translation": "Soslaio",
+      "definition": null,
+      "alternative_meanings": [
+        "Esguelha",
+        "Diagonal"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikengele-1 — https://www.kimbundu.org/pt/word/kikengele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5216,
+      "kimbundu_term": "Kikengelelu",
+      "portuguese_translation": "Imitação",
+      "definition": null,
+      "alternative_meanings": [
+        "arremedo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikengelelu-1 — https://www.kimbundu.org/pt/word/kikengelelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5217,
+      "kimbundu_term": "Kikengelelu",
+      "portuguese_translation": "Próprio para imitar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikengelelu-1 — https://www.kimbundu.org/pt/word/kikengelelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5218,
+      "kimbundu_term": "Kikenzelu",
+      "portuguese_translation": "Coadouro",
+      "definition": null,
+      "alternative_meanings": [
+        "Espumadeira",
+        "Filtro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikenzelu-1 — https://www.kimbundu.org/pt/word/kikenzelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5219,
+      "kimbundu_term": "Kikenzu",
+      "portuguese_translation": "Fezes",
+      "definition": null,
+      "alternative_meanings": [
+        "borra que fica do líquido coado. É mais usado no pl. ikenzu"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikenzu-1 — https://www.kimbundu.org/pt/word/kikenzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5220,
+      "kimbundu_term": "Kikese",
+      "portuguese_translation": "Invólucro calcáreo de certos moluscos",
+      "definition": null,
+      "alternative_meanings": [
+        "Concha",
+        "valva"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikese-1 — https://www.kimbundu.org/pt/word/kikese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5221,
+      "kimbundu_term": "Kikete",
+      "portuguese_translation": "Ferro",
+      "definition": null,
+      "alternative_meanings": [
+        "Ferramenta, instrumento, artefato de ferro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikete-1 — https://www.kimbundu.org/pt/word/kikete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5222,
+      "kimbundu_term": "Kíki",
+      "portuguese_translation": "demonstr. (III) Isto",
+      "definition": null,
+      "alternative_meanings": [
+        "Esta (coisa)",
+        "este (objeto)"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, advérbio, substantivo, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kíki-1 — https://www.kimbundu.org/pt/word/kiki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5223,
+      "kimbundu_term": "Kíki",
+      "portuguese_translation": "designa coisa que está presente ou próxima de quem fala",
+      "definition": null,
+      "alternative_meanings": [
+        "Que está à vista",
+        "atual"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, advérbio, substantivo, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kíki-1 — https://www.kimbundu.org/pt/word/kiki",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
