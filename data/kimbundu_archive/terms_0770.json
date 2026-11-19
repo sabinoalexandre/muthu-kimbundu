@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7804,
+      "kimbundu_term": "Kubuingina",
+      "portuguese_translation": "Infiltração",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuingina-1 — https://www.kimbundu.org/pt/word/kubuingina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7805,
+      "kimbundu_term": "Kubuinginina",
+      "portuguese_translation": "Estar esgotado, sumido, (o líquido)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuinginina-1 — https://www.kimbundu.org/pt/word/kubuinginina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7806,
+      "kimbundu_term": "Kubuinginina",
+      "portuguese_translation": "Desaparecer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuinginina-1 — https://www.kimbundu.org/pt/word/kubuinginina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7807,
+      "kimbundu_term": "Kubuinginisa",
+      "portuguese_translation": "Evaporar, fazer secar, desaparecer (o líquido)",
+      "definition": null,
+      "alternative_meanings": [
+        "sumir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuinginisa-1 — https://www.kimbundu.org/pt/word/kubuinginisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7808,
+      "kimbundu_term": "Kubuinginisa",
+      "portuguese_translation": "É tb. r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuinginisa-1 — https://www.kimbundu.org/pt/word/kubuinginisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7809,
+      "kimbundu_term": "Kubuíza",
+      "portuguese_translation": "Custar",
+      "definition": null,
+      "alternative_meanings": [
+        "ser difícil"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuíza-1 — https://www.kimbundu.org/pt/word/kubuiza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7810,
+      "kimbundu_term": "Kubuíza",
+      "portuguese_translation": "Ser complicado, espinhoso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuíza-1 — https://www.kimbundu.org/pt/word/kubuiza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7811,
+      "kimbundu_term": "Kubuíza",
+      "portuguese_translation": "Embaraço",
+      "definition": null,
+      "alternative_meanings": [
+        "custo",
+        "dificuldade"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuíza-1 — https://www.kimbundu.org/pt/word/kubuiza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7812,
+      "kimbundu_term": "Kubuizisa",
+      "portuguese_translation": "Tornar custoso, difícil",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuizisa-1 — https://www.kimbundu.org/pt/word/kubuizisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7813,
+      "kimbundu_term": "Kubuizisa",
+      "portuguese_translation": "Levantar dificuldade a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuizisa-1 — https://www.kimbundu.org/pt/word/kubuizisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
