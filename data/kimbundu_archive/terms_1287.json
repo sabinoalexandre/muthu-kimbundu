@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12974,
+      "kimbundu_term": "Kuvúla",
+      "portuguese_translation": "Em grande número",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvúla-1 — https://www.kimbundu.org/pt/word/kuvula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12975,
+      "kimbundu_term": "Kuvúmba",
+      "portuguese_translation": "Encapar",
+      "definition": null,
+      "alternative_meanings": [
+        "tapar",
+        "encobrir com terra"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvúmba-1 — https://www.kimbundu.org/pt/word/kuvumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12976,
+      "kimbundu_term": "Kuvúmba",
+      "portuguese_translation": "Kurivúmba, v. r. Solapar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "Esconder-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvúmba-1 — https://www.kimbundu.org/pt/word/kuvumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12977,
+      "kimbundu_term": "Kuvumbika",
+      "portuguese_translation": "Encinzar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvumbika-1 — https://www.kimbundu.org/pt/word/kuvumbika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12978,
+      "kimbundu_term": "Kuvumbika",
+      "portuguese_translation": "Soterrar",
+      "definition": null,
+      "alternative_meanings": [
+        "cobrir de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvumbika-1 — https://www.kimbundu.org/pt/word/kuvumbika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12979,
+      "kimbundu_term": "Kuvumbika",
+      "portuguese_translation": "Afundar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvumbika-1 — https://www.kimbundu.org/pt/word/kuvumbika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12980,
+      "kimbundu_term": "Kuvumbika",
+      "portuguese_translation": "Infundir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvumbika-1 — https://www.kimbundu.org/pt/word/kuvumbika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12981,
+      "kimbundu_term": "Kuvumbika",
+      "portuguese_translation": "Kurivumbika, e r. Enterrar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "cobrir-se de cinza",
+        "Mergulhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvumbika-1 — https://www.kimbundu.org/pt/word/kuvumbika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12982,
+      "kimbundu_term": "Kuvumbikise",
+      "portuguese_translation": "Fazer cobrir de terra ou cinza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvumbikise-1 — https://www.kimbundu.org/pt/word/kuvumbikise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12983,
+      "kimbundu_term": "Kuvumbuka",
+      "portuguese_translation": "Sair por momentos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvumbuka-1 — https://www.kimbundu.org/pt/word/kuvumbuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
