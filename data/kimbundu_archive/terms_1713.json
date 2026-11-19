@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17234,
+      "kimbundu_term": "Mútaue",
+      "portuguese_translation": "(II) Confirmante",
+      "definition": null,
+      "alternative_meanings": [
+        "aceitante"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mútaue-1 — https://www.kimbundu.org/pt/word/mutaue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17235,
+      "kimbundu_term": "Mútaue",
+      "portuguese_translation": "Árvore semelhante à laranjeira e cuja casca, mastigada, tem propriedades vermífugas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mútaue-1 — https://www.kimbundu.org/pt/word/mutaue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17236,
+      "kimbundu_term": "Múte",
+      "portuguese_translation": "Névoa. Belida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múte-1 — https://www.kimbundu.org/pt/word/mute",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17237,
+      "kimbundu_term": "Múte",
+      "portuguese_translation": "Enunciados. Que exorime",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múte-2 — https://www.kimbundu.org/pt/word/mute",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17238,
+      "kimbundu_term": "Múte",
+      "portuguese_translation": "e sub. Poente",
+      "definition": null,
+      "alternative_meanings": [
+        "poedeira"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múte-2 — https://www.kimbundu.org/pt/word/mute",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17239,
+      "kimbundu_term": "Muteba",
+      "portuguese_translation": "Mandioca talhada e seca ao sol. A fuba feita da mandioca assim preparada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muteba-1 — https://www.kimbundu.org/pt/word/muteba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17240,
+      "kimbundu_term": "Muteba",
+      "portuguese_translation": "Ráfia",
+      "definition": null,
+      "alternative_meanings": [
+        "planta téxtil conhecida por «matebeira»"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muteba-1 — https://www.kimbundu.org/pt/word/muteba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17241,
+      "kimbundu_term": "Múteke",
+      "portuguese_translation": "Pessoa que conduz água da fonte, rio ou mar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múteke-1 — https://www.kimbundu.org/pt/word/muteke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17242,
+      "kimbundu_term": "Muteleki",
+      "portuguese_translation": "Cozinheiro. Criado de mesa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muteleki-1 — https://www.kimbundu.org/pt/word/muteleki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17243,
+      "kimbundu_term": "Muteseke",
+      "portuguese_translation": "Acrescentador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muteseke-1 — https://www.kimbundu.org/pt/word/muteseke",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
