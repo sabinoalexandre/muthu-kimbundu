@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2524,
+      "kimbundu_term": "Jiji",
+      "portuguese_translation": "Paredão ou banco de areia que amorte o mau efeito que a um porto pode causar o embate das ondas",
+      "definition": null,
+      "alternative_meanings": [
+        "Quebra-mar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jiji-1 — https://www.kimbundu.org/pt/word/jiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2525,
+      "kimbundu_term": "Jikabálu",
+      "portuguese_translation": "Cavalos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jikabálu-1 — https://www.kimbundu.org/pt/word/jikabalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2526,
+      "kimbundu_term": "Jikabénda",
+      "portuguese_translation": "Família de plantas ulmáceas, dicotiledóneas e apétalas, cujo tipo é o olmo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jikabénda-1 — https://www.kimbundu.org/pt/word/jikabenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2527,
+      "kimbundu_term": "Jikabénda",
+      "portuguese_translation": "Olmedal",
+      "definition": null,
+      "alternative_meanings": [
+        "Plantio de olmeiros"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jikabénda-1 — https://www.kimbundu.org/pt/word/jikabenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2528,
+      "kimbundu_term": "Jikabidinjindu",
+      "portuguese_translation": "Grupo de pássaros tenuirostros, de bico delgado e comprido, a que pertence o abelharuco, o colibri, etc",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jikabidinjindu-1 — https://www.kimbundu.org/pt/word/jikabidinjindu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2529,
+      "kimbundu_term": "Jikahididi",
+      "portuguese_translation": "Panos atados à cintura sobre os que se trazem vestidos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jikahididi-1 — https://www.kimbundu.org/pt/word/jikahididi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2530,
+      "kimbundu_term": "Jikalongena",
+      "portuguese_translation": "Família de plantas dicotiledóneas que compreende a arruda e outras plantas medicinais",
+      "definition": null,
+      "alternative_meanings": [
+        "Plantas rutáceas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jikalongena-1 — https://www.kimbundu.org/pt/word/jikalongena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2531,
+      "kimbundu_term": "Jikijiki",
+      "portuguese_translation": "Demoradamente",
+      "definition": null,
+      "alternative_meanings": [
+        "Demasiadamente",
+        "De modo prolongado",
+        "Excessivamente"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jikijiki-1 — https://www.kimbundu.org/pt/word/jikijiki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2532,
+      "kimbundu_term": "Jiku",
+      "portuguese_translation": "Fogareiro",
+      "definition": null,
+      "alternative_meanings": [
+        "lareira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jiku-1 — https://www.kimbundu.org/pt/word/jiku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2533,
+      "kimbundu_term": "Jiku",
+      "portuguese_translation": "Lar",
+      "definition": null,
+      "alternative_meanings": [
+        "seio da família"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jiku-1 — https://www.kimbundu.org/pt/word/jiku",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
