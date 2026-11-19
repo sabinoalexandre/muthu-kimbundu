@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18074,
+      "kimbundu_term": "Ngénda",
+      "portuguese_translation": "Antro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngénda-1 — https://www.kimbundu.org/pt/word/ngenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18075,
+      "kimbundu_term": "Ngénda",
+      "portuguese_translation": "Buraco sem fundo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngénda-1 — https://www.kimbundu.org/pt/word/ngenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18076,
+      "kimbundu_term": "Ngénda",
+      "portuguese_translation": "Cafua",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngénda-1 — https://www.kimbundu.org/pt/word/ngenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18077,
+      "kimbundu_term": "Ngénda",
+      "portuguese_translation": "Esconderijo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngénda-1 — https://www.kimbundu.org/pt/word/ngenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18078,
+      "kimbundu_term": "Ngénda",
+      "portuguese_translation": "Abismo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngénda-1 — https://www.kimbundu.org/pt/word/ngenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18079,
+      "kimbundu_term": "Ngénda",
+      "portuguese_translation": "Prisão",
+      "definition": null,
+      "alternative_meanings": [
+        "calabouço"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngénda-1 — https://www.kimbundu.org/pt/word/ngenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18080,
+      "kimbundu_term": "Ngénda",
+      "portuguese_translation": "Fruto de mungénga, de propriedades medicinais contra a sífilis",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngénda-2 — https://www.kimbundu.org/pt/word/ngenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18081,
+      "kimbundu_term": "Ngene",
+      "portuguese_translation": "Que é de outro",
+      "definition": null,
+      "alternative_meanings": [
+        "que não é nosso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngene-1 — https://www.kimbundu.org/pt/word/ngene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18082,
+      "kimbundu_term": "Ngene",
+      "portuguese_translation": "Alheio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngene-1 — https://www.kimbundu.org/pt/word/ngene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18083,
+      "kimbundu_term": "Ngene",
+      "portuguese_translation": "Estranho",
+      "definition": null,
+      "alternative_meanings": [
+        "desviado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngene-1 — https://www.kimbundu.org/pt/word/ngene",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
