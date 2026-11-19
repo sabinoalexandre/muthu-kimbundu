@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5684,
+      "kimbundu_term": "Kimvengete",
+      "portuguese_translation": "Nublado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimvengete-1 — https://www.kimbundu.org/pt/word/kimvengete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5685,
+      "kimbundu_term": "Kimwikinu",
+      "portuguese_translation": "Utensílio para alumiar",
+      "definition": null,
+      "alternative_meanings": [
+        "Lâmpada",
+        "lanterna",
+        "farol"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimwikinu-1 — https://www.kimbundu.org/pt/word/kimwikinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5686,
+      "kimbundu_term": "Kimwikinu",
+      "portuguese_translation": "Alumiador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimwikinu-1 — https://www.kimbundu.org/pt/word/kimwikinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5687,
+      "kimbundu_term": "Kîna",
+      "portuguese_translation": "Cova",
+      "definition": null,
+      "alternative_meanings": [
+        "sepultura. Furna"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kîna-1 — https://www.kimbundu.org/pt/word/kina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5688,
+      "kimbundu_term": "Kiná",
+      "portuguese_translation": "Aquilo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiná-1 — https://www.kimbundu.org/pt/word/kina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5689,
+      "kimbundu_term": "Kiná",
+      "portuguese_translation": "e pron. de const. Aquele",
+      "definition": null,
+      "alternative_meanings": [
+        "aquela",
+        "Aquel' outro"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiná-1 — https://www.kimbundu.org/pt/word/kina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5690,
+      "kimbundu_term": "Kiná",
+      "portuguese_translation": "Então",
+      "definition": null,
+      "alternative_meanings": [
+        "nesse ou naquele tempo ou ocasião"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiná-1 — https://www.kimbundu.org/pt/word/kina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5691,
+      "kimbundu_term": "Kiná",
+      "portuguese_translation": "De longe",
+      "definition": null,
+      "alternative_meanings": [
+        "além"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiná-1 — https://www.kimbundu.org/pt/word/kina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5692,
+      "kimbundu_term": "Kinaka",
+      "portuguese_translation": "Humus",
+      "definition": null,
+      "alternative_meanings": [
+        "Terra lodosa em que se desenvolve a vegetação no tempo das chuvas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinaka-1 — https://www.kimbundu.org/pt/word/kinaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5693,
+      "kimbundu_term": "Kináma",
+      "portuguese_translation": "Perna",
+      "definition": null,
+      "alternative_meanings": [
+        "pé",
+        "Mão (dos quadrúpedes)",
+        "Pata"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kináma-1 — https://www.kimbundu.org/pt/word/kinama",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
