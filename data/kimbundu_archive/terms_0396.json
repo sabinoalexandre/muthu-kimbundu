@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4064,
+      "kimbundu_term": "Kasau-sau",
+      "portuguese_translation": "Planta euforbiácea (Dalechampia scandens), assaz prejudicial ao gado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasau-sau-1 — https://www.kimbundu.org/pt/word/kasau-sau",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4065,
+      "kimbundu_term": "Kasau-sau",
+      "portuguese_translation": "Planta têxtil, fam. das urticáceas (Boehmeria nivea), conhecida por «urtiga branca»",
+      "definition": null,
+      "alternative_meanings": [
+        "Ramie"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasau-sau-1 — https://www.kimbundu.org/pt/word/kasau-sau",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4066,
+      "kimbundu_term": "Kase",
+      "portuguese_translation": "Atado",
+      "definition": null,
+      "alternative_meanings": [
+        "laçado",
+        "preso",
+        "Amarrado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kase-1 — https://www.kimbundu.org/pt/word/kase",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4067,
+      "kimbundu_term": "Kaséka",
+      "portuguese_translation": "Planta fam. das leguminosas de fruto alimentício",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaséka-1 — https://www.kimbundu.org/pt/word/kaseka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4068,
+      "kimbundu_term": "Káseke",
+      "portuguese_translation": "Planta fam. das leguminosas, (Lonchocarpus macrophyllus), de utilidade medicinal e madeira própria para construções",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, káseke-1 — https://www.kimbundu.org/pt/word/kaseke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4069,
+      "kimbundu_term": "Káseke",
+      "portuguese_translation": "Árvore fam. das leguminosas, (Millettia aromatica) de utilidade medicinal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, káseke-1 — https://www.kimbundu.org/pt/word/kaseke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4070,
+      "kimbundu_term": "Kasekele",
+      "portuguese_translation": "Arenoso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasekele-1 — https://www.kimbundu.org/pt/word/kasekele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4071,
+      "kimbundu_term": "Kasekele",
+      "portuguese_translation": "Antiga pov. e porto de passagem do rio Bengo, em Quifangondo, caminho do Dande",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasekele-1 — https://www.kimbundu.org/pt/word/kasekele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4072,
+      "kimbundu_term": "Kasekelu",
+      "portuguese_translation": "Chacota. Dito zombeteiro",
+      "definition": null,
+      "alternative_meanings": [
+        "escárnio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasekelu-1 — https://www.kimbundu.org/pt/word/kasekelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4073,
+      "kimbundu_term": "Kasekelu",
+      "portuguese_translation": "e intr. Chacotear",
+      "definition": null,
+      "alternative_meanings": [
+        "escarnir"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasekelu-1 — https://www.kimbundu.org/pt/word/kasekelu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
