@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12984,
+      "kimbundu_term": "Kuvumbuka",
+      "portuguese_translation": "Apressar",
+      "definition": null,
+      "alternative_meanings": [
+        "ser veloz",
+        "correr"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvumbuka-1 — https://www.kimbundu.org/pt/word/kuvumbuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12985,
+      "kimbundu_term": "Kuvumbula",
+      "portuguese_translation": "Aligeirar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer ter pressa"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvumbula-1 — https://www.kimbundu.org/pt/word/kuvumbula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12986,
+      "kimbundu_term": "Kuvumbula",
+      "portuguese_translation": "Arrebatar, levar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvumbula-1 — https://www.kimbundu.org/pt/word/kuvumbula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12987,
+      "kimbundu_term": "Kuvumitala",
+      "portuguese_translation": "Vomitar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvumitala-1 — https://www.kimbundu.org/pt/word/kuvumitala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12988,
+      "kimbundu_term": "Kuvumujuka",
+      "portuguese_translation": "Esvoaçar",
+      "definition": null,
+      "alternative_meanings": [
+        "Percorrer pequenas distâncias voando",
+        "Flutuar, ir com o vento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvumujuka-1 — https://www.kimbundu.org/pt/word/kuvumujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12989,
+      "kimbundu_term": "Kuvumuka",
+      "portuguese_translation": "Voar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvumuka-1 — https://www.kimbundu.org/pt/word/kuvumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12990,
+      "kimbundu_term": "Kuvumuka",
+      "portuguese_translation": "Voo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvumuka-1 — https://www.kimbundu.org/pt/word/kuvumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12991,
+      "kimbundu_term": "Kuvumukisa",
+      "portuguese_translation": "Fazer voar, ir pelos ares",
+      "definition": null,
+      "alternative_meanings": [
+        "Deitar a voar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvumukisa-1 — https://www.kimbundu.org/pt/word/kuvumukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12992,
+      "kimbundu_term": "Kuvúnda",
+      "portuguese_translation": "Escurecer",
+      "definition": null,
+      "alternative_meanings": [
+        "anoitecer",
+        "tornar-se escuro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvúnda-1 — https://www.kimbundu.org/pt/word/kuvunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12993,
+      "kimbundu_term": "Kuvúnda",
+      "portuguese_translation": "Escuridão",
+      "definition": null,
+      "alternative_meanings": [
+        "negrume"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvúnda-1 — https://www.kimbundu.org/pt/word/kuvunda",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
