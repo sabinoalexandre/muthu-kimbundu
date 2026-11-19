@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13244,
+      "kimbundu_term": "Kuximana",
+      "portuguese_translation": "Gabar",
+      "definition": null,
+      "alternative_meanings": [
+        "louvar",
+        "bendizer. Enobrecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuximana-1 — https://www.kimbundu.org/pt/word/kuximana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13245,
+      "kimbundu_term": "Kuximanesa",
+      "portuguese_translation": "Mandar louvar, tecer elogios a. É também reflexivo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuximanesa-1 — https://www.kimbundu.org/pt/word/kuximanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13246,
+      "kimbundu_term": "Kuximata",
+      "portuguese_translation": "Abrir buracos com musengu para semeadura de feijão, milho, etc",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuximata-1 — https://www.kimbundu.org/pt/word/kuximata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13247,
+      "kimbundu_term": "Kúximba",
+      "portuguese_translation": "Entesar-se. Ficar ereto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúximba-1 — https://www.kimbundu.org/pt/word/kuximba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13248,
+      "kimbundu_term": "Kúximba",
+      "portuguese_translation": "Derribar, cortar paus",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúximba-1 — https://www.kimbundu.org/pt/word/kuximba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13249,
+      "kimbundu_term": "Kúximba",
+      "portuguese_translation": "Empertigar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "irritar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúximba-1 — https://www.kimbundu.org/pt/word/kuximba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13250,
+      "kimbundu_term": "Kuximbaxata",
+      "portuguese_translation": "Ter firmeza, apoiar-se, fazer finca-pé. Tornar-se forte",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuximbaxata-1 — https://www.kimbundu.org/pt/word/kuximbaxata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13251,
+      "kimbundu_term": "Kuximbaxata",
+      "portuguese_translation": "Segurar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuximbaxata-1 — https://www.kimbundu.org/pt/word/kuximbaxata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13252,
+      "kimbundu_term": "Kuximbika",
+      "portuguese_translation": "Varar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer singrar uma embarcação à vara"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuximbika-1 — https://www.kimbundu.org/pt/word/kuximbika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13253,
+      "kimbundu_term": "Kuximbika",
+      "portuguese_translation": "Pôr direito, aprumado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuximbika-1 — https://www.kimbundu.org/pt/word/kuximbika",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
