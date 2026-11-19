@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16944,
+      "kimbundu_term": "Munyurgu",
+      "portuguese_translation": "Delíquio",
+      "definition": null,
+      "alternative_meanings": [
+        "enjoo",
+        "voluteio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munyurgu-1 — https://www.kimbundu.org/pt/word/munyurgu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16945,
+      "kimbundu_term": "Munzangala",
+      "portuguese_translation": "Efebo",
+      "definition": null,
+      "alternative_meanings": [
+        "mancebo",
+        "Jovem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munzangala-1 — https://www.kimbundu.org/pt/word/munzangala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16946,
+      "kimbundu_term": "Munzánzu",
+      "portuguese_translation": "Ponte",
+      "definition": null,
+      "alternative_meanings": [
+        "Meio de ligação entre duas margens"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munzánzu-1 — https://www.kimbundu.org/pt/word/munzanzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16947,
+      "kimbundu_term": "Munzéia",
+      "portuguese_translation": "Planta fam. das combretáceas de propriedades medicinais em casos de sarna",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munzéia-1 — https://www.kimbundu.org/pt/word/munzeia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16948,
+      "kimbundu_term": "Munzelembete",
+      "portuguese_translation": "Que está na puericía",
+      "definition": null,
+      "alternative_meanings": [
+        "Adolescente",
+        "Animal novo",
+        "fig. Moço",
+        "rapaz"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munzelembete-1 — https://www.kimbundu.org/pt/word/munzelembete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16949,
+      "kimbundu_term": "Munzênza",
+      "portuguese_translation": "Forasteiro",
+      "definition": null,
+      "alternative_meanings": [
+        "adventício",
+        "Que não está habituado aos usos da localidade",
+        "Novato",
+        "ignorante"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munzênza-1 — https://www.kimbundu.org/pt/word/munzenza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16950,
+      "kimbundu_term": "Munzondo",
+      "portuguese_translation": "Rã",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munzondo-1 — https://www.kimbundu.org/pt/word/munzondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16951,
+      "kimbundu_term": "Munzonga",
+      "portuguese_translation": "Clamor",
+      "definition": null,
+      "alternative_meanings": [
+        "brado",
+        "Grito retumbante",
+        "chamamento em voz alta"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munzonga-1 — https://www.kimbundu.org/pt/word/munzonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16952,
+      "kimbundu_term": "Munzonga",
+      "portuguese_translation": "Bradar",
+      "definition": null,
+      "alternative_meanings": [
+        "chamar alto",
+        "gritar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munzonga-1 — https://www.kimbundu.org/pt/word/munzonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16953,
+      "kimbundu_term": "Munzônge",
+      "portuguese_translation": "Caldo",
+      "definition": null,
+      "alternative_meanings": [
+        "Sopa",
+        "canja"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munzônge-1 — https://www.kimbundu.org/pt/word/munzonge",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
