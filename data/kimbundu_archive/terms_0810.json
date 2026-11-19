@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8204,
+      "kimbundu_term": "Kudíla",
+      "portuguese_translation": "Chorar",
+      "definition": null,
+      "alternative_meanings": [
+        "verter lágrimas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudíla-1 — https://www.kimbundu.org/pt/word/kudila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8205,
+      "kimbundu_term": "Kudíla",
+      "portuguese_translation": "Pranto",
+      "definition": null,
+      "alternative_meanings": [
+        "lamento",
+        "choro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudíla-1 — https://www.kimbundu.org/pt/word/kudila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8206,
+      "kimbundu_term": "Kudilabeka",
+      "portuguese_translation": "Estatelar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "cair"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudilabeka-1 — https://www.kimbundu.org/pt/word/kudilabeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8207,
+      "kimbundu_term": "Kudilabeka",
+      "portuguese_translation": "Chapar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudilabeka-1 — https://www.kimbundu.org/pt/word/kudilabeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8208,
+      "kimbundu_term": "Kudilalula",
+      "portuguese_translation": "Ajudar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "socorrer-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudilalula-1 — https://www.kimbundu.org/pt/word/kudilalula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8209,
+      "kimbundu_term": "Kudilánga",
+      "portuguese_translation": "Armar-se, amanhar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "prevenir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudilánga-1 — https://www.kimbundu.org/pt/word/kudilanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8210,
+      "kimbundu_term": "Kudilóua",
+      "portuguese_translation": "Envenenar-se por meio de feitiço",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudilóua-1 — https://www.kimbundu.org/pt/word/kudiloua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8211,
+      "kimbundu_term": "Kudilouesa",
+      "portuguese_translation": "Mandar enfeitiçar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudilouesa-1 — https://www.kimbundu.org/pt/word/kudilouesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8212,
+      "kimbundu_term": "Kudiloza",
+      "portuguese_translation": "Suicidar-se com arma de fogo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudiloza-1 — https://www.kimbundu.org/pt/word/kudiloza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8213,
+      "kimbundu_term": "Kudiloza",
+      "portuguese_translation": "Descarregar-se involuntariamente (a arma)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudiloza-1 — https://www.kimbundu.org/pt/word/kudiloza",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
