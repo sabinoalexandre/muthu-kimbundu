@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14724,
+      "kimbundu_term": "Malúta",
+      "portuguese_translation": "Kuta, —, Atrapalhar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, malúta-1 — https://www.kimbundu.org/pt/word/maluta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14725,
+      "kimbundu_term": "Máluva",
+      "portuguese_translation": "Malva",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, máluva-1 — https://www.kimbundu.org/pt/word/maluva",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14726,
+      "kimbundu_term": "Malúvu",
+      "portuguese_translation": "Líquido extraído das plantas palmáceas, conhecido por «vinho de palma»",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, malúvu-1 — https://www.kimbundu.org/pt/word/maluvu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14727,
+      "kimbundu_term": "Malúvu",
+      "portuguese_translation": "Sua",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, malúvu-1 — https://www.kimbundu.org/pt/word/maluvu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14728,
+      "kimbundu_term": "Malúvu",
+      "portuguese_translation": "Planta medicinal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, malúvu-1 — https://www.kimbundu.org/pt/word/maluvu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14729,
+      "kimbundu_term": "Mam'ê",
+      "portuguese_translation": "para chamar: «oh! mãe!»",
+      "definition": null,
+      "alternative_meanings": [
+        "de espanto, de admiração, de dor: «oh! minha mãe! Ai!»"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mam'ê-1 — https://www.kimbundu.org/pt/word/mam'e",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14730,
+      "kimbundu_term": "Mam'ê",
+      "portuguese_translation": "(IV) Grito de aflição",
+      "definition": null,
+      "alternative_meanings": [
+        "Clamor",
+        "Chamada"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mam'ê-1 — https://www.kimbundu.org/pt/word/mam'e",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14731,
+      "kimbundu_term": "Mam'enu",
+      "portuguese_translation": "(contr. do adj. máma e do pron. pess. pl. enu) Tua ou vossa mãe. Pl. ji-mama-jenu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, pessoa, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mam'enu-1 — https://www.kimbundu.org/pt/word/mam'enu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14732,
+      "kimbundu_term": "Mam'etu",
+      "portuguese_translation": "adj. e pron. pess. pl. (IV) contr. de mama e de etu. Nossa mãe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, pessoa, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mam'etu-1 — https://www.kimbundu.org/pt/word/mam'etu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14733,
+      "kimbundu_term": "Mâma",
+      "portuguese_translation": "Mãe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mâma-1 — https://www.kimbundu.org/pt/word/mama",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
