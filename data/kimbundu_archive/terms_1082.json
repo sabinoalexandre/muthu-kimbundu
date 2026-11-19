@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10924,
+      "kimbundu_term": "Kunonesa",
+      "portuguese_translation": "Mandar selecionar, apanhar por escolha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunonesa-1 — https://www.kimbundu.org/pt/word/kunonesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10925,
+      "kimbundu_term": "Kúnonga",
+      "portuguese_translation": "Alvejar",
+      "definition": null,
+      "alternative_meanings": [
+        "acertar",
+        "Fazer pontaria",
+        "tomar como alvo",
+        "Atingir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúnonga-1 — https://www.kimbundu.org/pt/word/kunonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10926,
+      "kimbundu_term": "Kunongena",
+      "portuguese_translation": "Falar sarcasticamente, ironicamente",
+      "definition": null,
+      "alternative_meanings": [
+        "Motejar. É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunongena-1 — https://www.kimbundu.org/pt/word/kunongena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10927,
+      "kimbundu_term": "Kunongojoka",
+      "portuguese_translation": "Decifrar charadas",
+      "definition": null,
+      "alternative_meanings": [
+        "adivinhar enigmas",
+        "Explicar ou ler o que se apresenta obscuro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunongojoka-1 — https://www.kimbundu.org/pt/word/kunongojoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10928,
+      "kimbundu_term": "Kunongóna",
+      "portuguese_translation": "Colher remédios (de plantas, folhas ou raízes) para medicar",
+      "definition": null,
+      "alternative_meanings": [
+        "Recolher vestígios ou sinais (em caso de crime)",
+        "Tirar moldes"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunongóna-1 — https://www.kimbundu.org/pt/word/kunongona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10929,
+      "kimbundu_term": "Kunu",
+      "portuguese_translation": "Aqui, cá",
+      "definition": null,
+      "alternative_meanings": [
+        "Deste lado",
+        "para cá",
+        "aquém"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunu-1 — https://www.kimbundu.org/pt/word/kunu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10930,
+      "kimbundu_term": "Kunu",
+      "portuguese_translation": "V. mubiri",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunu-1 — https://www.kimbundu.org/pt/word/kunu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10931,
+      "kimbundu_term": "Kûnua",
+      "portuguese_translation": "Beber",
+      "definition": null,
+      "alternative_meanings": [
+        "gastar em bebida"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kûnua-1 — https://www.kimbundu.org/pt/word/kunua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10932,
+      "kimbundu_term": "Kûnua",
+      "portuguese_translation": "Suportar",
+      "definition": null,
+      "alternative_meanings": [
+        "sofrer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kûnua-1 — https://www.kimbundu.org/pt/word/kunua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10933,
+      "kimbundu_term": "Kûnua",
+      "portuguese_translation": "Bebida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kûnua-1 — https://www.kimbundu.org/pt/word/kunua",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
