@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15694,
+      "kimbundu_term": "Misúdi",
+      "portuguese_translation": "Vasilhas de peles para líquidos",
+      "definition": null,
+      "alternative_meanings": [
+        "Odraria"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, misúdi-1 — https://www.kimbundu.org/pt/word/misudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15695,
+      "kimbundu_term": "Misúnda",
+      "portuguese_translation": "Monstruosidades",
+      "definition": null,
+      "alternative_meanings": [
+        "Coisas extraordinárias ou contrárias à ordem natural da natureza"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, misúnda-1 — https://www.kimbundu.org/pt/word/misunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15696,
+      "kimbundu_term": "Misúnda",
+      "portuguese_translation": "adj. Que merece repulsa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, misúnda-1 — https://www.kimbundu.org/pt/word/misunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15697,
+      "kimbundu_term": "Misúsu",
+      "portuguese_translation": "As dores do parto",
+      "definition": null,
+      "alternative_meanings": [
+        "Pesares",
+        "Estertor",
+        "vascas",
+        "Convulsões",
+        "ânsias",
+        "náuseas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, misúsu-1 — https://www.kimbundu.org/pt/word/misusu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15698,
+      "kimbundu_term": "Mitakanga",
+      "portuguese_translation": "Olival",
+      "definition": null,
+      "alternative_meanings": [
+        "Género de plantas tipo das oleaginosas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mitakanga-1 — https://www.kimbundu.org/pt/word/mitakanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15699,
+      "kimbundu_term": "Mitámba",
+      "portuguese_translation": "Plantas téxteis (gén. das leguminosas próprias dos países quentes, tamarindus indica), de fruto comestível",
+      "definition": null,
+      "alternative_meanings": [
+        "Tamarindal"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mitámba-1 — https://www.kimbundu.org/pt/word/mitamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15700,
+      "kimbundu_term": "Mítamba",
+      "portuguese_translation": "Conjunto de peixes espinacidas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mítamba-1 — https://www.kimbundu.org/pt/word/mitamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15701,
+      "kimbundu_term": "Mitányi",
+      "portuguese_translation": "Hastes",
+      "definition": null,
+      "alternative_meanings": [
+        "varas ou ramos de plantas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mitányi-1 — https://www.kimbundu.org/pt/word/mitanyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15702,
+      "kimbundu_term": "Mite",
+      "portuguese_translation": "abreviatura de mikuta, etc",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mite-1 — https://www.kimbundu.org/pt/word/mite",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15703,
+      "kimbundu_term": "Miteke",
+      "portuguese_translation": "Que serve para tingir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, miteke-1 — https://www.kimbundu.org/pt/word/miteke",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
