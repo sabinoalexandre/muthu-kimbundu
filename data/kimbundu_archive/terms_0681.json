@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6914,
+      "kimbundu_term": "Kuanguluka",
+      "portuguese_translation": "Corar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuanguluka-1 — https://www.kimbundu.org/pt/word/kuanguluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6915,
+      "kimbundu_term": "Kuanguluka",
+      "portuguese_translation": "Cambiar",
+      "definition": null,
+      "alternative_meanings": [
+        "mudar de cor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuanguluka-1 — https://www.kimbundu.org/pt/word/kuanguluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6916,
+      "kimbundu_term": "Kuanguluka",
+      "portuguese_translation": "Ter cor diferente da normal (nas pessoas e nas coisas)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuanguluka-1 — https://www.kimbundu.org/pt/word/kuanguluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6917,
+      "kimbundu_term": "Kuangulukísa",
+      "portuguese_translation": "Fazer mudar de cor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuangulukísa-1 — https://www.kimbundu.org/pt/word/kuangulukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6918,
+      "kimbundu_term": "Kuanjiua",
+      "portuguese_translation": "Visionar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuanjiua-1 — https://www.kimbundu.org/pt/word/kuanjiua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6919,
+      "kimbundu_term": "Kuanjiua",
+      "portuguese_translation": "Ter sonho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuanjiua-1 — https://www.kimbundu.org/pt/word/kuanjiua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6920,
+      "kimbundu_term": "Kuanjiua",
+      "portuguese_translation": "Ver em sonhos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuanjiua-1 — https://www.kimbundu.org/pt/word/kuanjiua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6921,
+      "kimbundu_term": "Kuanyama",
+      "portuguese_translation": "Vasto território da circ. civil do Baixo Cunene, distr. e prov. da Huíla e sede da Vila Pereira d'Eça, a 17º e 5' de lat",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuanyama-1 — https://www.kimbundu.org/pt/word/kuanyama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6922,
+      "kimbundu_term": "Kuânyi",
+      "portuguese_translation": "De quê",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuânyi-1 — https://www.kimbundu.org/pt/word/kuanyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6923,
+      "kimbundu_term": "Kuânyi",
+      "portuguese_translation": "De qual",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuânyi-1 — https://www.kimbundu.org/pt/word/kuanyi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
