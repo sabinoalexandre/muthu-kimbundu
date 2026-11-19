@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10784,
+      "kimbundu_term": "Kunanuka",
+      "portuguese_translation": "Crescer pouco (em tamanho)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunanuka-1 — https://www.kimbundu.org/pt/word/kunanuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10785,
+      "kimbundu_term": "Kunanuka",
+      "portuguese_translation": "Tornar-se pouco maior",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunanuka-1 — https://www.kimbundu.org/pt/word/kunanuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10786,
+      "kimbundu_term": "Kunanuka",
+      "portuguese_translation": "Ter pequeno aumento",
+      "definition": null,
+      "alternative_meanings": [
+        "ser pouco mais volumoso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunanuka-1 — https://www.kimbundu.org/pt/word/kunanuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10787,
+      "kimbundu_term": "Kunanukisa",
+      "portuguese_translation": "Fazer avolumar, crescer, sobressair",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunanukisa-1 — https://www.kimbundu.org/pt/word/kunanukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10788,
+      "kimbundu_term": "Kunánza",
+      "portuguese_translation": "Gabar",
+      "definition": null,
+      "alternative_meanings": [
+        "tecer elogios a",
+        "Tornar ufano"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunánza-1 — https://www.kimbundu.org/pt/word/kunanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10789,
+      "kimbundu_term": "Kunánza",
+      "portuguese_translation": "Kurinánza, e r. Tecer elogios a si próprio",
+      "definition": null,
+      "alternative_meanings": [
+        "ufanar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunánza-1 — https://www.kimbundu.org/pt/word/kunanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10790,
+      "kimbundu_term": "Kunanzesa",
+      "portuguese_translation": "Fazer elogiar, gabar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunanzesa-1 — https://www.kimbundu.org/pt/word/kunanzesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10791,
+      "kimbundu_term": "Kunda",
+      "portuguese_translation": "Costado",
+      "definition": null,
+      "alternative_meanings": [
+        "costas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunda-1 — https://www.kimbundu.org/pt/word/kunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10792,
+      "kimbundu_term": "Kunda",
+      "portuguese_translation": "Abrev. de rikunda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunda-1 — https://www.kimbundu.org/pt/word/kunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10793,
+      "kimbundu_term": "Kundámba",
+      "portuguese_translation": "Manipular",
+      "definition": null,
+      "alternative_meanings": [
+        "Preparar",
+        "coordenar",
+        "compor",
+        "sub. Manipulação",
+        "arranjo",
+        "Kurindámba, v. r. Preparar-se",
+        "untar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kundámba-1 — https://www.kimbundu.org/pt/word/kundamba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
