@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3934,
+      "kimbundu_term": "Kânyi",
+      "portuguese_translation": "interrog. Que coisa (entre várias)",
+      "definition": null,
+      "alternative_meanings": [
+        "Qual (entre muitos)?"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kânyi-1 — https://www.kimbundu.org/pt/word/kanyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3935,
+      "kimbundu_term": "Kânyi",
+      "portuguese_translation": "interrog. servindo para determinar a qualidade de um objeto entre outros",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kânyi-1 — https://www.kimbundu.org/pt/word/kanyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3936,
+      "kimbundu_term": "Kanyoka",
+      "portuguese_translation": "Cobrão",
+      "definition": null,
+      "alternative_meanings": [
+        "cobrelo",
+        "Pequeno réptil ofídio. Pl. túnhoka"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanyoka-1 — https://www.kimbundu.org/pt/word/kanyoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3937,
+      "kimbundu_term": "Kanyoka",
+      "portuguese_translation": "Pov. na circ. civ. de Cazengo, kil. 280 da linha de Malange, entroncamento do ramal do C. de F. do Golungo, distr. do Qu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanyoka-1 — https://www.kimbundu.org/pt/word/kanyoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3938,
+      "kimbundu_term": "Kanyoto",
+      "portuguese_translation": "Que se serve da mão esquerda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanyoto-1 — https://www.kimbundu.org/pt/word/kanyoto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3939,
+      "kimbundu_term": "Kanzaji",
+      "portuguese_translation": "adj. Do raio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanzaji-1 — https://www.kimbundu.org/pt/word/kanzaji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3940,
+      "kimbundu_term": "Kanzaji",
+      "portuguese_translation": "Faísca",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanzaji-1 — https://www.kimbundu.org/pt/word/kanzaji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3941,
+      "kimbundu_term": "Kanzaji",
+      "portuguese_translation": "Pov. e sede do posto de «Cazage», circ. civ. de Cassai Sul, distr. da Lunda, prov. de Malange",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanzaji-1 — https://www.kimbundu.org/pt/word/kanzaji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3942,
+      "kimbundu_term": "Kanzála",
+      "portuguese_translation": "Esfomeado",
+      "definition": null,
+      "alternative_meanings": [
+        "Faminto",
+        "Que nasceu no tempo da fome"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanzála-1 — https://www.kimbundu.org/pt/word/kanzala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3943,
+      "kimbundu_term": "Kanzanza",
+      "portuguese_translation": "Frequência",
+      "definition": null,
+      "alternative_meanings": [
+        "assiduidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanzanza-1 — https://www.kimbundu.org/pt/word/kanzanza",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
