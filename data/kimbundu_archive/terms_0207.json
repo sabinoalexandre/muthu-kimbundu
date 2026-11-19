@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2174,
+      "kimbundu_term": "Ina",
+      "portuguese_translation": "e pron. demonstr. Esse",
+      "definition": null,
+      "alternative_meanings": [
+        "essa",
+        "Isso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ina-1 — https://www.kimbundu.org/pt/word/ina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2175,
+      "kimbundu_term": "Ina",
+      "portuguese_translation": "(III) Esses",
+      "definition": null,
+      "alternative_meanings": [
+        "essas",
+        "Designa as coisas que estão a pequena distância da pessoa com quem se fala"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ina-1 — https://www.kimbundu.org/pt/word/ina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2176,
+      "kimbundu_term": "Inãi",
+      "portuguese_translation": "interrog. Que pessoa?",
+      "definition": null,
+      "alternative_meanings": [
+        "Quem"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, inãi-1 — https://www.kimbundu.org/pt/word/inai",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2177,
+      "kimbundu_term": "Ináma",
+      "portuguese_translation": "Pernas",
+      "definition": null,
+      "alternative_meanings": [
+        "Pés"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ináma-1 — https://www.kimbundu.org/pt/word/inama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2178,
+      "kimbundu_term": "Ínanyi",
+      "portuguese_translation": "Qual",
+      "definition": null,
+      "alternative_meanings": [
+        "Que pessoa (entre várias)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ínanyi-1 — https://www.kimbundu.org/pt/word/inanyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2179,
+      "kimbundu_term": "Índa",
+      "portuguese_translation": "Em tempo anterior",
+      "definition": null,
+      "alternative_meanings": [
+        "Antes",
+        "Melhor",
+        "Pelo contrário"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, índa-1 — https://www.kimbundu.org/pt/word/inda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2180,
+      "kimbundu_term": "Índa",
+      "portuguese_translation": "Cestos",
+      "definition": null,
+      "alternative_meanings": [
+        "Cabazes",
+        "Balaios",
+        "Conj. Mas",
+        "Ora"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, índa-1 — https://www.kimbundu.org/pt/word/inda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2181,
+      "kimbundu_term": "Índo",
+      "portuguese_translation": "Tristeza",
+      "definition": null,
+      "alternative_meanings": [
+        "luto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, índo-1 — https://www.kimbundu.org/pt/word/indo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2182,
+      "kimbundu_term": "Indombo",
+      "portuguese_translation": "Rama de batata-doce",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, indombo-1 — https://www.kimbundu.org/pt/word/indombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2183,
+      "kimbundu_term": "Índungu",
+      "portuguese_translation": "Danças",
+      "definition": null,
+      "alternative_meanings": [
+        "Meretrizes"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, índungu-1 — https://www.kimbundu.org/pt/word/indungu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
