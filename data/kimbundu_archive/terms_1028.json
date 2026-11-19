@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10384,
+      "kimbundu_term": "Kulúka",
+      "portuguese_translation": "Denominação",
+      "definition": null,
+      "alternative_meanings": [
+        "designação"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulúka-1 — https://www.kimbundu.org/pt/word/kuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10385,
+      "kimbundu_term": "Kulúka",
+      "portuguese_translation": "Kurilúka, v. r. Dar o seu nome a outrem para que por ele seja chamado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulúka-1 — https://www.kimbundu.org/pt/word/kuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10386,
+      "kimbundu_term": "Kulukisa",
+      "portuguese_translation": "Fazer dar nome a. Mandar alcunhar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulukisa-1 — https://www.kimbundu.org/pt/word/kulukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10387,
+      "kimbundu_term": "Kulukuila",
+      "portuguese_translation": "Despejar (o conteúdo) para outrem. Dar",
+      "definition": null,
+      "alternative_meanings": [
+        "esvasiar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulukuila-1 — https://www.kimbundu.org/pt/word/kulukuila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10388,
+      "kimbundu_term": "Kulukuisa",
+      "portuguese_translation": "Fazer despejar, esvasiar, sair por meio de força. Evacuar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulukuisa-1 — https://www.kimbundu.org/pt/word/kulukuisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10389,
+      "kimbundu_term": "Kúlukuka",
+      "portuguese_translation": "Sair com ímpeto. Lançar-se fora. Pôr-se fora",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlukuka-1 — https://www.kimbundu.org/pt/word/kulukuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10390,
+      "kimbundu_term": "Kulukula",
+      "portuguese_translation": "Expulsar",
+      "definition": null,
+      "alternative_meanings": [
+        "deitar fora. Evacuar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulukula-1 — https://www.kimbundu.org/pt/word/kulukula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10391,
+      "kimbundu_term": "Kulukula",
+      "portuguese_translation": "Despejo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulukula-1 — https://www.kimbundu.org/pt/word/kulukula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10392,
+      "kimbundu_term": "Kulukula",
+      "portuguese_translation": "Kurilukula, e r. Sair de repente. Sair cedo (de casa). Pôr-se fora",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulukula-1 — https://www.kimbundu.org/pt/word/kulukula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10393,
+      "kimbundu_term": "Kulukumuka",
+      "portuguese_translation": "Jorrar em abundância. Derramar, verter copiosamente. Correr por fora",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulukumuka-1 — https://www.kimbundu.org/pt/word/kulukumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
