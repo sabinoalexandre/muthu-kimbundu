@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11664,
+      "kimbundu_term": "Kusóka",
+      "portuguese_translation": "Capacidade",
+      "definition": null,
+      "alternative_meanings": [
+        "poder. Qualidade de igual",
+        "Ato de calcar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusóka-1 — https://www.kimbundu.org/pt/word/kusoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11665,
+      "kimbundu_term": "Kusóka",
+      "portuguese_translation": "Kurisóka, e r. Estar em condições de igualdade. Chegar às mesmas contingências, a mesma altura que outrem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusóka-1 — https://www.kimbundu.org/pt/word/kusoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11666,
+      "kimbundu_term": "Kúsoka",
+      "portuguese_translation": "Oscilar",
+      "definition": null,
+      "alternative_meanings": [
+        "abanar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsoka-1 — https://www.kimbundu.org/pt/word/kusoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11667,
+      "kimbundu_term": "Kúsoka",
+      "portuguese_translation": "Movimento oscilatório",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsoka-1 — https://www.kimbundu.org/pt/word/kusoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11668,
+      "kimbundu_term": "Kusókana",
+      "portuguese_translation": "Casar",
+      "definition": null,
+      "alternative_meanings": [
+        "Coabitar",
+        "ter vida comum"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusókana-1 — https://www.kimbundu.org/pt/word/kusokana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11669,
+      "kimbundu_term": "Kusókana",
+      "portuguese_translation": "Casamento",
+      "definition": null,
+      "alternative_meanings": [
+        "coabitação"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusókana-1 — https://www.kimbundu.org/pt/word/kusokana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11670,
+      "kimbundu_term": "Kusókana",
+      "portuguese_translation": "Kurisokana, v. r. Casar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "Amasiarse",
+        "fig. Bater-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusókana-1 — https://www.kimbundu.org/pt/word/kusokana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11671,
+      "kimbundu_term": "Kusokanesa",
+      "portuguese_translation": "Fazer coabitar, casar",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer viver em comum",
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokanesa-1 — https://www.kimbundu.org/pt/word/kusokanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11672,
+      "kimbundu_term": "Kusokejeka",
+      "portuguese_translation": "Ajustar, pôr certo (peças de um maquinismo)",
+      "definition": null,
+      "alternative_meanings": [
+        "Unir peça por peça",
+        "compor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokejeka-1 — https://www.kimbundu.org/pt/word/kusokejeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11673,
+      "kimbundu_term": "Kusokejeka",
+      "portuguese_translation": "Kurisokejeka, e r. Ajustar-se, encaixar-se em muitos lugares",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokejeka-1 — https://www.kimbundu.org/pt/word/kusokejeka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
