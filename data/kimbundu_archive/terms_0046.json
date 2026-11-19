@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 564,
+      "kimbundu_term": "Dianga",
+      "portuguese_translation": "Bambu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dianga-1 — https://www.kimbundu.org/pt/word/dianga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 565,
+      "kimbundu_term": "Diânyi",
+      "portuguese_translation": "De que",
+      "definition": null,
+      "alternative_meanings": [
+        "de qual"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diânyi-1 — https://www.kimbundu.org/pt/word/dianyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 566,
+      "kimbundu_term": "Dianze",
+      "portuguese_translation": "Acácia (seu fruto)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dianze-1 — https://www.kimbundu.org/pt/word/dianze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 567,
+      "kimbundu_term": "Díba",
+      "portuguese_translation": "Circunstância especial",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, díba-1 — https://www.kimbundu.org/pt/word/diba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 568,
+      "kimbundu_term": "Díba",
+      "portuguese_translation": "Característica",
+      "definition": null,
+      "alternative_meanings": [
+        "particularidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, díba-1 — https://www.kimbundu.org/pt/word/diba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 569,
+      "kimbundu_term": "Díba",
+      "portuguese_translation": "Particular",
+      "definition": null,
+      "alternative_meanings": [
+        "especial",
+        "próprio de cada coisa ou pessoa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, díba-1 — https://www.kimbundu.org/pt/word/diba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 570,
+      "kimbundu_term": "Díba",
+      "portuguese_translation": "Nome por que em Cabinda se conhece o dendém sombo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, díba-1 — https://www.kimbundu.org/pt/word/diba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 571,
+      "kimbundu_term": "Diba",
+      "portuguese_translation": "Pranchada",
+      "definition": null,
+      "alternative_meanings": [
+        "espadeirada",
+        "cutilada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diba-1 — https://www.kimbundu.org/pt/word/diba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 572,
+      "kimbundu_term": "Diba",
+      "portuguese_translation": "Golpe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diba-1 — https://www.kimbundu.org/pt/word/diba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 573,
+      "kimbundu_term": "Dibaba",
+      "portuguese_translation": "Asa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibaba-1 — https://www.kimbundu.org/pt/word/dibaba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
