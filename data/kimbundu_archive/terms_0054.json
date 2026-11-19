@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 644,
+      "kimbundu_term": "Dibindu",
+      "portuguese_translation": "Ramal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibindu-1 — https://www.kimbundu.org/pt/word/dibindu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 645,
+      "kimbundu_term": "Dibinga",
+      "portuguese_translation": "Troço de matéria fecal sólida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibinga-1 — https://www.kimbundu.org/pt/word/dibinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 646,
+      "kimbundu_term": "Dibínga",
+      "portuguese_translation": "Sucedido",
+      "definition": null,
+      "alternative_meanings": [
+        "posterior"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibínga-1 — https://www.kimbundu.org/pt/word/dibinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 647,
+      "kimbundu_term": "Dibingánu",
+      "portuguese_translation": "Revesamento",
+      "definition": null,
+      "alternative_meanings": [
+        "substituição"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibingánu-1 — https://www.kimbundu.org/pt/word/dibinganu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 648,
+      "kimbundu_term": "Dibingánu",
+      "portuguese_translation": "Alternamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibingánu-1 — https://www.kimbundu.org/pt/word/dibinganu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 649,
+      "kimbundu_term": "Dibingánu",
+      "portuguese_translation": "Alterno",
+      "definition": null,
+      "alternative_meanings": [
+        "que substitui outro por vez ou turno"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibingánu-1 — https://www.kimbundu.org/pt/word/dibinganu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 650,
+      "kimbundu_term": "Dibitilu",
+      "portuguese_translation": "Portada",
+      "definition": null,
+      "alternative_meanings": [
+        "lugar de passagem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibitilu-1 — https://www.kimbundu.org/pt/word/dibitilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 651,
+      "kimbundu_term": "Dibitilu",
+      "portuguese_translation": "Corredor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibitilu-1 — https://www.kimbundu.org/pt/word/dibitilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 652,
+      "kimbundu_term": "Dibítu",
+      "portuguese_translation": "Porta",
+      "definition": null,
+      "alternative_meanings": [
+        "peça que fecha ou abre uma abertura"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibítu-1 — https://www.kimbundu.org/pt/word/dibitu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 653,
+      "kimbundu_term": "Dibíxi",
+      "portuguese_translation": "Tília. Árvore tipo da família das tiliáceas e sua flor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibíxi-1 — https://www.kimbundu.org/pt/word/dibixi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
