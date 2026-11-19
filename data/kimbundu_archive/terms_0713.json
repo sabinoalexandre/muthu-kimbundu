@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7234,
+      "kimbundu_term": "Kubebuluka",
+      "portuguese_translation": "Estar fraco, leve, debilitado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubebuluka-1 — https://www.kimbundu.org/pt/word/kubebuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7235,
+      "kimbundu_term": "Kubebuluka",
+      "portuguese_translation": "Ter pouco peso ou resistência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubebuluka-1 — https://www.kimbundu.org/pt/word/kubebuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7236,
+      "kimbundu_term": "Kubebuluka",
+      "portuguese_translation": "Sofrer tribulações",
+      "definition": null,
+      "alternative_meanings": [
+        "ter dificuldades"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubebuluka-1 — https://www.kimbundu.org/pt/word/kubebuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7237,
+      "kimbundu_term": "Kubebuluka",
+      "portuguese_translation": "Leveza",
+      "definition": null,
+      "alternative_meanings": [
+        "debilidade",
+        "fraqueza"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubebuluka-1 — https://www.kimbundu.org/pt/word/kubebuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7238,
+      "kimbundu_term": "Kubeja",
+      "portuguese_translation": "Venerar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubeja-1 — https://www.kimbundu.org/pt/word/kubeja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7239,
+      "kimbundu_term": "Kubekéla",
+      "portuguese_translation": "Oscilar",
+      "definition": null,
+      "alternative_meanings": [
+        "bulir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubekéla-1 — https://www.kimbundu.org/pt/word/kubekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7240,
+      "kimbundu_term": "Kubekéla",
+      "portuguese_translation": "Menear, mover-se brandamente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubekéla-1 — https://www.kimbundu.org/pt/word/kubekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7241,
+      "kimbundu_term": "Kubekéla",
+      "portuguese_translation": "Oscilação",
+      "definition": null,
+      "alternative_meanings": [
+        "meneio"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubekéla-1 — https://www.kimbundu.org/pt/word/kubekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7242,
+      "kimbundu_term": "Kúbekela",
+      "portuguese_translation": "Trazer (para outrem)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbekela-1 — https://www.kimbundu.org/pt/word/kubekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7243,
+      "kimbundu_term": "Kúbekela",
+      "portuguese_translation": "Ser portador de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbekela-1 — https://www.kimbundu.org/pt/word/kubekela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
