@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 20044,
+      "kimbundu_term": "Wisu",
+      "portuguese_translation": "Cru",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wisu-1 — https://www.kimbundu.org/pt/word/wisu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20045,
+      "kimbundu_term": "Wisu",
+      "portuguese_translation": "Bárbaro",
+      "definition": null,
+      "alternative_meanings": [
+        "não preparado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wisu-1 — https://www.kimbundu.org/pt/word/wisu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20046,
+      "kimbundu_term": "Wisu",
+      "portuguese_translation": "A cor verde dos vegetais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wisu-1 — https://www.kimbundu.org/pt/word/wisu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20047,
+      "kimbundu_term": "Wisu",
+      "portuguese_translation": "Hortaliça",
+      "definition": null,
+      "alternative_meanings": [
+        "selva"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wisu-1 — https://www.kimbundu.org/pt/word/wisu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20048,
+      "kimbundu_term": "Wôma",
+      "portuguese_translation": "Medo",
+      "definition": null,
+      "alternative_meanings": [
+        "Temor., adj. Medroso",
+        "tímido"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wôma-1 — https://www.kimbundu.org/pt/word/woma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20049,
+      "kimbundu_term": "Wonene",
+      "portuguese_translation": "Grande",
+      "definition": null,
+      "alternative_meanings": [
+        "notável: de alta jerarquia",
+        "Que é de tamanho maior que o ordinário. (Melhor grafar ua unene)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wonene-1 — https://www.kimbundu.org/pt/word/wonene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20050,
+      "kimbundu_term": "Woso",
+      "portuguese_translation": "Todo",
+      "definition": null,
+      "alternative_meanings": [
+        "inteiro: completo",
+        "Cada",
+        "qualquer"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, woso-1 — https://www.kimbundu.org/pt/word/woso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20051,
+      "kimbundu_term": "Woso",
+      "portuguese_translation": "— uoso, Um de entre muitos sem escolher ou que não seja aquele de que se fala",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, woso-1 — https://www.kimbundu.org/pt/word/woso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20052,
+      "kimbundu_term": "Woso",
+      "portuguese_translation": "Seja qual for: — uoso mu xarianda kenu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, woso-1 — https://www.kimbundu.org/pt/word/woso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20053,
+      "kimbundu_term": "Wowa",
+      "portuguese_translation": "Tolice",
+      "definition": null,
+      "alternative_meanings": [
+        "idiotice",
+        "sandice"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wowa-1 — https://www.kimbundu.org/pt/word/wowa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
