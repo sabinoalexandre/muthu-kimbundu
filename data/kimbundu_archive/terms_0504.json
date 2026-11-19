@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5144,
+      "kimbundu_term": "Kijinde",
+      "portuguese_translation": "Coisa ou pessoa desagradável com quem se embira",
+      "definition": null,
+      "alternative_meanings": [
+        "Antipático",
+        "embirrento"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijinde-1 — https://www.kimbundu.org/pt/word/kijinde",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5145,
+      "kimbundu_term": "Kijinga",
+      "portuguese_translation": "Pequeno barrete de palha com mais ou menos enfeites com que os sobas simbolizam a sua autoridade",
+      "definition": null,
+      "alternative_meanings": [
+        "Barrete orlado",
+        "Boné sem viseira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijinga-1 — https://www.kimbundu.org/pt/word/kijinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5146,
+      "kimbundu_term": "Kijinganu",
+      "portuguese_translation": "Culto secreto",
+      "definition": null,
+      "alternative_meanings": [
+        "Mistério. Dogma religioso",
+        "Tudo que tem uma causa oculta ou nos parece inexplicável",
+        "Segredo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijinganu-1 — https://www.kimbundu.org/pt/word/kijinganu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5147,
+      "kimbundu_term": "Kijinganu",
+      "portuguese_translation": "Crença na possível comunicação entre o homem e a divindade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijinganu-1 — https://www.kimbundu.org/pt/word/kijinganu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5148,
+      "kimbundu_term": "Kijinganu",
+      "portuguese_translation": "Veneração",
+      "definition": null,
+      "alternative_meanings": [
+        "devoção"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijinganu-1 — https://www.kimbundu.org/pt/word/kijinganu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5149,
+      "kimbundu_term": "Kijingu",
+      "portuguese_translation": "Muralha",
+      "definition": null,
+      "alternative_meanings": [
+        "cerca",
+        "Adorno",
+        "enfeite",
+        "Cercadura"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijingu-1 — https://www.kimbundu.org/pt/word/kijingu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5150,
+      "kimbundu_term": "Kijituinu",
+      "portuguese_translation": "O que faz soltar, desembaraçar, desatar",
+      "definition": null,
+      "alternative_meanings": [
+        "Ordem de soltura"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijituinu-1 — https://www.kimbundu.org/pt/word/kijituinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5151,
+      "kimbundu_term": "Kíka",
+      "portuguese_translation": "Semelhança com os antepassados",
+      "definition": null,
+      "alternative_meanings": [
+        "Atavismo",
+        "Propriedade dos seres reprodutores de comunicarem aos descendentes qualidades ou defeitos que lhes eram particulares"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kíka-1 — https://www.kimbundu.org/pt/word/kika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5152,
+      "kimbundu_term": "Kíka",
+      "portuguese_translation": "Pecado capital",
+      "definition": null,
+      "alternative_meanings": [
+        "crime de origem",
+        "Dogma ou preceito religioso que se transmite aos vindouros",
+        "fig. Proscrição"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kíka-1 — https://www.kimbundu.org/pt/word/kika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5153,
+      "kimbundu_term": "Kíka",
+      "portuguese_translation": "adj. Pecador",
+      "definition": null,
+      "alternative_meanings": [
+        "Atávico"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kíka-1 — https://www.kimbundu.org/pt/word/kika",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
