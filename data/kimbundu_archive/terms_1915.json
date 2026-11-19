@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19254,
+      "kimbundu_term": "Túiala",
+      "portuguese_translation": "Rapazinhos",
+      "definition": null,
+      "alternative_meanings": [
+        "garotos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, túiala-1 — https://www.kimbundu.org/pt/word/tuiala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19255,
+      "kimbundu_term": "Tuiálu",
+      "portuguese_translation": "Cadeirinhas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tuiálu-1 — https://www.kimbundu.org/pt/word/tuialu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19256,
+      "kimbundu_term": "Tuiáma",
+      "portuguese_translation": "Animaisinhos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tuiáma-1 — https://www.kimbundu.org/pt/word/tuiama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19257,
+      "kimbundu_term": "Tuim",
+      "portuguese_translation": "para significar o esbugalhamento dos olhos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tuim-1 — https://www.kimbundu.org/pt/word/tuim",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19258,
+      "kimbundu_term": "Tuimbámba",
+      "portuguese_translation": "Infusórios",
+      "definition": null,
+      "alternative_meanings": [
+        "bichinhos",
+        "Bactérias",
+        "pequenos insetos",
+        "Nome comum a vibriões, bacilos, etc"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tuimbámba-1 — https://www.kimbundu.org/pt/word/tuimbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19259,
+      "kimbundu_term": "Tuisukusuku",
+      "portuguese_translation": "Bruega",
+      "definition": null,
+      "alternative_meanings": [
+        "Chuviscos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tuisukusuku-1 — https://www.kimbundu.org/pt/word/tuisukusuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19260,
+      "kimbundu_term": "Tûji",
+      "portuguese_translation": "Excremento",
+      "definition": null,
+      "alternative_meanings": [
+        "estrume",
+        "esterco"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tûji-1 — https://www.kimbundu.org/pt/word/tuji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19261,
+      "kimbundu_term": "Tujola",
+      "portuguese_translation": "tesoura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tujola-1 — https://www.kimbundu.org/pt/word/tujola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19262,
+      "kimbundu_term": "Túku",
+      "portuguese_translation": "Abr. de ritûku",
+      "definition": null,
+      "alternative_meanings": [
+        "Curva",
+        "Volta"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, túku-1 — https://www.kimbundu.org/pt/word/tuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19263,
+      "kimbundu_term": "Tuku",
+      "portuguese_translation": "Cauda",
+      "definition": null,
+      "alternative_meanings": [
+        "As penas que constituem o rabo das aves",
+        "njila u rila muenhu",
+        "Uropigio",
+        "burl. Cu"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tuku-1 — https://www.kimbundu.org/pt/word/tuku",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
