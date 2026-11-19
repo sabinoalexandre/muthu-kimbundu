@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11764,
+      "kimbundu_term": "Kúsosesa",
+      "portuguese_translation": "Mandar podar. Fazer pilar milho (para limpar)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsosesa-1 — https://www.kimbundu.org/pt/word/kusosesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11765,
+      "kimbundu_term": "Kúsosesa",
+      "portuguese_translation": "Fazer pilar milho (para limpar.)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsosesa-1 — https://www.kimbundu.org/pt/word/kusosesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11766,
+      "kimbundu_term": "Kusosésa",
+      "portuguese_translation": "Adelgaçar",
+      "definition": null,
+      "alternative_meanings": [
+        "estreitar. Diminuir em largura",
+        "reduzir a grossura de. Restringir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusosésa-1 — https://www.kimbundu.org/pt/word/kusosesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11767,
+      "kimbundu_term": "Kusosésa",
+      "portuguese_translation": "Kurisosesa, e r. Tornar-se delgado",
+      "definition": null,
+      "alternative_meanings": [
+        "diminuir de espessura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusosésa-1 — https://www.kimbundu.org/pt/word/kusosesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11768,
+      "kimbundu_term": "Kusosóla",
+      "portuguese_translation": "Tirar o grosso de. Tornar menos basto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusosóla-1 — https://www.kimbundu.org/pt/word/kusosola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11769,
+      "kimbundu_term": "Kusosoloka",
+      "portuguese_translation": "Diminuir de intensidade. Abrandar. Ser menos intenso, ter menos veemência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusosoloka-1 — https://www.kimbundu.org/pt/word/kusosoloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11770,
+      "kimbundu_term": "Kusosolola",
+      "portuguese_translation": "Fazer diminuir a intensidade de. Tornar menos vigoroso",
+      "definition": null,
+      "alternative_meanings": [
+        "reduzir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusosolola-1 — https://www.kimbundu.org/pt/word/kusosolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11771,
+      "kimbundu_term": "Kusosomoka",
+      "portuguese_translation": "Fagulhar. Faiscar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusosomoka-1 — https://www.kimbundu.org/pt/word/kusosomoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11772,
+      "kimbundu_term": "Kusosomona",
+      "portuguese_translation": "Fazer avivar (o fogo). Tirar da lenha a brasa acesa. Fazer soltar fagulhas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusosomona-1 — https://www.kimbundu.org/pt/word/kusosomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11773,
+      "kimbundu_term": "Kusosuéla",
+      "portuguese_translation": "Deitar a miúde lenha ao lume. Não deixar extinguir o fogo. Alimentar",
+      "definition": null,
+      "alternative_meanings": [
+        "manter (o fogo)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusosuéla-1 — https://www.kimbundu.org/pt/word/kusosuela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
