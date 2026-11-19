@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6864,
+      "kimbundu_term": "Kuahúla",
+      "portuguese_translation": "Render",
+      "definition": null,
+      "alternative_meanings": [
+        "substituir. Diz-se do facto de, em viagem, levar a carga do companheiro, para que descanse"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuahúla-1 — https://www.kimbundu.org/pt/word/kuahula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6865,
+      "kimbundu_term": "Kuaja",
+      "portuguese_translation": "Coçar",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Tosar",
+        "sovar",
+        "bater"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuaja-1 — https://www.kimbundu.org/pt/word/kuaja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6866,
+      "kimbundu_term": "Kuakamukuá",
+      "portuguese_translation": "e pron. indef. Outro",
+      "definition": null,
+      "alternative_meanings": [
+        "outra",
+        "Diferente",
+        "Seguinte",
+        "Mais um"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuakamukuá-1 — https://www.kimbundu.org/pt/word/kuakamukua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6867,
+      "kimbundu_term": "Kuakamukuá",
+      "portuguese_translation": "Em lugar diferente",
+      "definition": null,
+      "alternative_meanings": [
+        "Em outro sítio"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuakamukuá-1 — https://www.kimbundu.org/pt/word/kuakamukua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6868,
+      "kimbundu_term": "Kuakata",
+      "portuguese_translation": "Acariciar",
+      "definition": null,
+      "alternative_meanings": [
+        "Demonstrar afeto",
+        "Afagar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuakata-1 — https://www.kimbundu.org/pt/word/kuakata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6869,
+      "kimbundu_term": "Kuâku",
+      "portuguese_translation": "Abreviatura de lukuaku",
+      "definition": null,
+      "alternative_meanings": [
+        "Mão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuâku-1 — https://www.kimbundu.org/pt/word/kuaku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6870,
+      "kimbundu_term": "Kualála",
+      "portuguese_translation": "Sentir calor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kualála-1 — https://www.kimbundu.org/pt/word/kualala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6871,
+      "kimbundu_term": "Kualála",
+      "portuguese_translation": "muito vivo, ou comichão ardente",
+      "definition": null,
+      "alternative_meanings": [
+        "Arder",
+        "Queimar",
+        "doer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kualála-1 — https://www.kimbundu.org/pt/word/kualala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6872,
+      "kimbundu_term": "Kualála",
+      "portuguese_translation": "Ardência",
+      "definition": null,
+      "alternative_meanings": [
+        "sensação de calor",
+        "Veemência",
+        "dor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kualála-1 — https://www.kimbundu.org/pt/word/kualala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6873,
+      "kimbundu_term": "Kualalesa",
+      "portuguese_translation": "Fazer sentir calor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kualalesa-1 — https://www.kimbundu.org/pt/word/kualalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
