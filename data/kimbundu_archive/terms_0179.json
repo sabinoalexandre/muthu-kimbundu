@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1894,
+      "kimbundu_term": "Huedi",
+      "portuguese_translation": "Cunhado",
+      "definition": null,
+      "alternative_meanings": [
+        "cunhada",
+        "Marido ou mulher do irmão ou irmã (em relação ao outro irmão ou irmã)., concunhado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, huedi-1 — https://www.kimbundu.org/pt/word/huedi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1895,
+      "kimbundu_term": "Hueve",
+      "portuguese_translation": "Cem mil (termo histórico)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, numeral",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hueve-1 — https://www.kimbundu.org/pt/word/hueve",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1896,
+      "kimbundu_term": "Hûh",
+      "portuguese_translation": "Tolhido",
+      "definition": null,
+      "alternative_meanings": [
+        "Leso",
+        "Paralítico",
+        "Que tem lesão",
+        "Ofendido lesado",
+        "Ferido",
+        "contuso",
+        "fig. Defeituoso",
+        "coxo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hûh-1 — https://www.kimbundu.org/pt/word/huh",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1897,
+      "kimbundu_term": "Hûh",
+      "portuguese_translation": "Ser espiritual",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hûh-1 — https://www.kimbundu.org/pt/word/huh",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1898,
+      "kimbundu_term": "Huína",
+      "portuguese_translation": "Necessidade de beber",
+      "definition": null,
+      "alternative_meanings": [
+        "Sequidão",
+        "Secura",
+        "fig. Desejo ardente",
+        "Sede"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, huína-1 — https://www.kimbundu.org/pt/word/huina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1899,
+      "kimbundu_term": "Huinyi",
+      "portuguese_translation": "Cada uma das partes em que se racha um tronco de árvore para fazer lenha",
+      "definition": null,
+      "alternative_meanings": [
+        "Pau ou madeira seca para queimar",
+        "Acha",
+        "Lenha",
+        "Madeiro",
+        "pl. jihuinhi"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, huinyi-1 — https://www.kimbundu.org/pt/word/huinyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1900,
+      "kimbundu_term": "Húiu",
+      "portuguese_translation": "Onomatopeia com que se exprime o som de um esbarrondamento",
+      "definition": null,
+      "alternative_meanings": [
+        "Zás",
+        "Catrapuz"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, húiu-1 — https://www.kimbundu.org/pt/word/huiu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1901,
+      "kimbundu_term": "Hukunyi",
+      "portuguese_translation": "Desamparado: privado",
+      "definition": null,
+      "alternative_meanings": [
+        "abandonado",
+        "Desprotegido",
+        "Orfão"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hukunyi-1 — https://www.kimbundu.org/pt/word/hukunyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1902,
+      "kimbundu_term": "Hula",
+      "portuguese_translation": "Árvore de cuja madeira, ralada, se faz o pó deste nome",
+      "definition": null,
+      "alternative_meanings": [
+        "Tacula"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hula-1 — https://www.kimbundu.org/pt/word/hula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1903,
+      "kimbundu_term": "Hule",
+      "portuguese_translation": "Remido",
+      "definition": null,
+      "alternative_meanings": [
+        "Resgatado do cativeiro",
+        "Libertado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hule-1 — https://www.kimbundu.org/pt/word/hule",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
