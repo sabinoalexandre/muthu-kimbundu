@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4234,
+      "kimbundu_term": "Kátumbu",
+      "portuguese_translation": "Agulheado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kátumbu-1 — https://www.kimbundu.org/pt/word/katumbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4235,
+      "kimbundu_term": "Kátumbu",
+      "portuguese_translation": "Agulha de pequeno tamanho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kátumbu-2 — https://www.kimbundu.org/pt/word/katumbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4236,
+      "kimbundu_term": "Kátumbu",
+      "portuguese_translation": "Umbigo um pouco saliente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kátumbu-2 — https://www.kimbundu.org/pt/word/katumbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4237,
+      "kimbundu_term": "Kátumbu",
+      "portuguese_translation": "Diz-se do cabelo de criança entrançado e untado de tacula e óleo. A própria criança com cabelo nestas condições",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kátumbu-2 — https://www.kimbundu.org/pt/word/katumbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4238,
+      "kimbundu_term": "Kátumbu",
+      "portuguese_translation": "Dinheiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kátumbu-2 — https://www.kimbundu.org/pt/word/katumbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4239,
+      "kimbundu_term": "Katumua",
+      "portuguese_translation": "Criado de servir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, katumua-1 — https://www.kimbundu.org/pt/word/katumua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4240,
+      "kimbundu_term": "Katumua",
+      "portuguese_translation": "Moço",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, katumua-1 — https://www.kimbundu.org/pt/word/katumua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4241,
+      "kimbundu_term": "Katumua",
+      "portuguese_translation": "Que serve para mandar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, katumua-2 — https://www.kimbundu.org/pt/word/katumua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4242,
+      "kimbundu_term": "Katumua",
+      "portuguese_translation": "Próprio para servir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, katumua-2 — https://www.kimbundu.org/pt/word/katumua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4243,
+      "kimbundu_term": "Katungu",
+      "portuguese_translation": "Exceção",
+      "definition": null,
+      "alternative_meanings": [
+        "exclusão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, katungu-1 — https://www.kimbundu.org/pt/word/katungu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
