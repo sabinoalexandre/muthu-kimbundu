@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3044,
+      "kimbundu_term": "Kabúnga",
+      "portuguese_translation": "Gorra",
+      "definition": null,
+      "alternative_meanings": [
+        "Coifa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kabúnga-1 — https://www.kimbundu.org/pt/word/kabunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3045,
+      "kimbundu_term": "Kábungu",
+      "portuguese_translation": "Derrabado",
+      "definition": null,
+      "alternative_meanings": [
+        "Sem cauda",
+        "Que tem o rabo curto ou cortado",
+        "Rabão"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kábungu-1 — https://www.kimbundu.org/pt/word/kabungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3046,
+      "kimbundu_term": "Kábungu",
+      "portuguese_translation": "Nome por que, na poesia ou na fábula, é designada a águia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kábungu-1 — https://www.kimbundu.org/pt/word/kabungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3047,
+      "kimbundu_term": "Kábungu",
+      "portuguese_translation": "Pequena latrina",
+      "definition": null,
+      "alternative_meanings": [
+        "Privada"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kábungu-1 — https://www.kimbundu.org/pt/word/kabungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3048,
+      "kimbundu_term": "Kabúta",
+      "portuguese_translation": "Baixo",
+      "definition": null,
+      "alternative_meanings": [
+        "curto",
+        "Coisa de pequena altura"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kabúta-1 — https://www.kimbundu.org/pt/word/kabuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3049,
+      "kimbundu_term": "Kabúta",
+      "portuguese_translation": "Pov. e posto deste nome, na circ. civ. do Libolo, distr. do Quanza Sul, prov. de Benguela, com 10.993 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kabúta-1 — https://www.kimbundu.org/pt/word/kabuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3050,
+      "kimbundu_term": "Kabutukúngu",
+      "portuguese_translation": "Baixinho",
+      "definition": null,
+      "alternative_meanings": [
+        "Diz-se da pessoa baixa e gorda",
+        "Atarracado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kabutukúngu-1 — https://www.kimbundu.org/pt/word/kabutukungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3051,
+      "kimbundu_term": "Kádi",
+      "portuguese_translation": "Segundo",
+      "definition": null,
+      "alternative_meanings": [
+        "Que vem a seguir ao primeiro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kádi-1 — https://www.kimbundu.org/pt/word/kadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3052,
+      "kimbundu_term": "Kádi",
+      "portuguese_translation": "Planta medicinal",
+      "definition": null,
+      "alternative_meanings": [
+        "mbamba —"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kádi-1 — https://www.kimbundu.org/pt/word/kadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3053,
+      "kimbundu_term": "Kádia",
+      "portuguese_translation": "Fingimento de bondade, de ideias ou de opiniões apreciáveis",
+      "definition": null,
+      "alternative_meanings": [
+        "Falta de sinceridade",
+        "Impostura",
+        "Devoção fingida"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kádia-1 — https://www.kimbundu.org/pt/word/kadia",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
