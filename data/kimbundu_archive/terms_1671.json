@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16814,
+      "kimbundu_term": "Mumuándi",
+      "portuguese_translation": "Planta fam. das ebanáceas, assim conhecida na região dos Gambos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mumuándi-1 — https://www.kimbundu.org/pt/word/mumuandi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16815,
+      "kimbundu_term": "Mumuánge",
+      "portuguese_translation": "Espalhador",
+      "definition": null,
+      "alternative_meanings": [
+        "Pessoa que põe em debandada"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mumuánge-1 — https://www.kimbundu.org/pt/word/mumuange",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16816,
+      "kimbundu_term": "Múmue",
+      "portuguese_translation": "Planta leguminosa fam. das cesalpiniódeas (berlinia baumii), de madeira aproveitável",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múmue-1 — https://www.kimbundu.org/pt/word/mumue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16817,
+      "kimbundu_term": "Mumuémue",
+      "portuguese_translation": "Que sorri",
+      "definition": null,
+      "alternative_meanings": [
+        "que tem ar de riso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mumuémue-1 — https://www.kimbundu.org/pt/word/mumuemue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16818,
+      "kimbundu_term": "Mumuiki",
+      "portuguese_translation": "Alumiador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mumuiki-1 — https://www.kimbundu.org/pt/word/mumuiki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16819,
+      "kimbundu_term": "Mumúni",
+      "portuguese_translation": "Comparte",
+      "definition": null,
+      "alternative_meanings": [
+        "Que participa do mesmo ato ou direito"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mumúni-1 — https://www.kimbundu.org/pt/word/mumuni",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16820,
+      "kimbundu_term": "Mumvuale",
+      "portuguese_translation": "Titular",
+      "definition": null,
+      "alternative_meanings": [
+        "dignatário",
+        "nobre",
+        "Fidalgo",
+        "Pessoa que tem título de nobreza pelo seu nascimento"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mumvuale-1 — https://www.kimbundu.org/pt/word/mumvuale",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16821,
+      "kimbundu_term": "Mumvunge",
+      "portuguese_translation": "Ameaçador",
+      "definition": null,
+      "alternative_meanings": [
+        "Aquele que intimida"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mumvunge-1 — https://www.kimbundu.org/pt/word/mumvunge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16822,
+      "kimbundu_term": "Muná",
+      "portuguese_translation": "Ali (dentro) Além",
+      "definition": null,
+      "alternative_meanings": [
+        "no interior"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muná-1 — https://www.kimbundu.org/pt/word/muna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16823,
+      "kimbundu_term": "Munanéxi",
+      "portuguese_translation": "Exagerador",
+      "definition": null,
+      "alternative_meanings": [
+        "Aumentador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munanéxi-1 — https://www.kimbundu.org/pt/word/munanexi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
