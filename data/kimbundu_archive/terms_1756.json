@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17664,
+      "kimbundu_term": "Nanu",
+      "portuguese_translation": "Riba",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nanu-1 — https://www.kimbundu.org/pt/word/nanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17665,
+      "kimbundu_term": "Nanu",
+      "portuguese_translation": "Em cima",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nanu-1 — https://www.kimbundu.org/pt/word/nanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17666,
+      "kimbundu_term": "Nanyi",
+      "portuguese_translation": "Qual",
+      "definition": null,
+      "alternative_meanings": [
+        "quem"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nanyi-1 — https://www.kimbundu.org/pt/word/nanyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17667,
+      "kimbundu_term": "Nanyi",
+      "portuguese_translation": "Que pessoa (entre várias)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nanyi-1 — https://www.kimbundu.org/pt/word/nanyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17668,
+      "kimbundu_term": "Nanyi",
+      "portuguese_translation": "Cujo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nanyi-1 — https://www.kimbundu.org/pt/word/nanyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17669,
+      "kimbundu_term": "Naú",
+      "portuguese_translation": "Com ele",
+      "definition": null,
+      "alternative_meanings": [
+        "ela"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, naú-1 — https://www.kimbundu.org/pt/word/nau",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17670,
+      "kimbundu_term": "Naú",
+      "portuguese_translation": "Acompanhado dele",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, naú-1 — https://www.kimbundu.org/pt/word/nau",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17671,
+      "kimbundu_term": "Naú",
+      "portuguese_translation": "Juntamente com ele",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, naú-1 — https://www.kimbundu.org/pt/word/nau",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17672,
+      "kimbundu_term": "Nayu",
+      "portuguese_translation": "Lhe",
+      "definition": null,
+      "alternative_meanings": [
+        "lh'o",
+        "Contigo",
+        "com ele",
+        "Em companhia de quem ou com quem se fala"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nayu-1 — https://www.kimbundu.org/pt/word/nayu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17673,
+      "kimbundu_term": "Nayu",
+      "portuguese_translation": "adv. Juntamente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nayu-1 — https://www.kimbundu.org/pt/word/nayu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
