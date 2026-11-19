@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7054,
+      "kimbundu_term": "Kubana",
+      "portuguese_translation": "Kuribàna, v. r. Dar-se, oferecer-se",
+      "definition": null,
+      "alternative_meanings": [
+        "vender-se",
+        "Camaradar",
+        "conviver",
+        "Ter boas maneiras"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubana-1 — https://www.kimbundu.org/pt/word/kubana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7055,
+      "kimbundu_term": "Kubána",
+      "portuguese_translation": "Ficar pasmado, de boca aberta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubána-1 — https://www.kimbundu.org/pt/word/kubana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7056,
+      "kimbundu_term": "Kubána",
+      "portuguese_translation": "Ficar suspenso, admirado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubána-1 — https://www.kimbundu.org/pt/word/kubana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7057,
+      "kimbundu_term": "Kubanda",
+      "portuguese_translation": "Ascender",
+      "definition": null,
+      "alternative_meanings": [
+        "subir. Galgar",
+        "elevar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubanda-1 — https://www.kimbundu.org/pt/word/kubanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7058,
+      "kimbundu_term": "Kubanda",
+      "portuguese_translation": "Subir de preço",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubanda-1 — https://www.kimbundu.org/pt/word/kubanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7059,
+      "kimbundu_term": "Kubánda",
+      "portuguese_translation": "Dar capacidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubánda-1 — https://www.kimbundu.org/pt/word/kubanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7060,
+      "kimbundu_term": "Kubánda",
+      "portuguese_translation": "Encomiar",
+      "definition": null,
+      "alternative_meanings": [
+        "exaltar",
+        "gabar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubánda-1 — https://www.kimbundu.org/pt/word/kubanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7061,
+      "kimbundu_term": "Kubánda",
+      "portuguese_translation": "Optar",
+      "definition": null,
+      "alternative_meanings": [
+        "escolher",
+        "preferir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubánda-1 — https://www.kimbundu.org/pt/word/kubanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7062,
+      "kimbundu_term": "Kubánda",
+      "portuguese_translation": "Estimar mais",
+      "definition": null,
+      "alternative_meanings": [
+        "dar preferência a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubánda-1 — https://www.kimbundu.org/pt/word/kubanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7063,
+      "kimbundu_term": "Kubánda",
+      "portuguese_translation": "Assinalar",
+      "definition": null,
+      "alternative_meanings": [
+        "marcar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubánda-1 — https://www.kimbundu.org/pt/word/kubanda",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
