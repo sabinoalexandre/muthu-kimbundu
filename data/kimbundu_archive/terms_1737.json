@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17474,
+      "kimbundu_term": "Muxíni",
+      "portuguese_translation": "Militar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muxíni-1 — https://www.kimbundu.org/pt/word/muxini",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17475,
+      "kimbundu_term": "Muxínji",
+      "portuguese_translation": "Planta medicinal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muxínji-1 — https://www.kimbundu.org/pt/word/muxinji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17476,
+      "kimbundu_term": "Muxinu",
+      "portuguese_translation": "Rei",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muxinu-1 — https://www.kimbundu.org/pt/word/muxinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17477,
+      "kimbundu_term": "Muxinu",
+      "portuguese_translation": "Dono",
+      "definition": null,
+      "alternative_meanings": [
+        "senhor da terra"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muxinu-1 — https://www.kimbundu.org/pt/word/muxinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17478,
+      "kimbundu_term": "Muxinu",
+      "portuguese_translation": "Que é habitualmente sujo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muxinu-2 — https://www.kimbundu.org/pt/word/muxinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17479,
+      "kimbundu_term": "Muxinu",
+      "portuguese_translation": "Pessoa que não é amiga da limpeza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muxinu-2 — https://www.kimbundu.org/pt/word/muxinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17480,
+      "kimbundu_term": "Muxinu",
+      "portuguese_translation": "Indecente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muxinu-2 — https://www.kimbundu.org/pt/word/muxinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17481,
+      "kimbundu_term": "Múxitu",
+      "portuguese_translation": "Mato",
+      "definition": null,
+      "alternative_meanings": [
+        "Bosque denso e emaranhado",
+        "Grenha",
+        "matagal"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múxitu-1 — https://www.kimbundu.org/pt/word/muxitu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17482,
+      "kimbundu_term": "Múxitu",
+      "portuguese_translation": "Matoso",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Defecação",
+        "excremento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múxitu-1 — https://www.kimbundu.org/pt/word/muxitu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17483,
+      "kimbundu_term": "Múxitu",
+      "portuguese_translation": "Peru do mato",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múxitu-1 — https://www.kimbundu.org/pt/word/muxitu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
