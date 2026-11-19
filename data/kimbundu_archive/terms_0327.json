@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3374,
+      "kimbundu_term": "Kakuzu",
+      "portuguese_translation": "Pescador de tarrafa",
+      "definition": null,
+      "alternative_meanings": [
+        "O que lança a tarrafa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakuzu-1 — https://www.kimbundu.org/pt/word/kakuzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3375,
+      "kimbundu_term": "Kakuzu",
+      "portuguese_translation": "Pov. e sede do posto deste nome no conc., distr. e prov. de Malange, freg. de S. João servida pelo C. de F. de Luanda, 8",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakuzu-1 — https://www.kimbundu.org/pt/word/kakuzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3376,
+      "kimbundu_term": "Kakwinyi",
+      "portuguese_translation": "Decúmano. Décimo. A décima parte de um todo. O que vem ou está em décimo lugar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakwinyi-1 — https://www.kimbundu.org/pt/word/kakwinyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3377,
+      "kimbundu_term": "Kakwinyi",
+      "portuguese_translation": "Dízimo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakwinyi-1 — https://www.kimbundu.org/pt/word/kakwinyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3378,
+      "kimbundu_term": "Kâl'ê",
+      "portuguese_translation": "Deixa-te estar",
+      "definition": null,
+      "alternative_meanings": [
+        "Assenta-te",
+        "Não te mexas",
+        "sossegue"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kâl'ê-1 — https://www.kimbundu.org/pt/word/kal'e",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3379,
+      "kimbundu_term": "Kala",
+      "portuguese_translation": "Qualquer (entre dois ou mais)",
+      "definition": null,
+      "alternative_meanings": [
+        "Cada. Cada um, cada qual"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kala-1 — https://www.kimbundu.org/pt/word/kala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3380,
+      "kimbundu_term": "Kala",
+      "portuguese_translation": "Do mesmo modo [que…]",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kala-1 — https://www.kimbundu.org/pt/word/kala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3381,
+      "kimbundu_term": "Kala",
+      "portuguese_translation": "Do mesmo modo que",
+      "definition": null,
+      "alternative_meanings": [
+        "Como"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kala-1 — https://www.kimbundu.org/pt/word/kala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3382,
+      "kimbundu_term": "Kala",
+      "portuguese_translation": "Quando",
+      "definition": null,
+      "alternative_meanings": [
+        "conforme",
+        "desta maneira",
+        "assim",
+        "Uma vez que",
+        "neste momento",
+        "Atualmente",
+        "na presente ocasião"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kala-1 — https://www.kimbundu.org/pt/word/kala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3383,
+      "kimbundu_term": "Kala",
+      "portuguese_translation": "Abrev. de rikala",
+      "definition": null,
+      "alternative_meanings": [
+        "Carvão, braza, carvão em pedra"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kala-1 — https://www.kimbundu.org/pt/word/kala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
