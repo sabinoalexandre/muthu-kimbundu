@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2584,
+      "kimbundu_term": "Jímbote",
+      "portuguese_translation": "Bens",
+      "definition": null,
+      "alternative_meanings": [
+        "Belezas",
+        "tesouros",
+        "O que generosamente se faz a alguém",
+        "Bens morais",
+        "Bondades"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jímbote-1 — https://www.kimbundu.org/pt/word/jimbote",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2585,
+      "kimbundu_term": "Jimboto",
+      "portuguese_translation": "Família de vegetais que têm por tipo o ébano",
+      "definition": null,
+      "alternative_meanings": [
+        "Plantas ebenáceas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimboto-1 — https://www.kimbundu.org/pt/word/jimboto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2586,
+      "kimbundu_term": "Jimbuanana",
+      "portuguese_translation": "Família de insetos dípteros, tb. chamados «tungas» ou bicho dos pés",
+      "definition": null,
+      "alternative_meanings": [
+        "Pulguedo",
+        "Lugar onde há muitas pulgas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimbuanana-1 — https://www.kimbundu.org/pt/word/jimbuanana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2587,
+      "kimbundu_term": "Jimbúdi",
+      "portuguese_translation": "Conjunto de carneiros",
+      "definition": null,
+      "alternative_meanings": [
+        "Rebanho de ovelhas",
+        "Carneirada",
+        "Oviário"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimbúdi-1 — https://www.kimbundu.org/pt/word/jimbudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2588,
+      "kimbundu_term": "Jimbuelekese",
+      "portuguese_translation": "Seixos",
+      "definition": null,
+      "alternative_meanings": [
+        "Grande quantidade de saibro",
+        "Burgal"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimbuelekese-1 — https://www.kimbundu.org/pt/word/jimbuelekese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2589,
+      "kimbundu_term": "Jimbûlu",
+      "portuguese_translation": "Pequenas saliências das superfícies escabrosas",
+      "definition": null,
+      "alternative_meanings": [
+        "Grânulos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimbûlu-1 — https://www.kimbundu.org/pt/word/jimbulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2590,
+      "kimbundu_term": "Jimbûlu",
+      "portuguese_translation": "Conjunto de borbulhas na superfície de um órgão",
+      "definition": null,
+      "alternative_meanings": [
+        "Granulação",
+        "borbulhagem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimbûlu-1 — https://www.kimbundu.org/pt/word/jimbulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2591,
+      "kimbundu_term": "Jímbulu",
+      "portuguese_translation": "Matilha de cães silvestres",
+      "definition": null,
+      "alternative_meanings": [
+        "Chacais"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jímbulu-1 — https://www.kimbundu.org/pt/word/jimbulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2592,
+      "kimbundu_term": "Jimbulungu",
+      "portuguese_translation": "Cerimónia do juramento a prestar pelos supostos feiticeiros",
+      "definition": null,
+      "alternative_meanings": [
+        "Beberagem do ndúua"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimbulungu-1 — https://www.kimbundu.org/pt/word/jimbulungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2593,
+      "kimbundu_term": "Jimbúmba",
+      "portuguese_translation": "Tatuagem",
+      "definition": null,
+      "alternative_meanings": [
+        "Desenhos indeléveis na pele humana"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimbúmba-1 — https://www.kimbundu.org/pt/word/jimbumba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
