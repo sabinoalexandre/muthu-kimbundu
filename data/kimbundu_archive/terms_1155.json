@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11654,
+      "kimbundu_term": "Kusíndixala",
+      "portuguese_translation": "Sossegar",
+      "definition": null,
+      "alternative_meanings": [
+        "conter-se",
+        "ter modos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusíndixala-1 — https://www.kimbundu.org/pt/word/kusindixala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11655,
+      "kimbundu_term": "Kusíndixala",
+      "portuguese_translation": "sub. Moderação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusíndixala-1 — https://www.kimbundu.org/pt/word/kusindixala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11656,
+      "kimbundu_term": "Kusizezela",
+      "portuguese_translation": "Deitar baba",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusizezela-1 — https://www.kimbundu.org/pt/word/kusizezela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11657,
+      "kimbundu_term": "Kusobela",
+      "portuguese_translation": "Pedir emprestado para",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusobela-1 — https://www.kimbundu.org/pt/word/kusobela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11658,
+      "kimbundu_term": "Kusobha",
+      "portuguese_translation": "Pedir por empréstimo. É tb. r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusobha-1 — https://www.kimbundu.org/pt/word/kusobha",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11659,
+      "kimbundu_term": "Kusobhesa",
+      "portuguese_translation": "Emprestar",
+      "definition": null,
+      "alternative_meanings": [
+        "confirmar, ceder por empréstimo. É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusobhesa-1 — https://www.kimbundu.org/pt/word/kusobhesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11660,
+      "kimbundu_term": "Kusobola",
+      "portuguese_translation": "Despolpar",
+      "definition": null,
+      "alternative_meanings": [
+        "Esmoer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusobola-1 — https://www.kimbundu.org/pt/word/kusobola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11661,
+      "kimbundu_term": "Kusojelela",
+      "portuguese_translation": "Sofrer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusojelela-1 — https://www.kimbundu.org/pt/word/kusojelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11662,
+      "kimbundu_term": "Kusóka",
+      "portuguese_translation": "Ser igual",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusóka-1 — https://www.kimbundu.org/pt/word/kusoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11663,
+      "kimbundu_term": "Kusóka",
+      "portuguese_translation": "Calcar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar compacto (pisando com maço, calcador, etc)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusóka-1 — https://www.kimbundu.org/pt/word/kusoka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
