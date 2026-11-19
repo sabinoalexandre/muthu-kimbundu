@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 114,
+      "kimbundu_term": "Abádi",
+      "portuguese_translation": "Vendedeiras",
+      "definition": null,
+      "alternative_meanings": [
+        "quitandeiras",
+        "retalhistas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, abádi-1 — https://www.kimbundu.org/pt/word/abadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 115,
+      "kimbundu_term": "Abádi",
+      "portuguese_translation": "Grupo de pessoas que têm posto de venda a retalho de frutas, cereais, fazendas, quinquilharias, etc",
+      "definition": null,
+      "alternative_meanings": [
+        "negociadores ambulantes"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, abádi-1 — https://www.kimbundu.org/pt/word/abadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 116,
+      "kimbundu_term": "Abai",
+      "portuguese_translation": "Então",
+      "definition": null,
+      "alternative_meanings": [
+        "pois"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção, advérbio, substantivo, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, abai-1 — https://www.kimbundu.org/pt/word/abai",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 117,
+      "kimbundu_term": "Abai",
+      "portuguese_translation": "Advérbio de afirmação, consentimento: sim",
+      "definition": null,
+      "alternative_meanings": [
+        "certamente",
+        "decerto",
+        "então não?"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção, advérbio, substantivo, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, abai-1 — https://www.kimbundu.org/pt/word/abai",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 118,
+      "kimbundu_term": "Abai",
+      "portuguese_translation": "Ação de dizer sim",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "conjunção, advérbio, substantivo, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, abai-1 — https://www.kimbundu.org/pt/word/abai",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 119,
+      "kimbundu_term": "Abai",
+      "portuguese_translation": "Portanto",
+      "definition": null,
+      "alternative_meanings": [
+        "por isso"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção, advérbio, substantivo, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, abai-1 — https://www.kimbundu.org/pt/word/abai",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 120,
+      "kimbundu_term": "Abai",
+      "portuguese_translation": "preposição que indica afirmação: sem dúvida",
+      "definition": null,
+      "alternative_meanings": [
+        "com certeza",
+        "certamente. (É também advérbio.) Pois então"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção, advérbio, substantivo, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, abai-1 — https://www.kimbundu.org/pt/word/abai",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 121,
+      "kimbundu_term": "Abandi",
+      "portuguese_translation": "Trepadores",
+      "definition": null,
+      "alternative_meanings": [
+        "que sobem (trepando)",
+        "pessoas que se elevam a lugares superiores"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, abandi-1 — https://www.kimbundu.org/pt/word/abandi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 122,
+      "kimbundu_term": "Abandi",
+      "portuguese_translation": "Subideiras",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, abandi-1 — https://www.kimbundu.org/pt/word/abandi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 123,
+      "kimbundu_term": "Abani",
+      "portuguese_translation": "Dadores",
+      "definition": null,
+      "alternative_meanings": [
+        "pessoas que outorgam, que dão"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, abani-1 — https://www.kimbundu.org/pt/word/abani",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
