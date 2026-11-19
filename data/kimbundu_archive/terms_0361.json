@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3714,
+      "kimbundu_term": "Kamuhâtu",
+      "portuguese_translation": "Da Mulher",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamuhâtu-2 — https://www.kimbundu.org/pt/word/kamuhatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3715,
+      "kimbundu_term": "Kamuiji",
+      "portuguese_translation": "Desconhecido",
+      "definition": null,
+      "alternative_meanings": [
+        "ignorado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamuiji-1 — https://www.kimbundu.org/pt/word/kamuiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3716,
+      "kimbundu_term": "Kamuiji",
+      "portuguese_translation": "Que nunca foi visto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamuiji-1 — https://www.kimbundu.org/pt/word/kamuiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3717,
+      "kimbundu_term": "Kamuiji",
+      "portuguese_translation": "Estranho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamuiji-1 — https://www.kimbundu.org/pt/word/kamuiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3718,
+      "kimbundu_term": "Kamuiji",
+      "portuguese_translation": "Pequeno canal",
+      "definition": null,
+      "alternative_meanings": [
+        "regato",
+        "esteiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamuiji-2 — https://www.kimbundu.org/pt/word/kamuiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3719,
+      "kimbundu_term": "Kamuinya",
+      "portuguese_translation": "Espinho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamuinya-1 — https://www.kimbundu.org/pt/word/kamuinya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3720,
+      "kimbundu_term": "Kamuinya",
+      "portuguese_translation": "Espinha cervina ou de veado",
+      "definition": null,
+      "alternative_meanings": [
+        "Pequeno arbusto espinhoso, de propriedades medicinais",
+        "Planta ramnácea"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamuinya-1 — https://www.kimbundu.org/pt/word/kamuinya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3721,
+      "kimbundu_term": "Kamujidi",
+      "portuguese_translation": "Mamífero carnívoro mustelídeo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamujidi-1 — https://www.kimbundu.org/pt/word/kamujidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3722,
+      "kimbundu_term": "Kamujidi",
+      "portuguese_translation": "Marta",
+      "definition": null,
+      "alternative_meanings": [
+        "gato bravo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamujidi-1 — https://www.kimbundu.org/pt/word/kamujidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3723,
+      "kimbundu_term": "Kamukanda",
+      "portuguese_translation": "Cartinha",
+      "definition": null,
+      "alternative_meanings": [
+        "bilhete",
+        "pedaço de papel"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamukanda-1 — https://www.kimbundu.org/pt/word/kamukanda",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
