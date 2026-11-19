@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2444,
+      "kimbundu_term": "Izúzu",
+      "portuguese_translation": "De pouca duração",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, izúzu-1 — https://www.kimbundu.org/pt/word/izuzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2445,
+      "kimbundu_term": "Izwatu",
+      "portuguese_translation": "Vestes",
+      "definition": null,
+      "alternative_meanings": [
+        "Hábito",
+        "Trajo",
+        "Vestuário",
+        "fardamento",
+        "Roupas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, izwatu-1 — https://www.kimbundu.org/pt/word/izwatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2446,
+      "kimbundu_term": "Izwatu",
+      "portuguese_translation": "Conjunto de todos os tecidos que são de uso de alguém",
+      "definition": null,
+      "alternative_meanings": [
+        "Fato completo",
+        "Vestimenta",
+        "roupagem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, izwatu-1 — https://www.kimbundu.org/pt/word/izwatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2447,
+      "kimbundu_term": "Izwelu",
+      "portuguese_translation": "Falas",
+      "definition": null,
+      "alternative_meanings": [
+        "Ditos",
+        "Conversação",
+        "Frases",
+        "palavras"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, izwelu-1 — https://www.kimbundu.org/pt/word/izwelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2448,
+      "kimbundu_term": "Já",
+      "portuguese_translation": "e pron. poss. pl. (IX) Delas",
+      "definition": null,
+      "alternative_meanings": [
+        "deles: jingombe --",
+        "Pertencentes às pessoas deles",
+        "Suas",
+        "seus"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, preposição, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, já-1 — https://www.kimbundu.org/pt/word/ja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2449,
+      "kimbundu_term": "Já",
+      "portuguese_translation": "De: o jipexl — pang'iami j'aburika",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, preposição, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, já-1 — https://www.kimbundu.org/pt/word/ja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2450,
+      "kimbundu_term": "Já",
+      "portuguese_translation": "Que",
+      "definition": null,
+      "alternative_meanings": [
+        "Cujo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, preposição, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, já-1 — https://www.kimbundu.org/pt/word/ja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2451,
+      "kimbundu_term": "Já",
+      "portuguese_translation": "adv. e pron. poss. pl. Propriamente deles",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, preposição, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, já-1 — https://www.kimbundu.org/pt/word/ja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2452,
+      "kimbundu_term": "Jakamukua",
+      "portuguese_translation": "e pron. indef. pl. (IX) Outros",
+      "definition": null,
+      "alternative_meanings": [
+        "não estes",
+        "Diferentes",
+        "restantes",
+        "seguintes",
+        "Precedentes",
+        "Mais outros"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jakamukua-1 — https://www.kimbundu.org/pt/word/jakamukua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2453,
+      "kimbundu_term": "Jâmi",
+      "portuguese_translation": "(contr. da prep. ja e do pron. pess. eme) Meus",
+      "definition": null,
+      "alternative_meanings": [
+        "minhas",
+        "Da minha pessoa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jâmi-1 — https://www.kimbundu.org/pt/word/jami",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
