@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18564,
+      "kimbundu_term": "Onda",
+      "portuguese_translation": "Pequeno rio tributário do Vareno, dist. do Moxico, prov. do Bié",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, onda-1 — https://www.kimbundu.org/pt/word/onda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18565,
+      "kimbundu_term": "Ondo",
+      "portuguese_translation": "Prefixo com que se forma o futuro dos verbos. Hão-de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ondo-1 — https://www.kimbundu.org/pt/word/ondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18566,
+      "kimbundu_term": "Oso",
+      "portuguese_translation": "e pron. indefinido pl. (I)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, oso-1 — https://www.kimbundu.org/pt/word/oso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18567,
+      "kimbundu_term": "Othó",
+      "portuguese_translation": "Manancial",
+      "definition": null,
+      "alternative_meanings": [
+        "Fonte",
+        "fig. Princípio, origem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, othó-1 — https://www.kimbundu.org/pt/word/otho",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18568,
+      "kimbundu_term": "Othó",
+      "portuguese_translation": "Que mana incessantemente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, othó-1 — https://www.kimbundu.org/pt/word/otho",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18569,
+      "kimbundu_term": "Ou",
+      "portuguese_translation": "e pron. demonstrat",
+      "definition": null,
+      "alternative_meanings": [
+        "Este",
+        "esta",
+        "Pl. aua"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ou-1 — https://www.kimbundu.org/pt/word/ou",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18570,
+      "kimbundu_term": "Ozo",
+      "portuguese_translation": "Palavra equivalente ao sufixo -lam dos verbos portugueses: andar-iam",
+      "definition": null,
+      "alternative_meanings": [
+        "vir-lam, etc., etc"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ozo-1 — https://www.kimbundu.org/pt/word/ozo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18571,
+      "kimbundu_term": "Pá",
+      "portuguese_translation": "Expressão comparativa de pancada. Som produzido pela queda de um corpo. Martelada. Zás",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pá-1 — https://www.kimbundu.org/pt/word/pa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18572,
+      "kimbundu_term": "Pá",
+      "portuguese_translation": "Utensílio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pá-1 — https://www.kimbundu.org/pt/word/pa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18573,
+      "kimbundu_term": "Paieta",
+      "portuguese_translation": "Certa qualidade de sardinha (magra)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, paieta-1 — https://www.kimbundu.org/pt/word/paieta",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
