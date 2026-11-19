@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2224,
+      "kimbundu_term": "Înzo",
+      "portuguese_translation": "Casa de negócio, estabelecimento, casa comercial",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, înzo-1 — https://www.kimbundu.org/pt/word/inzo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2225,
+      "kimbundu_term": "Înzo",
+      "portuguese_translation": "Alcova",
+      "definition": null,
+      "alternative_meanings": [
+        "camarinha, quarto de dormir"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, înzo-1 — https://www.kimbundu.org/pt/word/inzo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2226,
+      "kimbundu_term": "Înzo",
+      "portuguese_translation": "Açougue",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, înzo-1 — https://www.kimbundu.org/pt/word/inzo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2227,
+      "kimbundu_term": "Inzonji",
+      "portuguese_translation": "Família de plantas leguminosas, de que há diversas espécies",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, inzonji-1 — https://www.kimbundu.org/pt/word/inzonji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2228,
+      "kimbundu_term": "Inzonji",
+      "portuguese_translation": "A vagem que encerra a semente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, inzonji-1 — https://www.kimbundu.org/pt/word/inzonji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2229,
+      "kimbundu_term": "Inzonji",
+      "portuguese_translation": "Faval",
+      "definition": null,
+      "alternative_meanings": [
+        "Favaria"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, inzonji-1 — https://www.kimbundu.org/pt/word/inzonji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2230,
+      "kimbundu_term": "Iô",
+      "portuguese_translation": "entre vários?",
+      "definition": null,
+      "alternative_meanings": [
+        "Também serve para exprimir dúvida, incredulidade ou negação: Qual história! Não senhor! Está enganado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iô-1 — https://www.kimbundu.org/pt/word/io",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2231,
+      "kimbundu_term": "Iô",
+      "portuguese_translation": "adv. interrog. Que isto? Que coisa ou coisas são estas?",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iô-1 — https://www.kimbundu.org/pt/word/io",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2232,
+      "kimbundu_term": "Iô",
+      "portuguese_translation": "Que novidade há? O que foi? O que aconteceu?",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iô-1 — https://www.kimbundu.org/pt/word/io",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2233,
+      "kimbundu_term": "Ió",
+      "portuguese_translation": "e pron. demonstr. Essa",
+      "definition": null,
+      "alternative_meanings": [
+        "esse. Designa a pessoa ou cousa que está próxima daquela"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ió-1 — https://www.kimbundu.org/pt/word/io",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
