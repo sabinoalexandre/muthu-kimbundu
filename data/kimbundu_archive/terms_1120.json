@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11304,
+      "kimbundu_term": "Kusalukisa",
+      "portuguese_translation": "Kurisalukisa, e r. Dementar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusalukisa-1 — https://www.kimbundu.org/pt/word/kusalukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11305,
+      "kimbundu_term": "Kusalukisa",
+      "portuguese_translation": "Tornar-se maluco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusalukisa-1 — https://www.kimbundu.org/pt/word/kusalukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11306,
+      "kimbundu_term": "Kusalúla",
+      "portuguese_translation": "Endoidecer",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar demente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusalúla-1 — https://www.kimbundu.org/pt/word/kusalula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11307,
+      "kimbundu_term": "Kusalumuka",
+      "portuguese_translation": "Ficar alvoroçado, excitado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusalumuka-1 — https://www.kimbundu.org/pt/word/kusalumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11308,
+      "kimbundu_term": "Kusalumuka",
+      "portuguese_translation": "Acordar",
+      "definition": null,
+      "alternative_meanings": [
+        "tumultuar",
+        "despertar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusalumuka-1 — https://www.kimbundu.org/pt/word/kusalumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11309,
+      "kimbundu_term": "Kusalumuka",
+      "portuguese_translation": "Tumulto",
+      "definition": null,
+      "alternative_meanings": [
+        "efervescência"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusalumuka-1 — https://www.kimbundu.org/pt/word/kusalumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11310,
+      "kimbundu_term": "Kusalumuna",
+      "portuguese_translation": "Alvorotar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusalumuna-1 — https://www.kimbundu.org/pt/word/kusalumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11311,
+      "kimbundu_term": "Kusalumuna",
+      "portuguese_translation": "Amotinar",
+      "definition": null,
+      "alternative_meanings": [
+        "excitar",
+        "pôr em estado de tumulto"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusalumuna-1 — https://www.kimbundu.org/pt/word/kusalumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11312,
+      "kimbundu_term": "Kusalumuna",
+      "portuguese_translation": "Kurisalumuna, e r. Agitar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "amotinar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusalumuna-1 — https://www.kimbundu.org/pt/word/kusalumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11313,
+      "kimbundu_term": "Kusamana",
+      "portuguese_translation": "A época das grandes chuvas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusamana-1 — https://www.kimbundu.org/pt/word/kusamana",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
