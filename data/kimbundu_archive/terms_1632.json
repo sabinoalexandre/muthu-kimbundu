@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16424,
+      "kimbundu_term": "Mukinge",
+      "portuguese_translation": "Aquele que espera",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukinge-1 — https://www.kimbundu.org/pt/word/mukinge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16425,
+      "kimbundu_term": "Múkini",
+      "portuguese_translation": "Dançarino",
+      "definition": null,
+      "alternative_meanings": [
+        "bailador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkini-1 — https://www.kimbundu.org/pt/word/mukini",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16426,
+      "kimbundu_term": "Mukínji",
+      "portuguese_translation": "Precisão",
+      "definition": null,
+      "alternative_meanings": [
+        "necessidade. Carência de coisa útil"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukínji-1 — https://www.kimbundu.org/pt/word/mukinji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16427,
+      "kimbundu_term": "Mukinu",
+      "portuguese_translation": "Ósculo",
+      "definition": null,
+      "alternative_meanings": [
+        "beijo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukinu-1 — https://www.kimbundu.org/pt/word/mukinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16428,
+      "kimbundu_term": "Mukita",
+      "portuguese_translation": "Deus da noite",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukita-1 — https://www.kimbundu.org/pt/word/mukita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16429,
+      "kimbundu_term": "Múkite",
+      "portuguese_translation": "Transformador",
+      "definition": null,
+      "alternative_meanings": [
+        "produtor. Gerador",
+        "obreiro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkite-1 — https://www.kimbundu.org/pt/word/mukite",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16430,
+      "kimbundu_term": "Múkite",
+      "portuguese_translation": "Réptil sáurio sarapintado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkite-1 — https://www.kimbundu.org/pt/word/mukite",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16431,
+      "kimbundu_term": "Mukiululu",
+      "portuguese_translation": "Aguado",
+      "definition": null,
+      "alternative_meanings": [
+        "destemperado",
+        "simples. Desencabido",
+        "sem sabor"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukiululu-1 — https://www.kimbundu.org/pt/word/mukiululu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16432,
+      "kimbundu_term": "Múkixi",
+      "portuguese_translation": "Ídolo de pau (entre os cabindas)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkixi-1 — https://www.kimbundu.org/pt/word/mukixi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16433,
+      "kimbundu_term": "Múkixi",
+      "portuguese_translation": "Feitiço",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkixi-1 — https://www.kimbundu.org/pt/word/mukixi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
