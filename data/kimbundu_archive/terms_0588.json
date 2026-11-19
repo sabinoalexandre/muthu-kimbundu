@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5984,
+      "kimbundu_term": "Kipenze",
+      "portuguese_translation": "Chimpanzé",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Homem muito feio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipenze-1 — https://www.kimbundu.org/pt/word/kipenze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5985,
+      "kimbundu_term": "Kipepetela",
+      "portuguese_translation": "Pestana",
+      "definition": null,
+      "alternative_meanings": [
+        "cabelo da pálpebra",
+        "cílio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipepetela-1 — https://www.kimbundu.org/pt/word/kipepetela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5986,
+      "kimbundu_term": "Kipepumunu",
+      "portuguese_translation": "O que é movido ou vai com o vento",
+      "definition": null,
+      "alternative_meanings": [
+        "bandeira",
+        "vela (de embarcação)",
+        "pedaço de fazenda que faz girar o moinho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipepumunu-1 — https://www.kimbundu.org/pt/word/kipepumunu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5987,
+      "kimbundu_term": "Kipeteka",
+      "portuguese_translation": "Charlatanice",
+      "definition": null,
+      "alternative_meanings": [
+        "impostura"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipeteka-1 — https://www.kimbundu.org/pt/word/kipeteka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5988,
+      "kimbundu_term": "Kipexi",
+      "portuguese_translation": "Grande cachimbo",
+      "definition": null,
+      "alternative_meanings": [
+        "narguilé"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipexi-1 — https://www.kimbundu.org/pt/word/kipexi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5989,
+      "kimbundu_term": "Kipexi",
+      "portuguese_translation": "Instrumento músico em forma de cachimbo",
+      "definition": null,
+      "alternative_meanings": [
+        "saxofone",
+        "o seu tocador"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipexi-1 — https://www.kimbundu.org/pt/word/kipexi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5990,
+      "kimbundu_term": "Kipidi",
+      "portuguese_translation": "Monte na margem esquerda do rio Dande, próximo do «porto Mandele»",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipidi-1 — https://www.kimbundu.org/pt/word/kipidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5991,
+      "kimbundu_term": "Kipiku",
+      "portuguese_translation": "Ungui",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipiku-1 — https://www.kimbundu.org/pt/word/kipiku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5992,
+      "kimbundu_term": "Kipinji",
+      "portuguese_translation": "Darta",
+      "definition": null,
+      "alternative_meanings": [
+        "doença da pele"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipinji-1 — https://www.kimbundu.org/pt/word/kipinji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5993,
+      "kimbundu_term": "Kipinji",
+      "portuguese_translation": "e sub. Que padece de dartro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipinji-1 — https://www.kimbundu.org/pt/word/kipinji",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
