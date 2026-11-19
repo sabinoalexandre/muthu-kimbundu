@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7564,
+      "kimbundu_term": "Kubindumuna",
+      "portuguese_translation": "Pagar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubindumuna-1 — https://www.kimbundu.org/pt/word/kubindumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7565,
+      "kimbundu_term": "Kúbinga",
+      "portuguese_translation": "Pedir",
+      "definition": null,
+      "alternative_meanings": [
+        "Implorar, requerer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbinga-1 — https://www.kimbundu.org/pt/word/kubinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7566,
+      "kimbundu_term": "Kúbinga",
+      "portuguese_translation": "Precisar",
+      "definition": null,
+      "alternative_meanings": [
+        "Não poder passar sem, ou prescindir de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbinga-1 — https://www.kimbundu.org/pt/word/kubinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7567,
+      "kimbundu_term": "Kúbinga",
+      "portuguese_translation": "Petição",
+      "definition": null,
+      "alternative_meanings": [
+        "pedido",
+        "Súplica",
+        "rogo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbinga-2 — https://www.kimbundu.org/pt/word/kubinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7568,
+      "kimbundu_term": "Kubínga",
+      "portuguese_translation": "Impedir o encontro de",
+      "definition": null,
+      "alternative_meanings": [
+        "Trocar",
+        "mudar",
+        "inverter"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubínga-1 — https://www.kimbundu.org/pt/word/kubinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7569,
+      "kimbundu_term": "Kubínga",
+      "portuguese_translation": "Desencontro",
+      "definition": null,
+      "alternative_meanings": [
+        "troca"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubínga-1 — https://www.kimbundu.org/pt/word/kubinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7570,
+      "kimbundu_term": "Kubínga",
+      "portuguese_translation": "Kuribinga, v. r. Desencontrar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "seguir por caminho oposto"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubínga-1 — https://www.kimbundu.org/pt/word/kubinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7571,
+      "kimbundu_term": "Kubingajana",
+      "portuguese_translation": "Alternar",
+      "definition": null,
+      "alternative_meanings": [
+        "revezar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubingajana-1 — https://www.kimbundu.org/pt/word/kubingajana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7572,
+      "kimbundu_term": "Kubingajana",
+      "portuguese_translation": "Substituir muitas vezes",
+      "definition": null,
+      "alternative_meanings": [
+        "Trocar a cada passo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubingajana-1 — https://www.kimbundu.org/pt/word/kubingajana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7573,
+      "kimbundu_term": "Kubingajana",
+      "portuguese_translation": "Alternativa",
+      "definition": null,
+      "alternative_meanings": [
+        "revezamento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubingajana-1 — https://www.kimbundu.org/pt/word/kubingajana",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
