@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6794,
+      "kimbundu_term": "Kóka",
+      "portuguese_translation": "Esta",
+      "definition": null,
+      "alternative_meanings": [
+        "este"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kóka-1 — https://www.kimbundu.org/pt/word/koka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6795,
+      "kimbundu_term": "Kóko",
+      "portuguese_translation": "e pron. demonstr. Designa a cousa de que se falou em penúltimo lugar, ou próxima da pess. com quem se fala",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kóko-1 — https://www.kimbundu.org/pt/word/koko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6796,
+      "kimbundu_term": "Kóko",
+      "portuguese_translation": "Esse",
+      "definition": null,
+      "alternative_meanings": [
+        "essa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kóko-1 — https://www.kimbundu.org/pt/word/koko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6797,
+      "kimbundu_term": "Kóko",
+      "portuguese_translation": "Aí",
+      "definition": null,
+      "alternative_meanings": [
+        "nesse lugar",
+        "Lá: para lá. Desse lado"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kóko-2 — https://www.kimbundu.org/pt/word/koko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6798,
+      "kimbundu_term": "Kóko",
+      "portuguese_translation": "Por esse caminho",
+      "definition": null,
+      "alternative_meanings": [
+        "por esse mundo",
+        "Por aí"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kóko-2 — https://www.kimbundu.org/pt/word/koko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6799,
+      "kimbundu_term": "Kôko",
+      "portuguese_translation": "Planta trepadeira da fam. das leguminosas (derris nobilis), utilizada para usos diversos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kôko-1 — https://www.kimbundu.org/pt/word/koko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6800,
+      "kimbundu_term": "Koko-ni-koko",
+      "portuguese_translation": "Entretanto",
+      "definition": null,
+      "alternative_meanings": [
+        "Depois do que",
+        "Passado tempo",
+        "Neste espaço",
+        "por fim"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, koko-ni-koko-1 — https://www.kimbundu.org/pt/word/koko-ni-koko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6801,
+      "kimbundu_term": "Kokolo",
+      "portuguese_translation": "Abrev. de rikokolo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kokolo-1 — https://www.kimbundu.org/pt/word/kokolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6802,
+      "kimbundu_term": "Kokolo",
+      "portuguese_translation": "Alcaparra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kokolo-1 — https://www.kimbundu.org/pt/word/kokolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6803,
+      "kimbundu_term": "Kókólókó",
+      "portuguese_translation": "onomat. do canto do galo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "onomatopaico",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kókólókó-1 — https://www.kimbundu.org/pt/word/kokoloko",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
