@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4894,
+      "kimbundu_term": "Kie",
+      "portuguese_translation": "Seu, sua",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kie-1 — https://www.kimbundu.org/pt/word/kie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4895,
+      "kimbundu_term": "Kie",
+      "portuguese_translation": "Pertencente à sua pessoa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kie-1 — https://www.kimbundu.org/pt/word/kie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4896,
+      "kimbundu_term": "Kie",
+      "portuguese_translation": "Dele mesmo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kie-1 — https://www.kimbundu.org/pt/word/kie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4897,
+      "kimbundu_term": "Kie",
+      "portuguese_translation": "Que não é de outro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kie-1 — https://www.kimbundu.org/pt/word/kie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4898,
+      "kimbundu_term": "Kie",
+      "portuguese_translation": "Propriamente dele",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kie-1 — https://www.kimbundu.org/pt/word/kie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4899,
+      "kimbundu_term": "Kiéki",
+      "portuguese_translation": "Agora",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiéki-1 — https://www.kimbundu.org/pt/word/kieki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4900,
+      "kimbundu_term": "Kiéki",
+      "portuguese_translation": "Já",
+      "definition": null,
+      "alternative_meanings": [
+        "neste momento"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiéki-1 — https://www.kimbundu.org/pt/word/kieki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4901,
+      "kimbundu_term": "Kiéki",
+      "portuguese_translation": "Doravante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiéki-1 — https://www.kimbundu.org/pt/word/kieki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4902,
+      "kimbundu_term": "Kiéki",
+      "portuguese_translation": "A começar de agora",
+      "definition": null,
+      "alternative_meanings": [
+        "a partir de hoje"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiéki-1 — https://www.kimbundu.org/pt/word/kieki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4903,
+      "kimbundu_term": "Kiémba",
+      "portuguese_translation": "Tarde",
+      "definition": null,
+      "alternative_meanings": [
+        "a segunda metade do dia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiémba-1 — https://www.kimbundu.org/pt/word/kiemba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
