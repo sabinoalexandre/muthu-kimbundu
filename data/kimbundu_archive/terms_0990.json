@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10004,
+      "kimbundu_term": "Kulalumuka",
+      "portuguese_translation": "Diz-se da lenha ou carvão que se consome depressa e sem utilidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulalumuka-1 — https://www.kimbundu.org/pt/word/kulalumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10005,
+      "kimbundu_term": "Kulalumuna",
+      "portuguese_translation": "Desperdiçar (definição continua na coluna seguinte)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulalumuna-1 — https://www.kimbundu.org/pt/word/kulalumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10006,
+      "kimbundu_term": "Kulalumuna",
+      "portuguese_translation": "malbaratar (lenha ou carvão)",
+      "definition": null,
+      "alternative_meanings": [
+        "Gastar sem proveito"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulalumuna-1 — https://www.kimbundu.org/pt/word/kulalumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10007,
+      "kimbundu_term": "Kulalumuna",
+      "portuguese_translation": "Narrar",
+      "definition": null,
+      "alternative_meanings": [
+        "relatar inutilmente: –",
+        "Dizer o que não é preciso saber-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulalumuna-1 — https://www.kimbundu.org/pt/word/kulalumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10008,
+      "kimbundu_term": "Kúlamba",
+      "portuguese_translation": "Cozinhar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlamba-1 — https://www.kimbundu.org/pt/word/kulamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10009,
+      "kimbundu_term": "Kulámba",
+      "portuguese_translation": "Dementar",
+      "definition": null,
+      "alternative_meanings": [
+        "esquecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulámba-1 — https://www.kimbundu.org/pt/word/kulamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10010,
+      "kimbundu_term": "Kulámba",
+      "portuguese_translation": "Perder a noção, a memória",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulámba-1 — https://www.kimbundu.org/pt/word/kulamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10011,
+      "kimbundu_term": "Kulambala",
+      "portuguese_translation": "Estar ou conservar-se deitado (sem dormir)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulambala-1 — https://www.kimbundu.org/pt/word/kulambala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10012,
+      "kimbundu_term": "Kulambala",
+      "portuguese_translation": "Sossegar",
+      "definition": null,
+      "alternative_meanings": [
+        "descansar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulambala-1 — https://www.kimbundu.org/pt/word/kulambala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10013,
+      "kimbundu_term": "Kulambalala",
+      "portuguese_translation": "Fazer a sesta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulambalala-1 — https://www.kimbundu.org/pt/word/kulambalala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
