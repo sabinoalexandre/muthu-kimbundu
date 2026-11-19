@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1874,
+      "kimbundu_term": "Hondo",
+      "portuguese_translation": "Volteio",
+      "definition": null,
+      "alternative_meanings": [
+        "Ação e efeito de voltear",
+        "Rodeio",
+        "Argumento capcioso",
+        "subterfúgio",
+        "desculpa",
+        "evasiva",
+        "Modo indireto e calculado para se obter o que se deseja"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hondo-1 — https://www.kimbundu.org/pt/word/hondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1875,
+      "kimbundu_term": "Honga",
+      "portuguese_translation": "Terreno inclinado",
+      "definition": null,
+      "alternative_meanings": [
+        "Várzea",
+        "Vale",
+        "baixa",
+        "jusante",
+        "Descida",
+        "Pendente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, honga-1 — https://www.kimbundu.org/pt/word/honga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1876,
+      "kimbundu_term": "Hóngo",
+      "portuguese_translation": "O ponto mais elevado",
+      "definition": null,
+      "alternative_meanings": [
+        "cimo",
+        "Cume",
+        "Tope",
+        "alto",
+        "fig. Apogeu",
+        "auge"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hóngo-1 — https://www.kimbundu.org/pt/word/hongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1877,
+      "kimbundu_term": "Hóngo",
+      "portuguese_translation": "Teto da casa",
+      "definition": null,
+      "alternative_meanings": [
+        "cumieira, pau de fileira",
+        "A parte mais alta da casa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hóngo-1 — https://www.kimbundu.org/pt/word/hongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1878,
+      "kimbundu_term": "Hóngo",
+      "portuguese_translation": "O céu",
+      "definition": null,
+      "alternative_meanings": [
+        "o ponto mais alto do espaço",
+        "Zénite"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hóngo-1 — https://www.kimbundu.org/pt/word/hongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1879,
+      "kimbundu_term": "Hongo",
+      "portuguese_translation": "Estado de quem tem ao mesmo tempo duas ou mais consortes",
+      "definition": null,
+      "alternative_meanings": [
+        "Bigamia",
+        "Situação da mulher com relação ao marido que tem outra ou outras mulheres",
+        "Poligamia, sub. e adj. Bígamo, Viver ao mesmo tempo com duas ou mais mulheres"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hongo-1 — https://www.kimbundu.org/pt/word/hongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1880,
+      "kimbundu_term": "Hongolo",
+      "portuguese_translation": "Meteoro luminoso conhecido por «arco-íris» ou «arco da velha»",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hongolo-1 — https://www.kimbundu.org/pt/word/hongolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1881,
+      "kimbundu_term": "Honji",
+      "portuguese_translation": "Anjo do inferno. Personagem que se invoca em casos de malefícios, eie pinjt",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, honji-1 — https://www.kimbundu.org/pt/word/honji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1882,
+      "kimbundu_term": "Hónjo",
+      "portuguese_translation": "Banana",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hónjo-1 — https://www.kimbundu.org/pt/word/honjo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1883,
+      "kimbundu_term": "Honzo",
+      "portuguese_translation": "Rio que, nascendo na região de Nambua-ngongo, atravessa o Tabi e desagua no mar, ao S. do conc. do Ambriz, distr. e prov",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, honzo-1 — https://www.kimbundu.org/pt/word/honzo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
