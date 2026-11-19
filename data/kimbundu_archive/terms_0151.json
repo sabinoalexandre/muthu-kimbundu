@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1614,
+      "kimbundu_term": "Eue",
+      "portuguese_translation": "ora seja",
+      "definition": null,
+      "alternative_meanings": [
+        "está bem"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, eue-1 — https://www.kimbundu.org/pt/word/eue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1615,
+      "kimbundu_term": "Euê",
+      "portuguese_translation": "interjeição de surpresa, de mofa: ora!",
+      "definition": null,
+      "alternative_meanings": [
+        "vejam lá!"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, euê-1 — https://www.kimbundu.org/pt/word/eue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1616,
+      "kimbundu_term": "Ewá",
+      "portuguese_translation": "interjeição de admiração: Oh! Ah! Perdão! Desculpa!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ewá-1 — https://www.kimbundu.org/pt/word/ewa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1617,
+      "kimbundu_term": "Êxi",
+      "portuguese_translation": "advérbio de negação: de modo nenhum",
+      "definition": null,
+      "alternative_meanings": [
+        "não é capaz",
+        "jamais",
+        "não pode ser"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, êxi-1 — https://www.kimbundu.org/pt/word/exi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1618,
+      "kimbundu_term": "Eye",
+      "portuguese_translation": "pronome pessoal da 2.ª pessoa do singular: tu",
+      "definition": null,
+      "alternative_meanings": [
+        "tua pessoa"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, substantivo, interjeição, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, eye-1 — https://www.kimbundu.org/pt/word/eye",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1619,
+      "kimbundu_term": "Eye",
+      "portuguese_translation": "substantivo: tratamento de tu",
+      "definition": null,
+      "alternative_meanings": [
+        "você"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, substantivo, interjeição, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, eye-1 — https://www.kimbundu.org/pt/word/eye",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1620,
+      "kimbundu_term": "Eye",
+      "portuguese_translation": "interjeição de aborrecimento, de enfado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, substantivo, interjeição, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, eye-1 — https://www.kimbundu.org/pt/word/eye",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1621,
+      "kimbundu_term": "Eye",
+      "portuguese_translation": "(para chamar) ó tu!",
+      "definition": null,
+      "alternative_meanings": [
+        "olá!"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, substantivo, interjeição, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, eye-1 — https://www.kimbundu.org/pt/word/eye",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1622,
+      "kimbundu_term": "Eye",
+      "portuguese_translation": "(para desafiar) veja-se 'Xéie'",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, substantivo, interjeição, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, eye-1 — https://www.kimbundu.org/pt/word/eye",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1623,
+      "kimbundu_term": "Eye",
+      "portuguese_translation": "( ) advérbio e pronome pessoal: tu mesmo",
+      "definition": null,
+      "alternative_meanings": [
+        "a tua pessoa, não outra",
+        "propriamente tu"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, substantivo, interjeição, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, eye-1 — https://www.kimbundu.org/pt/word/eye",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
