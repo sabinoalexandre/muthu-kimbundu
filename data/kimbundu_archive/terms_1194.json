@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12044,
+      "kimbundu_term": "Kútala",
+      "portuguese_translation": "Ato de olhar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútala-1 — https://www.kimbundu.org/pt/word/kutala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12045,
+      "kimbundu_term": "Kutalakanya",
+      "portuguese_translation": "Enfurecer",
+      "definition": null,
+      "alternative_meanings": [
+        "embravecer",
+        "tornar bravio"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutalakanya-1 — https://www.kimbundu.org/pt/word/kutalakanya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12046,
+      "kimbundu_term": "Kutalala",
+      "portuguese_translation": "Estar frio",
+      "definition": null,
+      "alternative_meanings": [
+        "(.) Ter umidade"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutalala-1 — https://www.kimbundu.org/pt/word/kutalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12047,
+      "kimbundu_term": "Kutalala",
+      "portuguese_translation": "Abrandar",
+      "definition": null,
+      "alternative_meanings": [
+        "ser suave"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutalala-1 — https://www.kimbundu.org/pt/word/kutalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12048,
+      "kimbundu_term": "Kutalala",
+      "portuguese_translation": "Bonança",
+      "definition": null,
+      "alternative_meanings": [
+        "brandura",
+        "suavidade"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutalala-1 — https://www.kimbundu.org/pt/word/kutalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12049,
+      "kimbundu_term": "Kutalala",
+      "portuguese_translation": "Sossego de espírito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutalala-1 — https://www.kimbundu.org/pt/word/kutalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12050,
+      "kimbundu_term": "Kutalala",
+      "portuguese_translation": "Invernoso",
+      "definition": null,
+      "alternative_meanings": [
+        "úmido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutalala-1 — https://www.kimbundu.org/pt/word/kutalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12051,
+      "kimbundu_term": "Kutalalesa",
+      "portuguese_translation": "Esfriar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer arrefecer",
+        "tornar úmido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutalalesa-1 — https://www.kimbundu.org/pt/word/kutalalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12052,
+      "kimbundu_term": "Kutalama",
+      "portuguese_translation": "Estar estático, imóvel",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutalama-1 — https://www.kimbundu.org/pt/word/kutalama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12053,
+      "kimbundu_term": "Kutalama",
+      "portuguese_translation": "Estar suspenso, pendente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutalama-1 — https://www.kimbundu.org/pt/word/kutalama",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
