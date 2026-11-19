@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 534,
+      "kimbundu_term": "Dia",
+      "portuguese_translation": "Preposição. De",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, preposição, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dia-1 — https://www.kimbundu.org/pt/word/dia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 535,
+      "kimbundu_term": "Dia",
+      "portuguese_translation": "Preposição e artigo definido o, a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, preposição, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dia-1 — https://www.kimbundu.org/pt/word/dia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 536,
+      "kimbundu_term": "Dia",
+      "portuguese_translation": "Modo imperativo do verbo Kúria",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, preposição, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dia-1 — https://www.kimbundu.org/pt/word/dia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 537,
+      "kimbundu_term": "Dia",
+      "portuguese_translation": "pronome possessivo plural. Deles mesmo",
+      "definition": null,
+      "alternative_meanings": [
+        "verdadeiramente seus"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, preposição, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dia-1 — https://www.kimbundu.org/pt/word/dia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 538,
+      "kimbundu_term": "Diábu",
+      "portuguese_translation": "Loanword from Portuguese. Diabo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diábu-1 — https://www.kimbundu.org/pt/word/diabu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 539,
+      "kimbundu_term": "Diáka",
+      "portuguese_translation": "Diálogo",
+      "definition": null,
+      "alternative_meanings": [
+        "conversa",
+        "fala amigável"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diáka-1 — https://www.kimbundu.org/pt/word/diaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 540,
+      "kimbundu_term": "Diáka",
+      "portuguese_translation": "Namoro, namorar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diáka-1 — https://www.kimbundu.org/pt/word/diaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 541,
+      "kimbundu_term": "Diakamuxuá",
+      "portuguese_translation": "Diverso",
+      "definition": null,
+      "alternative_meanings": [
+        "outro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diakamuxuá-1 — https://www.kimbundu.org/pt/word/diakamuxua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 542,
+      "kimbundu_term": "Diakamuxuá",
+      "portuguese_translation": "Mais um",
+      "definition": null,
+      "alternative_meanings": [
+        "seguinte",
+        "restante"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diakamuxuá-1 — https://www.kimbundu.org/pt/word/diakamuxua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 543,
+      "kimbundu_term": "Diaki",
+      "portuguese_translation": "Ova",
+      "definition": null,
+      "alternative_meanings": [
+        "ovo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diaki-1 — https://www.kimbundu.org/pt/word/diaki",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
