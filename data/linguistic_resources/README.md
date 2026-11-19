@@ -16,6 +16,10 @@ and its notes on noun classes and regional variation. These entries also remain
 `unverified` pending review by Kikongo speakers. The spelling and vocabulary
 may vary across Kikongo varieties.
 
+The seed lexicon also includes Kikongo terms for the sun, earth, dog, pig,
+mother, father, family, chair, car, dances, chief and nose. Their individual
+source references are stored with each entry in `data/dictionary.json`.
+
 This directory can also host additional resources such as:
 
 - Bilingual dictionaries.

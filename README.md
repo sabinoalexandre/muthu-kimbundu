@@ -495,7 +495,7 @@ Esta organização facilita a manutenção, os testes e a futura integração de
 São bem-vindas contribuições relacionadas com:
 
 - Correção e validação de traduções.
-- Ampliação do dicionário português–Kimbundu.
+- Ampliação do dicionário português–Kimbundu–Kikongo.
 - Documentação de expressões e estruturas linguísticas.
 - Melhorias na interface e experiência de utilização.
 - Correção de erros e otimização do código.
