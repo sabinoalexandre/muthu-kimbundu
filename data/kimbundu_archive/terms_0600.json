@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6104,
+      "kimbundu_term": "Kisasu",
+      "portuguese_translation": "Frangalho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisasu-1 — https://www.kimbundu.org/pt/word/kisasu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6105,
+      "kimbundu_term": "Kisasu",
+      "portuguese_translation": "Gangrena",
+      "definition": null,
+      "alternative_meanings": [
+        "esfacelo",
+        "podridão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisasu-1 — https://www.kimbundu.org/pt/word/kisasu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6106,
+      "kimbundu_term": "Kisasu",
+      "portuguese_translation": "Carne morta",
+      "definition": null,
+      "alternative_meanings": [
+        "cadáver: buoso bu ala o —, buene bu ribongolokela o jiholokoko"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisasu-1 — https://www.kimbundu.org/pt/word/kisasu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6107,
+      "kimbundu_term": "Kisasu",
+      "portuguese_translation": "Esfacelado",
+      "definition": null,
+      "alternative_meanings": [
+        "gangrenoso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisasu-1 — https://www.kimbundu.org/pt/word/kisasu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6108,
+      "kimbundu_term": "Kisasu",
+      "portuguese_translation": "Sujeito a decomposição, ao esfacelamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisasu-1 — https://www.kimbundu.org/pt/word/kisasu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6109,
+      "kimbundu_term": "Kisasu",
+      "portuguese_translation": "jovial",
+      "definition": null,
+      "alternative_meanings": [
+        "alegre"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisasu-1 — https://www.kimbundu.org/pt/word/kisasu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6110,
+      "kimbundu_term": "Kisasu",
+      "portuguese_translation": "Que tem gangrena",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisasu-1 — https://www.kimbundu.org/pt/word/kisasu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6111,
+      "kimbundu_term": "Kisáta",
+      "portuguese_translation": "Beirado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisáta-1 — https://www.kimbundu.org/pt/word/kisata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6112,
+      "kimbundu_term": "Kisáta",
+      "portuguese_translation": "Parte do telhado que sobressai à parede",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisáta-1 — https://www.kimbundu.org/pt/word/kisata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6113,
+      "kimbundu_term": "Kise",
+      "portuguese_translation": "Almiscareira",
+      "definition": null,
+      "alternative_meanings": [
+        "adoxa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kise-1 — https://www.kimbundu.org/pt/word/kise",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
