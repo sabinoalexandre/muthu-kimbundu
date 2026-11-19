@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11204,
+      "kimbundu_term": "Kupopola",
+      "portuguese_translation": "Bater pouco muitas vezes com vara, cana, nó dos dedos, etc",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupopola-1 — https://www.kimbundu.org/pt/word/kupopola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11205,
+      "kimbundu_term": "Kupotiala",
+      "portuguese_translation": "Passar tempo conversando",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupotiala-1 — https://www.kimbundu.org/pt/word/kupotiala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11206,
+      "kimbundu_term": "Kupuakula",
+      "portuguese_translation": "Bater",
+      "definition": null,
+      "alternative_meanings": [
+        "dar coques (Melhor do que kupakula)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupuakula-1 — https://www.kimbundu.org/pt/word/kupuakula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11207,
+      "kimbundu_term": "Kupukumuka",
+      "portuguese_translation": "Ser movido ou sacudido pelo vento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupukumuka-1 — https://www.kimbundu.org/pt/word/kupukumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11208,
+      "kimbundu_term": "Kupukumuka",
+      "portuguese_translation": "Esvoaçar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupukumuka-1 — https://www.kimbundu.org/pt/word/kupukumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11209,
+      "kimbundu_term": "Kupukumuna",
+      "portuguese_translation": "Tremular",
+      "definition": null,
+      "alternative_meanings": [
+        "agitar",
+        "sacudir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupukumuna-1 — https://www.kimbundu.org/pt/word/kupukumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11210,
+      "kimbundu_term": "Kupukumuna",
+      "portuguese_translation": "Diz-se do movimento da vela, bandeira ou pano sacudido pelo vento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupukumuna-1 — https://www.kimbundu.org/pt/word/kupukumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11211,
+      "kimbundu_term": "Kupululuka",
+      "portuguese_translation": "Voar (batendo as asas)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupululuka-1 — https://www.kimbundu.org/pt/word/kupululuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11212,
+      "kimbundu_term": "Kupululuka",
+      "portuguese_translation": "Esvoaçar, sair voando",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupululuka-1 — https://www.kimbundu.org/pt/word/kupululuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11213,
+      "kimbundu_term": "Kupululukisa",
+      "portuguese_translation": "Fazer esvoaçar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupululukisa-1 — https://www.kimbundu.org/pt/word/kupululukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
