@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10234,
+      "kimbundu_term": "Kúlesa",
+      "portuguese_translation": "Bisbilhotar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlesa-1 — https://www.kimbundu.org/pt/word/kulesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10235,
+      "kimbundu_term": "Kúlesa",
+      "portuguese_translation": "Lambugem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlesa-1 — https://www.kimbundu.org/pt/word/kulesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10236,
+      "kimbundu_term": "Kúlesa",
+      "portuguese_translation": "Kurilesa, v. r. Passar a língua pelos beiços",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlesa-1 — https://www.kimbundu.org/pt/word/kulesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10237,
+      "kimbundu_term": "Kúlesa",
+      "portuguese_translation": "Enganar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "iludir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlesa-1 — https://www.kimbundu.org/pt/word/kulesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10238,
+      "kimbundu_term": "Kulesula",
+      "portuguese_translation": "Debicar",
+      "definition": null,
+      "alternative_meanings": [
+        "lambiscar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulesula-1 — https://www.kimbundu.org/pt/word/kulesula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10239,
+      "kimbundu_term": "Kulesula",
+      "portuguese_translation": "Lamber ligeira e rapidamente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulesula-1 — https://www.kimbundu.org/pt/word/kulesula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10240,
+      "kimbundu_term": "Kúleta",
+      "portuguese_translation": "(calão) Furtar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúleta-1 — https://www.kimbundu.org/pt/word/kuleta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10241,
+      "kimbundu_term": "Kuletuka",
+      "portuguese_translation": "Ser travesso, assanhado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuletuka-1 — https://www.kimbundu.org/pt/word/kuletuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10242,
+      "kimbundu_term": "Kuletuka",
+      "portuguese_translation": "Traquinar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuletuka-1 — https://www.kimbundu.org/pt/word/kuletuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10243,
+      "kimbundu_term": "Kuletuka",
+      "portuguese_translation": "Diz-se da criança que de tudo quer saber, dizer ou fazer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuletuka-1 — https://www.kimbundu.org/pt/word/kuletuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
