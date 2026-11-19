@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9354,
+      "kimbundu_term": "Kukénga",
+      "portuguese_translation": "Kurikénga, v. r. Desviar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "afastar-se",
+        "pôr-se de largo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukénga-1 — https://www.kimbundu.org/pt/word/kukenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9355,
+      "kimbundu_term": "Kukengela",
+      "portuguese_translation": "Esguelhar, pôr em diagonal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukengela-1 — https://www.kimbundu.org/pt/word/kukengela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9356,
+      "kimbundu_term": "Kukengela",
+      "portuguese_translation": "Entortar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukengela-1 — https://www.kimbundu.org/pt/word/kukengela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9357,
+      "kimbundu_term": "Kukengeleka",
+      "portuguese_translation": "Obliquar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukengeleka-1 — https://www.kimbundu.org/pt/word/kukengeleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9358,
+      "kimbundu_term": "Kukengeleka",
+      "portuguese_translation": "Ir ou estar em diagonal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukengeleka-1 — https://www.kimbundu.org/pt/word/kukengeleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9359,
+      "kimbundu_term": "Kukengeleka",
+      "portuguese_translation": "Andar ou tomar de viés",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukengeleka-1 — https://www.kimbundu.org/pt/word/kukengeleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9360,
+      "kimbundu_term": "Kukengeleka",
+      "portuguese_translation": "Enviezar",
+      "definition": null,
+      "alternative_meanings": [
+        "entortar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukengeleka-1 — https://www.kimbundu.org/pt/word/kukengeleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9361,
+      "kimbundu_term": "Kukengelela",
+      "portuguese_translation": "Imitar, assimilar",
+      "definition": null,
+      "alternative_meanings": [
+        "tomar por modelo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukengelela-1 — https://www.kimbundu.org/pt/word/kukengelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9362,
+      "kimbundu_term": "Kukengelela",
+      "portuguese_translation": "Imitação",
+      "definition": null,
+      "alternative_meanings": [
+        "arremedo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukengelela-1 — https://www.kimbundu.org/pt/word/kukengelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9363,
+      "kimbundu_term": "Kukengesa",
+      "portuguese_translation": "Atalaiar",
+      "definition": null,
+      "alternative_meanings": [
+        "mandar vigiar, afuçoar, inquirir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukengesa-1 — https://www.kimbundu.org/pt/word/kukengesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
