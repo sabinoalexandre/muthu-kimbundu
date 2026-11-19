@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9414,
+      "kimbundu_term": "Kukiesa",
+      "portuguese_translation": "Demorar",
+      "definition": null,
+      "alternative_meanings": [
+        "tardar (por circunstâncias próprias da nossa vontade)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukiesa-1 — https://www.kimbundu.org/pt/word/kukiesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9415,
+      "kimbundu_term": "Kukiesa",
+      "portuguese_translation": "Proceder (o dia)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukiesa-1 — https://www.kimbundu.org/pt/word/kukiesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9416,
+      "kimbundu_term": "Kukiesa",
+      "portuguese_translation": "Estar na cama (depois da hora habitual)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukiesa-1 — https://www.kimbundu.org/pt/word/kukiesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9417,
+      "kimbundu_term": "Kukiesesa",
+      "portuguese_translation": "Fazer acordar tarde. Fazer que (alguém) se levante ou saia da cama depois da hora habitual",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukiesesa-1 — https://www.kimbundu.org/pt/word/kukiesesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9418,
+      "kimbundu_term": "Kukiesesa",
+      "portuguese_translation": "Fazer demorar, preceder",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukiesesa-1 — https://www.kimbundu.org/pt/word/kukiesesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9419,
+      "kimbundu_term": "Kukilu",
+      "portuguese_translation": "Acendalha",
+      "definition": null,
+      "alternative_meanings": [
+        "acendedor",
+        "Utensílio para acender lume"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukilu-1 — https://www.kimbundu.org/pt/word/kukilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9420,
+      "kimbundu_term": "Kukína",
+      "portuguese_translation": "Bailar, dançar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, iterativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukína-1 — https://www.kimbundu.org/pt/word/kukina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9421,
+      "kimbundu_term": "Kukína",
+      "portuguese_translation": "Oscilar",
+      "definition": null,
+      "alternative_meanings": [
+        "mover-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, iterativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukína-1 — https://www.kimbundu.org/pt/word/kukina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9422,
+      "kimbundu_term": "Kukína",
+      "portuguese_translation": "Dança",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, iterativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukína-1 — https://www.kimbundu.org/pt/word/kukina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9423,
+      "kimbundu_term": "Kukindujuka",
+      "portuguese_translation": "Ir balançando, tombando ora por um, ora por outro lado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukindujuka-1 — https://www.kimbundu.org/pt/word/kukindujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
