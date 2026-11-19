@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7124,
+      "kimbundu_term": "Kubanjika",
+      "portuguese_translation": "Outorgar",
+      "definition": null,
+      "alternative_meanings": [
+        "conceder",
+        "Passar (algo) a outrem",
+        "Transferir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubanjika-1 — https://www.kimbundu.org/pt/word/kubanjika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7125,
+      "kimbundu_term": "Kubanjika",
+      "portuguese_translation": "Marcar",
+      "definition": null,
+      "alternative_meanings": [
+        "assinalar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubanjika-1 — https://www.kimbundu.org/pt/word/kubanjika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7126,
+      "kimbundu_term": "Kubanjikisa",
+      "portuguese_translation": "Mandar dar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer outorgar",
+        "conceder",
+        "Oferecer",
+        "ceder",
+        "transferir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubanjikisa-1 — https://www.kimbundu.org/pt/word/kubanjikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7127,
+      "kimbundu_term": "Kubanjikisa",
+      "portuguese_translation": "Kuribanjikisa, e r. Entregar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "oferecer-se",
+        "Tomar responsabilidade"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubanjikisa-1 — https://www.kimbundu.org/pt/word/kubanjikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7128,
+      "kimbundu_term": "Kubanúna",
+      "portuguese_translation": "Escachar",
+      "definition": null,
+      "alternative_meanings": [
+        "descerrar",
+        "abrir",
+        "Alargar",
+        "dilatar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubanúna-1 — https://www.kimbundu.org/pt/word/kubanuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7129,
+      "kimbundu_term": "Kubanúna",
+      "portuguese_translation": "Kuribanuna, v. r. Alargar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "Abrir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubanúna-1 — https://www.kimbundu.org/pt/word/kubanuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7130,
+      "kimbundu_term": "Kubánza",
+      "portuguese_translation": "Imaginar",
+      "definition": null,
+      "alternative_meanings": [
+        "Considerar",
+        "Pensar sobre, meditar, supor",
+        "Ter intenção de",
+        "Cuidar",
+        "planear",
+        "projetar",
+        "Representar no espírito",
+        "Cismar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubánza-1 — https://www.kimbundu.org/pt/word/kubanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7131,
+      "kimbundu_term": "Kubánza",
+      "portuguese_translation": "Refletir",
+      "definition": null,
+      "alternative_meanings": [
+        "Ter no pensamento",
+        "Raciocinar",
+        "formar ideias",
+        "Calcular",
+        "ponderar: julgar possível"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubánza-1 — https://www.kimbundu.org/pt/word/kubanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7132,
+      "kimbundu_term": "Kubánza",
+      "portuguese_translation": "Meditação",
+      "definition": null,
+      "alternative_meanings": [
+        "pensamento",
+        "Suposição"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubánza-1 — https://www.kimbundu.org/pt/word/kubanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7133,
+      "kimbundu_term": "Kubanzela",
+      "portuguese_translation": "Meditar, pensar, cogitar por",
+      "definition": null,
+      "alternative_meanings": [
+        "Formar ideias por outrem"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubanzela-1 — https://www.kimbundu.org/pt/word/kubanzela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
