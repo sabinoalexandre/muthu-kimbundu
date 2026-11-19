@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12954,
+      "kimbundu_term": "Kuvóta",
+      "portuguese_translation": "Tirar às mãos cheias",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvóta-1 — https://www.kimbundu.org/pt/word/kuvota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12955,
+      "kimbundu_term": "Kuvóta",
+      "portuguese_translation": "Tomar, colher, tirar em quantidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvóta-1 — https://www.kimbundu.org/pt/word/kuvota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12956,
+      "kimbundu_term": "Kûvua",
+      "portuguese_translation": "Possuir",
+      "definition": null,
+      "alternative_meanings": [
+        "ter o domínio de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kûvua-1 — https://www.kimbundu.org/pt/word/kuvua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12957,
+      "kimbundu_term": "Kûvua",
+      "portuguese_translation": "Pertencer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kûvua-1 — https://www.kimbundu.org/pt/word/kuvua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12958,
+      "kimbundu_term": "Kûvua",
+      "portuguese_translation": "sub. Posse",
+      "definition": null,
+      "alternative_meanings": [
+        "domínio"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kûvua-1 — https://www.kimbundu.org/pt/word/kuvua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12959,
+      "kimbundu_term": "Kûvua",
+      "portuguese_translation": "Kurivuá, e r. Ser senhor de si",
+      "definition": null,
+      "alternative_meanings": [
+        "Estar em pleno gozo de seus direitos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kûvua-1 — https://www.kimbundu.org/pt/word/kuvua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12960,
+      "kimbundu_term": "Kuvubula",
+      "portuguese_translation": "Meter impetuosamente em",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvubula-1 — https://www.kimbundu.org/pt/word/kuvubula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12961,
+      "kimbundu_term": "Kuvubula",
+      "portuguese_translation": "Arremessar",
+      "definition": null,
+      "alternative_meanings": [
+        "lançar no fundo de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvubula-1 — https://www.kimbundu.org/pt/word/kuvubula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12962,
+      "kimbundu_term": "Kuvúdia",
+      "portuguese_translation": "Remar",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer cingrar (por meio de remos) a embarcação"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvúdia-1 — https://www.kimbundu.org/pt/word/kuvudia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12963,
+      "kimbundu_term": "Kuvudisa",
+      "portuguese_translation": "Avolumar",
+      "definition": null,
+      "alternative_meanings": [
+        "exagerar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvudisa-1 — https://www.kimbundu.org/pt/word/kuvudisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
