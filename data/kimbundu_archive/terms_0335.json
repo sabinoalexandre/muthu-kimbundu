@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3454,
+      "kimbundu_term": "Kalubungu",
+      "portuguese_translation": "Varinha de condão",
+      "definition": null,
+      "alternative_meanings": [
+        "A varinha dos feiticeiros e das fadas",
+        "fig. Cornucópia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalubungu-1 — https://www.kimbundu.org/pt/word/kalubungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3455,
+      "kimbundu_term": "Kaluemba",
+      "portuguese_translation": "Rio do distr. e prov. de Benguela, com origem na serra de Muzamba e desagua no rio Kuiba, afluente do Quanza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaluemba-1 — https://www.kimbundu.org/pt/word/kaluemba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3456,
+      "kimbundu_term": "Kaluiji",
+      "portuguese_translation": "Do lado do ocidente",
+      "definition": null,
+      "alternative_meanings": [
+        "Do lado de baixo",
+        "Sulano"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaluiji-1 — https://www.kimbundu.org/pt/word/kaluiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3457,
+      "kimbundu_term": "Kaluiji",
+      "portuguese_translation": "O que fica ou vem do lado de baixo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaluiji-1 — https://www.kimbundu.org/pt/word/kaluiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3458,
+      "kimbundu_term": "Kaluiji",
+      "portuguese_translation": "Antiga pov. na margem esquerda do rio Quanza, a 10 kil. a O. de Muxima, circ. civ. da Quissama, distr. e prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaluiji-1 — https://www.kimbundu.org/pt/word/kaluiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3459,
+      "kimbundu_term": "Kaluimba",
+      "portuguese_translation": "Abada",
+      "definition": null,
+      "alternative_meanings": [
+        "Licorne",
+        "Rinoceronte"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaluimba-1 — https://www.kimbundu.org/pt/word/kaluimba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3460,
+      "kimbundu_term": "Kaluíngi",
+      "portuguese_translation": "Nervo",
+      "definition": null,
+      "alternative_meanings": [
+        "Cada um dos filamentos que servem de órgãos à sensação e ao movimento animal",
+        "Veio",
+        "Canal que serve de conduto ao sangue"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaluíngi-1 — https://www.kimbundu.org/pt/word/kaluingi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3461,
+      "kimbundu_term": "Kaluíngi",
+      "portuguese_translation": "Nervosismo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaluíngi-1 — https://www.kimbundu.org/pt/word/kaluingi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3462,
+      "kimbundu_term": "Kaluíngi",
+      "portuguese_translation": "Nervoso",
+      "definition": null,
+      "alternative_meanings": [
+        "Venoso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaluíngi-1 — https://www.kimbundu.org/pt/word/kaluingi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3463,
+      "kimbundu_term": "Kaluíngi",
+      "portuguese_translation": "Traqueal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaluíngi-1 — https://www.kimbundu.org/pt/word/kaluingi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
