@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7984,
+      "kimbundu_term": "Kubutisa",
+      "portuguese_translation": "Encurtar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar baixo. Abreviar",
+        "resumir. Mandar cortar o cabelo, a barba"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubutisa-1 — https://www.kimbundu.org/pt/word/kubutisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7985,
+      "kimbundu_term": "Kubutisa",
+      "portuguese_translation": "Ato e efeito de encurtar, de resumir. Kuributisa, e r. Tornar-se baixo",
+      "definition": null,
+      "alternative_meanings": [
+        "encolher-se. Fazer-se barbear"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubutisa-1 — https://www.kimbundu.org/pt/word/kubutisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7986,
+      "kimbundu_term": "Kubutuka",
+      "portuguese_translation": "Ficar subjugado, tiranizado. Estar sobrecarregado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubutuka-1 — https://www.kimbundu.org/pt/word/kubutuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7987,
+      "kimbundu_term": "Kubutuka",
+      "portuguese_translation": "Sujeição",
+      "definition": null,
+      "alternative_meanings": [
+        "tirania"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubutuka-1 — https://www.kimbundu.org/pt/word/kubutuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7988,
+      "kimbundu_term": "Kubutula",
+      "portuguese_translation": "Tiranizar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer trabalhar em excesso. Causar prejuízo a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubutula-1 — https://www.kimbundu.org/pt/word/kubutula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7989,
+      "kimbundu_term": "Kubutuluka",
+      "portuguese_translation": "Ficar cerceado, cortado em toda volta. Estar de novo sobrecarregado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubutuluka-1 — https://www.kimbundu.org/pt/word/kubutuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7990,
+      "kimbundu_term": "Kubutulula",
+      "portuguese_translation": "Diminuir o tamanho (de algo) cortando em volta. Sobrecarregar em demasia",
+      "definition": null,
+      "alternative_meanings": [
+        "exceder no peso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubutulula-1 — https://www.kimbundu.org/pt/word/kubutulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7991,
+      "kimbundu_term": "Kubutumuka",
+      "portuguese_translation": "Ficar desmoronado",
+      "definition": null,
+      "alternative_meanings": [
+        "aluir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubutumuka-1 — https://www.kimbundu.org/pt/word/kubutumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7992,
+      "kimbundu_term": "Kubutumuka",
+      "portuguese_translation": "Desmoronamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubutumuka-1 — https://www.kimbundu.org/pt/word/kubutumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7993,
+      "kimbundu_term": "Kubutumuna",
+      "portuguese_translation": "Derrocar",
+      "definition": null,
+      "alternative_meanings": [
+        "deitar abaixo",
+        "provocar desabamento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubutumuna-1 — https://www.kimbundu.org/pt/word/kubutumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
