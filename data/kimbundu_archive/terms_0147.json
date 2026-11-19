@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1574,
+      "kimbundu_term": "Eje",
+      "portuguese_translation": "palavra equivalente ao sufixo '-ia' dos verbos portugueses (morreria",
+      "definition": null,
+      "alternative_meanings": [
+        "acabaria)",
+        "é frequente substituir-se por 'ozo' ( )"
+      ],
+      "examples": [],
+      "grammatical_category": "sufixo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, eje-1 — https://www.kimbundu.org/pt/word/eje",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1575,
+      "kimbundu_term": "Eji",
+      "portuguese_translation": "pronome demonstrativo plural (classe IX): estas",
+      "definition": null,
+      "alternative_meanings": [
+        "estes"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, eji-1 — https://www.kimbundu.org/pt/word/eji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1576,
+      "kimbundu_term": "Ejo",
+      "portuguese_translation": "o mesmo, talvez mais correto, que 'eje'",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "sufixo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ejo-1 — https://www.kimbundu.org/pt/word/ejo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1577,
+      "kimbundu_term": "Eki",
+      "portuguese_translation": "pronome demonstrativo da coisa que está presente",
+      "definition": null,
+      "alternative_meanings": [
+        "este",
+        "esta"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, sufixo, conjunção, advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, eki-1 — https://www.kimbundu.org/pt/word/eki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1578,
+      "kimbundu_term": "Eki",
+      "portuguese_translation": "sufixo pronominal dos substantivos e advérbios",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, sufixo, conjunção, advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, eki-1 — https://www.kimbundu.org/pt/word/eki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1579,
+      "kimbundu_term": "Eki",
+      "portuguese_translation": "agora mesmo",
+      "definition": null,
+      "alternative_meanings": [
+        "neste instante"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, sufixo, conjunção, advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, eki-1 — https://www.kimbundu.org/pt/word/eki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1580,
+      "kimbundu_term": "Eki",
+      "portuguese_translation": "conjunção: no momento em que",
+      "definition": null,
+      "alternative_meanings": [
+        "quando"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, sufixo, conjunção, advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, eki-1 — https://www.kimbundu.org/pt/word/eki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1581,
+      "kimbundu_term": "Eki",
+      "portuguese_translation": "neste momento",
+      "definition": null,
+      "alternative_meanings": [
+        "eis que"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, sufixo, conjunção, advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, eki-1 — https://www.kimbundu.org/pt/word/eki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1582,
+      "kimbundu_term": "Eki",
+      "portuguese_translation": "em vista disto",
+      "definition": null,
+      "alternative_meanings": [
+        "enquanto"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, sufixo, conjunção, advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, eki-1 — https://www.kimbundu.org/pt/word/eki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1583,
+      "kimbundu_term": "Eki",
+      "portuguese_translation": "advérbio: neste instante",
+      "definition": null,
+      "alternative_meanings": [
+        "agora",
+        "ora então"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, sufixo, conjunção, advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, eki-1 — https://www.kimbundu.org/pt/word/eki",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
