@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9614,
+      "kimbundu_term": "Kukovama",
+      "portuguese_translation": "Ter depressão, baixamento de nível",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukovama-1 — https://www.kimbundu.org/pt/word/kukovama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9615,
+      "kimbundu_term": "Kukovama",
+      "portuguese_translation": "Estar baixo, deprimido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukovama-1 — https://www.kimbundu.org/pt/word/kukovama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9616,
+      "kimbundu_term": "Kukóxa",
+      "portuguese_translation": "Cabecear (por efeito de sono)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukóxa-1 — https://www.kimbundu.org/pt/word/kukoxa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9617,
+      "kimbundu_term": "Kukoxila",
+      "portuguese_translation": "Toscanejar",
+      "definition": null,
+      "alternative_meanings": [
+        "coxilar",
+        "dormitar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukoxila-1 — https://www.kimbundu.org/pt/word/kukoxila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9618,
+      "kimbundu_term": "Kukoxolóla",
+      "portuguese_translation": "Tornar a cortar, a decepar (com podão)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukoxolóla-1 — https://www.kimbundu.org/pt/word/kukoxolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9619,
+      "kimbundu_term": "Kukozama",
+      "portuguese_translation": "Ter a superfície esfericamente cavada. Ficar côncavo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukozama-1 — https://www.kimbundu.org/pt/word/kukozama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9620,
+      "kimbundu_term": "Kúku",
+      "portuguese_translation": "Cá",
+      "definition": null,
+      "alternative_meanings": [
+        "deste lado"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúku-1 — https://www.kimbundu.org/pt/word/kuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9621,
+      "kimbundu_term": "Kúku",
+      "portuguese_translation": "Mais perto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúku-1 — https://www.kimbundu.org/pt/word/kuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9622,
+      "kimbundu_term": "Kúku",
+      "portuguese_translation": "Este",
+      "definition": null,
+      "alternative_meanings": [
+        "esta"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúku-1 — https://www.kimbundu.org/pt/word/kuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9623,
+      "kimbundu_term": "Kúku",
+      "portuguese_translation": "Avô",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúku-2 — https://www.kimbundu.org/pt/word/kuku",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
