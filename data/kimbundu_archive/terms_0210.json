@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2204,
+      "kimbundu_term": "Ingúndu",
+      "portuguese_translation": "Aventureiros",
+      "definition": null,
+      "alternative_meanings": [
+        "incertos",
+        "sem modo de vida",
+        "Que vivem de aventuras",
+        "fig. Usurpadores"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ingúndu-1 — https://www.kimbundu.org/pt/word/ingundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2205,
+      "kimbundu_term": "Ingungu",
+      "portuguese_translation": "Recinto fechado em que se estabelece calor artificial",
+      "definition": null,
+      "alternative_meanings": [
+        "Estufa",
+        "Buraco, à laia de forno para, com o calor, secar Colas e outros géneros frescos",
+        "Estufa-lura",
+        "Habitação onde faz muito calor"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ingungu-1 — https://www.kimbundu.org/pt/word/ingungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2206,
+      "kimbundu_term": "Ingungu",
+      "portuguese_translation": "Coleção de estufas",
+      "definition": null,
+      "alternative_meanings": [
+        "Conjunto de galerias para estufar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ingungu-1 — https://www.kimbundu.org/pt/word/ingungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2207,
+      "kimbundu_term": "Inja",
+      "portuguese_translation": "Balano",
+      "definition": null,
+      "alternative_meanings": [
+        "Vergr[a?]",
+        "Pénis"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, inja-1 — https://www.kimbundu.org/pt/word/inja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2208,
+      "kimbundu_term": "Injandanda",
+      "portuguese_translation": "Classe de articulados de oito pés cuja cabeça e tórax formam uma só peça",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, injandanda-1 — https://www.kimbundu.org/pt/word/injandanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2209,
+      "kimbundu_term": "Injandanda",
+      "portuguese_translation": "Aracnídeos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, injandanda-1 — https://www.kimbundu.org/pt/word/injandanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2210,
+      "kimbundu_term": "Injandanda",
+      "portuguese_translation": "Grupo de aranhas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, injandanda-1 — https://www.kimbundu.org/pt/word/injandanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2211,
+      "kimbundu_term": "Ínji",
+      "portuguese_translation": "Inseto díptero, da fam. dos moscídeos",
+      "definition": null,
+      "alternative_meanings": [
+        "Mosca",
+        "A mosca doméstica"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ínji-1 — https://www.kimbundu.org/pt/word/inji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2212,
+      "kimbundu_term": "Ínji",
+      "portuguese_translation": "mosca que ferra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ínji-1 — https://www.kimbundu.org/pt/word/inji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2213,
+      "kimbundu_term": "Injóngo",
+      "portuguese_translation": "Família de insetos ortópteros acustídeos",
+      "definition": null,
+      "alternative_meanings": [
+        "Acridídeos",
+        "Gafanhotos grandes"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, injóngo-1 — https://www.kimbundu.org/pt/word/injongo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
