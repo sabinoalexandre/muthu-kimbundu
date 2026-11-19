@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4004,
+      "kimbundu_term": "Kapopola-makondo",
+      "portuguese_translation": "Louva-a-Deus",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kapopola-makondo-1 — https://www.kimbundu.org/pt/word/kapopola-makondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4005,
+      "kimbundu_term": "Kapote",
+      "portuguese_translation": "Capote",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kapote-1 — https://www.kimbundu.org/pt/word/kapote",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4006,
+      "kimbundu_term": "Kâpue",
+      "portuguese_translation": "Inseto himenóptero fam. das formicidas, mais pequeno que o séke",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kâpue-1 — https://www.kimbundu.org/pt/word/kapue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4007,
+      "kimbundu_term": "Kâpue",
+      "portuguese_translation": "Formiga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kâpue-1 — https://www.kimbundu.org/pt/word/kapue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4008,
+      "kimbundu_term": "Kapuefe",
+      "portuguese_translation": "Palavra com que se designa indivíduo incerto ou desconhecido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kapuefe-1 — https://www.kimbundu.org/pt/word/kapuefe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4009,
+      "kimbundu_term": "Kapuefe",
+      "portuguese_translation": "Fulano",
+      "definition": null,
+      "alternative_meanings": [
+        "O tal"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kapuefe-1 — https://www.kimbundu.org/pt/word/kapuefe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4010,
+      "kimbundu_term": "Kapuefe",
+      "portuguese_translation": "Equivale à loc. lat. et caetera",
+      "definition": null,
+      "alternative_meanings": [
+        "E o mais",
+        "e o restante"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kapuefe-1 — https://www.kimbundu.org/pt/word/kapuefe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4011,
+      "kimbundu_term": "Kápufu",
+      "portuguese_translation": "Governo ou autoridade portuguesa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kápufu-1 — https://www.kimbundu.org/pt/word/kapufu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4012,
+      "kimbundu_term": "Kápufu",
+      "portuguese_translation": "Português",
+      "definition": null,
+      "alternative_meanings": [
+        "De Portugal"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kápufu-1 — https://www.kimbundu.org/pt/word/kapufu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4013,
+      "kimbundu_term": "Kapúia",
+      "portuguese_translation": "Gramínea ornamental (aristida adcensionis)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kapúia-1 — https://www.kimbundu.org/pt/word/kapuia",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
