@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11634,
+      "kimbundu_term": "Kusésa",
+      "portuguese_translation": "Peneirar. Outar",
+      "definition": null,
+      "alternative_meanings": [
+        "apurar",
+        "refinar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusésa-1 — https://www.kimbundu.org/pt/word/kusesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11635,
+      "kimbundu_term": "Kusésa",
+      "portuguese_translation": "Kurisésa, e r. Aperfeiçoar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusésa-1 — https://www.kimbundu.org/pt/word/kusesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11636,
+      "kimbundu_term": "Kusésa",
+      "portuguese_translation": "Desdenhar",
+      "definition": null,
+      "alternative_meanings": [
+        "desinteressar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusésa-1 — https://www.kimbundu.org/pt/word/kusesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11637,
+      "kimbundu_term": "Kusesála",
+      "portuguese_translation": "Condenar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer parar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusesála-1 — https://www.kimbundu.org/pt/word/kusesala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11638,
+      "kimbundu_term": "Kusesála",
+      "portuguese_translation": "Diz-se da penitência a impor ao que, nos jogos de prendas, errar a marcação ou passo de dança",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusesála-1 — https://www.kimbundu.org/pt/word/kusesala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11639,
+      "kimbundu_term": "Kúsesela",
+      "portuguese_translation": "Presagir",
+      "definition": null,
+      "alternative_meanings": [
+        "agourar: —uhaxt. Predizer (o mal). É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsesela-1 — https://www.kimbundu.org/pt/word/kusesela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11640,
+      "kimbundu_term": "Kuseséla",
+      "portuguese_translation": "Joeirar por",
+      "definition": null,
+      "alternative_meanings": [
+        "outar dentro de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuseséla-1 — https://www.kimbundu.org/pt/word/kusesela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11641,
+      "kimbundu_term": "Kusesemba",
+      "portuguese_translation": "Dançar (arrastando os pés)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusesemba-1 — https://www.kimbundu.org/pt/word/kusesemba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11642,
+      "kimbundu_term": "Kusesesa",
+      "portuguese_translation": "Mandar peneirar. Fazer joeirar, outar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusesesa-1 — https://www.kimbundu.org/pt/word/kusesesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11643,
+      "kimbundu_term": "Kusesumuka",
+      "portuguese_translation": "Ficar esboroado, esfarelado: rikende ri asesumuka",
+      "definition": null,
+      "alternative_meanings": [
+        "Esfarelar",
+        "esmigalhar. Reduzir a pequenos fragmentos",
+        "Despedaçar",
+        "carcomer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusesumuka-1 — https://www.kimbundu.org/pt/word/kusesumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
