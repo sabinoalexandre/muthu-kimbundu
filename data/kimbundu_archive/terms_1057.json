@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10674,
+      "kimbundu_term": "Kumomesa",
+      "portuguese_translation": "Dar a debicar",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer picar (a ave.) fig. Dar dinheiro por empréstimo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumomesa-1 — https://www.kimbundu.org/pt/word/kumomesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10675,
+      "kimbundu_term": "Kumomojoka",
+      "portuguese_translation": "Estar picado em toda a extensão ou superfície",
+      "definition": null,
+      "alternative_meanings": [
+        "Ter muitos sinais de bexigas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumomojoka-1 — https://www.kimbundu.org/pt/word/kumomojoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10676,
+      "kimbundu_term": "Kumomojona",
+      "portuguese_translation": "Bicar muitas vezes",
+      "definition": null,
+      "alternative_meanings": [
+        "Picar em muitos lugares, encher de sinais"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumomojona-1 — https://www.kimbundu.org/pt/word/kumomojona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10677,
+      "kimbundu_term": "Kumomojona",
+      "portuguese_translation": "Kurimomojona, v. r. Dar-se bicadas (como as galinhas)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumomojona-1 — https://www.kimbundu.org/pt/word/kumomojona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10678,
+      "kimbundu_term": "Kumomoka",
+      "portuguese_translation": "Ficar crivado, assinalado, picado (de bexigas)",
+      "definition": null,
+      "alternative_meanings": [
+        "Estar depenicado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumomoka-1 — https://www.kimbundu.org/pt/word/kumomoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10679,
+      "kimbundu_term": "Kumomonona",
+      "portuguese_translation": "Tornar a bicar, a crivar, a ferir (com o bico). É também reflexivo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumomonona-1 — https://www.kimbundu.org/pt/word/kumomonona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10680,
+      "kimbundu_term": "Kúmona",
+      "portuguese_translation": "Ver",
+      "definition": null,
+      "alternative_meanings": [
+        "presenciar",
+        "assistir",
+        "Avistar",
+        "reconhecer: kima u ki mona ni u ki tange",
+        "Notar",
+        "observar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúmona-1 — https://www.kimbundu.org/pt/word/kumona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10681,
+      "kimbundu_term": "Kúmona",
+      "portuguese_translation": "Vista, alviçaras",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúmona-1 — https://www.kimbundu.org/pt/word/kumona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10682,
+      "kimbundu_term": "Kúmona",
+      "portuguese_translation": "Kurimona, e r. Julgar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "ver-se",
+        "Ter entrevista"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúmona-1 — https://www.kimbundu.org/pt/word/kumona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10683,
+      "kimbundu_term": "Kumondala",
+      "portuguese_translation": "Montar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumondala-1 — https://www.kimbundu.org/pt/word/kumondala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
