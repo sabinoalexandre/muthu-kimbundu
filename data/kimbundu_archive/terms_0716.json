@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7264,
+      "kimbundu_term": "Kubeleketa",
+      "portuguese_translation": "Amolecimento",
+      "definition": null,
+      "alternative_meanings": [
+        "Falta de resistência"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubeleketa-1 — https://www.kimbundu.org/pt/word/kubeleketa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7265,
+      "kimbundu_term": "Kubeleketa",
+      "portuguese_translation": "Kubeleketesa, Amolecer",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar menos duro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubeleketa-1 — https://www.kimbundu.org/pt/word/kubeleketa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7266,
+      "kimbundu_term": "Kubeleketa",
+      "portuguese_translation": "É tb. r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubeleketa-1 — https://www.kimbundu.org/pt/word/kubeleketa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7267,
+      "kimbundu_term": "Kubelela",
+      "portuguese_translation": "Pousar (de frente ou de lado)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubelela-1 — https://www.kimbundu.org/pt/word/kubelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7268,
+      "kimbundu_term": "Kubelela",
+      "portuguese_translation": "Estabelecer contacto",
+      "definition": null,
+      "alternative_meanings": [
+        "umbigadar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubelela-1 — https://www.kimbundu.org/pt/word/kubelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7269,
+      "kimbundu_term": "Kubelela",
+      "portuguese_translation": "Escovinha, umbigada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubelela-1 — https://www.kimbundu.org/pt/word/kubelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7270,
+      "kimbundu_term": "Kubelela",
+      "portuguese_translation": "Kuribelela, v. r. Umbigadar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubelela-1 — https://www.kimbundu.org/pt/word/kubelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7271,
+      "kimbundu_term": "Kubelesela",
+      "portuguese_translation": "Obedecer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubelesela-1 — https://www.kimbundu.org/pt/word/kubelesela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7272,
+      "kimbundu_term": "Kubeluka",
+      "portuguese_translation": "Guinar",
+      "definition": null,
+      "alternative_meanings": [
+        "desviar-se (da carreira)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubeluka-1 — https://www.kimbundu.org/pt/word/kubeluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7273,
+      "kimbundu_term": "Kubeluka",
+      "portuguese_translation": "Quitar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "esquivar-se",
+        "furtar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubeluka-1 — https://www.kimbundu.org/pt/word/kubeluka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
