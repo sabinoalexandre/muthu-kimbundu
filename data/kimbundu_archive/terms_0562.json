@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5724,
+      "kimbundu_term": "Kindondoela",
+      "portuguese_translation": "Delícia",
+      "definition": null,
+      "alternative_meanings": [
+        "prazer"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kindondoela-1 — https://www.kimbundu.org/pt/word/kindondoela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5725,
+      "kimbundu_term": "Kindongo",
+      "portuguese_translation": "De rápido desenvolvimento",
+      "definition": null,
+      "alternative_meanings": [
+        "Que cresce muito e facilmente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kindongo-1 — https://www.kimbundu.org/pt/word/kindongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5726,
+      "kimbundu_term": "Kindongo",
+      "portuguese_translation": "Agigantado",
+      "definition": null,
+      "alternative_meanings": [
+        "grande"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kindongo-1 — https://www.kimbundu.org/pt/word/kindongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5727,
+      "kimbundu_term": "Kindongo",
+      "portuguese_translation": "Pessoa alta e robusta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kindongo-1 — https://www.kimbundu.org/pt/word/kindongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5728,
+      "kimbundu_term": "Kindukutu",
+      "portuguese_translation": "Gordalhudo",
+      "definition": null,
+      "alternative_meanings": [
+        "anafado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kindukutu-1 — https://www.kimbundu.org/pt/word/kindukutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5729,
+      "kimbundu_term": "Kindúlutu",
+      "portuguese_translation": "Bruto",
+      "definition": null,
+      "alternative_meanings": [
+        "Que não tem instrução",
+        "O que não sabe nem compreende"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kindúlutu-1 — https://www.kimbundu.org/pt/word/kindulutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5730,
+      "kimbundu_term": "Kindumba",
+      "portuguese_translation": "Toucado",
+      "definition": null,
+      "alternative_meanings": [
+        "Penteado em forma de leque usado pelas mulheres de Luanda",
+        "Cabelo farto e bem cuidado",
+        "Topete"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kindumba-1 — https://www.kimbundu.org/pt/word/kindumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5731,
+      "kimbundu_term": "Kindungu",
+      "portuguese_translation": "Que tem furiosidade",
+      "definition": null,
+      "alternative_meanings": [
+        "Lúbrico",
+        "Voluptuoso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kindungu-1 — https://www.kimbundu.org/pt/word/kindungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5732,
+      "kimbundu_term": "Kindungu",
+      "portuguese_translation": "Pessoa sensual ou lasciva",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Mulher pública",
+        "hervoeira"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kindungu-1 — https://www.kimbundu.org/pt/word/kindungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5733,
+      "kimbundu_term": "Kindungu",
+      "portuguese_translation": "Dança desordenada de indígenas em que há animação e lubricidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kindungu-1 — https://www.kimbundu.org/pt/word/kindungu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
