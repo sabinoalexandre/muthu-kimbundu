@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5364,
+      "kimbundu_term": "Kilámba",
+      "portuguese_translation": "Pessoa encarregada de um mister que redunda em proveito de muitos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilámba-1 — https://www.kimbundu.org/pt/word/kilamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5365,
+      "kimbundu_term": "Kilámba",
+      "portuguese_translation": "Patriarca",
+      "definition": null,
+      "alternative_meanings": [
+        "monitor",
+        "chefe"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilámba-1 — https://www.kimbundu.org/pt/word/kilamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5366,
+      "kimbundu_term": "Kilámba",
+      "portuguese_translation": "Autoridade subalterna de um Estado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilámba-1 — https://www.kimbundu.org/pt/word/kilamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5367,
+      "kimbundu_term": "Kilambe",
+      "portuguese_translation": "Cozinhado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilambe-1 — https://www.kimbundu.org/pt/word/kilambe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5368,
+      "kimbundu_term": "Kilambe",
+      "portuguese_translation": "Cocção",
+      "definition": null,
+      "alternative_meanings": [
+        "cozimento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilambe-1 — https://www.kimbundu.org/pt/word/kilambe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5369,
+      "kimbundu_term": "Kilambe",
+      "portuguese_translation": "Que se pode cozinhar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilambe-1 — https://www.kimbundu.org/pt/word/kilambe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5370,
+      "kimbundu_term": "Kilambelu",
+      "portuguese_translation": "Utensílio para cozinhar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilambelu-1 — https://www.kimbundu.org/pt/word/kilambelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5371,
+      "kimbundu_term": "Kilambelu",
+      "portuguese_translation": "Panela, caçarola etc",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilambelu-1 — https://www.kimbundu.org/pt/word/kilambelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5372,
+      "kimbundu_term": "Kilambelu",
+      "portuguese_translation": "Próprio para cozinhar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilambelu-1 — https://www.kimbundu.org/pt/word/kilambelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5373,
+      "kimbundu_term": "Kilandu",
+      "portuguese_translation": "Falta de cuidado",
+      "definition": null,
+      "alternative_meanings": [
+        "esquecimento",
+        "descuido"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilandu-1 — https://www.kimbundu.org/pt/word/kilandu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
