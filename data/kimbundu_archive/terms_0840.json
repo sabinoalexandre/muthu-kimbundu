@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8504,
+      "kimbundu_term": "Kufukamesa",
+      "portuguese_translation": "Pôr de joelhos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufukamesa-1 — https://www.kimbundu.org/pt/word/kufukamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8505,
+      "kimbundu_term": "Kufukamesa",
+      "portuguese_translation": "Fazer prosternar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufukamesa-1 — https://www.kimbundu.org/pt/word/kufukamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8506,
+      "kimbundu_term": "Kufukamesa",
+      "portuguese_translation": "Mandar genuflectir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufukamesa-1 — https://www.kimbundu.org/pt/word/kufukamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8507,
+      "kimbundu_term": "Kufukenena",
+      "portuguese_translation": "Ocultar, tapar, cobrir com areia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufukenena-1 — https://www.kimbundu.org/pt/word/kufukenena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8508,
+      "kimbundu_term": "Kufukenena",
+      "portuguese_translation": "Fazer acabar, desaparecer (debaixo de areia)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufukenena-1 — https://www.kimbundu.org/pt/word/kufukenena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8509,
+      "kimbundu_term": "Kufukenena",
+      "portuguese_translation": "Kurijukenena, v. r. Meter-se debaixo de areia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufukenena-1 — https://www.kimbundu.org/pt/word/kufukenena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8510,
+      "kimbundu_term": "Kufukenena",
+      "portuguese_translation": "Enterrar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufukenena-1 — https://www.kimbundu.org/pt/word/kufukenena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8511,
+      "kimbundu_term": "Kufukenesa",
+      "portuguese_translation": "Fazer tapar ou cobrir com areia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufukenesa-1 — https://www.kimbundu.org/pt/word/kufukenesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8512,
+      "kimbundu_term": "Kufukina",
+      "portuguese_translation": "Profundar",
+      "definition": null,
+      "alternative_meanings": [
+        "escavar",
+        "abrir fossos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufukina-1 — https://www.kimbundu.org/pt/word/kufukina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8513,
+      "kimbundu_term": "Kufukinina",
+      "portuguese_translation": "Minar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer escavações"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufukinina-1 — https://www.kimbundu.org/pt/word/kufukinina",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
