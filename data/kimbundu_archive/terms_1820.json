@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18304,
+      "kimbundu_term": "Ngúnza",
+      "portuguese_translation": "Pagem",
+      "definition": null,
+      "alternative_meanings": [
+        "Ordenança",
+        "executor de ordens"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngúnza-1 — https://www.kimbundu.org/pt/word/ngunza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18305,
+      "kimbundu_term": "Ngúnza",
+      "portuguese_translation": "Ajudante",
+      "definition": null,
+      "alternative_meanings": [
+        "subalterno",
+        "Acólito",
+        "O que ajuda ou substitui na missão, no emprego, etc"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngúnza-1 — https://www.kimbundu.org/pt/word/ngunza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18306,
+      "kimbundu_term": "Ngúnza",
+      "portuguese_translation": "Personagem nascida de um ser divino e outra mortal",
+      "definition": null,
+      "alternative_meanings": [
+        "Herói",
+        "Varão ilustre e grande por feitos de coragem",
+        "Semi-deus",
+        "Senhor dos exércitos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngúnza-1 — https://www.kimbundu.org/pt/word/ngunza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18307,
+      "kimbundu_term": "Ngúnza",
+      "portuguese_translation": "Objeto que exerce grande influência ou poder",
+      "definition": null,
+      "alternative_meanings": [
+        "Divindade",
+        "Deus"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngúnza-1 — https://www.kimbundu.org/pt/word/ngunza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18308,
+      "kimbundu_term": "Ngúnza",
+      "portuguese_translation": "Nome por que tb. é conhecido o rio Kambongo, que atravessa a vila de Novo-Redondo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngúnza-1 — https://www.kimbundu.org/pt/word/ngunza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18309,
+      "kimbundu_term": "Ngunzu",
+      "portuguese_translation": "De pouca duração",
+      "definition": null,
+      "alternative_meanings": [
+        "Efémero",
+        "Que dura pouco",
+        "Inconsistente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngunzu-1 — https://www.kimbundu.org/pt/word/ngunzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18310,
+      "kimbundu_term": "Ngunzu",
+      "portuguese_translation": "Cousa vã, inútil",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngunzu-1 — https://www.kimbundu.org/pt/word/ngunzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18311,
+      "kimbundu_term": "Ngunzu",
+      "portuguese_translation": "Inseto neuróptero que nasce e morre no mesmo dia",
+      "definition": null,
+      "alternative_meanings": [
+        "Efémera"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngunzu-1 — https://www.kimbundu.org/pt/word/ngunzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18312,
+      "kimbundu_term": "Ngusúsu",
+      "portuguese_translation": "Mediana árvore fam. das combretáceas (Combretum dipterum) de utilidade tinctorial",
+      "definition": null,
+      "alternative_meanings": [
+        "Combieto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngusúsu-1 — https://www.kimbundu.org/pt/word/ngususu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18313,
+      "kimbundu_term": "Ngûtu",
+      "portuguese_translation": "Utensílio para levar à boca substâncias brandas",
+      "definition": null,
+      "alternative_meanings": [
+        "Colher",
+        "Ferramenta de pôr argamassa nas paredes",
+        "Instrumento em forma de colher"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngûtu-1 — https://www.kimbundu.org/pt/word/ngutu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
