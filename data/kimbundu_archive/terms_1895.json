@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19054,
+      "kimbundu_term": "Suéte",
+      "portuguese_translation": "Pasmado",
+      "definition": null,
+      "alternative_meanings": [
+        "extasiado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, suéte-1 — https://www.kimbundu.org/pt/word/suete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19055,
+      "kimbundu_term": "Suféte",
+      "portuguese_translation": "Sátira",
+      "definition": null,
+      "alternative_meanings": [
+        "piada",
+        "Remoque"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, suféte-1 — https://www.kimbundu.org/pt/word/sufete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19056,
+      "kimbundu_term": "Suilu",
+      "portuguese_translation": "Preço",
+      "definition": null,
+      "alternative_meanings": [
+        "valor pecuniário de um objeto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, suilu-1 — https://www.kimbundu.org/pt/word/suilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19057,
+      "kimbundu_term": "Sujá",
+      "portuguese_translation": "Contemplação muda",
+      "definition": null,
+      "alternative_meanings": [
+        "pasmaceira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sujá-1 — https://www.kimbundu.org/pt/word/suja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19058,
+      "kimbundu_term": "Súju",
+      "portuguese_translation": "O mesmo que suíji",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, súju-1 — https://www.kimbundu.org/pt/word/suju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19059,
+      "kimbundu_term": "Sûka",
+      "portuguese_translation": "Pára! Basta! Não mais!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sûka-1 — https://www.kimbundu.org/pt/word/suka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19060,
+      "kimbundu_term": "Suke",
+      "portuguese_translation": "Bastante",
+      "definition": null,
+      "alternative_meanings": [
+        "suficiente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, suke-1 — https://www.kimbundu.org/pt/word/suke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19061,
+      "kimbundu_term": "Suke",
+      "portuguese_translation": "Até",
+      "definition": null,
+      "alternative_meanings": [
+        "somente",
+        "sem tirar nem pôr"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, suke-1 — https://www.kimbundu.org/pt/word/suke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19062,
+      "kimbundu_term": "Suke",
+      "portuguese_translation": "Na medida",
+      "definition": null,
+      "alternative_meanings": [
+        "no fim"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, suke-1 — https://www.kimbundu.org/pt/word/suke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19063,
+      "kimbundu_term": "Sukidi",
+      "portuguese_translation": "Açúcar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sukidi-1 — https://www.kimbundu.org/pt/word/sukidi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
