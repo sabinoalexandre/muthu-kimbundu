@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3594,
+      "kimbundu_term": "Kámbende",
+      "portuguese_translation": "Dinheirinho",
+      "definition": null,
+      "alternative_meanings": [
+        "Pecúnia",
+        "Pouco ou algum dinheiro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kámbende-1 — https://www.kimbundu.org/pt/word/kambende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3595,
+      "kimbundu_term": "Kambéndu",
+      "portuguese_translation": "Flautim",
+      "definition": null,
+      "alternative_meanings": [
+        "Pífaro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kambéndu-1 — https://www.kimbundu.org/pt/word/kambendu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3596,
+      "kimbundu_term": "Kambengéla",
+      "portuguese_translation": "Siquinho de negócio sobreposto ao principal",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Homem de pouca idade",
+        "Rapazola",
+        "Garoto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kambengéla-1 — https://www.kimbundu.org/pt/word/kambengela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3597,
+      "kimbundu_term": "Kámbia",
+      "portuguese_translation": "Panelinha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kámbia-1 — https://www.kimbundu.org/pt/word/kambia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3598,
+      "kimbundu_term": "Kámbia",
+      "portuguese_translation": "Da panela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kámbia-1 — https://www.kimbundu.org/pt/word/kambia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3599,
+      "kimbundu_term": "Kámbiji",
+      "portuguese_translation": "Peixinho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kámbiji-1 — https://www.kimbundu.org/pt/word/kambiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3600,
+      "kimbundu_term": "Kámbiji",
+      "portuguese_translation": "Relativo ao peixe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kámbiji-1 — https://www.kimbundu.org/pt/word/kambiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3601,
+      "kimbundu_term": "Kâmbila",
+      "portuguese_translation": "Pequena sepultura",
+      "definition": null,
+      "alternative_meanings": [
+        "Campa de criança"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kâmbila-1 — https://www.kimbundu.org/pt/word/kambila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3602,
+      "kimbundu_term": "Kâmbila",
+      "portuguese_translation": "Sepulcral",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kâmbila-1 — https://www.kimbundu.org/pt/word/kambila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3603,
+      "kimbundu_term": "Kambîmbia",
+      "portuguese_translation": "Nome por que se conhece um elevado monte no distr. de Moxico, prov. do Bié, com 1.500 mts. de alt. e onde nascem os rios",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kambîmbia-1 — https://www.kimbundu.org/pt/word/kambimbia",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
