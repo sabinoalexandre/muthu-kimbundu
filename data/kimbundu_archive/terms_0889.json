@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8994,
+      "kimbundu_term": "Kujila",
+      "portuguese_translation": "Ir minguando, diminuindo (pelo roço)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujila-1 — https://www.kimbundu.org/pt/word/kujila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8995,
+      "kimbundu_term": "Kujila",
+      "portuguese_translation": "Jejuar",
+      "definition": null,
+      "alternative_meanings": [
+        "guardar abstinência"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujila-1 — https://www.kimbundu.org/pt/word/kujila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8996,
+      "kimbundu_term": "Kujila",
+      "portuguese_translation": "Jurar, abster-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujila-1 — https://www.kimbundu.org/pt/word/kujila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8997,
+      "kimbundu_term": "Kujila",
+      "portuguese_translation": "Emendar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "corrigir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujila-1 — https://www.kimbundu.org/pt/word/kujila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8998,
+      "kimbundu_term": "Kujila",
+      "portuguese_translation": "Mingua",
+      "definition": null,
+      "alternative_meanings": [
+        "desgaste"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujila-1 — https://www.kimbundu.org/pt/word/kujila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8999,
+      "kimbundu_term": "Kujila",
+      "portuguese_translation": "Abstinência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujila-1 — https://www.kimbundu.org/pt/word/kujila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9000,
+      "kimbundu_term": "Kujiluka",
+      "portuguese_translation": "Abjurar",
+      "definition": null,
+      "alternative_meanings": [
+        "renunciar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujiluka-1 — https://www.kimbundu.org/pt/word/kujiluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9001,
+      "kimbundu_term": "Kujiluka",
+      "portuguese_translation": "Desobrigar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "deixar de jejuar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujiluka-1 — https://www.kimbundu.org/pt/word/kujiluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9002,
+      "kimbundu_term": "Kujiluka",
+      "portuguese_translation": "Abjuramento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujiluka-1 — https://www.kimbundu.org/pt/word/kujiluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9003,
+      "kimbundu_term": "Kujílula",
+      "portuguese_translation": "Permitir a prática de atos de que se estava privado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujílula-1 — https://www.kimbundu.org/pt/word/kujilula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
