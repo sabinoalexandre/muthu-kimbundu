@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3694,
+      "kimbundu_term": "Kamóma",
+      "portuguese_translation": "Antiga povoação e apeadeiro na margem esquerda do rio Móma, conc. de Cazengo, distr. do Quanza-Norte, prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamóma-1 — https://www.kimbundu.org/pt/word/kamoma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3695,
+      "kimbundu_term": "Kamona",
+      "portuguese_translation": "Do filho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamona-1 — https://www.kimbundu.org/pt/word/kamona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3696,
+      "kimbundu_term": "Kamona",
+      "portuguese_translation": "Criança de tenra idade",
+      "definition": null,
+      "alternative_meanings": [
+        "Pequerrucho, filhinho",
+        "Nené"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamona-1 — https://www.kimbundu.org/pt/word/kamona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3697,
+      "kimbundu_term": "Kamósa",
+      "portuguese_translation": "Mulatinha",
+      "definition": null,
+      "alternative_meanings": [
+        "Rapariguinha mestiça"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamósa-1 — https://www.kimbundu.org/pt/word/kamosa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3698,
+      "kimbundu_term": "Kamóso",
+      "portuguese_translation": "Rapaz",
+      "definition": null,
+      "alternative_meanings": [
+        "moleque",
+        "Criado",
+        "servente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamóso-1 — https://www.kimbundu.org/pt/word/kamoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3699,
+      "kimbundu_term": "Kamoxi",
+      "portuguese_translation": "Que precede a todos (na série da ordem)",
+      "definition": null,
+      "alternative_meanings": [
+        "Primeiro",
+        "Principal",
+        "Um",
+        "único"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamoxi-1 — https://www.kimbundu.org/pt/word/kamoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3700,
+      "kimbundu_term": "Kamoxi",
+      "portuguese_translation": "Antes de tudo",
+      "definition": null,
+      "alternative_meanings": [
+        "Na dianteira de todos",
+        "Primeiramente",
+        "de princípio. A primeira vez"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamoxi-1 — https://www.kimbundu.org/pt/word/kamoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3701,
+      "kimbundu_term": "Kamuánze",
+      "portuguese_translation": "Árvore da família das leguminosas (albizia fastigiata) utilizada para sombra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamuánze-1 — https://www.kimbundu.org/pt/word/kamuanze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3702,
+      "kimbundu_term": "Kamubika",
+      "portuguese_translation": "de mubika",
+      "definition": null,
+      "alternative_meanings": [
+        "Molequinho",
+        "Pl. tuabika"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamubika-1 — https://www.kimbundu.org/pt/word/kamubika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3703,
+      "kimbundu_term": "Kâmue",
+      "portuguese_translation": "Um, único",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kâmue-1 — https://www.kimbundu.org/pt/word/kamue",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
