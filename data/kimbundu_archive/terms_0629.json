@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6394,
+      "kimbundu_term": "Kítololo",
+      "portuguese_translation": "Remorso",
+      "definition": null,
+      "alternative_meanings": [
+        "arrependimento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kítololo-1 — https://www.kimbundu.org/pt/word/kitololo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6395,
+      "kimbundu_term": "Kítololo",
+      "portuguese_translation": "Aflição",
+      "definition": null,
+      "alternative_meanings": [
+        "pungimento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kítololo-1 — https://www.kimbundu.org/pt/word/kitololo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6396,
+      "kimbundu_term": "Kítololo",
+      "portuguese_translation": "Pesar (de ter dito ou feito.)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kítololo-1 — https://www.kimbundu.org/pt/word/kitololo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6397,
+      "kimbundu_term": "Kitómba",
+      "portuguese_translation": "Tira de baeta encarnada que se traz a tiracolo",
+      "definition": null,
+      "alternative_meanings": [
+        "Faixa",
+        "banda"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitómba-1 — https://www.kimbundu.org/pt/word/kitomba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6398,
+      "kimbundu_term": "Kitome",
+      "portuguese_translation": "Sarjado",
+      "definition": null,
+      "alternative_meanings": [
+        "Que se sujeita à sarjação"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitome-1 — https://www.kimbundu.org/pt/word/kitome",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6399,
+      "kimbundu_term": "Kitomenu",
+      "portuguese_translation": "Instrumento cirúrgico para fazer incisões na pele",
+      "definition": null,
+      "alternative_meanings": [
+        "Pequena navalha para sarjar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitomenu-1 — https://www.kimbundu.org/pt/word/kitomenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6400,
+      "kimbundu_term": "Kitonda",
+      "portuguese_translation": "Aplauso",
+      "definition": null,
+      "alternative_meanings": [
+        "agradecimento. É m. us. no pl. itonda"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitonda-1 — https://www.kimbundu.org/pt/word/kitonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6401,
+      "kimbundu_term": "Kitondalu",
+      "portuguese_translation": "Omissão",
+      "definition": null,
+      "alternative_meanings": [
+        "erro",
+        "Inobservância dos preceitos morais ou legais",
+        "Falsidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitondalu-1 — https://www.kimbundu.org/pt/word/kitondalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6402,
+      "kimbundu_term": "Kitone",
+      "portuguese_translation": "Género de pássaros que se alimentam de excremento",
+      "definition": null,
+      "alternative_meanings": [
+        "Estercorário",
+        "esterqueiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitone-1 — https://www.kimbundu.org/pt/word/kitone",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6403,
+      "kimbundu_term": "Kitonga",
+      "portuguese_translation": "Fogueira",
+      "definition": null,
+      "alternative_meanings": [
+        "Braseiro",
+        "Pira (no suplício do fogo). fig. Inferno"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitonga-1 — https://www.kimbundu.org/pt/word/kitonga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
