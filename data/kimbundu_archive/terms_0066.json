@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 764,
+      "kimbundu_term": "Diêji",
+      "portuguese_translation": "Luar",
+      "definition": null,
+      "alternative_meanings": [
+        "claridade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diêji-1 — https://www.kimbundu.org/pt/word/dieji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 765,
+      "kimbundu_term": "Diela",
+      "portuguese_translation": "Alçapé",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diela-1 — https://www.kimbundu.org/pt/word/diela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 766,
+      "kimbundu_term": "Diela",
+      "portuguese_translation": "Cilada",
+      "definition": null,
+      "alternative_meanings": [
+        "artimanha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diela-1 — https://www.kimbundu.org/pt/word/diela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 767,
+      "kimbundu_term": "Diéle",
+      "portuguese_translation": "Mama",
+      "definition": null,
+      "alternative_meanings": [
+        "teta"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diéle-1 — https://www.kimbundu.org/pt/word/diele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 768,
+      "kimbundu_term": "Diéle",
+      "portuguese_translation": "Glândula mamária",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diéle-1 — https://www.kimbundu.org/pt/word/diele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 769,
+      "kimbundu_term": "Diéle",
+      "portuguese_translation": "— ria sanji",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diéle-1 — https://www.kimbundu.org/pt/word/diele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 770,
+      "kimbundu_term": "Dielélu",
+      "portuguese_translation": "Esperança",
+      "definition": null,
+      "alternative_meanings": [
+        "expectativa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dielélu-1 — https://www.kimbundu.org/pt/word/dielelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 771,
+      "kimbundu_term": "Diêmbe",
+      "portuguese_translation": "Género de aves columbinas de que há muitas espécies",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diêmbe-1 — https://www.kimbundu.org/pt/word/diembe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 772,
+      "kimbundu_term": "Diêmbe",
+      "portuguese_translation": "Pomba",
+      "definition": null,
+      "alternative_meanings": [
+        "rola"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diêmbe-1 — https://www.kimbundu.org/pt/word/diembe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 773,
+      "kimbundu_term": "Diémbu",
+      "portuguese_translation": "Tribo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diémbu-1 — https://www.kimbundu.org/pt/word/diembu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
