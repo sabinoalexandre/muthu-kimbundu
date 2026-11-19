@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10604,
+      "kimbundu_term": "Kumanamana",
+      "portuguese_translation": "sub. Maneira de obter a pouco e pouco",
+      "definition": null,
+      "alternative_meanings": [
+        "Amealhamento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumanamana-1 — https://www.kimbundu.org/pt/word/kumanamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10605,
+      "kimbundu_term": "Kumbateka",
+      "portuguese_translation": "Proliferar",
+      "definition": null,
+      "alternative_meanings": [
+        "Gerar",
+        "reproduzir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumbateka-1 — https://www.kimbundu.org/pt/word/kumbateka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10606,
+      "kimbundu_term": "Kúmbomba",
+      "portuguese_translation": "Pingar",
+      "definition": null,
+      "alternative_meanings": [
+        "verter às gotas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúmbomba-1 — https://www.kimbundu.org/pt/word/kumbomba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10607,
+      "kimbundu_term": "Kúmbomba",
+      "portuguese_translation": "Chover brandamente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúmbomba-1 — https://www.kimbundu.org/pt/word/kumbomba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10608,
+      "kimbundu_term": "Kumbombena",
+      "portuguese_translation": "Destilar orvalho sobre",
+      "definition": null,
+      "alternative_meanings": [
+        "Rorejar",
+        "resumar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumbombena-1 — https://www.kimbundu.org/pt/word/kumbombena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10609,
+      "kimbundu_term": "Kumbombena",
+      "portuguese_translation": "Kurimbombena, e r. Orvalhar",
+      "definition": null,
+      "alternative_meanings": [
+        "umedecer",
+        "Deitar pingos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumbombena-1 — https://www.kimbundu.org/pt/word/kumbombena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10610,
+      "kimbundu_term": "Kumbombesa",
+      "portuguese_translation": "Fazer pingar, derramar gota a gota",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumbombesa-1 — https://www.kimbundu.org/pt/word/kumbombesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10611,
+      "kimbundu_term": "Kumbombota",
+      "portuguese_translation": "Estar nédio, anafado, gordo",
+      "definition": null,
+      "alternative_meanings": [
+        "Ter nutrição"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumbombota-1 — https://www.kimbundu.org/pt/word/kumbombota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10612,
+      "kimbundu_term": "Kumbombotesa",
+      "portuguese_translation": "Anafar",
+      "definition": null,
+      "alternative_meanings": [
+        "anediar",
+        "nutrir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumbombotesa-1 — https://www.kimbundu.org/pt/word/kumbombotesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10613,
+      "kimbundu_term": "Kûmbua",
+      "portuguese_translation": "Ave pernalta, tb. chamada trombeteiro, frequente na região das Ginguelas",
+      "definition": null,
+      "alternative_meanings": [
+        "Agami"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kûmbua-1 — https://www.kimbundu.org/pt/word/kumbua",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
