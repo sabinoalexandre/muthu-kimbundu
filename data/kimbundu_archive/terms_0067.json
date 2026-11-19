@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 774,
+      "kimbundu_term": "Diémbu",
+      "portuguese_translation": "Conjunto de pessoas de uma povoação ou bairro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diémbu-1 — https://www.kimbundu.org/pt/word/diembu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 775,
+      "kimbundu_term": "Diémbu",
+      "portuguese_translation": "Mukua—adj. e sub. Conterrâneo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diémbu-1 — https://www.kimbundu.org/pt/word/diembu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 776,
+      "kimbundu_term": "Diémbu",
+      "portuguese_translation": "Bairrista",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diémbu-1 — https://www.kimbundu.org/pt/word/diembu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 777,
+      "kimbundu_term": "Diêngi",
+      "portuguese_translation": "Outro",
+      "definition": null,
+      "alternative_meanings": [
+        "outra",
+        "diferente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diêngi-1 — https://www.kimbundu.org/pt/word/diengi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 778,
+      "kimbundu_term": "Diêngi",
+      "portuguese_translation": "Diverso",
+      "definition": null,
+      "alternative_meanings": [
+        "não o mesmo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diêngi-1 — https://www.kimbundu.org/pt/word/diengi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 779,
+      "kimbundu_term": "Dienu",
+      "portuguese_translation": "Vossa",
+      "definition": null,
+      "alternative_meanings": [
+        "vosso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dienu-1 — https://www.kimbundu.org/pt/word/dienu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 780,
+      "kimbundu_term": "Dienu",
+      "portuguese_translation": "De vós",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dienu-1 — https://www.kimbundu.org/pt/word/dienu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 781,
+      "kimbundu_term": "Dienu",
+      "portuguese_translation": "De vós mesmo",
+      "definition": null,
+      "alternative_meanings": [
+        "propriamente vosso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dienu-1 — https://www.kimbundu.org/pt/word/dienu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 782,
+      "kimbundu_term": "Diêsu",
+      "portuguese_translation": "Forma antiga de risu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diêsu-1 — https://www.kimbundu.org/pt/word/diesu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 783,
+      "kimbundu_term": "Dietu",
+      "portuguese_translation": "Nosso",
+      "definition": null,
+      "alternative_meanings": [
+        "Nossa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dietu-1 — https://www.kimbundu.org/pt/word/dietu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
