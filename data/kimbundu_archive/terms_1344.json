@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13544,
+      "kimbundu_term": "Kuzavuka",
+      "portuguese_translation": "Disparo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzavuka-1 — https://www.kimbundu.org/pt/word/kuzavuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13545,
+      "kimbundu_term": "Kuzavula",
+      "portuguese_translation": "Soltar (a mola do alçapão)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzavula-1 — https://www.kimbundu.org/pt/word/kuzavula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13546,
+      "kimbundu_term": "Kuzavula",
+      "portuguese_translation": "Disparar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzavula-1 — https://www.kimbundu.org/pt/word/kuzavula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13547,
+      "kimbundu_term": "Kuzavula",
+      "portuguese_translation": "Surripiar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzavula-1 — https://www.kimbundu.org/pt/word/kuzavula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13548,
+      "kimbundu_term": "Kuzaya",
+      "portuguese_translation": "Dar o cavaco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzaya-1 — https://www.kimbundu.org/pt/word/kuzaya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13549,
+      "kimbundu_term": "Kuzaya",
+      "portuguese_translation": "Ralhar",
+      "definition": null,
+      "alternative_meanings": [
+        "afinar",
+        "zangar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzaya-1 — https://www.kimbundu.org/pt/word/kuzaya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13550,
+      "kimbundu_term": "Kuzazula",
+      "portuguese_translation": "Cozer ligeiramente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzazula-1 — https://www.kimbundu.org/pt/word/kuzazula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13551,
+      "kimbundu_term": "Kuzazula",
+      "portuguese_translation": "Fazer (alguma coisa) às pressas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzazula-1 — https://www.kimbundu.org/pt/word/kuzazula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13552,
+      "kimbundu_term": "Kuzebula",
+      "portuguese_translation": "Estupefazer",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar pateta"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzebula-1 — https://www.kimbundu.org/pt/word/kuzebula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13553,
+      "kimbundu_term": "Kuzebula",
+      "portuguese_translation": "Kurizebula, v. r. Atoleimar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzebula-1 — https://www.kimbundu.org/pt/word/kuzebula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
