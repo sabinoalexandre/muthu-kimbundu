@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10494,
+      "kimbundu_term": "Kulundumuka",
+      "portuguese_translation": "Desabar",
+      "definition": null,
+      "alternative_meanings": [
+        "abater",
+        "derruir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulundumuka-1 — https://www.kimbundu.org/pt/word/kulundumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10495,
+      "kimbundu_term": "Kulundumuka",
+      "portuguese_translation": "(Diz-se das cousas que caem sem intervenção estranha)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulundumuka-1 — https://www.kimbundu.org/pt/word/kulundumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10496,
+      "kimbundu_term": "Kulundumuka",
+      "portuguese_translation": "Desabamento",
+      "definition": null,
+      "alternative_meanings": [
+        "queda"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulundumuka-1 — https://www.kimbundu.org/pt/word/kulundumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10497,
+      "kimbundu_term": "Kulundumuna",
+      "portuguese_translation": "Derribar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulundumuna-1 — https://www.kimbundu.org/pt/word/kulundumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10498,
+      "kimbundu_term": "Kulundumuna",
+      "portuguese_translation": "Provocar desabamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulundumuna-1 — https://www.kimbundu.org/pt/word/kulundumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10499,
+      "kimbundu_term": "Kulundumuna",
+      "portuguese_translation": "Precipitar",
+      "definition": null,
+      "alternative_meanings": [
+        "despenhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulundumuna-1 — https://www.kimbundu.org/pt/word/kulundumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10500,
+      "kimbundu_term": "Kúlunga",
+      "portuguese_translation": "Ter razão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlunga-1 — https://www.kimbundu.org/pt/word/kulunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10501,
+      "kimbundu_term": "Kúlunga",
+      "portuguese_translation": "Triunfar (de um processo ou demanda)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlunga-1 — https://www.kimbundu.org/pt/word/kulunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10502,
+      "kimbundu_term": "Kúlunga",
+      "portuguese_translation": "Vencer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlunga-1 — https://www.kimbundu.org/pt/word/kulunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10503,
+      "kimbundu_term": "Kulúnga",
+      "portuguese_translation": "Estar conforme, nas condições precisas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulúnga-1 — https://www.kimbundu.org/pt/word/kulunga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
