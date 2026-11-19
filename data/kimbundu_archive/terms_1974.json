@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19844,
+      "kimbundu_term": "Unzenza",
+      "portuguese_translation": "Ignorância acerca dos usos e costumes locais. Estrangeirismo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, unzenza-1 — https://www.kimbundu.org/pt/word/unzenza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19845,
+      "kimbundu_term": "Uó-uó",
+      "portuguese_translation": "Expressão de alegria com que se acolhe e abraça a quem chega de fora",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uó-uó-1 — https://www.kimbundu.org/pt/word/uo-uo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19846,
+      "kimbundu_term": "Uodiona",
+      "portuguese_translation": "Pus",
+      "definition": null,
+      "alternative_meanings": [
+        "sarro",
+        "matéria"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uodiona-1 — https://www.kimbundu.org/pt/word/uodiona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19847,
+      "kimbundu_term": "Uóla",
+      "portuguese_translation": "Hora",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uóla-1 — https://www.kimbundu.org/pt/word/uola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19848,
+      "kimbundu_term": "Uómbe",
+      "portuguese_translation": "O ocidente",
+      "definition": null,
+      "alternative_meanings": [
+        "o ocaso",
+        "Estado de fusco, de obscuro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uómbe-1 — https://www.kimbundu.org/pt/word/uombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19849,
+      "kimbundu_term": "Uómbe",
+      "portuguese_translation": "adj. Poente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uómbe-1 — https://www.kimbundu.org/pt/word/uombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19850,
+      "kimbundu_term": "Uondo",
+      "portuguese_translation": "Palavra com que se forma o futuro dos verbos. Há-de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uondo-1 — https://www.kimbundu.org/pt/word/uondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19851,
+      "kimbundu_term": "Uônge",
+      "portuguese_translation": "Encéfalo",
+      "definition": null,
+      "alternative_meanings": [
+        "miolo",
+        "Medula",
+        "Tutano"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uônge-1 — https://www.kimbundu.org/pt/word/uonge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19852,
+      "kimbundu_term": "Uos'oso",
+      "portuguese_translation": "e pron. indef. Abreviatura de uoso",
+      "definition": null,
+      "alternative_meanings": [
+        "Qualquer"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uos'oso-1 — https://www.kimbundu.org/pt/word/uos'oso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19853,
+      "kimbundu_term": "Upalama",
+      "portuguese_translation": "Rivalidade",
+      "definition": null,
+      "alternative_meanings": [
+        "Diz-se de dois homens aspirantes ao coração da mesma mulher"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, upalama-1 — https://www.kimbundu.org/pt/word/upalama",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
