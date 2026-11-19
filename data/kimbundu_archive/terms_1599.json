@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16094,
+      "kimbundu_term": "Muêne",
+      "portuguese_translation": "(I) Senhor",
+      "definition": null,
+      "alternative_meanings": [
+        "dom",
+        "mandante",
+        "possuidor: —'xl, ngana, El-Rei de Angola, suas leis ou representantes",
+        "O Senhor da terra em que se está ou trabalha., s. Ex.ª, sua grandeza",
+        "Título honorífico us. pelos nobres e suas famílias. O próprio",
+        "ele mesmo",
+        "Aí mesmo (dentro). Nesse mesmo lugar",
+        "Art. us. nos subs. compostos, etc",
+        "El (o Rei, o Senhor)"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, substantivo, pessoa",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muêne-1 — https://www.kimbundu.org/pt/word/muene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16095,
+      "kimbundu_term": "Muénga",
+      "portuguese_translation": "(I) Aprendiz",
+      "definition": null,
+      "alternative_meanings": [
+        "Praticante",
+        "discípulo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muénga-1 — https://www.kimbundu.org/pt/word/muenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16096,
+      "kimbundu_term": "Muénga",
+      "portuguese_translation": "e sub. Que está no princípio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muénga-1 — https://www.kimbundu.org/pt/word/muenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16097,
+      "kimbundu_term": "Muengela",
+      "portuguese_translation": "Planta da família das rizofhoráceas, própria de regiões tropicais",
+      "definition": null,
+      "alternative_meanings": [
+        "Rizóforo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muengela-1 — https://www.kimbundu.org/pt/word/muengela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16098,
+      "kimbundu_term": "Muengeleka",
+      "portuguese_translation": "Grelo da abóbora",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muengeleka-1 — https://www.kimbundu.org/pt/word/muengeleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16099,
+      "kimbundu_term": "Muêngi",
+      "portuguese_translation": "Em outro lugar",
+      "definition": null,
+      "alternative_meanings": [
+        "em local diferente"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muêngi-1 — https://www.kimbundu.org/pt/word/muengi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16100,
+      "kimbundu_term": "Muéngi",
+      "portuguese_translation": "e sub. (I) Unificador. Que reúne várias partes num todo",
+      "definition": null,
+      "alternative_meanings": [
+        "Reformador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muéngi-1 — https://www.kimbundu.org/pt/word/muengi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16101,
+      "kimbundu_term": "Muenu",
+      "portuguese_translation": "(contr. da prep. mua e do pron. pess enu). Convosco. Em vossa casa ou companhia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, demonstrativo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muenu-1 — https://www.kimbundu.org/pt/word/muenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16102,
+      "kimbundu_term": "Muenu",
+      "portuguese_translation": "Em vós mesmo",
+      "definition": null,
+      "alternative_meanings": [
+        "em vossas próprias pessoas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, demonstrativo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muenu-1 — https://www.kimbundu.org/pt/word/muenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16103,
+      "kimbundu_term": "Muenyi",
+      "portuguese_translation": "e sub. (I) Visitante. fig. Alheio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muenyi-1 — https://www.kimbundu.org/pt/word/muenyi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
