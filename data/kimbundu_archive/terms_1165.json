@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11754,
+      "kimbundu_term": "Kusonona",
+      "portuguese_translation": "Deixar perder, cair. É tb. r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusonona-1 — https://www.kimbundu.org/pt/word/kusonona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11755,
+      "kimbundu_term": "Kusonya",
+      "portuguese_translation": "Chuviscar",
+      "definition": null,
+      "alternative_meanings": [
+        "gotejar (chuva)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusonya-1 — https://www.kimbundu.org/pt/word/kusonya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11756,
+      "kimbundu_term": "Kusonzuela",
+      "portuguese_translation": "Mondar. Limpar (de capim) a terra semeada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusonzuela-1 — https://www.kimbundu.org/pt/word/kusonzuela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11757,
+      "kimbundu_term": "Kusonzuela",
+      "portuguese_translation": "Monda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusonzuela-1 — https://www.kimbundu.org/pt/word/kusonzuela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11758,
+      "kimbundu_term": "Kúsosa",
+      "portuguese_translation": "Podar. Cortar, desbastar árvores",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsosa-1 — https://www.kimbundu.org/pt/word/kusosa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11759,
+      "kimbundu_term": "Kúsosa",
+      "portuguese_translation": "Tirar, por meio de pilão, o farelo do milho em grão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsosa-1 — https://www.kimbundu.org/pt/word/kusosa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11760,
+      "kimbundu_term": "Kúsosa",
+      "portuguese_translation": "Limpar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsosa-1 — https://www.kimbundu.org/pt/word/kusosa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11761,
+      "kimbundu_term": "Kúsosa",
+      "portuguese_translation": "Poda",
+      "definition": null,
+      "alternative_meanings": [
+        "descasque",
+        "limpeza"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsosa-1 — https://www.kimbundu.org/pt/word/kusosa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11762,
+      "kimbundu_term": "Kusósa",
+      "portuguese_translation": "Ser estreito, esguio. Ter pouca grossura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusósa-1 — https://www.kimbundu.org/pt/word/kusosa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11763,
+      "kimbundu_term": "Kusósa",
+      "portuguese_translation": "Estreiteza",
+      "definition": null,
+      "alternative_meanings": [
+        "finura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusósa-1 — https://www.kimbundu.org/pt/word/kusosa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
