@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14164,
+      "kimbundu_term": "Lubhambu",
+      "portuguese_translation": "Grilhão",
+      "definition": null,
+      "alternative_meanings": [
+        "corrente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lubhambu-1 — https://www.kimbundu.org/pt/word/lubhambu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14165,
+      "kimbundu_term": "Lubhambu",
+      "portuguese_translation": "adj. e sub. Prisioneiro",
+      "definition": null,
+      "alternative_meanings": [
+        "presidiário"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lubhambu-1 — https://www.kimbundu.org/pt/word/lubhambu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14166,
+      "kimbundu_term": "Lubilaxi",
+      "portuguese_translation": "Pequeno afluente do rio Quanza, na região do Moxico, distr. e prov. do Bié",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lubilaxi-1 — https://www.kimbundu.org/pt/word/lubilaxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14167,
+      "kimbundu_term": "Lubilu",
+      "portuguese_translation": "Viramento",
+      "definition": null,
+      "alternative_meanings": [
+        "variação",
+        "muda",
+        "Ação de volver",
+        "Inversão",
+        "troca",
+        "Mudança (de opinião, de posição, de partido)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lubilu-1 — https://www.kimbundu.org/pt/word/lubilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14168,
+      "kimbundu_term": "Lubilu",
+      "portuguese_translation": "Inconstância",
+      "definition": null,
+      "alternative_meanings": [
+        "versatilidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lubilu-1 — https://www.kimbundu.org/pt/word/lubilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14169,
+      "kimbundu_term": "Lubitu",
+      "portuguese_translation": "Local de trânsito",
+      "definition": null,
+      "alternative_meanings": [
+        "passagem: — lua Kinzenza",
+        "Portagem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lubitu-1 — https://www.kimbundu.org/pt/word/lubitu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14170,
+      "kimbundu_term": "Lubitu",
+      "portuguese_translation": "Cidade, sede do concelho deste nome, distr. e prov. de Benguela, a 12º 19' de long. E, 16m. de alt., 11 488 hab., Repart",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lubitu-1 — https://www.kimbundu.org/pt/word/lubitu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14171,
+      "kimbundu_term": "Lúbolo",
+      "portuguese_translation": "Amarradura",
+      "definition": null,
+      "alternative_meanings": [
+        "vinco",
+        "O sulco que faz nas carnes uma atadura",
+        "fig. Chamamento",
+        "engodo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lúbolo-1 — https://www.kimbundu.org/pt/word/lubolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14172,
+      "kimbundu_term": "Lubólo",
+      "portuguese_translation": "Território que constitui a circunscrição civil do Libolo, distr. do Quanza-Sul, prov. de Benguela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lubólo-1 — https://www.kimbundu.org/pt/word/lubolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14173,
+      "kimbundu_term": "Lúbongo",
+      "portuguese_translation": "Credencial",
+      "definition": null,
+      "alternative_meanings": [
+        "licença"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lúbongo-1 — https://www.kimbundu.org/pt/word/lubongo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
