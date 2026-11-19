@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7284,
+      "kimbundu_term": "Kubembula",
+      "portuguese_translation": "Apaziguar",
+      "definition": null,
+      "alternative_meanings": [
+        "desculpar",
+        "apartar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubembula-1 — https://www.kimbundu.org/pt/word/kubembula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7285,
+      "kimbundu_term": "Kubembula",
+      "portuguese_translation": "Separar (contendores)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubembula-1 — https://www.kimbundu.org/pt/word/kubembula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7286,
+      "kimbundu_term": "Kubembula",
+      "portuguese_translation": "Kuribembula, v. r. Desculpar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "evitar questões"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubembula-1 — https://www.kimbundu.org/pt/word/kubembula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7287,
+      "kimbundu_term": "Kubembula",
+      "portuguese_translation": "Justificar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubembula-1 — https://www.kimbundu.org/pt/word/kubembula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7288,
+      "kimbundu_term": "Kubénda",
+      "portuguese_translation": "Escarnar",
+      "definition": null,
+      "alternative_meanings": [
+        "Escodear",
+        "fatiar",
+        "tirar muito à superfície"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubénda-1 — https://www.kimbundu.org/pt/word/kubenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7289,
+      "kimbundu_term": "Kubénda",
+      "portuguese_translation": "Escodeamento",
+      "definition": null,
+      "alternative_meanings": [
+        "escarnação"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubénda-1 — https://www.kimbundu.org/pt/word/kubenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7290,
+      "kimbundu_term": "Kúbenda",
+      "portuguese_translation": "Estar torto (em altura)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbenda-1 — https://www.kimbundu.org/pt/word/kubenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7291,
+      "kimbundu_term": "Kúbenda",
+      "portuguese_translation": "Estar desaprumado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbenda-1 — https://www.kimbundu.org/pt/word/kubenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7292,
+      "kimbundu_term": "Kúbenda",
+      "portuguese_translation": "Estar desviado, inclinado, tombado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbenda-1 — https://www.kimbundu.org/pt/word/kubenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7293,
+      "kimbundu_term": "Kubendesa",
+      "portuguese_translation": "Entortar",
+      "definition": null,
+      "alternative_meanings": [
+        "desaprumar",
+        "inclinar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubendesa-1 — https://www.kimbundu.org/pt/word/kubendesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
