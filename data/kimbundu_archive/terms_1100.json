@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11104,
+      "kimbundu_term": "Kuomba",
+      "portuguese_translation": "Kuriomba, e r. Andar no bico dos pés",
+      "definition": null,
+      "alternative_meanings": [
+        "Ir de mansinho (como os gatos)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuomba-1 — https://www.kimbundu.org/pt/word/kuomba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11105,
+      "kimbundu_term": "Kuombama",
+      "portuguese_translation": "Estar de molho, dentro de água (para amolecer)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuombama-1 — https://www.kimbundu.org/pt/word/kuombama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11106,
+      "kimbundu_term": "Kuombamesa",
+      "portuguese_translation": "Amolentar",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer estar de molho"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuombamesa-1 — https://www.kimbundu.org/pt/word/kuombamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11107,
+      "kimbundu_term": "Kuombeka",
+      "portuguese_translation": "Pôr de molho",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar mole"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuombeka-1 — https://www.kimbundu.org/pt/word/kuombeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11108,
+      "kimbundu_term": "Kuombeka",
+      "portuguese_translation": "Deitar água por cima de",
+      "definition": null,
+      "alternative_meanings": [
+        "conservar em líquido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuombeka-1 — https://www.kimbundu.org/pt/word/kuombeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11109,
+      "kimbundu_term": "Kuombeka",
+      "portuguese_translation": "Reservar",
+      "definition": null,
+      "alternative_meanings": [
+        "pôr de parte"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuombeka-1 — https://www.kimbundu.org/pt/word/kuombeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11110,
+      "kimbundu_term": "Kuombela",
+      "portuguese_translation": "Andar às ocultas",
+      "definition": null,
+      "alternative_meanings": [
+        "ir às gatas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuombela-1 — https://www.kimbundu.org/pt/word/kuombela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11111,
+      "kimbundu_term": "Kuombela",
+      "portuguese_translation": "Kuriombela, v. r. Ocultar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "esconder-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuombela-1 — https://www.kimbundu.org/pt/word/kuombela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11112,
+      "kimbundu_term": "Kuombelela",
+      "portuguese_translation": "Andar agachado, acocorado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuombelela-1 — https://www.kimbundu.org/pt/word/kuombelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11113,
+      "kimbundu_term": "Kuombesa",
+      "portuguese_translation": "Dar ou receber às ocultas",
+      "definition": null,
+      "alternative_meanings": [
+        "Receptar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuombesa-1 — https://www.kimbundu.org/pt/word/kuombesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
