@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8324,
+      "kimbundu_term": "Kuemesa",
+      "portuguese_translation": "Mandar fabricar vinho, cerveja, etc",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuemesa-1 — https://www.kimbundu.org/pt/word/kuemesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8325,
+      "kimbundu_term": "Kuéna",
+      "portuguese_translation": "Ser",
+      "definition": null,
+      "alternative_meanings": [
+        "Existir de modo permanente",
+        "Ter tal ou qual condição"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuéna-1 — https://www.kimbundu.org/pt/word/kuena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8326,
+      "kimbundu_term": "Kuendelela",
+      "portuguese_translation": "e intr. Ic pe: lo que está feito. ou outrem iniciou",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuendelela-1 — https://www.kimbundu.org/pt/word/kuendelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8327,
+      "kimbundu_term": "Kuendelela",
+      "portuguese_translation": "Prosseguir",
+      "definition": null,
+      "alternative_meanings": [
+        "ir andando, fazendo, dizendo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuendelela-1 — https://www.kimbundu.org/pt/word/kuendelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8328,
+      "kimbundu_term": "Kuendelela",
+      "portuguese_translation": "sub. Continuação",
+      "definition": null,
+      "alternative_meanings": [
+        "prosseguimento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuendelela-1 — https://www.kimbundu.org/pt/word/kuendelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8329,
+      "kimbundu_term": "Kuénga",
+      "portuguese_translation": "Apanhar (caça ferida)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuénga-1 — https://www.kimbundu.org/pt/word/kuenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8330,
+      "kimbundu_term": "Kuénga",
+      "portuguese_translation": "Praticar",
+      "definition": null,
+      "alternative_meanings": [
+        "ensaiar",
+        "aprender"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuénga-1 — https://www.kimbundu.org/pt/word/kuenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8331,
+      "kimbundu_term": "Kuénga",
+      "portuguese_translation": "Unificar",
+      "definition": null,
+      "alternative_meanings": [
+        "juntar",
+        "reunir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuénga-1 — https://www.kimbundu.org/pt/word/kuenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8332,
+      "kimbundu_term": "Kuénga",
+      "portuguese_translation": "Kurienga, v. r. Exercitar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "submeter-se, unir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuénga-1 — https://www.kimbundu.org/pt/word/kuenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8333,
+      "kimbundu_term": "Kuenzela",
+      "portuguese_translation": "Largar",
+      "definition": null,
+      "alternative_meanings": [
+        "não impedir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuenzela-1 — https://www.kimbundu.org/pt/word/kuenzela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
