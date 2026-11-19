@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10854,
+      "kimbundu_term": "Kungánga",
+      "portuguese_translation": "Morder",
+      "definition": null,
+      "alternative_meanings": [
+        "ferrar",
+        "Dar dentada em"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungánga-1 — https://www.kimbundu.org/pt/word/kunganga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10855,
+      "kimbundu_term": "Kungangama",
+      "portuguese_translation": "Estar áspero, azedo",
+      "definition": null,
+      "alternative_meanings": [
+        "Amargar",
+        "travar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungangama-1 — https://www.kimbundu.org/pt/word/kungangama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10856,
+      "kimbundu_term": "Kungangama",
+      "portuguese_translation": "Pique",
+      "definition": null,
+      "alternative_meanings": [
+        "acidia",
+        "travo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungangama-1 — https://www.kimbundu.org/pt/word/kungangama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10857,
+      "kimbundu_term": "Kungangamesa",
+      "portuguese_translation": "Fazer azedar, tornar amargo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungangamesa-1 — https://www.kimbundu.org/pt/word/kungangamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10858,
+      "kimbundu_term": "Kungangamesa",
+      "portuguese_translation": "Kuringangamesa, v. r. Azedar-se, irritar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungangamesa-1 — https://www.kimbundu.org/pt/word/kungangamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10859,
+      "kimbundu_term": "Kunganyala",
+      "portuguese_translation": "Ganhar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunganyala-1 — https://www.kimbundu.org/pt/word/kunganyala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10860,
+      "kimbundu_term": "Kungénga",
+      "portuguese_translation": "Fulgurar",
+      "definition": null,
+      "alternative_meanings": [
+        "incandescer",
+        "refulgir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungénga-1 — https://www.kimbundu.org/pt/word/kungenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10861,
+      "kimbundu_term": "Kungénga",
+      "portuguese_translation": "sub. Fulguração",
+      "definition": null,
+      "alternative_meanings": [
+        "incandescência"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungénga-1 — https://www.kimbundu.org/pt/word/kungenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10862,
+      "kimbundu_term": "Kungénga",
+      "portuguese_translation": "Kuringénga, v. r. Tornar-se candente, fogoso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungénga-1 — https://www.kimbundu.org/pt/word/kungenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10863,
+      "kimbundu_term": "Kungengesa",
+      "portuguese_translation": "Fazer incandescer",
+      "definition": null,
+      "alternative_meanings": [
+        "refulgir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungengesa-1 — https://www.kimbundu.org/pt/word/kungengesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
