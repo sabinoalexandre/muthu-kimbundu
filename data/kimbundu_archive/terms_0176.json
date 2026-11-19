@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1864,
+      "kimbundu_term": "Holokoko",
+      "portuguese_translation": "Inseto coleóptero pentâmero",
+      "definition": null,
+      "alternative_meanings": [
+        "Escaravelho",
+        "Bicho carpinteiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, holokoko-1 — https://www.kimbundu.org/pt/word/holokoko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1865,
+      "kimbundu_term": "Holome",
+      "portuguese_translation": "Genro",
+      "definition": null,
+      "alternative_meanings": [
+        "Marido da filha (com relação aos pais desta)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, holome-1 — https://www.kimbundu.org/pt/word/holome",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1866,
+      "kimbundu_term": "Holongo",
+      "portuguese_translation": "Ruminante da família dos antílopes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, holongo-1 — https://www.kimbundu.org/pt/word/holongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1867,
+      "kimbundu_term": "Hôlwa",
+      "portuguese_translation": "Bêbedo",
+      "definition": null,
+      "alternative_meanings": [
+        "Pessoa que bebe em demasia, que se entrega à bebedice",
+        "Ébrio. fig. Bobo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hôlwa-1 — https://www.kimbundu.org/pt/word/holwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1868,
+      "kimbundu_term": "Hômba",
+      "portuguese_translation": "Regaço",
+      "definition": null,
+      "alternative_meanings": [
+        "seio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hômba-1 — https://www.kimbundu.org/pt/word/homba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1869,
+      "kimbundu_term": "Hômba",
+      "portuguese_translation": "Espaço deixado na roupa entre os peitos e a cintura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hômba-1 — https://www.kimbundu.org/pt/word/homba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1870,
+      "kimbundu_term": "Hombo",
+      "portuguese_translation": "Cabrito",
+      "definition": null,
+      "alternative_meanings": [
+        "Cabra",
+        "Mamífero ruminante cavicórneo. Bode",
+        "fig. Mulato",
+        "narro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hombo-1 — https://www.kimbundu.org/pt/word/hombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1871,
+      "kimbundu_term": "Hôme",
+      "portuguese_translation": "Mão fechada",
+      "definition": null,
+      "alternative_meanings": [
+        "Punho",
+        "Pancada dada com a mão fechada",
+        "Soco",
+        "murro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hôme-1 — https://www.kimbundu.org/pt/word/home",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1872,
+      "kimbundu_term": "Honda",
+      "portuguese_translation": "Rodeio",
+      "definition": null,
+      "alternative_meanings": [
+        "Volta",
+        "Contorno",
+        "Linha curva que determina os relevos",
+        "Curva",
+        "linha arqueada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, honda-1 — https://www.kimbundu.org/pt/word/honda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1873,
+      "kimbundu_term": "Hondo",
+      "portuguese_translation": "Fibra de baobabe com que se fabricam sacos, tecidos, cordas, etc",
+      "definition": null,
+      "alternative_meanings": [
+        "Intercasca do imbondeiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hondo-1 — https://www.kimbundu.org/pt/word/hondo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
