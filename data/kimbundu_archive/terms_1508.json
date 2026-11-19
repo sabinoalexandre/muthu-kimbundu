@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15184,
+      "kimbundu_term": "Mbende",
+      "portuguese_translation": "Antiga moeda de cobre no valor de $015 (0,015)",
+      "definition": null,
+      "alternative_meanings": [
+        "meia macuta",
+        "(figurado) dinheiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbende-1 — https://www.kimbundu.org/pt/word/mbende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15185,
+      "kimbundu_term": "Mbende",
+      "portuguese_translation": "Bens",
+      "definition": null,
+      "alternative_meanings": [
+        "haveres"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbende-1 — https://www.kimbundu.org/pt/word/mbende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15186,
+      "kimbundu_term": "Mbendu",
+      "portuguese_translation": "Pequeno instrumento de madeira ou metal com que o dedo médio empurra a agulha de coser",
+      "definition": null,
+      "alternative_meanings": [
+        "Dedal"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbendu-1 — https://www.kimbundu.org/pt/word/mbendu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15187,
+      "kimbundu_term": "Mbendu",
+      "portuguese_translation": "Utensílio de madeira ou metal com que, na palma da mão, se empurra a agulha de coser sacos, lonas, couros, etc",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbendu-1 — https://www.kimbundu.org/pt/word/mbendu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15188,
+      "kimbundu_term": "Mbendu",
+      "portuguese_translation": "Utensílio de madeira com uma cova ao centro em que, posto na parte inferior do volume, cesto ou saco e junto à rodilha,",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbendu-1 — https://www.kimbundu.org/pt/word/mbendu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15189,
+      "kimbundu_term": "Mbéndu",
+      "portuguese_translation": "Instrumento músico feito de folha, cana ou madeira furada a modo de flauta ou de clarinete",
+      "definition": null,
+      "alternative_meanings": [
+        "pífaro",
+        "instrumento popular de feitio de flauta sem chaves",
+        "a própria flauta"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbéndu-1 — https://www.kimbundu.org/pt/word/mbendu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15190,
+      "kimbundu_term": "Mbéndu",
+      "portuguese_translation": "Tocador de flauta",
+      "definition": null,
+      "alternative_meanings": [
+        "flautista",
+        "gaiteiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbéndu-1 — https://www.kimbundu.org/pt/word/mbendu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15191,
+      "kimbundu_term": "Mbengela",
+      "portuguese_translation": "Pequeno saco de carvão contendo quantidade certa para vender",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbengela-1 — https://www.kimbundu.org/pt/word/mbengela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15192,
+      "kimbundu_term": "Mbengela",
+      "portuguese_translation": "Parte que se destaca ou sobressai de outra principal",
+      "definition": null,
+      "alternative_meanings": [
+        "apêndice",
+        "parte externa do órgão do ouvido",
+        "orelha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbengela-1 — https://www.kimbundu.org/pt/word/mbengela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15193,
+      "kimbundu_term": "Mbengela",
+      "portuguese_translation": "Auxiliar",
+      "definition": null,
+      "alternative_meanings": [
+        "prosélito",
+        "aderente. fig. homenzinho, rapaz"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbengela-1 — https://www.kimbundu.org/pt/word/mbengela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
