@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7114,
+      "kimbundu_term": "Kúbanga",
+      "portuguese_translation": "Servir (de)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbanga-1 — https://www.kimbundu.org/pt/word/kubanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7115,
+      "kimbundu_term": "Kúbanga",
+      "portuguese_translation": "Ato de fazer, de construir. Ação",
+      "definition": null,
+      "alternative_meanings": [
+        "trabalho"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbanga-1 — https://www.kimbundu.org/pt/word/kubanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7116,
+      "kimbundu_term": "Kubangama",
+      "portuguese_translation": "Fazer oposição a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubangama-1 — https://www.kimbundu.org/pt/word/kubangama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7117,
+      "kimbundu_term": "Kubangama",
+      "portuguese_translation": "Impugnar",
+      "definition": null,
+      "alternative_meanings": [
+        "combater (com razões)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubangama-1 — https://www.kimbundu.org/pt/word/kubangama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7118,
+      "kimbundu_term": "Kubangama",
+      "portuguese_translation": "Impugnação",
+      "definition": null,
+      "alternative_meanings": [
+        "contestação",
+        "oposição"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubangama-1 — https://www.kimbundu.org/pt/word/kubangama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7119,
+      "kimbundu_term": "Kubangama",
+      "portuguese_translation": "Ato de impedir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubangama-1 — https://www.kimbundu.org/pt/word/kubangama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7120,
+      "kimbundu_term": "Kubangamana",
+      "portuguese_translation": "Continuar",
+      "definition": null,
+      "alternative_meanings": [
+        "porfiar",
+        "prosseguir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubangamana-1 — https://www.kimbundu.org/pt/word/kubangamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7121,
+      "kimbundu_term": "Kubanguluia",
+      "portuguese_translation": "Renovar",
+      "definition": null,
+      "alternative_meanings": [
+        "refazer",
+        "reconstruir",
+        "Reformar",
+        "repetir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubanguluia-1 — https://www.kimbundu.org/pt/word/kubanguluia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7122,
+      "kimbundu_term": "Kubanguluia",
+      "portuguese_translation": "Kuribangulula, v. r. Restaurar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "refazer-se",
+        "ressarcir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubanguluia-1 — https://www.kimbundu.org/pt/word/kubanguluia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7123,
+      "kimbundu_term": "Kubangumuna",
+      "portuguese_translation": "Desarranjar",
+      "definition": null,
+      "alternative_meanings": [
+        "desmanchar: escangalhar",
+        "Destruir (o que está feito)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubangumuna-1 — https://www.kimbundu.org/pt/word/kubangumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
