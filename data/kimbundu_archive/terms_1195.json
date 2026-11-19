@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12054,
+      "kimbundu_term": "Kutalama",
+      "portuguese_translation": "Estático",
+      "definition": null,
+      "alternative_meanings": [
+        "espera"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutalama-1 — https://www.kimbundu.org/pt/word/kutalama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12055,
+      "kimbundu_term": "Kutalamana",
+      "portuguese_translation": "Suster no ar",
+      "definition": null,
+      "alternative_meanings": [
+        "suspender"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutalamana-1 — https://www.kimbundu.org/pt/word/kutalamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12056,
+      "kimbundu_term": "Kutalamana",
+      "portuguese_translation": "e r. Ficar",
+      "definition": null,
+      "alternative_meanings": [
+        "quedar-se",
+        "permanecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutalamana-1 — https://www.kimbundu.org/pt/word/kutalamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12057,
+      "kimbundu_term": "Kutalamana",
+      "portuguese_translation": "Parar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutalamana-1 — https://www.kimbundu.org/pt/word/kutalamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12058,
+      "kimbundu_term": "Kutalamana",
+      "portuguese_translation": "Estar muito elevado e como que suspenso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutalamana-1 — https://www.kimbundu.org/pt/word/kutalamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12059,
+      "kimbundu_term": "Kutalamanesa",
+      "portuguese_translation": "Fazer esperar",
+      "definition": null,
+      "alternative_meanings": [
+        "sossegar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutalamanesa-1 — https://www.kimbundu.org/pt/word/kutalamanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12060,
+      "kimbundu_term": "Kutalamanesa",
+      "portuguese_translation": "Equilibrar",
+      "definition": null,
+      "alternative_meanings": [
+        "manter estático",
+        "conservar imóvel"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutalamanesa-1 — https://www.kimbundu.org/pt/word/kutalamanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12061,
+      "kimbundu_term": "Kutalela",
+      "portuguese_translation": "Encarar",
+      "definition": null,
+      "alternative_meanings": [
+        "observar",
+        "ver com atenção"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutalela-1 — https://www.kimbundu.org/pt/word/kutalela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12062,
+      "kimbundu_term": "Kutalela",
+      "portuguese_translation": "Considerar",
+      "definition": null,
+      "alternative_meanings": [
+        "notar",
+        "meditar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutalela-1 — https://www.kimbundu.org/pt/word/kutalela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12063,
+      "kimbundu_term": "Kutalela",
+      "portuguese_translation": "Deitar os olhos para",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutalela-1 — https://www.kimbundu.org/pt/word/kutalela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
