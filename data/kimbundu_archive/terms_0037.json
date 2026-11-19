@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 474,
+      "kimbundu_term": "Bu'axaxi",
+      "portuguese_translation": "que indica situação ou espaço por meio ou dentro de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bu'axaxi-1 — https://www.kimbundu.org/pt/word/bu'axaxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 475,
+      "kimbundu_term": "Bu'axaxi",
+      "portuguese_translation": "Entre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bu'axaxi-1 — https://www.kimbundu.org/pt/word/bu'axaxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 476,
+      "kimbundu_term": "Buakamukua",
+      "portuguese_translation": "Diferente",
+      "definition": null,
+      "alternative_meanings": [
+        "outro, mais um (lugar)",
+        "seguinte"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, buakamukua-1 — https://www.kimbundu.org/pt/word/buakamukua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 477,
+      "kimbundu_term": "Buakamukua",
+      "portuguese_translation": "Em outro lugar",
+      "definition": null,
+      "alternative_meanings": [
+        "não aqui",
+        "em sítio diferente",
+        "precedentemente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, buakamukua-1 — https://www.kimbundu.org/pt/word/buakamukua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 478,
+      "kimbundu_term": "Buâma",
+      "portuguese_translation": "Em alguma parte",
+      "definition": null,
+      "alternative_meanings": [
+        "algures"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, buâma-1 — https://www.kimbundu.org/pt/word/buama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 479,
+      "kimbundu_term": "Buâma",
+      "portuguese_translation": "Em qualquer parte desconhecida",
+      "definition": null,
+      "alternative_meanings": [
+        "em algum lugar"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, buâma-1 — https://www.kimbundu.org/pt/word/buama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 480,
+      "kimbundu_term": "Buâma",
+      "portuguese_translation": "Parte",
+      "definition": null,
+      "alternative_meanings": [
+        "lugar",
+        "recinto",
+        "sítio",
+        "chão",
+        "terreno",
+        "local"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, buâma-1 — https://www.kimbundu.org/pt/word/buama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 481,
+      "kimbundu_term": "Buâmi",
+      "portuguese_translation": "De mim",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, buâmi-1 — https://www.kimbundu.org/pt/word/buami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 482,
+      "kimbundu_term": "Buâmi",
+      "portuguese_translation": "Meu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, buâmi-1 — https://www.kimbundu.org/pt/word/buami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 483,
+      "kimbundu_term": "Buâmi",
+      "portuguese_translation": "Pertencente à minha pessoa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, buâmi-1 — https://www.kimbundu.org/pt/word/buami",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
