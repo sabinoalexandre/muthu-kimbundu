@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14444,
+      "kimbundu_term": "Mádinda",
+      "portuguese_translation": "Habitante",
+      "definition": null,
+      "alternative_meanings": [
+        "inquilino",
+        "morador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mádinda-1 — https://www.kimbundu.org/pt/word/madinda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14445,
+      "kimbundu_term": "Madinzenzu",
+      "portuguese_translation": "(IV) Prestes a cair",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, madinzenzu-1 — https://www.kimbundu.org/pt/word/madinzenzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14446,
+      "kimbundu_term": "Madinzenzu",
+      "portuguese_translation": "Por um fio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, madinzenzu-1 — https://www.kimbundu.org/pt/word/madinzenzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14447,
+      "kimbundu_term": "Madionga",
+      "portuguese_translation": "Flechas. Conjunto de zagaias",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, madionga-1 — https://www.kimbundu.org/pt/word/madionga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14448,
+      "kimbundu_term": "Madionga",
+      "portuguese_translation": "Pequenos peixes do mar, de barriga grande",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, madionga-1 — https://www.kimbundu.org/pt/word/madionga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14449,
+      "kimbundu_term": "Madisá",
+      "portuguese_translation": "Lições",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, madisá-1 — https://www.kimbundu.org/pt/word/madisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14450,
+      "kimbundu_term": "Madisá",
+      "portuguese_translation": "Pragas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, madisá-1 — https://www.kimbundu.org/pt/word/madisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14451,
+      "kimbundu_term": "Maditátu",
+      "portuguese_translation": "Desculpas",
+      "definition": null,
+      "alternative_meanings": [
+        "ambages",
+        "rodeios"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maditátu-1 — https://www.kimbundu.org/pt/word/maditatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14452,
+      "kimbundu_term": "Maditátu",
+      "portuguese_translation": "Evasivas",
+      "definition": null,
+      "alternative_meanings": [
+        "justificação infundada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maditátu-1 — https://www.kimbundu.org/pt/word/maditatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14453,
+      "kimbundu_term": "Madiuánu",
+      "portuguese_translation": "Admiração",
+      "definition": null,
+      "alternative_meanings": [
+        "assombro",
+        "pasmo",
+        "Maravilha",
+        "Impressão forte causada por cousa inesperada",
+        "Cousa que excede toda a ponderação"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, madiuánu-1 — https://www.kimbundu.org/pt/word/madiuanu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
