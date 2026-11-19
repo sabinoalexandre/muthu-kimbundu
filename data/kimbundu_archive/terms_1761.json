@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17714,
+      "kimbundu_term": "Ndangálu",
+      "portuguese_translation": "O rosto de um barco",
+      "definition": null,
+      "alternative_meanings": [
+        "Proa",
+        "A parte dianteira da embarcação no terço do seu comprimento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndangálu-1 — https://www.kimbundu.org/pt/word/ndangalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17715,
+      "kimbundu_term": "Ndangálu",
+      "portuguese_translation": "Dianteira",
+      "definition": null,
+      "alternative_meanings": [
+        "Frente",
+        "Parte anterior"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndangálu-1 — https://www.kimbundu.org/pt/word/ndangalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17716,
+      "kimbundu_term": "Ndângu",
+      "portuguese_translation": "Peixe teleósteo silurídeo (do mar)",
+      "definition": null,
+      "alternative_meanings": [
+        "Bagre"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndângu-1 — https://www.kimbundu.org/pt/word/ndangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17717,
+      "kimbundu_term": "Ndánji",
+      "portuguese_translation": "Parte inferior das plantas que entra na terra e pela qual os vegetais se fixam no solo",
+      "definition": null,
+      "alternative_meanings": [
+        "Raiz",
+        "Rizoma",
+        "Base"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndánji-1 — https://www.kimbundu.org/pt/word/ndanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17718,
+      "kimbundu_term": "Ndánji",
+      "portuguese_translation": "Penedo",
+      "definition": null,
+      "alternative_meanings": [
+        "Rocha",
+        "Filão",
+        "mina"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndánji-1 — https://www.kimbundu.org/pt/word/ndanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17719,
+      "kimbundu_term": "Ndánji",
+      "portuguese_translation": "Varinha com que se bate o tambor",
+      "definition": null,
+      "alternative_meanings": [
+        "Baqueta"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndánji-1 — https://www.kimbundu.org/pt/word/ndanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17720,
+      "kimbundu_term": "Ndánji",
+      "portuguese_translation": "Peça oscilante que faz soar o [sino, à campainha, etc",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndánji-1 — https://www.kimbundu.org/pt/word/ndanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17721,
+      "kimbundu_term": "Ndánji",
+      "portuguese_translation": "…sino, a campainha, etc",
+      "definition": null,
+      "alternative_meanings": [
+        "badalo",
+        "pêndulo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndánji-1 — https://www.kimbundu.org/pt/word/ndanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17722,
+      "kimbundu_term": "Ndánji",
+      "portuguese_translation": "Pequeno pau embolado de borracha com que se toca a marimba",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndánji-1 — https://www.kimbundu.org/pt/word/ndanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17723,
+      "kimbundu_term": "Ndânji",
+      "portuguese_translation": "Espaço ocupado por uma corrente de água",
+      "definition": null,
+      "alternative_meanings": [
+        "córrego"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndânji-1 — https://www.kimbundu.org/pt/word/ndanji",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
