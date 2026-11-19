@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6714,
+      "kimbundu_term": "Kizembese",
+      "portuguese_translation": "Nojento: nojoso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizembese-1 — https://www.kimbundu.org/pt/word/kizembese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6715,
+      "kimbundu_term": "Kizembese",
+      "portuguese_translation": "Desagradável",
+      "definition": null,
+      "alternative_meanings": [
+        "repugnante. Que causa náuseas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizembese-1 — https://www.kimbundu.org/pt/word/kizembese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6716,
+      "kimbundu_term": "Kizembu",
+      "portuguese_translation": "Repugnância",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizembu-1 — https://www.kimbundu.org/pt/word/kizembu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6717,
+      "kimbundu_term": "Kizembu",
+      "portuguese_translation": "Aversão",
+      "definition": null,
+      "alternative_meanings": [
+        "antipatia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizembu-1 — https://www.kimbundu.org/pt/word/kizembu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6718,
+      "kimbundu_term": "Kizembu",
+      "portuguese_translation": "Repulsa que nos causa a presença de uma pessoa ou coisa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizembu-1 — https://www.kimbundu.org/pt/word/kizembu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6719,
+      "kimbundu_term": "Kizemenenu",
+      "portuguese_translation": "Arrimo",
+      "definition": null,
+      "alternative_meanings": [
+        "apoio",
+        "encosto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizemenenu-1 — https://www.kimbundu.org/pt/word/kizemenenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6720,
+      "kimbundu_term": "Kizendênde",
+      "portuguese_translation": "Inclinado",
+      "definition": null,
+      "alternative_meanings": [
+        "debilitado",
+        "prestes a cair"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizendênde-1 — https://www.kimbundu.org/pt/word/kizendende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6721,
+      "kimbundu_term": "Kizendênde",
+      "portuguese_translation": "Tem-te, não caias",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizendênde-1 — https://www.kimbundu.org/pt/word/kizendende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6722,
+      "kimbundu_term": "Kizendu",
+      "portuguese_translation": "Desequilíbrio",
+      "definition": null,
+      "alternative_meanings": [
+        "desaprumo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizendu-1 — https://www.kimbundu.org/pt/word/kizendu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6723,
+      "kimbundu_term": "Kizéngu",
+      "portuguese_translation": "Hoste",
+      "definition": null,
+      "alternative_meanings": [
+        "exército"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizéngu-1 — https://www.kimbundu.org/pt/word/kizengu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
