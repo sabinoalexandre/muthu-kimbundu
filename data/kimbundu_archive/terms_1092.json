@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11024,
+      "kimbundu_term": "Kunyika",
+      "portuguese_translation": "Choutar",
+      "definition": null,
+      "alternative_meanings": [
+        "ir aos solavancos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyika-1 — https://www.kimbundu.org/pt/word/kunyika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11025,
+      "kimbundu_term": "Kunyika",
+      "portuguese_translation": "Bilouçar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "bambalear-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyika-1 — https://www.kimbundu.org/pt/word/kunyika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11026,
+      "kimbundu_term": "Kunyikisa",
+      "portuguese_translation": "Fazer bilouçar, oscilar, dar balanço a. É também r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyikisa-1 — https://www.kimbundu.org/pt/word/kunyikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11027,
+      "kimbundu_term": "Kunyikita",
+      "portuguese_translation": "Mover com frequência. Agitar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyikita-1 — https://www.kimbundu.org/pt/word/kunyikita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11028,
+      "kimbundu_term": "Kúnyinga",
+      "portuguese_translation": "Enrodilhar. Enroscar",
+      "definition": null,
+      "alternative_meanings": [
+        "torcer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúnyinga-1 — https://www.kimbundu.org/pt/word/kunyinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11029,
+      "kimbundu_term": "Kúnyinga",
+      "portuguese_translation": "Enroscamento",
+      "definition": null,
+      "alternative_meanings": [
+        "enlace"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúnyinga-1 — https://www.kimbundu.org/pt/word/kunyinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11030,
+      "kimbundu_term": "Kunyingina",
+      "portuguese_translation": "Volitar",
+      "definition": null,
+      "alternative_meanings": [
+        "esvoaçar. Voar em volta"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyingina-1 — https://www.kimbundu.org/pt/word/kunyingina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11031,
+      "kimbundu_term": "Kunyingina",
+      "portuguese_translation": "Envolver, torcer por",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyingina-1 — https://www.kimbundu.org/pt/word/kunyingina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11032,
+      "kimbundu_term": "Kunyingina",
+      "portuguese_translation": "Voejar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyingina-1 — https://www.kimbundu.org/pt/word/kunyingina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11033,
+      "kimbundu_term": "Kunyinginina",
+      "portuguese_translation": "Andar a esvoaçar, a volitar (a mosca)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyinginina-1 — https://www.kimbundu.org/pt/word/kunyinginina",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
