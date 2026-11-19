@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6904,
+      "kimbundu_term": "Kuangalala",
+      "portuguese_translation": "Estar transtornado, irado",
+      "definition": null,
+      "alternative_meanings": [
+        "Estar irritado, difícil de suportar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuangalala-1 — https://www.kimbundu.org/pt/word/kuangalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6905,
+      "kimbundu_term": "Kuangalesa",
+      "portuguese_translation": "Fazer desbotar, ofuscar, perder o brilho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuangalesa-1 — https://www.kimbundu.org/pt/word/kuangalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6906,
+      "kimbundu_term": "Kuangalesa",
+      "portuguese_translation": "Tornar pálido, baço",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuangalesa-1 — https://www.kimbundu.org/pt/word/kuangalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6907,
+      "kimbundu_term": "Kuangalesa",
+      "portuguese_translation": "Irar",
+      "definition": null,
+      "alternative_meanings": [
+        "enraivecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuangalesa-1 — https://www.kimbundu.org/pt/word/kuangalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6908,
+      "kimbundu_term": "Kuangelela",
+      "portuguese_translation": "Lançar em rosto os favores concedidos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuangelela-1 — https://www.kimbundu.org/pt/word/kuangelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6909,
+      "kimbundu_term": "Kuangelela",
+      "portuguese_translation": "Objurgar",
+      "definition": null,
+      "alternative_meanings": [
+        "amesquinhar",
+        "humilhar",
+        "deprimir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuangelela-1 — https://www.kimbundu.org/pt/word/kuangelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6910,
+      "kimbundu_term": "Kuangelela",
+      "portuguese_translation": "Kuriangelela, v. r. Lançar-se em rosto os favores recíprocos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuangelela-1 — https://www.kimbundu.org/pt/word/kuangelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6911,
+      "kimbundu_term": "Kuangu",
+      "portuguese_translation": "Grande rio afluente da margem esquerda do rio Zaire, com origem nas terras do Quicco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuangu-1 — https://www.kimbundu.org/pt/word/kuangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6912,
+      "kimbundu_term": "Kuangu",
+      "portuguese_translation": "Pov. e sede da circ. civ. do mesmo nome, distr. do Congo, prov. de Luanda, a 6º 16' de lat. S. e 16º 41' de long. E. Gr.",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuangu-1 — https://www.kimbundu.org/pt/word/kuangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6913,
+      "kimbundu_term": "Kuangu",
+      "portuguese_translation": "Pov. e posto da circ. civ. de Camaxilo, distr. da Lunda, prov. de Malange, 5.738 hab. e est. telegr. postal de 3.ª cl",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuangu-1 — https://www.kimbundu.org/pt/word/kuangu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
