@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3404,
+      "kimbundu_term": "Kalánji",
+      "portuguese_translation": "Confluente da margem direita do rio Lucala, no antigo conc. de Ambaca, circ. civ. de Cazengo, distr. de Quanza-Norte, pr",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalánji-1 — https://www.kimbundu.org/pt/word/kalanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3405,
+      "kimbundu_term": "Kalasá",
+      "portuguese_translation": "Calças (de homem)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalasá-1 — https://www.kimbundu.org/pt/word/kalasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3406,
+      "kimbundu_term": "Kalasá",
+      "portuguese_translation": "Pequena ração",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalasá-1 — https://www.kimbundu.org/pt/word/kalasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3407,
+      "kimbundu_term": "Kalasála",
+      "portuguese_translation": "Calçada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalasála-1 — https://www.kimbundu.org/pt/word/kalasala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3408,
+      "kimbundu_term": "Kale",
+      "portuguese_translation": "Permanecido",
+      "definition": null,
+      "alternative_meanings": [
+        "demorado",
+        "Estado",
+        "Passado",
+        "Vivido"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kale-1 — https://www.kimbundu.org/pt/word/kale",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3409,
+      "kimbundu_term": "Kalekela",
+      "portuguese_translation": "Elevação",
+      "definition": null,
+      "alternative_meanings": [
+        "topo",
+        "O ponto mais elevado de um objeto",
+        "Cimo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalekela-1 — https://www.kimbundu.org/pt/word/kalekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3410,
+      "kimbundu_term": "Kalekela",
+      "portuguese_translation": "Elevação feita de paus onde se põe a mandioca serrada e ensacada para escorrer a água que contém",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalekela-1 — https://www.kimbundu.org/pt/word/kalekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3411,
+      "kimbundu_term": "Kalekela",
+      "portuguese_translation": "Cume",
+      "definition": null,
+      "alternative_meanings": [
+        "alto",
+        "Cima"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalekela-1 — https://www.kimbundu.org/pt/word/kalekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3412,
+      "kimbundu_term": "Kalekeleke",
+      "portuguese_translation": "Píncaro",
+      "definition": null,
+      "alternative_meanings": [
+        "A parte mais alta",
+        "Topo",
+        "Zimbório"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalekeleke-1 — https://www.kimbundu.org/pt/word/kalekeleke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3413,
+      "kimbundu_term": "Kalekelu",
+      "portuguese_translation": "Despedimento",
+      "definition": null,
+      "alternative_meanings": [
+        "Despedida",
+        "Bota-fora"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalekelu-1 — https://www.kimbundu.org/pt/word/kalekelu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
