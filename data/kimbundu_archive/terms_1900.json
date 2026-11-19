@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19104,
+      "kimbundu_term": "Talúla",
+      "portuguese_translation": "Lado da cama que corresponde aos pés",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, talúla-1 — https://www.kimbundu.org/pt/word/talula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19105,
+      "kimbundu_term": "Talúla",
+      "portuguese_translation": "Lado oposto à cabeceira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, talúla-1 — https://www.kimbundu.org/pt/word/talula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19106,
+      "kimbundu_term": "Tambakanya",
+      "portuguese_translation": "Juramento falso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tambakanya-1 — https://www.kimbundu.org/pt/word/tambakanya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19107,
+      "kimbundu_term": "Tambakanya",
+      "portuguese_translation": "Perfídia",
+      "definition": null,
+      "alternative_meanings": [
+        "dolo",
+        "má fé"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tambakanya-1 — https://www.kimbundu.org/pt/word/tambakanya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19108,
+      "kimbundu_term": "Tambakanya",
+      "portuguese_translation": "Diz-se do dizer, comer ou fazer algo tendo jurado não o fazer, comer ou dizer",
+      "definition": null,
+      "alternative_meanings": [
+        "da viúva que não cumpriu os dogmas do ritual, etc"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tambakanya-1 — https://www.kimbundu.org/pt/word/tambakanya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19109,
+      "kimbundu_term": "Tambakanya",
+      "portuguese_translation": "e intr. Faltar ao juramento prestado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tambakanya-1 — https://www.kimbundu.org/pt/word/tambakanya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19110,
+      "kimbundu_term": "Tambakanya",
+      "portuguese_translation": "Falsear",
+      "definition": null,
+      "alternative_meanings": [
+        "caluniar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tambakanya-1 — https://www.kimbundu.org/pt/word/tambakanya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19111,
+      "kimbundu_term": "Tambula",
+      "portuguese_translation": "Tomá!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tambula-1 — https://www.kimbundu.org/pt/word/tambula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19112,
+      "kimbundu_term": "Tambula",
+      "portuguese_translation": "Tomada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tambula-1 — https://www.kimbundu.org/pt/word/tambula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19113,
+      "kimbundu_term": "Tamene",
+      "portuguese_translation": "Tomára! Oxalá! Quem dera!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tamene-1 — https://www.kimbundu.org/pt/word/tamene",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
