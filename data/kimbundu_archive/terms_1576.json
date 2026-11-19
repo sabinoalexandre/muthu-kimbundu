@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15864,
+      "kimbundu_term": "Muánzu",
+      "portuguese_translation": "Fulo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muánzu-1 — https://www.kimbundu.org/pt/word/muanzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15865,
+      "kimbundu_term": "Muase",
+      "portuguese_translation": "Atirador de flechas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muase-1 — https://www.kimbundu.org/pt/word/muase",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15866,
+      "kimbundu_term": "Muase",
+      "portuguese_translation": "Fisgador",
+      "definition": null,
+      "alternative_meanings": [
+        "arpoador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muase-1 — https://www.kimbundu.org/pt/word/muase",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15867,
+      "kimbundu_term": "Muase",
+      "portuguese_translation": "Copejador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muase-1 — https://www.kimbundu.org/pt/word/muase",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15868,
+      "kimbundu_term": "Muata",
+      "portuguese_translation": "El",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "artigo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muata-1 — https://www.kimbundu.org/pt/word/muata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15869,
+      "kimbundu_term": "Muâu",
+      "portuguese_translation": "Chamusco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muâu-1 — https://www.kimbundu.org/pt/word/muau",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15870,
+      "kimbundu_term": "Múauna",
+      "portuguese_translation": "Parte",
+      "definition": null,
+      "alternative_meanings": [
+        "quinhão",
+        "lucro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múauna-1 — https://www.kimbundu.org/pt/word/muauna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15871,
+      "kimbundu_term": "Múauna",
+      "portuguese_translation": "Ganho",
+      "definition": null,
+      "alternative_meanings": [
+        "proveito",
+        "interesse"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múauna-1 — https://www.kimbundu.org/pt/word/muauna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15872,
+      "kimbundu_term": "Muáve",
+      "portuguese_translation": "Árvore da família das leguminosas (erithrophloeum guineense), de madeira rija e casca venenosa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muáve-1 — https://www.kimbundu.org/pt/word/muave",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15873,
+      "kimbundu_term": "Muaxâxa",
+      "portuguese_translation": "Peixe escambrida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muaxâxa-1 — https://www.kimbundu.org/pt/word/muaxaxa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
