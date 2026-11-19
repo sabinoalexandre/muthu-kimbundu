@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6804,
+      "kimbundu_term": "Kokulu",
+      "portuguese_translation": "ukulu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kokulu-1 — https://www.kimbundu.org/pt/word/kokulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6805,
+      "kimbundu_term": "Kole",
+      "portuguese_translation": "Abrev. de rikole",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kole-1 — https://www.kimbundu.org/pt/word/kole",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6806,
+      "kimbundu_term": "Kole",
+      "portuguese_translation": "afluente do rio Lucala, na região de Kalandula, prov. de Malange",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kole-1 — https://www.kimbundu.org/pt/word/kole",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6807,
+      "kimbundu_term": "Kolodá",
+      "portuguese_translation": "Cordão (de ouro)., nzenzêla",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kolodá-1 — https://www.kimbundu.org/pt/word/koloda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6808,
+      "kimbundu_term": "Kolôlo",
+      "portuguese_translation": "Corredor",
+      "definition": null,
+      "alternative_meanings": [
+        "Passagem interior"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kolôlo-1 — https://www.kimbundu.org/pt/word/kololo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6809,
+      "kimbundu_term": "Kolombolo",
+      "portuguese_translation": "Galo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kolombolo-1 — https://www.kimbundu.org/pt/word/kolombolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6810,
+      "kimbundu_term": "Kolongóso",
+      "portuguese_translation": "Planta fam. das anonáceas (xylopia africana), de fruto comestível",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kolongóso-1 — https://www.kimbundu.org/pt/word/kolongoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6811,
+      "kimbundu_term": "Kolotelu",
+      "portuguese_translation": "Sovina",
+      "definition": null,
+      "alternative_meanings": [
+        "fona",
+        "unhas de fome"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kolotelu-1 — https://www.kimbundu.org/pt/word/kolotelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6812,
+      "kimbundu_term": "Kómbe",
+      "portuguese_translation": "Abrev. de rikómbe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kómbe-1 — https://www.kimbundu.org/pt/word/kombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6813,
+      "kimbundu_term": "Kómbe",
+      "portuguese_translation": "Planta medicinal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kómbe-1 — https://www.kimbundu.org/pt/word/kombe",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
