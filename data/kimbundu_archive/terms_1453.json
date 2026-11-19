@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14634,
+      "kimbundu_term": "Mákudia",
+      "portuguese_translation": "Mantimentos",
+      "definition": null,
+      "alternative_meanings": [
+        "géneros alimentícios"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mákudia-1 — https://www.kimbundu.org/pt/word/makudia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14635,
+      "kimbundu_term": "Makúdia",
+      "portuguese_translation": "Proventos",
+      "definition": null,
+      "alternative_meanings": [
+        "emolumentos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makúdia-1 — https://www.kimbundu.org/pt/word/makudia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14636,
+      "kimbundu_term": "Makúdia",
+      "portuguese_translation": "Achegas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makúdia-1 — https://www.kimbundu.org/pt/word/makudia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14637,
+      "kimbundu_term": "Makúdia",
+      "portuguese_translation": "Falcatruas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makúdia-1 — https://www.kimbundu.org/pt/word/makudia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14638,
+      "kimbundu_term": "Makudilu",
+      "portuguese_translation": "Crescimento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makudilu-1 — https://www.kimbundu.org/pt/word/makudilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14639,
+      "kimbundu_term": "Makuinii",
+      "portuguese_translation": "Dezenas",
+      "definition": null,
+      "alternative_meanings": [
+        "tens"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, numeral",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makuinii-1 — https://www.kimbundu.org/pt/word/makuinii",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14640,
+      "kimbundu_term": "Makuiny'a samanu",
+      "portuguese_translation": "Sessenta. Sexagésimo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makuiny'a samanu-1 — https://www.kimbundu.org/pt/word/makuiny'a%20samanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14641,
+      "kimbundu_term": "Makuiny'a-uâna",
+      "portuguese_translation": "Quarenta. Quadragésimo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makuiny'a-uâna-1 — https://www.kimbundu.org/pt/word/makuiny'a-uana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14642,
+      "kimbundu_term": "Mákulu",
+      "portuguese_translation": "Avoengos",
+      "definition": null,
+      "alternative_meanings": [
+        "antepassados. A sombra dos mortos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mákulu-1 — https://www.kimbundu.org/pt/word/makulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14643,
+      "kimbundu_term": "Makúlu",
+      "portuguese_translation": "Proctite",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makúlu-1 — https://www.kimbundu.org/pt/word/makulu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
