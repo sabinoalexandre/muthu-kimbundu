@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9094,
+      "kimbundu_term": "Kujitujuna",
+      "portuguese_translation": "Deslaçar",
+      "definition": null,
+      "alternative_meanings": [
+        "descingir a cada instante"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujitujuna-1 — https://www.kimbundu.org/pt/word/kujitujuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9095,
+      "kimbundu_term": "Kujituka",
+      "portuguese_translation": "Estar solto, desligado, libertado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujituka-1 — https://www.kimbundu.org/pt/word/kujituka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9096,
+      "kimbundu_term": "Kujituka",
+      "portuguese_translation": "Ver-se livre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujituka-1 — https://www.kimbundu.org/pt/word/kujituka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9097,
+      "kimbundu_term": "Kujituna",
+      "portuguese_translation": "Soltar",
+      "definition": null,
+      "alternative_meanings": [
+        "desprender"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujituna-1 — https://www.kimbundu.org/pt/word/kujituna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9098,
+      "kimbundu_term": "Kujituna",
+      "portuguese_translation": "Desembaraçar, pôr em liberdade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujituna-1 — https://www.kimbundu.org/pt/word/kujituna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9099,
+      "kimbundu_term": "Kujituna",
+      "portuguese_translation": "Kurijituna, v. r. Soltar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "desprender-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujituna-1 — https://www.kimbundu.org/pt/word/kujituna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9100,
+      "kimbundu_term": "Kujiulula",
+      "portuguese_translation": "Deslindar. Aclarar, esclarecer dúvidas. Fazer luz sobre. Dissipar maus juízos",
+      "definition": null,
+      "alternative_meanings": [
+        "desfazer razões. sub. Esclarecimento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujiulula-1 — https://www.kimbundu.org/pt/word/kujiulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9101,
+      "kimbundu_term": "Kujiulula",
+      "portuguese_translation": "Kurijulula, v. r. Harmonizar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "concertar-se",
+        "chegar a explicações"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujiulula-1 — https://www.kimbundu.org/pt/word/kujiulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9102,
+      "kimbundu_term": "Kújiza",
+      "portuguese_translation": "Instar",
+      "definition": null,
+      "alternative_meanings": [
+        "porfiar",
+        "teimar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kújiza-1 — https://www.kimbundu.org/pt/word/kujiza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9103,
+      "kimbundu_term": "Kújiza",
+      "portuguese_translation": "Obstinar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "opor resistência",
+        "insistir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kújiza-1 — https://www.kimbundu.org/pt/word/kujiza",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
