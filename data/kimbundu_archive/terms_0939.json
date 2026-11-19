@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9494,
+      "kimbundu_term": "Kukokóla",
+      "portuguese_translation": "O canto, o cantar do galo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukokóla-1 — https://www.kimbundu.org/pt/word/kukokola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9495,
+      "kimbundu_term": "Kukokoloka",
+      "portuguese_translation": "Atrasar",
+      "definition": null,
+      "alternative_meanings": [
+        "demorar",
+        "Haver-se atrasado",
+        "sub. Atraso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukokoloka-1 — https://www.kimbundu.org/pt/word/kukokoloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9496,
+      "kimbundu_term": "Kukokoloxesa",
+      "portuguese_translation": "Fazer demorar, retardar, levar muito tempo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukokoloxesa-1 — https://www.kimbundu.org/pt/word/kukokoloxesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9497,
+      "kimbundu_term": "Kukokota",
+      "portuguese_translation": "Trincar, quebrar (com os dentes um objeto duro)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukokota-1 — https://www.kimbundu.org/pt/word/kukokota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9498,
+      "kimbundu_term": "Kukokota",
+      "portuguese_translation": "Kurikoxota, v. r. Trincar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "morder-se. fig. Arreliar-se",
+        "arrepender-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukokota-1 — https://www.kimbundu.org/pt/word/kukokota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9499,
+      "kimbundu_term": "Kukóla",
+      "portuguese_translation": "Durar",
+      "definition": null,
+      "alternative_meanings": [
+        "Conservar-se: Kurla"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, iterativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukóla-1 — https://www.kimbundu.org/pt/word/kukola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9500,
+      "kimbundu_term": "Kukóla",
+      "portuguese_translation": "Clamar, invocar o auxílio de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, iterativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukóla-1 — https://www.kimbundu.org/pt/word/kukola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9501,
+      "kimbundu_term": "Kukóla",
+      "portuguese_translation": "Estar sólido, seguro, firme",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, iterativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukóla-1 — https://www.kimbundu.org/pt/word/kukola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9502,
+      "kimbundu_term": "Kukóla",
+      "portuguese_translation": "Estar maduro, sazonado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, iterativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukóla-1 — https://www.kimbundu.org/pt/word/kukola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9503,
+      "kimbundu_term": "Kukóla",
+      "portuguese_translation": "Ser avarento, sovina",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, iterativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukóla-1 — https://www.kimbundu.org/pt/word/kukola",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
