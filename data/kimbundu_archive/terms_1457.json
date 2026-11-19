@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14674,
+      "kimbundu_term": "Mála",
+      "portuguese_translation": "Homens",
+      "definition": null,
+      "alternative_meanings": [
+        "varões",
+        "Cavalheiros"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mála-1 — https://www.kimbundu.org/pt/word/mala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14675,
+      "kimbundu_term": "Mála",
+      "portuguese_translation": "Barriga",
+      "definition": null,
+      "alternative_meanings": [
+        "ventre"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mála-2 — https://www.kimbundu.org/pt/word/mala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14676,
+      "kimbundu_term": "Mála",
+      "portuguese_translation": "Nome por que no Seles se conhece a planta medicinal kikalangu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mála-2 — https://www.kimbundu.org/pt/word/mala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14677,
+      "kimbundu_term": "Maladolo",
+      "portuguese_translation": "Morador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maladolo-1 — https://www.kimbundu.org/pt/word/maladolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14678,
+      "kimbundu_term": "Malámba",
+      "portuguese_translation": "Tritulações",
+      "definition": null,
+      "alternative_meanings": [
+        "agonias",
+        "Humilhações",
+        "desgraças"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, malámba-1 — https://www.kimbundu.org/pt/word/malamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14679,
+      "kimbundu_term": "Malámba",
+      "portuguese_translation": "Dores",
+      "definition": null,
+      "alternative_meanings": [
+        "sofrimentos",
+        "Indoenças"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, malámba-1 — https://www.kimbundu.org/pt/word/malamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14680,
+      "kimbundu_term": "Malambula",
+      "portuguese_translation": "Certa qualidade de sardinha",
+      "definition": null,
+      "alternative_meanings": [
+        "O seu conjunto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, malambula-1 — https://www.kimbundu.org/pt/word/malambula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14681,
+      "kimbundu_term": "Malánga",
+      "portuguese_translation": "Escroto",
+      "definition": null,
+      "alternative_meanings": [
+        "Belfas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, malánga-1 — https://www.kimbundu.org/pt/word/malanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14682,
+      "kimbundu_term": "Malangonzo",
+      "portuguese_translation": "que traduz surpresa, desespero: ch! homens de Deus!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, malangonzo-1 — https://www.kimbundu.org/pt/word/malangonzo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14683,
+      "kimbundu_term": "Malangonzo",
+      "portuguese_translation": "Credo! Caramba!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, malangonzo-1 — https://www.kimbundu.org/pt/word/malangonzo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
