@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12214,
+      "kimbundu_term": "Kutekama",
+      "portuguese_translation": "Tinto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutekama-1 — https://www.kimbundu.org/pt/word/kutekama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12215,
+      "kimbundu_term": "Kutekamesa",
+      "portuguese_translation": "Fazer pintar, tingir (de preto)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutekamesa-1 — https://www.kimbundu.org/pt/word/kutekamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12216,
+      "kimbundu_term": "Kutekamesa",
+      "portuguese_translation": "Tornar tinto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutekamesa-1 — https://www.kimbundu.org/pt/word/kutekamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12217,
+      "kimbundu_term": "Kutekeja",
+      "portuguese_translation": "Imitar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer imagens"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutekeja-1 — https://www.kimbundu.org/pt/word/kutekeja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12218,
+      "kimbundu_term": "Kutekela",
+      "portuguese_translation": "Regar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutekela-1 — https://www.kimbundu.org/pt/word/kutekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12219,
+      "kimbundu_term": "Kutekela",
+      "portuguese_translation": "Deitar água por cima de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutekela-1 — https://www.kimbundu.org/pt/word/kutekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12220,
+      "kimbundu_term": "Kutekela",
+      "portuguese_translation": "Prestar atenção",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar-se atento (para ouvir)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutekela-1 — https://www.kimbundu.org/pt/word/kutekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12221,
+      "kimbundu_term": "Kutekela",
+      "portuguese_translation": "Rega",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutekela-1 — https://www.kimbundu.org/pt/word/kutekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12222,
+      "kimbundu_term": "Kutekésa",
+      "portuguese_translation": "Fazer tingir, dar cor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutekésa-1 — https://www.kimbundu.org/pt/word/kutekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12223,
+      "kimbundu_term": "Kutekésa",
+      "portuguese_translation": "Fazer avivar, colorir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutekésa-1 — https://www.kimbundu.org/pt/word/kutekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
