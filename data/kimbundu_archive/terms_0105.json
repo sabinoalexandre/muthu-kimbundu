@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1154,
+      "kimbundu_term": "Dimatekenu",
+      "portuguese_translation": "O princípio",
+      "definition": null,
+      "alternative_meanings": [
+        "as primeiras épocas. Cousa principal",
+        "origem. Prefácio",
+        "exórdio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dimatekenu-1 — https://www.kimbundu.org/pt/word/dimatekenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1155,
+      "kimbundu_term": "Dímba",
+      "portuguese_translation": "Função",
+      "definition": null,
+      "alternative_meanings": [
+        "sarilho. Instrumento músico",
+        "o seu som fig. Confusão",
+        "sarafusca",
+        "desordem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dímba-1 — https://www.kimbundu.org/pt/word/dimba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1156,
+      "kimbundu_term": "Dimbamba",
+      "portuguese_translation": "Infortúnio",
+      "definition": null,
+      "alternative_meanings": [
+        "desventura. Mau sucesso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dimbamba-1 — https://www.kimbundu.org/pt/word/dimbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1157,
+      "kimbundu_term": "Dímbi",
+      "portuguese_translation": "Francelho",
+      "definition": null,
+      "alternative_meanings": [
+        "ave de rapina"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dímbi-1 — https://www.kimbundu.org/pt/word/dimbi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1158,
+      "kimbundu_term": "Dimbinza",
+      "portuguese_translation": "[IV] O vácuo",
+      "definition": null,
+      "alternative_meanings": [
+        "o nada. O espaço (entre os corpos celestes)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dimbinza-1 — https://www.kimbundu.org/pt/word/dimbinza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1159,
+      "kimbundu_term": "Dimbinza",
+      "portuguese_translation": "No ar",
+      "definition": null,
+      "alternative_meanings": [
+        "no infinito"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dimbinza-1 — https://www.kimbundu.org/pt/word/dimbinza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1160,
+      "kimbundu_term": "Dimbondo",
+      "portuguese_translation": "Vespa",
+      "definition": null,
+      "alternative_meanings": [
+        "zângão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dimbondo-1 — https://www.kimbundu.org/pt/word/dimbondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1161,
+      "kimbundu_term": "Dímbu",
+      "portuguese_translation": "[IV] Abcesso",
+      "definition": null,
+      "alternative_meanings": [
+        "nascida",
+        "tumor"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dímbu-1 — https://www.kimbundu.org/pt/word/dimbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1162,
+      "kimbundu_term": "Dímbu",
+      "portuguese_translation": "adj. Que está ou anda envolvido na lama. Sujo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dímbu-1 — https://www.kimbundu.org/pt/word/dimbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1163,
+      "kimbundu_term": "Dímbuí",
+      "portuguese_translation": "Planta passiflorea (adenia lobata), medicinal e alimentícia. Sua flor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dímbuí-1 — https://www.kimbundu.org/pt/word/dimbui",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
