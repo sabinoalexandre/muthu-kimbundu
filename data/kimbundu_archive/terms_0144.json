@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1544,
+      "kimbundu_term": "Dizuku",
+      "portuguese_translation": "Buraco nas rochas ou troncos das árvores",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dizuku-1 — https://www.kimbundu.org/pt/word/dizuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1545,
+      "kimbundu_term": "Dizula",
+      "portuguese_translation": "Diz-se do pano ou vestido que arrasta aos pés. O mesmo que rindonga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dizula-1 — https://www.kimbundu.org/pt/word/dizula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1546,
+      "kimbundu_term": "Dízúlu",
+      "portuguese_translation": "Tubo",
+      "definition": null,
+      "alternative_meanings": [
+        "cano das armas de fogo",
+        "Canudo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dízúlu-1 — https://www.kimbundu.org/pt/word/dizulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1547,
+      "kimbundu_term": "Dizúmba",
+      "portuguese_translation": "Cheiro",
+      "definition": null,
+      "alternative_meanings": [
+        "aroma",
+        "Faro. Fedor",
+        "fig. Reputação",
+        "Fama"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dizúmba-1 — https://www.kimbundu.org/pt/word/dizumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1548,
+      "kimbundu_term": "Dizúmba",
+      "portuguese_translation": "adj. Que tem cheiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dizúmba-1 — https://www.kimbundu.org/pt/word/dizumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1549,
+      "kimbundu_term": "Dizúmbila",
+      "portuguese_translation": "Vulto",
+      "definition": null,
+      "alternative_meanings": [
+        "sombra"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dizúmbila-1 — https://www.kimbundu.org/pt/word/dizumbila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1550,
+      "kimbundu_term": "Dizundu",
+      "portuguese_translation": "Rã",
+      "definition": null,
+      "alternative_meanings": [
+        "sapo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dizundu-1 — https://www.kimbundu.org/pt/word/dizundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1551,
+      "kimbundu_term": "Dizungu",
+      "portuguese_translation": "Buraco",
+      "definition": null,
+      "alternative_meanings": [
+        "Furo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dizungu-1 — https://www.kimbundu.org/pt/word/dizungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1552,
+      "kimbundu_term": "Dizunu",
+      "portuguese_translation": "Nariz",
+      "definition": null,
+      "alternative_meanings": [
+        "venta"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dizunu-1 — https://www.kimbundu.org/pt/word/dizunu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1553,
+      "kimbundu_term": "Dizunu",
+      "portuguese_translation": "início, princípio de um negócio",
+      "definition": null,
+      "alternative_meanings": [
+        "Capital inicial, de entrada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dizunu-1 — https://www.kimbundu.org/pt/word/dizunu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
