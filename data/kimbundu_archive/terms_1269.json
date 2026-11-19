@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12794,
+      "kimbundu_term": "Kútununa",
+      "portuguese_translation": "Desfolhar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer cair"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútununa-1 — https://www.kimbundu.org/pt/word/kutununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12795,
+      "kimbundu_term": "Kútununa",
+      "portuguese_translation": "Tirar",
+      "definition": null,
+      "alternative_meanings": [
+        "colher (frutos) da haste"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútununa-1 — https://www.kimbundu.org/pt/word/kutununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12796,
+      "kimbundu_term": "Kutupila",
+      "portuguese_translation": "Fartar",
+      "definition": null,
+      "alternative_meanings": [
+        "empanturrar",
+        "encher em demasia"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutupila-1 — https://www.kimbundu.org/pt/word/kutupila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12797,
+      "kimbundu_term": "Kutupila",
+      "portuguese_translation": "Ingurgitamento",
+      "definition": null,
+      "alternative_meanings": [
+        "empacho"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutupila-1 — https://www.kimbundu.org/pt/word/kutupila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12798,
+      "kimbundu_term": "Kutupila",
+      "portuguese_translation": "Kuritupila, e r. Entupir-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutupila-1 — https://www.kimbundu.org/pt/word/kutupila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12799,
+      "kimbundu_term": "Kutúta",
+      "portuguese_translation": "Tocar, alcançar, atingir: ng'atuta bulu ni mulembu",
+      "definition": null,
+      "alternative_meanings": [
+        "Pôr-se em contacto",
+        "chegar a",
+        "Firmar-se no fundo de, ganhar pé"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutúta-1 — https://www.kimbundu.org/pt/word/kututa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12800,
+      "kimbundu_term": "Kutúta",
+      "portuguese_translation": "Esmiuçar",
+      "definition": null,
+      "alternative_meanings": [
+        "triturar raízes para lhes extrair o suco",
+        "Pilar",
+        "Apertar",
+        "calcar",
+        "tornar compacto",
+        "Abarrotar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutúta-1 — https://www.kimbundu.org/pt/word/kututa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12801,
+      "kimbundu_term": "Kutúta",
+      "portuguese_translation": "Kurituta, e r. Sofrer embate. Fartar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "encher-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutúta-1 — https://www.kimbundu.org/pt/word/kututa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12802,
+      "kimbundu_term": "Kútuta",
+      "portuguese_translation": "Mudar de casa ou de lugar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútuta-1 — https://www.kimbundu.org/pt/word/kututa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12803,
+      "kimbundu_term": "Kútuta",
+      "portuguese_translation": "Inchar (por putrefação)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútuta-1 — https://www.kimbundu.org/pt/word/kututa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
