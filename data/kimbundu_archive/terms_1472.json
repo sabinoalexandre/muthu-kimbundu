@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14824,
+      "kimbundu_term": "Mápapi",
+      "portuguese_translation": "Malhas",
+      "definition": null,
+      "alternative_meanings": [
+        "pintas",
+        "salpicos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mápapi-1 — https://www.kimbundu.org/pt/word/mapapi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14825,
+      "kimbundu_term": "Mápapi",
+      "portuguese_translation": "adj. Sarapintado",
+      "definition": null,
+      "alternative_meanings": [
+        "manchado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mápapi-1 — https://www.kimbundu.org/pt/word/mapapi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14826,
+      "kimbundu_term": "Mapudipudi",
+      "portuguese_translation": "Planta trepadeira de fruto comestível",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mapudipudi-1 — https://www.kimbundu.org/pt/word/mapudipudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14827,
+      "kimbundu_term": "Mása",
+      "portuguese_translation": "Género de plantas fam. das gramíneas que dão o trigo, o painço, o sorgo, etc",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mása-1 — https://www.kimbundu.org/pt/word/masa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14828,
+      "kimbundu_term": "Mása",
+      "portuguese_translation": "Maçarocas",
+      "definition": null,
+      "alternative_meanings": [
+        "milho (zea maïs)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mása-1 — https://www.kimbundu.org/pt/word/masa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14829,
+      "kimbundu_term": "Mása",
+      "portuguese_translation": "milho branco, grosso, vulgar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mása-1 — https://www.kimbundu.org/pt/word/masa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14830,
+      "kimbundu_term": "Mása",
+      "portuguese_translation": "milhete, sorgo, trigo",
+      "definition": null,
+      "alternative_meanings": [
+        "milho miúdo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mása-1 — https://www.kimbundu.org/pt/word/masa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14831,
+      "kimbundu_term": "Mása",
+      "portuguese_translation": "alpiste, massango, (pennisetum typhoideum)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mása-1 — https://www.kimbundu.org/pt/word/masa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14832,
+      "kimbundu_term": "Mása",
+      "portuguese_translation": "Milheiral",
+      "definition": null,
+      "alternative_meanings": [
+        "seara"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mása-1 — https://www.kimbundu.org/pt/word/masa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14833,
+      "kimbundu_term": "Mása",
+      "portuguese_translation": "Triquina",
+      "definition": null,
+      "alternative_meanings": [
+        "triquinose"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mása-1 — https://www.kimbundu.org/pt/word/masa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
