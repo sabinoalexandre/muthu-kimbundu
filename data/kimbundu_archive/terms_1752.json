@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17624,
+      "kimbundu_term": "Myongo",
+      "portuguese_translation": "Cintura",
+      "definition": null,
+      "alternative_meanings": [
+        "cruzes",
+        "rins"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, myongo-1 — https://www.kimbundu.org/pt/word/myongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17625,
+      "kimbundu_term": "Myongo",
+      "portuguese_translation": "Lombago",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, myongo-1 — https://www.kimbundu.org/pt/word/myongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17626,
+      "kimbundu_term": "N'é ne",
+      "portuguese_translation": "Comigo",
+      "definition": null,
+      "alternative_meanings": [
+        "em minha companhia"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, n'é ne-1 — https://www.kimbundu.org/pt/word/n'e%20ne",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17627,
+      "kimbundu_term": "N'énu",
+      "portuguese_translation": "Convosco",
+      "definition": null,
+      "alternative_meanings": [
+        "de vossa vontade"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, n'énu-1 — https://www.kimbundu.org/pt/word/n'enu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17628,
+      "kimbundu_term": "N'étu",
+      "portuguese_translation": "Connosco",
+      "definition": null,
+      "alternative_meanings": [
+        "de nossa conta"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, n'étu-1 — https://www.kimbundu.org/pt/word/n'etu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17629,
+      "kimbundu_term": "N'eye",
+      "portuguese_translation": "Contigo",
+      "definition": null,
+      "alternative_meanings": [
+        "Em tua companhia",
+        "dependente da tua vontade"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, n'eye-1 — https://www.kimbundu.org/pt/word/n'eye",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17630,
+      "kimbundu_term": "Ná",
+      "portuguese_translation": "Abreviatura de ngana (senhor)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ná-1 — https://www.kimbundu.org/pt/word/na",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17631,
+      "kimbundu_term": "Ná",
+      "portuguese_translation": "Contração da prep. mi e adj. pess. pl. êne. Com eles",
+      "definition": null,
+      "alternative_meanings": [
+        "Em companhia de quem se fala"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ná-1 — https://www.kimbundu.org/pt/word/na",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17632,
+      "kimbundu_term": "Naju",
+      "portuguese_translation": "A eles",
+      "definition": null,
+      "alternative_meanings": [
+        "lh'os",
+        "lh'as"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, naju-1 — https://www.kimbundu.org/pt/word/naju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17633,
+      "kimbundu_term": "Naju",
+      "portuguese_translation": "Com clas",
+      "definition": null,
+      "alternative_meanings": [
+        "contigo"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, naju-1 — https://www.kimbundu.org/pt/word/naju",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
