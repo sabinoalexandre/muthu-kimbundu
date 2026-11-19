@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13234,
+      "kimbundu_term": "Kuxikula",
+      "portuguese_translation": "Ter soluços",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikula-1 — https://www.kimbundu.org/pt/word/kuxikula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13235,
+      "kimbundu_term": "Kuxikuna",
+      "portuguese_translation": "Desengasgar",
+      "definition": null,
+      "alternative_meanings": [
+        "desimpedir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikuna-1 — https://www.kimbundu.org/pt/word/kuxikuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13236,
+      "kimbundu_term": "Kuxíla",
+      "portuguese_translation": "Estar ou ficar sujo. Ter falta de limpeza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxíla-1 — https://www.kimbundu.org/pt/word/kuxila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13237,
+      "kimbundu_term": "Kuxíla",
+      "portuguese_translation": "Sujidade",
+      "definition": null,
+      "alternative_meanings": [
+        "imundície"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxíla-1 — https://www.kimbundu.org/pt/word/kuxila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13238,
+      "kimbundu_term": "Kúxila",
+      "portuguese_translation": "Respeitar",
+      "definition": null,
+      "alternative_meanings": [
+        "evitar. Não molestar",
+        "tratar com indulgência"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxila-1 — https://www.kimbundu.org/pt/word/kuxila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13239,
+      "kimbundu_term": "Kúxila",
+      "portuguese_translation": "Ser sóbrio, comedido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxila-1 — https://www.kimbundu.org/pt/word/kuxila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13240,
+      "kimbundu_term": "Kúxila",
+      "portuguese_translation": "Mergulhar (para apanhar o caurim)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxila-1 — https://www.kimbundu.org/pt/word/kuxila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13241,
+      "kimbundu_term": "Kuxilúka",
+      "portuguese_translation": "Diz-se dos surdos que recuperam o sentido da audição",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxilúka-1 — https://www.kimbundu.org/pt/word/kuxiluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13242,
+      "kimbundu_term": "Kuxilula",
+      "portuguese_translation": "Fazer ouvir (quem por doença não ouvia)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxilula-1 — https://www.kimbundu.org/pt/word/kuxilula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13243,
+      "kimbundu_term": "Kuxilula",
+      "portuguese_translation": "Fazer sentir (o surdo) pelo ouvido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxilula-1 — https://www.kimbundu.org/pt/word/kuxilula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
