@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5344,
+      "kimbundu_term": "Kikwambi",
+      "portuguese_translation": "Rapace",
+      "definition": null,
+      "alternative_meanings": [
+        "Apresador"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikwambi-1 — https://www.kimbundu.org/pt/word/kikwambi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5345,
+      "kimbundu_term": "Kikya",
+      "portuguese_translation": "Nunca",
+      "definition": null,
+      "alternative_meanings": [
+        "vez nenhuma",
+        "Jamais"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikya-1 — https://www.kimbundu.org/pt/word/kikya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5346,
+      "kimbundu_term": "Kila",
+      "portuguese_translation": "Paralisia",
+      "definition": null,
+      "alternative_meanings": [
+        "Privação completa ou diminuição considerável da sensibilidade ou do movimento voluntário"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kila-1 — https://www.kimbundu.org/pt/word/kila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5347,
+      "kimbundu_term": "Kila",
+      "portuguese_translation": "Entorpecimento",
+      "definition": null,
+      "alternative_meanings": [
+        "marasmo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kila-1 — https://www.kimbundu.org/pt/word/kila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5348,
+      "kimbundu_term": "Kila",
+      "portuguese_translation": "adj. Paralítico",
+      "definition": null,
+      "alternative_meanings": [
+        "que tem ou padece de paralisia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kila-1 — https://www.kimbundu.org/pt/word/kila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5349,
+      "kimbundu_term": "Kilabanga",
+      "portuguese_translation": "de tabanga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilabanga-1 — https://www.kimbundu.org/pt/word/kilabanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5350,
+      "kimbundu_term": "Kilakasa",
+      "portuguese_translation": "Tapona",
+      "definition": null,
+      "alternative_meanings": [
+        "pancada",
+        "sova"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilakasa-1 — https://www.kimbundu.org/pt/word/kilakasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5351,
+      "kimbundu_term": "Kilakuma",
+      "portuguese_translation": "Uma das muitas variedades de bananeiras e seus frutos (musa ventricosa), fam. das plantas zitamináceas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilakuma-1 — https://www.kimbundu.org/pt/word/kilakuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5352,
+      "kimbundu_term": "Kilála",
+      "portuguese_translation": "Casebre que os caçadores constroem na mata para repousar",
+      "definition": null,
+      "alternative_meanings": [
+        "Sombra"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilála-1 — https://www.kimbundu.org/pt/word/kilala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5353,
+      "kimbundu_term": "Kilála",
+      "portuguese_translation": "Planta musácea",
+      "definition": null,
+      "alternative_meanings": [
+        "Bananeira do mato"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilála-1 — https://www.kimbundu.org/pt/word/kilala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
