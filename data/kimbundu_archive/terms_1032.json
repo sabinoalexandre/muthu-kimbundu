@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10424,
+      "kimbundu_term": "Kululúla",
+      "portuguese_translation": "Kurilulula, e r. Fazer as pazes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kululúla-1 — https://www.kimbundu.org/pt/word/kululula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10425,
+      "kimbundu_term": "Kululúla",
+      "portuguese_translation": "Congraçar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "reatar as relações interrompidas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kululúla-1 — https://www.kimbundu.org/pt/word/kululula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10426,
+      "kimbundu_term": "Kululuta",
+      "portuguese_translation": "Deambular",
+      "definition": null,
+      "alternative_meanings": [
+        "vaguear",
+        "caminhar sem destino"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kululuta-1 — https://www.kimbundu.org/pt/word/kululuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10427,
+      "kimbundu_term": "Kululuta",
+      "portuguese_translation": "Deambulação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kululuta-1 — https://www.kimbundu.org/pt/word/kululuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10428,
+      "kimbundu_term": "Kululutisa",
+      "portuguese_translation": "Fazer deambular, vaguear, andar sem rumo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kululutisa-1 — https://www.kimbundu.org/pt/word/kululutisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10429,
+      "kimbundu_term": "Kulúma",
+      "portuguese_translation": "Castiçar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulúma-1 — https://www.kimbundu.org/pt/word/kuluma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10430,
+      "kimbundu_term": "Kulúma",
+      "portuguese_translation": "Ressoar",
+      "definition": null,
+      "alternative_meanings": [
+        "repetir (o som) uma e mais vezes (diminuindo progressivamente de intensidade)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulúma-1 — https://www.kimbundu.org/pt/word/kuluma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10431,
+      "kimbundu_term": "Kulúma",
+      "portuguese_translation": "Trovejar",
+      "definition": null,
+      "alternative_meanings": [
+        "refletir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulúma-1 — https://www.kimbundu.org/pt/word/kuluma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10432,
+      "kimbundu_term": "Kulúma",
+      "portuguese_translation": "Ressoado",
+      "definition": null,
+      "alternative_meanings": [
+        "ruído"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulúma-1 — https://www.kimbundu.org/pt/word/kuluma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10433,
+      "kimbundu_term": "Kulúma",
+      "portuguese_translation": "Fragor",
+      "definition": null,
+      "alternative_meanings": [
+        "rumor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulúma-1 — https://www.kimbundu.org/pt/word/kuluma",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
