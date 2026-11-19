@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8144,
+      "kimbundu_term": "Kudielela",
+      "portuguese_translation": "Ter esperança, fé",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudielela-1 — https://www.kimbundu.org/pt/word/kudielela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8145,
+      "kimbundu_term": "Kudielela",
+      "portuguese_translation": "Esperançar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "acreditar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudielela-1 — https://www.kimbundu.org/pt/word/kudielela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8146,
+      "kimbundu_term": "Kudielela",
+      "portuguese_translation": "Entregar-se cheio de confiança",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudielela-1 — https://www.kimbundu.org/pt/word/kudielela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8147,
+      "kimbundu_term": "Kudielelesa",
+      "portuguese_translation": "Fazer-se esperançar, acreditar em",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudielelesa-1 — https://www.kimbundu.org/pt/word/kudielelesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8148,
+      "kimbundu_term": "Kudielelesa",
+      "portuguese_translation": "Iludir-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudielelesa-1 — https://www.kimbundu.org/pt/word/kudielelesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8149,
+      "kimbundu_term": "Kudiengukisa",
+      "portuguese_translation": "Fazer desvairar, enlouquecer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudiengukisa-1 — https://www.kimbundu.org/pt/word/kudiengukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8150,
+      "kimbundu_term": "Kudiengukisa",
+      "portuguese_translation": "Embriagar (com palavras): tornar tonto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudiengukisa-1 — https://www.kimbundu.org/pt/word/kudiengukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8151,
+      "kimbundu_term": "Kudifelesela",
+      "portuguese_translation": "Oferecer-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudifelesela-1 — https://www.kimbundu.org/pt/word/kudifelesela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8152,
+      "kimbundu_term": "Kudifetala",
+      "portuguese_translation": "Enfeitar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudifetala-1 — https://www.kimbundu.org/pt/word/kudifetala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8153,
+      "kimbundu_term": "Kudifiata",
+      "portuguese_translation": "Fiar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "ter confiança em si próprio",
+        "apoiar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudifiata-1 — https://www.kimbundu.org/pt/word/kudifiata",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
