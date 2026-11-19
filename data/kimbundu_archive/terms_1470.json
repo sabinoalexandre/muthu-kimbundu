@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14804,
+      "kimbundu_term": "Mányi",
+      "portuguese_translation": "Mãe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mányi-1 — https://www.kimbundu.org/pt/word/manyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14805,
+      "kimbundu_term": "Mânyi",
+      "portuguese_translation": "interrog. pl. Quais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mânyi-1 — https://www.kimbundu.org/pt/word/manyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14806,
+      "kimbundu_term": "Mânyi",
+      "portuguese_translation": "Que?",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mânyi-1 — https://www.kimbundu.org/pt/word/manyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14807,
+      "kimbundu_term": "Manyí",
+      "portuguese_translation": "Então",
+      "definition": null,
+      "alternative_meanings": [
+        "pois",
+        "acaso",
+        "porventura"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, manyí-1 — https://www.kimbundu.org/pt/word/manyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14808,
+      "kimbundu_term": "Manyí",
+      "portuguese_translation": "Nê se caso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, manyí-1 — https://www.kimbundu.org/pt/word/manyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14809,
+      "kimbundu_term": "Manyí",
+      "portuguese_translation": "Não sei",
+      "definition": null,
+      "alternative_meanings": [
+        "não se sabe"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, manyí-2 — https://www.kimbundu.org/pt/word/manyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14810,
+      "kimbundu_term": "Manyí",
+      "portuguese_translation": "Ignoro",
+      "definition": null,
+      "alternative_meanings": [
+        "não quero saber"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, manyí-2 — https://www.kimbundu.org/pt/word/manyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14811,
+      "kimbundu_term": "Manyí",
+      "portuguese_translation": "Faze o que entenderes",
+      "definition": null,
+      "alternative_meanings": [
+        "não me interessa"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, manyí-2 — https://www.kimbundu.org/pt/word/manyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14812,
+      "kimbundu_term": "Manyinga",
+      "portuguese_translation": "Sangue",
+      "definition": null,
+      "alternative_meanings": [
+        "líquido sanguíneo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, manyinga-1 — https://www.kimbundu.org/pt/word/manyinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14813,
+      "kimbundu_term": "Manyungu",
+      "portuguese_translation": "Conjunto de abóboras",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, manyungu-1 — https://www.kimbundu.org/pt/word/manyungu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
