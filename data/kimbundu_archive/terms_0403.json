@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4134,
+      "kimbundu_term": "Kásutu",
+      "portuguese_translation": "Chíbato",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kásutu-1 — https://www.kimbundu.org/pt/word/kasutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4135,
+      "kimbundu_term": "Kasuuáda",
+      "portuguese_translation": "Caçoada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasuuáda-1 — https://www.kimbundu.org/pt/word/kasuuada",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4136,
+      "kimbundu_term": "Kasuuénde",
+      "portuguese_translation": "Sécio",
+      "definition": null,
+      "alternative_meanings": [
+        "casquilho",
+        "janota"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasuuénde-1 — https://www.kimbundu.org/pt/word/kasuuende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4137,
+      "kimbundu_term": "Katábela",
+      "portuguese_translation": "Coreia",
+      "definition": null,
+      "alternative_meanings": [
+        "doença convulsiva"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, katábela-1 — https://www.kimbundu.org/pt/word/katabela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4138,
+      "kimbundu_term": "Katábela",
+      "portuguese_translation": "Loucura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, katábela-1 — https://www.kimbundu.org/pt/word/katabela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4139,
+      "kimbundu_term": "Katabola",
+      "portuguese_translation": "Pov. e sede de posto civ. de \"Nova Sintra\", conc., distr. e prov. do Bié, 33.080 hab. Junta local, est. rádio-telégr.-po",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, katabola-1 — https://www.kimbundu.org/pt/word/katabola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4140,
+      "kimbundu_term": "Katadi",
+      "portuguese_translation": "Cão ordinário (nas Ganguelas)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, katadi-1 — https://www.kimbundu.org/pt/word/katadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4141,
+      "kimbundu_term": "Katadi",
+      "portuguese_translation": "Planta fam. das ebenáceas. V. mualala",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, katadi-1 — https://www.kimbundu.org/pt/word/katadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4142,
+      "kimbundu_term": "Katadi",
+      "portuguese_translation": "Planta apocinaceae fam. das hipogíneas (diplorhynchos psilopus), que destila um suco leitoso",
+      "definition": null,
+      "alternative_meanings": [
+        "Planta trepadeira com látex borrachífero"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, katadi-1 — https://www.kimbundu.org/pt/word/katadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4143,
+      "kimbundu_term": "Katadi",
+      "portuguese_translation": "hist. Coluna de pedra junto à qual se expunham e castigavam os criminosos",
+      "definition": null,
+      "alternative_meanings": [
+        "Pelourinho, lugar de suplício",
+        "Antigo bairro, hoje Largo do Pelourinho, da cidade de Luanda"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, katadi-1 — https://www.kimbundu.org/pt/word/katadi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
