@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18504,
+      "kimbundu_term": "Nzombo",
+      "portuguese_translation": "Pequeno rio afluente do Luanda na região de Kirima, distr. da Lunda, prov. de Malanje",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzombo-1 — https://www.kimbundu.org/pt/word/nzombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18505,
+      "kimbundu_term": "Nzombo",
+      "portuguese_translation": "Povoação e sede da circunscrição civil deste nome, distrito do Congo, província de Luanda, a 6º 3' de lat. S. e 15º 12'",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzombo-1 — https://www.kimbundu.org/pt/word/nzombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18506,
+      "kimbundu_term": "Nzôndo",
+      "portuguese_translation": "Desfiladeiro",
+      "definition": null,
+      "alternative_meanings": [
+        "vale"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzôndo-1 — https://www.kimbundu.org/pt/word/nzondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18507,
+      "kimbundu_term": "Nzôndo",
+      "portuguese_translation": "adj. Profundo",
+      "definition": null,
+      "alternative_meanings": [
+        "cavado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzôndo-1 — https://www.kimbundu.org/pt/word/nzondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18508,
+      "kimbundu_term": "Nzóngo",
+      "portuguese_translation": "Etapa. Distância",
+      "definition": null,
+      "alternative_meanings": [
+        "itinerário",
+        "marcha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzóngo-1 — https://www.kimbundu.org/pt/word/nzongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18509,
+      "kimbundu_term": "Nzonji",
+      "portuguese_translation": "Espião",
+      "definition": null,
+      "alternative_meanings": [
+        "esculca"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzonji-1 — https://www.kimbundu.org/pt/word/nzonji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18510,
+      "kimbundu_term": "Nzonzo",
+      "portuguese_translation": "Planta têxtil fam. das malváceas, (malva silvestris) utilizada (o liber) em cordoalha. É tb. medicinal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzonzo-1 — https://www.kimbundu.org/pt/word/nzonzo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18511,
+      "kimbundu_term": "Nzóue",
+      "portuguese_translation": "Mergulhão. Ave aquática que se alimenta de peixe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzóue-1 — https://www.kimbundu.org/pt/word/nzoue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18512,
+      "kimbundu_term": "Nzuanginza",
+      "portuguese_translation": "João Ninguém. Homem sem importância",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzuanginza-1 — https://www.kimbundu.org/pt/word/nzuanginza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18513,
+      "kimbundu_term": "Nzuanzua",
+      "portuguese_translation": "Diz-se da árvore coberta de erva",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzuanzua-1 — https://www.kimbundu.org/pt/word/nzuanzua",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
