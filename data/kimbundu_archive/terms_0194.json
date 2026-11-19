@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2044,
+      "kimbundu_term": "Ifika",
+      "portuguese_translation": "Narração alegórica que envolve algum preceito moral",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ifika-1 — https://www.kimbundu.org/pt/word/ifika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2045,
+      "kimbundu_term": "Ifika",
+      "portuguese_translation": "Parábolas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ifika-1 — https://www.kimbundu.org/pt/word/ifika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2046,
+      "kimbundu_term": "Ifikila",
+      "portuguese_translation": "Conjeturas desfavoráveis acerca da probidade de alguém",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ifikila-1 — https://www.kimbundu.org/pt/word/ifikila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2047,
+      "kimbundu_term": "Ifikila",
+      "portuguese_translation": "Suspeitas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ifikila-1 — https://www.kimbundu.org/pt/word/ifikila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2048,
+      "kimbundu_term": "Íhi",
+      "portuguese_translation": "interrg",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, interrg.",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, íhi-1 — https://www.kimbundu.org/pt/word/ihi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2049,
+      "kimbundu_term": "Ihuba",
+      "portuguese_translation": "Carraças grandes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ihuba-1 — https://www.kimbundu.org/pt/word/ihuba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2050,
+      "kimbundu_term": "Ihuba",
+      "portuguese_translation": "Carrapatas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ihuba-1 — https://www.kimbundu.org/pt/word/ihuba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2051,
+      "kimbundu_term": "Ija",
+      "portuguese_translation": "(III) Defeitos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ija-1 — https://www.kimbundu.org/pt/word/ija",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2052,
+      "kimbundu_term": "Ijakasa",
+      "portuguese_translation": "Folhame",
+      "definition": null,
+      "alternative_meanings": [
+        "Folhas secas de árvore",
+        "Pétalas",
+        "Folhêlhos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ijakasa-1 — https://www.kimbundu.org/pt/word/ijakasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2053,
+      "kimbundu_term": "Ijata",
+      "portuguese_translation": "Folhas tenras de feijoeiro para guisar com carne ou peixe",
+      "definition": null,
+      "alternative_meanings": [
+        "O guisado destas folhas",
+        "Salada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ijata-1 — https://www.kimbundu.org/pt/word/ijata",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
