@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1294,
+      "kimbundu_term": "Ditadi",
+      "portuguese_translation": "Apodo",
+      "definition": null,
+      "alternative_meanings": [
+        "ultraje",
+        "ofensa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ditadi-1 — https://www.kimbundu.org/pt/word/ditadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1295,
+      "kimbundu_term": "Ditadi",
+      "portuguese_translation": "marco divisório",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ditadi-1 — https://www.kimbundu.org/pt/word/ditadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1296,
+      "kimbundu_term": "Ditaka",
+      "portuguese_translation": "Monte de terra onde se espeta a haste da mandioqueira (semente)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ditaka-1 — https://www.kimbundu.org/pt/word/ditaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1297,
+      "kimbundu_term": "Ditaka",
+      "portuguese_translation": "Tronco furado das duas extremidades onde se prendem os tornozelos",
+      "definition": null,
+      "alternative_meanings": [
+        "Instrumento de suplício"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ditaka-1 — https://www.kimbundu.org/pt/word/ditaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1298,
+      "kimbundu_term": "Ditakanenu",
+      "portuguese_translation": "Encruzilhada",
+      "definition": null,
+      "alternative_meanings": [
+        "Ponto onde duas linhas se encontram"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ditakanenu-1 — https://www.kimbundu.org/pt/word/ditakanenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1299,
+      "kimbundu_term": "Ditakanenu",
+      "portuguese_translation": "Ribanceira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ditakanenu-1 — https://www.kimbundu.org/pt/word/ditakanenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1300,
+      "kimbundu_term": "Ditakanu",
+      "portuguese_translation": "Encontro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ditakanu-1 — https://www.kimbundu.org/pt/word/ditakanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1301,
+      "kimbundu_term": "Ditakataka",
+      "portuguese_translation": "Coxa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ditakataka-1 — https://www.kimbundu.org/pt/word/ditakataka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1302,
+      "kimbundu_term": "Ditaku",
+      "portuguese_translation": "Nádega",
+      "definition": null,
+      "alternative_meanings": [
+        "traseiro",
+        "Assento",
+        "fig. Rabo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ditaku-1 — https://www.kimbundu.org/pt/word/ditaku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1303,
+      "kimbundu_term": "Ditala",
+      "portuguese_translation": "Mirante",
+      "definition": null,
+      "alternative_meanings": [
+        "Estrado elevado onde se secam cereais",
+        "Terraço"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ditala-1 — https://www.kimbundu.org/pt/word/ditala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
