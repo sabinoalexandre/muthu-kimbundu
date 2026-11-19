@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3924,
+      "kimbundu_term": "Kanyemu",
+      "portuguese_translation": "Ressentimento",
+      "definition": null,
+      "alternative_meanings": [
+        "reserva"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanyemu-1 — https://www.kimbundu.org/pt/word/kanyemu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3925,
+      "kimbundu_term": "Kanyemu",
+      "portuguese_translation": "Frieza (de ânimo)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanyemu-1 — https://www.kimbundu.org/pt/word/kanyemu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3926,
+      "kimbundu_term": "Kanyenge",
+      "portuguese_translation": "Delgado",
+      "definition": null,
+      "alternative_meanings": [
+        "fino"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanyenge-1 — https://www.kimbundu.org/pt/word/kanyenge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3927,
+      "kimbundu_term": "Kanyenge",
+      "portuguese_translation": "Esguio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanyenge-1 — https://www.kimbundu.org/pt/word/kanyenge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3928,
+      "kimbundu_term": "Kanyenge",
+      "portuguese_translation": "De pouca grossura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanyenge-1 — https://www.kimbundu.org/pt/word/kanyenge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3929,
+      "kimbundu_term": "Kanyenge",
+      "portuguese_translation": "Delicado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanyenge-1 — https://www.kimbundu.org/pt/word/kanyenge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3930,
+      "kimbundu_term": "Kanyengena-maku",
+      "portuguese_translation": "Que traz os braços pendentes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanyengena-maku-1 — https://www.kimbundu.org/pt/word/kanyengena-maku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3931,
+      "kimbundu_term": "Kanyengena-maku",
+      "portuguese_translation": "Bímano",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanyengena-maku-1 — https://www.kimbundu.org/pt/word/kanyengena-maku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3932,
+      "kimbundu_term": "Kanyengete",
+      "portuguese_translation": "Sofrimento ou dor interior",
+      "definition": null,
+      "alternative_meanings": [
+        "Mágoa",
+        "pesar",
+        "desgosto. O que experimenta facilmente impressões morais"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanyengete-1 — https://www.kimbundu.org/pt/word/kanyengete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3933,
+      "kimbundu_term": "Kanyengete",
+      "portuguese_translation": "Melindre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanyengete-1 — https://www.kimbundu.org/pt/word/kanyengete",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
