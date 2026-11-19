@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4494,
+      "kimbundu_term": "Kibála",
+      "portuguese_translation": "Imposta. Diz-se dos encontros dos tetos quando descansam sobre os paus da cumeeira. Rins",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibála-1 — https://www.kimbundu.org/pt/word/kibala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4495,
+      "kimbundu_term": "Kibála",
+      "portuguese_translation": "Povoação e sede da circunscrição civil do mesmo nome, distrito do Quanza-Sul, província de Benguela, a 10° 42' 11\" lat.",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibála-1 — https://www.kimbundu.org/pt/word/kibala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4496,
+      "kimbundu_term": "Kibála",
+      "portuguese_translation": "Praia da costa e distrito de Mossâmedes, província da Huíla",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibála-1 — https://www.kimbundu.org/pt/word/kibala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4497,
+      "kimbundu_term": "Kibála",
+      "portuguese_translation": "Povoação do concelho e circunscrição civil do Ambriz, distrito e província de Luanda, a oeste da serra do Fuku e norte d",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibála-1 — https://www.kimbundu.org/pt/word/kibala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4498,
+      "kimbundu_term": "Kíbalala",
+      "portuguese_translation": "Filamento",
+      "definition": null,
+      "alternative_meanings": [
+        "Fibra",
+        "O que pode ser dividido em fios próprios para serem tecidos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kíbalala-1 — https://www.kimbundu.org/pt/word/kibalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4499,
+      "kimbundu_term": "Kibalaxita",
+      "portuguese_translation": "Doença cutânea",
+      "definition": null,
+      "alternative_meanings": [
+        "Herpes"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibalaxita-1 — https://www.kimbundu.org/pt/word/kibalaxita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4500,
+      "kimbundu_term": "Kibalaxita",
+      "portuguese_translation": "e sub. Herpético",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibalaxita-1 — https://www.kimbundu.org/pt/word/kibalaxita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4501,
+      "kimbundu_term": "Kibalu",
+      "portuguese_translation": "Queda",
+      "definition": null,
+      "alternative_meanings": [
+        "Trambulhão",
+        "Tombo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibalu-1 — https://www.kimbundu.org/pt/word/kibalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4502,
+      "kimbundu_term": "Kibálu",
+      "portuguese_translation": "Temeridade",
+      "definition": null,
+      "alternative_meanings": [
+        "Ânimo",
+        "Coragem",
+        "Esforçamento",
+        "energia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibálu-1 — https://www.kimbundu.org/pt/word/kibalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4503,
+      "kimbundu_term": "Kibalu",
+      "portuguese_translation": "Tombo",
+      "definition": null,
+      "alternative_meanings": [
+        "queda"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibalu-3 — https://www.kimbundu.org/pt/word/kibalu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
