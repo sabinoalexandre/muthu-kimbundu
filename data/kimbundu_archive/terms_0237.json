@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2474,
+      "kimbundu_term": "Jifíxi",
+      "portuguese_translation": "Cabeceiras",
+      "definition": null,
+      "alternative_meanings": [
+        "Nascentes (de rios)",
+        "Origens",
+        "Terrenos vizinhos das nascentes de rios",
+        "Fontes"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jifíxi-1 — https://www.kimbundu.org/pt/word/jifixi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2475,
+      "kimbundu_term": "Jifúku",
+      "portuguese_translation": "Grupos de dez mil unidades",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jifúku-1 — https://www.kimbundu.org/pt/word/jifuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2476,
+      "kimbundu_term": "Jifuxi",
+      "portuguese_translation": "Gémeos",
+      "definition": null,
+      "alternative_meanings": [
+        "Os que nascem em quarto lugar do mesmo parto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jifuxi-1 — https://www.kimbundu.org/pt/word/jifuxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2477,
+      "kimbundu_term": "Jihaba",
+      "portuguese_translation": "Patranhas",
+      "definition": null,
+      "alternative_meanings": [
+        "Petas",
+        "Embustes para induzir em erro",
+        "Ilusão",
+        "mentira",
+        "Fábulas",
+        "novelas",
+        "contos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jihaba-1 — https://www.kimbundu.org/pt/word/jihaba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2478,
+      "kimbundu_term": "Jihaba",
+      "portuguese_translation": "adj. Trapaceiro",
+      "definition": null,
+      "alternative_meanings": [
+        "Embusteiro",
+        "Que conta ou compõe novelas",
+        "Fabulista",
+        "Mentiroso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jihaba-1 — https://www.kimbundu.org/pt/word/jihaba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2479,
+      "kimbundu_term": "Jihabya",
+      "portuguese_translation": "Cavidades inferiores à junção dos braços com os ombros",
+      "definition": null,
+      "alternative_meanings": [
+        "Axilas",
+        "Sovacos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jihabya-1 — https://www.kimbundu.org/pt/word/jihabya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2480,
+      "kimbundu_term": "Jihaka",
+      "portuguese_translation": "Família de plantas sinanteráceas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jihaka-1 — https://www.kimbundu.org/pt/word/jihaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2481,
+      "kimbundu_term": "Jihaka",
+      "portuguese_translation": "Cardos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jihaka-1 — https://www.kimbundu.org/pt/word/jihaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2482,
+      "kimbundu_term": "Jihaka",
+      "portuguese_translation": "As escamas do pangolino",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jihaka-1 — https://www.kimbundu.org/pt/word/jihaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2483,
+      "kimbundu_term": "Jihaku",
+      "portuguese_translation": "O primeiro alimento que se dá a uma criança",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jihaku-1 — https://www.kimbundu.org/pt/word/jihaku",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
