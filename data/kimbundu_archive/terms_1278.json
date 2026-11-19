@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12884,
+      "kimbundu_term": "Kuuanunuka",
+      "portuguese_translation": "Desagregar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "abrir-se em muitos lugares",
+        "Ficar fendido completamente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo intransitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuuanunuka-1 — https://www.kimbundu.org/pt/word/kuuanunuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12885,
+      "kimbundu_term": "Kuuanununa",
+      "portuguese_translation": "Separar, rachar muitas vezes",
+      "definition": null,
+      "alternative_meanings": [
+        "Repartir em muitas metades"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo transitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuuanununa-1 — https://www.kimbundu.org/pt/word/kuuanununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12886,
+      "kimbundu_term": "Kuuáua",
+      "portuguese_translation": "Vaiar",
+      "definition": null,
+      "alternative_meanings": [
+        "apupar",
+        "fazer assuada"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo transitivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuuáua-1 — https://www.kimbundu.org/pt/word/kuuaua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12887,
+      "kimbundu_term": "Kuuáua",
+      "portuguese_translation": "Apupo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo transitivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuuáua-1 — https://www.kimbundu.org/pt/word/kuuaua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12888,
+      "kimbundu_term": "Kuuauesa",
+      "portuguese_translation": "Fazer apupar, escarnecer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo transitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuuauesa-1 — https://www.kimbundu.org/pt/word/kuuauesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12889,
+      "kimbundu_term": "Kuúba",
+      "portuguese_translation": "Liberalizar",
+      "definition": null,
+      "alternative_meanings": [
+        "prodigalizar",
+        "dadivar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo transitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuúba-1 — https://www.kimbundu.org/pt/word/kuuba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12890,
+      "kimbundu_term": "Kuuéna",
+      "portuguese_translation": "e intr. Abundanciar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuuéna-1 — https://www.kimbundu.org/pt/word/kuuena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12891,
+      "kimbundu_term": "Kuuéna",
+      "portuguese_translation": "Quantidade maior do que a precisa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuuéna-1 — https://www.kimbundu.org/pt/word/kuuena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12892,
+      "kimbundu_term": "Kuuéna",
+      "portuguese_translation": "Kuriuena, e r. Abastecer-se",
+      "definition": null,
+      "alternative_meanings": [
+        "enriquecer-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuuéna-1 — https://www.kimbundu.org/pt/word/kuuena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12893,
+      "kimbundu_term": "Kuuéua",
+      "portuguese_translation": "Alegrar",
+      "definition": null,
+      "alternative_meanings": [
+        "ter prazer em"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuuéua-1 — https://www.kimbundu.org/pt/word/kuueua",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
