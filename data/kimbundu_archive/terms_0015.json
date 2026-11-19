@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 254,
+      "kimbundu_term": "Aménu",
+      "portuguese_translation": "Palavra que anuncia o ato de dar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, aménu-1 — https://www.kimbundu.org/pt/word/amenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 255,
+      "kimbundu_term": "Aménu",
+      "portuguese_translation": "Tomai!",
+      "definition": null,
+      "alternative_meanings": [
+        "apanhai!",
+        "recebei!"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, aménu-1 — https://www.kimbundu.org/pt/word/amenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 256,
+      "kimbundu_term": "Ami",
+      "portuguese_translation": "(contração da prep. 'a' e pron. pess. 'ente'). Meus",
+      "definition": null,
+      "alternative_meanings": [
+        "minhas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ami-1 — https://www.kimbundu.org/pt/word/ami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 257,
+      "kimbundu_term": "Ami",
+      "portuguese_translation": "Os meus",
+      "definition": null,
+      "alternative_meanings": [
+        "a minha família",
+        "de mim",
+        "pertencentes à minha pessoa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ami-1 — https://www.kimbundu.org/pt/word/ami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 258,
+      "kimbundu_term": "Amónya",
+      "portuguese_translation": "Mandriões",
+      "definition": null,
+      "alternative_meanings": [
+        "madraços",
+        "preguiçosos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, amónya-1 — https://www.kimbundu.org/pt/word/amonya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 259,
+      "kimbundu_term": "Amoxi",
+      "portuguese_translation": "Designa quantidades indeterminadas mas não grandes",
+      "definition": null,
+      "alternative_meanings": [
+        "alguns, algumas",
+        "uns, umas",
+        "pequenos elementos ou grupos entre muitos",
+        "quaisquer",
+        "uns ou outros"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, amoxi-1 — https://www.kimbundu.org/pt/word/amoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 260,
+      "kimbundu_term": "Amoxi",
+      "portuguese_translation": "Certas pessoas",
+      "definition": null,
+      "alternative_meanings": [
+        "certos homens"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, amoxi-1 — https://www.kimbundu.org/pt/word/amoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 261,
+      "kimbundu_term": "Amoxi",
+      "portuguese_translation": "e pron. indef. pl. Outros",
+      "definition": null,
+      "alternative_meanings": [
+        "diferentes",
+        "não estes"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, amoxi-1 — https://www.kimbundu.org/pt/word/amoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 262,
+      "kimbundu_term": "Amoxi",
+      "portuguese_translation": "e pron. pl. Aqueloutros",
+      "definition": null,
+      "alternative_meanings": [
+        "outros sem ser aqueles"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, amoxi-1 — https://www.kimbundu.org/pt/word/amoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 263,
+      "kimbundu_term": "Amoxi",
+      "portuguese_translation": "Os outros",
+      "definition": null,
+      "alternative_meanings": [
+        "os alheios"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, amoxi-1 — https://www.kimbundu.org/pt/word/amoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
