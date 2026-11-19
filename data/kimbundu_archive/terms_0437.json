@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4474,
+      "kimbundu_term": "Kiánzu",
+      "portuguese_translation": "Guarida de passarinhos",
+      "definition": null,
+      "alternative_meanings": [
+        "Ninho",
+        "Abrigo",
+        "refúgio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiánzu-1 — https://www.kimbundu.org/pt/word/kianzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4475,
+      "kimbundu_term": "Kiáu",
+      "portuguese_translation": "Cabaça onde as abelhas fabricam a cera e o mel. Cortiço",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiáu-1 — https://www.kimbundu.org/pt/word/kiau",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4476,
+      "kimbundu_term": "Kiáu",
+      "portuguese_translation": "Vaso ou saco de peles para guardar sal",
+      "definition": null,
+      "alternative_meanings": [
+        "Depósito",
+        "bolsa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiáu-1 — https://www.kimbundu.org/pt/word/kiau",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4477,
+      "kimbundu_term": "Kiâxi",
+      "portuguese_translation": "Sensação de medo que faz arripiar a pele e o cabelo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiâxi-1 — https://www.kimbundu.org/pt/word/kiaxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4478,
+      "kimbundu_term": "Kiâxi",
+      "portuguese_translation": "Horror. Repulsão por aquilo que reputamos horrendo ou medonho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiâxi-1 — https://www.kimbundu.org/pt/word/kiaxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4479,
+      "kimbundu_term": "Kiâxi",
+      "portuguese_translation": "Hesitação",
+      "definition": null,
+      "alternative_meanings": [
+        "falta de coragem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiâxi-1 — https://www.kimbundu.org/pt/word/kiaxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4480,
+      "kimbundu_term": "Kiba-mucnu",
+      "portuguese_translation": "adj. e sub. (III) Protetor",
+      "definition": null,
+      "alternative_meanings": [
+        "Salvador. Redentor. Presidente",
+        "Advogado",
+        "Libertador. p. ext. O que dá vida"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiba-mucnu-1 — https://www.kimbundu.org/pt/word/kiba-mucnu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4481,
+      "kimbundu_term": "Kiba-muenyu",
+      "portuguese_translation": "Protetor",
+      "definition": null,
+      "alternative_meanings": [
+        "Salvador",
+        "Redentor dos homens",
+        "Amparador",
+        "Libertador. p. ext. O que dá vida"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiba-muenyu-1 — https://www.kimbundu.org/pt/word/kiba-muenyu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4482,
+      "kimbundu_term": "Kibâba",
+      "portuguese_translation": "Planta meliácea fam. das leguminosas, utilizada em obras de carpintaria. Amargoseira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibâba-1 — https://www.kimbundu.org/pt/word/kibaba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4483,
+      "kimbundu_term": "Kibàbu",
+      "portuguese_translation": "Afago",
+      "definition": null,
+      "alternative_meanings": [
+        "carinho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibàbu-1 — https://www.kimbundu.org/pt/word/kibabu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
