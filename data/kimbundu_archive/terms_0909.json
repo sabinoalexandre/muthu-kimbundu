@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9194,
+      "kimbundu_term": "Kukamata",
+      "portuguese_translation": "Esganamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukamata-1 — https://www.kimbundu.org/pt/word/kukamata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9195,
+      "kimbundu_term": "Kukamata",
+      "portuguese_translation": "Kurikamata, e r. Esganar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "ficar obstrito"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukamata-1 — https://www.kimbundu.org/pt/word/kukamata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9196,
+      "kimbundu_term": "Kukamatesa",
+      "portuguese_translation": "Fazer obstrução",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukamatesa-1 — https://www.kimbundu.org/pt/word/kukamatesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9197,
+      "kimbundu_term": "Kukamatesa",
+      "portuguese_translation": "Mandar esganar, estrangular",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukamatesa-1 — https://www.kimbundu.org/pt/word/kukamatesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9198,
+      "kimbundu_term": "Kúkamba",
+      "portuguese_translation": "Faltar",
+      "definition": null,
+      "alternative_meanings": [
+        "escassear",
+        "não chegar. fig. Desaparecer",
+        "morrer. sub. Falta: — o kitari ku atolesa o mutu mu ngóngo",
+        "Escassez"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkamba-1 — https://www.kimbundu.org/pt/word/kukamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9199,
+      "kimbundu_term": "Kukambama",
+      "portuguese_translation": "Ficar alteado, aumentado, sobreposto. Estar encimado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukambama-1 — https://www.kimbundu.org/pt/word/kukambama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9200,
+      "kimbundu_term": "Kukambamana",
+      "portuguese_translation": "Colocar-se sobre",
+      "definition": null,
+      "alternative_meanings": [
+        "pôr-se por cima de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukambamana-1 — https://www.kimbundu.org/pt/word/kukambamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9201,
+      "kimbundu_term": "Kukambamanesa",
+      "portuguese_translation": "Fazer sobreposição. Encimar. É também r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukambamanesa-1 — https://www.kimbundu.org/pt/word/kukambamanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9202,
+      "kimbundu_term": "Kukambeka",
+      "portuguese_translation": "Invocar",
+      "definition": null,
+      "alternative_meanings": [
+        "chamar a si",
+        "atrair"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, intransitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukambeka-1 — https://www.kimbundu.org/pt/word/kukambeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9203,
+      "kimbundu_term": "Kukambela",
+      "portuguese_translation": "Exorcizar. Esconjurar com exorcismos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukambela-1 — https://www.kimbundu.org/pt/word/kukambela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
