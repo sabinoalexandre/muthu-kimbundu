@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3554,
+      "kimbundu_term": "Kamatenda",
+      "portuguese_translation": "Canhoneiro",
+      "definition": null,
+      "alternative_meanings": [
+        "Que tem, dispara ou se serve de canhões",
+        "Artilheiro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamatenda-1 — https://www.kimbundu.org/pt/word/kamatenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3555,
+      "kimbundu_term": "Kamatenda",
+      "portuguese_translation": "Canhoneira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamatenda-1 — https://www.kimbundu.org/pt/word/kamatenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3556,
+      "kimbundu_term": "Kamatui",
+      "portuguese_translation": "Orelhudo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamatui-1 — https://www.kimbundu.org/pt/word/kamatui",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3557,
+      "kimbundu_term": "Kamaûta",
+      "portuguese_translation": "Espingardeiro",
+      "definition": null,
+      "alternative_meanings": [
+        "Que fabrica ou vende espingardas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamaûta-1 — https://www.kimbundu.org/pt/word/kamauta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3558,
+      "kimbundu_term": "Kamavuua",
+      "portuguese_translation": "Dotado de desgraças",
+      "definition": null,
+      "alternative_meanings": [
+        "Infortunado",
+        "desventurado",
+        "Infeliz"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamavuua-1 — https://www.kimbundu.org/pt/word/kamavuua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3559,
+      "kimbundu_term": "Kamáxa",
+      "portuguese_translation": "Pov. e sede do posto deste nome, confluente da margem esq. do rio Lucala, circ. civ. de Capenda-Camulemba, distr. da Lun",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamáxa-1 — https://www.kimbundu.org/pt/word/kamaxa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3560,
+      "kimbundu_term": "Kámba",
+      "portuguese_translation": "de rikámba",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kámba-1 — https://www.kimbundu.org/pt/word/kamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3561,
+      "kimbundu_term": "Kámba",
+      "portuguese_translation": "Amigo",
+      "definition": null,
+      "alternative_meanings": [
+        "confidente",
+        "aliado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kámba-1 — https://www.kimbundu.org/pt/word/kamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3562,
+      "kimbundu_term": "Kámba",
+      "portuguese_translation": "Pov. na margem direita do rio Calolo, antigo conc. de Pungo Andongo, circ. civ. de Cazenzo, distr. do Quanza-Norte, prov",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kámba-1 — https://www.kimbundu.org/pt/word/kamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3563,
+      "kimbundu_term": "Kambala",
+      "portuguese_translation": "Pequena canoa, ordinariamente conduzida à vara",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kambala-1 — https://www.kimbundu.org/pt/word/kambala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
