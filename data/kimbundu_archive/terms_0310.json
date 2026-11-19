@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3204,
+      "kimbundu_term": "Kahaúla",
+      "portuguese_translation": "Rapinador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kahaúla-1 — https://www.kimbundu.org/pt/word/kahaula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3205,
+      "kimbundu_term": "Kahémbia-hembia",
+      "portuguese_translation": "Planta da fam. das malváceas (Wissadula rostrata) utilizada como medicinal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kahémbia-hembia-1 — https://www.kimbundu.org/pt/word/kahembia-hembia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3206,
+      "kimbundu_term": "Kahêtu",
+      "portuguese_translation": "O mesmo que kahátu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kahêtu-1 — https://www.kimbundu.org/pt/word/kahetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3207,
+      "kimbundu_term": "Kahêtu",
+      "portuguese_translation": "Rapariga ordinária. (Toma-se em sentido pejorativo)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kahêtu-1 — https://www.kimbundu.org/pt/word/kahetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3208,
+      "kimbundu_term": "Kahididi",
+      "portuguese_translation": "Pano enrolado à cintura sobre os que se trazem vestidos",
+      "definition": null,
+      "alternative_meanings": [
+        "Cinta de pano dobrado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kahididi-1 — https://www.kimbundu.org/pt/word/kahididi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3209,
+      "kimbundu_term": "Kahima",
+      "portuguese_translation": "Macaquinho",
+      "definition": null,
+      "alternative_meanings": [
+        "Saguim"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kahima-1 — https://www.kimbundu.org/pt/word/kahima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3210,
+      "kimbundu_term": "Kahima",
+      "portuguese_translation": "Amacacado",
+      "definition": null,
+      "alternative_meanings": [
+        "Simiesco"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kahima-1 — https://www.kimbundu.org/pt/word/kahima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3211,
+      "kimbundu_term": "Kahínji",
+      "portuguese_translation": "Mosca pequena, incómoda",
+      "definition": null,
+      "alternative_meanings": [
+        "Mosquinha",
+        "Cinife"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kahínji-1 — https://www.kimbundu.org/pt/word/kahinji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3212,
+      "kimbundu_term": "Kahínji",
+      "portuguese_translation": "Pequena prov. na margem direita do rio Quanza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kahínji-1 — https://www.kimbundu.org/pt/word/kahinji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3213,
+      "kimbundu_term": "Kahoji",
+      "portuguese_translation": "Leãozinho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kahoji-1 — https://www.kimbundu.org/pt/word/kahoji",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
