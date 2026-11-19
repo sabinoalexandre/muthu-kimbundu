@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6704,
+      "kimbundu_term": "Kizáu",
+      "portuguese_translation": "Lugar onde se passa a vau",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizáu-2 — https://www.kimbundu.org/pt/word/kizau",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6705,
+      "kimbundu_term": "Kizávu",
+      "portuguese_translation": "Pulmão",
+      "definition": null,
+      "alternative_meanings": [
+        "bofe"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizávu-1 — https://www.kimbundu.org/pt/word/kizavu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6706,
+      "kimbundu_term": "Kizeki",
+      "portuguese_translation": "Dormitivo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizeki-1 — https://www.kimbundu.org/pt/word/kizeki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6707,
+      "kimbundu_term": "Kizela",
+      "portuguese_translation": "De cor branca",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizela-1 — https://www.kimbundu.org/pt/word/kizela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6708,
+      "kimbundu_term": "Kizela",
+      "portuguese_translation": "Coragem (da roupa feita ao sol.)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizela-2 — https://www.kimbundu.org/pt/word/kizela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6709,
+      "kimbundu_term": "Kizela",
+      "portuguese_translation": "Coradouro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizela-2 — https://www.kimbundu.org/pt/word/kizela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6710,
+      "kimbundu_term": "Kizémba",
+      "portuguese_translation": "Robusta trepadeira fam. das leguminosas (Dalbergia hostilis), de tronco lenhoso armado de fortes espinhos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizémba-1 — https://www.kimbundu.org/pt/word/kizemba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6711,
+      "kimbundu_term": "Kizembe",
+      "portuguese_translation": "Toldo",
+      "definition": null,
+      "alternative_meanings": [
+        "alpendre"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizembe-1 — https://www.kimbundu.org/pt/word/kizembe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6712,
+      "kimbundu_term": "Kizembe",
+      "portuguese_translation": "Nome que se dá à criança que nasça em casa e no dia de falecimento de alguma pessoa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizembe-1 — https://www.kimbundu.org/pt/word/kizembe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6713,
+      "kimbundu_term": "Kizembe",
+      "portuguese_translation": "Qualquer facto ocorrido nesse dia e casa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizembe-1 — https://www.kimbundu.org/pt/word/kizembe",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
