@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13894,
+      "kimbundu_term": "Kwetu",
+      "portuguese_translation": "adv. e pron. poss. pl. Propriamente nossa, nosso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwetu-1 — https://www.kimbundu.org/pt/word/kwetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13895,
+      "kimbundu_term": "Kwibhula",
+      "portuguese_translation": "Perguntar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwibhula-1 — https://www.kimbundu.org/pt/word/kwibhula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13896,
+      "kimbundu_term": "Kwibhula",
+      "portuguese_translation": "Procurar orientar-se, saber",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwibhula-1 — https://www.kimbundu.org/pt/word/kwibhula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13897,
+      "kimbundu_term": "Kwibhula",
+      "portuguese_translation": "Interrogação",
+      "definition": null,
+      "alternative_meanings": [
+        "pergunta que se faz a uma pessoa para que ela responda"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwibhula-1 — https://www.kimbundu.org/pt/word/kwibhula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13898,
+      "kimbundu_term": "Kwijila",
+      "portuguese_translation": "Chegar, vir por via de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwijila-1 — https://www.kimbundu.org/pt/word/kwijila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13899,
+      "kimbundu_term": "Kwijila",
+      "portuguese_translation": "Caminhar por",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwijila-1 — https://www.kimbundu.org/pt/word/kwijila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13900,
+      "kimbundu_term": "Kwijila",
+      "portuguese_translation": "Chegar de repente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwijila-1 — https://www.kimbundu.org/pt/word/kwijila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13901,
+      "kimbundu_term": "Kwikuta",
+      "portuguese_translation": "Comer ou beber o necessário",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwikuta-1 — https://www.kimbundu.org/pt/word/kwikuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13902,
+      "kimbundu_term": "Kwikuta",
+      "portuguese_translation": "Estar repleto",
+      "definition": null,
+      "alternative_meanings": [
+        "ter o estômago cheio"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwikuta-1 — https://www.kimbundu.org/pt/word/kwikuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13903,
+      "kimbundu_term": "Kwikuta",
+      "portuguese_translation": "Empachar",
+      "definition": null,
+      "alternative_meanings": [
+        "saciar a fome"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwikuta-1 — https://www.kimbundu.org/pt/word/kwikuta",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
