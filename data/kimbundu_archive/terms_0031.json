@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 414,
+      "kimbundu_term": "Bhonzo",
+      "portuguese_translation": "Severo",
+      "definition": null,
+      "alternative_meanings": [
+        "duro",
+        "agitado",
+        "perturbado",
+        "trabalhoso",
+        "difícil"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhonzo-1 — https://www.kimbundu.org/pt/word/bhonzo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 415,
+      "kimbundu_term": "Bhonzo",
+      "portuguese_translation": "Saudade",
+      "definition": null,
+      "alternative_meanings": [
+        "paixão",
+        "tristeza",
+        "arrefecimento de ânimo",
+        "dificuldade",
+        "agitação",
+        "pena"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhonzo-1 — https://www.kimbundu.org/pt/word/bhonzo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 416,
+      "kimbundu_term": "Bhoso",
+      "portuguese_translation": "No lugar em que",
+      "definition": null,
+      "alternative_meanings": [
+        "onde",
+        "no qual lugar"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhoso-1 — https://www.kimbundu.org/pt/word/bhoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 417,
+      "kimbundu_term": "Bhoso",
+      "portuguese_translation": "Em qualquer parte ou lugar",
+      "definition": null,
+      "alternative_meanings": [
+        "onde quer que",
+        "algures",
+        "indistintamente, sem designação de lugar. Também se diz «buoso»"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhoso-1 — https://www.kimbundu.org/pt/word/bhoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 418,
+      "kimbundu_term": "Bhoxi",
+      "portuguese_translation": "(contração da prep. 'bu' e do sub. 'ixi') No lugar baixo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhoxi-1 — https://www.kimbundu.org/pt/word/bhoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 419,
+      "kimbundu_term": "Bhoxi",
+      "portuguese_translation": "Na parte inferior",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhoxi-1 — https://www.kimbundu.org/pt/word/bhoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 420,
+      "kimbundu_term": "Bhoxi",
+      "portuguese_translation": "No chão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhoxi-1 — https://www.kimbundu.org/pt/word/bhoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 421,
+      "kimbundu_term": "Bhoxi",
+      "portuguese_translation": "A pé",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhoxi-1 — https://www.kimbundu.org/pt/word/bhoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 422,
+      "kimbundu_term": "Bhoxi",
+      "portuguese_translation": "Em baixo",
+      "definition": null,
+      "alternative_meanings": [
+        "abaixo",
+        "por baixo"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhoxi-1 — https://www.kimbundu.org/pt/word/bhoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 423,
+      "kimbundu_term": "Bhoxi",
+      "portuguese_translation": "Em situação inferior, de desempregado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhoxi-1 — https://www.kimbundu.org/pt/word/bhoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
