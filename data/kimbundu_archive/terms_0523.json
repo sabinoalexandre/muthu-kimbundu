@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5334,
+      "kimbundu_term": "Kikuta",
+      "portuguese_translation": "Pacote",
+      "definition": null,
+      "alternative_meanings": [
+        "embrulho, atado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikuta-1 — https://www.kimbundu.org/pt/word/kikuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5335,
+      "kimbundu_term": "Kikuta",
+      "portuguese_translation": "Leguminosa de propriedades medicinais (mucuna pruriens) de cujos pêlos provocam na pele um prúrido assaz desagradável",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikuta-1 — https://www.kimbundu.org/pt/word/kikuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5336,
+      "kimbundu_term": "Kikutekute",
+      "portuguese_translation": "Contração dolorosa do tecido muscular",
+      "definition": null,
+      "alternative_meanings": [
+        "Cãibra"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikutekute-1 — https://www.kimbundu.org/pt/word/kikutekute",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5337,
+      "kimbundu_term": "Kíkutu",
+      "portuguese_translation": "Maquinação",
+      "definition": null,
+      "alternative_meanings": [
+        "conspiração",
+        "trama",
+        "Conselho ou reunião secreta em que se tomam resoluções tenebrosas ou de fazer mal a uma pessoa",
+        "Tratado secreto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kíkutu-1 — https://www.kimbundu.org/pt/word/kikutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5338,
+      "kimbundu_term": "Kíkutu",
+      "portuguese_translation": "Emboscada desleal",
+      "definition": null,
+      "alternative_meanings": [
+        "surpresa vil"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kíkutu-1 — https://www.kimbundu.org/pt/word/kikutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5339,
+      "kimbundu_term": "Kíkutu",
+      "portuguese_translation": "Casacão",
+      "definition": null,
+      "alternative_meanings": [
+        "redingote"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kíkutu-1 — https://www.kimbundu.org/pt/word/kikutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5340,
+      "kimbundu_term": "Kikuue",
+      "portuguese_translation": "Retribuição",
+      "definition": null,
+      "alternative_meanings": [
+        "indemnização",
+        "Ressarcimento do dano sofrido",
+        "Pagamento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikuue-1 — https://www.kimbundu.org/pt/word/kikuue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5341,
+      "kimbundu_term": "Kikuxi",
+      "portuguese_translation": "interrog. Quanto",
+      "definition": null,
+      "alternative_meanings": [
+        "que preço?"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikuxi-1 — https://www.kimbundu.org/pt/word/kikuxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5342,
+      "kimbundu_term": "Kikuxi",
+      "portuguese_translation": "Que número ou que quantidade?",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikuxi-1 — https://www.kimbundu.org/pt/word/kikuxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5343,
+      "kimbundu_term": "Kikwambi",
+      "portuguese_translation": "(III) zool. Falcão",
+      "definition": null,
+      "alternative_meanings": [
+        "Milhano"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikwambi-1 — https://www.kimbundu.org/pt/word/kikwambi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
