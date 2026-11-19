@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16574,
+      "kimbundu_term": "Múkume",
+      "portuguese_translation": "Aquele que causa enfado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkume-1 — https://www.kimbundu.org/pt/word/mukume",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16575,
+      "kimbundu_term": "Múkunde",
+      "portuguese_translation": "Comunicante",
+      "definition": null,
+      "alternative_meanings": [
+        "conferente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkunde-1 — https://www.kimbundu.org/pt/word/mukunde",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16576,
+      "kimbundu_term": "Mukundi",
+      "portuguese_translation": "Comunicador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukundi-1 — https://www.kimbundu.org/pt/word/mukundi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16577,
+      "kimbundu_term": "Mukundi",
+      "portuguese_translation": "Cumprimentador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukundi-1 — https://www.kimbundu.org/pt/word/mukundi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16578,
+      "kimbundu_term": "Mukúndi",
+      "portuguese_translation": "Desleal",
+      "definition": null,
+      "alternative_meanings": [
+        "traiçoeiro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukúndi-1 — https://www.kimbundu.org/pt/word/mukundi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16579,
+      "kimbundu_term": "Mukúndi",
+      "portuguese_translation": "Aquele que ataca à falsa fé",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukúndi-1 — https://www.kimbundu.org/pt/word/mukundi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16580,
+      "kimbundu_term": "Mukundudi",
+      "portuguese_translation": "Denunciante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukundudi-1 — https://www.kimbundu.org/pt/word/mukundudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16581,
+      "kimbundu_term": "Mukúnga",
+      "portuguese_translation": "Valeta",
+      "definition": null,
+      "alternative_meanings": [
+        "rego. Escoadouro ao lado das estradas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukúnga-1 — https://www.kimbundu.org/pt/word/mukunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16582,
+      "kimbundu_term": "Mukúnga",
+      "portuguese_translation": "Carreira",
+      "definition": null,
+      "alternative_meanings": [
+        "série",
+        "fileira. Alinhamento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukúnga-1 — https://www.kimbundu.org/pt/word/mukunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16583,
+      "kimbundu_term": "Mukúngi",
+      "portuguese_translation": "Esfregador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukúngi-1 — https://www.kimbundu.org/pt/word/mukungi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
