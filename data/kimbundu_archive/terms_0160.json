@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1704,
+      "kimbundu_term": "Fúta",
+      "portuguese_translation": "Mimo, dádiva ou presente de quem chega de uma viagem, aos parentes e amigos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fúta-1 — https://www.kimbundu.org/pt/word/futa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1705,
+      "kimbundu_term": "Fútu",
+      "portuguese_translation": "Ato e efeito de pagar",
+      "definition": null,
+      "alternative_meanings": [
+        "satisfação de dívida",
+        "pagamento",
+        "estipêndio",
+        "salário",
+        "quitação",
+        "paga",
+        "custo",
+        "preço por que se paga"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fútu-1 — https://www.kimbundu.org/pt/word/futu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1706,
+      "kimbundu_term": "Fútu",
+      "portuguese_translation": "Pequeno lago na margem direita do rio Zenzi, em Cabiri, circunscrição civil de Icolo e Bengo, (Catete) distrito de Luand",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fútu-1 — https://www.kimbundu.org/pt/word/futu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1707,
+      "kimbundu_term": "Fúxi",
+      "portuguese_translation": "A terceira filha do mesmo parto",
+      "definition": null,
+      "alternative_meanings": [
+        "a gémea que nasce em terceiro lugar",
+        "a terceira gémea"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fúxi-1 — https://www.kimbundu.org/pt/word/fuxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1708,
+      "kimbundu_term": "Fúxi",
+      "portuguese_translation": "Arbusto trepador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fúxi-1 — https://www.kimbundu.org/pt/word/fuxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1709,
+      "kimbundu_term": "Fúxi",
+      "portuguese_translation": "Poço",
+      "definition": null,
+      "alternative_meanings": [
+        "fonte",
+        "cisterna"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fúxi-2 — https://www.kimbundu.org/pt/word/fuxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1710,
+      "kimbundu_term": "Grei",
+      "portuguese_translation": "Da mesma laia, ou companhia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, grei-1 — https://www.kimbundu.org/pt/word/grei",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1711,
+      "kimbundu_term": "Grei",
+      "portuguese_translation": "Da mesma condição, sociedade ou ofício",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, grei-1 — https://www.kimbundu.org/pt/word/grei",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1712,
+      "kimbundu_term": "Hâ",
+      "portuguese_translation": "No caso de",
+      "definition": null,
+      "alternative_meanings": [
+        "se",
+        "dada a circunstância de",
+        "Se porventura",
+        "Se acaso"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hâ-1 — https://www.kimbundu.org/pt/word/ha",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1713,
+      "kimbundu_term": "Hâ",
+      "portuguese_translation": "Talvez",
+      "definition": null,
+      "alternative_meanings": [
+        "Ainda que",
+        "Acaso",
+        "Mesmo que"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hâ-1 — https://www.kimbundu.org/pt/word/ha",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
