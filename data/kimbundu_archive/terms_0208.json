@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2184,
+      "kimbundu_term": "Inga",
+      "portuguese_translation": "copul. E",
+      "definition": null,
+      "alternative_meanings": [
+        "também",
+        "Mais"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção, advérbio, copulativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, inga-1 — https://www.kimbundu.org/pt/word/inga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2185,
+      "kimbundu_term": "Inga",
+      "portuguese_translation": "Em seguida",
+      "definition": null,
+      "alternative_meanings": [
+        "Depois",
+        "Mais tarde",
+        "Logo a seguir"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção, advérbio, copulativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, inga-1 — https://www.kimbundu.org/pt/word/inga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2186,
+      "kimbundu_term": "Ingange",
+      "portuguese_translation": "Família de cetáceos carnívoros cujo tipo é o delfim",
+      "definition": null,
+      "alternative_meanings": [
+        "Peixes delfinidas: Golfinhos",
+        "Toninhas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ingange-1 — https://www.kimbundu.org/pt/word/ingange",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2187,
+      "kimbundu_term": "Ingáoja",
+      "portuguese_translation": "Armazéns de cereais",
+      "definition": null,
+      "alternative_meanings": [
+        "Celeiros"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ingáoja-1 — https://www.kimbundu.org/pt/word/ingaoja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2188,
+      "kimbundu_term": "Ingelengele",
+      "portuguese_translation": "Coisas pendentes para enfeite ou adorno, como brincos, berloques, guisos, etc",
+      "definition": null,
+      "alternative_meanings": [
+        "Penduricalhos",
+        "Pingentes",
+        "Condecorações",
+        "Arrecadas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ingelengele-1 — https://www.kimbundu.org/pt/word/ingelengele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2189,
+      "kimbundu_term": "Ingelengende",
+      "portuguese_translation": "Cacos ou pedaços de casca de coco-note",
+      "definition": null,
+      "alternative_meanings": [
+        "Limpaduras do coconote",
+        "Ciscalho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ingelengende-1 — https://www.kimbundu.org/pt/word/ingelengende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2190,
+      "kimbundu_term": "Íngo",
+      "portuguese_translation": "Animal digitígrado da fam. dos felinos",
+      "definition": null,
+      "alternative_meanings": [
+        "Tigre",
+        "Mamífero felida",
+        "Onça",
+        "fig. Homem sanguinário, cruel, de maus instintos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, íngo-1 — https://www.kimbundu.org/pt/word/ingo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2191,
+      "kimbundu_term": "Íngo",
+      "portuguese_translation": "O maior e mais feroz das aves rapaces",
+      "definition": null,
+      "alternative_meanings": [
+        "Grifardo",
+        "Abutre. É mais conhecido por «tigre do céu»"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, íngo-1 — https://www.kimbundu.org/pt/word/ingo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2192,
+      "kimbundu_term": "Ingole",
+      "portuguese_translation": "Família de moluscos acéfalos do tipo do mexilhão",
+      "definition": null,
+      "alternative_meanings": [
+        "Moluscos mitilidas",
+        "Quantidade de mexilhão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ingole-1 — https://www.kimbundu.org/pt/word/ingole",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2193,
+      "kimbundu_term": "Ingolelo",
+      "portuguese_translation": "Animais vertebrados (transição entre os répteis e os peixes)",
+      "definition": null,
+      "alternative_meanings": [
+        "Batráquios"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ingolelo-1 — https://www.kimbundu.org/pt/word/ingolelo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
