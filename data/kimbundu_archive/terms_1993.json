@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 20034,
+      "kimbundu_term": "Wetu",
+      "portuguese_translation": "Nosso",
+      "definition": null,
+      "alternative_meanings": [
+        "nossa",
+        "De nossa parte"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wetu-1 — https://www.kimbundu.org/pt/word/wetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20035,
+      "kimbundu_term": "Wetu",
+      "portuguese_translation": "De nós próprios",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wetu-1 — https://www.kimbundu.org/pt/word/wetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20036,
+      "kimbundu_term": "Wetu",
+      "portuguese_translation": "Limitado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wetu-1 — https://www.kimbundu.org/pt/word/wetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20037,
+      "kimbundu_term": "Wiki",
+      "portuguese_translation": "Mel",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wiki-1 — https://www.kimbundu.org/pt/word/wiki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20038,
+      "kimbundu_term": "Wiki",
+      "portuguese_translation": "Doçura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wiki-1 — https://www.kimbundu.org/pt/word/wiki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20039,
+      "kimbundu_term": "Wila",
+      "portuguese_translation": "parece (do, parecer)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wila-1 — https://www.kimbundu.org/pt/word/wila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20040,
+      "kimbundu_term": "Wila",
+      "portuguese_translation": "Pov. e posto da circ. civ. de Lubango, dist. e prov. da Huíla, a 1.700 m. de alt., 15° e 05' de Lat. S., 5.416 hab., est",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wila-1 — https://www.kimbundu.org/pt/word/wila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20041,
+      "kimbundu_term": "Wisu",
+      "portuguese_translation": "Verde",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wisu-1 — https://www.kimbundu.org/pt/word/wisu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20042,
+      "kimbundu_term": "Wisu",
+      "portuguese_translation": "Que ainda não está sazonado, seco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wisu-1 — https://www.kimbundu.org/pt/word/wisu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20043,
+      "kimbundu_term": "Wisu",
+      "portuguese_translation": "Fresco",
+      "definition": null,
+      "alternative_meanings": [
+        "tenro",
+        "de pouco tempo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wisu-1 — https://www.kimbundu.org/pt/word/wisu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
