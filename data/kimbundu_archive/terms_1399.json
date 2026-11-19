@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14094,
+      "kimbundu_term": "Lambula",
+      "portuguese_translation": "Uma das muitas variedades de sardinha (gorda)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lambula-1 — https://www.kimbundu.org/pt/word/lambula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14095,
+      "kimbundu_term": "Landeju",
+      "portuguese_translation": "Holandês",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, landeju-1 — https://www.kimbundu.org/pt/word/landeju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14096,
+      "kimbundu_term": "Langála-njimbu",
+      "portuguese_translation": "Pica-peixe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, langála-njimbu-1 — https://www.kimbundu.org/pt/word/langala-njimbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14097,
+      "kimbundu_term": "Lasása",
+      "portuguese_translation": "Araçá (fruta)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lasása-1 — https://www.kimbundu.org/pt/word/lasasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14098,
+      "kimbundu_term": "Láu",
+      "portuguese_translation": "Retribuição",
+      "definition": null,
+      "alternative_meanings": [
+        "salário",
+        "recompensa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, láu-1 — https://www.kimbundu.org/pt/word/lau",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14099,
+      "kimbundu_term": "Laxa",
+      "portuguese_translation": "Cara",
+      "definition": null,
+      "alternative_meanings": [
+        "face (de uma pessoa)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, laxa-1 — https://www.kimbundu.org/pt/word/laxa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14100,
+      "kimbundu_term": "Laxa",
+      "portuguese_translation": "Lata",
+      "definition": null,
+      "alternative_meanings": [
+        "bitácula"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, laxa-1 — https://www.kimbundu.org/pt/word/laxa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14101,
+      "kimbundu_term": "Léba",
+      "portuguese_translation": "Que tem maior comprimento ou altura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, léba-1 — https://www.kimbundu.org/pt/word/leba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14102,
+      "kimbundu_term": "Leba",
+      "portuguese_translation": "Enfestado",
+      "definition": null,
+      "alternative_meanings": [
+        "largo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, leba-1 — https://www.kimbundu.org/pt/word/leba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14103,
+      "kimbundu_term": "Leba",
+      "portuguese_translation": "Que não tem festo",
+      "definition": null,
+      "alternative_meanings": [
+        "de pouca largura"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, leba-1 — https://www.kimbundu.org/pt/word/leba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
