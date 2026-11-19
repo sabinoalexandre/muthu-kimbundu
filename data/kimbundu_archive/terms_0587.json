@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5974,
+      "kimbundu_term": "Kípapa",
+      "portuguese_translation": "Muro que forma o exterior de uma casa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kípapa-1 — https://www.kimbundu.org/pt/word/kipapa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5975,
+      "kimbundu_term": "Kípapa",
+      "portuguese_translation": "Parede",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kípapa-1 — https://www.kimbundu.org/pt/word/kipapa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5976,
+      "kimbundu_term": "Kípapa",
+      "portuguese_translation": "Vedação",
+      "definition": null,
+      "alternative_meanings": [
+        "muralha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kípapa-1 — https://www.kimbundu.org/pt/word/kipapa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5977,
+      "kimbundu_term": "Kipáta",
+      "portuguese_translation": "Escamoteação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipáta-1 — https://www.kimbundu.org/pt/word/kipata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5978,
+      "kimbundu_term": "Kipáta",
+      "portuguese_translation": "Sorte de prestidigitador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipáta-1 — https://www.kimbundu.org/pt/word/kipata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5979,
+      "kimbundu_term": "Kipáta",
+      "portuguese_translation": "Habilidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipáta-1 — https://www.kimbundu.org/pt/word/kipata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5980,
+      "kimbundu_term": "Kipe'a",
+      "portuguese_translation": "Dança regional (no Dande)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipe'a-1 — https://www.kimbundu.org/pt/word/kipe'a",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5981,
+      "kimbundu_term": "Kipéiu",
+      "portuguese_translation": "Pov. e posto da circ. civ. do Huambo, distr. e prov. de Benguela, a 1621 m. de alt. e 28.670 hab., Missão Catól. de N. S",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipéiu-1 — https://www.kimbundu.org/pt/word/kipeiu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5982,
+      "kimbundu_term": "Kipena",
+      "portuguese_translation": "Pináculo: cúpula",
+      "definition": null,
+      "alternative_meanings": [
+        "zimbório",
+        "Cume",
+        "O ponto mais elevado de uma casa, monte, etc"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipena-1 — https://www.kimbundu.org/pt/word/kipena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5983,
+      "kimbundu_term": "Kipénza",
+      "portuguese_translation": "Prado",
+      "definition": null,
+      "alternative_meanings": [
+        "Campo relvoso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipénza-1 — https://www.kimbundu.org/pt/word/kipenza",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
