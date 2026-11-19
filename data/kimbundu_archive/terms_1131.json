@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11414,
+      "kimbundu_term": "Kusangumuna",
+      "portuguese_translation": "Exultar (Diz-se do tomar qualquer bebida alcoólica, de manhã, para combater o frio.)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusangumuna-1 — https://www.kimbundu.org/pt/word/kusangumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11415,
+      "kimbundu_term": "Kusangumuna",
+      "portuguese_translation": "Kurisangumuna, e r. Descongelar-se, dar-se calor",
+      "definition": null,
+      "alternative_meanings": [
+        "Tomar coisa quente ou alcoólica (em manhã fria)",
+        "fig. Derreter-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusangumuna-1 — https://www.kimbundu.org/pt/word/kusangumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11416,
+      "kimbundu_term": "Kusanguna",
+      "portuguese_translation": "Desmalhar",
+      "definition": null,
+      "alternative_meanings": [
+        "desatar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusanguna-1 — https://www.kimbundu.org/pt/word/kusanguna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11417,
+      "kimbundu_term": "Kusanguna",
+      "portuguese_translation": "Escapar (das malhas)",
+      "definition": null,
+      "alternative_meanings": [
+        "Desatar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusanguna-1 — https://www.kimbundu.org/pt/word/kusanguna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11418,
+      "kimbundu_term": "Kusanguna",
+      "portuguese_translation": "Kurisanguna, v. r. Escapar",
+      "definition": null,
+      "alternative_meanings": [
+        "Tresmalhar, desfazer-se",
+        "perder o rumo",
+        "Coar-se, sair (falando-se de líquidos)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusanguna-1 — https://www.kimbundu.org/pt/word/kusanguna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11419,
+      "kimbundu_term": "Kusangunuka",
+      "portuguese_translation": "Ficar desmanchado, descosido, desfeito (a costura)",
+      "definition": null,
+      "alternative_meanings": [
+        "Estar desfiado, destorcido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusangunuka-1 — https://www.kimbundu.org/pt/word/kusangunuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11420,
+      "kimbundu_term": "Kusangunuka",
+      "portuguese_translation": "Florir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusangunuka-1 — https://www.kimbundu.org/pt/word/kusangunuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11421,
+      "kimbundu_term": "Kusangununa",
+      "portuguese_translation": "Desmanchar",
+      "definition": null,
+      "alternative_meanings": [
+        "descoser",
+        "Desfiar",
+        "destecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusangununa-1 — https://www.kimbundu.org/pt/word/kusangununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11422,
+      "kimbundu_term": "Kusangununa",
+      "portuguese_translation": "Florear",
+      "definition": null,
+      "alternative_meanings": [
+        "florescer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusangununa-1 — https://www.kimbundu.org/pt/word/kusangununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11423,
+      "kimbundu_term": "Kusangununa",
+      "portuguese_translation": "Brilhar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer boa figura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusangununa-1 — https://www.kimbundu.org/pt/word/kusangununa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
