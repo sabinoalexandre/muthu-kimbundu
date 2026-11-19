@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2114,
+      "kimbundu_term": "Ikuxi",
+      "portuguese_translation": "Porção",
+      "definition": null,
+      "alternative_meanings": [
+        "quantidade",
+        "Extensão",
+        "tamanho",
+        "Emprega-se para expressar que desejamos nos determinem a quantidade de"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo, interrogativo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ikuxi-1 — https://www.kimbundu.org/pt/word/ikuxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2115,
+      "kimbundu_term": "Íla",
+      "portuguese_translation": "Construção",
+      "definition": null,
+      "alternative_meanings": [
+        "Obra",
+        "Produto de um agente",
+        "Facto",
+        "Acontecimento",
+        "ato",
+        "Coisa real",
+        "o que existe realmente",
+        "Realidade",
+        "O que está"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, íla-1 — https://www.kimbundu.org/pt/word/ila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2116,
+      "kimbundu_term": "Ilekelu",
+      "portuguese_translation": "Últimas instruções, disposições ou ordens dadas à pessoa que fica no cumprimento de um dever, ou vai no desempenho de um",
+      "definition": null,
+      "alternative_meanings": [
+        "Re[…]"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ilekelu-1 — https://www.kimbundu.org/pt/word/ilekelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2117,
+      "kimbundu_term": "Ilekelu",
+      "portuguese_translation": "comendações",
+      "definition": null,
+      "alternative_meanings": [
+        "Mandamentos",
+        "preceitos ou deveres a cumprir de futuro",
+        "Despedidas",
+        "Disposições de última vontade",
+        "Cumprimentos de despedida",
+        "Recados"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ilekelu-1 — https://www.kimbundu.org/pt/word/ilekelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2118,
+      "kimbundu_term": "Ílembu",
+      "portuguese_translation": "Bens ou dinheiros que se dão em propriedade exclusiva à mulher que se casa",
+      "definition": null,
+      "alternative_meanings": [
+        "Dote",
+        "Bens ou dinheiros com que se beneficia determinada mulher que se casa",
+        "Presente de noivado",
+        "Mimo",
+        "Esponsais"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ílembu-1 — https://www.kimbundu.org/pt/word/ilembu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2119,
+      "kimbundu_term": "Ilónda",
+      "portuguese_translation": "Feridas",
+      "definition": null,
+      "alternative_meanings": [
+        "Incisões cutâneas",
+        "Golpes",
+        "Ferimentos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ilónda-1 — https://www.kimbundu.org/pt/word/ilonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2120,
+      "kimbundu_term": "Ilónga",
+      "portuguese_translation": "Vestimenta em forma de cot. feita de folhas de bananeira, com que se ornamentam os dançadores de ngimba",
+      "definition": null,
+      "alternative_meanings": [
+        "Sáia curta de fibra de imbendeiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ilónga-1 — https://www.kimbundu.org/pt/word/ilonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2121,
+      "kimbundu_term": "Ílu",
+      "portuguese_translation": "(IV) Cima",
+      "definition": null,
+      "alternative_meanings": [
+        "O ponto mais alto",
+        "O céu, o ar, o espaço",
+        "Firmamento",
+        "O não ser",
+        "o infinito",
+        "o nada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ílu-1 — https://www.kimbundu.org/pt/word/ilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2122,
+      "kimbundu_term": "Ílu",
+      "portuguese_translation": "De cima",
+      "definition": null,
+      "alternative_meanings": [
+        "de Deus",
+        "Do céu"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ílu-1 — https://www.kimbundu.org/pt/word/ilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2123,
+      "kimbundu_term": "Ílu",
+      "portuguese_translation": "Alto",
+      "definition": null,
+      "alternative_meanings": [
+        "Profundo (considerado de baixo para cima)",
+        "Infinito"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ílu-1 — https://www.kimbundu.org/pt/word/ilu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
