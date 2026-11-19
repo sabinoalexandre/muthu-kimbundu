@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13144,
+      "kimbundu_term": "Kuxekesa",
+      "portuguese_translation": "Mexer",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer ranger",
+        "bulir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxekesa-1 — https://www.kimbundu.org/pt/word/kuxekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13145,
+      "kimbundu_term": "Kuxekesa",
+      "portuguese_translation": "Causar irritação",
+      "definition": null,
+      "alternative_meanings": [
+        "aborrecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxekesa-1 — https://www.kimbundu.org/pt/word/kuxekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13146,
+      "kimbundu_term": "Kuxéna",
+      "portuguese_translation": "Andar com os assentos no chão",
+      "definition": null,
+      "alternative_meanings": [
+        "ir de rojo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxéna-1 — https://www.kimbundu.org/pt/word/kuxena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13147,
+      "kimbundu_term": "Kuxéna",
+      "portuguese_translation": "Kurixena, v. r. Arrastar-se (pelo chão)",
+      "definition": null,
+      "alternative_meanings": [
+        "andar rastejando"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxéna-1 — https://www.kimbundu.org/pt/word/kuxena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13148,
+      "kimbundu_term": "Kuxenena",
+      "portuguese_translation": "Emporcalhar",
+      "definition": null,
+      "alternative_meanings": [
+        "sujar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxenena-1 — https://www.kimbundu.org/pt/word/kuxenena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13149,
+      "kimbundu_term": "Kuxenena",
+      "portuguese_translation": "Kurixenena, e r. Borrar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxenena-1 — https://www.kimbundu.org/pt/word/kuxenena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13150,
+      "kimbundu_term": "Kuxeta",
+      "portuguese_translation": "Mudar de lugar",
+      "definition": null,
+      "alternative_meanings": [
+        "aproximar, estar prestes"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxeta-1 — https://www.kimbundu.org/pt/word/kuxeta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13151,
+      "kimbundu_term": "Kuxetesa",
+      "portuguese_translation": "Trazer para mais perto",
+      "definition": null,
+      "alternative_meanings": [
+        "alijeirar",
+        "fazer aproximar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxetesa-1 — https://www.kimbundu.org/pt/word/kuxetesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13152,
+      "kimbundu_term": "Kuxetuka",
+      "portuguese_translation": "Estar deslocado",
+      "definition": null,
+      "alternative_meanings": [
+        "mover-se",
+        "mudar de posição"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxetuka-1 — https://www.kimbundu.org/pt/word/kuxetuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13153,
+      "kimbundu_term": "Kuxetuka",
+      "portuguese_translation": "Deslocação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxetuka-1 — https://www.kimbundu.org/pt/word/kuxetuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
