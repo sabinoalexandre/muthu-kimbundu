@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10334,
+      "kimbundu_term": "Kulongésa",
+      "portuguese_translation": "Mandar ensinar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulongésa-1 — https://www.kimbundu.org/pt/word/kulongesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10335,
+      "kimbundu_term": "Kulongésa",
+      "portuguese_translation": "Aconselhar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "instruir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulongésa-1 — https://www.kimbundu.org/pt/word/kulongesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10336,
+      "kimbundu_term": "Kulongésa",
+      "portuguese_translation": "truir-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulongésa-1 — https://www.kimbundu.org/pt/word/kulongesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10337,
+      "kimbundu_term": "Kúlongesa",
+      "portuguese_translation": "Fazer carregar, embarcar, deportar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlongesa-1 — https://www.kimbundu.org/pt/word/kulongesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10338,
+      "kimbundu_term": "Kulongola",
+      "portuguese_translation": "Embargar",
+      "definition": null,
+      "alternative_meanings": [
+        "impedir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulongola-1 — https://www.kimbundu.org/pt/word/kulongola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10339,
+      "kimbundu_term": "Kúlongoloka",
+      "portuguese_translation": "Ser loquaz, verboso, falador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlongoloka-1 — https://www.kimbundu.org/pt/word/kulongoloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10340,
+      "kimbundu_term": "Kulongolóla",
+      "portuguese_translation": "Elucidar",
+      "definition": null,
+      "alternative_meanings": [
+        "explicar",
+        "esclarecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulongolóla-1 — https://www.kimbundu.org/pt/word/kulongolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10341,
+      "kimbundu_term": "Kulongolóla",
+      "portuguese_translation": "Censurar",
+      "definition": null,
+      "alternative_meanings": [
+        "criticar",
+        "maldizer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulongolóla-1 — https://www.kimbundu.org/pt/word/kulongolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10342,
+      "kimbundu_term": "Kúlongolola",
+      "portuguese_translation": "Descarregar",
+      "definition": null,
+      "alternative_meanings": [
+        "tirar da embarcação"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlongolola-1 — https://www.kimbundu.org/pt/word/kulongolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10343,
+      "kimbundu_term": "Kúlongolola",
+      "portuguese_translation": "Descarga",
+      "definition": null,
+      "alternative_meanings": [
+        "trabalho de tirar carga a bestas, carros, navios, etc"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlongolola-1 — https://www.kimbundu.org/pt/word/kulongolola",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
