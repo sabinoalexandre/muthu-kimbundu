@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4414,
+      "kimbundu_term": "Ketu",
+      "portuguese_translation": "Nossa",
+      "definition": null,
+      "alternative_meanings": [
+        "nosso",
+        "Das nossas pessoas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ketu-1 — https://www.kimbundu.org/pt/word/ketu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4415,
+      "kimbundu_term": "Ketu",
+      "portuguese_translation": "etu, adv. e pron. poss. pl. Verdadeiramente nosso. Pertencente às nossas pessoas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ketu-1 — https://www.kimbundu.org/pt/word/ketu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4416,
+      "kimbundu_term": "Kéza",
+      "portuguese_translation": "Diz-se da criança que nasce com dentes",
+      "definition": null,
+      "alternative_meanings": [
+        "Benvindo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kéza-1 — https://www.kimbundu.org/pt/word/keza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4417,
+      "kimbundu_term": "Kéza",
+      "portuguese_translation": "Planta arbustiva de caules volubiladas e fls. inteiras, cujas raízes, em infusão, se tomam em casos de dores de ventre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kéza-1 — https://www.kimbundu.org/pt/word/keza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4418,
+      "kimbundu_term": "Kí",
+      "portuguese_translation": "No momento em que",
+      "definition": null,
+      "alternative_meanings": [
+        "Quando",
+        "Logo que",
+        "como",
+        "assim que"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kí-1 — https://www.kimbundu.org/pt/word/ki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4419,
+      "kimbundu_term": "Kí",
+      "portuguese_translation": "Durante o tempo",
+      "definition": null,
+      "alternative_meanings": [
+        "E",
+        "quanto",
+        "Entretanto"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kí-1 — https://www.kimbundu.org/pt/word/ki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4420,
+      "kimbundu_term": "Kí",
+      "portuguese_translation": "de neg. Não",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "conjunção, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kí-1 — https://www.kimbundu.org/pt/word/ki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4421,
+      "kimbundu_term": "Kí",
+      "portuguese_translation": "Cousa nenhuma",
+      "definition": null,
+      "alternative_meanings": [
+        "Nada",
+        "O que não existe"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kí-2 — https://www.kimbundu.org/pt/word/ki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4422,
+      "kimbundu_term": "Kí",
+      "portuguese_translation": "de tempo. Quando",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kí-3 — https://www.kimbundu.org/pt/word/ki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4423,
+      "kimbundu_term": "Kí",
+      "portuguese_translation": "(servindo de sujeito). Que",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, prefixo, concordância",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kí-4 — https://www.kimbundu.org/pt/word/ki",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
