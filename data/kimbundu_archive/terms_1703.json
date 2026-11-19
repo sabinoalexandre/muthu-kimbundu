@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17134,
+      "kimbundu_term": "Musónge",
+      "portuguese_translation": "Aguçador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musónge-1 — https://www.kimbundu.org/pt/word/musonge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17135,
+      "kimbundu_term": "Musónge",
+      "portuguese_translation": "Aparelhador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musónge-1 — https://www.kimbundu.org/pt/word/musonge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17136,
+      "kimbundu_term": "Musónge",
+      "portuguese_translation": "Carpinteiro",
+      "definition": null,
+      "alternative_meanings": [
+        "operário que trabalha em madeira"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musónge-1 — https://www.kimbundu.org/pt/word/musonge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17137,
+      "kimbundu_term": "Musongedi",
+      "portuguese_translation": "Autor",
+      "definition": null,
+      "alternative_meanings": [
+        "inventor"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musongedi-1 — https://www.kimbundu.org/pt/word/musongedi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17138,
+      "kimbundu_term": "Musongedi",
+      "portuguese_translation": "O que faz algo pela primeira vez",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musongedi-1 — https://www.kimbundu.org/pt/word/musongedi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17139,
+      "kimbundu_term": "Musóngo",
+      "portuguese_translation": "Aguço",
+      "definition": null,
+      "alternative_meanings": [
+        "espeto. Qualquer objeto agudo e penetrante. Estoque",
+        "lança",
+        "seta. Ponteiro",
+        "haste"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musóngo-1 — https://www.kimbundu.org/pt/word/musongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17140,
+      "kimbundu_term": "Musóngo",
+      "portuguese_translation": "filamento da haste da palmeira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musóngo-1 — https://www.kimbundu.org/pt/word/musongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17141,
+      "kimbundu_term": "Musóngo",
+      "portuguese_translation": "cúspides",
+      "definition": null,
+      "alternative_meanings": [
+        "pico. Monte alto terminado em bico. A ponta aguda e dura dos capacetes militares"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musóngo-1 — https://www.kimbundu.org/pt/word/musongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17142,
+      "kimbundu_term": "Músonyi",
+      "portuguese_translation": "Visita de cerimónia",
+      "definition": null,
+      "alternative_meanings": [
+        "hóspede"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, músonyi-1 — https://www.kimbundu.org/pt/word/musonyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17143,
+      "kimbundu_term": "Músonyi",
+      "portuguese_translation": "Cerimonioso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, músonyi-1 — https://www.kimbundu.org/pt/word/musonyi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
