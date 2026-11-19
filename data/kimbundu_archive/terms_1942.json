@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19524,
+      "kimbundu_term": "Ukáma",
+      "portuguese_translation": "Situação de mukama",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ukáma-1 — https://www.kimbundu.org/pt/word/ukama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19525,
+      "kimbundu_term": "Ukáma",
+      "portuguese_translation": "Estado da escrava em relação ao patrão de quem é amante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ukáma-1 — https://www.kimbundu.org/pt/word/ukama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19526,
+      "kimbundu_term": "Ukámba",
+      "portuguese_translation": "Amizade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ukámba-1 — https://www.kimbundu.org/pt/word/ukamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19527,
+      "kimbundu_term": "Ukámba",
+      "portuguese_translation": "Boas relações",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ukámba-1 — https://www.kimbundu.org/pt/word/ukamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19528,
+      "kimbundu_term": "Ukámba",
+      "portuguese_translation": "Camaradagem",
+      "definition": null,
+      "alternative_meanings": [
+        "companhia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ukámba-1 — https://www.kimbundu.org/pt/word/ukamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19529,
+      "kimbundu_term": "Úkambu",
+      "portuguese_translation": "Privação",
+      "definition": null,
+      "alternative_meanings": [
+        "escassez",
+        "falta: — ua poko u a ngi kuatesa o Kitandu"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úkambu-1 — https://www.kimbundu.org/pt/word/ukambu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19530,
+      "kimbundu_term": "Úkambu",
+      "portuguese_translation": "Falecimento",
+      "definition": null,
+      "alternative_meanings": [
+        "morte"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úkambu-1 — https://www.kimbundu.org/pt/word/ukambu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19531,
+      "kimbundu_term": "Ukanenu",
+      "portuguese_translation": "Maneira de ameaçar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ukanenu-1 — https://www.kimbundu.org/pt/word/ukanenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19532,
+      "kimbundu_term": "Ukanenu",
+      "portuguese_translation": "Propósito",
+      "definition": null,
+      "alternative_meanings": [
+        "desígnio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ukanenu-1 — https://www.kimbundu.org/pt/word/ukanenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19533,
+      "kimbundu_term": "Ukanesenu",
+      "portuguese_translation": "Forma de antecipar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ukanesenu-1 — https://www.kimbundu.org/pt/word/ukanesenu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
