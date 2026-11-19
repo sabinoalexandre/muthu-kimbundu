@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 744,
+      "kimbundu_term": "Dibutamenu",
+      "portuguese_translation": "Côvo",
+      "definition": null,
+      "alternative_meanings": [
+        "Chocadeira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibutamenu-1 — https://www.kimbundu.org/pt/word/dibutamenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 745,
+      "kimbundu_term": "Dibutu",
+      "portuguese_translation": "Desabamento",
+      "definition": null,
+      "alternative_meanings": [
+        "derrocada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibutu-1 — https://www.kimbundu.org/pt/word/dibutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 746,
+      "kimbundu_term": "Dibutu",
+      "portuguese_translation": "Em quantidade",
+      "definition": null,
+      "alternative_meanings": [
+        "em abundância"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibutu-1 — https://www.kimbundu.org/pt/word/dibutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 747,
+      "kimbundu_term": "Didi",
+      "portuguese_translation": "Designa coisa que está presente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, didi-1 — https://www.kimbundu.org/pt/word/didi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 748,
+      "kimbundu_term": "Didi",
+      "portuguese_translation": "Este",
+      "definition": null,
+      "alternative_meanings": [
+        "esta"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, didi-1 — https://www.kimbundu.org/pt/word/didi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 749,
+      "kimbundu_term": "Didiatelu",
+      "portuguese_translation": "Utensílio próprio para pisar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, didiatelu-1 — https://www.kimbundu.org/pt/word/didiatelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 750,
+      "kimbundu_term": "Didiatelu",
+      "portuguese_translation": "Sapato",
+      "definition": null,
+      "alternative_meanings": [
+        "soco. É mais usado no pl. mariatelu"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, didiatelu-1 — https://www.kimbundu.org/pt/word/didiatelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 751,
+      "kimbundu_term": "Didilu",
+      "portuguese_translation": "Comedouro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, didilu-1 — https://www.kimbundu.org/pt/word/didilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 752,
+      "kimbundu_term": "Didilu",
+      "portuguese_translation": "Lugar onde vão comer animais livres",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, didilu-1 — https://www.kimbundu.org/pt/word/didilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 753,
+      "kimbundu_term": "Didimi",
+      "portuguese_translation": "Forma antiga de rimt",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, didimi-1 — https://www.kimbundu.org/pt/word/didimi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
