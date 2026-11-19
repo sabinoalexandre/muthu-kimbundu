@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2074,
+      "kimbundu_term": "Ijuke",
+      "portuguese_translation": "Miasmas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ijuke-1 — https://www.kimbundu.org/pt/word/ijuke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2075,
+      "kimbundu_term": "Ijuke",
+      "portuguese_translation": "Vapores",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ijuke-1 — https://www.kimbundu.org/pt/word/ijuke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2076,
+      "kimbundu_term": "Ijuke",
+      "portuguese_translation": "Calores",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ijuke-1 — https://www.kimbundu.org/pt/word/ijuke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2077,
+      "kimbundu_term": "Ijuke",
+      "portuguese_translation": "Fumos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ijuke-1 — https://www.kimbundu.org/pt/word/ijuke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2078,
+      "kimbundu_term": "Ijulu",
+      "portuguese_translation": "Espuma que se aglomera na boca de alguns animais. Baba",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ijulu-1 — https://www.kimbundu.org/pt/word/ijulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2079,
+      "kimbundu_term": "Ijulu",
+      "portuguese_translation": "Espécie de mucilagem que se forma na superfície dos líquidos em ebulição",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ijulu-1 — https://www.kimbundu.org/pt/word/ijulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2080,
+      "kimbundu_term": "Ijulu",
+      "portuguese_translation": "Escuma",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ijulu-1 — https://www.kimbundu.org/pt/word/ijulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2081,
+      "kimbundu_term": "Ikalakalu",
+      "portuguese_translation": "Trabalhos",
+      "definition": null,
+      "alternative_meanings": [
+        "Produções literárias, manuais e outras",
+        "Lidas",
+        "Os exames, as discussões e deliberações de uma repartição, etc",
+        "Atos solenes em festividades",
+        "Serviços"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ikalakalu-1 — https://www.kimbundu.org/pt/word/ikalakalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2082,
+      "kimbundu_term": "Ikami",
+      "portuguese_translation": "O que fica do «dendem» depois de extraído o óleo",
+      "definition": null,
+      "alternative_meanings": [
+        "Bagaço",
+        "Os restos da cana depois de exprimido o sumo",
+        "Resíduos de frutos exprimidos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ikami-1 — https://www.kimbundu.org/pt/word/ikami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2083,
+      "kimbundu_term": "Ikau",
+      "portuguese_translation": "Rústicos",
+      "definition": null,
+      "alternative_meanings": [
+        "Campestres",
+        "Campinos",
+        "Do campo",
+        "Próprios do campo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ikau-1 — https://www.kimbundu.org/pt/word/ikau",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
