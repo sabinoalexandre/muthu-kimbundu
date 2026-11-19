@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6164,
+      "kimbundu_term": "Kisesélu",
+      "portuguese_translation": "Peneira",
+      "definition": null,
+      "alternative_meanings": [
+        "Bandeja circular de palha para joeirar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisesélu-1 — https://www.kimbundu.org/pt/word/kiseselu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6165,
+      "kimbundu_term": "Kisesu",
+      "portuguese_translation": "Enxó",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisesu-1 — https://www.kimbundu.org/pt/word/kisesu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6166,
+      "kimbundu_term": "Kisetelu",
+      "portuguese_translation": "Oficina ou lugar de marchetar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisetelu-1 — https://www.kimbundu.org/pt/word/kisetelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6167,
+      "kimbundu_term": "Kisétu",
+      "portuguese_translation": "Marchete",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisétu-1 — https://www.kimbundu.org/pt/word/kisetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6168,
+      "kimbundu_term": "Kisobese",
+      "portuguese_translation": "(III) Que se pode emprestar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisobese-1 — https://www.kimbundu.org/pt/word/kisobese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6169,
+      "kimbundu_term": "Kisobese",
+      "portuguese_translation": "Empréstimo",
+      "definition": null,
+      "alternative_meanings": [
+        "Contrato pelo qual se empresta"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisobese-1 — https://www.kimbundu.org/pt/word/kisobese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6170,
+      "kimbundu_term": "Kisóka",
+      "portuguese_translation": "Terreno rodeado de sebes",
+      "definition": null,
+      "alternative_meanings": [
+        "Campo cercado, murado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisóka-1 — https://www.kimbundu.org/pt/word/kisoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6171,
+      "kimbundu_term": "Kisokela",
+      "portuguese_translation": "Igualdade",
+      "definition": null,
+      "alternative_meanings": [
+        "Correspondência entre as partes de um todo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisokela-1 — https://www.kimbundu.org/pt/word/kisokela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6172,
+      "kimbundu_term": "Kisokelelu",
+      "portuguese_translation": "Craveira: bitola",
+      "definition": null,
+      "alternative_meanings": [
+        "medida de igualdade",
+        "Instrumento para igualar objetos, volumes, etc"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisokelelu-1 — https://www.kimbundu.org/pt/word/kisokelelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6173,
+      "kimbundu_term": "Kisokelelu",
+      "portuguese_translation": "(III) Que se pode apreciar ou igualar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisokelelu-1 — https://www.kimbundu.org/pt/word/kisokelelu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
