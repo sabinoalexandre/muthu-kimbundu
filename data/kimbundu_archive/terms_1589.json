@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15994,
+      "kimbundu_term": "Mububate",
+      "portuguese_translation": "Abarcador",
+      "definition": null,
+      "alternative_meanings": [
+        "açambarcador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mububate-1 — https://www.kimbundu.org/pt/word/mububate",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15995,
+      "kimbundu_term": "Mubube",
+      "portuguese_translation": "Arremessador",
+      "definition": null,
+      "alternative_meanings": [
+        "apedrejador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mubube-1 — https://www.kimbundu.org/pt/word/mubube",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15996,
+      "kimbundu_term": "Múbudi",
+      "portuguese_translation": "Quebrador",
+      "definition": null,
+      "alternative_meanings": [
+        "que parte ou arromba"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múbudi-1 — https://www.kimbundu.org/pt/word/mubudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15997,
+      "kimbundu_term": "Múbudi",
+      "portuguese_translation": "Britador",
+      "definition": null,
+      "alternative_meanings": [
+        "triturador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múbudi-1 — https://www.kimbundu.org/pt/word/mubudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15998,
+      "kimbundu_term": "Múbui",
+      "portuguese_translation": "Depredador",
+      "definition": null,
+      "alternative_meanings": [
+        "usurpador",
+        "saqueador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múbui-1 — https://www.kimbundu.org/pt/word/mubui",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15999,
+      "kimbundu_term": "Mubuingidi",
+      "portuguese_translation": "Planta narcótica eritroxilácea, fam. das edwardia heterophylla, de fruto comestível",
+      "definition": null,
+      "alternative_meanings": [
+        "coca"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mubuingidi-1 — https://www.kimbundu.org/pt/word/mubuingidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16000,
+      "kimbundu_term": "Mubuinginise",
+      "portuguese_translation": "Esgotador",
+      "definition": null,
+      "alternative_meanings": [
+        "que faz evaporar, extinguir (a água)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mubuinginise-1 — https://www.kimbundu.org/pt/word/mubuinginise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16001,
+      "kimbundu_term": "Múbuise",
+      "portuguese_translation": "Acabador",
+      "definition": null,
+      "alternative_meanings": [
+        "que faz cessar, acabar"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múbuise-1 — https://www.kimbundu.org/pt/word/mubuise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16002,
+      "kimbundu_term": "Mubukane",
+      "portuguese_translation": "Escandalizador",
+      "definition": null,
+      "alternative_meanings": [
+        "ofensor (da moral, do pudor, dos sentimentos religiosos)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mubukane-1 — https://www.kimbundu.org/pt/word/mubukane",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16003,
+      "kimbundu_term": "Mubukumuni",
+      "portuguese_translation": "Agitador",
+      "definition": null,
+      "alternative_meanings": [
+        "que sacode",
+        "demonífugo",
+        "curandeiro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mubukumuni-1 — https://www.kimbundu.org/pt/word/mubukumuni",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
