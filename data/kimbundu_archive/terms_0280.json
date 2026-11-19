@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2904,
+      "kimbundu_term": "K'sasamba",
+      "portuguese_translation": "Barraca para habitação provisória",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, k'sasamba-1 — https://www.kimbundu.org/pt/word/k'sasamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2905,
+      "kimbundu_term": "K'suse",
+      "portuguese_translation": "Mijado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, k'suse-1 — https://www.kimbundu.org/pt/word/k'suse",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2906,
+      "kimbundu_term": "K'suse",
+      "portuguese_translation": "Que ourina",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, k'suse-1 — https://www.kimbundu.org/pt/word/k'suse",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2907,
+      "kimbundu_term": "Ká",
+      "portuguese_translation": "Nome da letra K",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ká-1 — https://www.kimbundu.org/pt/word/ka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2908,
+      "kimbundu_term": "Ká",
+      "portuguese_translation": "Prep. que une ao nome o seu complemento",
+      "definition": null,
+      "alternative_meanings": [
+        "De"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ká-1 — https://www.kimbundu.org/pt/word/ka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2909,
+      "kimbundu_term": "Ka",
+      "portuguese_translation": "e pron. poss. Delas",
+      "definition": null,
+      "alternative_meanings": [
+        "deles",
+        "Pertencente às suas pessoas (deles): o kambua — k'anete",
+        "o kamuxi — k'atoloka"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ka-1 — https://www.kimbundu.org/pt/word/ka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2910,
+      "kimbundu_term": "Ka",
+      "portuguese_translation": "— ene, propriamente deles, de mais ninguém: o kangombe'uha — ene",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ka-1 — https://www.kimbundu.org/pt/word/ka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2911,
+      "kimbundu_term": "Ka udiokodioko",
+      "portuguese_translation": "Pequenino",
+      "definition": null,
+      "alternative_meanings": [
+        "Insignificante: kama —",
+        "De pouca importância"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ka udiokodioko-1 — https://www.kimbundu.org/pt/word/ka%20udiokodioko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2912,
+      "kimbundu_term": "Ka udiokodioko",
+      "portuguese_translation": "Cousa nada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ka udiokodioko-1 — https://www.kimbundu.org/pt/word/ka%20udiokodioko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2913,
+      "kimbundu_term": "Ka unene-néne",
+      "portuguese_translation": "Que é do tamanho muito maior que o ordinário",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ka unene-néne-1 — https://www.kimbundu.org/pt/word/ka%20unene-nene",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
