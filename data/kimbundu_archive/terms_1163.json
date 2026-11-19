@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11734,
+      "kimbundu_term": "Kusóna",
+      "portuguese_translation": "Mosquear",
+      "definition": null,
+      "alternative_meanings": [
+        "sarapintar",
+        "Enodoar",
+        "manchar",
+        "fig. Salpicar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusóna-1 — https://www.kimbundu.org/pt/word/kusona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11735,
+      "kimbundu_term": "Kusónda",
+      "portuguese_translation": "Preguiçar",
+      "definition": null,
+      "alternative_meanings": [
+        "mandriar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusónda-1 — https://www.kimbundu.org/pt/word/kusonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11736,
+      "kimbundu_term": "Kusondama",
+      "portuguese_translation": "Estar na posse de",
+      "definition": null,
+      "alternative_meanings": [
+        "Prover-se",
+        "abastecer-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusondama-1 — https://www.kimbundu.org/pt/word/kusondama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11737,
+      "kimbundu_term": "Kusondoloka",
+      "portuguese_translation": "Ficar afastado, separado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusondoloka-1 — https://www.kimbundu.org/pt/word/kusondoloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11738,
+      "kimbundu_term": "Kusondolola",
+      "portuguese_translation": "Apartar",
+      "definition": null,
+      "alternative_meanings": [
+        "separar",
+        "abstrair",
+        "É também recíproco"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusondolola-1 — https://www.kimbundu.org/pt/word/kusondolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11739,
+      "kimbundu_term": "Kusoneka",
+      "portuguese_translation": "Escriturar",
+      "definition": null,
+      "alternative_meanings": [
+        "escrever"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusoneka-1 — https://www.kimbundu.org/pt/word/kusoneka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11740,
+      "kimbundu_term": "Kusoneka",
+      "portuguese_translation": "Escrita",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusoneka-1 — https://www.kimbundu.org/pt/word/kusoneka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11741,
+      "kimbundu_term": "Kusonekena",
+      "portuguese_translation": "Escrever a",
+      "definition": null,
+      "alternative_meanings": [
+        "Escrever por via de",
+        "É também recíproco"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusonekena-1 — https://www.kimbundu.org/pt/word/kusonekena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11742,
+      "kimbundu_term": "Kusonekesa",
+      "portuguese_translation": "Mandar escriturar, fazer escrever",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusonekesa-1 — https://www.kimbundu.org/pt/word/kusonekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11743,
+      "kimbundu_term": "Kusonesa",
+      "portuguese_translation": "Fazer mosquear, sarapintar, matizar de pintas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusonesa-1 — https://www.kimbundu.org/pt/word/kusonesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
