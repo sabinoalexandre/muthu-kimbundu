@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12224,
+      "kimbundu_term": "Kútekesa",
+      "portuguese_translation": "Mandar tirar, esgotar água",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútekesa-1 — https://www.kimbundu.org/pt/word/kutekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12225,
+      "kimbundu_term": "Kuteketa",
+      "portuguese_translation": "Tiritar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuteketa-1 — https://www.kimbundu.org/pt/word/kuteketa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12226,
+      "kimbundu_term": "Kuteketa",
+      "portuguese_translation": "Tremer",
+      "definition": null,
+      "alternative_meanings": [
+        "dar desi"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuteketa-1 — https://www.kimbundu.org/pt/word/kuteketa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12227,
+      "kimbundu_term": "Kuteketa",
+      "portuguese_translation": "Estremecimento",
+      "definition": null,
+      "alternative_meanings": [
+        "tremura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuteketa-1 — https://www.kimbundu.org/pt/word/kuteketa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12228,
+      "kimbundu_term": "Kuteketesa",
+      "portuguese_translation": "Estremecer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuteketesa-1 — https://www.kimbundu.org/pt/word/kuteketesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12229,
+      "kimbundu_term": "Kuteketesa",
+      "portuguese_translation": "Fazer abalar, sacudir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuteketesa-1 — https://www.kimbundu.org/pt/word/kuteketesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12230,
+      "kimbundu_term": "Kutekujula",
+      "portuguese_translation": "Ver com admiração",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutekujula-1 — https://www.kimbundu.org/pt/word/kutekujula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12231,
+      "kimbundu_term": "Kutekujula",
+      "portuguese_translation": "Remirar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutekujula-1 — https://www.kimbundu.org/pt/word/kutekujula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12232,
+      "kimbundu_term": "Kutekúka",
+      "portuguese_translation": "Desatinar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutekúka-1 — https://www.kimbundu.org/pt/word/kutekuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12233,
+      "kimbundu_term": "Kutekúka",
+      "portuguese_translation": "Ficar encantado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutekúka-1 — https://www.kimbundu.org/pt/word/kutekuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
