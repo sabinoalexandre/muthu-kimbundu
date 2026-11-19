@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13124,
+      "kimbundu_term": "Kuxangumukisa",
+      "portuguese_translation": "Fazer escorregar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxangumukisa-1 — https://www.kimbundu.org/pt/word/kuxangumukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13125,
+      "kimbundu_term": "Kuxangumuna",
+      "portuguese_translation": "Tirar canhôtos (das árvores)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxangumuna-1 — https://www.kimbundu.org/pt/word/kuxangumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13126,
+      "kimbundu_term": "Kuxapuinya",
+      "portuguese_translation": "Chapinhar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxapuinya-1 — https://www.kimbundu.org/pt/word/kuxapuinya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13127,
+      "kimbundu_term": "Kuxapuinya",
+      "portuguese_translation": "Banhar (deitando a água com a mão)",
+      "definition": null,
+      "alternative_meanings": [
+        "abluir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxapuinya-1 — https://www.kimbundu.org/pt/word/kuxapuinya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13128,
+      "kimbundu_term": "Kuxapuinya",
+      "portuguese_translation": "Abluição",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxapuinya-1 — https://www.kimbundu.org/pt/word/kuxapuinya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13129,
+      "kimbundu_term": "Kuxapuinya",
+      "portuguese_translation": "Kurixapuinha, v. r. Aspergir-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxapuinya-1 — https://www.kimbundu.org/pt/word/kuxapuinya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13130,
+      "kimbundu_term": "Kuxatuka",
+      "portuguese_translation": "Trampolinar",
+      "definition": null,
+      "alternative_meanings": [
+        "soltar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxatuka-1 — https://www.kimbundu.org/pt/word/kuxatuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13131,
+      "kimbundu_term": "Kuxatuka",
+      "portuguese_translation": "Diz-se do salto de um grão pelo aperto dos dedos que o seguram",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxatuka-1 — https://www.kimbundu.org/pt/word/kuxatuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13132,
+      "kimbundu_term": "Kuxatuka",
+      "portuguese_translation": "Diz-se dos olhos grandes e esbugalhados",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxatuka-1 — https://www.kimbundu.org/pt/word/kuxatuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13133,
+      "kimbundu_term": "Kuxatuka",
+      "portuguese_translation": "Abalar",
+      "definition": null,
+      "alternative_meanings": [
+        "fugir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxatuka-1 — https://www.kimbundu.org/pt/word/kuxatuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
