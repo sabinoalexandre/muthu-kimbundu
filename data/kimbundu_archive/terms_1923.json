@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19334,
+      "kimbundu_term": "Twana",
+      "portuguese_translation": "crianças de pouca idade. Criançada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, twana-1 — https://www.kimbundu.org/pt/word/twana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19335,
+      "kimbundu_term": "Twana",
+      "portuguese_translation": "--tud uisu, criancinhas de tenra idade, de colo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, twana-1 — https://www.kimbundu.org/pt/word/twana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19336,
+      "kimbundu_term": "Twenu",
+      "portuguese_translation": "Vossas",
+      "definition": null,
+      "alternative_meanings": [
+        "vossos",
+        "De vós"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, twenu-1 — https://www.kimbundu.org/pt/word/twenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19337,
+      "kimbundu_term": "Twenu",
+      "portuguese_translation": "propriamente vossos",
+      "definition": null,
+      "alternative_meanings": [
+        "de mais ninguém"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, twenu-1 — https://www.kimbundu.org/pt/word/twenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19338,
+      "kimbundu_term": "Twetu",
+      "portuguese_translation": "Nossas",
+      "definition": null,
+      "alternative_meanings": [
+        "nossos",
+        "Das pessoas que falam",
+        "De nós"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, twetu-1 — https://www.kimbundu.org/pt/word/twetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19339,
+      "kimbundu_term": "Twetu",
+      "portuguese_translation": "verdadeiramente nossos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, twetu-1 — https://www.kimbundu.org/pt/word/twetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19340,
+      "kimbundu_term": "Twonene",
+      "portuguese_translation": "Um pouco maiores",
+      "definition": null,
+      "alternative_meanings": [
+        "Pouco volumosos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, twonene-1 — https://www.kimbundu.org/pt/word/twonene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19341,
+      "kimbundu_term": "Twoso",
+      "portuguese_translation": "Todos",
+      "definition": null,
+      "alternative_meanings": [
+        "todas",
+        "Inteiros, completos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, twoso-1 — https://www.kimbundu.org/pt/word/twoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19342,
+      "kimbundu_term": "Twoso",
+      "portuguese_translation": "A soma",
+      "definition": null,
+      "alternative_meanings": [
+        "o conjunto",
+        "a totalidade",
+        "Tudo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, twoso-1 — https://www.kimbundu.org/pt/word/twoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19343,
+      "kimbundu_term": "Twoso",
+      "portuguese_translation": "adv. Completamente",
+      "definition": null,
+      "alternative_meanings": [
+        "sem exceção ou restrição",
+        "Absolutamente tudo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, twoso-1 — https://www.kimbundu.org/pt/word/twoso",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
