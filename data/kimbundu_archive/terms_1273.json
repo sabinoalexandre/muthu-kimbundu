@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12834,
+      "kimbundu_term": "Kututumuka",
+      "portuguese_translation": "Rebentar, partir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kututumuka-1 — https://www.kimbundu.org/pt/word/kututumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12835,
+      "kimbundu_term": "Kututumuka",
+      "portuguese_translation": "Dar de si",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kututumuka-1 — https://www.kimbundu.org/pt/word/kututumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12836,
+      "kimbundu_term": "Kututumuna",
+      "portuguese_translation": "Arrancar",
+      "definition": null,
+      "alternative_meanings": [
+        "puxar com força: –ipl"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kututumuna-1 — https://www.kimbundu.org/pt/word/kututumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12837,
+      "kimbundu_term": "Kututumuna",
+      "portuguese_translation": "Arrebentar",
+      "definition": null,
+      "alternative_meanings": [
+        "partir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kututumuna-1 — https://www.kimbundu.org/pt/word/kututumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12838,
+      "kimbundu_term": "Kututumuna",
+      "portuguese_translation": "Kuritutumuna, v. r. Soltar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "safar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kututumuna-1 — https://www.kimbundu.org/pt/word/kututumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12839,
+      "kimbundu_term": "Kutúua",
+      "portuguese_translation": "Errar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutúua-1 — https://www.kimbundu.org/pt/word/kutuua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12840,
+      "kimbundu_term": "Kutúua",
+      "portuguese_translation": "Erro",
+      "definition": null,
+      "alternative_meanings": [
+        "equívoco"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutúua-1 — https://www.kimbundu.org/pt/word/kutuua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12841,
+      "kimbundu_term": "Kutúua",
+      "portuguese_translation": "Kuritúua, e r. Dar de cara com",
+      "definition": null,
+      "alternative_meanings": [
+        "encontrar inopinadamente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutúua-1 — https://www.kimbundu.org/pt/word/kutuua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12842,
+      "kimbundu_term": "Kutuuáma",
+      "portuguese_translation": "Ser apanhado em flagrante, tomado de surpresa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutuuáma-1 — https://www.kimbundu.org/pt/word/kutuuama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12843,
+      "kimbundu_term": "Kutuuáma",
+      "portuguese_translation": "Kurituuama, v. r. Dar-se encontro mútuo. Achar-se em presença um do outro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutuuáma-1 — https://www.kimbundu.org/pt/word/kutuuama",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
