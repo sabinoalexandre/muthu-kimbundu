@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13684,
+      "kimbundu_term": "Kuzóza",
+      "portuguese_translation": "Ficar frouxo, alquebrado, gasto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzóza-1 — https://www.kimbundu.org/pt/word/kuzoza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13685,
+      "kimbundu_term": "Kuzóza",
+      "portuguese_translation": "Finar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "expirar",
+        "morrer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzóza-1 — https://www.kimbundu.org/pt/word/kuzoza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13686,
+      "kimbundu_term": "Kuzozeka",
+      "portuguese_translation": "Diminuir de tensão, de força",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzozeka-1 — https://www.kimbundu.org/pt/word/kuzozeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13687,
+      "kimbundu_term": "Kuzozeka",
+      "portuguese_translation": "Afrouxar",
+      "definition": null,
+      "alternative_meanings": [
+        "abrandar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzozeka-1 — https://www.kimbundu.org/pt/word/kuzozeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13688,
+      "kimbundu_term": "Kuzozela",
+      "portuguese_translation": "Deslaçar",
+      "definition": null,
+      "alternative_meanings": [
+        "desapertar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzozela-1 — https://www.kimbundu.org/pt/word/kuzozela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13689,
+      "kimbundu_term": "Kuzozela",
+      "portuguese_translation": "Pagar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzozela-1 — https://www.kimbundu.org/pt/word/kuzozela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13690,
+      "kimbundu_term": "Kuzozesa",
+      "portuguese_translation": "Mandar desapertar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer alargar, dilatar",
+        "tornar bambo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzozesa-1 — https://www.kimbundu.org/pt/word/kuzozesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13691,
+      "kimbundu_term": "Kuzozola",
+      "portuguese_translation": "Dar folga a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzozola-1 — https://www.kimbundu.org/pt/word/kuzozola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13692,
+      "kimbundu_term": "Kuzozola",
+      "portuguese_translation": "Tornar menos apertado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzozola-1 — https://www.kimbundu.org/pt/word/kuzozola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13693,
+      "kimbundu_term": "Kuzozolola",
+      "portuguese_translation": "Desapertar a pouco e pouco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzozolola-1 — https://www.kimbundu.org/pt/word/kuzozolola",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
