@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7624,
+      "kimbundu_term": "Kúboka",
+      "portuguese_translation": "Pregar",
+      "definition": null,
+      "alternative_meanings": [
+        "discursar",
+        "orar. Falar",
+        "discorrer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúboka-1 — https://www.kimbundu.org/pt/word/kuboka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7625,
+      "kimbundu_term": "Kúboka",
+      "portuguese_translation": "Exprobar",
+      "definition": null,
+      "alternative_meanings": [
+        "censurar em público"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúboka-1 — https://www.kimbundu.org/pt/word/kuboka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7626,
+      "kimbundu_term": "Kúboka",
+      "portuguese_translation": "Prática",
+      "definition": null,
+      "alternative_meanings": [
+        "fala oratória"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúboka-1 — https://www.kimbundu.org/pt/word/kuboka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7627,
+      "kimbundu_term": "Kubokela",
+      "portuguese_translation": "Apregoar",
+      "definition": null,
+      "alternative_meanings": [
+        "anunciar",
+        "transmitir (uma comunicação, mandado, ordem)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubokela-1 — https://www.kimbundu.org/pt/word/kubokela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7628,
+      "kimbundu_term": "Kubokela",
+      "portuguese_translation": "Avisar",
+      "definition": null,
+      "alternative_meanings": [
+        "dar parte",
+        "fazer saber a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubokela-1 — https://www.kimbundu.org/pt/word/kubokela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7629,
+      "kimbundu_term": "Kubokojona",
+      "portuguese_translation": "Entrar, penetrar, ingressar por vezes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubokojona-1 — https://www.kimbundu.org/pt/word/kubokojona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7630,
+      "kimbundu_term": "Kubokola",
+      "portuguese_translation": "Ingressar",
+      "definition": null,
+      "alternative_meanings": [
+        "penetrar",
+        "ir dentro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubokola-1 — https://www.kimbundu.org/pt/word/kubokola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7631,
+      "kimbundu_term": "Kubokona",
+      "portuguese_translation": "Entrar",
+      "definition": null,
+      "alternative_meanings": [
+        "transpor",
+        "passar para dentro de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubokona-1 — https://www.kimbundu.org/pt/word/kubokona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7632,
+      "kimbundu_term": "Kubokuena",
+      "portuguese_translation": "Dar entrada por",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubokuena-1 — https://www.kimbundu.org/pt/word/kubokuena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7633,
+      "kimbundu_term": "Kubokuena",
+      "portuguese_translation": "Ir ou vir ter com",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubokuena-1 — https://www.kimbundu.org/pt/word/kubokuena",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
