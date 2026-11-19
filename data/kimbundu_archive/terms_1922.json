@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19324,
+      "kimbundu_term": "Tuwana",
+      "portuguese_translation": "Composto de quatro unidades",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tuwana-1 — https://www.kimbundu.org/pt/word/tuwana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19325,
+      "kimbundu_term": "Túxinyi",
+      "portuguese_translation": "Pedacinhos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, túxinyi-1 — https://www.kimbundu.org/pt/word/tuxinyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19326,
+      "kimbundu_term": "Túxinyi",
+      "portuguese_translation": "Bocadinhos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, túxinyi-1 — https://www.kimbundu.org/pt/word/tuxinyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19327,
+      "kimbundu_term": "Túxinyi",
+      "portuguese_translation": "Pequenos nacos ou postas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, túxinyi-1 — https://www.kimbundu.org/pt/word/tuxinyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19328,
+      "kimbundu_term": "Tuxinyu",
+      "portuguese_translation": "Toucinho",
+      "definition": null,
+      "alternative_meanings": [
+        "lardo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tuxinyu-1 — https://www.kimbundu.org/pt/word/tuxinyu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19329,
+      "kimbundu_term": "Twa",
+      "portuguese_translation": "Suas",
+      "definition": null,
+      "alternative_meanings": [
+        "seus (deles)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, twa-1 — https://www.kimbundu.org/pt/word/twa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19330,
+      "kimbundu_term": "Twa",
+      "portuguese_translation": "Verdadeiramente seus",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, twa-1 — https://www.kimbundu.org/pt/word/twa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19331,
+      "kimbundu_term": "Twami",
+      "portuguese_translation": "Meus",
+      "definition": null,
+      "alternative_meanings": [
+        "minhas. De mim"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, twami-1 — https://www.kimbundu.org/pt/word/twami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19332,
+      "kimbundu_term": "Twami",
+      "portuguese_translation": "Propriamente meus",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, twami-1 — https://www.kimbundu.org/pt/word/twami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19333,
+      "kimbundu_term": "Twana",
+      "portuguese_translation": "Filhinhos",
+      "definition": null,
+      "alternative_meanings": [
+        "meninos",
+        "crianças"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, twana-1 — https://www.kimbundu.org/pt/word/twana",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
