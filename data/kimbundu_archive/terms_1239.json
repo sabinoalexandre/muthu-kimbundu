@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12494,
+      "kimbundu_term": "Kutongela",
+      "portuguese_translation": "Atacar ou defender (esgrimindo)",
+      "definition": null,
+      "alternative_meanings": [
+        "Pelejar, lutar por outrem"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutongela-1 — https://www.kimbundu.org/pt/word/kutongela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12495,
+      "kimbundu_term": "Kutongela",
+      "portuguese_translation": "Continuar",
+      "definition": null,
+      "alternative_meanings": [
+        "persistir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutongela-1 — https://www.kimbundu.org/pt/word/kutongela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12496,
+      "kimbundu_term": "Kutongela",
+      "portuguese_translation": "Manifestar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "descobrir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutongela-1 — https://www.kimbundu.org/pt/word/kutongela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12497,
+      "kimbundu_term": "Kutongesa",
+      "portuguese_translation": "Mandar brigar, fazer esgrimir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutongesa-1 — https://www.kimbundu.org/pt/word/kutongesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12498,
+      "kimbundu_term": "Kutongina",
+      "portuguese_translation": "Observar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutongina-1 — https://www.kimbundu.org/pt/word/kutongina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12499,
+      "kimbundu_term": "Kutongina",
+      "portuguese_translation": "Considerar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutongina-1 — https://www.kimbundu.org/pt/word/kutongina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12500,
+      "kimbundu_term": "Kutonginina",
+      "portuguese_translation": "Fitar",
+      "definition": null,
+      "alternative_meanings": [
+        "Contemplar",
+        "ver"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutonginina-1 — https://www.kimbundu.org/pt/word/kutonginina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12501,
+      "kimbundu_term": "Kutonginina",
+      "portuguese_translation": "Dar no alvo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutonginina-1 — https://www.kimbundu.org/pt/word/kutonginina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12502,
+      "kimbundu_term": "Kutonginina",
+      "portuguese_translation": "Kuritonginina, v. r. Fixar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutonginina-1 — https://www.kimbundu.org/pt/word/kutonginina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12503,
+      "kimbundu_term": "Kutongoloka",
+      "portuguese_translation": "Ter consciência, compreensão, fé",
+      "definition": null,
+      "alternative_meanings": [
+        "Ter a noção ou a faculdade de julgar os próprios atos",
+        "Ser sincero, verdadeiro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutongoloka-1 — https://www.kimbundu.org/pt/word/kutongoloka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
