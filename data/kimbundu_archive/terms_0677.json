@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6874,
+      "kimbundu_term": "Kualalesa",
+      "portuguese_translation": "Fazer queimar, arder, doer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kualalesa-1 — https://www.kimbundu.org/pt/word/kualalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6875,
+      "kimbundu_term": "Kualata",
+      "portuguese_translation": "Quarta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kualata-1 — https://www.kimbundu.org/pt/word/kualata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6876,
+      "kimbundu_term": "Kualata",
+      "portuguese_translation": "Medida equivalente a nove quilos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kualata-1 — https://www.kimbundu.org/pt/word/kualata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6877,
+      "kimbundu_term": "Kuambatesa",
+      "portuguese_translation": "Ajudar a levar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer transportar",
+        "Corporizar",
+        "fornecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuambatesa-1 — https://www.kimbundu.org/pt/word/kuambatesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6878,
+      "kimbundu_term": "Kuambatesa",
+      "portuguese_translation": "Kuríambatesa, e r. Ir ou fazer-se acompanhar de",
+      "definition": null,
+      "alternative_meanings": [
+        "Levar consigo (sem propósito)",
+        "Constituir-se em corpo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuambatesa-1 — https://www.kimbundu.org/pt/word/kuambatesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6879,
+      "kimbundu_term": "Kuambesa",
+      "portuguese_translation": "Fazer dizer",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer censurar, dizer mal"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuambesa-1 — https://www.kimbundu.org/pt/word/kuambesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6880,
+      "kimbundu_term": "Kuambudila",
+      "portuguese_translation": "Adiar",
+      "definition": null,
+      "alternative_meanings": [
+        "tolerar",
+        "consentir",
+        "Confiar",
+        "não obstar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuambudila-1 — https://www.kimbundu.org/pt/word/kuambudila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6881,
+      "kimbundu_term": "Kuambudila",
+      "portuguese_translation": "Permitir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuambudila-1 — https://www.kimbundu.org/pt/word/kuambudila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6882,
+      "kimbundu_term": "Kuambudisa",
+      "portuguese_translation": "Deixar passar",
+      "definition": null,
+      "alternative_meanings": [
+        "deixar ir",
+        "Não interromper",
+        "Dar permissão"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuambudisa-1 — https://www.kimbundu.org/pt/word/kuambudisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6883,
+      "kimbundu_term": "Kuambuísa",
+      "portuguese_translation": "Fazer desmaiar, perder os sentidos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuambuísa-1 — https://www.kimbundu.org/pt/word/kuambuisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
