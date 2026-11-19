@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6484,
+      "kimbundu_term": "Kituxi",
+      "portuguese_translation": "adj. Acusado",
+      "definition": null,
+      "alternative_meanings": [
+        "culpado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kituxi-1 — https://www.kimbundu.org/pt/word/kituxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6485,
+      "kimbundu_term": "Kituxi",
+      "portuguese_translation": "réu",
+      "definition": null,
+      "alternative_meanings": [
+        "Criminoso",
+        "pecador"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kituxi-1 — https://www.kimbundu.org/pt/word/kituxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6486,
+      "kimbundu_term": "Kitwamu",
+      "portuguese_translation": "Antecedente: dianteiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitwamu-1 — https://www.kimbundu.org/pt/word/kitwamu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6487,
+      "kimbundu_term": "Kitwamu",
+      "portuguese_translation": "O que está na frente, parte anterior",
+      "definition": null,
+      "alternative_meanings": [
+        "Caminho avantajado por pessoa ou coisa (com relação a outra que a segue)",
+        "Princípio",
+        "antecedência"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitwamu-1 — https://www.kimbundu.org/pt/word/kitwamu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6488,
+      "kimbundu_term": "Kiua",
+      "portuguese_translation": "(III) Eureka!",
+      "definition": null,
+      "alternative_meanings": [
+        "Hossana! Hurra!"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiua-1 — https://www.kimbundu.org/pt/word/kiua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6489,
+      "kimbundu_term": "Kiua",
+      "portuguese_translation": "Manifestação de regozijo, de contentamento, de alegria",
+      "definition": null,
+      "alternative_meanings": [
+        "Aleluia! viva!"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiua-1 — https://www.kimbundu.org/pt/word/kiua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6490,
+      "kimbundu_term": "Kiua",
+      "portuguese_translation": "Bem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiua-1 — https://www.kimbundu.org/pt/word/kiua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6491,
+      "kimbundu_term": "Kiua",
+      "portuguese_translation": "Consolação",
+      "definition": null,
+      "alternative_meanings": [
+        "paz",
+        "quietação de ânimo",
+        "sossego"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiua-1 — https://www.kimbundu.org/pt/word/kiua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6492,
+      "kimbundu_term": "Kiua",
+      "portuguese_translation": "Assim mesmo",
+      "definition": null,
+      "alternative_meanings": [
+        "Perfeitamente",
+        "de modo agradável",
+        "Ainda"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiua-1 — https://www.kimbundu.org/pt/word/kiua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6493,
+      "kimbundu_term": "Kiua",
+      "portuguese_translation": "loc. adv. Haja paz, saúde, alegria",
+      "definition": null,
+      "alternative_meanings": [
+        "A paz seja convosco"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiua-2 — https://www.kimbundu.org/pt/word/kiua",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
