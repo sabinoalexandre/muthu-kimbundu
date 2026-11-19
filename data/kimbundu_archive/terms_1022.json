@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10324,
+      "kimbundu_term": "Kulongamesa",
+      "portuguese_translation": "Fazer agrupar, amontoar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulongamesa-1 — https://www.kimbundu.org/pt/word/kulongamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10325,
+      "kimbundu_term": "Kulongeka",
+      "portuguese_translation": "Abandonar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulongeka-1 — https://www.kimbundu.org/pt/word/kulongeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10326,
+      "kimbundu_term": "Kulongeka",
+      "portuguese_translation": "Juntar",
+      "definition": null,
+      "alternative_meanings": [
+        "agrupar",
+        "reunir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulongeka-1 — https://www.kimbundu.org/pt/word/kulongeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10327,
+      "kimbundu_term": "Kulongeka",
+      "portuguese_translation": "Reunir-se em bando",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulongeka-1 — https://www.kimbundu.org/pt/word/kulongeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10328,
+      "kimbundu_term": "Kulongeka",
+      "portuguese_translation": "Amontoar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulongeka-1 — https://www.kimbundu.org/pt/word/kulongeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10329,
+      "kimbundu_term": "Kulongela",
+      "portuguese_translation": "Atulhar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulongela-1 — https://www.kimbundu.org/pt/word/kulongela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10330,
+      "kimbundu_term": "Kulongela",
+      "portuguese_translation": "Ensacar",
+      "definition": null,
+      "alternative_meanings": [
+        "encurralar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulongela-1 — https://www.kimbundu.org/pt/word/kulongela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10331,
+      "kimbundu_term": "Kulongela",
+      "portuguese_translation": "Meter sem ordem nem método",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulongela-1 — https://www.kimbundu.org/pt/word/kulongela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10332,
+      "kimbundu_term": "Kulongela",
+      "portuguese_translation": "Carregar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulongela-1 — https://www.kimbundu.org/pt/word/kulongela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10333,
+      "kimbundu_term": "Kulongésa",
+      "portuguese_translation": "Insinuar",
+      "definition": null,
+      "alternative_meanings": [
+        "aconselhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulongésa-1 — https://www.kimbundu.org/pt/word/kulongesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
