@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9764,
+      "kimbundu_term": "Kukumdama",
+      "portuguese_translation": "Ficar embuchado, entupido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumdama-1 — https://www.kimbundu.org/pt/word/kukumdama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9765,
+      "kimbundu_term": "Kukumdama",
+      "portuguese_translation": "Ficar com a garganta obstruída por alguma coisa que se queria engolir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumdama-1 — https://www.kimbundu.org/pt/word/kukumdama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9766,
+      "kimbundu_term": "Kukumdama",
+      "portuguese_translation": "Engasgo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumdama-1 — https://www.kimbundu.org/pt/word/kukumdama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9767,
+      "kimbundu_term": "Kukumisa",
+      "portuguese_translation": "Fazer aborrecer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumisa-1 — https://www.kimbundu.org/pt/word/kukumisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9768,
+      "kimbundu_term": "Kukumujuna",
+      "portuguese_translation": "Resmonear",
+      "definition": null,
+      "alternative_meanings": [
+        "resmungar",
+        "dar grunhidos em sinal de admiração ou reprovação"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumujuna-1 — https://www.kimbundu.org/pt/word/kukumujuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9769,
+      "kimbundu_term": "Kukumuna",
+      "portuguese_translation": "Emitir som gutural que traduz reprovação ou admiração",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumuna-1 — https://www.kimbundu.org/pt/word/kukumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9770,
+      "kimbundu_term": "Kukumuna",
+      "portuguese_translation": "Objetar, replicar com grunhido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumuna-1 — https://www.kimbundu.org/pt/word/kukumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9771,
+      "kimbundu_term": "Kukumuna",
+      "portuguese_translation": "Retruque",
+      "definition": null,
+      "alternative_meanings": [
+        "grunhido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumuna-1 — https://www.kimbundu.org/pt/word/kukumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9772,
+      "kimbundu_term": "Kúkuna",
+      "portuguese_translation": "Semear",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkuna-1 — https://www.kimbundu.org/pt/word/kukuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9773,
+      "kimbundu_term": "Kúkuna",
+      "portuguese_translation": "Plantar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkuna-1 — https://www.kimbundu.org/pt/word/kukuna",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
