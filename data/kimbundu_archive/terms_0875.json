@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8854,
+      "kimbundu_term": "Kuijia",
+      "portuguese_translation": "Conhecimentos adquiridos",
+      "definition": null,
+      "alternative_meanings": [
+        "ciência",
+        "sabedoria"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuijia-1 — https://www.kimbundu.org/pt/word/kuijia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8855,
+      "kimbundu_term": "Kuijia",
+      "portuguese_translation": "Experiência da vida, do mundo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuijia-1 — https://www.kimbundu.org/pt/word/kuijia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8856,
+      "kimbundu_term": "Kuijidila",
+      "portuguese_translation": "Estar acostumado, habituado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuijidila-1 — https://www.kimbundu.org/pt/word/kuijidila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8857,
+      "kimbundu_term": "Kuijidisa",
+      "portuguese_translation": "Acostumar",
+      "definition": null,
+      "alternative_meanings": [
+        "habituar, afazer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuijidisa-1 — https://www.kimbundu.org/pt/word/kuijidisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8858,
+      "kimbundu_term": "Kuijidisa",
+      "portuguese_translation": "Domesticar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer conhecer, tomar conhecimento, distinguir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuijidisa-1 — https://www.kimbundu.org/pt/word/kuijidisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8859,
+      "kimbundu_term": "Kuikutisa",
+      "portuguese_translation": "Fazer fartar, satisfazer. Dar de comer até à saciedade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuikutisa-1 — https://www.kimbundu.org/pt/word/kuikutisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8860,
+      "kimbundu_term": "Kuílu",
+      "portuguese_translation": "Afluente do rio Lifune, na circ. do Dande, distr. e prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuílu-1 — https://www.kimbundu.org/pt/word/kuilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8861,
+      "kimbundu_term": "Kuílu",
+      "portuguese_translation": "Pov. e posto na margem do rio deste nome, circ. civ. de Camaxilo, distr. da Lunda, prov. de Malange, 1032 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuílu-1 — https://www.kimbundu.org/pt/word/kuilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8862,
+      "kimbundu_term": "Kuilukisa",
+      "portuguese_translation": "Fazer curar",
+      "definition": null,
+      "alternative_meanings": [
+        "sarar, livrar do mal"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuilukisa-1 — https://www.kimbundu.org/pt/word/kuilukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8863,
+      "kimbundu_term": "Kuilukisa",
+      "portuguese_translation": "Tratar",
+      "definition": null,
+      "alternative_meanings": [
+        "exercer medicina. É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuilukisa-1 — https://www.kimbundu.org/pt/word/kuilukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
