@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7224,
+      "kimbundu_term": "Kúbebela",
+      "portuguese_translation": "Lacrar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbebela-1 — https://www.kimbundu.org/pt/word/kubebela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7225,
+      "kimbundu_term": "Kúbebela",
+      "portuguese_translation": "Kuribebela, v. r. Colar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "prender-se com goma"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbebela-1 — https://www.kimbundu.org/pt/word/kubebela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7226,
+      "kimbundu_term": "Kúbebesa",
+      "portuguese_translation": "Mandar tecer elogios",
+      "definition": null,
+      "alternative_meanings": [
+        "adular",
+        "lisonjear"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbebesa-1 — https://www.kimbundu.org/pt/word/kubebesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7227,
+      "kimbundu_term": "Kúbebesa",
+      "portuguese_translation": "Fazer grazinar, rilhar",
+      "definition": null,
+      "alternative_meanings": [
+        "praguejar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbebesa-1 — https://www.kimbundu.org/pt/word/kubebesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7228,
+      "kimbundu_term": "Kubebuka",
+      "portuguese_translation": "Desgarrar",
+      "definition": null,
+      "alternative_meanings": [
+        "apartar-se do caminho",
+        "fugir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubebuka-1 — https://www.kimbundu.org/pt/word/kubebuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7229,
+      "kimbundu_term": "Kubebuka",
+      "portuguese_translation": "Desanimar",
+      "definition": null,
+      "alternative_meanings": [
+        "perder-se",
+        "decair"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubebuka-1 — https://www.kimbundu.org/pt/word/kubebuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7230,
+      "kimbundu_term": "Kubebukisa",
+      "portuguese_translation": "Fazer garrar, desviar, mudar de rumo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubebukisa-1 — https://www.kimbundu.org/pt/word/kubebukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7231,
+      "kimbundu_term": "Kubebula",
+      "portuguese_translation": "Desgarrar",
+      "definition": null,
+      "alternative_meanings": [
+        "desviar (o barco) do rumo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubebula-1 — https://www.kimbundu.org/pt/word/kubebula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7232,
+      "kimbundu_term": "Kubebula",
+      "portuguese_translation": "Mudar a direção de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubebula-1 — https://www.kimbundu.org/pt/word/kubebula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7233,
+      "kimbundu_term": "Kubebula",
+      "portuguese_translation": "Debilitar",
+      "definition": null,
+      "alternative_meanings": [
+        "enfraquecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubebula-2 — https://www.kimbundu.org/pt/word/kubebula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
