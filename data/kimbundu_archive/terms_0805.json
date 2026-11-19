@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8154,
+      "kimbundu_term": "Kudifinyama",
+      "portuguese_translation": "Diz-se da situação ou estado de muita gente em pequeno espaço",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudifinyama-1 — https://www.kimbundu.org/pt/word/kudifinyama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8155,
+      "kimbundu_term": "Kudiiala",
+      "portuguese_translation": "Descuidar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "distrair-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudiiala-1 — https://www.kimbundu.org/pt/word/kudiiala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8156,
+      "kimbundu_term": "Kudiiala",
+      "portuguese_translation": "Esquecer momentaneamente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudiiala-1 — https://www.kimbundu.org/pt/word/kudiiala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8157,
+      "kimbundu_term": "Kudiiala",
+      "portuguese_translation": "taneamente",
+      "definition": null,
+      "alternative_meanings": [
+        "Descurar",
+        "mostrar desleixo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudiiala-1 — https://www.kimbundu.org/pt/word/kudiiala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8158,
+      "kimbundu_term": "Kudijidila",
+      "portuguese_translation": "Habilitar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "afazer-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudijidila-1 — https://www.kimbundu.org/pt/word/kudijidila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8159,
+      "kimbundu_term": "Kudijidísa",
+      "portuguese_translation": "Gastar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "consumir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudijidísa-1 — https://www.kimbundu.org/pt/word/kudijidisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8160,
+      "kimbundu_term": "Kudijidísa",
+      "portuguese_translation": "Dar-se a saber",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer-se conhecido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudijidísa-1 — https://www.kimbundu.org/pt/word/kudijidisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8161,
+      "kimbundu_term": "Kudijila",
+      "portuguese_translation": "Vir espontaneamente, por seu próprio pé",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudijila-1 — https://www.kimbundu.org/pt/word/kudijila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8162,
+      "kimbundu_term": "Kudijungisa",
+      "portuguese_translation": "Meter-se na confusão",
+      "definition": null,
+      "alternative_meanings": [
+        "Não se identificar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudijungisa-1 — https://www.kimbundu.org/pt/word/kudijungisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8163,
+      "kimbundu_term": "Kudikáka",
+      "portuguese_translation": "Dar-se encontrões",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikáka-1 — https://www.kimbundu.org/pt/word/kudikaka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
