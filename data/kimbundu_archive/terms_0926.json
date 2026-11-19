@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9364,
+      "kimbundu_term": "Kukénya",
+      "portuguese_translation": "Depreciar",
+      "definition": null,
+      "alternative_meanings": [
+        "desdenhar",
+        "escarnecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukénya-1 — https://www.kimbundu.org/pt/word/kukenya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9365,
+      "kimbundu_term": "Kukénya",
+      "portuguese_translation": "Menospreso",
+      "definition": null,
+      "alternative_meanings": [
+        "desdém"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukénya-1 — https://www.kimbundu.org/pt/word/kukenya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9366,
+      "kimbundu_term": "Kúkenza",
+      "portuguese_translation": "Escoar",
+      "definition": null,
+      "alternative_meanings": [
+        "verter",
+        "livrar de impurezas (o líquido)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkenza-1 — https://www.kimbundu.org/pt/word/kukenza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9367,
+      "kimbundu_term": "Kúkenza",
+      "portuguese_translation": "Decantação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkenza-1 — https://www.kimbundu.org/pt/word/kukenza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9368,
+      "kimbundu_term": "Kukénza",
+      "portuguese_translation": "Escovinhar, cortar rente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukénza-1 — https://www.kimbundu.org/pt/word/kukenza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9369,
+      "kimbundu_term": "Kukénza",
+      "portuguese_translation": "Fazer altos e baixos (cortando)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukénza-1 — https://www.kimbundu.org/pt/word/kukenza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9370,
+      "kimbundu_term": "Kukenzama",
+      "portuguese_translation": "Flutuar, boiar, ficar por cima: ifulu l akenzama ku tanda a menha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukenzama-1 — https://www.kimbundu.org/pt/word/kukenzama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9371,
+      "kimbundu_term": "Kukenzama",
+      "portuguese_translation": "Estar à superfície",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukenzama-1 — https://www.kimbundu.org/pt/word/kukenzama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9372,
+      "kimbundu_term": "Kukenzama",
+      "portuguese_translation": "Diz-se das impurezas quando ficam por cima dos líquidos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukenzama-1 — https://www.kimbundu.org/pt/word/kukenzama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9373,
+      "kimbundu_term": "Kukenzamesa",
+      "portuguese_translation": "Fazer flutuar (as impurezas de um líquido)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukenzamesa-1 — https://www.kimbundu.org/pt/word/kukenzamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
