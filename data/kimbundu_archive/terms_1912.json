@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19224,
+      "kimbundu_term": "Topokotó",
+      "portuguese_translation": "Sujo",
+      "definition": null,
+      "alternative_meanings": [
+        "cheio de lama",
+        "coberto de sujidades"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, topokotó-1 — https://www.kimbundu.org/pt/word/topokoto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19225,
+      "kimbundu_term": "Tóta",
+      "portuguese_translation": "Larica",
+      "definition": null,
+      "alternative_meanings": [
+        "fome"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tóta-1 — https://www.kimbundu.org/pt/word/tota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19226,
+      "kimbundu_term": "Tóto",
+      "portuguese_translation": "e pron. demonstr. (VII) Essa",
+      "definition": null,
+      "alternative_meanings": [
+        "esse"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tóto-1 — https://www.kimbundu.org/pt/word/toto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19227,
+      "kimbundu_term": "Tóto",
+      "portuguese_translation": "(X) Essas",
+      "definition": null,
+      "alternative_meanings": [
+        "esses"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tóto-1 — https://www.kimbundu.org/pt/word/toto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19228,
+      "kimbundu_term": "Tóto",
+      "portuguese_translation": "Imitação do ruído do pano que se rasga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tóto-1 — https://www.kimbundu.org/pt/word/toto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19229,
+      "kimbundu_term": "Tóto",
+      "portuguese_translation": "De",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tóto-1 — https://www.kimbundu.org/pt/word/toto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19230,
+      "kimbundu_term": "Tu-sange",
+      "portuguese_translation": "para saudar um recém-vindo (seja bem vindo, senhor)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tu-sange-1 — https://www.kimbundu.org/pt/word/tu-sange",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19231,
+      "kimbundu_term": "Tuakamuxua",
+      "portuguese_translation": "Outra",
+      "definition": null,
+      "alternative_meanings": [
+        "outro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tuakamuxua-1 — https://www.kimbundu.org/pt/word/tuakamuxua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19232,
+      "kimbundu_term": "Tuakamuxua",
+      "portuguese_translation": "(X) outros",
+      "definition": null,
+      "alternative_meanings": [
+        "outras",
+        "diferentes. Não estes"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tuakamuxua-1 — https://www.kimbundu.org/pt/word/tuakamuxua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19233,
+      "kimbundu_term": "Tuambúndu",
+      "portuguese_translation": "Pretinhos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tuambúndu-1 — https://www.kimbundu.org/pt/word/tuambundu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
