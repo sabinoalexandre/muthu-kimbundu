@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12684,
+      "kimbundu_term": "Kutulumuna",
+      "portuguese_translation": "É tb. r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutulumuna-1 — https://www.kimbundu.org/pt/word/kutulumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12685,
+      "kimbundu_term": "Kútuma",
+      "portuguese_translation": "Kurituma, e r. Comportar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "conviver"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútuma-1 — https://www.kimbundu.org/pt/word/kutuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12686,
+      "kimbundu_term": "Kútuma",
+      "portuguese_translation": "Dar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "haver-se",
+        "governar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútuma-1 — https://www.kimbundu.org/pt/word/kutuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12687,
+      "kimbundu_term": "Kútuma",
+      "portuguese_translation": "Comportamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútuma-1 — https://www.kimbundu.org/pt/word/kutuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12688,
+      "kimbundu_term": "Kutumaka",
+      "portuguese_translation": "Acatar",
+      "definition": null,
+      "alternative_meanings": [
+        "respeitar",
+        "obedecer",
+        "Ser dócil",
+        "Observar",
+        "executar",
+        "cumprir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutumaka-1 — https://www.kimbundu.org/pt/word/kutumaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12689,
+      "kimbundu_term": "Kutumaka",
+      "portuguese_translation": "Obediência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutumaka-1 — https://www.kimbundu.org/pt/word/kutumaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12690,
+      "kimbundu_term": "Kutumama",
+      "portuguese_translation": "e intr. Aturar",
+      "definition": null,
+      "alternative_meanings": [
+        "tolerar",
+        "suportar",
+        "Padecer com resignação e paciência"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutumama-1 — https://www.kimbundu.org/pt/word/kutumama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12691,
+      "kimbundu_term": "Kutumama",
+      "portuguese_translation": "Ser assíduo",
+      "definition": null,
+      "alternative_meanings": [
+        "contínuo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutumama-1 — https://www.kimbundu.org/pt/word/kutumama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12692,
+      "kimbundu_term": "Kutumana",
+      "portuguese_translation": "Aquietar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "ficar sossegado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutumana-1 — https://www.kimbundu.org/pt/word/kutumana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12693,
+      "kimbundu_term": "Kutumanesa",
+      "portuguese_translation": "Fazer aquietar",
+      "definition": null,
+      "alternative_meanings": [
+        "pôr em sossego"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutumanesa-1 — https://www.kimbundu.org/pt/word/kutumanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
