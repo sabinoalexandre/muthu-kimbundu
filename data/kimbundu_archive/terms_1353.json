@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13634,
+      "kimbundu_term": "Kuzezula",
+      "portuguese_translation": "Embriagar, entontecer",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar pouco ébrio"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzezula-1 — https://www.kimbundu.org/pt/word/kuzezula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13635,
+      "kimbundu_term": "Kuzoboka",
+      "portuguese_translation": "Ficar logrado, ludibriado",
+      "definition": null,
+      "alternative_meanings": [
+        "parvoejar",
+        "ficar pateta"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzoboka-1 — https://www.kimbundu.org/pt/word/kuzoboka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13636,
+      "kimbundu_term": "Kuzobuesa",
+      "portuguese_translation": "Lograr",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer negaças",
+        "zombar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzobuesa-1 — https://www.kimbundu.org/pt/word/kuzobuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13637,
+      "kimbundu_term": "Kúzoka",
+      "portuguese_translation": "Barulhar",
+      "definition": null,
+      "alternative_meanings": [
+        "altercar",
+        "contender",
+        "questionar",
+        "travar de razões"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúzoka-1 — https://www.kimbundu.org/pt/word/kuzoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13638,
+      "kimbundu_term": "Kúzoka",
+      "portuguese_translation": "Questão",
+      "definition": null,
+      "alternative_meanings": [
+        "contenda"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúzoka-1 — https://www.kimbundu.org/pt/word/kuzoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13639,
+      "kimbundu_term": "Kuzokela",
+      "portuguese_translation": "Questionar por. Tomar interesse por",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzokela-1 — https://www.kimbundu.org/pt/word/kuzokela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13640,
+      "kimbundu_term": "Kuzokelela",
+      "portuguese_translation": "Defender",
+      "definition": null,
+      "alternative_meanings": [
+        "acudir",
+        "Patrocinar",
+        "favorecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzokelela-1 — https://www.kimbundu.org/pt/word/kuzokelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13641,
+      "kimbundu_term": "Kuzokelela",
+      "portuguese_translation": "Kurizokelela, v. r. Prestar auxílio mútuo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzokelela-1 — https://www.kimbundu.org/pt/word/kuzokelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13642,
+      "kimbundu_term": "Kuzokesa",
+      "portuguese_translation": "Acirrar",
+      "definition": null,
+      "alternative_meanings": [
+        "fomentar desordens",
+        "Inimizar, malquistar pessoas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzokesa-1 — https://www.kimbundu.org/pt/word/kuzokesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13643,
+      "kimbundu_term": "Kuzokonona",
+      "portuguese_translation": "Picar (com o bico)",
+      "definition": null,
+      "alternative_meanings": [
+        "Aferroar",
+        "dar bicadas",
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzokonona-1 — https://www.kimbundu.org/pt/word/kuzokonona",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
