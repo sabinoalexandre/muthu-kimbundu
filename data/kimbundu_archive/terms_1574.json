@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15844,
+      "kimbundu_term": "Muâmi",
+      "portuguese_translation": "Meu",
+      "definition": null,
+      "alternative_meanings": [
+        "minha"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muâmi-1 — https://www.kimbundu.org/pt/word/muami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15845,
+      "kimbundu_term": "Muâmua",
+      "portuguese_translation": "Remigio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muâmua-1 — https://www.kimbundu.org/pt/word/muamua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15846,
+      "kimbundu_term": "Muâmua",
+      "portuguese_translation": "Cada uma das penas maiores das aves",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muâmua-1 — https://www.kimbundu.org/pt/word/muamua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15847,
+      "kimbundu_term": "Muamui",
+      "portuguese_translation": "Mamador. Pessoa que se cria do leite que chupa das tetas. Sugador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muamui-1 — https://www.kimbundu.org/pt/word/muamui",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15848,
+      "kimbundu_term": "Muamui",
+      "portuguese_translation": "Chupista",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muamui-1 — https://www.kimbundu.org/pt/word/muamui",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15849,
+      "kimbundu_term": "Muâna",
+      "portuguese_translation": "Filho",
+      "definition": null,
+      "alternative_meanings": [
+        "filha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muâna-1 — https://www.kimbundu.org/pt/word/muana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15850,
+      "kimbundu_term": "Muánde",
+      "portuguese_translation": "Sonhador —a jinzoji",
+      "definition": null,
+      "alternative_meanings": [
+        "Visionário"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muánde-1 — https://www.kimbundu.org/pt/word/muande",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15851,
+      "kimbundu_term": "Muande",
+      "portuguese_translation": "Comilão",
+      "definition": null,
+      "alternative_meanings": [
+        "comedor",
+        "Devorador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muande-1 — https://www.kimbundu.org/pt/word/muande",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15852,
+      "kimbundu_term": "Muande",
+      "portuguese_translation": "Nome por que no Sul da província se conhece a planta mulende",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muande-1 — https://www.kimbundu.org/pt/word/muande",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15853,
+      "kimbundu_term": "Muându",
+      "portuguese_translation": "Peixe esqualo",
+      "definition": null,
+      "alternative_meanings": [
+        "tubarão",
+        "Cão do mar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muându-1 — https://www.kimbundu.org/pt/word/muandu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
