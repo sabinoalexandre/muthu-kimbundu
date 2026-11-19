@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5884,
+      "kimbundu_term": "Kinyinga",
+      "portuguese_translation": "Quantidade, poça, abundância de sangue derramado",
+      "definition": null,
+      "alternative_meanings": [
+        "Cruor"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinyinga-1 — https://www.kimbundu.org/pt/word/kinyinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5885,
+      "kimbundu_term": "Kinyoka",
+      "portuguese_translation": "Cobra grande",
+      "definition": null,
+      "alternative_meanings": [
+        "Casa de dois compartimentos de frente e um de fundo",
+        "Esquadra",
+        "fig. Larica",
+        "fome"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinyoka-1 — https://www.kimbundu.org/pt/word/kinyoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5886,
+      "kimbundu_term": "Kinyonga",
+      "portuguese_translation": "Cintura",
+      "definition": null,
+      "alternative_meanings": [
+        "Parte dos vestidos que cobre a cintura"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinyonga-1 — https://www.kimbundu.org/pt/word/kinyonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5887,
+      "kimbundu_term": "Kinyongoto",
+      "portuguese_translation": "Cólica",
+      "definition": null,
+      "alternative_meanings": [
+        "Dor de barriga"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinyongoto-1 — https://www.kimbundu.org/pt/word/kinyongoto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5888,
+      "kimbundu_term": "Kinyúnga",
+      "portuguese_translation": "Ligamento do prepúcio",
+      "definition": null,
+      "alternative_meanings": [
+        "Freio., adj. Que tem freio (no prepúcio)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinyúnga-1 — https://www.kimbundu.org/pt/word/kinyunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5889,
+      "kimbundu_term": "Kinyungu",
+      "portuguese_translation": "Vortiginoso",
+      "definition": null,
+      "alternative_meanings": [
+        "Que se move em rodopio ou redemoinho",
+        "Vorticoso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinyungu-1 — https://www.kimbundu.org/pt/word/kinyungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5890,
+      "kimbundu_term": "Kinyungu",
+      "portuguese_translation": "Turbilhão",
+      "definition": null,
+      "alternative_meanings": [
+        "vórtice",
+        "Tromba"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinyungu-2 — https://www.kimbundu.org/pt/word/kinyungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5891,
+      "kimbundu_term": "Kinyungu",
+      "portuguese_translation": "Ave de rapina tipo das vulturídas",
+      "definition": null,
+      "alternative_meanings": [
+        "Abutre",
+        "Águia pesqueira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinyungu-2 — https://www.kimbundu.org/pt/word/kinyungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5892,
+      "kimbundu_term": "Kinzadi",
+      "portuguese_translation": "Pantera",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Pessoa furiosa e má",
+        "Fera"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinzadi-1 — https://www.kimbundu.org/pt/word/kinzadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5893,
+      "kimbundu_term": "Kinzalanzala",
+      "portuguese_translation": "Glândula abdominal",
+      "definition": null,
+      "alternative_meanings": [
+        "Pâncreas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinzalanzala-1 — https://www.kimbundu.org/pt/word/kinzalanzala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
