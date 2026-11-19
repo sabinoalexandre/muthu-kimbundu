@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14844,
+      "kimbundu_term": "Maseka",
+      "portuguese_translation": "Ama-seca",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maseka-1 — https://www.kimbundu.org/pt/word/maseka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14845,
+      "kimbundu_term": "Masémba",
+      "portuguese_translation": "Umbigadas (na dança)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, masémba-1 — https://www.kimbundu.org/pt/word/masemba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14846,
+      "kimbundu_term": "Masémba",
+      "portuguese_translation": "Escovinhas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, masémba-1 — https://www.kimbundu.org/pt/word/masemba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14847,
+      "kimbundu_term": "Maséndu",
+      "portuguese_translation": "Gorjeta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maséndu-1 — https://www.kimbundu.org/pt/word/masendu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14848,
+      "kimbundu_term": "Masenza",
+      "portuguese_translation": "Lagamar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, masenza-1 — https://www.kimbundu.org/pt/word/masenza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14849,
+      "kimbundu_term": "Masenza",
+      "portuguese_translation": "Lugar acessível às águas das chuvas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, masenza-1 — https://www.kimbundu.org/pt/word/masenza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14850,
+      "kimbundu_term": "Masenza",
+      "portuguese_translation": "Lagoa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, masenza-1 — https://www.kimbundu.org/pt/word/masenza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14851,
+      "kimbundu_term": "Másoko",
+      "portuguese_translation": "Quantidade de paus de prumo, de vigas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, másoko-1 — https://www.kimbundu.org/pt/word/masoko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14852,
+      "kimbundu_term": "Másoko",
+      "portuguese_translation": "Conjunto de madeira para construção",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, másoko-1 — https://www.kimbundu.org/pt/word/masoko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14853,
+      "kimbundu_term": "Masóko",
+      "portuguese_translation": "Coevos",
+      "definition": null,
+      "alternative_meanings": [
+        "contemporâneos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, masóko-1 — https://www.kimbundu.org/pt/word/masoko",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
