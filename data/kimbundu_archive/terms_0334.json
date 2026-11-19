@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3444,
+      "kimbundu_term": "Kálongolo",
+      "portuguese_translation": "Ave palradora dos desertos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kálongolo-1 — https://www.kimbundu.org/pt/word/kalongolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3445,
+      "kimbundu_term": "Káloto",
+      "portuguese_translation": "Saliente",
+      "definition": null,
+      "alternative_meanings": [
+        "notável",
+        "Que sobressai, que dá nas vistas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, káloto-1 — https://www.kimbundu.org/pt/word/kaloto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3446,
+      "kimbundu_term": "Káloto",
+      "portuguese_translation": "Saliência",
+      "definition": null,
+      "alternative_meanings": [
+        "eminência",
+        "Diz-se da barriga saliente em forma de bico",
+        "Barriguinha"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, káloto-1 — https://www.kimbundu.org/pt/word/kaloto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3447,
+      "kimbundu_term": "Kaluanda",
+      "portuguese_translation": "Confluente da margem direita do rio Lucala, no antigo conc. de Ambaca, circ. civ. de Casengo, distr. do Quanza-Norte, pr",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaluanda-1 — https://www.kimbundu.org/pt/word/kaluanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3448,
+      "kimbundu_term": "Kaluângu",
+      "portuguese_translation": "Pov. e sede do posto deste nome, circ. de Camaxilo, distr. da Lunda, prov. de Malange, com 15 007 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaluângu-1 — https://www.kimbundu.org/pt/word/kaluangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3449,
+      "kimbundu_term": "Kaluângu",
+      "portuguese_translation": "Afluente do rio Quango, na região dos Quiocos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaluângu-1 — https://www.kimbundu.org/pt/word/kaluangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3450,
+      "kimbundu_term": "Kalubényi",
+      "portuguese_translation": "Relâmpago",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalubényi-1 — https://www.kimbundu.org/pt/word/kalubenyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3451,
+      "kimbundu_term": "Kalûbia",
+      "portuguese_translation": "Planta fam. das rosáceas (parinari capensis) de fruto saboroso e madeira aproveitável",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalûbia-1 — https://www.kimbundu.org/pt/word/kalubia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3452,
+      "kimbundu_term": "Kalubungu",
+      "portuguese_translation": "Dom",
+      "definition": null,
+      "alternative_meanings": [
+        "virtude",
+        "poder sobrenatural",
+        "Condão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalubungu-1 — https://www.kimbundu.org/pt/word/kalubungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3453,
+      "kimbundu_term": "Kalubungu",
+      "portuguese_translation": "Amuleto ou pequeno chifre que, nas fábulas e contos de fadas, tem o poder de fazer brotar do nada palácios, príncipes e",
+      "definition": null,
+      "alternative_meanings": [
+        "Encantamento: bruxedo: magia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalubungu-1 — https://www.kimbundu.org/pt/word/kalubungu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
