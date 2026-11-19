@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10944,
+      "kimbundu_term": "Kunumana",
+      "portuguese_translation": "Amuar",
+      "definition": null,
+      "alternative_meanings": [
+        "ter melindre, ressentimento, queixa"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunumana-1 — https://www.kimbundu.org/pt/word/kunumana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10945,
+      "kimbundu_term": "Kunumanesa",
+      "portuguese_translation": "Fazer zangar, aborrecer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunumanesa-1 — https://www.kimbundu.org/pt/word/kunumanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10946,
+      "kimbundu_term": "Kunumanesa",
+      "portuguese_translation": "Causar amúo a",
+      "definition": null,
+      "alternative_meanings": [
+        "enfadar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunumanesa-1 — https://www.kimbundu.org/pt/word/kunumanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10947,
+      "kimbundu_term": "Kunumata",
+      "portuguese_translation": "Morder (mais conforme, mas menos usado)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunumata-1 — https://www.kimbundu.org/pt/word/kunumata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10948,
+      "kimbundu_term": "Kunumina",
+      "portuguese_translation": "Concordar em",
+      "definition": null,
+      "alternative_meanings": [
+        "acordar com",
+        "pôr em harmonia",
+        "resolver de comum acordo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunumina-1 — https://www.kimbundu.org/pt/word/kunumina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10949,
+      "kimbundu_term": "Kunumisa",
+      "portuguese_translation": "Pôr de acordo",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer concordar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunumisa-1 — https://www.kimbundu.org/pt/word/kunumisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10950,
+      "kimbundu_term": "Kununu",
+      "portuguese_translation": "À mostra",
+      "definition": null,
+      "alternative_meanings": [
+        "às câncaras"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kununu-1 — https://www.kimbundu.org/pt/word/kununu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10951,
+      "kimbundu_term": "Kunwisa",
+      "portuguese_translation": "Fazer beber",
+      "definition": null,
+      "alternative_meanings": [
+        "Ajudar ou dar de beber a",
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunwisa-1 — https://www.kimbundu.org/pt/word/kunwisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10952,
+      "kimbundu_term": "Kúnyaka",
+      "portuguese_translation": "Estatelar, atirar para o chão (sem que haja amparo a amolecer-lhe a queda)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúnyaka-1 — https://www.kimbundu.org/pt/word/kunyaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10953,
+      "kimbundu_term": "Kúnyaka",
+      "portuguese_translation": "Estatelamento",
+      "definition": null,
+      "alternative_meanings": [
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúnyaka-1 — https://www.kimbundu.org/pt/word/kunyaka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
