@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17924,
+      "kimbundu_term": "Nêne",
+      "portuguese_translation": "Com eles",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nêne-1 — https://www.kimbundu.org/pt/word/nene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17925,
+      "kimbundu_term": "Nene-nene",
+      "portuguese_translation": "Muito, demasiadamente, excessivamente grande",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nene-nene-1 — https://www.kimbundu.org/pt/word/nene-nene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17926,
+      "kimbundu_term": "Nga",
+      "portuguese_translation": "Abreviatura de ngana",
+      "definition": null,
+      "alternative_meanings": [
+        "senhor",
+        "senhora"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nga-1 — https://www.kimbundu.org/pt/word/nga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17927,
+      "kimbundu_term": "Nga",
+      "portuguese_translation": "Grito que imita o vagido de um recém-nascido",
+      "definition": null,
+      "alternative_meanings": [
+        "fig., lamentação",
+        "gemido"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nga-1 — https://www.kimbundu.org/pt/word/nga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17928,
+      "kimbundu_term": "Nga-muhatu",
+      "portuguese_translation": "Tratamento dado à senhora casada",
+      "definition": null,
+      "alternative_meanings": [
+        "Dona",
+        "Senhora",
+        "Mulher de distinção ou em boa situação de fortuna. Abreviatura de ngana-ia muhatu"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nga-muhatu-1 — https://www.kimbundu.org/pt/word/nga-muhatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17929,
+      "kimbundu_term": "Ngabela",
+      "portuguese_translation": "Vila e sede do concelho do Amboim, distrito do Cuanza-Sul, província de Benguela, a 14º 19' 16'' de longitude E. Gr. e 1",
+      "definition": null,
+      "alternative_meanings": [
+        "Delegação de Saúde e de Fazenda, 7.ª C. I. I., Hospital e Escola n.º 66 de Augusto Gil"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngabela-1 — https://www.kimbundu.org/pt/word/ngabela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17930,
+      "kimbundu_term": "Ngábi",
+      "portuguese_translation": "Compressão da garganta",
+      "definition": null,
+      "alternative_meanings": [
+        "aperto que com os dedos se faz à garganta do adversário para o sufocar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngábi-1 — https://www.kimbundu.org/pt/word/ngabi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17931,
+      "kimbundu_term": "Ngadiádia",
+      "portuguese_translation": "Árvore miristicácea e seu fruto, de propriedades medicinais e sabor amargo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngadiádia-1 — https://www.kimbundu.org/pt/word/ngadiadia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17932,
+      "kimbundu_term": "Ngadiama",
+      "portuguese_translation": "Que tem pouco do que é necessário",
+      "definition": null,
+      "alternative_meanings": [
+        "indigente",
+        "pobre",
+        "obscuro",
+        "baixo",
+        "que tem humildade",
+        "que carece do que necessita",
+        "mal-dotado",
+        "pouco favorecido",
+        "modesto",
+        "infeliz"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngadiama-1 — https://www.kimbundu.org/pt/word/ngadiama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17933,
+      "kimbundu_term": "Ngadiama",
+      "portuguese_translation": "Pessoa pobre, humilde",
+      "definition": null,
+      "alternative_meanings": [
+        "mendigo",
+        "pobrete"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngadiama-1 — https://www.kimbundu.org/pt/word/ngadiama",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
