@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11034,
+      "kimbundu_term": "Kunyóka",
+      "portuguese_translation": "Descansar. Parar",
+      "definition": null,
+      "alternative_meanings": [
+        "folgar. Sossegar",
+        "dormir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyóka-1 — https://www.kimbundu.org/pt/word/kunyoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11035,
+      "kimbundu_term": "Kunyóka",
+      "portuguese_translation": "Morrer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyóka-1 — https://www.kimbundu.org/pt/word/kunyoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11036,
+      "kimbundu_term": "Kunyóka",
+      "portuguese_translation": "Repouso",
+      "definition": null,
+      "alternative_meanings": [
+        "sossego",
+        "descanso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyóka-1 — https://www.kimbundu.org/pt/word/kunyoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11037,
+      "kimbundu_term": "Kunyokesa",
+      "portuguese_translation": "Fazer sossegar, descansar. Dar folga a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyokesa-1 — https://www.kimbundu.org/pt/word/kunyokesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11038,
+      "kimbundu_term": "Kunyóla",
+      "portuguese_translation": "Enganar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "errar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyóla-1 — https://www.kimbundu.org/pt/word/kunyola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11039,
+      "kimbundu_term": "Kunyonga",
+      "portuguese_translation": "Fazer girar um corpo pelas suas extremidades cada uma em sentido contrário. Contorcer. Dar torceduras a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyonga-1 — https://www.kimbundu.org/pt/word/kunyonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11040,
+      "kimbundu_term": "Kunyonga",
+      "portuguese_translation": "Torção",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyonga-1 — https://www.kimbundu.org/pt/word/kunyonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11041,
+      "kimbundu_term": "Kunyongesa",
+      "portuguese_translation": "Fazer torcer",
+      "definition": null,
+      "alternative_meanings": [
+        "dar contorção"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyongesa-1 — https://www.kimbundu.org/pt/word/kunyongesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11042,
+      "kimbundu_term": "Kunyongojoka",
+      "portuguese_translation": "Andar às torceduras, a quebrar caminhos. Bordejar",
+      "definition": null,
+      "alternative_meanings": [
+        "dar voltas tortuosas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyongojoka-1 — https://www.kimbundu.org/pt/word/kunyongojoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11043,
+      "kimbundu_term": "Kunyongojoka",
+      "portuguese_translation": "Trabalhar, mourejar, fazer pela vida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyongojoka-1 — https://www.kimbundu.org/pt/word/kunyongojoka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
