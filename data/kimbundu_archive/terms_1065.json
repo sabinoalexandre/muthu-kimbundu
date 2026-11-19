@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10754,
+      "kimbundu_term": "Kunaminisa",
+      "portuguese_translation": "Fazer colar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunaminisa-1 — https://www.kimbundu.org/pt/word/kunaminisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10755,
+      "kimbundu_term": "Kunamolala",
+      "portuguese_translation": "Namorar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunamolala-1 — https://www.kimbundu.org/pt/word/kunamolala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10756,
+      "kimbundu_term": "Kunamujuka",
+      "portuguese_translation": "Ser muito pegajento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunamujuka-1 — https://www.kimbundu.org/pt/word/kunamujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10757,
+      "kimbundu_term": "Kunamujuka",
+      "portuguese_translation": "Ter dilatação",
+      "definition": null,
+      "alternative_meanings": [
+        "ir aumentando de volume"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunamujuka-1 — https://www.kimbundu.org/pt/word/kunamujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10758,
+      "kimbundu_term": "Kunamuka",
+      "portuguese_translation": "Ser viscoso, pegadiço, glutinoso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunamuka-1 — https://www.kimbundu.org/pt/word/kunamuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10759,
+      "kimbundu_term": "Kunamuka",
+      "portuguese_translation": "Ter aderência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunamuka-1 — https://www.kimbundu.org/pt/word/kunamuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10760,
+      "kimbundu_term": "Kunamuka",
+      "portuguese_translation": "Ter pouco mais da quantidade devida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunamuka-1 — https://www.kimbundu.org/pt/word/kunamuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10761,
+      "kimbundu_term": "Kunamuka",
+      "portuguese_translation": "Abundar",
+      "definition": null,
+      "alternative_meanings": [
+        "crescer um pouco"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunamuka-1 — https://www.kimbundu.org/pt/word/kunamuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10762,
+      "kimbundu_term": "Kunamukisa",
+      "portuguese_translation": "Fazer dilatar, aumentar, crescer pouco mais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunamukisa-1 — https://www.kimbundu.org/pt/word/kunamukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10763,
+      "kimbundu_term": "Kunamuna",
+      "portuguese_translation": "Deixar visco",
+      "definition": null,
+      "alternative_meanings": [
+        "largar humores viscosos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunamuna-1 — https://www.kimbundu.org/pt/word/kunamuna",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
