@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19404,
+      "kimbundu_term": "Ubangêlu",
+      "portuguese_translation": "Tática",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubangêlu-1 — https://www.kimbundu.org/pt/word/ubangelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19405,
+      "kimbundu_term": "Ubanzelu",
+      "portuguese_translation": "Maneira de pensar, de calcular, de refletir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubanzelu-1 — https://www.kimbundu.org/pt/word/ubanzelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19406,
+      "kimbundu_term": "Ubaselu",
+      "portuguese_translation": "Maneira de lascar, de rachar lenha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubaselu-1 — https://www.kimbundu.org/pt/word/ubaselu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19407,
+      "kimbundu_term": "Ubatwilu",
+      "portuguese_translation": "Forma de talhar, de cortar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubatwilu-1 — https://www.kimbundu.org/pt/word/ubatwilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19408,
+      "kimbundu_term": "Ubazelu",
+      "portuguese_translation": "Maneira de arrebentar, de explodir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubazelu-1 — https://www.kimbundu.org/pt/word/ubazelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19409,
+      "kimbundu_term": "Ubazelu",
+      "portuguese_translation": "Qualidade de estoiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubazelu-1 — https://www.kimbundu.org/pt/word/ubazelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19410,
+      "kimbundu_term": "Ubebelu",
+      "portuguese_translation": "Maneira de lisonjear",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubebelu-1 — https://www.kimbundu.org/pt/word/ubebelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19411,
+      "kimbundu_term": "Ubebelu",
+      "portuguese_translation": "Forma de suplicar (lisonjeando)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ubebelu-1 — https://www.kimbundu.org/pt/word/ubebelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19412,
+      "kimbundu_term": "Úbelele",
+      "portuguese_translation": "Recentíssimo",
+      "definition": null,
+      "alternative_meanings": [
+        "muito novo"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úbelele-1 — https://www.kimbundu.org/pt/word/ubelele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19413,
+      "kimbundu_term": "Úbelele",
+      "portuguese_translation": "Novo em folha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úbelele-1 — https://www.kimbundu.org/pt/word/ubelele",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
