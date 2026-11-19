@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10284,
+      "kimbundu_term": "Kulolesa",
+      "portuguese_translation": "Dar a provar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer experimentar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulolesa-1 — https://www.kimbundu.org/pt/word/kulolesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10285,
+      "kimbundu_term": "Kuloloka",
+      "portuguese_translation": "Desculpar",
+      "definition": null,
+      "alternative_meanings": [
+        "perdoar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuloloka-1 — https://www.kimbundu.org/pt/word/kuloloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10286,
+      "kimbundu_term": "Kuloloka",
+      "portuguese_translation": "Remitir dívidas",
+      "definition": null,
+      "alternative_meanings": [
+        "renunciar",
+        "absolver"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuloloka-1 — https://www.kimbundu.org/pt/word/kuloloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10287,
+      "kimbundu_term": "Kuloloka",
+      "portuguese_translation": "Kuriloloka, v. r. Justificar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuloloka-1 — https://www.kimbundu.org/pt/word/kuloloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10288,
+      "kimbundu_term": "Kuloloka",
+      "portuguese_translation": "Apresentar mútuas desculpas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuloloka-1 — https://www.kimbundu.org/pt/word/kuloloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10289,
+      "kimbundu_term": "Kulómba",
+      "portuguese_translation": "Toldar, enevoar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulómba-1 — https://www.kimbundu.org/pt/word/kulomba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10290,
+      "kimbundu_term": "Kulómba",
+      "portuguese_translation": "Escurecer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulómba-1 — https://www.kimbundu.org/pt/word/kulomba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10291,
+      "kimbundu_term": "Kulómba",
+      "portuguese_translation": "Kurilómba, v. r. Mascarar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "toldar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulómba-1 — https://www.kimbundu.org/pt/word/kulomba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10292,
+      "kimbundu_term": "Kulombesa",
+      "portuguese_translation": "Fazer toldar, escurecer",
+      "definition": null,
+      "alternative_meanings": [
+        "mandar mascarar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulombesa-1 — https://www.kimbundu.org/pt/word/kulombesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10293,
+      "kimbundu_term": "Kulomboka",
+      "portuguese_translation": "Cair (de borco)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulomboka-1 — https://www.kimbundu.org/pt/word/kulomboka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
