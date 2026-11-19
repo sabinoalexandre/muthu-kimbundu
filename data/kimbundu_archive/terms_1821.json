@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18314,
+      "kimbundu_term": "Ngûvu",
+      "portuguese_translation": "Mamífero anfíbio paquiderme",
+      "definition": null,
+      "alternative_meanings": [
+        "Hipopótamo",
+        "Cavalo marinho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngûvu-1 — https://www.kimbundu.org/pt/word/nguvu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18315,
+      "kimbundu_term": "Nguvulu",
+      "portuguese_translation": "Aquele a quem se confia o governo de um distrito ou província",
+      "definition": null,
+      "alternative_meanings": [
+        "Governador",
+        "Chefe do governo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nguvulu-1 — https://www.kimbundu.org/pt/word/nguvulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18316,
+      "kimbundu_term": "Nguya",
+      "portuguese_translation": "Agulha",
+      "definition": null,
+      "alternative_meanings": [
+        "utensílio de costura"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nguya-1 — https://www.kimbundu.org/pt/word/nguya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18317,
+      "kimbundu_term": "Ngúzu",
+      "portuguese_translation": "Faculdade de operar, de executar, de mover",
+      "definition": null,
+      "alternative_meanings": [
+        "Força",
+        "Valentia",
+        "Vigor",
+        "Rijeza",
+        "poder da musculatura",
+        "Firmeza",
+        "energia",
+        "Esforço",
+        "resistência",
+        "Violência"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngúzu-1 — https://www.kimbundu.org/pt/word/nguzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18318,
+      "kimbundu_term": "Ngúzu",
+      "portuguese_translation": "O grosso ou a parte principal de alguma coisa",
+      "definition": null,
+      "alternative_meanings": [
+        "Solidez"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngúzu-1 — https://www.kimbundu.org/pt/word/nguzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18319,
+      "kimbundu_term": "Ngúzu",
+      "portuguese_translation": "Direito legalmente estabelecido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngúzu-1 — https://www.kimbundu.org/pt/word/nguzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18320,
+      "kimbundu_term": "Ngwami",
+      "portuguese_translation": "Não quero",
+      "definition": null,
+      "alternative_meanings": [
+        "Não consinto",
+        "Não concordo",
+        "Não"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngwami-1 — https://www.kimbundu.org/pt/word/ngwami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18321,
+      "kimbundu_term": "Ngwami",
+      "portuguese_translation": "loc. adv. De maneira nenhuma",
+      "definition": null,
+      "alternative_meanings": [
+        "Não pode ser",
+        "Não posso consentir"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngwami-1 — https://www.kimbundu.org/pt/word/ngwami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18322,
+      "kimbundu_term": "Ngwami",
+      "portuguese_translation": "Recusa",
+      "definition": null,
+      "alternative_meanings": [
+        "Nega"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngwami-1 — https://www.kimbundu.org/pt/word/ngwami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18323,
+      "kimbundu_term": "Ngwé",
+      "portuguese_translation": "e pron. interrog. Não queres ou não quer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, pronome, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngwé-1 — https://www.kimbundu.org/pt/word/ngwe",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
