@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10204,
+      "kimbundu_term": "Kulemesa",
+      "portuguese_translation": "Atormentar",
+      "definition": null,
+      "alternative_meanings": [
+        "desesperar",
+        "afligir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulemesa-1 — https://www.kimbundu.org/pt/word/kulemesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10205,
+      "kimbundu_term": "Kulénda",
+      "portuguese_translation": "Dispor de antemão",
+      "definition": null,
+      "alternative_meanings": [
+        "precaver. Acautelar-se contra",
+        "predispor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulénda-1 — https://www.kimbundu.org/pt/word/kulenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10206,
+      "kimbundu_term": "Kulénda",
+      "portuguese_translation": "Kurilenda, v. r. Premunir-se",
+      "definition": null,
+      "alternative_meanings": [
+        "ter com que enfrentar uma dificuldade",
+        "julgar-se capaz"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulénda-1 — https://www.kimbundu.org/pt/word/kulenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10207,
+      "kimbundu_term": "Kulendela",
+      "portuguese_translation": "Render",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulendela-1 — https://www.kimbundu.org/pt/word/kulendela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10208,
+      "kimbundu_term": "Kulendesa",
+      "portuguese_translation": "Fazer acautelar, precaver",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulendesa-1 — https://www.kimbundu.org/pt/word/kulendesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10209,
+      "kimbundu_term": "Kulenduka",
+      "portuguese_translation": "Ser maleável, benigno: dócil. Ser de génio brando, sossegado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulenduka-1 — https://www.kimbundu.org/pt/word/kulenduka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10210,
+      "kimbundu_term": "Kulenduka",
+      "portuguese_translation": "sub. Mansidão",
+      "definition": null,
+      "alternative_meanings": [
+        "brandura",
+        "docilidade"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulenduka-1 — https://www.kimbundu.org/pt/word/kulenduka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10211,
+      "kimbundu_term": "Kulendukisa",
+      "portuguese_translation": "Fazer malaxação. Fazer amolecer com massagens ou fricções",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulendukisa-1 — https://www.kimbundu.org/pt/word/kulendukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10212,
+      "kimbundu_term": "Kulendula",
+      "portuguese_translation": "Relaxar",
+      "definition": null,
+      "alternative_meanings": [
+        "amolecer. Malear",
+        "embrandecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulendula-1 — https://www.kimbundu.org/pt/word/kulendula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10213,
+      "kimbundu_term": "Kúlenga",
+      "portuguese_translation": "Correr",
+      "definition": null,
+      "alternative_meanings": [
+        "fugir. fig. Escapar-se, escapulir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlenga-1 — https://www.kimbundu.org/pt/word/kulenga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
