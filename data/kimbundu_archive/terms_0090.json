@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1004,
+      "kimbundu_term": "Dikuatenenu",
+      "portuguese_translation": "O que serve de esteio, proteção ou apoio. Garantia",
+      "definition": null,
+      "alternative_meanings": [
+        "segurança. Escora",
+        "amparo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikuatenenu-1 — https://www.kimbundu.org/pt/word/dikuatenenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1005,
+      "kimbundu_term": "Dikuatu",
+      "portuguese_translation": "Retenção. Pega",
+      "definition": null,
+      "alternative_meanings": [
+        "rixa",
+        "desavença"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikuatu-1 — https://www.kimbundu.org/pt/word/dikuatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1006,
+      "kimbundu_term": "Dikúbi",
+      "portuguese_translation": "Sorvo. O que se ingere de cada vez. Golada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikúbi-1 — https://www.kimbundu.org/pt/word/dikubi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1007,
+      "kimbundu_term": "Dikúdi",
+      "portuguese_translation": "Celibatário",
+      "definition": null,
+      "alternative_meanings": [
+        "solteiro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikúdi-1 — https://www.kimbundu.org/pt/word/dikudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1008,
+      "kimbundu_term": "Dikudila",
+      "portuguese_translation": "Recordação",
+      "definition": null,
+      "alternative_meanings": [
+        "lembrança. Dádiva (a uma criança)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikudila-1 — https://www.kimbundu.org/pt/word/dikudila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1009,
+      "kimbundu_term": "Dikudila",
+      "portuguese_translation": "Substância calcária que se extrai do seio das montanhas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikudila-1 — https://www.kimbundu.org/pt/word/dikudila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1010,
+      "kimbundu_term": "Dikudilu",
+      "portuguese_translation": "Crescimento. Desenvolvimento progressivo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikudilu-1 — https://www.kimbundu.org/pt/word/dikudilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1011,
+      "kimbundu_term": "Dikuenze",
+      "portuguese_translation": "Esforçado",
+      "definition": null,
+      "alternative_meanings": [
+        "vigoroso",
+        "possante. Denodado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikuenze-1 — https://www.kimbundu.org/pt/word/dikuenze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1012,
+      "kimbundu_term": "Dikuenze",
+      "portuguese_translation": "Pessoa decidida, valente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikuenze-1 — https://www.kimbundu.org/pt/word/dikuenze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1013,
+      "kimbundu_term": "Dikuiji",
+      "portuguese_translation": "Feiticeiro consumado. Envenenador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikuiji-1 — https://www.kimbundu.org/pt/word/dikuiji",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
