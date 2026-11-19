@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7184,
+      "kimbundu_term": "Kubatuluka",
+      "portuguese_translation": "Cruzar",
+      "definition": null,
+      "alternative_meanings": [
+        "truncar",
+        "ficar atravessado, recortado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatuluka-1 — https://www.kimbundu.org/pt/word/kubatuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7185,
+      "kimbundu_term": "Kubatuluka",
+      "portuguese_translation": "Cruzamento",
+      "definition": null,
+      "alternative_meanings": [
+        "recorte"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatuluka-1 — https://www.kimbundu.org/pt/word/kubatuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7186,
+      "kimbundu_term": "Kubatulula",
+      "portuguese_translation": "Recortar. Esquartar",
+      "definition": null,
+      "alternative_meanings": [
+        "dividir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatulula-1 — https://www.kimbundu.org/pt/word/kubatulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7187,
+      "kimbundu_term": "Kubatulula",
+      "portuguese_translation": "Cortar uma figura pelos contornos para a separar do fundo. Passar através de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatulula-1 — https://www.kimbundu.org/pt/word/kubatulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7188,
+      "kimbundu_term": "Kubatulula",
+      "portuguese_translation": "Abreviar",
+      "definition": null,
+      "alternative_meanings": [
+        "encurtar",
+        "resumir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatulula-1 — https://www.kimbundu.org/pt/word/kubatulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7189,
+      "kimbundu_term": "Kubatulula",
+      "portuguese_translation": "Kuribafulula, v. r. Repartir-se. Passar (um pelo outro) em direções opostas. Corrigir-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatulula-1 — https://www.kimbundu.org/pt/word/kubatulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7190,
+      "kimbundu_term": "Kubatumuka",
+      "portuguese_translation": "Estar despegado. Ficar deslocado. Não ter aderência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatumuka-1 — https://www.kimbundu.org/pt/word/kubatumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7191,
+      "kimbundu_term": "Kubatumuka",
+      "portuguese_translation": "Despego",
+      "definition": null,
+      "alternative_meanings": [
+        "descolamento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatumuka-1 — https://www.kimbundu.org/pt/word/kubatumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7192,
+      "kimbundu_term": "Kubatumuna",
+      "portuguese_translation": "Despegar (o que estava colado). Arrancar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatumuna-1 — https://www.kimbundu.org/pt/word/kubatumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7193,
+      "kimbundu_term": "Kubatumuna",
+      "portuguese_translation": "Kuribatumuna, v. r. Descolar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "desapegar-se",
+        "desprender-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatumuna-1 — https://www.kimbundu.org/pt/word/kubatumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
