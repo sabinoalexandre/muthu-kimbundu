@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5834,
+      "kimbundu_term": "Kinguvu",
+      "portuguese_translation": "Hipopótamo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinguvu-1 — https://www.kimbundu.org/pt/word/kinguvu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5835,
+      "kimbundu_term": "Kinjánda",
+      "portuguese_translation": "Rancho",
+      "definition": null,
+      "alternative_meanings": [
+        "Porção de comida pertencente a cada trabalhador",
+        "Comida para soldados"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinjánda-1 — https://www.kimbundu.org/pt/word/kinjanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5836,
+      "kimbundu_term": "Kinjandanda",
+      "portuguese_translation": "Aranha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinjandanda-1 — https://www.kimbundu.org/pt/word/kinjandanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5837,
+      "kimbundu_term": "Kinjangu",
+      "portuguese_translation": "Cimitarra. Espada de lâmina larga e curva",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinjangu-1 — https://www.kimbundu.org/pt/word/kinjangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5838,
+      "kimbundu_term": "Kinjangu",
+      "portuguese_translation": "Hist. Alcunha de guerra do general Geraldo Victor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinjangu-1 — https://www.kimbundu.org/pt/word/kinjangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5839,
+      "kimbundu_term": "Kinjangutu",
+      "portuguese_translation": "Mastigatório. Utensílio para triturar alimentos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinjangutu-1 — https://www.kimbundu.org/pt/word/kinjangutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5840,
+      "kimbundu_term": "Kinjangutu",
+      "portuguese_translation": "Utensílio para triturar alimentos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinjangutu-1 — https://www.kimbundu.org/pt/word/kinjangutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5841,
+      "kimbundu_term": "Kinjanjima",
+      "portuguese_translation": "Planta têxtil medicinal em casos de icterícia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinjanjima-1 — https://www.kimbundu.org/pt/word/kinjanjima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5842,
+      "kimbundu_term": "Kinjanjima",
+      "portuguese_translation": "Aguardente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinjanjima-1 — https://www.kimbundu.org/pt/word/kinjanjima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5843,
+      "kimbundu_term": "Kinjenge",
+      "portuguese_translation": "(III) Faustoso",
+      "definition": null,
+      "alternative_meanings": [
+        "opulento",
+        "rico"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinjenge-1 — https://www.kimbundu.org/pt/word/kinjenge",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
