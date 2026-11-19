@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6204,
+      "kimbundu_term": "Kisoménu",
+      "portuguese_translation": "(III) Furador",
+      "definition": null,
+      "alternative_meanings": [
+        "sovela"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisoménu-1 — https://www.kimbundu.org/pt/word/kisomenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6205,
+      "kimbundu_term": "Kisoménu",
+      "portuguese_translation": "Vareta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisoménu-1 — https://www.kimbundu.org/pt/word/kisomenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6206,
+      "kimbundu_term": "Kisoménu",
+      "portuguese_translation": "Calcador",
+      "definition": null,
+      "alternative_meanings": [
+        "carregador (de armas)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisoménu-1 — https://www.kimbundu.org/pt/word/kisomenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6207,
+      "kimbundu_term": "Kisónde",
+      "portuguese_translation": "(III) zool. Formiga (entry continues on next column)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisónde-1 — https://www.kimbundu.org/pt/word/kisonde",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6208,
+      "kimbundu_term": "Kisónde",
+      "portuguese_translation": "gão. de que há várias espécies, de mordedura dolorosa",
+      "definition": null,
+      "alternative_meanings": [
+        "Formiga brava",
+        "fig. Destruidor"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisónde-1 — https://www.kimbundu.org/pt/word/kisonde",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6209,
+      "kimbundu_term": "Kisónde",
+      "portuguese_translation": "Diz-se da borra de dendém, depois de extraído o óleo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisónde-1 — https://www.kimbundu.org/pt/word/kisonde",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6210,
+      "kimbundu_term": "Kisonekenu",
+      "portuguese_translation": "Secretária",
+      "definition": null,
+      "alternative_meanings": [
+        "Escrevaninha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisonekenu-1 — https://www.kimbundu.org/pt/word/kisonekenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6211,
+      "kimbundu_term": "Kisonekenu",
+      "portuguese_translation": "Próprio para escrever",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisonekenu-1 — https://www.kimbundu.org/pt/word/kisonekenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6212,
+      "kimbundu_term": "Kisonéku",
+      "portuguese_translation": "Escrita",
+      "definition": null,
+      "alternative_meanings": [
+        "Coisa que se escreveu",
+        "Escrituração"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisonéku-1 — https://www.kimbundu.org/pt/word/kisoneku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6213,
+      "kimbundu_term": "Kisóngo",
+      "portuguese_translation": "Cancro",
+      "definition": null,
+      "alternative_meanings": [
+        "Úlcera venérea",
+        "Doença cancerosa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisóngo-1 — https://www.kimbundu.org/pt/word/kisongo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
