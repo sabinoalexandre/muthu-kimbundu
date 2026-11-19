@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6504,
+      "kimbundu_term": "Kiuéue",
+      "portuguese_translation": "Pessoa encarregada de promover festas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiuéue-1 — https://www.kimbundu.org/pt/word/kiueue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6505,
+      "kimbundu_term": "Kiuisu",
+      "portuguese_translation": "Ázimo",
+      "definition": null,
+      "alternative_meanings": [
+        "coisa insulsa",
+        "O que não levedou",
+        "Estado de verde, de cru"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiuisu-1 — https://www.kimbundu.org/pt/word/kiuisu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6506,
+      "kimbundu_term": "Kiúmba",
+      "portuguese_translation": "Prodigalidade",
+      "definition": null,
+      "alternative_meanings": [
+        "Superfluidade",
+        "Gasto demasiado ou desnecessário"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiúmba-1 — https://www.kimbundu.org/pt/word/kiumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6507,
+      "kimbundu_term": "Kiúmbe",
+      "portuguese_translation": "Perdulário",
+      "definition": null,
+      "alternative_meanings": [
+        "pródigo",
+        "Que gasta muito"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiúmbe-1 — https://www.kimbundu.org/pt/word/kiumbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6508,
+      "kimbundu_term": "Kiúmbe",
+      "portuguese_translation": "Pov. e sede do posto de Chiumbe, circ. civ. de Cassai-Sul, distr. da Lunda, prov. de Malinge, 3.132 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiúmbe-1 — https://www.kimbundu.org/pt/word/kiumbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6509,
+      "kimbundu_term": "Kiúmbe",
+      "portuguese_translation": "Pov. e sede do posto deste nome, circ. civ. do Bailundo, distr. do Huambo, prov. de Benguela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiúmbe-1 — https://www.kimbundu.org/pt/word/kiumbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6510,
+      "kimbundu_term": "Kiúmbe",
+      "portuguese_translation": "24.005 hab. e Missão Evangélica",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiúmbe-1 — https://www.kimbundu.org/pt/word/kiumbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6511,
+      "kimbundu_term": "Kiúngu",
+      "portuguese_translation": "Cherne",
+      "definition": null,
+      "alternative_meanings": [
+        "peixe pércida"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiúngu-1 — https://www.kimbundu.org/pt/word/kiungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6512,
+      "kimbundu_term": "Kiunu",
+      "portuguese_translation": "Proeminência lateral por baixo da cintura",
+      "definition": null,
+      "alternative_meanings": [
+        "Garupa",
+        "anca"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiunu-1 — https://www.kimbundu.org/pt/word/kiunu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6513,
+      "kimbundu_term": "Kiuolouolo",
+      "portuguese_translation": "Guiso",
+      "definition": null,
+      "alternative_meanings": [
+        "Pequena esfera oca, de metal, que soa ao agitar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiuolouolo-1 — https://www.kimbundu.org/pt/word/kiuolouolo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
