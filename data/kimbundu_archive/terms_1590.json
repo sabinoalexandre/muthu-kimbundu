@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16004,
+      "kimbundu_term": "Mubulaxani",
+      "portuguese_translation": "Esculca",
+      "definition": null,
+      "alternative_meanings": [
+        "pessoa que assiste a uma visita para escutar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mubulaxani-1 — https://www.kimbundu.org/pt/word/mubulaxani",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16005,
+      "kimbundu_term": "Múbuludi",
+      "portuguese_translation": "Libertador",
+      "definition": null,
+      "alternative_meanings": [
+        "salvador",
+        "que faz escapar (de um perigo)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múbuludi-1 — https://www.kimbundu.org/pt/word/mubuludi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16006,
+      "kimbundu_term": "Múbunde",
+      "portuguese_translation": "Batedor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múbunde-1 — https://www.kimbundu.org/pt/word/mubunde",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16007,
+      "kimbundu_term": "Múbunde",
+      "portuguese_translation": "Indivíduo que levanta a caça para que vá ter onde a esperam",
+      "definition": null,
+      "alternative_meanings": [
+        "explorador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múbunde-1 — https://www.kimbundu.org/pt/word/mubunde",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16008,
+      "kimbundu_term": "Mubúndi",
+      "portuguese_translation": "Saqueador",
+      "definition": null,
+      "alternative_meanings": [
+        "exequente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mubúndi-1 — https://www.kimbundu.org/pt/word/mubundi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16009,
+      "kimbundu_term": "Mubundumuni",
+      "portuguese_translation": "Beneficiador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mubundumuni-1 — https://www.kimbundu.org/pt/word/mubundumuni",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16010,
+      "kimbundu_term": "Mubunganu",
+      "portuguese_translation": "Vagueador",
+      "definition": null,
+      "alternative_meanings": [
+        "errante",
+        "que não tem rumo ou destino certo",
+        "vagabundo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mubunganu-1 — https://www.kimbundu.org/pt/word/mubunganu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16011,
+      "kimbundu_term": "Mubungudi",
+      "portuguese_translation": "Engeitador",
+      "definition": null,
+      "alternative_meanings": [
+        "aquele que despreza, repara ou deita fora"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mubungudi-1 — https://www.kimbundu.org/pt/word/mubungudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16012,
+      "kimbundu_term": "Mubunguludi",
+      "portuguese_translation": "Que remexe",
+      "definition": null,
+      "alternative_meanings": [
+        "renovador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mubunguludi-1 — https://www.kimbundu.org/pt/word/mubunguludi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16013,
+      "kimbundu_term": "Múbuse",
+      "portuguese_translation": "Assoprador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múbuse-1 — https://www.kimbundu.org/pt/word/mubuse",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
