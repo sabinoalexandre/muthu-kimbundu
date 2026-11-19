@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5614,
+      "kimbundu_term": "Kimbuila",
+      "portuguese_translation": "Excrescência",
+      "definition": null,
+      "alternative_meanings": [
+        "Tumor",
+        "Hérnia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbuila-1 — https://www.kimbundu.org/pt/word/kimbuila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5615,
+      "kimbundu_term": "Kimbukutu",
+      "portuguese_translation": "Litão",
+      "definition": null,
+      "alternative_meanings": [
+        "Peixe seco mal cheiroso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbukutu-1 — https://www.kimbundu.org/pt/word/kimbukutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5616,
+      "kimbundu_term": "Kimbukutu",
+      "portuguese_translation": "Cheiro próprio dos armazéns de peixe seco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbukutu-1 — https://www.kimbundu.org/pt/word/kimbukutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5617,
+      "kimbundu_term": "Kimbulu",
+      "portuguese_translation": "Doença da pele",
+      "definition": null,
+      "alternative_meanings": [
+        "Varicela"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbulu-1 — https://www.kimbundu.org/pt/word/kimbulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5618,
+      "kimbundu_term": "Kimbulu",
+      "portuguese_translation": "Borbulha grande",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbulu-1 — https://www.kimbundu.org/pt/word/kimbulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5619,
+      "kimbundu_term": "Kimbulu",
+      "portuguese_translation": "Qualidade de feijão avermelhado e casca grossa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbulu-1 — https://www.kimbundu.org/pt/word/kimbulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5620,
+      "kimbundu_term": "Kimbuma",
+      "portuguese_translation": "Planta medicinal da família das meliáceas (ekebergia senegalensis). Mentastro",
+      "definition": null,
+      "alternative_meanings": [
+        "Hortelã silvestre"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbuma-1 — https://www.kimbundu.org/pt/word/kimbuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5621,
+      "kimbundu_term": "Kimbúmbu",
+      "portuguese_translation": "Merlão",
+      "definition": null,
+      "alternative_meanings": [
+        "espécie de atum"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbúmbu-1 — https://www.kimbundu.org/pt/word/kimbumbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5622,
+      "kimbundu_term": "Kimbumbulukufu",
+      "portuguese_translation": "Estadulho",
+      "definition": null,
+      "alternative_meanings": [
+        "Pau ou coisa tosca, grosseira, desconforme",
+        "Corpo esférico mal feito"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbumbulukufu-1 — https://www.kimbundu.org/pt/word/kimbumbulukufu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5623,
+      "kimbundu_term": "Kimbumbulukufu",
+      "portuguese_translation": "Grosseiro, rude",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbumbulukufu-1 — https://www.kimbundu.org/pt/word/kimbumbulukufu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
