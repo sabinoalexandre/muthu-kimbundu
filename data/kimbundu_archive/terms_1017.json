@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10274,
+      "kimbundu_term": "Kulokomona",
+      "portuguese_translation": "Desengonçar",
+      "definition": null,
+      "alternative_meanings": [
+        "desconjuntar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulokomona-1 — https://www.kimbundu.org/pt/word/kulokomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10275,
+      "kimbundu_term": "Kulokomona",
+      "portuguese_translation": "Desmanchar",
+      "definition": null,
+      "alternative_meanings": [
+        "desunir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulokomona-1 — https://www.kimbundu.org/pt/word/kulokomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10276,
+      "kimbundu_term": "Kulokosa",
+      "portuguese_translation": "Restolhar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer ruído"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulokosa-1 — https://www.kimbundu.org/pt/word/kulokosa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10277,
+      "kimbundu_term": "Kulokosa",
+      "portuguese_translation": "Restolhada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulokosa-1 — https://www.kimbundu.org/pt/word/kulokosa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10278,
+      "kimbundu_term": "Kulokuela",
+      "portuguese_translation": "Deitar da boca para a de outrem (como as aves alimentam os passarinhos)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulokuela-1 — https://www.kimbundu.org/pt/word/kulokuela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10279,
+      "kimbundu_term": "Kulokuela",
+      "portuguese_translation": "Confessar-se a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulokuela-1 — https://www.kimbundu.org/pt/word/kulokuela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10280,
+      "kimbundu_term": "Kulóla",
+      "portuguese_translation": "Provar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulóla-1 — https://www.kimbundu.org/pt/word/kulola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10281,
+      "kimbundu_term": "Kulóla",
+      "portuguese_translation": "Tomar o gosto de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulóla-1 — https://www.kimbundu.org/pt/word/kulola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10282,
+      "kimbundu_term": "Kulóla",
+      "portuguese_translation": "Submeter à prova",
+      "definition": null,
+      "alternative_meanings": [
+        "padecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulóla-1 — https://www.kimbundu.org/pt/word/kulola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10283,
+      "kimbundu_term": "Kulóla",
+      "portuguese_translation": "Provação",
+      "definition": null,
+      "alternative_meanings": [
+        "provadura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulóla-1 — https://www.kimbundu.org/pt/word/kulola",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
