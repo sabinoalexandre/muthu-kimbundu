@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 494,
+      "kimbundu_term": "Buela",
+      "portuguese_translation": "Corografia. Povoação e posto da circunscrição civil de S. Salvador, distrito do Congo, província de Luanda, com 6.557 ha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, buela-1 — https://www.kimbundu.org/pt/word/buela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 495,
+      "kimbundu_term": "Buêngi",
+      "portuguese_translation": "Adjetivo. Em outro lugar",
+      "definition": null,
+      "alternative_meanings": [
+        "em outra parte",
+        "em sítio diferente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, buêngi-1 — https://www.kimbundu.org/pt/word/buengi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 496,
+      "kimbundu_term": "Buenu",
+      "portuguese_translation": "e pron. (contr. da prep. bua e do pron. pess. pl. enu). Vosso",
+      "definition": null,
+      "alternative_meanings": [
+        "Pertencente às vossas pessoas",
+        "De vós"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, buenu-1 — https://www.kimbundu.org/pt/word/buenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 497,
+      "kimbundu_term": "Buenu",
+      "portuguese_translation": "O vosso",
+      "definition": null,
+      "alternative_meanings": [
+        "O que é vosso",
+        "Em vosso lugar",
+        "A parte"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, buenu-1 — https://www.kimbundu.org/pt/word/buenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 498,
+      "kimbundu_term": "Buenu",
+      "portuguese_translation": "No vosso próprio lugar",
+      "definition": null,
+      "alternative_meanings": [
+        "De vós mesmos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, buenu-1 — https://www.kimbundu.org/pt/word/buenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 499,
+      "kimbundu_term": "Buetu",
+      "portuguese_translation": "(contração da preposição bua e do pronome pessoal plural etu) Nosso",
+      "definition": null,
+      "alternative_meanings": [
+        "De nós",
+        "Connosco",
+        "Pertencente às nossas pessoas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, buetu-1 — https://www.kimbundu.org/pt/word/buetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 500,
+      "kimbundu_term": "Buetu",
+      "portuguese_translation": "advérbio. Em nosso lugar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, buetu-1 — https://www.kimbundu.org/pt/word/buetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 501,
+      "kimbundu_term": "Buetu",
+      "portuguese_translation": "No nosso próprio lugar",
+      "definition": null,
+      "alternative_meanings": [
+        "Propriamente nosso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, buetu-1 — https://www.kimbundu.org/pt/word/buetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 502,
+      "kimbundu_term": "Buinyi",
+      "portuguese_translation": "Falta de um dente da boca",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, buinyi-1 — https://www.kimbundu.org/pt/word/buinyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 503,
+      "kimbundu_term": "Buixixi",
+      "portuguese_translation": "advérbio. Muito escuro",
+      "definition": null,
+      "alternative_meanings": [
+        "muito preto"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, buixixi-1 — https://www.kimbundu.org/pt/word/buixixi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
