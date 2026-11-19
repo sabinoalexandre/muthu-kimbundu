@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1624,
+      "kimbundu_term": "Fadinya",
+      "portuguese_translation": "Serradura proveniente da raiz da mandioca ralada e torrada",
+      "definition": null,
+      "alternative_meanings": [
+        "Farinha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fadinya-1 — https://www.kimbundu.org/pt/word/fadinya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1625,
+      "kimbundu_term": "Falakeza",
+      "portuguese_translation": "do português 'freguês'",
+      "definition": null,
+      "alternative_meanings": [
+        "fraqueza"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, falakeza-1 — https://www.kimbundu.org/pt/word/falakeza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1626,
+      "kimbundu_term": "Falanji",
+      "portuguese_translation": "Corte",
+      "definition": null,
+      "alternative_meanings": [
+        "Incisão",
+        "Golpe",
+        "Ferida com instrumento cortante"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, falanji-1 — https://www.kimbundu.org/pt/word/falanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1627,
+      "kimbundu_term": "Fáloja",
+      "portuguese_translation": "Farinha de mandioca molhada em água",
+      "definition": null,
+      "alternative_meanings": [
+        "Farofa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fáloja-1 — https://www.kimbundu.org/pt/word/faloja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1628,
+      "kimbundu_term": "Fálusu",
+      "portuguese_translation": "do português 'falso'",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fálusu-1 — https://www.kimbundu.org/pt/word/falusu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1629,
+      "kimbundu_term": "Familha",
+      "portuguese_translation": "do português 'família'",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, familha-1 — https://www.kimbundu.org/pt/word/familha",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1630,
+      "kimbundu_term": "Fanyika",
+      "portuguese_translation": "Peixe do mar, espécie de barbo pequeno",
+      "definition": null,
+      "alternative_meanings": [
+        "Escalo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fanyika-1 — https://www.kimbundu.org/pt/word/fanyika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1631,
+      "kimbundu_term": "Favolo",
+      "portuguese_translation": "do português 'favor'",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, favolo-1 — https://www.kimbundu.org/pt/word/favolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1632,
+      "kimbundu_term": "Febele",
+      "portuguese_translation": "(do português) febre",
+      "definition": null,
+      "alternative_meanings": [
+        "estado mórbido"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, febele-1 — https://www.kimbundu.org/pt/word/febele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1633,
+      "kimbundu_term": "Fejá",
+      "portuguese_translation": "(do português) feijão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fejá-1 — https://www.kimbundu.org/pt/word/feja",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
