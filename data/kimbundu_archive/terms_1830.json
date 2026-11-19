@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18404,
+      "kimbundu_term": "Nóxa",
+      "portuguese_translation": "Grande árvore fam. das rosáceas (parinarium mobola) de madeira resistente e fruto comestível",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nóxa-1 — https://www.kimbundu.org/pt/word/noxa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18405,
+      "kimbundu_term": "Nu",
+      "portuguese_translation": "Complemento da 2.ª pessoa do plural: Vós. A vós",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nu-1 — https://www.kimbundu.org/pt/word/nu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18406,
+      "kimbundu_term": "Nujitununa",
+      "portuguese_translation": "Tornar a desamarrar, a desatar",
+      "definition": null,
+      "alternative_meanings": [
+        "desligar o que já estava"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nujitununa-1 — https://www.kimbundu.org/pt/word/nujitununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18407,
+      "kimbundu_term": "Nujitununa",
+      "portuguese_translation": "Alargar, desoprimir mais uma ou mais vezes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nujitununa-1 — https://www.kimbundu.org/pt/word/nujitununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18408,
+      "kimbundu_term": "Núka",
+      "portuguese_translation": "Nunca",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, núka-1 — https://www.kimbundu.org/pt/word/nuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18409,
+      "kimbundu_term": "Nviém",
+      "portuguese_translation": "Diz-se do rápido movimento das aves circulando no ar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nviém-1 — https://www.kimbundu.org/pt/word/nviem",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18410,
+      "kimbundu_term": "Nviém",
+      "portuguese_translation": "Volteio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nviém-1 — https://www.kimbundu.org/pt/word/nviem",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18411,
+      "kimbundu_term": "Nyáku",
+      "portuguese_translation": "Cheio até não mais. Repleto",
+      "definition": null,
+      "alternative_meanings": [
+        "prenhe",
+        "É tb. interj"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nyáku-1 — https://www.kimbundu.org/pt/word/nyaku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18412,
+      "kimbundu_term": "Nyam-nyam",
+      "portuguese_translation": "Nome por que eram designados os comedores de carne humana",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nyam-nyam-1 — https://www.kimbundu.org/pt/word/nyam-nyam",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18413,
+      "kimbundu_term": "Nyam-nyam",
+      "portuguese_translation": "Significação de quem come coisa asquerosa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nyam-nyam-1 — https://www.kimbundu.org/pt/word/nyam-nyam",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
