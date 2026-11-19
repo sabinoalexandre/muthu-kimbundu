@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9224,
+      "kimbundu_term": "Kukandamana",
+      "portuguese_translation": "Estar tapado, liso. Cicatrizar",
+      "definition": null,
+      "alternative_meanings": [
+        "ter crosta"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukandamana-1 — https://www.kimbundu.org/pt/word/kukandamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9225,
+      "kimbundu_term": "Kukandamanesa",
+      "portuguese_translation": "Fazer criar crosta. Mandar alisar, tapar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukandamanesa-1 — https://www.kimbundu.org/pt/word/kukandamanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9226,
+      "kimbundu_term": "Kukandela",
+      "portuguese_translation": "Entocar",
+      "definition": null,
+      "alternative_meanings": [
+        "cavar para"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukandela-1 — https://www.kimbundu.org/pt/word/kukandela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9227,
+      "kimbundu_term": "Kukandela",
+      "portuguese_translation": "Kurikandela, e r. Meter-se na cova",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukandela-1 — https://www.kimbundu.org/pt/word/kukandela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9228,
+      "kimbundu_term": "Kukandesa",
+      "portuguese_translation": "Mandar cavar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukandesa-1 — https://www.kimbundu.org/pt/word/kukandesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9229,
+      "kimbundu_term": "Kukandesa",
+      "portuguese_translation": "Fazer tirar da terra (cavando)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukandesa-1 — https://www.kimbundu.org/pt/word/kukandesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9230,
+      "kimbundu_term": "Kukanduka",
+      "portuguese_translation": "Estar a cavalo, ou em posição de montado. Estar sobranceiro",
+      "definition": null,
+      "alternative_meanings": [
+        "cavalgar",
+        "subir (ao trono)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukanduka-1 — https://www.kimbundu.org/pt/word/kukanduka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9231,
+      "kimbundu_term": "Kukanduka",
+      "portuguese_translation": "Ocupar o trono",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukanduka-1 — https://www.kimbundu.org/pt/word/kukanduka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9232,
+      "kimbundu_term": "Kukandukisa",
+      "portuguese_translation": "Entronizar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer cavalgar, estar sobranceiro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukandukisa-1 — https://www.kimbundu.org/pt/word/kukandukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9233,
+      "kimbundu_term": "Kukandula",
+      "portuguese_translation": "Deslocar",
+      "definition": null,
+      "alternative_meanings": [
+        "tirar. Mover (do lugar)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukandula-1 — https://www.kimbundu.org/pt/word/kukandula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
