@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11434,
+      "kimbundu_term": "Kusanuna",
+      "portuguese_translation": "Desarticular",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusanuna-1 — https://www.kimbundu.org/pt/word/kusanuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11435,
+      "kimbundu_term": "Kusanuna",
+      "portuguese_translation": "Desfolhar, desunir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusanuna-1 — https://www.kimbundu.org/pt/word/kusanuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11436,
+      "kimbundu_term": "Kusanyala",
+      "portuguese_translation": "Estar assanhado",
+      "definition": null,
+      "alternative_meanings": [
+        "ter fúria"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusanyala-1 — https://www.kimbundu.org/pt/word/kusanyala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11437,
+      "kimbundu_term": "Kusanyalesa",
+      "portuguese_translation": "Assanhar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusanyalesa-1 — https://www.kimbundu.org/pt/word/kusanyalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11438,
+      "kimbundu_term": "Kusanyalesa",
+      "portuguese_translation": "Tornar público",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusanyalesa-1 — https://www.kimbundu.org/pt/word/kusanyalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11439,
+      "kimbundu_term": "Kúsanza",
+      "portuguese_translation": "Sanear",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar habitável"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsanza-1 — https://www.kimbundu.org/pt/word/kusanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11440,
+      "kimbundu_term": "Kúsanza",
+      "portuguese_translation": "Ceifar",
+      "definition": null,
+      "alternative_meanings": [
+        "limpar",
+        "tornar (as terras) aptas para a cultura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsanza-1 — https://www.kimbundu.org/pt/word/kusanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11441,
+      "kimbundu_term": "Kúsanza",
+      "portuguese_translation": "Aliviar",
+      "definition": null,
+      "alternative_meanings": [
+        "curar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsanza-1 — https://www.kimbundu.org/pt/word/kusanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11442,
+      "kimbundu_term": "Kúsanza",
+      "portuguese_translation": "Saneamento",
+      "definition": null,
+      "alternative_meanings": [
+        "limpeza"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsanza-1 — https://www.kimbundu.org/pt/word/kusanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11443,
+      "kimbundu_term": "Kúsanza",
+      "portuguese_translation": "Kurisanza, e r. Aliviar-se. Curar-se. Desabafar. Sentir-se menos molestado. Desembaraçar-se (de algum mal). fig. Traquej",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsanza-1 — https://www.kimbundu.org/pt/word/kusanza",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
