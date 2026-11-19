@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2624,
+      "kimbundu_term": "Jimvunji",
+      "portuguese_translation": "Acumulação de serosidades no tecido celular",
+      "definition": null,
+      "alternative_meanings": [
+        "Hidropisia",
+        "Barriga de água (doença)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimvunji-1 — https://www.kimbundu.org/pt/word/jimvunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2625,
+      "kimbundu_term": "Jimvunji",
+      "portuguese_translation": "Hidropisia",
+      "definition": null,
+      "alternative_meanings": [
+        "Barriga de água"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimvunji-2 — https://www.kimbundu.org/pt/word/jimvunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2626,
+      "kimbundu_term": "Jimvwama",
+      "portuguese_translation": "Opulentos",
+      "definition": null,
+      "alternative_meanings": [
+        "abastados",
+        "ricos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimvwama-1 — https://www.kimbundu.org/pt/word/jimvwama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2627,
+      "kimbundu_term": "Jina",
+      "portuguese_translation": "Abreviatura de rijina",
+      "definition": null,
+      "alternative_meanings": [
+        "Nome"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jina-1 — https://www.kimbundu.org/pt/word/jina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2628,
+      "kimbundu_term": "Jína",
+      "portuguese_translation": "Género de insetos ápteros que têm por tipo o piolho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jína-1 — https://www.kimbundu.org/pt/word/jina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2629,
+      "kimbundu_term": "Jína",
+      "portuguese_translation": "Piolhada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jína-1 — https://www.kimbundu.org/pt/word/jina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2630,
+      "kimbundu_term": "Jína",
+      "portuguese_translation": "Miséria",
+      "definition": null,
+      "alternative_meanings": [
+        "Extrema pobreza"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jína-1 — https://www.kimbundu.org/pt/word/jina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2631,
+      "kimbundu_term": "Jiná",
+      "portuguese_translation": "Aquelas",
+      "definition": null,
+      "alternative_meanings": [
+        "aqueles"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jiná-1 — https://www.kimbundu.org/pt/word/jina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2632,
+      "kimbundu_term": "Jiná",
+      "portuguese_translation": "Designa coisas afastadas das pessoas que falam",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jiná-1 — https://www.kimbundu.org/pt/word/jina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2633,
+      "kimbundu_term": "Jindaka",
+      "portuguese_translation": "Obscenidades",
+      "definition": null,
+      "alternative_meanings": [
+        "Indecências",
+        "Injúrias",
+        "Torpezas",
+        "atos indecorosos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jindaka-1 — https://www.kimbundu.org/pt/word/jindaka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
