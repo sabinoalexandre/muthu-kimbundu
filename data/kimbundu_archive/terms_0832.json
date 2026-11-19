@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8424,
+      "kimbundu_term": "Kufikidila",
+      "portuguese_translation": "Kurifikirila, v. r. Amparar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufikidila-1 — https://www.kimbundu.org/pt/word/kufikidila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8425,
+      "kimbundu_term": "Kufikidila",
+      "portuguese_translation": "Estar seguro, firme",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufikidila-1 — https://www.kimbundu.org/pt/word/kufikidila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8426,
+      "kimbundu_term": "Kufikila",
+      "portuguese_translation": "Suspeitar",
+      "definition": null,
+      "alternative_meanings": [
+        "julgar mal de alguém, de alguma coisa",
+        "Fazer suposições",
+        "formar mau juízo acerca de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufikila-1 — https://www.kimbundu.org/pt/word/kufikila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8427,
+      "kimbundu_term": "Kufikinina",
+      "portuguese_translation": "Colocar com firmeza",
+      "definition": null,
+      "alternative_meanings": [
+        "segurar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufikinina-1 — https://www.kimbundu.org/pt/word/kufikinina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8428,
+      "kimbundu_term": "Kufikinina",
+      "portuguese_translation": "Kurifíkinina, v. r. Segurar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "prevenir-se",
+        "Fazer por não cair"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufikinina-1 — https://www.kimbundu.org/pt/word/kufikinina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8429,
+      "kimbundu_term": "Kufikisa",
+      "portuguese_translation": "Experimentar",
+      "definition": null,
+      "alternative_meanings": [
+        "comparar",
+        "Exemplificar",
+        "arremedar",
+        "imitar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufikisa-1 — https://www.kimbundu.org/pt/word/kufikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8430,
+      "kimbundu_term": "Kufikisa",
+      "portuguese_translation": "Tentativa",
+      "definition": null,
+      "alternative_meanings": [
+        "arremedo",
+        "ensaio"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufikisa-1 — https://www.kimbundu.org/pt/word/kufikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8431,
+      "kimbundu_term": "Kufikisa",
+      "portuguese_translation": "Kurifikisa, e r. Verificar",
+      "definition": null,
+      "alternative_meanings": [
+        "provar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufikisa-1 — https://www.kimbundu.org/pt/word/kufikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8432,
+      "kimbundu_term": "Kufikixila",
+      "portuguese_translation": "Comedir",
+      "definition": null,
+      "alternative_meanings": [
+        "não ir além de",
+        "Gastar com moderação",
+        "dar por medida"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufikixila-1 — https://www.kimbundu.org/pt/word/kufikixila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8433,
+      "kimbundu_term": "Kufikixila",
+      "portuguese_translation": "Poupar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufikixila-1 — https://www.kimbundu.org/pt/word/kufikixila",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
