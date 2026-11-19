@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10474,
+      "kimbundu_term": "Kulundila",
+      "portuguese_translation": "Ter como depósito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulundila-1 — https://www.kimbundu.org/pt/word/kulundila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10475,
+      "kimbundu_term": "Kulundisa",
+      "portuguese_translation": "Dar a guardar, a arquivar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulundisa-1 — https://www.kimbundu.org/pt/word/kulundisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10476,
+      "kimbundu_term": "Kulundisa",
+      "portuguese_translation": "Pôr em depósito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulundisa-1 — https://www.kimbundu.org/pt/word/kulundisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10477,
+      "kimbundu_term": "Kulunduisa",
+      "portuguese_translation": "Investir",
+      "definition": null,
+      "alternative_meanings": [
+        "dar posse a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulunduisa-1 — https://www.kimbundu.org/pt/word/kulunduisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10478,
+      "kimbundu_term": "Kulunduisa",
+      "portuguese_translation": "Ato de dar posse do cargo ou benefício",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulunduisa-1 — https://www.kimbundu.org/pt/word/kulunduisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10479,
+      "kimbundu_term": "Kulunduka",
+      "portuguese_translation": "Tombar",
+      "definition": null,
+      "alternative_meanings": [
+        "ruir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulunduka-1 — https://www.kimbundu.org/pt/word/kulunduka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10480,
+      "kimbundu_term": "Kulunduka",
+      "portuguese_translation": "Cair",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulunduka-1 — https://www.kimbundu.org/pt/word/kulunduka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10481,
+      "kimbundu_term": "Kúlundula",
+      "portuguese_translation": "Empurrar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer tombar, cair"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlundula-1 — https://www.kimbundu.org/pt/word/kulundula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10482,
+      "kimbundu_term": "Kúlundula",
+      "portuguese_translation": "Afastar, repelir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlundula-1 — https://www.kimbundu.org/pt/word/kulundula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10483,
+      "kimbundu_term": "Kulundúla",
+      "portuguese_translation": "Herdar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulundúla-1 — https://www.kimbundu.org/pt/word/kulundula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
