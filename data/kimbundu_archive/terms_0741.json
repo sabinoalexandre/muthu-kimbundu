@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7514,
+      "kimbundu_term": "Kubika",
+      "portuguese_translation": "Fabricar",
+      "definition": null,
+      "alternative_meanings": [
+        "cozinhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubika-1 — https://www.kimbundu.org/pt/word/kubika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7515,
+      "kimbundu_term": "Kubika",
+      "portuguese_translation": "Kuribika, v. r. Escravizar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubika-1 — https://www.kimbundu.org/pt/word/kubika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7516,
+      "kimbundu_term": "Kubikisa",
+      "portuguese_translation": "Mandar servir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubikisa-1 — https://www.kimbundu.org/pt/word/kubikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7517,
+      "kimbundu_term": "Kubikisa",
+      "portuguese_translation": "ou fazer prestar quaisquer serviços",
+      "definition": null,
+      "alternative_meanings": [
+        "Escravizar",
+        "sujeitar",
+        "cativar",
+        "Dominar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubikisa-1 — https://www.kimbundu.org/pt/word/kubikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7518,
+      "kimbundu_term": "Kubikisa",
+      "portuguese_translation": "Kuribikisa, v. r. Escravizar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "sujeitar-se",
+        "privar-se da própria liberdade"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubikisa-1 — https://www.kimbundu.org/pt/word/kubikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7519,
+      "kimbundu_term": "Kubíla",
+      "portuguese_translation": "Pastorear",
+      "definition": null,
+      "alternative_meanings": [
+        "apascentar",
+        "guiar (falando de gados)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubíla-1 — https://www.kimbundu.org/pt/word/kubila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7520,
+      "kimbundu_term": "Kubíla",
+      "portuguese_translation": "Entrelaçar",
+      "definition": null,
+      "alternative_meanings": [
+        "emaranhar",
+        "bifurcar",
+        "Enredar",
+        "fig. Pejar",
+        "lutar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubíla-1 — https://www.kimbundu.org/pt/word/kubila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7521,
+      "kimbundu_term": "Kubíla",
+      "portuguese_translation": "sub. Enredo",
+      "definition": null,
+      "alternative_meanings": [
+        "pastoreio"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubíla-1 — https://www.kimbundu.org/pt/word/kubila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7522,
+      "kimbundu_term": "Kubíla",
+      "portuguese_translation": "Kuribila, v. r. Emaranhar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "enredar-se",
+        "confundir-se",
+        "Dividir-se em dois ramais ou cursos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubíla-1 — https://www.kimbundu.org/pt/word/kubila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7523,
+      "kimbundu_term": "Kubíla",
+      "portuguese_translation": "Estar emaranhado, bifurcado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubíla-2 — https://www.kimbundu.org/pt/word/kubila",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
