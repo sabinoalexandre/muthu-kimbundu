@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6154,
+      "kimbundu_term": "Kisende",
+      "portuguese_translation": "Coucear",
+      "definition": null,
+      "alternative_meanings": [
+        "Dar patada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisende-1 — https://www.kimbundu.org/pt/word/kisende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6155,
+      "kimbundu_term": "Kisénga",
+      "portuguese_translation": "Peixe do mar, conhecido por «pargo do mar»",
+      "definition": null,
+      "alternative_meanings": [
+        "Capatão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisénga-1 — https://www.kimbundu.org/pt/word/kisenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6156,
+      "kimbundu_term": "Kisengédia",
+      "portuguese_translation": "Acepipe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisengédia-1 — https://www.kimbundu.org/pt/word/kisengedia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6157,
+      "kimbundu_term": "Kisengese",
+      "portuguese_translation": "Ulorragia",
+      "definition": null,
+      "alternative_meanings": [
+        "Corrimento sanguíneo da gengiva"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisengese-1 — https://www.kimbundu.org/pt/word/kisengese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6158,
+      "kimbundu_term": "Kisenze",
+      "portuguese_translation": "Pov. do conc. e circ. civ. do Encoge, distr. e prov. de Luanda, junto à margem esq. do rio Canambinga, afluente do Loge",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisenze-1 — https://www.kimbundu.org/pt/word/kisenze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6159,
+      "kimbundu_term": "Kisenzele",
+      "portuguese_translation": "Pov. e sede do posto civ. deste nome, no conc. do Ambriz, distr. e prov. de Luanda, 4.887 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisenzele-1 — https://www.kimbundu.org/pt/word/kisenzele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6160,
+      "kimbundu_term": "Kisenzele",
+      "portuguese_translation": "Lugar onde, em Bala-Tando, está situado o cemitério",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisenzele-1 — https://www.kimbundu.org/pt/word/kisenzele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6161,
+      "kimbundu_term": "Kisese",
+      "portuguese_translation": "Facto, caso extraordinário",
+      "definition": null,
+      "alternative_meanings": [
+        "Acontecimento invulgar",
+        "sucesso (no sentido do inesperado)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisese-1 — https://www.kimbundu.org/pt/word/kisese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6162,
+      "kimbundu_term": "Kisese",
+      "portuguese_translation": "Presagoso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisese-1 — https://www.kimbundu.org/pt/word/kisese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6163,
+      "kimbundu_term": "Kisesekenya",
+      "portuguese_translation": "Migalha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisesekenya-1 — https://www.kimbundu.org/pt/word/kisesekenya",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
