@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18904,
+      "kimbundu_term": "Sángu",
+      "portuguese_translation": "Comida que, ao oitavo dia do óbito, se dá aos circunstantes",
+      "definition": null,
+      "alternative_meanings": [
+        "Contribuição",
+        "coleta"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sángu-1 — https://www.kimbundu.org/pt/word/sangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18905,
+      "kimbundu_term": "Sánji",
+      "portuguese_translation": "Galinha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sánji-1 — https://www.kimbundu.org/pt/word/sanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18906,
+      "kimbundu_term": "Sánji",
+      "portuguese_translation": "Pov. e sede da vila do Golungo, Alto, circ. civil de Cazengo, distrito do Quanza-Norte, prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sánji-1 — https://www.kimbundu.org/pt/word/sanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18907,
+      "kimbundu_term": "Sanona",
+      "portuguese_translation": "Arbusto solanáceo, cujas folhas se empregam em fricções nas doenças do peito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sanona-1 — https://www.kimbundu.org/pt/word/sanona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18908,
+      "kimbundu_term": "Sanza",
+      "portuguese_translation": "Cesto de vime com que se apanha o njimbu na ilha de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sanza-1 — https://www.kimbundu.org/pt/word/sanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18909,
+      "kimbundu_term": "Sanza",
+      "portuguese_translation": "Pov. e rio do conc., distr. e prov. de Malanje, margem esquerda do rio Kuiji",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sanza-1 — https://www.kimbundu.org/pt/word/sanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18910,
+      "kimbundu_term": "Sanza",
+      "portuguese_translation": "Pov. e sede da circ. civ. do Pombo, distr. do Congo, prov. de Luanda, a 3º e 10' de lat. S., 990 mts. de alt., 9.612 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sanza-1 — https://www.kimbundu.org/pt/word/sanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18911,
+      "kimbundu_term": "Sanzala",
+      "portuguese_translation": "Povoado",
+      "definition": null,
+      "alternative_meanings": [
+        "Residência de serviçais em propriedade agrícola"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sanzala-1 — https://www.kimbundu.org/pt/word/sanzala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18912,
+      "kimbundu_term": "Sanzala",
+      "portuguese_translation": "Moradia de gente separada da casa principal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sanzala-1 — https://www.kimbundu.org/pt/word/sanzala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18913,
+      "kimbundu_term": "Sanzu",
+      "portuguese_translation": "Saneamento",
+      "definition": null,
+      "alternative_meanings": [
+        "alargamento",
+        "ceifa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sanzu-1 — https://www.kimbundu.org/pt/word/sanzu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
