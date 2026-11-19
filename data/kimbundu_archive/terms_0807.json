@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8174,
+      "kimbundu_term": "Kudikexila",
+      "portuguese_translation": "Isolar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikexila-1 — https://www.kimbundu.org/pt/word/kudikexila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8175,
+      "kimbundu_term": "Kúdikila",
+      "portuguese_translation": "Saginar",
+      "definition": null,
+      "alternative_meanings": [
+        "cevar",
+        "nutrir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúdikila-1 — https://www.kimbundu.org/pt/word/kudikila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8176,
+      "kimbundu_term": "Kúdikila",
+      "portuguese_translation": "Saciar",
+      "definition": null,
+      "alternative_meanings": [
+        "fartar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúdikila-1 — https://www.kimbundu.org/pt/word/kudikila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8177,
+      "kimbundu_term": "Kúdikila",
+      "portuguese_translation": "Nutrição",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúdikila-1 — https://www.kimbundu.org/pt/word/kudikila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8178,
+      "kimbundu_term": "Kudikinda",
+      "portuguese_translation": "Balançar-se de um lado para o outro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikinda-1 — https://www.kimbundu.org/pt/word/kudikinda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8179,
+      "kimbundu_term": "Kudikinda",
+      "portuguese_translation": "Dançar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikinda-1 — https://www.kimbundu.org/pt/word/kudikinda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8180,
+      "kimbundu_term": "Kudikíta",
+      "portuguese_translation": "Bater com força",
+      "definition": null,
+      "alternative_meanings": [
+        "castigar severamente",
+        "dar sem dó"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikíta-1 — https://www.kimbundu.org/pt/word/kudikita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8181,
+      "kimbundu_term": "Kudikíta",
+      "portuguese_translation": "Executar",
+      "definition": null,
+      "alternative_meanings": [
+        "liquidar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikíta-1 — https://www.kimbundu.org/pt/word/kudikita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8182,
+      "kimbundu_term": "Kudikiza",
+      "portuguese_translation": "Mostrar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer ver",
+        "pôr à vista"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikiza-1 — https://www.kimbundu.org/pt/word/kudikiza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8183,
+      "kimbundu_term": "Kudikoma",
+      "portuguese_translation": "Comer muito",
+      "definition": null,
+      "alternative_meanings": [
+        "fartar-se. (Emprega-se em sentido ofensivo)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikoma-1 — https://www.kimbundu.org/pt/word/kudikoma",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
