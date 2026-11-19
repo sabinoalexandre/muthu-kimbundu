@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9004,
+      "kimbundu_term": "Kujílula",
+      "portuguese_translation": "Fazer abjurar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujílula-1 — https://www.kimbundu.org/pt/word/kujilula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9005,
+      "kimbundu_term": "Kujílula",
+      "portuguese_translation": "Levantar o jejum",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujílula-1 — https://www.kimbundu.org/pt/word/kujilula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9006,
+      "kimbundu_term": "Kujílula",
+      "portuguese_translation": "Kurijilula, e r. Desjejuar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujílula-1 — https://www.kimbundu.org/pt/word/kujilula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9007,
+      "kimbundu_term": "Kujílula",
+      "portuguese_translation": "Quebrar abstinência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujílula-1 — https://www.kimbundu.org/pt/word/kujilula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9008,
+      "kimbundu_term": "Kujima",
+      "portuguese_translation": "Apagar (o fogo ou luz)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujima-1 — https://www.kimbundu.org/pt/word/kujima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9009,
+      "kimbundu_term": "Kujima",
+      "portuguese_translation": "Fazer desaparecer, suprimir (vestígios)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujima-1 — https://www.kimbundu.org/pt/word/kujima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9010,
+      "kimbundu_term": "Kujima",
+      "portuguese_translation": "Tornar extinto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujima-1 — https://www.kimbundu.org/pt/word/kujima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9011,
+      "kimbundu_term": "Kujima",
+      "portuguese_translation": "Kurijima, e r. Apagar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "extinguir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujima-1 — https://www.kimbundu.org/pt/word/kujima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9012,
+      "kimbundu_term": "Kujima",
+      "portuguese_translation": "Morrer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujima-1 — https://www.kimbundu.org/pt/word/kujima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9013,
+      "kimbundu_term": "Kujima",
+      "portuguese_translation": "Atascar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "tomar beberetes"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujima-1 — https://www.kimbundu.org/pt/word/kujima",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
