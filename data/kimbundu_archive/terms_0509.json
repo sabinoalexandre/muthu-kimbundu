@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5194,
+      "kimbundu_term": "Kikanzu",
+      "portuguese_translation": "Bairro",
+      "definition": null,
+      "alternative_meanings": [
+        "povoação",
+        "família",
+        "Conjunto de fogos",
+        "Freguesia, território que a abrange"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikanzu-1 — https://www.kimbundu.org/pt/word/kikanzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5195,
+      "kimbundu_term": "Kikaselu",
+      "portuguese_translation": "Atilho",
+      "definition": null,
+      "alternative_meanings": [
+        "Cordão para atar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikaselu-1 — https://www.kimbundu.org/pt/word/kikaselu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5196,
+      "kimbundu_term": "Kikaselu",
+      "portuguese_translation": "Que ata",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikaselu-1 — https://www.kimbundu.org/pt/word/kikaselu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5197,
+      "kimbundu_term": "Kikata",
+      "portuguese_translation": "Truncado",
+      "definition": null,
+      "alternative_meanings": [
+        "mutilado",
+        "aleijado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikata-1 — https://www.kimbundu.org/pt/word/kikata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5198,
+      "kimbundu_term": "Kikata",
+      "portuguese_translation": "Estorvo",
+      "definition": null,
+      "alternative_meanings": [
+        "obstrução",
+        "entrave",
+        "Coisa que não sai do lugar ou não deixa passar ou avançar"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikata-1 — https://www.kimbundu.org/pt/word/kikata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5199,
+      "kimbundu_term": "Kikau",
+      "portuguese_translation": "Exercício de: corrida para disputa de algo",
+      "definition": null,
+      "alternative_meanings": [
+        "Campeonato"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikau-1 — https://www.kimbundu.org/pt/word/kikau",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5200,
+      "kimbundu_term": "Kikau",
+      "portuguese_translation": "Campal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikau-1 — https://www.kimbundu.org/pt/word/kikau",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5201,
+      "kimbundu_term": "Kikaukau",
+      "portuguese_translation": "Ânsia de beber",
+      "definition": null,
+      "alternative_meanings": [
+        "Misto de sede e de cansaço",
+        "Diz-se do estado sequioso de quem percorreu grandes distâncias"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikaukau-1 — https://www.kimbundu.org/pt/word/kikaukau",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5202,
+      "kimbundu_term": "Kikaxi",
+      "portuguese_translation": "O que fica da cana de açúcar ou do dendém depois de extraído o suco",
+      "definition": null,
+      "alternative_meanings": [
+        "Bagaço"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikaxi-1 — https://www.kimbundu.org/pt/word/kikaxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5203,
+      "kimbundu_term": "Kikaxi",
+      "portuguese_translation": "Palpitações",
+      "definition": null,
+      "alternative_meanings": [
+        "Estremecimentos",
+        "Arrepios"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikaxi-1 — https://www.kimbundu.org/pt/word/kikaxi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
