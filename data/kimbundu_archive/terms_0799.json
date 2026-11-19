@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8094,
+      "kimbundu_term": "Kudibetesa",
+      "portuguese_translation": "Fazer-se bater",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudibetesa-1 — https://www.kimbundu.org/pt/word/kudibetesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8095,
+      "kimbundu_term": "Kudibetesa",
+      "portuguese_translation": "Dar causa a castigos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudibetesa-1 — https://www.kimbundu.org/pt/word/kudibetesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8096,
+      "kimbundu_term": "Kudibindamesa",
+      "portuguese_translation": "Obrigar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "privar-se do necessário"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudibindamesa-1 — https://www.kimbundu.org/pt/word/kudibindamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8097,
+      "kimbundu_term": "Kudibindamesa",
+      "portuguese_translation": "Molestar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudibindamesa-1 — https://www.kimbundu.org/pt/word/kudibindamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8098,
+      "kimbundu_term": "Kudibitisa",
+      "portuguese_translation": "Passar sem motivo determinado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudibitisa-1 — https://www.kimbundu.org/pt/word/kudibitisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8099,
+      "kimbundu_term": "Kudibitisa",
+      "portuguese_translation": "Fazer-se lembrado (passando por)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudibitisa-1 — https://www.kimbundu.org/pt/word/kudibitisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8100,
+      "kimbundu_term": "Kudibitula",
+      "portuguese_translation": "Dar encontro com",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudibitula-1 — https://www.kimbundu.org/pt/word/kudibitula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8101,
+      "kimbundu_term": "Kudibitula",
+      "portuguese_translation": "Passar um pelo outro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudibitula-1 — https://www.kimbundu.org/pt/word/kudibitula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8102,
+      "kimbundu_term": "Kudibitulula",
+      "portuguese_translation": "Reparar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "corrigir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudibitulula-1 — https://www.kimbundu.org/pt/word/kudibitulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8103,
+      "kimbundu_term": "Kudiboka",
+      "portuguese_translation": "Pregar",
+      "definition": null,
+      "alternative_meanings": [
+        "discursar",
+        "orar em público"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudiboka-1 — https://www.kimbundu.org/pt/word/kudiboka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
