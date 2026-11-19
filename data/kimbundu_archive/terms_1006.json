@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10164,
+      "kimbundu_term": "Kúlelama",
+      "portuguese_translation": "Boiar",
+      "definition": null,
+      "alternative_meanings": [
+        "sobrenadar",
+        "Não ir ao fundo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlelama-1 — https://www.kimbundu.org/pt/word/kulelama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10165,
+      "kimbundu_term": "Kulelamesa",
+      "portuguese_translation": "Olear",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer lustrar",
+        "polir. É também recíproco"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulelamesa-1 — https://www.kimbundu.org/pt/word/kulelamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10166,
+      "kimbundu_term": "Kulelamesa",
+      "portuguese_translation": "Fazer sobrenadar, v.r. acima da água",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulelamesa-1 — https://www.kimbundu.org/pt/word/kulelamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10167,
+      "kimbundu_term": "Kuleluka",
+      "portuguese_translation": "Vir à tona da água",
+      "definition": null,
+      "alternative_meanings": [
+        "Flutuar",
+        "tornar-se leve"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuleluka-1 — https://www.kimbundu.org/pt/word/kuleluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10168,
+      "kimbundu_term": "Kúlelula",
+      "portuguese_translation": "Tirar por cima",
+      "definition": null,
+      "alternative_meanings": [
+        "Rasar",
+        "Passar (a rasoura) ao de leve"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlelula-1 — https://www.kimbundu.org/pt/word/kulelula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10169,
+      "kimbundu_term": "Kulelumuka",
+      "portuguese_translation": "Ficar esparralhado",
+      "definition": null,
+      "alternative_meanings": [
+        "Diz-se do sebo, que se derrete com o calor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulelumuka-1 — https://www.kimbundu.org/pt/word/kulelumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10170,
+      "kimbundu_term": "Kulelumuka",
+      "portuguese_translation": "Estar sem forças, em estado de fraqueza, debilitado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulelumuka-1 — https://www.kimbundu.org/pt/word/kulelumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10171,
+      "kimbundu_term": "Kulelumuka",
+      "portuguese_translation": "Ficar desfolhado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulelumuka-1 — https://www.kimbundu.org/pt/word/kulelumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10172,
+      "kimbundu_term": "Kulelumukisa",
+      "portuguese_translation": "Esparrinhar",
+      "definition": null,
+      "alternative_meanings": [
+        "Tornar inconsistente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulelumukisa-1 — https://www.kimbundu.org/pt/word/kulelumukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10173,
+      "kimbundu_term": "Kulelumukisa",
+      "portuguese_translation": "Esparrinhar. Tornar inconsistente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulelumukisa-2 — https://www.kimbundu.org/pt/word/kulelumukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
