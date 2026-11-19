@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1234,
+      "kimbundu_term": "Disakela",
+      "portuguese_translation": "Lugar onde se pratica adivinhação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disakela-1 — https://www.kimbundu.org/pt/word/disakela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1235,
+      "kimbundu_term": "Disakela",
+      "portuguese_translation": "Adivinha por meio de espiritismo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disakela-1 — https://www.kimbundu.org/pt/word/disakela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1236,
+      "kimbundu_term": "Disakidilu",
+      "portuguese_translation": "Digno de agradecimento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disakidilu-1 — https://www.kimbundu.org/pt/word/disakidilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1237,
+      "kimbundu_term": "Disaku",
+      "portuguese_translation": "Planta feminina das saponáceas, de fruto comestível",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disaku-1 — https://www.kimbundu.org/pt/word/disaku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1238,
+      "kimbundu_term": "Disála",
+      "portuguese_translation": "Convólvulo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disála-1 — https://www.kimbundu.org/pt/word/disala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1239,
+      "kimbundu_term": "Disama",
+      "portuguese_translation": "Monte de salalé que serve de forno ou estufa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disama-1 — https://www.kimbundu.org/pt/word/disama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1240,
+      "kimbundu_term": "Disambelu",
+      "portuguese_translation": "Oratório. Lugar de rezas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disambelu-1 — https://www.kimbundu.org/pt/word/disambelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1241,
+      "kimbundu_term": "Disandelu",
+      "portuguese_translation": "Sítio onde se esgravata. Alpercata com que se dança sapateando. fig. Chinela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disandelu-1 — https://www.kimbundu.org/pt/word/disandelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1242,
+      "kimbundu_term": "Disanga",
+      "portuguese_translation": "Repugnância",
+      "definition": null,
+      "alternative_meanings": [
+        "nojo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disanga-1 — https://www.kimbundu.org/pt/word/disanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1243,
+      "kimbundu_term": "Disânga",
+      "portuguese_translation": "Cântaro. Vaso de barro de boca larga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disânga-1 — https://www.kimbundu.org/pt/word/disanga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
