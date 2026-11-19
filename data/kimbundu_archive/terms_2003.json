@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 20134,
+      "kimbundu_term": "Xóto",
+      "portuguese_translation": "— ia kafifi bufa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xóto-1 — https://www.kimbundu.org/pt/word/xoto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20135,
+      "kimbundu_term": "Xoué",
+      "portuguese_translation": "Apoucado",
+      "definition": null,
+      "alternative_meanings": [
+        "engunhado",
+        "seco. Murcho"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xoué-1 — https://www.kimbundu.org/pt/word/xoue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20136,
+      "kimbundu_term": "Xoxa",
+      "portuguese_translation": "Chacota",
+      "definition": null,
+      "alternative_meanings": [
+        "mofa",
+        "surriada com que alguém é corrido. Zombaria"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xoxa-1 — https://www.kimbundu.org/pt/word/xoxa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20137,
+      "kimbundu_term": "Xoxombo",
+      "portuguese_translation": "Jagodes, bigorrilhas. João Ninguém",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xoxombo-1 — https://www.kimbundu.org/pt/word/xoxombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20138,
+      "kimbundu_term": "Xúku-xúku",
+      "portuguese_translation": "Expressão imitativa de quem soluça",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xúku-xúku-1 — https://www.kimbundu.org/pt/word/xuku-xuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20139,
+      "kimbundu_term": "Yami",
+      "portuguese_translation": "(contr. da prep. ia e do pron. pess. eme). Meu",
+      "definition": null,
+      "alternative_meanings": [
+        "minha",
+        "De mim",
+        "Pertencente à minha pessoa"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yami-1 — https://www.kimbundu.org/pt/word/yami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20140,
+      "kimbundu_term": "Yami",
+      "portuguese_translation": "Meus",
+      "definition": null,
+      "alternative_meanings": [
+        "minhas"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yami-1 — https://www.kimbundu.org/pt/word/yami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20141,
+      "kimbundu_term": "Yanda",
+      "portuguese_translation": "Seres sobrenaturais",
+      "definition": null,
+      "alternative_meanings": [
+        "Seres deformados",
+        "Divindades mitológicas",
+        "Deuses dos desertos, dos montes ou das lagoas",
+        "Ninfas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yanda-1 — https://www.kimbundu.org/pt/word/yanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20142,
+      "kimbundu_term": "Yanda",
+      "portuguese_translation": "Palavra com que, nesta classe, se forma o fut. pl. dos verbos. Hão-de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yanda-1 — https://www.kimbundu.org/pt/word/yanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20143,
+      "kimbundu_term": "Yangu",
+      "portuguese_translation": "Nome vulgar e genérico de várias plantas, anuais ou vivazes, gramíneas, ciperáceas ou forraginosas, que secam depois da",
+      "definition": null,
+      "alternative_meanings": [
+        "Erva",
+        "Planta espontânea de terreno inculto",
+        "Capim",
+        "Relva",
+        "Terreno coberto de relva"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yangu-1 — https://www.kimbundu.org/pt/word/yangu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
