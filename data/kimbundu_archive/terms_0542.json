@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5524,
+      "kimbundu_term": "Kilute",
+      "portuguese_translation": "Móvito",
+      "definition": null,
+      "alternative_meanings": [
+        "aborto. Diz-se do ovo podre que a galinha não chocou"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilute-1 — https://www.kimbundu.org/pt/word/kilute",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5525,
+      "kimbundu_term": "Kilutu",
+      "portuguese_translation": "Que faz bojo. Saliente",
+      "definition": null,
+      "alternative_meanings": [
+        "bojudo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilutu-1 — https://www.kimbundu.org/pt/word/kilutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5526,
+      "kimbundu_term": "Kíluxa",
+      "portuguese_translation": "Peixe clúpeo marinho. Savelha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kíluxa-1 — https://www.kimbundu.org/pt/word/kiluxa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5527,
+      "kimbundu_term": "Kíluza",
+      "portuguese_translation": "Pistola. Revólver",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kíluza-1 — https://www.kimbundu.org/pt/word/kiluza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5528,
+      "kimbundu_term": "Kilwezu",
+      "portuguese_translation": "Perigo",
+      "definition": null,
+      "alternative_meanings": [
+        "risco",
+        "Probabilidade de perigo",
+        "Situação perigosa"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilwezu-1 — https://www.kimbundu.org/pt/word/kilwezu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5529,
+      "kimbundu_term": "Kilwezu",
+      "portuguese_translation": "É tb. adj",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilwezu-1 — https://www.kimbundu.org/pt/word/kilwezu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5530,
+      "kimbundu_term": "Kim'okio",
+      "portuguese_translation": "Essa coisa",
+      "definition": null,
+      "alternative_meanings": [
+        "isso"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kim'okio-1 — https://www.kimbundu.org/pt/word/kim'okio",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5531,
+      "kimbundu_term": "Kima",
+      "portuguese_translation": "Coisa. O que se diz ou serve de tema ao discurso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kima-1 — https://www.kimbundu.org/pt/word/kima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5532,
+      "kimbundu_term": "Kima",
+      "portuguese_translation": "Mistério",
+      "definition": null,
+      "alternative_meanings": [
+        "coisa ou fim desconhecido. Ação (feita ou por fazer). Facto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kima-1 — https://www.kimbundu.org/pt/word/kima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5533,
+      "kimbundu_term": "Kima",
+      "portuguese_translation": "Coisa exagerada, grande, fora do comum (antít. de kâma)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kima-1 — https://www.kimbundu.org/pt/word/kima",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
