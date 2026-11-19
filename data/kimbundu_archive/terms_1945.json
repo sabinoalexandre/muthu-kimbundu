@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19554,
+      "kimbundu_term": "Úkembu",
+      "portuguese_translation": "Adorno",
+      "definition": null,
+      "alternative_meanings": [
+        "embelezamento",
+        "enfeite"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úkembu-1 — https://www.kimbundu.org/pt/word/ukembu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19555,
+      "kimbundu_term": "Úkembu",
+      "portuguese_translation": "Joia",
+      "definition": null,
+      "alternative_meanings": [
+        "artigo de luxo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úkembu-1 — https://www.kimbundu.org/pt/word/ukembu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19556,
+      "kimbundu_term": "Úkembu",
+      "portuguese_translation": "O que se adota para disfarçar a vulgaridade, môxi isuta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úkembu-1 — https://www.kimbundu.org/pt/word/ukembu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19557,
+      "kimbundu_term": "Úkembu",
+      "portuguese_translation": "Janotismo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úkembu-1 — https://www.kimbundu.org/pt/word/ukembu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19558,
+      "kimbundu_term": "Ukemenu",
+      "portuguese_translation": "Forma de espremer, de expelir de si",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ukemenu-1 — https://www.kimbundu.org/pt/word/ukemenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19559,
+      "kimbundu_term": "Ukexilu",
+      "portuguese_translation": "Maneira de estar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ukexilu-1 — https://www.kimbundu.org/pt/word/ukexilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19560,
+      "kimbundu_term": "Ukexilu",
+      "portuguese_translation": "Modo geral",
+      "definition": null,
+      "alternative_meanings": [
+        "condição, situação ou disposição em que se permanece"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ukexilu-1 — https://www.kimbundu.org/pt/word/ukexilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19561,
+      "kimbundu_term": "Ukexilu",
+      "portuguese_translation": "Circunstâncias especiais do modo de vida atual",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ukexilu-1 — https://www.kimbundu.org/pt/word/ukexilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19562,
+      "kimbundu_term": "Ukexilu",
+      "portuguese_translation": "Conduta",
+      "definition": null,
+      "alternative_meanings": [
+        "comportamento",
+        "convivência"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ukexilu-1 — https://www.kimbundu.org/pt/word/ukexilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19563,
+      "kimbundu_term": "Ukininu",
+      "portuguese_translation": "Forma de dançar",
+      "definition": null,
+      "alternative_meanings": [
+        "maneira de bailar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ukininu-1 — https://www.kimbundu.org/pt/word/ukininu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
