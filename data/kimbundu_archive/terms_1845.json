@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18554,
+      "kimbundu_term": "Oko",
+      "portuguese_translation": "Abreviatura do advérbio kóko. Aí",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, oko-1 — https://www.kimbundu.org/pt/word/oko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18555,
+      "kimbundu_term": "Oko",
+      "portuguese_translation": "e pron. demonstrativo (X). Essa, esse",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, oko-1 — https://www.kimbundu.org/pt/word/oko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18556,
+      "kimbundu_term": "Okoto",
+      "portuguese_translation": "Gergelim",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, okoto-1 — https://www.kimbundu.org/pt/word/okoto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18557,
+      "kimbundu_term": "Oku",
+      "portuguese_translation": "Abreviatura do advérbio kúxu. Cá",
+      "definition": null,
+      "alternative_meanings": [
+        "deste lado"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, oku-1 — https://www.kimbundu.org/pt/word/oku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18558,
+      "kimbundu_term": "Okyo",
+      "portuguese_translation": "Esse, essa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, okyo-1 — https://www.kimbundu.org/pt/word/okyo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18559,
+      "kimbundu_term": "Olo",
+      "portuguese_translation": "Esse",
+      "definition": null,
+      "alternative_meanings": [
+        "essa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, olo-1 — https://www.kimbundu.org/pt/word/olo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18560,
+      "kimbundu_term": "Omba",
+      "portuguese_translation": "Rio da região da Quissama, afluente da margem direita do rio Longa, circ. civ. da Quissama, distr. e prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, omba-1 — https://www.kimbundu.org/pt/word/omba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18561,
+      "kimbundu_term": "Ômnoe",
+      "portuguese_translation": "Árvore fam. das leguminosas (berlinia angolensis), de madeira aproveitável",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ômnoe-1 — https://www.kimbundu.org/pt/word/omnoe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18562,
+      "kimbundu_term": "Omo",
+      "portuguese_translation": "Abreviação do adv. de lugar mómo. Aí (dentro)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, omo-1 — https://www.kimbundu.org/pt/word/omo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18563,
+      "kimbundu_term": "Omo",
+      "portuguese_translation": "e pron. demonstrativo pl. (VII) Esses",
+      "definition": null,
+      "alternative_meanings": [
+        "essas"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, omo-1 — https://www.kimbundu.org/pt/word/omo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
