@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12274,
+      "kimbundu_term": "Kutembuka",
+      "portuguese_translation": "Escâncara, usada na loc. adv.: abertamente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutembuka-1 — https://www.kimbundu.org/pt/word/kutembuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12275,
+      "kimbundu_term": "Kutembula",
+      "portuguese_translation": "Abrir passagem",
+      "definition": null,
+      "alternative_meanings": [
+        "escancarar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutembula-1 — https://www.kimbundu.org/pt/word/kutembula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12276,
+      "kimbundu_term": "Kutembula",
+      "portuguese_translation": "Franquear, facilitar entrada em",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutembula-1 — https://www.kimbundu.org/pt/word/kutembula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12277,
+      "kimbundu_term": "Kutemena",
+      "portuguese_translation": "Admoestar, repreender a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutemena-1 — https://www.kimbundu.org/pt/word/kutemena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12278,
+      "kimbundu_term": "Kutemena",
+      "portuguese_translation": "Intimidar por",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutemena-1 — https://www.kimbundu.org/pt/word/kutemena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12279,
+      "kimbundu_term": "Kutemeneka",
+      "portuguese_translation": "Irritar",
+      "definition": null,
+      "alternative_meanings": [
+        "embravecer",
+        "tornar irascível"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutemeneka-1 — https://www.kimbundu.org/pt/word/kutemeneka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12280,
+      "kimbundu_term": "Kutemeneka",
+      "portuguese_translation": "Kuritemeneka, e r. Encher-se de ira",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar-se aborrecido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutemeneka-1 — https://www.kimbundu.org/pt/word/kutemeneka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12281,
+      "kimbundu_term": "Kutemésa",
+      "portuguese_translation": "Requentar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutemésa-1 — https://www.kimbundu.org/pt/word/kutemesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12282,
+      "kimbundu_term": "Kutemésa",
+      "portuguese_translation": "Aquecer",
+      "definition": null,
+      "alternative_meanings": [
+        "-mênha"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutemésa-1 — https://www.kimbundu.org/pt/word/kutemesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12283,
+      "kimbundu_term": "Kutemésa",
+      "portuguese_translation": "Kuritemesa, e r. Dar-se quentura",
+      "definition": null,
+      "alternative_meanings": [
+        "aquecer-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutemésa-1 — https://www.kimbundu.org/pt/word/kutemesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
