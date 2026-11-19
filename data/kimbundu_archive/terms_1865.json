@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18754,
+      "kimbundu_term": "Pitu",
+      "portuguese_translation": "Fórmula",
+      "definition": null,
+      "alternative_meanings": [
+        "regra"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pitu-1 — https://www.kimbundu.org/pt/word/pitu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18755,
+      "kimbundu_term": "Pitu",
+      "portuguese_translation": "Observação do modo de operar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pitu-1 — https://www.kimbundu.org/pt/word/pitu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18756,
+      "kimbundu_term": "Pôko",
+      "portuguese_translation": "Faca",
+      "definition": null,
+      "alternative_meanings": [
+        "navalha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pôko-1 — https://www.kimbundu.org/pt/word/poko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18757,
+      "kimbundu_term": "Pôko",
+      "portuguese_translation": "Facada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pôko-1 — https://www.kimbundu.org/pt/word/poko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18758,
+      "kimbundu_term": "Pôko",
+      "portuguese_translation": "Ferir com faca",
+      "definition": null,
+      "alternative_meanings": [
+        "dar facada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pôko-1 — https://www.kimbundu.org/pt/word/poko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18759,
+      "kimbundu_term": "Pôko",
+      "portuguese_translation": "ia butu, navalha de barba, kiznua ki u fua, i ku buta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pôko-1 — https://www.kimbundu.org/pt/word/poko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18760,
+      "kimbundu_term": "Pôko",
+      "portuguese_translation": "Planta fam. das ciperáceas, de tão agudas folhas e caules que o mais leve contacto cortam",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pôko-1 — https://www.kimbundu.org/pt/word/poko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18761,
+      "kimbundu_term": "Pôko",
+      "portuguese_translation": "Porco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pôko-2 — https://www.kimbundu.org/pt/word/poko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18762,
+      "kimbundu_term": "Pôkolo",
+      "portuguese_translation": "Pov. e sede do posto deste nome, conc. civ dos Gamba, distr. e prov. da Huíla, 3 670 hab. e est. teleg.-post",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pôkolo-1 — https://www.kimbundu.org/pt/word/pokolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18763,
+      "kimbundu_term": "Póle-póle",
+      "portuguese_translation": "significativa dos olhos que se abrem e fecham a miúde",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, póle-póle-1 — https://www.kimbundu.org/pt/word/pole-pole",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
