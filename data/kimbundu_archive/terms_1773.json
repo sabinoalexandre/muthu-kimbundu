@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17834,
+      "kimbundu_term": "Ndúlu",
+      "portuguese_translation": "Povoação e sede do posto civil do mesmo nome (antigo posto de Dondeiro), distrito e província do Bié, a 16º 42' de longi",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndúlu-1 — https://www.kimbundu.org/pt/word/ndulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17835,
+      "kimbundu_term": "Ndúlu",
+      "portuguese_translation": "Sede do concelho de Andulo, distrito e província do Bié, a 11º 40' de latitude e 13º 10' de longitude E., 1.708 m de alt",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndúlu-1 — https://www.kimbundu.org/pt/word/ndulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17836,
+      "kimbundu_term": "Ndulúlu",
+      "portuguese_translation": "Humor esverdeado e muito amargo contido numa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndulúlu-1 — https://www.kimbundu.org/pt/word/ndululu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17837,
+      "kimbundu_term": "Ndulúlu",
+      "portuguese_translation": "Vesícula aderente ao fígado",
+      "definition": null,
+      "alternative_meanings": [
+        "fel",
+        "bílis",
+        "vesícula do fel",
+        "amargor",
+        "fig. rancor, ódio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndulúlu-1 — https://www.kimbundu.org/pt/word/ndululu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17838,
+      "kimbundu_term": "Ndúm",
+      "portuguese_translation": "Expressão comparativa de pancada, choque ou queda",
+      "definition": null,
+      "alternative_meanings": [
+        "estrondo"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição, onomatopaico",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndúm-1 — https://www.kimbundu.org/pt/word/ndum",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17839,
+      "kimbundu_term": "Ndûmba",
+      "portuguese_translation": "Abundante",
+      "definition": null,
+      "alternative_meanings": [
+        "numeroso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndûmba-1 — https://www.kimbundu.org/pt/word/ndumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17840,
+      "kimbundu_term": "Ndûmba",
+      "portuguese_translation": "Muito",
+      "definition": null,
+      "alternative_meanings": [
+        "tanto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndûmba-1 — https://www.kimbundu.org/pt/word/ndumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17841,
+      "kimbundu_term": "Ndûmba",
+      "portuguese_translation": "Grande quantidade",
+      "definition": null,
+      "alternative_meanings": [
+        "mó (grande porção)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndûmba-1 — https://www.kimbundu.org/pt/word/ndumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17842,
+      "kimbundu_term": "Ndûmba",
+      "portuguese_translation": "(plural) Senhos",
+      "definition": null,
+      "alternative_meanings": [
+        "muitos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndûmba-1 — https://www.kimbundu.org/pt/word/ndumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17843,
+      "kimbundu_term": "Ndûmba",
+      "portuguese_translation": "(advérbio) Em excesso",
+      "definition": null,
+      "alternative_meanings": [
+        "abundantemente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndûmba-1 — https://www.kimbundu.org/pt/word/ndumba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
