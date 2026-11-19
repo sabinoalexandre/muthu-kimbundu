@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17994,
+      "kimbundu_term": "Ngándu",
+      "portuguese_translation": "Rio, afluente da margem esquerda do Luhandu, no distrito do Mexico, província do Bié",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngándu-1 — https://www.kimbundu.org/pt/word/ngandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17995,
+      "kimbundu_term": "Ngándu",
+      "portuguese_translation": "Povoação e posto deste nome, concelho de Camacupa, distrito e província do Bié, com 13.805 habitantes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngándu-1 — https://www.kimbundu.org/pt/word/ngandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17996,
+      "kimbundu_term": "Ngándu",
+      "portuguese_translation": "Anfíbio carnívoro e perigoso, que habita os mais importantes rios do continente africano",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngándu-2 — https://www.kimbundu.org/pt/word/ngandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17997,
+      "kimbundu_term": "Ngándu",
+      "portuguese_translation": "Crocodilo",
+      "definition": null,
+      "alternative_meanings": [
+        "caimão",
+        "jacaré"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngándu-2 — https://www.kimbundu.org/pt/word/ngandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17998,
+      "kimbundu_term": "Ngándu",
+      "portuguese_translation": "Aligátor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngándu-2 — https://www.kimbundu.org/pt/word/ngandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17999,
+      "kimbundu_term": "Nganga",
+      "portuguese_translation": "Salina",
+      "definition": null,
+      "alternative_meanings": [
+        "lagamar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nganga-1 — https://www.kimbundu.org/pt/word/nganga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18000,
+      "kimbundu_term": "Nganga",
+      "portuguese_translation": "Lugar à beira do mar onde se fabrica o sal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nganga-1 — https://www.kimbundu.org/pt/word/nganga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18001,
+      "kimbundu_term": "Nganga",
+      "portuguese_translation": "Nome por que no Seles e Amboim é conhecida a planta mutuxi",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nganga-1 — https://www.kimbundu.org/pt/word/nganga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18002,
+      "kimbundu_term": "Ngánga",
+      "portuguese_translation": "Sacerdote",
+      "definition": null,
+      "alternative_meanings": [
+        "profeta",
+        "que tem ou revela grande saber",
+        "Douto",
+        "mestre",
+        "Padre",
+        "doutor de igreja",
+        "Clérigo",
+        "abade",
+        "Sábio consumado",
+        "jurisconsulto",
+        "Mago",
+        "mágico"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngánga-1 — https://www.kimbundu.org/pt/word/nganga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18003,
+      "kimbundu_term": "Ngánga",
+      "portuguese_translation": "indivíduo que nas cerimónias do juramento ministra o mbulungu ao paciente",
+      "definition": null,
+      "alternative_meanings": [
+        "Espécie de mestre de cerimónias",
+        "Aquele que dá o ndúua ao suposto culpado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngánga-1 — https://www.kimbundu.org/pt/word/nganga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
