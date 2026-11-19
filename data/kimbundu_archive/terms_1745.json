@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17554,
+      "kimbundu_term": "Muzúne",
+      "portuguese_translation": "Descarnador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzúne-1 — https://www.kimbundu.org/pt/word/muzune",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17555,
+      "kimbundu_term": "Muzúne",
+      "portuguese_translation": "Instrumento com que se descarna",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzúne-1 — https://www.kimbundu.org/pt/word/muzune",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17556,
+      "kimbundu_term": "Muzúnga",
+      "portuguese_translation": "Proteia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzúnga-1 — https://www.kimbundu.org/pt/word/muzunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17557,
+      "kimbundu_term": "Múzunge",
+      "portuguese_translation": "Ambulante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múzunge-1 — https://www.kimbundu.org/pt/word/muzunge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17558,
+      "kimbundu_term": "Muzungidi",
+      "portuguese_translation": "Visitador",
+      "definition": null,
+      "alternative_meanings": [
+        "assistente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzungidi-1 — https://www.kimbundu.org/pt/word/muzungidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17559,
+      "kimbundu_term": "Muzungine",
+      "portuguese_translation": "Familiar",
+      "definition": null,
+      "alternative_meanings": [
+        "visitante",
+        "convivente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzungine-1 — https://www.kimbundu.org/pt/word/muzungine",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17560,
+      "kimbundu_term": "Muzúngu",
+      "portuguese_translation": "Pequena árvore fam. das leguminosas (piptadenia africana), de boa madeira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzúngu-1 — https://www.kimbundu.org/pt/word/muzungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17561,
+      "kimbundu_term": "Muzúngu",
+      "portuguese_translation": "poupa (das aves)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzúngu-1 — https://www.kimbundu.org/pt/word/muzungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17562,
+      "kimbundu_term": "Muzúngu",
+      "portuguese_translation": "Monco (do papagaio)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzúngu-1 — https://www.kimbundu.org/pt/word/muzungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17563,
+      "kimbundu_term": "Múzuua",
+      "portuguese_translation": "Nassa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múzuua-1 — https://www.kimbundu.org/pt/word/muzuua",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
