@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6764,
+      "kimbundu_term": "Kizúa",
+      "portuguese_translation": "Dia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizúa-1 — https://www.kimbundu.org/pt/word/kizua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6765,
+      "kimbundu_term": "Kizuafelu",
+      "portuguese_translation": "Vestiário",
+      "definition": null,
+      "alternative_meanings": [
+        "Compartimento ou lugar onde se veste"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizuafelu-1 — https://www.kimbundu.org/pt/word/kizuafelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6766,
+      "kimbundu_term": "Kizuafu",
+      "portuguese_translation": "Peça de roupa",
+      "definition": null,
+      "alternative_meanings": [
+        "Trajo",
+        "farda"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizuafu-1 — https://www.kimbundu.org/pt/word/kizuafu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6767,
+      "kimbundu_term": "Kizúbe",
+      "portuguese_translation": "Acabante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizúbe-1 — https://www.kimbundu.org/pt/word/kizube",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6768,
+      "kimbundu_term": "Kizúbi",
+      "portuguese_translation": "Acabamento",
+      "definition": null,
+      "alternative_meanings": [
+        "remate"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizúbi-1 — https://www.kimbundu.org/pt/word/kizubi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6769,
+      "kimbundu_term": "Kizúbi",
+      "portuguese_translation": "Guisado de restos de carnes do dia anterior feito com farinha de mandioca",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizúbi-1 — https://www.kimbundu.org/pt/word/kizubi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6770,
+      "kimbundu_term": "Kizubilu",
+      "portuguese_translation": "Conclusão",
+      "definition": null,
+      "alternative_meanings": [
+        "termo",
+        "fim",
+        "Resultado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizubilu-1 — https://www.kimbundu.org/pt/word/kizubilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6771,
+      "kimbundu_term": "Kizuikilu",
+      "portuguese_translation": "Utensílio para afiar lâminas",
+      "definition": null,
+      "alternative_meanings": [
+        "Assentador",
+        "Pedra de amolar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizuikilu-1 — https://www.kimbundu.org/pt/word/kizuikilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6772,
+      "kimbundu_term": "Kizúka",
+      "portuguese_translation": "Furado",
+      "definition": null,
+      "alternative_meanings": [
+        "esburacado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizúka-1 — https://www.kimbundu.org/pt/word/kizuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6773,
+      "kimbundu_term": "Kizúka",
+      "portuguese_translation": "Diz-se dos alimentos cozidos pela ação do calor",
+      "definition": null,
+      "alternative_meanings": [
+        "dos frutos maduros com aparência de verdes"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizúka-1 — https://www.kimbundu.org/pt/word/kizuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
