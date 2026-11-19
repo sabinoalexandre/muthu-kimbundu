@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6424,
+      "kimbundu_term": "Kitubia",
+      "portuguese_translation": "Fogacho",
+      "definition": null,
+      "alternative_meanings": [
+        "calor muito vivo",
+        "Ardor",
+        "fogagem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitubia-1 — https://www.kimbundu.org/pt/word/kitubia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6425,
+      "kimbundu_term": "Kitubia",
+      "portuguese_translation": "Fogo intenso",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Lugar de tormentos",
+        "inferno"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitubia-1 — https://www.kimbundu.org/pt/word/kitubia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6426,
+      "kimbundu_term": "Kitubia",
+      "portuguese_translation": "adj. Fogoso",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Impaciente",
+        "arrebatado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitubia-1 — https://www.kimbundu.org/pt/word/kitubia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6427,
+      "kimbundu_term": "Kitúdi",
+      "portuguese_translation": "Francolim",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitúdi-1 — https://www.kimbundu.org/pt/word/kitudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6428,
+      "kimbundu_term": "Kitue",
+      "portuguese_translation": "Que pode ser afiado ou aguçado",
+      "definition": null,
+      "alternative_meanings": [
+        "Que está ou pode estar nas condições de cortar"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitue-1 — https://www.kimbundu.org/pt/word/kitue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6429,
+      "kimbundu_term": "Kitue",
+      "portuguese_translation": "Aguçadura",
+      "definition": null,
+      "alternative_meanings": [
+        "Fio",
+        "gume"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitue-1 — https://www.kimbundu.org/pt/word/kitue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6430,
+      "kimbundu_term": "Kituélu",
+      "portuguese_translation": "Parte do pastor pela condução e guarda de gados alheios",
+      "definition": null,
+      "alternative_meanings": [
+        "Adúa",
+        "Serviço feito pelas bestas de diversos donos em proveito de um só"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kituélu-1 — https://www.kimbundu.org/pt/word/kituelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6431,
+      "kimbundu_term": "Kituénga",
+      "portuguese_translation": "Árvore fam. das euforbiáceas (trema affinis), utilizada para construções",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kituénga-1 — https://www.kimbundu.org/pt/word/kituenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6432,
+      "kimbundu_term": "Kituenze",
+      "portuguese_translation": "Bufão",
+      "definition": null,
+      "alternative_meanings": [
+        "fanfarrão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kituenze-1 — https://www.kimbundu.org/pt/word/kituenze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6433,
+      "kimbundu_term": "Kituenze",
+      "portuguese_translation": "Espião",
+      "definition": null,
+      "alternative_meanings": [
+        "bufo",
+        "Que pertence à polícia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kituenze-1 — https://www.kimbundu.org/pt/word/kituenze",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
