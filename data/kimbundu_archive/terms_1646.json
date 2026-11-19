@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16564,
+      "kimbundu_term": "Mukulundu",
+      "portuguese_translation": "Chefe (da sanzala)",
+      "definition": null,
+      "alternative_meanings": [
+        "superior",
+        "O mais velho (entre os cabindas)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukulundu-1 — https://www.kimbundu.org/pt/word/mukulundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16565,
+      "kimbundu_term": "Mukulundundu",
+      "portuguese_translation": "Maloral",
+      "definition": null,
+      "alternative_meanings": [
+        "o mais antigo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukulundundu-1 — https://www.kimbundu.org/pt/word/mukulundundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16566,
+      "kimbundu_term": "Mukumbame",
+      "portuguese_translation": "Que está na agonia, quase a extinguir",
+      "definition": null,
+      "alternative_meanings": [
+        "Moribundo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukumbame-1 — https://www.kimbundu.org/pt/word/mukumbame",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16567,
+      "kimbundu_term": "Mukúmbe",
+      "portuguese_translation": "Planta fam. das leguminosas (swartzia madagascariensis)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukúmbe-1 — https://www.kimbundu.org/pt/word/mukumbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16568,
+      "kimbundu_term": "Múkumbi",
+      "portuguese_translation": "Hino sacro",
+      "definition": null,
+      "alternative_meanings": [
+        "salmo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkumbi-1 — https://www.kimbundu.org/pt/word/mukumbi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16569,
+      "kimbundu_term": "Múkumbi",
+      "portuguese_translation": "Cantor",
+      "definition": null,
+      "alternative_meanings": [
+        "Poeta que celebra heróis ou altos feitos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkumbi-1 — https://www.kimbundu.org/pt/word/mukumbi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16570,
+      "kimbundu_term": "Múkumbi",
+      "portuguese_translation": "Arrulho",
+      "definition": null,
+      "alternative_meanings": [
+        "canto com que se adormecem crianças",
+        "Gemido"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkumbi-1 — https://www.kimbundu.org/pt/word/mukumbi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16571,
+      "kimbundu_term": "Mukúmbi",
+      "portuguese_translation": "Planta téxtil fam. das anacardiáceas (odina acida), de propriedades medicinais",
+      "definition": null,
+      "alternative_meanings": [
+        "Calesiam antiscorbutica"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukúmbi-1 — https://www.kimbundu.org/pt/word/mukumbi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16572,
+      "kimbundu_term": "Múkumbu",
+      "portuguese_translation": "Gemido",
+      "definition": null,
+      "alternative_meanings": [
+        "som",
+        "Condescendência",
+        "anuência"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkumbu-1 — https://www.kimbundu.org/pt/word/mukumbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16573,
+      "kimbundu_term": "Múkume",
+      "portuguese_translation": "Aborrecido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkume-1 — https://www.kimbundu.org/pt/word/mukume",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
