@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9234,
+      "kimbundu_term": "Kukandumuka",
+      "portuguese_translation": "Estar deslocado, desapegado, solto. Ficar removido, fora do lugar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukandumuka-1 — https://www.kimbundu.org/pt/word/kukandumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9235,
+      "kimbundu_term": "Kukandumuna",
+      "portuguese_translation": "Remover, tirar (pela base). Desapegar, arrancar (do lugar). Refundar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukandumuna-1 — https://www.kimbundu.org/pt/word/kukandumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9236,
+      "kimbundu_term": "Kukanena",
+      "portuguese_translation": "Premeditar",
+      "definition": null,
+      "alternative_meanings": [
+        "prometer (fazer alguma coisa, no geral, má). Ter intenção reservada, propósito"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukanena-1 — https://www.kimbundu.org/pt/word/kukanena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9237,
+      "kimbundu_term": "Kukanena",
+      "portuguese_translation": "Kurikanena, v. r. Prometer cada pessoa fazer mal a outra. Nutrir cada um igual reserva",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukanena-1 — https://www.kimbundu.org/pt/word/kukanena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9238,
+      "kimbundu_term": "Kukanesa",
+      "portuguese_translation": "Destinar",
+      "definition": null,
+      "alternative_meanings": [
+        "dedicar a: a mu imina a mu riótd",
+        "a mu kanesa a mu sóta. Reservar",
+        "oferecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukanesa-1 — https://www.kimbundu.org/pt/word/kukanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9239,
+      "kimbundu_term": "Kukanesa",
+      "portuguese_translation": "Kurikanesa, v. r. Destinar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "devotar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukanesa-1 — https://www.kimbundu.org/pt/word/kukanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9240,
+      "kimbundu_term": "Kúkanga",
+      "portuguese_translation": "Tostar, frigir",
+      "definition": null,
+      "alternative_meanings": [
+        "—mbijl. Torrar. Fazer torresmos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkanga-1 — https://www.kimbundu.org/pt/word/kukanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9241,
+      "kimbundu_term": "Kúkanga",
+      "portuguese_translation": "Torrefação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkanga-1 — https://www.kimbundu.org/pt/word/kukanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9242,
+      "kimbundu_term": "Kukánga",
+      "portuguese_translation": "Liar",
+      "definition": null,
+      "alternative_meanings": [
+        "Manietar, prender fortemente: soba a ikutu, a ikánge. sub. Atadura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukánga-1 — https://www.kimbundu.org/pt/word/kukanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9243,
+      "kimbundu_term": "Kukánga",
+      "portuguese_translation": "Kurikánga, e r. Atar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "cingir-se com segurança"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukánga-1 — https://www.kimbundu.org/pt/word/kukanga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
