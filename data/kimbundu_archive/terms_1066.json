@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10764,
+      "kimbundu_term": "Kunána",
+      "portuguese_translation": "Esticar",
+      "definition": null,
+      "alternative_meanings": [
+        "retesar",
+        "Estender com força"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunána-1 — https://www.kimbundu.org/pt/word/kunana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10765,
+      "kimbundu_term": "Kunána",
+      "portuguese_translation": "Inchar, fermentar",
+      "definition": null,
+      "alternative_meanings": [
+        "crescer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunána-1 — https://www.kimbundu.org/pt/word/kunana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10766,
+      "kimbundu_term": "Kunána",
+      "portuguese_translation": "Esticão",
+      "definition": null,
+      "alternative_meanings": [
+        "puxada"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunána-1 — https://www.kimbundu.org/pt/word/kunana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10767,
+      "kimbundu_term": "Kunána",
+      "portuguese_translation": "Kurinana, e r. Esticar-se. fig. Safar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "ir-se embora"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunána-1 — https://www.kimbundu.org/pt/word/kunana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10768,
+      "kimbundu_term": "Kunanesa",
+      "portuguese_translation": "Levedar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer crescer",
+        "Exagerar",
+        "aumentar",
+        "encarecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunanesa-1 — https://www.kimbundu.org/pt/word/kunanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10769,
+      "kimbundu_term": "Kunanesa",
+      "portuguese_translation": "Exageração",
+      "definition": null,
+      "alternative_meanings": [
+        "hipérbole"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunanesa-1 — https://www.kimbundu.org/pt/word/kunanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10770,
+      "kimbundu_term": "Kunanesa",
+      "portuguese_translation": "Kurinanesa, e r. Tornar-se volumoso",
+      "definition": null,
+      "alternative_meanings": [
+        "inchado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunanesa-1 — https://www.kimbundu.org/pt/word/kunanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10771,
+      "kimbundu_term": "Kúnanga",
+      "portuguese_translation": "e intr. Tardar",
+      "definition": null,
+      "alternative_meanings": [
+        "demorar",
+        "durar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúnanga-1 — https://www.kimbundu.org/pt/word/kunanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10772,
+      "kimbundu_term": "Kúnanga",
+      "portuguese_translation": "Conservar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "viver",
+        "subsistir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúnanga-1 — https://www.kimbundu.org/pt/word/kunanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10773,
+      "kimbundu_term": "Kúnanga",
+      "portuguese_translation": "Estar",
+      "definition": null,
+      "alternative_meanings": [
+        "passar o dia, o tempo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúnanga-1 — https://www.kimbundu.org/pt/word/kunanga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
