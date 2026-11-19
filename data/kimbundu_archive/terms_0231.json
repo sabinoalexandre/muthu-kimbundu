@@ -1,0 +1,188 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2414,
+      "kimbundu_term": "Ivwenu",
+      "portuguese_translation": "Ouçam! Silêncio!",
+      "definition": null,
+      "alternative_meanings": [
+        "Atenção"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ivwenu-1 — https://www.kimbundu.org/pt/word/ivwenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2415,
+      "kimbundu_term": "Iwana",
+      "portuguese_translation": "Quatro",
+      "definition": null,
+      "alternative_meanings": [
+        "Três mais um"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iwana-1 — https://www.kimbundu.org/pt/word/iwana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2416,
+      "kimbundu_term": "Ixafixafi",
+      "portuguese_translation": "Alhas",
+      "definition": null,
+      "alternative_meanings": [
+        "Palhas",
+        "Resteva a que já se tiraram os alhos",
+        "Rama seca do alho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ixafixafi-1 — https://www.kimbundu.org/pt/word/ixafixafi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2417,
+      "kimbundu_term": "Ixafixi",
+      "portuguese_translation": "Pelos ou fios (de um pincel)",
+      "definition": null,
+      "alternative_meanings": [
+        "Ourelha",
+        "Raízes filamentosas que saem da raiz principal"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ixafixi-1 — https://www.kimbundu.org/pt/word/ixafixi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2418,
+      "kimbundu_term": "Íxanju",
+      "portuguese_translation": "Angústias",
+      "definition": null,
+      "alternative_meanings": [
+        "Aflições acompanhadas de tristezas",
+        "Apertos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, íxanju-1 — https://www.kimbundu.org/pt/word/ixanju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2419,
+      "kimbundu_term": "Íxanju",
+      "portuguese_translation": "Rivalidades",
+      "definition": null,
+      "alternative_meanings": [
+        "Queixumes",
+        "ralhos",
+        "bulhas",
+        "Escândalos",
+        "maus exemplos",
+        "Contenção",
+        "disputa",
+        "Questão",
+        "contenda"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, íxanju-1 — https://www.kimbundu.org/pt/word/ixanju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2420,
+      "kimbundu_term": "Ixaxi",
+      "portuguese_translation": "O conjunto das hastes secas das plantas gramíneas",
+      "definition": null,
+      "alternative_meanings": [
+        "O que fica depois da debulha",
+        "Palha",
+        "Palinha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ixaxi-1 — https://www.kimbundu.org/pt/word/ixaxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2421,
+      "kimbundu_term": "Íxete",
+      "portuguese_translation": "O que, coado, resta de qualquer líquido",
+      "definition": null,
+      "alternative_meanings": [
+        "Borras (de líquidos) que ficam no fundo da vasilha que se despejou",
+        "Escorralhas",
+        "Sedimento",
+        "fezes",
+        "Pé",
+        "Cisco",
+        "pó contido em líquido",
+        "fig. Restos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, íxete-1 — https://www.kimbundu.org/pt/word/ixete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2422,
+      "kimbundu_term": "Ixi",
+      "portuguese_translation": "Camada superficial do globo na qual os vegetais se reproduzem",
+      "definition": null,
+      "alternative_meanings": [
+        "Terra",
+        "Solo",
+        "terreno",
+        "chão",
+        "Arimo",
+        "Fazenda",
+        "Herdade",
+        "Campo",
+        "planície",
+        "Povoação",
+        "localidade onde se é natural",
+        "Terra onde a pessoa nasce ou nação a que pertence"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ixi-1 — https://www.kimbundu.org/pt/word/ixi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2423,
+      "kimbundu_term": "Ixi",
+      "portuguese_translation": "O céu",
+      "definition": null,
+      "alternative_meanings": [
+        "a Pátria celestial",
+        "O reino da glória"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ixi-1 — https://www.kimbundu.org/pt/word/ixi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
