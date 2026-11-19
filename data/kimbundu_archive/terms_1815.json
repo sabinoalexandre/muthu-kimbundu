@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18254,
+      "kimbundu_term": "Nguinyi",
+      "portuguese_translation": "Corda grossa (geralmente de caule das árvores trepadeiras). Soga. Corda com que se atam animais ferozes ou volumes de gr",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nguinyi-1 — https://www.kimbundu.org/pt/word/nguinyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18255,
+      "kimbundu_term": "Ngúju",
+      "portuguese_translation": "Tambor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngúju-1 — https://www.kimbundu.org/pt/word/nguju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18256,
+      "kimbundu_term": "Ngulá",
+      "portuguese_translation": "Falto de gratidão",
+      "definition": null,
+      "alternative_meanings": [
+        "não agradecido aos favores ou benefícios. Ingrato. Que paga o bem com o mal. Desagradecido. Que não corresponde ao carin"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngulá-1 — https://www.kimbundu.org/pt/word/ngula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18257,
+      "kimbundu_term": "Ngulatata",
+      "portuguese_translation": "De cor de carne. Encarniçado. Vermelho como carne viva. Tinto de sangue",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngulatata-1 — https://www.kimbundu.org/pt/word/ngulatata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18258,
+      "kimbundu_term": "Ngúlu",
+      "portuguese_translation": "Género tipo da fam. suida",
+      "definition": null,
+      "alternative_meanings": [
+        "Porco",
+        "cevado",
+        "A carne deste animal",
+        "Género de peixes, assim chamados em razão da sua gordura",
+        "fig. Comilão",
+        "alarve"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngúlu-1 — https://www.kimbundu.org/pt/word/ngulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18259,
+      "kimbundu_term": "Ngúlu",
+      "portuguese_translation": "adj. Triquinado",
+      "definition": null,
+      "alternative_meanings": [
+        "Triquinoso",
+        "Diz-se do porco padecente de triquinas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngúlu-1 — https://www.kimbundu.org/pt/word/ngulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18260,
+      "kimbundu_term": "Ngulúdia",
+      "portuguese_translation": "Estômago dos peixes",
+      "definition": null,
+      "alternative_meanings": [
+        "Bucho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngulúdia-1 — https://www.kimbundu.org/pt/word/nguludia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18261,
+      "kimbundu_term": "Ngulungu",
+      "portuguese_translation": "Antílope malhado de tamanho maior que a corça",
+      "definition": null,
+      "alternative_meanings": [
+        "Gazela",
+        "Veado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngulungu-1 — https://www.kimbundu.org/pt/word/ngulungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18262,
+      "kimbundu_term": "Ngulungu",
+      "portuguese_translation": "Vasto território que constituía o antigo conc. deste nome (Golungo Alto), distr. de Luanda. É limitado ao N. pelos Dembo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngulungu-1 — https://www.kimbundu.org/pt/word/ngulungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18263,
+      "kimbundu_term": "Nguma",
+      "portuguese_translation": "(IX) Traidor",
+      "definition": null,
+      "alternative_meanings": [
+        "Perigoso sem o parecer",
+        "Que faz mal inesperadamente",
+        "Inimigo",
+        "Traiçoeiro",
+        "pérfido"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nguma-1 — https://www.kimbundu.org/pt/word/nguma",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
