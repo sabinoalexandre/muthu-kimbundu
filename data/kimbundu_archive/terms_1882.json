@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18924,
+      "kimbundu_term": "Sáta",
+      "portuguese_translation": "Oblata",
+      "definition": null,
+      "alternative_meanings": [
+        "indivíduo oferecido em holocausto ou sacrificado aos deuses"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sáta-1 — https://www.kimbundu.org/pt/word/sata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18925,
+      "kimbundu_term": "Saufri",
+      "portuguese_translation": "Saúde",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, saufri-1 — https://www.kimbundu.org/pt/word/saufri",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18926,
+      "kimbundu_term": "Sâxi",
+      "portuguese_translation": "Chocalho",
+      "definition": null,
+      "alternative_meanings": [
+        "instrumento músico"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sâxi-1 — https://www.kimbundu.org/pt/word/saxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18927,
+      "kimbundu_term": "Se",
+      "portuguese_translation": "Se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, se-1 — https://www.kimbundu.org/pt/word/se",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18928,
+      "kimbundu_term": "Sé",
+      "portuguese_translation": "Sem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sé-1 — https://www.kimbundu.org/pt/word/se",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18929,
+      "kimbundu_term": "Sê",
+      "portuguese_translation": "abreviatura de sdi, do verbo kukala",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "abreviatura",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sê-1 — https://www.kimbundu.org/pt/word/se",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18930,
+      "kimbundu_term": "Sêbue",
+      "portuguese_translation": "(IX) Obsceno",
+      "definition": null,
+      "alternative_meanings": [
+        "desonesto",
+        "indecente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sêbue-1 — https://www.kimbundu.org/pt/word/sebue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18931,
+      "kimbundu_term": "Sêbue",
+      "portuguese_translation": "Que pratica sevícias",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sêbue-1 — https://www.kimbundu.org/pt/word/sebue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18932,
+      "kimbundu_term": "Sêbue",
+      "portuguese_translation": "Sabujão",
+      "definition": null,
+      "alternative_meanings": [
+        "sórdido",
+        "vil"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sêbue-1 — https://www.kimbundu.org/pt/word/sebue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18933,
+      "kimbundu_term": "Sêbue",
+      "portuguese_translation": "Pessoa suja, imunda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sêbue-1 — https://www.kimbundu.org/pt/word/sebue",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
