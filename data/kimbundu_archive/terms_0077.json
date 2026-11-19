@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 874,
+      "kimbundu_term": "Díka",
+      "portuguese_translation": "Taça. Pequeno copo",
+      "definition": null,
+      "alternative_meanings": [
+        "cálice"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, díka-1 — https://www.kimbundu.org/pt/word/dika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 875,
+      "kimbundu_term": "Díkaka",
+      "portuguese_translation": "Arrojo. Ousadia",
+      "definition": null,
+      "alternative_meanings": [
+        "audácia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, díkaka-1 — https://www.kimbundu.org/pt/word/dikaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 876,
+      "kimbundu_term": "Díkala",
+      "portuguese_translation": "Carvão",
+      "definition": null,
+      "alternative_meanings": [
+        "Ascua",
+        "brasa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, díkala-1 — https://www.kimbundu.org/pt/word/dikala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 877,
+      "kimbundu_term": "Díkala",
+      "portuguese_translation": "De preço elevado",
+      "definition": null,
+      "alternative_meanings": [
+        "caro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, díkala-1 — https://www.kimbundu.org/pt/word/dikala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 878,
+      "kimbundu_term": "Díkala",
+      "portuguese_translation": "adv. Por alto preço",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, díkala-1 — https://www.kimbundu.org/pt/word/dikala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 879,
+      "kimbundu_term": "Dikalanga",
+      "portuguese_translation": "Lagarto",
+      "definition": null,
+      "alternative_meanings": [
+        "dragão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikalanga-1 — https://www.kimbundu.org/pt/word/dikalanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 880,
+      "kimbundu_term": "Dikalu",
+      "portuguese_translation": "Carro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikalu-1 — https://www.kimbundu.org/pt/word/dikalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 881,
+      "kimbundu_term": "Dikámba",
+      "portuguese_translation": "Amigo",
+      "definition": null,
+      "alternative_meanings": [
+        "camarada",
+        "companheiro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikámba-1 — https://www.kimbundu.org/pt/word/dikamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 882,
+      "kimbundu_term": "Dikamba",
+      "portuguese_translation": "Diz-se das ripas que seguram nas construções, os paus por dentro e por fora",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikamba-1 — https://www.kimbundu.org/pt/word/dikamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 883,
+      "kimbundu_term": "Dikambelelu",
+      "portuguese_translation": "Benzedela",
+      "definition": null,
+      "alternative_meanings": [
+        "Lugar onde se fazem benzeduras",
+        "Ato de benzer"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikambelelu-1 — https://www.kimbundu.org/pt/word/dikambelelu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
