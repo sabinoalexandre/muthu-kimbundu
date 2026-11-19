@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13034,
+      "kimbundu_term": "Kuvutulla",
+      "portuguese_translation": "Devolver",
+      "definition": null,
+      "alternative_meanings": [
+        "restituir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvutulla-1 — https://www.kimbundu.org/pt/word/kuvutulla",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13035,
+      "kimbundu_term": "Kuvutulla",
+      "portuguese_translation": "Dar volta ou tornar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvutulla-1 — https://www.kimbundu.org/pt/word/kuvutulla",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13036,
+      "kimbundu_term": "Kuvutulla",
+      "portuguese_translation": "Despicar",
+      "definition": null,
+      "alternative_meanings": [
+        "dar desforra"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvutulla-1 — https://www.kimbundu.org/pt/word/kuvutulla",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13037,
+      "kimbundu_term": "Kuvutulla",
+      "portuguese_translation": "Kurivutuila, v. r. Desforrar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "pagar-se na mesma moeda"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvutulla-1 — https://www.kimbundu.org/pt/word/kuvutulla",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13038,
+      "kimbundu_term": "Kuvutuluka",
+      "portuguese_translation": "Recuar (para tornar a avançar)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvutuluka-1 — https://www.kimbundu.org/pt/word/kuvutuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13039,
+      "kimbundu_term": "Kuvutulula",
+      "portuguese_translation": "Empurrar para trás. Fazer recuar, retroceder",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvutulula-1 — https://www.kimbundu.org/pt/word/kuvutulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13040,
+      "kimbundu_term": "Kúvuua",
+      "portuguese_translation": "Esguaçar, vadear",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúvuua-1 — https://www.kimbundu.org/pt/word/kuvuua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13041,
+      "kimbundu_term": "Kúvuua",
+      "portuguese_translation": "Vadeação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúvuua-1 — https://www.kimbundu.org/pt/word/kuvuua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13042,
+      "kimbundu_term": "Kuvuuáma",
+      "portuguese_translation": "Abusar (da liberdade). Praticar atos demonstrativos de falta de respeito. Ser desmandado, desmedido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvuuáma-1 — https://www.kimbundu.org/pt/word/kuvuuama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13043,
+      "kimbundu_term": "Kuvuuáma",
+      "portuguese_translation": "Licença",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvuuáma-1 — https://www.kimbundu.org/pt/word/kuvuuama",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
