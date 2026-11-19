@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13284,
+      "kimbundu_term": "Kúxinda",
+      "portuguese_translation": "Ser dotado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxinda-1 — https://www.kimbundu.org/pt/word/kuxinda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13285,
+      "kimbundu_term": "Kúxinda",
+      "portuguese_translation": "Estar destinado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxinda-1 — https://www.kimbundu.org/pt/word/kuxinda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13286,
+      "kimbundu_term": "Kúxinda",
+      "portuguese_translation": "Tracejar",
+      "definition": null,
+      "alternative_meanings": [
+        "riscar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxinda-1 — https://www.kimbundu.org/pt/word/kuxinda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13287,
+      "kimbundu_term": "Kúxinda",
+      "portuguese_translation": "Demarcar",
+      "definition": null,
+      "alternative_meanings": [
+        "determinar",
+        "fixar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxinda-1 — https://www.kimbundu.org/pt/word/kuxinda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13288,
+      "kimbundu_term": "Kuxíndika",
+      "portuguese_translation": "Ficar escarmentado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxíndika-1 — https://www.kimbundu.org/pt/word/kuxindika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13289,
+      "kimbundu_term": "Kuxíndika",
+      "portuguese_translation": "Adestrar",
+      "definition": null,
+      "alternative_meanings": [
+        "instruir (com os resultados do mal de outrem)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxíndika-1 — https://www.kimbundu.org/pt/word/kuxindika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13290,
+      "kimbundu_term": "Kuxíndika",
+      "portuguese_translation": "Escarmento",
+      "definition": null,
+      "alternative_meanings": [
+        "lição"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxíndika-1 — https://www.kimbundu.org/pt/word/kuxindika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13291,
+      "kimbundu_term": "Kuxindikala",
+      "portuguese_translation": "Comportar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "sossegar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxindikala-1 — https://www.kimbundu.org/pt/word/kuxindikala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13292,
+      "kimbundu_term": "Kuxindikala",
+      "portuguese_translation": "Ter juízo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxindikala-1 — https://www.kimbundu.org/pt/word/kuxindikala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13293,
+      "kimbundu_term": "Kuxindila",
+      "portuguese_translation": "Escarmentar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar cauteloso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxindila-1 — https://www.kimbundu.org/pt/word/kuxindila",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
