@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3964,
+      "kimbundu_term": "Kapadipadi",
+      "portuguese_translation": "Taramela",
+      "definition": null,
+      "alternative_meanings": [
+        "Tranqueta",
+        "Fecho de porta ou janela"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kapadipadi-1 — https://www.kimbundu.org/pt/word/kapadipadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3965,
+      "kimbundu_term": "Kapaia",
+      "portuguese_translation": "Pov. e sede do posto do mesmo nome, circ. civ. de Cassai, distr. da Lunda, prov. de Malange, 9.936 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kapaia-1 — https://www.kimbundu.org/pt/word/kapaia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3966,
+      "kimbundu_term": "Kapâka",
+      "portuguese_translation": "Rasa (medida de capacidade)",
+      "definition": null,
+      "alternative_meanings": [
+        "Alqueire",
+        "Antigo bairro da vila de Caculo, circ. civ. do Quanza-Norte",
+        "No antigo concelho de Caculo Cabaça, prov. de Malange"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kapâka-1 — https://www.kimbundu.org/pt/word/kapaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3967,
+      "kimbundu_term": "Kapakala",
+      "portuguese_translation": "Rasa (medida de capacidade). Alqueire",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kapakala-1 — https://www.kimbundu.org/pt/word/kapakala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3968,
+      "kimbundu_term": "Kapakala",
+      "portuguese_translation": "Antigo bairro da vila do Dondo, circ. civ. de Cambambe, distr. do Quanza-Norte, prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kapakala-1 — https://www.kimbundu.org/pt/word/kapakala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3969,
+      "kimbundu_term": "Kapakala",
+      "portuguese_translation": "Pov. no antigo conc. de Tala-Mungongo, distr. da Lunda, prov. de Malange",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kapakala-1 — https://www.kimbundu.org/pt/word/kapakala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3970,
+      "kimbundu_term": "Kapakipaku",
+      "portuguese_translation": "Alçapão",
+      "definition": null,
+      "alternative_meanings": [
+        "Porta corrediça",
+        "Esparrela"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kapakipaku-1 — https://www.kimbundu.org/pt/word/kapakipaku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3971,
+      "kimbundu_term": "Kapakúpaku",
+      "portuguese_translation": "Alçapão que se abre e fecha por si. Porta corrediça. Esparrela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kapakúpaku-1 — https://www.kimbundu.org/pt/word/kapakupaku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3972,
+      "kimbundu_term": "Kapalala",
+      "portuguese_translation": "Rola de olhos vermelhos e traço escuro na nuca. Rola cantadeira, tb. conhecida por «vermelhos»",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kapalala-1 — https://www.kimbundu.org/pt/word/kapalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3973,
+      "kimbundu_term": "Kapalápa",
+      "portuguese_translation": "Rola de olhos vermelhos e traço e caivo biadas (æolanthus)",
+      "definition": null,
+      "alternative_meanings": [
+        "Mangerona"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kapalápa-1 — https://www.kimbundu.org/pt/word/kapalapa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
