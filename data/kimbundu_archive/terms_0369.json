@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3794,
+      "kimbundu_term": "Kanâke",
+      "portuguese_translation": "O último numa série de oito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanâke-1 — https://www.kimbundu.org/pt/word/kanake",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3795,
+      "kimbundu_term": "Kanáma",
+      "portuguese_translation": "Pésinho",
+      "definition": null,
+      "alternative_meanings": [
+        "Perninha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanáma-1 — https://www.kimbundu.org/pt/word/kanama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3796,
+      "kimbundu_term": "Kanáma",
+      "portuguese_translation": "e pron. Certo",
+      "definition": null,
+      "alternative_meanings": [
+        "tal",
+        "não bem definido"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanáma-2 — https://www.kimbundu.org/pt/word/kanama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3797,
+      "kimbundu_term": "Kanáma",
+      "portuguese_translation": "O fulano",
+      "definition": null,
+      "alternative_meanings": [
+        "o tal, etc"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanáma-2 — https://www.kimbundu.org/pt/word/kanama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3798,
+      "kimbundu_term": "Kanambinga",
+      "portuguese_translation": "Rio da circ. civ. do Encoge, afluente da margem esquerda do Loge",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanambinga-1 — https://www.kimbundu.org/pt/word/kanambinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3799,
+      "kimbundu_term": "Kanameka",
+      "portuguese_translation": "equivalente à latina et reliqua",
+      "definition": null,
+      "alternative_meanings": [
+        "É o restante",
+        "e o mais"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanameka-1 — https://www.kimbundu.org/pt/word/kanameka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3800,
+      "kimbundu_term": "Kanána",
+      "portuguese_translation": "Cautchouc",
+      "definition": null,
+      "alternative_meanings": [
+        "Borracha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanána-1 — https://www.kimbundu.org/pt/word/kanana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3801,
+      "kimbundu_term": "Kánanyi",
+      "portuguese_translation": "e pron. (IX) Tal",
+      "definition": null,
+      "alternative_meanings": [
+        "não bem definido. (sr. fulano de tal)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kánanyi-1 — https://www.kimbundu.org/pt/word/kananyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3802,
+      "kimbundu_term": "Kánanyi",
+      "portuguese_translation": "interrog. Qual? Que pessoa?",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kánanyi-1 — https://www.kimbundu.org/pt/word/kananyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3803,
+      "kimbundu_term": "Kánanyi",
+      "portuguese_translation": "Designação de pessoa incerta, ou de cujo nome se oculta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kánanyi-1 — https://www.kimbundu.org/pt/word/kananyi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
