@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 20164,
+      "kimbundu_term": "Yenze",
+      "portuguese_translation": "Aberturas de dentes entre si",
+      "definition": null,
+      "alternative_meanings": [
+        "Intervalos deixados pela separação dos dentes"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yenze-1 — https://www.kimbundu.org/pt/word/yenze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20165,
+      "kimbundu_term": "Yetu",
+      "portuguese_translation": "(contr. da prep. ia e do pron. pess. pl. etu). Nossa",
+      "definition": null,
+      "alternative_meanings": [
+        "nosso",
+        "Das nossas pessoas",
+        "Pertencentes às pessoas que falam: (II) (III)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yetu-1 — https://www.kimbundu.org/pt/word/yetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20166,
+      "kimbundu_term": "Yetu",
+      "portuguese_translation": "Nossa",
+      "definition": null,
+      "alternative_meanings": [
+        "das nossas pessoas: (IX)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yetu-1 — https://www.kimbundu.org/pt/word/yetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20167,
+      "kimbundu_term": "Yetu",
+      "portuguese_translation": "' etu, adv. e pron. pl. Propriamente nossos: (II)",
+      "definition": null,
+      "alternative_meanings": [
+        "De mais ninguém: (III)",
+        "Verdadeiramente, propriamente nossos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yetu-1 — https://www.kimbundu.org/pt/word/yetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20168,
+      "kimbundu_term": "Yi",
+      "portuguese_translation": "demonstr. que designa coisa que está presente, ou mais próxima de quem fala. Esta",
+      "definition": null,
+      "alternative_meanings": [
+        "este: (IX)"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yi-1 — https://www.kimbundu.org/pt/word/yi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20169,
+      "kimbundu_term": "Yi",
+      "portuguese_translation": "Estes",
+      "definition": null,
+      "alternative_meanings": [
+        "estas (III)",
+        "Isto"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yi-1 — https://www.kimbundu.org/pt/word/yi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20170,
+      "kimbundu_term": "Yi",
+      "portuguese_translation": "designativo das coisas mais próximas que outras, ou das que se falaram em último lugar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yi-1 — https://www.kimbundu.org/pt/word/yi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20171,
+      "kimbundu_term": "Yonene",
+      "portuguese_translation": "e sub. (IX) (contr. da prep. ia e do sub. unene) Grande",
+      "definition": null,
+      "alternative_meanings": [
+        "Volumoso",
+        "De tamanho superior",
+        "De grande altura"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yonene-1 — https://www.kimbundu.org/pt/word/yonene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20172,
+      "kimbundu_term": "Yoso",
+      "portuguese_translation": "(IX) Todo",
+      "definition": null,
+      "alternative_meanings": [
+        "toda",
+        "Íntegro",
+        "completo",
+        "Tudo",
+        "Sem exceção"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, substantivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yoso-1 — https://www.kimbundu.org/pt/word/yoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20173,
+      "kimbundu_term": "Yoso",
+      "portuguese_translation": "(III) Todas",
+      "definition": null,
+      "alternative_meanings": [
+        "todos",
+        "Inteiros",
+        "completos",
+        "Sem exclusão"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, substantivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yoso-1 — https://www.kimbundu.org/pt/word/yoso",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
