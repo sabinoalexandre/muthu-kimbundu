@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14914,
+      "kimbundu_term": "Matatamena",
+      "portuguese_translation": "Planta produtora de pequenos glóbulos espinhosos que se pegam aos objetos que se lhe roçam",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, matatamena-1 — https://www.kimbundu.org/pt/word/matatamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14915,
+      "kimbundu_term": "Matatamena",
+      "portuguese_translation": "Terreno plantado desta erva",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, matatamena-1 — https://www.kimbundu.org/pt/word/matatamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14916,
+      "kimbundu_term": "Matatu",
+      "portuguese_translation": "Três",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, matatu-1 — https://www.kimbundu.org/pt/word/matatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14917,
+      "kimbundu_term": "Máteba",
+      "portuguese_translation": "Família de plantas cicadáceas (hyphaena guineensis), vulgarmente conhecidas por matbeiras, e de cujas folhas (palmas) se",
+      "definition": null,
+      "alternative_meanings": [
+        "Ráfia",
+        "sua plantação"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, máteba-1 — https://www.kimbundu.org/pt/word/mateba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14918,
+      "kimbundu_term": "Mateka",
+      "portuguese_translation": "Manteiga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mateka-1 — https://www.kimbundu.org/pt/word/mateka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14919,
+      "kimbundu_term": "Matélu",
+      "portuguese_translation": "Projetos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, matélu-1 — https://www.kimbundu.org/pt/word/matelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14920,
+      "kimbundu_term": "Matélu",
+      "portuguese_translation": "Condições que se propõem para chegar a um resultado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, matélu-1 — https://www.kimbundu.org/pt/word/matelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14921,
+      "kimbundu_term": "Matélu",
+      "portuguese_translation": "Tenções",
+      "definition": null,
+      "alternative_meanings": [
+        "propósitos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, matélu-1 — https://www.kimbundu.org/pt/word/matelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14922,
+      "kimbundu_term": "Mátenda",
+      "portuguese_translation": "Artilharia",
+      "definition": null,
+      "alternative_meanings": [
+        "canhoneio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mátenda-1 — https://www.kimbundu.org/pt/word/matenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14923,
+      "kimbundu_term": "Mátenda",
+      "portuguese_translation": "Fábricas",
+      "definition": null,
+      "alternative_meanings": [
+        "laboratórios",
+        "oficinas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mátenda-1 — https://www.kimbundu.org/pt/word/matenda",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
