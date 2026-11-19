@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13334,
+      "kimbundu_term": "Kuxitidila",
+      "portuguese_translation": "Amparar",
+      "definition": null,
+      "alternative_meanings": [
+        "vedar",
+        "resguardar",
+        "Não deixar passar, ver",
+        "Defender"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxitidila-1 — https://www.kimbundu.org/pt/word/kuxitidila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13335,
+      "kimbundu_term": "Kuxitununa",
+      "portuguese_translation": "Desintupir",
+      "definition": null,
+      "alternative_meanings": [
+        "Desobstruir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxitununa-1 — https://www.kimbundu.org/pt/word/kuxitununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13336,
+      "kimbundu_term": "Kuxitunuxa",
+      "portuguese_translation": "Ficar desobstruído, livre (para deixar passar ou circular)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxitunuxa-1 — https://www.kimbundu.org/pt/word/kuxitunuxa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13337,
+      "kimbundu_term": "Kuxitunuxa",
+      "portuguese_translation": "Desobstrução",
+      "definition": null,
+      "alternative_meanings": [
+        "desimpedimento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxitunuxa-1 — https://www.kimbundu.org/pt/word/kuxitunuxa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13338,
+      "kimbundu_term": "Kuxiulula",
+      "portuguese_translation": "Alisar. Descascar",
+      "definition": null,
+      "alternative_meanings": [
+        "despelar",
+        "tirar as fibras de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxiulula-1 — https://www.kimbundu.org/pt/word/kuxiulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13339,
+      "kimbundu_term": "Kuxixila",
+      "portuguese_translation": "Encruecer",
+      "definition": null,
+      "alternative_meanings": [
+        "Calejar",
+        "endurecer",
+        "Perder as qualidades sensitivas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxixila-1 — https://www.kimbundu.org/pt/word/kuxixila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13340,
+      "kimbundu_term": "Kuxixima",
+      "portuguese_translation": "Arder",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxixima-1 — https://www.kimbundu.org/pt/word/kuxixima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13341,
+      "kimbundu_term": "Kuxixima",
+      "portuguese_translation": "Ardência",
+      "definition": null,
+      "alternative_meanings": [
+        "queimor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxixima-1 — https://www.kimbundu.org/pt/word/kuxixima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13342,
+      "kimbundu_term": "Kuxixima",
+      "portuguese_translation": "Desventura",
+      "definition": null,
+      "alternative_meanings": [
+        "infelicidade",
+        "Infortúnio"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxixima-1 — https://www.kimbundu.org/pt/word/kuxixima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13343,
+      "kimbundu_term": "Kuxiximika",
+      "portuguese_translation": "Fazer entrar",
+      "definition": null,
+      "alternative_meanings": [
+        "empurrar",
+        "introduzir com esforço"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxiximika-1 — https://www.kimbundu.org/pt/word/kuxiximika",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
