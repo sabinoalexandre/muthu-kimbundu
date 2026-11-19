@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5504,
+      "kimbundu_term": "Kiluminu",
+      "portuguese_translation": "Repetição do som uma ou mais vezes, diminuindo progressivamente de intensidade",
+      "definition": null,
+      "alternative_meanings": [
+        "Ruído que resulta da gradual duração do som",
+        "Rezoo",
+        "repercussão",
+        "ressonância"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiluminu-1 — https://www.kimbundu.org/pt/word/kiluminu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5505,
+      "kimbundu_term": "Kilúmu",
+      "portuguese_translation": "Repercussão de vozes ou sons ao longe",
+      "definition": null,
+      "alternative_meanings": [
+        "Lugar onde se produz esse fenómeno",
+        "fig. Pessoa que, falando, só repete o que outrem diz"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilúmu-1 — https://www.kimbundu.org/pt/word/kilumu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5506,
+      "kimbundu_term": "Kilunda",
+      "portuguese_translation": "Pov. e lagoa na área do posto da Funda, a 8º 53' de lat. S. e 13º 36' long. E. Gr., cir. civ. de Icolo e Bengo: distrit.",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilunda-1 — https://www.kimbundu.org/pt/word/kilunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5507,
+      "kimbundu_term": "Kilundu",
+      "portuguese_translation": "Espírito. Ser do mundo invisível. Magnetismo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilundu-1 — https://www.kimbundu.org/pt/word/kilundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5508,
+      "kimbundu_term": "Kilúnga",
+      "portuguese_translation": "Direção",
+      "definition": null,
+      "alternative_meanings": [
+        "lado",
+        "barda"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilúnga-1 — https://www.kimbundu.org/pt/word/kilunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5509,
+      "kimbundu_term": "Kilúnga",
+      "portuguese_translation": "Bastão. Báculo",
+      "definition": null,
+      "alternative_meanings": [
+        "vara. Insígnia do cargo ou função de certas autoridades"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilúnga-1 — https://www.kimbundu.org/pt/word/kilunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5510,
+      "kimbundu_term": "Kilúnga",
+      "portuguese_translation": "Vara, conjunto de porcos caminhando em dada direção",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilúnga-1 — https://www.kimbundu.org/pt/word/kilunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5511,
+      "kimbundu_term": "Kilúnga",
+      "portuguese_translation": "Prática ou exercício do que é direito. Retidão",
+      "definition": null,
+      "alternative_meanings": [
+        "justeza. Exatidão",
+        "lei. Caminho",
+        "guia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilúnga-1 — https://www.kimbundu.org/pt/word/kilunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5512,
+      "kimbundu_term": "Kilúnge",
+      "portuguese_translation": "Dirigível",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilúnge-1 — https://www.kimbundu.org/pt/word/kilunge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5513,
+      "kimbundu_term": "Kilúnge",
+      "portuguese_translation": "O que se guia por si",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilúnge-1 — https://www.kimbundu.org/pt/word/kilunge",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
