@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3764,
+      "kimbundu_term": "Kamusaju",
+      "portuguese_translation": "Epiléptico, raivoso",
+      "definition": null,
+      "alternative_meanings": [
+        "Que padece de doença cerebral, de síncopes convulsas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamusaju-1 — https://www.kimbundu.org/pt/word/kamusaju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3765,
+      "kimbundu_term": "Kamusekele",
+      "portuguese_translation": "(IX) Nome pejorativo dos ahankala",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamusekele-1 — https://www.kimbundu.org/pt/word/kamusekele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3766,
+      "kimbundu_term": "Kamusekele",
+      "portuguese_translation": "Pessoa de olhos pequeninos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamusekele-1 — https://www.kimbundu.org/pt/word/kamusekele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3767,
+      "kimbundu_term": "Kamusekele",
+      "portuguese_translation": "Da cor de areia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamusekele-1 — https://www.kimbundu.org/pt/word/kamusekele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3768,
+      "kimbundu_term": "Kamútu",
+      "portuguese_translation": "(X) Vivente",
+      "definition": null,
+      "alternative_meanings": [
+        "Relativo à pessoa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamútu-1 — https://www.kimbundu.org/pt/word/kamutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3769,
+      "kimbundu_term": "Kamútu",
+      "portuguese_translation": "Pigmeu",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Namorado",
+        "conversado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamútu-1 — https://www.kimbundu.org/pt/word/kamutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3770,
+      "kimbundu_term": "Kamútu",
+      "portuguese_translation": "Peixe do mar, de cujo uso resulta o escorbuto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamútu-1 — https://www.kimbundu.org/pt/word/kamutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3771,
+      "kimbundu_term": "Kamutue",
+      "portuguese_translation": "Cabeça pequena, de criança",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamutue-1 — https://www.kimbundu.org/pt/word/kamutue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3772,
+      "kimbundu_term": "Kamuxi",
+      "portuguese_translation": "Arbóreo",
+      "definition": null,
+      "alternative_meanings": [
+        "de forma de árvore"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamuxi-1 — https://www.kimbundu.org/pt/word/kamuxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3773,
+      "kimbundu_term": "Kamuxi",
+      "portuguese_translation": "(X) Arbusto",
+      "definition": null,
+      "alternative_meanings": [
+        "Pausinho",
+        "Varinha"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamuxi-1 — https://www.kimbundu.org/pt/word/kamuxi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
