@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4644,
+      "kimbundu_term": "Kibitise",
+      "portuguese_translation": "Utensílio com fundo ralo para limpar cal ou areia das impurezas que traz",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibitise-1 — https://www.kimbundu.org/pt/word/kibitise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4645,
+      "kimbundu_term": "Kibobese",
+      "portuguese_translation": "Naufragoso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibobese-1 — https://www.kimbundu.org/pt/word/kibobese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4646,
+      "kimbundu_term": "Kibobese",
+      "portuguese_translation": "Que faz afundar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibobese-1 — https://www.kimbundu.org/pt/word/kibobese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4647,
+      "kimbundu_term": "Kibobese",
+      "portuguese_translation": "Perigoso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibobese-1 — https://www.kimbundu.org/pt/word/kibobese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4648,
+      "kimbundu_term": "Kíbobo",
+      "portuguese_translation": "Mento",
+      "definition": null,
+      "alternative_meanings": [
+        "queixo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kíbobo-1 — https://www.kimbundu.org/pt/word/kibobo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4649,
+      "kimbundu_term": "Kibòbo",
+      "portuguese_translation": "Fantoche",
+      "definition": null,
+      "alternative_meanings": [
+        "truão",
+        "idiota"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibòbo-1 — https://www.kimbundu.org/pt/word/kibobo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4650,
+      "kimbundu_term": "Kiboiongo",
+      "portuguese_translation": "Cadeia",
+      "definition": null,
+      "alternative_meanings": [
+        "calabouço",
+        "prisão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiboiongo-1 — https://www.kimbundu.org/pt/word/kiboiongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4651,
+      "kimbundu_term": "Kiboiongo",
+      "portuguese_translation": "Estarim",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiboiongo-1 — https://www.kimbundu.org/pt/word/kiboiongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4652,
+      "kimbundu_term": "Kibokoboko",
+      "portuguese_translation": "Doença cutânea que ataca as orelhas (principalmente dos cães)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibokoboko-1 — https://www.kimbundu.org/pt/word/kibokoboko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4653,
+      "kimbundu_term": "Kibokoboko",
+      "portuguese_translation": "Capim ornamental forrageiro (aristida …)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibokoboko-1 — https://www.kimbundu.org/pt/word/kibokoboko",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
