@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3314,
+      "kimbundu_term": "Kakixinji",
+      "portuguese_translation": "Pequena parte do tronco vegetal que fica na terra depois de cortada a árvore. Toco",
+      "definition": null,
+      "alternative_meanings": [
+        "pequena acha de lenha. Resto de madeira ou pau"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakixinji-1 — https://www.kimbundu.org/pt/word/kakixinji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3315,
+      "kimbundu_term": "Kakixinyi",
+      "portuguese_translation": "Pedacinho. Menos de metade. Bocadinho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakixinyi-1 — https://www.kimbundu.org/pt/word/kakixinyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3316,
+      "kimbundu_term": "Kakóba",
+      "portuguese_translation": "Monte sobranceiro e antiga povoação na margem esquerda do rio Quanza, círculo civil de Muxima, distrito e província de L",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakóba-1 — https://www.kimbundu.org/pt/word/kakoba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3317,
+      "kimbundu_term": "Kakodi",
+      "portuguese_translation": "Pessoa ou localidade que fica em poder do inimigo como garantia do cumprimento do tratado de paz",
+      "definition": null,
+      "alternative_meanings": [
+        "Refém"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakodi-1 — https://www.kimbundu.org/pt/word/kakodi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3318,
+      "kimbundu_term": "Kakodi",
+      "portuguese_translation": "Cativo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakodi-1 — https://www.kimbundu.org/pt/word/kakodi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3319,
+      "kimbundu_term": "Kakôdia",
+      "portuguese_translation": "Avarento",
+      "definition": null,
+      "alternative_meanings": [
+        "Mesquinho",
+        "Sórdido",
+        "Miserável"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakôdia-1 — https://www.kimbundu.org/pt/word/kakodia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3320,
+      "kimbundu_term": "Kakodio-kedio",
+      "portuguese_translation": "Sófrego: insaciável",
+      "definition": null,
+      "alternative_meanings": [
+        "Ávido (em beber)",
+        "Ambicioso: impaciente na bebida"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakodio-kedio-1 — https://www.kimbundu.org/pt/word/kakodio-kedio",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3321,
+      "kimbundu_term": "Kakohokoho",
+      "portuguese_translation": "Torregoso. Pessoa atacada de tosse",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakohokoho-1 — https://www.kimbundu.org/pt/word/kakohokoho",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3322,
+      "kimbundu_term": "Kakôko",
+      "portuguese_translation": "Ave noturna de rapina. Mocho. fig. Homem feio, tristonho e misantropo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakôko-1 — https://www.kimbundu.org/pt/word/kakoko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3323,
+      "kimbundu_term": "Kakólo",
+      "portuguese_translation": "Durável",
+      "definition": null,
+      "alternative_meanings": [
+        "Duro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakólo-1 — https://www.kimbundu.org/pt/word/kakolo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
