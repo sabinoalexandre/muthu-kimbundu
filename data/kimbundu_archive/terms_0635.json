@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6454,
+      "kimbundu_term": "Kitumbi",
+      "portuguese_translation": "Achicador",
+      "definition": null,
+      "alternative_meanings": [
+        "batidouro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitumbi-1 — https://www.kimbundu.org/pt/word/kitumbi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6455,
+      "kimbundu_term": "Kitumbi",
+      "portuguese_translation": "Sopapo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitumbi-1 — https://www.kimbundu.org/pt/word/kitumbi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6456,
+      "kimbundu_term": "Kitumbuluke",
+      "portuguese_translation": "Que vem à superfície",
+      "definition": null,
+      "alternative_meanings": [
+        "Que assoma ou emerge"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitumbuluke-1 — https://www.kimbundu.org/pt/word/kitumbuluke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6457,
+      "kimbundu_term": "Kitume",
+      "portuguese_translation": "Próprio para mandar",
+      "definition": null,
+      "alternative_meanings": [
+        "Que recebe ou executa ordens",
+        "Lacaio"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitume-1 — https://www.kimbundu.org/pt/word/kitume",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6458,
+      "kimbundu_term": "Kitumínu",
+      "portuguese_translation": "Atribuição",
+      "definition": null,
+      "alternative_meanings": [
+        "mandato",
+        "Provisão",
+        "alvará",
+        "Autoridade de mandar",
+        "Comando"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitumínu-1 — https://www.kimbundu.org/pt/word/kituminu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6459,
+      "kimbundu_term": "Kitumu",
+      "portuguese_translation": "Recado",
+      "definition": null,
+      "alternative_meanings": [
+        "mandado",
+        "ordem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitumu-1 — https://www.kimbundu.org/pt/word/kitumu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6460,
+      "kimbundu_term": "Kitumu",
+      "portuguese_translation": "Norma",
+      "definition": null,
+      "alternative_meanings": [
+        "obrigação",
+        "lei"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitumu-1 — https://www.kimbundu.org/pt/word/kitumu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6461,
+      "kimbundu_term": "Kitumu",
+      "portuguese_translation": "Encargo",
+      "definition": null,
+      "alternative_meanings": [
+        "incumbência",
+        "O que se faz a alguém por mandado de terceiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitumu-1 — https://www.kimbundu.org/pt/word/kitumu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6462,
+      "kimbundu_term": "Kitunda",
+      "portuguese_translation": "Panorama",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitunda-1 — https://www.kimbundu.org/pt/word/kitunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6463,
+      "kimbundu_term": "Kitunda",
+      "portuguese_translation": "paisagem",
+      "definition": null,
+      "alternative_meanings": [
+        "vista",
+        "Posição",
+        "talhe"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitunda-1 — https://www.kimbundu.org/pt/word/kitunda",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
