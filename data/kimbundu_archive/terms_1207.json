@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12174,
+      "kimbundu_term": "Kutaudula",
+      "portuguese_translation": "Rasgar",
+      "definition": null,
+      "alternative_meanings": [
+        "romper",
+        "fazer em pedaços. É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutaudula-1 — https://www.kimbundu.org/pt/word/kutaudula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12175,
+      "kimbundu_term": "Kutauesa",
+      "portuguese_translation": "Sujeitar (sob palavra)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutauesa-1 — https://www.kimbundu.org/pt/word/kutauesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12176,
+      "kimbundu_term": "Kutauesa",
+      "portuguese_translation": "Fazer aceitar, confirmar (o que outrem diz)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutauesa-1 — https://www.kimbundu.org/pt/word/kutauesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12177,
+      "kimbundu_term": "Kutaúla",
+      "portuguese_translation": "Arrogar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "jactar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutaúla-1 — https://www.kimbundu.org/pt/word/kutaula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12178,
+      "kimbundu_term": "Kutaúla",
+      "portuguese_translation": "Ter bazófia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutaúla-1 — https://www.kimbundu.org/pt/word/kutaula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12179,
+      "kimbundu_term": "Kutaulula",
+      "portuguese_translation": "Arrotar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutaulula-1 — https://www.kimbundu.org/pt/word/kutaulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12180,
+      "kimbundu_term": "Kutaulula",
+      "portuguese_translation": "Arroto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutaulula-1 — https://www.kimbundu.org/pt/word/kutaulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12181,
+      "kimbundu_term": "Kute",
+      "portuguese_translation": "Amarrado",
+      "definition": null,
+      "alternative_meanings": [
+        "manietado",
+        "ligado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kute-1 — https://www.kimbundu.org/pt/word/kute",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12182,
+      "kimbundu_term": "Kute",
+      "portuguese_translation": "Preso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kute-1 — https://www.kimbundu.org/pt/word/kute",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12183,
+      "kimbundu_term": "Kutebujula",
+      "portuguese_translation": "Ir desbastando, tornando menos espesso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutebujula-1 — https://www.kimbundu.org/pt/word/kutebujula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
