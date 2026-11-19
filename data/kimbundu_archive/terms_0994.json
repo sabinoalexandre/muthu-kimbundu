@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10044,
+      "kimbundu_term": "Kulanduka",
+      "portuguese_translation": "Distração",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulanduka-1 — https://www.kimbundu.org/pt/word/kulanduka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10045,
+      "kimbundu_term": "Kulandukila",
+      "portuguese_translation": "Ficar distraído, retardado por",
+      "definition": null,
+      "alternative_meanings": [
+        "Ficar esquecido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulandukila-1 — https://www.kimbundu.org/pt/word/kulandukila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10046,
+      "kimbundu_term": "Kulandula",
+      "portuguese_translation": "Enteter",
+      "definition": null,
+      "alternative_meanings": [
+        "distrair Tornar demorado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulandula-1 — https://www.kimbundu.org/pt/word/kulandula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10047,
+      "kimbundu_term": "Kulandula",
+      "portuguese_translation": "Fazer esquecer alguma obrigação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulandula-1 — https://www.kimbundu.org/pt/word/kulandula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10048,
+      "kimbundu_term": "Kulandúla",
+      "portuguese_translation": "Ser secundário, posterior",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulandúla-1 — https://www.kimbundu.org/pt/word/kulandula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10049,
+      "kimbundu_term": "Kulandúla",
+      "portuguese_translation": "Vir depois",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulandúla-1 — https://www.kimbundu.org/pt/word/kulandula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10050,
+      "kimbundu_term": "Kulandúla",
+      "portuguese_translation": "Secundar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulandúla-1 — https://www.kimbundu.org/pt/word/kulandula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10051,
+      "kimbundu_term": "Kulandumuka",
+      "portuguese_translation": "Cair de grande altura. Despenhar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "deitar-se abaixo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulandumuka-1 — https://www.kimbundu.org/pt/word/kulandumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10052,
+      "kimbundu_term": "Kulandumuna",
+      "portuguese_translation": "Despenhar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulandumuna-1 — https://www.kimbundu.org/pt/word/kulandumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10053,
+      "kimbundu_term": "Kulandumuna",
+      "portuguese_translation": "Fazer cair de posição elevada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulandumuna-1 — https://www.kimbundu.org/pt/word/kulandumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
