@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8304,
+      "kimbundu_term": "Kudizonga",
+      "portuguese_translation": "Rivalizar",
+      "definition": null,
+      "alternative_meanings": [
+        "competir",
+        "Conhecer o seu valor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudizonga-1 — https://www.kimbundu.org/pt/word/kudizonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8305,
+      "kimbundu_term": "Kudizuuila",
+      "portuguese_translation": "Estar a deitar pingos. Resumbrar",
+      "definition": null,
+      "alternative_meanings": [
+        "escorrer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudizuuila-1 — https://www.kimbundu.org/pt/word/kudizuuila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8306,
+      "kimbundu_term": "Kuê",
+      "portuguese_translation": "(contr. da prep. kua e do pron. pess. eie). Teu",
+      "definition": null,
+      "alternative_meanings": [
+        "tua: o kuri 'oko.—"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuê-1 — https://www.kimbundu.org/pt/word/kue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8307,
+      "kimbundu_term": "Kuê",
+      "portuguese_translation": "De tua parte",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuê-1 — https://www.kimbundu.org/pt/word/kue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8308,
+      "kimbundu_term": "Kuê",
+      "portuguese_translation": "e pron. interrog. Onde? Em que lugar?",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuê-1 — https://www.kimbundu.org/pt/word/kue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8309,
+      "kimbundu_term": "Kuê",
+      "portuguese_translation": "A ou para onde",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuê-1 — https://www.kimbundu.org/pt/word/kue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8310,
+      "kimbundu_term": "Kue",
+      "portuguese_translation": "adj. e pron. poss. (contr. da prep. kua e do pron. pess. muêne). Seu",
+      "definition": null,
+      "alternative_meanings": [
+        "sua (dele, dela)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kue-1 — https://www.kimbundu.org/pt/word/kue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8311,
+      "kimbundu_term": "Kue",
+      "portuguese_translation": "Consigo",
+      "definition": null,
+      "alternative_meanings": [
+        "da parte dele"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kue-1 — https://www.kimbundu.org/pt/word/kue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8312,
+      "kimbundu_term": "Kuêbe",
+      "portuguese_translation": "Rio tributário do Cubango, na circ. civ. de Munongue. distr. e prov. do Bié",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuêbe-1 — https://www.kimbundu.org/pt/word/kuebe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8313,
+      "kimbundu_term": "Kuehelesa",
+      "portuguese_translation": "Fazer tolerar, permitir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuehelesa-1 — https://www.kimbundu.org/pt/word/kuehelesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
