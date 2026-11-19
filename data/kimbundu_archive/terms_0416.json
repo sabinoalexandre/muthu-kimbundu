@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4264,
+      "kimbundu_term": "Kávalu",
+      "portuguese_translation": "(IX) Partidário",
+      "definition": null,
+      "alternative_meanings": [
+        "companheiro",
+        "Camarada",
+        "Pessoa com que se tem relações de amizade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kávalu-1 — https://www.kimbundu.org/pt/word/kavalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4265,
+      "kimbundu_term": "Kávalu",
+      "portuguese_translation": "Amigo de inverno",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kávalu-1 — https://www.kimbundu.org/pt/word/kavalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4266,
+      "kimbundu_term": "Kávalu",
+      "portuguese_translation": "Íntimo",
+      "definition": null,
+      "alternative_meanings": [
+        "Privado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kávalu-1 — https://www.kimbundu.org/pt/word/kavalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4267,
+      "kimbundu_term": "Kávanza",
+      "portuguese_translation": "Falta de método, de ordem",
+      "definition": null,
+      "alternative_meanings": [
+        "Confusão",
+        "Trapalhada",
+        "O que não se entende"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kávanza-1 — https://www.kimbundu.org/pt/word/kavanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4268,
+      "kimbundu_term": "Kavava",
+      "portuguese_translation": "Cambaio",
+      "definition": null,
+      "alternative_meanings": [
+        "De pernas curtas",
+        "Pessoa baixa, gorda e de pernas arqueadas. fig. Batoque"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kavava-1 — https://www.kimbundu.org/pt/word/kavava",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4269,
+      "kimbundu_term": "Kaveia",
+      "portuguese_translation": "Velhinha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaveia-1 — https://www.kimbundu.org/pt/word/kaveia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4270,
+      "kimbundu_term": "Kavelu",
+      "portuguese_translation": "Velhote",
+      "definition": null,
+      "alternative_meanings": [
+        "Velhinho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kavelu-1 — https://www.kimbundu.org/pt/word/kavelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4271,
+      "kimbundu_term": "Kavita",
+      "portuguese_translation": "Planta fam. das anacardiáceas (Schinus mole) de utilização medicinal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kavita-1 — https://www.kimbundu.org/pt/word/kavita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4272,
+      "kimbundu_term": "Kávualu",
+      "portuguese_translation": "Amigo íntimo (Mais próprio, mas menos usado)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kávualu-1 — https://www.kimbundu.org/pt/word/kavualu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4273,
+      "kimbundu_term": "Kávuku",
+      "portuguese_translation": "Planta herbácea, fam. das borragináceas, de fibra muito resistente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kávuku-1 — https://www.kimbundu.org/pt/word/kavuku",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
