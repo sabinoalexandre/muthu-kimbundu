@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11184,
+      "kimbundu_term": "Kupatele",
+      "portuguese_translation": "Compadre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupatele-1 — https://www.kimbundu.org/pt/word/kupatele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11185,
+      "kimbundu_term": "Kupepumuka",
+      "portuguese_translation": "Ser levado pelo vento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupepumuka-1 — https://www.kimbundu.org/pt/word/kupepumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11186,
+      "kimbundu_term": "Kupepumuka",
+      "portuguese_translation": "Voar",
+      "definition": null,
+      "alternative_meanings": [
+        "ir pelos ares (com vento)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupepumuka-1 — https://www.kimbundu.org/pt/word/kupepumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11187,
+      "kimbundu_term": "Kupepumuna",
+      "portuguese_translation": "Fazer voar, ir com vento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupepumuna-1 — https://www.kimbundu.org/pt/word/kupepumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11188,
+      "kimbundu_term": "Kupetejexa",
+      "portuguese_translation": "Galopar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupetejexa-1 — https://www.kimbundu.org/pt/word/kupetejexa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11189,
+      "kimbundu_term": "Kupetejexa",
+      "portuguese_translation": "Galopada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupetejexa-1 — https://www.kimbundu.org/pt/word/kupetejexa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11190,
+      "kimbundu_term": "Kuphaphumuka",
+      "portuguese_translation": "Despertar acordar (do sono)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuphaphumuka-1 — https://www.kimbundu.org/pt/word/kuphaphumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11191,
+      "kimbundu_term": "Kuphaphumuka",
+      "portuguese_translation": "Vir a si",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuphaphumuka-1 — https://www.kimbundu.org/pt/word/kuphaphumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11192,
+      "kimbundu_term": "Kuphaphumuka",
+      "portuguese_translation": "Ressuscitar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuphaphumuka-1 — https://www.kimbundu.org/pt/word/kuphaphumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11193,
+      "kimbundu_term": "Kuphopheka",
+      "portuguese_translation": "Estreitar",
+      "definition": null,
+      "alternative_meanings": [
+        "apertar",
+        "restringir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuphopheka-1 — https://www.kimbundu.org/pt/word/kuphopheka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
