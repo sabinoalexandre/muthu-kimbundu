@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7794,
+      "kimbundu_term": "Kubufuka",
+      "portuguese_translation": "Estar amolgado, sofrer rombo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubufuka-1 — https://www.kimbundu.org/pt/word/kubufuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7795,
+      "kimbundu_term": "Kubufuka",
+      "portuguese_translation": "Tb. se diz kubofoka",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubufuka-1 — https://www.kimbundu.org/pt/word/kubufuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7796,
+      "kimbundu_term": "Kubufula",
+      "portuguese_translation": "Fazer rombo em",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubufula-1 — https://www.kimbundu.org/pt/word/kubufula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7797,
+      "kimbundu_term": "Kubufula",
+      "portuguese_translation": "Romper",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer brecha em"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubufula-1 — https://www.kimbundu.org/pt/word/kubufula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7798,
+      "kimbundu_term": "Kubuidisa",
+      "portuguese_translation": "Cansar",
+      "definition": null,
+      "alternative_meanings": [
+        "fatigar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuidisa-1 — https://www.kimbundu.org/pt/word/kubuidisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7799,
+      "kimbundu_term": "Kubuidisa",
+      "portuguese_translation": "Fazer perder as forças a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuidisa-1 — https://www.kimbundu.org/pt/word/kubuidisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7800,
+      "kimbundu_term": "Kubuimina",
+      "portuguese_translation": "Respirar por meio de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuimina-1 — https://www.kimbundu.org/pt/word/kubuimina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7801,
+      "kimbundu_term": "Kubuimisa",
+      "portuguese_translation": "Fazer respirar, arquejar, ofegar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuimisa-1 — https://www.kimbundu.org/pt/word/kubuimisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7802,
+      "kimbundu_term": "Kubuingina",
+      "portuguese_translation": "Evaporar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "sumir-se (o líquido)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuingina-1 — https://www.kimbundu.org/pt/word/kubuingina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7803,
+      "kimbundu_term": "Kubuingina",
+      "portuguese_translation": "Deixar de correr",
+      "definition": null,
+      "alternative_meanings": [
+        "secar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuingina-1 — https://www.kimbundu.org/pt/word/kubuingina",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
