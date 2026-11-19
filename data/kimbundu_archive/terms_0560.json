@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5704,
+      "kimbundu_term": "Kinanyi",
+      "portuguese_translation": "Que",
+      "definition": null,
+      "alternative_meanings": [
+        "qual coisa (entre várias)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinanyi-1 — https://www.kimbundu.org/pt/word/kinanyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5705,
+      "kimbundu_term": "Kinazixi",
+      "portuguese_translation": "Tremedal",
+      "definition": null,
+      "alternative_meanings": [
+        "pântano",
+        "charco",
+        "Poça formada de água das chuvas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinazixi-1 — https://www.kimbundu.org/pt/word/kinazixi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5706,
+      "kimbundu_term": "Kinda",
+      "portuguese_translation": "Artefacto de mateba em forma de bacia",
+      "definition": null,
+      "alternative_meanings": [
+        "Teiga",
+        "cesta",
+        "Cesto para condução de materiais de construção"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinda-1 — https://www.kimbundu.org/pt/word/kinda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5707,
+      "kimbundu_term": "Kinda",
+      "portuguese_translation": "Cestinha de palha enfeitada a cores (na ilha de Luanda)",
+      "definition": null,
+      "alternative_meanings": [
+        "Balaio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinda-1 — https://www.kimbundu.org/pt/word/kinda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5708,
+      "kimbundu_term": "Kinda",
+      "portuguese_translation": "Quinta",
+      "definition": null,
+      "alternative_meanings": [
+        "O dia de quinta-feira"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinda-2 — https://www.kimbundu.org/pt/word/kinda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5709,
+      "kimbundu_term": "Kindala",
+      "portuguese_translation": "Já",
+      "definition": null,
+      "alternative_meanings": [
+        "sem demora",
+        "Neste instante",
+        "Imediatamente"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kindala-1 — https://www.kimbundu.org/pt/word/kindala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5710,
+      "kimbundu_term": "Kindala",
+      "portuguese_translation": "Agora mesmo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kindala-1 — https://www.kimbundu.org/pt/word/kindala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5711,
+      "kimbundu_term": "Kíndanda",
+      "portuguese_translation": "Temerário",
+      "definition": null,
+      "alternative_meanings": [
+        "arrojado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kíndanda-1 — https://www.kimbundu.org/pt/word/kindanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5712,
+      "kimbundu_term": "Kíndanda",
+      "portuguese_translation": "Audacioso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kíndanda-1 — https://www.kimbundu.org/pt/word/kindanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5713,
+      "kimbundu_term": "Kindandalakata",
+      "portuguese_translation": "Corpulência",
+      "definition": null,
+      "alternative_meanings": [
+        "Robustez",
+        "Musculatura"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kindandalakata-1 — https://www.kimbundu.org/pt/word/kindandalakata",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
