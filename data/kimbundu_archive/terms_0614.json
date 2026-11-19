@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6244,
+      "kimbundu_term": "Kisuku",
+      "portuguese_translation": "Consoada",
+      "definition": null,
+      "alternative_meanings": [
+        "Ceia"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisuku-1 — https://www.kimbundu.org/pt/word/kisuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6245,
+      "kimbundu_term": "Kisuku",
+      "portuguese_translation": "e intr. Consuar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisuku-1 — https://www.kimbundu.org/pt/word/kisuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6246,
+      "kimbundu_term": "Kisúku",
+      "portuguese_translation": "Monte de terra no meio de um rio",
+      "definition": null,
+      "alternative_meanings": [
+        "Ilhota"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisúku-1 — https://www.kimbundu.org/pt/word/kisuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6247,
+      "kimbundu_term": "Kisukuilu",
+      "portuguese_translation": "Lavandaria",
+      "definition": null,
+      "alternative_meanings": [
+        "Lavadouro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisukuilu-1 — https://www.kimbundu.org/pt/word/kisukuilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6248,
+      "kimbundu_term": "Kisukula",
+      "portuguese_translation": "Lavadeiro",
+      "definition": null,
+      "alternative_meanings": [
+        "Máquina para lavar roupa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisukula-1 — https://www.kimbundu.org/pt/word/kisukula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6249,
+      "kimbundu_term": "Kisukula",
+      "portuguese_translation": "passageiro",
+      "definition": null,
+      "alternative_meanings": [
+        "Que veio para pouco tempo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisukula-1 — https://www.kimbundu.org/pt/word/kisukula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6250,
+      "kimbundu_term": "Kisukusuku",
+      "portuguese_translation": "Chuvisco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisukusuku-1 — https://www.kimbundu.org/pt/word/kisukusuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6251,
+      "kimbundu_term": "Kisúla",
+      "portuguese_translation": "Mulher estéril, infecunda",
+      "definition": null,
+      "alternative_meanings": [
+        "Que não concebe"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisúla-1 — https://www.kimbundu.org/pt/word/kisula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6252,
+      "kimbundu_term": "Kisulukutu",
+      "portuguese_translation": "Abominação. É mais usado no plural isulukutu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisulukutu-1 — https://www.kimbundu.org/pt/word/kisulukutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6253,
+      "kimbundu_term": "Kisuma",
+      "portuguese_translation": "Maravilha",
+      "definition": null,
+      "alternative_meanings": [
+        "Milagre. É mais usado no plural isuma"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisuma-1 — https://www.kimbundu.org/pt/word/kisuma",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
