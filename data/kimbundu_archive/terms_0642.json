@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6524,
+      "kimbundu_term": "Kivimba",
+      "portuguese_translation": "O que não falta nenhuma das suas partes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivimba-1 — https://www.kimbundu.org/pt/word/kivimba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6525,
+      "kimbundu_term": "Kivisa",
+      "portuguese_translation": "Obediência",
+      "definition": null,
+      "alternative_meanings": [
+        "docilidade",
+        "Cumprimento de ordens, da vontade alheia",
+        "Submissão, ouvido",
+        "compreensão",
+        "Silêncio com que se ouve"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivisa-1 — https://www.kimbundu.org/pt/word/kivisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6526,
+      "kimbundu_term": "Kivisa",
+      "portuguese_translation": "adj. Obediente",
+      "definition": null,
+      "alternative_meanings": [
+        "Que tem o sentido da audição"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivisa-1 — https://www.kimbundu.org/pt/word/kivisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6527,
+      "kimbundu_term": "Kivise",
+      "portuguese_translation": "Que faz ouvir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivise-1 — https://www.kimbundu.org/pt/word/kivise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6528,
+      "kimbundu_term": "Kivise",
+      "portuguese_translation": "Instrumento acústico para surdos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivise-1 — https://www.kimbundu.org/pt/word/kivise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6529,
+      "kimbundu_term": "Kivudise",
+      "portuguese_translation": "Variado",
+      "definition": null,
+      "alternative_meanings": [
+        "composto de coisas diferentes. Alternado. Em que há simultaneamente várias coisas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivudise-1 — https://www.kimbundu.org/pt/word/kivudise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6530,
+      "kimbundu_term": "Kivui",
+      "portuguese_translation": "O que se possui",
+      "definition": null,
+      "alternative_meanings": [
+        "Objeto possuído e de que se é dono"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivui-1 — https://www.kimbundu.org/pt/word/kivui",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6531,
+      "kimbundu_term": "Kivui",
+      "portuguese_translation": "Estado de quem possui",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivui-1 — https://www.kimbundu.org/pt/word/kivui",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6532,
+      "kimbundu_term": "Kivule",
+      "portuguese_translation": "Maioria. Grupo preponderante",
+      "definition": null,
+      "alternative_meanings": [
+        "a maior parte. Plural"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivule-1 — https://www.kimbundu.org/pt/word/kivule",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6533,
+      "kimbundu_term": "Kivule",
+      "portuguese_translation": "Quantioso",
+      "definition": null,
+      "alternative_meanings": [
+        "abundante",
+        "numeroso. Tanto",
+        "tão (nem tanto nem tão pouco)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivule-1 — https://www.kimbundu.org/pt/word/kivule",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
