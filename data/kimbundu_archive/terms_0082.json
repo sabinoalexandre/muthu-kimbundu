@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 924,
+      "kimbundu_term": "Dikenye",
+      "portuguese_translation": "Despenhadeiro",
+      "definition": null,
+      "alternative_meanings": [
+        "ribanceira",
+        "precipício"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikenye-1 — https://www.kimbundu.org/pt/word/dikenye",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 925,
+      "kimbundu_term": "Dikénze",
+      "portuguese_translation": "Traça",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikénze-1 — https://www.kimbundu.org/pt/word/dikenze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 926,
+      "kimbundu_term": "Dikezu",
+      "portuguese_translation": "Cola",
+      "definition": null,
+      "alternative_meanings": [
+        "fruta de mukezu"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikezu-1 — https://www.kimbundu.org/pt/word/dikezu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 927,
+      "kimbundu_term": "Dikine",
+      "portuguese_translation": "Dançante",
+      "definition": null,
+      "alternative_meanings": [
+        "bailável"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikine-1 — https://www.kimbundu.org/pt/word/dikine",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 928,
+      "kimbundu_term": "Díkinu",
+      "portuguese_translation": "Bailarico",
+      "definition": null,
+      "alternative_meanings": [
+        "dança"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, díkinu-1 — https://www.kimbundu.org/pt/word/dikinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 929,
+      "kimbundu_term": "Díkinu",
+      "portuguese_translation": "Festa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, díkinu-1 — https://www.kimbundu.org/pt/word/dikinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 930,
+      "kimbundu_term": "Dikixi",
+      "portuguese_translation": "Anão",
+      "definition": null,
+      "alternative_meanings": [
+        "pigmeu",
+        "Homem pequeno de cabeça grande"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikixi-1 — https://www.kimbundu.org/pt/word/dikixi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 931,
+      "kimbundu_term": "Dikixi",
+      "portuguese_translation": "Hidra",
+      "definition": null,
+      "alternative_meanings": [
+        "Monstro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikixi-1 — https://www.kimbundu.org/pt/word/dikixi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 932,
+      "kimbundu_term": "Dikixi",
+      "portuguese_translation": "fig. Forasteiro",
+      "definition": null,
+      "alternative_meanings": [
+        "ignorante"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikixi-1 — https://www.kimbundu.org/pt/word/dikixi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 933,
+      "kimbundu_term": "Dikobo",
+      "portuguese_translation": "Cova pouco funda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikobo-1 — https://www.kimbundu.org/pt/word/dikobo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
