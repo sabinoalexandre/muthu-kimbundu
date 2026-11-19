@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8934,
+      "kimbundu_term": "Kujeta",
+      "portuguese_translation": "Acejo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujeta-1 — https://www.kimbundu.org/pt/word/kujeta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8935,
+      "kimbundu_term": "Kujia",
+      "portuguese_translation": "Alagar",
+      "definition": null,
+      "alternative_meanings": [
+        "empoçar",
+        "formar charco"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujia-1 — https://www.kimbundu.org/pt/word/kujia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8936,
+      "kimbundu_term": "Kujia",
+      "portuguese_translation": "Beber",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujia-1 — https://www.kimbundu.org/pt/word/kujia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8937,
+      "kimbundu_term": "Kujia",
+      "portuguese_translation": "Kurijia, v. r. Encharcar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "embebedar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujia-1 — https://www.kimbundu.org/pt/word/kujia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8938,
+      "kimbundu_term": "Kujibha",
+      "portuguese_translation": "Assassinar",
+      "definition": null,
+      "alternative_meanings": [
+        "Matar, abater",
+        "Pôr termo à vida de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujibha-1 — https://www.kimbundu.org/pt/word/kujibha",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8939,
+      "kimbundu_term": "Kujibha",
+      "portuguese_translation": "sub. Matança",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujibha-1 — https://www.kimbundu.org/pt/word/kujibha",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8940,
+      "kimbundu_term": "Kujibha",
+      "portuguese_translation": "Kurijiba e r. Suicidar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "matar-se",
+        "fig. Sacrificar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujibha-1 — https://www.kimbundu.org/pt/word/kujibha",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8941,
+      "kimbundu_term": "Kujibisa",
+      "portuguese_translation": "Mandar matar, pôr termo à vida de",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer findar, extinguir (uma vida)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujibisa-1 — https://www.kimbundu.org/pt/word/kujibisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8942,
+      "kimbundu_term": "Kujibisa",
+      "portuguese_translation": "Kurijibisa, v. r. Fazer-se matar",
+      "definition": null,
+      "alternative_meanings": [
+        "morrer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujibisa-1 — https://www.kimbundu.org/pt/word/kujibisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8943,
+      "kimbundu_term": "Kujidika",
+      "portuguese_translation": "Prescrever regras",
+      "definition": null,
+      "alternative_meanings": [
+        "estabelecer mandamentos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujidika-1 — https://www.kimbundu.org/pt/word/kujidika",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
