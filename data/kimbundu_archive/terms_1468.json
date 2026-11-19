@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14784,
+      "kimbundu_term": "Mangusu",
+      "portuguese_translation": "Furão",
+      "definition": null,
+      "alternative_meanings": [
+        "fuinha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mangusu-1 — https://www.kimbundu.org/pt/word/mangusu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14785,
+      "kimbundu_term": "Mangusu",
+      "portuguese_translation": "Pessoa curiosa, de beiços aguçados",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mangusu-1 — https://www.kimbundu.org/pt/word/mangusu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14786,
+      "kimbundu_term": "Manjidiká",
+      "portuguese_translation": "Mangerição",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, manjidiká-1 — https://www.kimbundu.org/pt/word/manjidika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14787,
+      "kimbundu_term": "Manongo",
+      "portuguese_translation": "Inspirações",
+      "definition": null,
+      "alternative_meanings": [
+        "conselhos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, manongo-1 — https://www.kimbundu.org/pt/word/manongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14788,
+      "kimbundu_term": "Manongo",
+      "portuguese_translation": "Explicações de factos ou de ideias",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, manongo-1 — https://www.kimbundu.org/pt/word/manongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14789,
+      "kimbundu_term": "Manongo",
+      "portuguese_translation": "Sugestões",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, manongo-1 — https://www.kimbundu.org/pt/word/manongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14790,
+      "kimbundu_term": "Manongonongo",
+      "portuguese_translation": "Expressões que dão a perceber o contrário do que significam",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, manongonongo-1 — https://www.kimbundu.org/pt/word/manongonongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14791,
+      "kimbundu_term": "Many'a-samanu",
+      "portuguese_translation": "Sessenta. Seis vezes dez",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, many'a-samanu-1 — https://www.kimbundu.org/pt/word/many'a-samanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14792,
+      "kimbundu_term": "Many'a-samanu",
+      "portuguese_translation": "O número 60. Abrev. de makuinhi-samanu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, many'a-samanu-1 — https://www.kimbundu.org/pt/word/many'a-samanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14793,
+      "kimbundu_term": "Many'a-sambuádi",
+      "portuguese_translation": "Setenta",
+      "definition": null,
+      "alternative_meanings": [
+        "sub. O número 70",
+        "Abrev. de makuinhi sambuâri"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, many'a-sambuádi-1 — https://www.kimbundu.org/pt/word/many'a-sambuadi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
