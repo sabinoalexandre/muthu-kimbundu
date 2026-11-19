@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17184,
+      "kimbundu_term": "Musúnda",
+      "portuguese_translation": "Oposto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musúnda-1 — https://www.kimbundu.org/pt/word/musunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17185,
+      "kimbundu_term": "Musúnda",
+      "portuguese_translation": "Planta medicinal, cuja raiz é utilizada em casos de inchaço ou contusão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musúnda-1 — https://www.kimbundu.org/pt/word/musunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17186,
+      "kimbundu_term": "Musúngi",
+      "portuguese_translation": "Que puxa",
+      "definition": null,
+      "alternative_meanings": [
+        "Arrastador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musúngi-1 — https://www.kimbundu.org/pt/word/musungi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17187,
+      "kimbundu_term": "Músungu",
+      "portuguese_translation": "Bico: — ua sánil",
+      "definition": null,
+      "alternative_meanings": [
+        "Bicada",
+        "fig. Crédito",
+        "abono"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, músungu-1 — https://www.kimbundu.org/pt/word/musungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17188,
+      "kimbundu_term": "Músungu",
+      "portuguese_translation": "Planta fam. das combretáceas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, músungu-1 — https://www.kimbundu.org/pt/word/musungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17189,
+      "kimbundu_term": "Músungu",
+      "portuguese_translation": "Araçari",
+      "definition": null,
+      "alternative_meanings": [
+        "tucazo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, músungu-1 — https://www.kimbundu.org/pt/word/musungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17190,
+      "kimbundu_term": "Músungu",
+      "portuguese_translation": "adj. Albino",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, músungu-1 — https://www.kimbundu.org/pt/word/musungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17191,
+      "kimbundu_term": "Musungúluke",
+      "portuguese_translation": "Discreto, reservado",
+      "definition": null,
+      "alternative_meanings": [
+        "Que guarda segredo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musungúluke-1 — https://www.kimbundu.org/pt/word/musunguluke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17192,
+      "kimbundu_term": "Musunúnu",
+      "portuguese_translation": "Estiolado",
+      "definition": null,
+      "alternative_meanings": [
+        "hirto",
+        "retesado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musunúnu-1 — https://www.kimbundu.org/pt/word/musununu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17193,
+      "kimbundu_term": "Musunúnu",
+      "portuguese_translation": "Desataviado",
+      "definition": null,
+      "alternative_meanings": [
+        "simples",
+        "fig. Nú"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musunúnu-1 — https://www.kimbundu.org/pt/word/musununu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
