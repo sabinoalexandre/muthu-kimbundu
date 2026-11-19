@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8434,
+      "kimbundu_term": "Kufikixila",
+      "portuguese_translation": "Kurifikixila, v. r. Refrear-se",
+      "definition": null,
+      "alternative_meanings": [
+        "poupar-se",
+        "Não dar largas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufikixila-1 — https://www.kimbundu.org/pt/word/kufikixila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8435,
+      "kimbundu_term": "Kúfila",
+      "portuguese_translation": "Dar preferência a",
+      "definition": null,
+      "alternative_meanings": [
+        "Estimar mais"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúfila-1 — https://www.kimbundu.org/pt/word/kufila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8436,
+      "kimbundu_term": "Kúfila",
+      "portuguese_translation": "Ter preferência",
+      "definition": null,
+      "alternative_meanings": [
+        "ser estimado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúfila-1 — https://www.kimbundu.org/pt/word/kufila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8437,
+      "kimbundu_term": "Kúfila",
+      "portuguese_translation": "Ato de preferir uma pessoa ou coisa mais do que outra",
+      "definition": null,
+      "alternative_meanings": [
+        "Manifestação de distinção",
+        "Primazia"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúfila-1 — https://www.kimbundu.org/pt/word/kufila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8438,
+      "kimbundu_term": "Kufíma",
+      "portuguese_translation": "Afanar",
+      "definition": null,
+      "alternative_meanings": [
+        "esforçar-se",
+        "Tomar calor por",
+        "empenhar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufíma-1 — https://www.kimbundu.org/pt/word/kufima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8439,
+      "kimbundu_term": "Kufíma",
+      "portuguese_translation": "Azáfama",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufíma-1 — https://www.kimbundu.org/pt/word/kufima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8440,
+      "kimbundu_term": "Kufimbika",
+      "portuguese_translation": "Mergulhar",
+      "definition": null,
+      "alternative_meanings": [
+        "emergir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufimbika-1 — https://www.kimbundu.org/pt/word/kufimbika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8441,
+      "kimbundu_term": "Kufimbika",
+      "portuguese_translation": "Meter",
+      "definition": null,
+      "alternative_meanings": [
+        "Soterrar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufimbika-1 — https://www.kimbundu.org/pt/word/kufimbika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8442,
+      "kimbundu_term": "Kufimbikisa",
+      "portuguese_translation": "Fazer mergulhar, soterrar, meter debaixo de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufimbikisa-1 — https://www.kimbundu.org/pt/word/kufimbikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8443,
+      "kimbundu_term": "Kufimisa",
+      "portuguese_translation": "Azafamar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar teso, ativo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufimisa-1 — https://www.kimbundu.org/pt/word/kufimisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
