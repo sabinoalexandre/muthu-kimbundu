@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19204,
+      "kimbundu_term": "Titia",
+      "portuguese_translation": "Tia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, titia-1 — https://www.kimbundu.org/pt/word/titia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19205,
+      "kimbundu_term": "To",
+      "portuguese_translation": "Apodo",
+      "definition": null,
+      "alternative_meanings": [
+        "Piada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, to-1 — https://www.kimbundu.org/pt/word/to",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19206,
+      "kimbundu_term": "Tôdio",
+      "portuguese_translation": "Maldizente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tôdio-1 — https://www.kimbundu.org/pt/word/todio",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19207,
+      "kimbundu_term": "Tôdio",
+      "portuguese_translation": "Difamador",
+      "definition": null,
+      "alternative_meanings": [
+        "Intriguista",
+        "má língua"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tôdio-1 — https://www.kimbundu.org/pt/word/todio",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19208,
+      "kimbundu_term": "Tóka",
+      "portuguese_translation": "Unicamente",
+      "definition": null,
+      "alternative_meanings": [
+        "sem tirar nem pôr"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tóka-1 — https://www.kimbundu.org/pt/word/toka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19209,
+      "kimbundu_term": "Tóka",
+      "portuguese_translation": "Só, certo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tóka-1 — https://www.kimbundu.org/pt/word/toka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19210,
+      "kimbundu_term": "Tokóji",
+      "portuguese_translation": "Curioso: Que pergunta para saber",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tokóji-1 — https://www.kimbundu.org/pt/word/tokoji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19211,
+      "kimbundu_term": "Tólo",
+      "portuguese_translation": "Biombo",
+      "definition": null,
+      "alternative_meanings": [
+        "anteparo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tólo-1 — https://www.kimbundu.org/pt/word/tolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19212,
+      "kimbundu_term": "Tómbo",
+      "portuguese_translation": "Sinal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tómbo-1 — https://www.kimbundu.org/pt/word/tombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19213,
+      "kimbundu_term": "Tómbo",
+      "portuguese_translation": "Diz-se da pessoa dada por garantia ou hipoteca de determinada dívida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tómbo-1 — https://www.kimbundu.org/pt/word/tombo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
