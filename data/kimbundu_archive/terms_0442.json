@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4524,
+      "kimbundu_term": "Kibása",
+      "portuguese_translation": "Esteira ou saco de mateba velho. Espécie de padiola feita de palha ou vime para transportar cadáveres. Esquife",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibása-1 — https://www.kimbundu.org/pt/word/kibasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4525,
+      "kimbundu_term": "Kibateku",
+      "portuguese_translation": "Tampa de barro com que se cobre panela ou cântaro. Têsto",
+      "definition": null,
+      "alternative_meanings": [
+        "cobertura. Batoque"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibateku-1 — https://www.kimbundu.org/pt/word/kibateku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4526,
+      "kimbundu_term": "Kibatu",
+      "portuguese_translation": "Paragem",
+      "definition": null,
+      "alternative_meanings": [
+        "espera. Cada uma das temporadas em que se divide o ano. Época",
+        "período",
+        "quadra. Lugar onde esperam os salteadores. Sítio encoberto para esperar caça ou a quem se quer atacar de surpresa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibatu-1 — https://www.kimbundu.org/pt/word/kibatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4527,
+      "kimbundu_term": "Kibátu",
+      "portuguese_translation": "Cápsula",
+      "definition": null,
+      "alternative_meanings": [
+        "casca. Invólucro de certas sementes. Película. fig. Mentira, peta"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibátu-1 — https://www.kimbundu.org/pt/word/kibatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4528,
+      "kimbundu_term": "Kibatubátu",
+      "portuguese_translation": "Involtório dos troncos. Corcho. Revestimento de plantas. Cavaca., mica",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibatubátu-1 — https://www.kimbundu.org/pt/word/kibatubatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4529,
+      "kimbundu_term": "Kibatuilu",
+      "portuguese_translation": "Instrumento com que se corta. Folha larga de espada. Fio",
+      "definition": null,
+      "alternative_meanings": [
+        "gume. Talhadeira",
+        "escopro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibatuilu-1 — https://www.kimbundu.org/pt/word/kibatuilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4530,
+      "kimbundu_term": "Kibatuilu",
+      "portuguese_translation": "Incisório",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibatuilu-1 — https://www.kimbundu.org/pt/word/kibatuilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4531,
+      "kimbundu_term": "Kibatulu",
+      "portuguese_translation": "[…] muro, etc. Separação. Divisão (de um trabalho, de um assunto). Capítulo",
+      "definition": null,
+      "alternative_meanings": [
+        "artigo. Corte"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibatulu-1 — https://www.kimbundu.org/pt/word/kibatulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4532,
+      "kimbundu_term": "Kibatulu",
+      "portuguese_translation": "O que separa ou serve para separar (valado, fosso, …)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibatulu-2 — https://www.kimbundu.org/pt/word/kibatulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4533,
+      "kimbundu_term": "Kibatulu",
+      "portuguese_translation": "Divisória. Qualquer objeto que serve para separar espaços confinantes. muro, etc",
+      "definition": null,
+      "alternative_meanings": [
+        "Separação",
+        "Divisão (de um trabalho, de um assunto)",
+        "Capítulo",
+        "artigo",
+        "Corte"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibatulu-2 — https://www.kimbundu.org/pt/word/kibatulu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
