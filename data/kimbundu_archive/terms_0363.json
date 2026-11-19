@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3734,
+      "kimbundu_term": "Kamukua",
+      "portuguese_translation": "Não igual",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamukua-1 — https://www.kimbundu.org/pt/word/kamukua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3735,
+      "kimbundu_term": "Kamukua",
+      "portuguese_translation": "Outra",
+      "definition": null,
+      "alternative_meanings": [
+        "outro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamukua-1 — https://www.kimbundu.org/pt/word/kamukua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3736,
+      "kimbundu_term": "Kamukua",
+      "portuguese_translation": "Diferente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamukua-1 — https://www.kimbundu.org/pt/word/kamukua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3737,
+      "kimbundu_term": "Kamukua",
+      "portuguese_translation": "De outro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamukua-2 — https://www.kimbundu.org/pt/word/kamukua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3738,
+      "kimbundu_term": "Kamukuiu",
+      "portuguese_translation": "Pov. e sede do posto deste nome, na circ. civ. da Bibala, distr. de Mossâmedes, prov. da Huíla, com 2.632 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamukuiu-1 — https://www.kimbundu.org/pt/word/kamukuiu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3739,
+      "kimbundu_term": "Kamukuluvunda",
+      "portuguese_translation": "Pouco mais",
+      "definition": null,
+      "alternative_meanings": [
+        "Por mais algum tempo",
+        "Além do necessário"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamukuluvunda-1 — https://www.kimbundu.org/pt/word/kamukuluvunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3740,
+      "kimbundu_term": "Kamukusu",
+      "portuguese_translation": "Que tem a cor entre amarelo e vermelho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamukusu-1 — https://www.kimbundu.org/pt/word/kamukusu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3741,
+      "kimbundu_term": "Kamukusu",
+      "portuguese_translation": "Ruivo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamukusu-1 — https://www.kimbundu.org/pt/word/kamukusu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3742,
+      "kimbundu_term": "Kamukusu",
+      "portuguese_translation": "Pardo claro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamukusu-1 — https://www.kimbundu.org/pt/word/kamukusu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3743,
+      "kimbundu_term": "Kamukusu",
+      "portuguese_translation": "Russo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamukusu-1 — https://www.kimbundu.org/pt/word/kamukusu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
