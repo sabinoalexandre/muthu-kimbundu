@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19724,
+      "kimbundu_term": "Umenekenu",
+      "portuguese_translation": "Cumprimento respeitoso",
+      "definition": null,
+      "alternative_meanings": [
+        "saudação",
+        "licença"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, umenekenu-1 — https://www.kimbundu.org/pt/word/umenekenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19725,
+      "kimbundu_term": "Umenekenu",
+      "portuguese_translation": "Ato ou maneira de cumprimentar, de saudar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, umenekenu-1 — https://www.kimbundu.org/pt/word/umenekenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19726,
+      "kimbundu_term": "Umenekenu",
+      "portuguese_translation": "Vénia",
+      "definition": null,
+      "alternative_meanings": [
+        "cortesia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, umenekenu-1 — https://www.kimbundu.org/pt/word/umenekenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19727,
+      "kimbundu_term": "Umenekenu",
+      "portuguese_translation": "Brinde",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, umenekenu-1 — https://www.kimbundu.org/pt/word/umenekenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19728,
+      "kimbundu_term": "Umesene",
+      "portuguese_translation": "Perfeição",
+      "definition": null,
+      "alternative_meanings": [
+        "mestria"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, umesene-1 — https://www.kimbundu.org/pt/word/umesene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19729,
+      "kimbundu_term": "Umone",
+      "portuguese_translation": "Vidência",
+      "definition": null,
+      "alternative_meanings": [
+        "faculdade de vidente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, umone-1 — https://www.kimbundu.org/pt/word/umone",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19730,
+      "kimbundu_term": "Umónya",
+      "portuguese_translation": "Indolência",
+      "definition": null,
+      "alternative_meanings": [
+        "preguiça",
+        "ociosidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, umónya-1 — https://www.kimbundu.org/pt/word/umonya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19731,
+      "kimbundu_term": "Úmonyi",
+      "portuguese_translation": "Riqueza",
+      "definition": null,
+      "alternative_meanings": [
+        "fartura",
+        "prosperidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úmonyi-1 — https://www.kimbundu.org/pt/word/umonyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19732,
+      "kimbundu_term": "Úmonyi",
+      "portuguese_translation": "Abundância de bens",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úmonyi-1 — https://www.kimbundu.org/pt/word/umonyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19733,
+      "kimbundu_term": "Umoxi",
+      "portuguese_translation": "Um",
+      "definition": null,
+      "alternative_meanings": [
+        "certo",
+        "qualquer"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, umoxi-1 — https://www.kimbundu.org/pt/word/umoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
