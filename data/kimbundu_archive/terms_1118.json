@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11284,
+      "kimbundu_term": "Kúsakula",
+      "portuguese_translation": "Purificar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsakula-1 — https://www.kimbundu.org/pt/word/kusakula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11285,
+      "kimbundu_term": "Kúsakula",
+      "portuguese_translation": "Salvar",
+      "definition": null,
+      "alternative_meanings": [
+        "livrar (da doença, do vício, do pecado)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsakula-1 — https://www.kimbundu.org/pt/word/kusakula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11286,
+      "kimbundu_term": "Kusakumuna",
+      "portuguese_translation": "Sacudir com violência e repetidas vezes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusakumuna-1 — https://www.kimbundu.org/pt/word/kusakumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11287,
+      "kimbundu_term": "Kusakumuna",
+      "portuguese_translation": "Abalar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer estremecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusakumuna-1 — https://www.kimbundu.org/pt/word/kusakumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11288,
+      "kimbundu_term": "Kusakumuna",
+      "portuguese_translation": "Movimento de sacudidura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusakumuna-1 — https://www.kimbundu.org/pt/word/kusakumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11289,
+      "kimbundu_term": "Kúsala",
+      "portuguese_translation": "Traçar, formar letras",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsala-1 — https://www.kimbundu.org/pt/word/kusala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11290,
+      "kimbundu_term": "Kúsala",
+      "portuguese_translation": "Escrevinhar",
+      "definition": null,
+      "alternative_meanings": [
+        "grafar",
+        "rabiscar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsala-1 — https://www.kimbundu.org/pt/word/kusala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11291,
+      "kimbundu_term": "Kusalala",
+      "portuguese_translation": "Haver em abundância",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusalala-1 — https://www.kimbundu.org/pt/word/kusalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11292,
+      "kimbundu_term": "Kusalala",
+      "portuguese_translation": "Tornar do domínio público",
+      "definition": null,
+      "alternative_meanings": [
+        "divulgar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusalala-1 — https://www.kimbundu.org/pt/word/kusalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11293,
+      "kimbundu_term": "Kusalama",
+      "portuguese_translation": "Radiar",
+      "definition": null,
+      "alternative_meanings": [
+        "cintilar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusalama-1 — https://www.kimbundu.org/pt/word/kusalama",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
