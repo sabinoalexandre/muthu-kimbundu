@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14944,
+      "kimbundu_term": "Matómbe",
+      "portuguese_translation": "Bordões",
+      "definition": null,
+      "alternative_meanings": [
+        "bambus (ráfia)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, matómbe-1 — https://www.kimbundu.org/pt/word/matombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14945,
+      "kimbundu_term": "Matona",
+      "portuguese_translation": "Porção de peixe miúdo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, matona-1 — https://www.kimbundu.org/pt/word/matona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14946,
+      "kimbundu_term": "Mátonji",
+      "portuguese_translation": "Almecegueira",
+      "definition": null,
+      "alternative_meanings": [
+        "sua resina"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mátonji-1 — https://www.kimbundu.org/pt/word/matonji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14947,
+      "kimbundu_term": "Mátote",
+      "portuguese_translation": "Escória",
+      "definition": null,
+      "alternative_meanings": [
+        "borras",
+        "fezes"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mátote-1 — https://www.kimbundu.org/pt/word/matote",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14948,
+      "kimbundu_term": "Mátote",
+      "portuguese_translation": "Os restos mortais",
+      "definition": null,
+      "alternative_meanings": [
+        "as cinzas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mátote-1 — https://www.kimbundu.org/pt/word/matote",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14949,
+      "kimbundu_term": "Mátote",
+      "portuguese_translation": "Residuário",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mátote-1 — https://www.kimbundu.org/pt/word/matote",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14950,
+      "kimbundu_term": "Matoua",
+      "portuguese_translation": "Sedimento terroso no fundo das águas. Lodo",
+      "definition": null,
+      "alternative_meanings": [
+        "lama"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, matoua-1 — https://www.kimbundu.org/pt/word/matoua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14951,
+      "kimbundu_term": "Mátuba",
+      "portuguese_translation": "Alegrias",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mátuba-1 — https://www.kimbundu.org/pt/word/matuba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14952,
+      "kimbundu_term": "Mátuba",
+      "portuguese_translation": "Escroto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mátuba-1 — https://www.kimbundu.org/pt/word/matuba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14953,
+      "kimbundu_term": "Matubia",
+      "portuguese_translation": "Brasas",
+      "definition": null,
+      "alternative_meanings": [
+        "lumes",
+        "chamas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, matubia-1 — https://www.kimbundu.org/pt/word/matubia",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
