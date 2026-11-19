@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1184,
+      "kimbundu_term": "Dingangánji",
+      "portuguese_translation": "Varejeira",
+      "definition": null,
+      "alternative_meanings": [
+        "mosca zumbidora"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dingangánji-1 — https://www.kimbundu.org/pt/word/dinganganji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1185,
+      "kimbundu_term": "Dingi",
+      "portuguese_translation": "Mais",
+      "definition": null,
+      "alternative_meanings": [
+        "novamente",
+        "ainda",
+        "em maior grau"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dingi-1 — https://www.kimbundu.org/pt/word/dingi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1186,
+      "kimbundu_term": "Dingi",
+      "portuguese_translation": "Aumento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dingi-1 — https://www.kimbundu.org/pt/word/dingi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1187,
+      "kimbundu_term": "Dingola",
+      "portuguese_translation": "De Angola",
+      "definition": null,
+      "alternative_meanings": [
+        "língua falada pelos angolenses"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dingola-1 — https://www.kimbundu.org/pt/word/dingola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1188,
+      "kimbundu_term": "Dingongena",
+      "portuguese_translation": "Lamentação",
+      "definition": null,
+      "alternative_meanings": [
+        "queixas. É m. us. no pl. mangongena"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dingongena-1 — https://www.kimbundu.org/pt/word/dingongena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1189,
+      "kimbundu_term": "Dinguala",
+      "portuguese_translation": "Língua do (peixe)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dinguala-1 — https://www.kimbundu.org/pt/word/dinguala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1190,
+      "kimbundu_term": "Dinguanza",
+      "portuguese_translation": "Quadrúpede carnívoro, espécie de hiena",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dinguanza-1 — https://www.kimbundu.org/pt/word/dinguanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1191,
+      "kimbundu_term": "Dinongo",
+      "portuguese_translation": "Sarcasmo",
+      "definition": null,
+      "alternative_meanings": [
+        "ironia amarga e insultuosa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dinongo-1 — https://www.kimbundu.org/pt/word/dinongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1192,
+      "kimbundu_term": "Dinongoena",
+      "portuguese_translation": "Camaleão. fig. Homem versátil, vaidoso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dinongoena-1 — https://www.kimbundu.org/pt/word/dinongoena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1193,
+      "kimbundu_term": "Dinuinu",
+      "portuguese_translation": "Bebedouro. Lugar onde se bebe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dinuinu-1 — https://www.kimbundu.org/pt/word/dinuinu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
