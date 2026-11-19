@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12244,
+      "kimbundu_term": "Kutelekala",
+      "portuguese_translation": "gar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutelekala-1 — https://www.kimbundu.org/pt/word/kutelekala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12245,
+      "kimbundu_term": "Kutelekela",
+      "portuguese_translation": "Servir (comida)",
+      "definition": null,
+      "alternative_meanings": [
+        "dispor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutelekela-1 — https://www.kimbundu.org/pt/word/kutelekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12246,
+      "kimbundu_term": "Kutelekela",
+      "portuguese_translation": "Ofertar",
+      "definition": null,
+      "alternative_meanings": [
+        "dedicar: Kúrla a mu telekela fuma, nzala mu mala ânji i abuile"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutelekela-1 — https://www.kimbundu.org/pt/word/kutelekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12247,
+      "kimbundu_term": "Kutelekela",
+      "portuguese_translation": "Consagrar",
+      "definition": null,
+      "alternative_meanings": [
+        "pôr sob a invocação de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutelekela-1 — https://www.kimbundu.org/pt/word/kutelekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12248,
+      "kimbundu_term": "Kutelujuka",
+      "portuguese_translation": "Tremeluzir",
+      "definition": null,
+      "alternative_meanings": [
+        "cintilar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutelujuka-1 — https://www.kimbundu.org/pt/word/kutelujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12249,
+      "kimbundu_term": "Kutelujuka",
+      "portuguese_translation": "Lampejar",
+      "definition": null,
+      "alternative_meanings": [
+        "coriscar: kuma ku ala.—"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutelujuka-1 — https://www.kimbundu.org/pt/word/kutelujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12250,
+      "kimbundu_term": "Kutelujuka",
+      "portuguese_translation": "Coriscada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutelujuka-1 — https://www.kimbundu.org/pt/word/kutelujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12251,
+      "kimbundu_term": "Kutelujula",
+      "portuguese_translation": "Tornar cintilante",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer tremeluzir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutelujula-1 — https://www.kimbundu.org/pt/word/kutelujula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12252,
+      "kimbundu_term": "Kuteluka",
+      "portuguese_translation": "Relampejar",
+      "definition": null,
+      "alternative_meanings": [
+        "brilhar rapidamente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuteluka-1 — https://www.kimbundu.org/pt/word/kuteluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12253,
+      "kimbundu_term": "Kuteluxisa",
+      "portuguese_translation": "Fazer brilhar, relampejar, coriscar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuteluxisa-1 — https://www.kimbundu.org/pt/word/kuteluxisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
