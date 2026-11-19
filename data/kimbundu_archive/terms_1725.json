@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17354,
+      "kimbundu_term": "Muuáie",
+      "portuguese_translation": "Untador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muuáie-1 — https://www.kimbundu.org/pt/word/muuaie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17355,
+      "kimbundu_term": "Muuake",
+      "portuguese_translation": "Vilipendiador",
+      "definition": null,
+      "alternative_meanings": [
+        "excomungador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muuake-1 — https://www.kimbundu.org/pt/word/muuake",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17356,
+      "kimbundu_term": "Muuane",
+      "portuguese_translation": "Distribuidor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muuane-1 — https://www.kimbundu.org/pt/word/muuane",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17357,
+      "kimbundu_term": "Muuane",
+      "portuguese_translation": "Que divide por partes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muuane-1 — https://www.kimbundu.org/pt/word/muuane",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17358,
+      "kimbundu_term": "Muuanese",
+      "portuguese_translation": "Divisor repartidor",
+      "definition": null,
+      "alternative_meanings": [
+        "separador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muuanese-1 — https://www.kimbundu.org/pt/word/muuanese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17359,
+      "kimbundu_term": "Múue",
+      "portuguese_translation": "Árvore bastante conhecida no planalto de Benguela cuja fibra é empregada no fabrico de cordas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múue-1 — https://www.kimbundu.org/pt/word/muue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17360,
+      "kimbundu_term": "Múuike",
+      "portuguese_translation": "Acendedor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múuike-1 — https://www.kimbundu.org/pt/word/muuike",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17361,
+      "kimbundu_term": "Múuike",
+      "portuguese_translation": "Pessoa encarregada de acender luzes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múuike-1 — https://www.kimbundu.org/pt/word/muuike",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17362,
+      "kimbundu_term": "Muuíla",
+      "portuguese_translation": "Natural da Huíla",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muuíla-1 — https://www.kimbundu.org/pt/word/muuila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17363,
+      "kimbundu_term": "Muúnde",
+      "portuguese_translation": "Batizante. Baptista",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muúnde-1 — https://www.kimbundu.org/pt/word/muunde",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
