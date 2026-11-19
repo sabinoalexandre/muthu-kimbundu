@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15824,
+      "kimbundu_term": "Móxi",
+      "portuguese_translation": "A par",
+      "definition": null,
+      "alternative_meanings": [
+        "ao mesmo tempo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, móxi-1 — https://www.kimbundu.org/pt/word/moxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15825,
+      "kimbundu_term": "Mu",
+      "portuguese_translation": "que indica relação de tempo",
+      "definition": null,
+      "alternative_meanings": [
+        "de lugar: —rivumu",
+        "de modo",
+        "de preço",
+        "de espaço"
+      ],
+      "examples": [],
+      "grammatical_category": "preposição, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mu-1 — https://www.kimbundu.org/pt/word/mu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15826,
+      "kimbundu_term": "Mu",
+      "portuguese_translation": "(o, a)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "preposição, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mu-1 — https://www.kimbundu.org/pt/word/mu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15827,
+      "kimbundu_term": "Mu-diá",
+      "portuguese_translation": "Entre eles ou elas",
+      "definition": null,
+      "alternative_meanings": [
+        "aribeta -"
+      ],
+      "examples": [],
+      "grammatical_category": "preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mu-diá-1 — https://www.kimbundu.org/pt/word/mu-dia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15828,
+      "kimbundu_term": "Mu'abúdi",
+      "portuguese_translation": "Piloto. Que passa viandantes de uma para outra margem do rio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mu'abúdi-1 — https://www.kimbundu.org/pt/word/mu'abudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15829,
+      "kimbundu_term": "Mu'ónga",
+      "portuguese_translation": "Verbo",
+      "definition": null,
+      "alternative_meanings": [
+        "afirmação",
+        "vocábulo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mu'ónga-1 — https://www.kimbundu.org/pt/word/mu'onga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15830,
+      "kimbundu_term": "Mu'ónga",
+      "portuguese_translation": "Razão",
+      "definition": null,
+      "alternative_meanings": [
+        "causa",
+        "Facto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mu'ónga-1 — https://www.kimbundu.org/pt/word/mu'onga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15831,
+      "kimbundu_term": "Mu'ónga",
+      "portuguese_translation": "Pleito",
+      "definition": null,
+      "alternative_meanings": [
+        "demanda",
+        "Ação judicial"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mu'ónga-1 — https://www.kimbundu.org/pt/word/mu'onga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15832,
+      "kimbundu_term": "Mu'ónga",
+      "portuguese_translation": "Calúnia",
+      "definition": null,
+      "alternative_meanings": [
+        "palavra injuriosa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mu'ónga-1 — https://www.kimbundu.org/pt/word/mu'onga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15833,
+      "kimbundu_term": "Mu'óso",
+      "portuguese_translation": "Grande árvore africana de grossos troncos, copa larga e madeira rija",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mu'óso-1 — https://www.kimbundu.org/pt/word/mu'oso",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
