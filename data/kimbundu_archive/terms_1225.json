@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12354,
+      "kimbundu_term": "Kutetula",
+      "portuguese_translation": "Tirar a casca (com as unhas)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutetula-1 — https://www.kimbundu.org/pt/word/kutetula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12355,
+      "kimbundu_term": "Kutetula",
+      "portuguese_translation": "Mostrar",
+      "definition": null,
+      "alternative_meanings": [
+        "manifestar",
+        "descobrir (a verdade)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutetula-1 — https://www.kimbundu.org/pt/word/kutetula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12356,
+      "kimbundu_term": "Kutetula",
+      "portuguese_translation": "Kuritetula, e r. Mostrar-se tal qual é",
+      "definition": null,
+      "alternative_meanings": [
+        "Dar-se a conhecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutetula-1 — https://www.kimbundu.org/pt/word/kutetula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12357,
+      "kimbundu_term": "Kutetuluka",
+      "portuguese_translation": "Ficar ratificado, confirmado (como verdadeiro)",
+      "definition": null,
+      "alternative_meanings": [
+        "Ser tomado em consideração"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutetuluka-1 — https://www.kimbundu.org/pt/word/kutetuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12358,
+      "kimbundu_term": "Kutetulula",
+      "portuguese_translation": "Considerar",
+      "definition": null,
+      "alternative_meanings": [
+        "revalidar, confirmar",
+        "Tornar a descascar, pôr a nu"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutetulula-1 — https://www.kimbundu.org/pt/word/kutetulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12359,
+      "kimbundu_term": "Kutetulula",
+      "portuguese_translation": "Kuritetulula, e r. Revelar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutetulula-1 — https://www.kimbundu.org/pt/word/kutetulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12360,
+      "kimbundu_term": "Kuteúka",
+      "portuguese_translation": "Sair do lume (a panela de comida)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuteúka-1 — https://www.kimbundu.org/pt/word/kuteuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12361,
+      "kimbundu_term": "Kuteúla",
+      "portuguese_translation": "Tirar do lume uma panela",
+      "definition": null,
+      "alternative_meanings": [
+        "Dar por findo um cozinhado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuteúla-1 — https://www.kimbundu.org/pt/word/kuteula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12362,
+      "kimbundu_term": "Kutêxi",
+      "portuguese_translation": "e intr. Deitar fora",
+      "definition": null,
+      "alternative_meanings": [
+        "Desperdiçar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutêxi-1 — https://www.kimbundu.org/pt/word/kutexi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12363,
+      "kimbundu_term": "Kutêxi",
+      "portuguese_translation": "Transbordar",
+      "definition": null,
+      "alternative_meanings": [
+        "deitar por fora"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutêxi-1 — https://www.kimbundu.org/pt/word/kutexi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
