@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18494,
+      "kimbundu_term": "Nzo",
+      "portuguese_translation": "Edifício",
+      "definition": null,
+      "alternative_meanings": [
+        "moradia",
+        "casa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzo-1 — https://www.kimbundu.org/pt/word/nzo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18495,
+      "kimbundu_term": "Nzôa",
+      "portuguese_translation": "Afluente do rio Uámba, ao N. da Jinga, distr. da Lunda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzôa-1 — https://www.kimbundu.org/pt/word/nzoa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18496,
+      "kimbundu_term": "Nzôdi",
+      "portuguese_translation": "Semelhante",
+      "definition": null,
+      "alternative_meanings": [
+        "igual"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzôdi-1 — https://www.kimbundu.org/pt/word/nzodi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18497,
+      "kimbundu_term": "Nzôdi",
+      "portuguese_translation": "Disposto simetricamente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzôdi-1 — https://www.kimbundu.org/pt/word/nzodi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18498,
+      "kimbundu_term": "Nzôdi",
+      "portuguese_translation": "Igualdade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzôdi-1 — https://www.kimbundu.org/pt/word/nzodi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18499,
+      "kimbundu_term": "Nzói",
+      "portuguese_translation": "Visão",
+      "definition": null,
+      "alternative_meanings": [
+        "sonho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzói-1 — https://www.kimbundu.org/pt/word/nzoi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18500,
+      "kimbundu_term": "Nzói",
+      "portuguese_translation": "Devaneio",
+      "definition": null,
+      "alternative_meanings": [
+        "quimera"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzói-1 — https://www.kimbundu.org/pt/word/nzoi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18501,
+      "kimbundu_term": "Nzói",
+      "portuguese_translation": "Sonhar",
+      "definition": null,
+      "alternative_meanings": [
+        "fantasiar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzói-1 — https://www.kimbundu.org/pt/word/nzoi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18502,
+      "kimbundu_term": "Nzólo",
+      "portuguese_translation": "Anzol",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzólo-1 — https://www.kimbundu.org/pt/word/nzolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18503,
+      "kimbundu_term": "Nzombo",
+      "portuguese_translation": "Bebida fermentada feita de tubérculos e outros cereais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzombo-1 — https://www.kimbundu.org/pt/word/nzombo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
