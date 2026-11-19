@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3384,
+      "kimbundu_term": "Kâla",
+      "portuguese_translation": "Esteja!",
+      "definition": null,
+      "alternative_meanings": [
+        "Fique!"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kâla-1 — https://www.kimbundu.org/pt/word/kala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3385,
+      "kimbundu_term": "Kâla",
+      "portuguese_translation": "não te importes",
+      "definition": null,
+      "alternative_meanings": [
+        "não te incomodes",
+        "Deixa-te ficar"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kâla-1 — https://www.kimbundu.org/pt/word/kala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3386,
+      "kimbundu_term": "Kalabasa",
+      "portuguese_translation": "Arco-íris",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalabasa-1 — https://www.kimbundu.org/pt/word/kalabasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3387,
+      "kimbundu_term": "Kalabasa",
+      "portuguese_translation": "Pov. na margem direita do rio Lombige, região dos mahungos, circ. civ. de Samba-Cajú, distr. e prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalabasa-1 — https://www.kimbundu.org/pt/word/kalabasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3388,
+      "kimbundu_term": "Kalafate",
+      "portuguese_translation": "Calafate",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalafate-1 — https://www.kimbundu.org/pt/word/kalafate",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3389,
+      "kimbundu_term": "Kalafate",
+      "portuguese_translation": "Peixe do mar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalafate-1 — https://www.kimbundu.org/pt/word/kalafate",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3390,
+      "kimbundu_term": "Kaláji",
+      "portuguese_translation": "Madrugada",
+      "definition": null,
+      "alternative_meanings": [
+        "Dilúculo",
+        "Manhã cedo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaláji-1 — https://www.kimbundu.org/pt/word/kalaji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3391,
+      "kimbundu_term": "Kaláji",
+      "portuguese_translation": "De madrugada",
+      "definition": null,
+      "alternative_meanings": [
+        "de manhã cedo",
+        "Ao romper da aurora"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaláji-1 — https://www.kimbundu.org/pt/word/kalaji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3392,
+      "kimbundu_term": "Kalakale",
+      "portuguese_translation": "Feito, executado, trabalhado",
+      "definition": null,
+      "alternative_meanings": [
+        "Laborado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalakale-1 — https://www.kimbundu.org/pt/word/kalakale",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3393,
+      "kimbundu_term": "Kalála",
+      "portuguese_translation": "Espia em tempo de guerra",
+      "definition": null,
+      "alternative_meanings": [
+        "Esculca"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalála-1 — https://www.kimbundu.org/pt/word/kalala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
