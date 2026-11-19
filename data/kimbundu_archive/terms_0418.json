@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4284,
+      "kimbundu_term": "Kawana",
+      "portuguese_translation": "À quarta parte de um todo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kawana-1 — https://www.kimbundu.org/pt/word/kawana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4285,
+      "kimbundu_term": "Kawana",
+      "portuguese_translation": "A quarta vez",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kawana-1 — https://www.kimbundu.org/pt/word/kawana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4286,
+      "kimbundu_term": "Kawana",
+      "portuguese_translation": "O quarto dia de semana",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kawana-1 — https://www.kimbundu.org/pt/word/kawana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4287,
+      "kimbundu_term": "Káxa",
+      "portuguese_translation": "Caixa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, káxa-1 — https://www.kimbundu.org/pt/word/kaxa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4288,
+      "kimbundu_term": "Kaxá",
+      "portuguese_translation": "Caixão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaxá-1 — https://www.kimbundu.org/pt/word/kaxa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4289,
+      "kimbundu_term": "Kaxadi",
+      "portuguese_translation": "Pov. próxima de Cassoneca, circ. civ. de Icolo e Bengo, distr. e prov. de Luanda, estação de C. F. L",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaxadi-1 — https://www.kimbundu.org/pt/word/kaxadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4290,
+      "kimbundu_term": "Kaxakambi",
+      "portuguese_translation": "Milhano",
+      "definition": null,
+      "alternative_meanings": [
+        "Pequena ave de rapina",
+        "fig. Salvador"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaxakambi-1 — https://www.kimbundu.org/pt/word/kaxakambi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4291,
+      "kimbundu_term": "Kaxakatu",
+      "portuguese_translation": "Esfregação",
+      "definition": null,
+      "alternative_meanings": [
+        "Roce",
+        "Diz-se da fricção de um pequeno pau sobre uma tabuinha como meio de adivinhar o futuro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaxakatu-1 — https://www.kimbundu.org/pt/word/kaxakatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4292,
+      "kimbundu_term": "Kaxakenge",
+      "portuguese_translation": "Pequeno pássaro dentirostro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaxakenge-1 — https://www.kimbundu.org/pt/word/kaxakenge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4293,
+      "kimbundu_term": "Kaxalapolo",
+      "portuguese_translation": "Porteiro",
+      "definition": null,
+      "alternative_meanings": [
+        "Guarda que exerce vigilância"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaxalapolo-1 — https://www.kimbundu.org/pt/word/kaxalapolo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
