@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2894,
+      "kimbundu_term": "K'jíngu",
+      "portuguese_translation": "Lustre proveniente de ações insígnes ou qualidades excecionais",
+      "definition": null,
+      "alternative_meanings": [
+        "Preito",
+        "homenagem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, k'jíngu-1 — https://www.kimbundu.org/pt/word/k'jingu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2895,
+      "kimbundu_term": "K'jíngu",
+      "portuguese_translation": "Ilustre",
+      "definition": null,
+      "alternative_meanings": [
+        "digno",
+        "Honrado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, k'jíngu-1 — https://www.kimbundu.org/pt/word/k'jingu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2896,
+      "kimbundu_term": "K'lúmbe",
+      "portuguese_translation": "Santificado",
+      "definition": null,
+      "alternative_meanings": [
+        "Santo",
+        "Celebrado",
+        "bendito"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, k'lúmbe-1 — https://www.kimbundu.org/pt/word/k'lumbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2897,
+      "kimbundu_term": "K'lúmbe",
+      "portuguese_translation": "Perfeito em tudo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, k'lúmbe-1 — https://www.kimbundu.org/pt/word/k'lumbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2898,
+      "kimbundu_term": "K'lúmbe",
+      "portuguese_translation": "Dedicado a Deus",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, k'lúmbe-1 — https://www.kimbundu.org/pt/word/k'lumbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2899,
+      "kimbundu_term": "K'lúmbe",
+      "portuguese_translation": "Notável",
+      "definition": null,
+      "alternative_meanings": [
+        "muito distinto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, k'lúmbe-1 — https://www.kimbundu.org/pt/word/k'lumbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2900,
+      "kimbundu_term": "K'lúmbe",
+      "portuguese_translation": "O que foi glorificado, celebrado, canonizado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, k'lúmbe-1 — https://www.kimbundu.org/pt/word/k'lumbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2901,
+      "kimbundu_term": "K'sasamba",
+      "portuguese_translation": "Barracão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, k'sasamba-1 — https://www.kimbundu.org/pt/word/k'sasamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2902,
+      "kimbundu_term": "K'sasamba",
+      "portuguese_translation": "Estalagem",
+      "definition": null,
+      "alternative_meanings": [
+        "baiuca",
+        "tasca"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, k'sasamba-1 — https://www.kimbundu.org/pt/word/k'sasamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2903,
+      "kimbundu_term": "K'sasamba",
+      "portuguese_translation": "Presépio",
+      "definition": null,
+      "alternative_meanings": [
+        "estrebaria",
+        "estábulo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, k'sasamba-1 — https://www.kimbundu.org/pt/word/k'sasamba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
