@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4884,
+      "kimbundu_term": "Kiditadi",
+      "portuguese_translation": "Pedregulho",
+      "definition": null,
+      "alternative_meanings": [
+        "Matacão",
+        "penedo",
+        "rocha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiditadi-1 — https://www.kimbundu.org/pt/word/kiditadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4885,
+      "kimbundu_term": "Kiditamina",
+      "portuguese_translation": "Tigelada",
+      "definition": null,
+      "alternative_meanings": [
+        "O seu conteúdo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiditamina-1 — https://www.kimbundu.org/pt/word/kiditamina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4886,
+      "kimbundu_term": "Kidiuanu",
+      "portuguese_translation": "Admiração",
+      "definition": null,
+      "alternative_meanings": [
+        "espanto",
+        "Maravilha",
+        "O que causa estranheza, grande pavor"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidiuanu-1 — https://www.kimbundu.org/pt/word/kidiuanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4887,
+      "kimbundu_term": "Kidiunune",
+      "portuguese_translation": "Extensor",
+      "definition": null,
+      "alternative_meanings": [
+        "Que faz esticar ou estender"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidiunune-1 — https://www.kimbundu.org/pt/word/kidiunune",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4888,
+      "kimbundu_term": "Kidivumu",
+      "portuguese_translation": "Barrigada",
+      "definition": null,
+      "alternative_meanings": [
+        "Grande bojo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidivumu-1 — https://www.kimbundu.org/pt/word/kidivumu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4889,
+      "kimbundu_term": "Kidizunu",
+      "portuguese_translation": "Nargão",
+      "definition": null,
+      "alternative_meanings": [
+        "Penca"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidizunu-1 — https://www.kimbundu.org/pt/word/kidizunu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4890,
+      "kimbundu_term": "Kié",
+      "portuguese_translation": "Teu, tua",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kié-1 — https://www.kimbundu.org/pt/word/kie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4891,
+      "kimbundu_term": "Kié",
+      "portuguese_translation": "Da tua pessoa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kié-1 — https://www.kimbundu.org/pt/word/kie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4892,
+      "kimbundu_term": "Kié",
+      "portuguese_translation": "De ti",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kié-1 — https://www.kimbundu.org/pt/word/kie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4893,
+      "kimbundu_term": "Kié",
+      "portuguese_translation": "interrog. Quê? O que é? Como?",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kié-1 — https://www.kimbundu.org/pt/word/kie",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
