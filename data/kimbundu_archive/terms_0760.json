@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7704,
+      "kimbundu_term": "Kubondesa",
+      "portuguese_translation": "Dar mau conselho",
+      "definition": null,
+      "alternative_meanings": [
+        "lograr"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubondesa-1 — https://www.kimbundu.org/pt/word/kubondesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7705,
+      "kimbundu_term": "Kubondesa",
+      "portuguese_translation": "Mandar fazer pureia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubondesa-1 — https://www.kimbundu.org/pt/word/kubondesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7706,
+      "kimbundu_term": "Kubónga",
+      "portuguese_translation": "Apanhar",
+      "definition": null,
+      "alternative_meanings": [
+        "levantar do chão"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubónga-1 — https://www.kimbundu.org/pt/word/kubonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7707,
+      "kimbundu_term": "Kubónga",
+      "portuguese_translation": "Ato ou efeito de apanhar, colher",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubónga-1 — https://www.kimbundu.org/pt/word/kubonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7708,
+      "kimbundu_term": "Kubongola",
+      "portuguese_translation": "Diz-se da posição de ter as mãos no chão e o assento no ar. Estar empinado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubongola-1 — https://www.kimbundu.org/pt/word/kubongola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7709,
+      "kimbundu_term": "Kubongoloka",
+      "portuguese_translation": "Fazer junta",
+      "definition": null,
+      "alternative_meanings": [
+        "reunir. Formar grupo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubongoloka-1 — https://www.kimbundu.org/pt/word/kubongoloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7710,
+      "kimbundu_term": "Kubônja",
+      "portuguese_translation": "Dizer heresias, disparates. Despropositar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubônja-1 — https://www.kimbundu.org/pt/word/kubonja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7711,
+      "kimbundu_term": "Kubonona",
+      "portuguese_translation": "Passar a mão pela superfície para a limpar da água que escorre. Tirar o que estiver amarrado sem desatar o nó. É tb. int",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubonona-1 — https://www.kimbundu.org/pt/word/kubonona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7712,
+      "kimbundu_term": "Kubononoka",
+      "portuguese_translation": "Ir resvalando, escorrendo brandamente. Deslizar",
+      "definition": null,
+      "alternative_meanings": [
+        "escorregar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubononoka-1 — https://www.kimbundu.org/pt/word/kubononoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7713,
+      "kimbundu_term": "Kubononoka",
+      "portuguese_translation": "Escorrência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubononoka-1 — https://www.kimbundu.org/pt/word/kubononoka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
