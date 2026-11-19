@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6564,
+      "kimbundu_term": "Kixckelu",
+      "portuguese_translation": "Picadeiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixckelu-1 — https://www.kimbundu.org/pt/word/kixckelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6565,
+      "kimbundu_term": "Kixedi",
+      "portuguese_translation": "Ímpar",
+      "definition": null,
+      "alternative_meanings": [
+        "Desemparelhado",
+        "desirmanado",
+        "Sem segundo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixedi-1 — https://www.kimbundu.org/pt/word/kixedi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6566,
+      "kimbundu_term": "Kixedi",
+      "portuguese_translation": "Lírica",
+      "definition": null,
+      "alternative_meanings": [
+        "fome"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixedi-1 — https://www.kimbundu.org/pt/word/kixedi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6567,
+      "kimbundu_term": "Kixenenu",
+      "portuguese_translation": "Que está sujo ou pode sujar-se, emporcalhar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "Próprio da porcaria"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixenenu-1 — https://www.kimbundu.org/pt/word/kixenenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6568,
+      "kimbundu_term": "Kixenge",
+      "portuguese_translation": "Vergão",
+      "definition": null,
+      "alternative_meanings": [
+        "Vestígio que deixa na pele o golpe do azorrague, do grilhão, da corda, etc",
+        "Sulco",
+        "ruga"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixenge-1 — https://www.kimbundu.org/pt/word/kixenge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6569,
+      "kimbundu_term": "Kixete",
+      "portuguese_translation": "O que fica no fundo da vasilha que se despejou. Escorralho",
+      "definition": null,
+      "alternative_meanings": [
+        "É m. us. no pl. ixete"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixete-1 — https://www.kimbundu.org/pt/word/kixete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6570,
+      "kimbundu_term": "Kixi",
+      "portuguese_translation": "Deixação",
+      "definition": null,
+      "alternative_meanings": [
+        "deixa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixi-1 — https://www.kimbundu.org/pt/word/kixi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6571,
+      "kimbundu_term": "Kíxi",
+      "portuguese_translation": "Penhor",
+      "definition": null,
+      "alternative_meanings": [
+        "hipoteca",
+        "Sinal certo",
+        "prova",
+        "Segurança",
+        "garantia de uma dívida ou contrato"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kíxi-1 — https://www.kimbundu.org/pt/word/kixi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6572,
+      "kimbundu_term": "Kixiba",
+      "portuguese_translation": "Boto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixiba-1 — https://www.kimbundu.org/pt/word/kixiba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6573,
+      "kimbundu_term": "Kixiba",
+      "portuguese_translation": "O que perdeu o gume ou a ponta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixiba-1 — https://www.kimbundu.org/pt/word/kixiba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
