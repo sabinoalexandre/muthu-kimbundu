@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16354,
+      "kimbundu_term": "Múkangu",
+      "portuguese_translation": "Seco (pela ação do fogo)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkangu-1 — https://www.kimbundu.org/pt/word/mukangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16355,
+      "kimbundu_term": "Múkanu",
+      "portuguese_translation": "Condenação",
+      "definition": null,
+      "alternative_meanings": [
+        "indício acusador",
+        "culpa",
+        "falta"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkanu-1 — https://www.kimbundu.org/pt/word/mukanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16356,
+      "kimbundu_term": "Múkanu",
+      "portuguese_translation": "Delictuar",
+      "definition": null,
+      "alternative_meanings": [
+        "condenar: tornar culpas a"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkanu-1 — https://www.kimbundu.org/pt/word/mukanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16357,
+      "kimbundu_term": "Múkanu",
+      "portuguese_translation": "Ser encontrado em falta. Ser suscetível de condenação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkanu-1 — https://www.kimbundu.org/pt/word/mukanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16358,
+      "kimbundu_term": "Múkanze",
+      "portuguese_translation": "Desfolhador",
+      "definition": null,
+      "alternative_meanings": [
+        "colhedor"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkanze-1 — https://www.kimbundu.org/pt/word/mukanze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16359,
+      "kimbundu_term": "Múkanze",
+      "portuguese_translation": "Pessoa encarregada da apanha de frutos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkanze-1 — https://www.kimbundu.org/pt/word/mukanze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16360,
+      "kimbundu_term": "Mukanze",
+      "portuguese_translation": "Valador",
+      "definition": null,
+      "alternative_meanings": [
+        "sapador",
+        "Soldado ou agente empregado em trabalhos de valor"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukanze-1 — https://www.kimbundu.org/pt/word/mukanze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16361,
+      "kimbundu_term": "Múkanzu",
+      "portuguese_translation": "Carreiro",
+      "definition": null,
+      "alternative_meanings": [
+        "picada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkanzu-1 — https://www.kimbundu.org/pt/word/mukanzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16362,
+      "kimbundu_term": "Múkanzu",
+      "portuguese_translation": "Corte ao longo da mata para servir de limite",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkanzu-1 — https://www.kimbundu.org/pt/word/mukanzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16363,
+      "kimbundu_term": "Múkanzu",
+      "portuguese_translation": "Atalhada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkanzu-1 — https://www.kimbundu.org/pt/word/mukanzu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
