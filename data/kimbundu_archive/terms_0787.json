@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7974,
+      "kimbundu_term": "Kubúta",
+      "portuguese_translation": "Curteza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubúta-1 — https://www.kimbundu.org/pt/word/kubuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7975,
+      "kimbundu_term": "Kubutala",
+      "portuguese_translation": "Abaixar. Reduzir em comprimento ou altura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubutala-1 — https://www.kimbundu.org/pt/word/kubutala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7976,
+      "kimbundu_term": "Kubutalala",
+      "portuguese_translation": "Estar baixo, agachado, encolhido. Ter menor altura. Estar diminuído",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubutalala-1 — https://www.kimbundu.org/pt/word/kubutalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7977,
+      "kimbundu_term": "Kubutalala",
+      "portuguese_translation": "Agacho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubutalala-1 — https://www.kimbundu.org/pt/word/kubutalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7978,
+      "kimbundu_term": "Kubutama",
+      "portuguese_translation": "Incubar. Ovar",
+      "definition": null,
+      "alternative_meanings": [
+        "estar no chôço"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubutama-1 — https://www.kimbundu.org/pt/word/kubutama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7979,
+      "kimbundu_term": "Kubutama",
+      "portuguese_translation": "Incubamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubutama-1 — https://www.kimbundu.org/pt/word/kubutama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7980,
+      "kimbundu_term": "Kubutamena",
+      "portuguese_translation": "Cobrir (a galinha) bem os ovos. Chocar",
+      "definition": null,
+      "alternative_meanings": [
+        "empolhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubutamena-1 — https://www.kimbundu.org/pt/word/kubutamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7981,
+      "kimbundu_term": "Kubutamesa",
+      "portuguese_translation": "Fazer incubar. Fazer chocar (a ave)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubutamesa-1 — https://www.kimbundu.org/pt/word/kubutamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7982,
+      "kimbundu_term": "Kubutikala",
+      "portuguese_translation": "Aplacar",
+      "definition": null,
+      "alternative_meanings": [
+        "ficar tranquilo. Serenar",
+        "estar em descanso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubutikala-1 — https://www.kimbundu.org/pt/word/kubutikala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7983,
+      "kimbundu_term": "Kubutikalesa",
+      "portuguese_translation": "Tornar menos intenso. Fazer acalmar, tranquilizar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubutikalesa-1 — https://www.kimbundu.org/pt/word/kubutikalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
