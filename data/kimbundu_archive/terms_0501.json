@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5114,
+      "kimbundu_term": "Kijima",
+      "portuguese_translation": "Cenáculo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijima-1 — https://www.kimbundu.org/pt/word/kijima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5115,
+      "kimbundu_term": "Kijima",
+      "portuguese_translation": "Pátio",
+      "definition": null,
+      "alternative_meanings": [
+        "espaço vedado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijima-1 — https://www.kimbundu.org/pt/word/kijima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5116,
+      "kimbundu_term": "Kijimbe",
+      "portuguese_translation": "Esquecimento",
+      "definition": null,
+      "alternative_meanings": [
+        "olvido"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijimbe-1 — https://www.kimbundu.org/pt/word/kijimbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5117,
+      "kimbundu_term": "Kijimbe",
+      "portuguese_translation": "adj. Que se esquece facilmente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijimbe-1 — https://www.kimbundu.org/pt/word/kijimbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5118,
+      "kimbundu_term": "Kijimbe",
+      "portuguese_translation": "Cabeça de vento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijimbe-1 — https://www.kimbundu.org/pt/word/kijimbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5119,
+      "kimbundu_term": "Kijimbidise",
+      "portuguese_translation": "Que desaparece ou faz desaparecer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijimbidise-1 — https://www.kimbundu.org/pt/word/kijimbidise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5120,
+      "kimbundu_term": "Kijimbidise",
+      "portuguese_translation": "Perecível",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijimbidise-1 — https://www.kimbundu.org/pt/word/kijimbidise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5121,
+      "kimbundu_term": "Kijimbidise",
+      "portuguese_translation": "Que é pouco durável",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijimbidise-1 — https://www.kimbundu.org/pt/word/kijimbidise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5122,
+      "kimbundu_term": "Kijimbise",
+      "portuguese_translation": "Que faz esquecer, perder a memória",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijimbise-1 — https://www.kimbundu.org/pt/word/kijimbise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5123,
+      "kimbundu_term": "Kijimbise",
+      "portuguese_translation": "Que provoca esquecimento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijimbise-1 — https://www.kimbundu.org/pt/word/kijimbise",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
