@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8704,
+      "kimbundu_term": "Kuhandeka",
+      "portuguese_translation": "Esboço",
+      "definition": null,
+      "alternative_meanings": [
+        "início"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhandeka-1 — https://www.kimbundu.org/pt/word/kuhandeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8705,
+      "kimbundu_term": "Kuhandekela",
+      "portuguese_translation": "Mostrar (o princípio)",
+      "definition": null,
+      "alternative_meanings": [
+        "Revelar",
+        "dar a perceber"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhandekela-1 — https://www.kimbundu.org/pt/word/kuhandekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8706,
+      "kimbundu_term": "Kuhanduluka",
+      "portuguese_translation": "Estar exasperado, indignado, ameaçador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhanduluka-1 — https://www.kimbundu.org/pt/word/kuhanduluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8707,
+      "kimbundu_term": "Kuhanduluka",
+      "portuguese_translation": "Exacerbação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhanduluka-1 — https://www.kimbundu.org/pt/word/kuhanduluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8708,
+      "kimbundu_term": "Kuhandulukisa",
+      "portuguese_translation": "Fazer indignar, irritar",
+      "definition": null,
+      "alternative_meanings": [
+        "É também r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhandulukisa-1 — https://www.kimbundu.org/pt/word/kuhandulukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8709,
+      "kimbundu_term": "Kuhandulula",
+      "portuguese_translation": "Causar indignação a",
+      "definition": null,
+      "alternative_meanings": [
+        "Tornar colérico"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhandulula-1 — https://www.kimbundu.org/pt/word/kuhandulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8710,
+      "kimbundu_term": "Kuhanesa",
+      "portuguese_translation": "Intimidar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer ter medo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhanesa-1 — https://www.kimbundu.org/pt/word/kuhanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8711,
+      "kimbundu_term": "Kuhangalesa",
+      "portuguese_translation": "Tornar insosso",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer comida sem tempero, de água e sal"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhangalesa-1 — https://www.kimbundu.org/pt/word/kuhangalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8712,
+      "kimbundu_term": "Kuhangana",
+      "portuguese_translation": "Gracejar, troçar",
+      "definition": null,
+      "alternative_meanings": [
+        "brincar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhangana-1 — https://www.kimbundu.org/pt/word/kuhangana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8713,
+      "kimbundu_term": "Kuhangana",
+      "portuguese_translation": "Ato de gracejar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhangana-1 — https://www.kimbundu.org/pt/word/kuhangana",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
