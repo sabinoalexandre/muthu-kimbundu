@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12124,
+      "kimbundu_term": "Kutangamana",
+      "portuguese_translation": "Pôr-se de través",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutangamana-1 — https://www.kimbundu.org/pt/word/kutangamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12125,
+      "kimbundu_term": "Kutangamana",
+      "portuguese_translation": "Estender os braços ou ter um pé em cada lado da porta, do caminho, etc",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutangamana-1 — https://www.kimbundu.org/pt/word/kutangamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12126,
+      "kimbundu_term": "Kutangamana",
+      "portuguese_translation": "Estorvar",
+      "definition": null,
+      "alternative_meanings": [
+        "não deixar passar",
+        "pôr obstáculo a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutangamana-1 — https://www.kimbundu.org/pt/word/kutangamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12127,
+      "kimbundu_term": "Kutangamanesa",
+      "portuguese_translation": "Fazer atravessar, vedar, encruzar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutangamanesa-1 — https://www.kimbundu.org/pt/word/kutangamanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12128,
+      "kimbundu_term": "Kutangata",
+      "portuguese_translation": "Andar de pernas abertas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutangata-1 — https://www.kimbundu.org/pt/word/kutangata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12129,
+      "kimbundu_term": "Kutangela",
+      "portuguese_translation": "Participar",
+      "definition": null,
+      "alternative_meanings": [
+        "avisar",
+        "prevenir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutangela-1 — https://www.kimbundu.org/pt/word/kutangela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12130,
+      "kimbundu_term": "Kutangela",
+      "portuguese_translation": "Ler (para outrem ouvir)",
+      "definition": null,
+      "alternative_meanings": [
+        "contar (para que outrem saiba)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutangela-1 — https://www.kimbundu.org/pt/word/kutangela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12131,
+      "kimbundu_term": "Kutangela",
+      "portuguese_translation": "Dar conhecimento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutangela-1 — https://www.kimbundu.org/pt/word/kutangela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12132,
+      "kimbundu_term": "Kutangesa",
+      "portuguese_translation": "Mandar ler, contar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutangesa-1 — https://www.kimbundu.org/pt/word/kutangesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12133,
+      "kimbundu_term": "Kutangesa",
+      "portuguese_translation": "Namorar",
+      "definition": null,
+      "alternative_meanings": [
+        "propor casamento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutangesa-1 — https://www.kimbundu.org/pt/word/kutangesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
