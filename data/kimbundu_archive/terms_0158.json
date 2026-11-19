@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1684,
+      "kimbundu_term": "Fúlu",
+      "portuguese_translation": "Leito e seus pertences",
+      "definition": null,
+      "alternative_meanings": [
+        "cama",
+        "nome genérico de tudo sobre que o homem ou animal se deita para dormir (veja-se kiriri)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fúlu-1 — https://www.kimbundu.org/pt/word/fulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1685,
+      "kimbundu_term": "Fúlu",
+      "portuguese_translation": "Míope (veja-se kifulu)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fúlu-1 — https://www.kimbundu.org/pt/word/fulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1686,
+      "kimbundu_term": "Fúluta",
+      "portuguese_translation": "(do português) Fruta (veja-se kibundu)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fúluta-1 — https://www.kimbundu.org/pt/word/fuluta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1687,
+      "kimbundu_term": "Fúm",
+      "portuguese_translation": "Diz-se da queima da pólvora (sem estrondo) ou semelhante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fúm-1 — https://www.kimbundu.org/pt/word/fum",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1688,
+      "kimbundu_term": "Fuma",
+      "portuguese_translation": "Lustre proveniente de ações insignes ou de qualidades excecionais",
+      "definition": null,
+      "alternative_meanings": [
+        "aura",
+        "glória",
+        "fama"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fuma-1 — https://www.kimbundu.org/pt/word/fuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1689,
+      "kimbundu_term": "Fuma",
+      "portuguese_translation": "Reputação ou apreciação favorável a uma pessoa",
+      "definition": null,
+      "alternative_meanings": [
+        "renome"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fuma-1 — https://www.kimbundu.org/pt/word/fuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1690,
+      "kimbundu_term": "Fúma",
+      "portuguese_translation": "Prego de cabeça, dourado ou prateado",
+      "definition": null,
+      "alternative_meanings": [
+        "tacha",
+        "prego amarelo para adornar caixões, cestos, etc"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fúma-1 — https://www.kimbundu.org/pt/word/fuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1691,
+      "kimbundu_term": "Fúmbe",
+      "portuguese_translation": "Diz-se de certa espécie de dendém com pequeno caroço",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fúmbe-1 — https://www.kimbundu.org/pt/word/fumbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1692,
+      "kimbundu_term": "Fúmbe",
+      "portuguese_translation": "Imerso",
+      "definition": null,
+      "alternative_meanings": [
+        "embebido"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fúmbe-1 — https://www.kimbundu.org/pt/word/fumbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1693,
+      "kimbundu_term": "Fumu",
+      "portuguese_translation": "Amo",
+      "definition": null,
+      "alternative_meanings": [
+        "senhor",
+        "dono da casa ou da terra (com relação aos criados ou súbditos)",
+        "fidalgo",
+        "soba (no Congo) (veja-se ngana, muêne)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fumu-1 — https://www.kimbundu.org/pt/word/fumu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
