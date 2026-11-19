@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10464,
+      "kimbundu_term": "Kulúnda",
+      "portuguese_translation": "Manter em bom estado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulúnda-1 — https://www.kimbundu.org/pt/word/kulunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10465,
+      "kimbundu_term": "Kulúnda",
+      "portuguese_translation": "Kurilunda, v. r. Guardar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "conservar-se",
+        "Reservar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulúnda-1 — https://www.kimbundu.org/pt/word/kulunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10466,
+      "kimbundu_term": "Kulúnda",
+      "portuguese_translation": "Kulundama, e intr. Cavalgar",
+      "definition": null,
+      "alternative_meanings": [
+        "montar. Deitar-se sobre",
+        "estar por cima de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulúnda-1 — https://www.kimbundu.org/pt/word/kulunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10467,
+      "kimbundu_term": "Kulúnda",
+      "portuguese_translation": "Kurilundama, v. r. Estar um em cima de outro",
+      "definition": null,
+      "alternative_meanings": [
+        "Sobrepor-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulúnda-1 — https://www.kimbundu.org/pt/word/kulunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10468,
+      "kimbundu_term": "Kulundamana",
+      "portuguese_translation": "Exagerar",
+      "definition": null,
+      "alternative_meanings": [
+        "avolumar",
+        "encarecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulundamana-1 — https://www.kimbundu.org/pt/word/kulundamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10469,
+      "kimbundu_term": "Kulundamana",
+      "portuguese_translation": "Exageração",
+      "definition": null,
+      "alternative_meanings": [
+        "hipérbole"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulundamana-1 — https://www.kimbundu.org/pt/word/kulundamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10470,
+      "kimbundu_term": "Kulundamanesa",
+      "portuguese_translation": "Tornar exagerado",
+      "definition": null,
+      "alternative_meanings": [
+        "hiperbólico"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulundamanesa-1 — https://www.kimbundu.org/pt/word/kulundamanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10471,
+      "kimbundu_term": "Kulundamesa",
+      "portuguese_translation": "Fazer cavalgar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulundamesa-1 — https://www.kimbundu.org/pt/word/kulundamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10472,
+      "kimbundu_term": "Kulundamesa",
+      "portuguese_translation": "Mandar deitar em cima de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulundamesa-1 — https://www.kimbundu.org/pt/word/kulundamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10473,
+      "kimbundu_term": "Kulundila",
+      "portuguese_translation": "Conservar algo pertencente a outrem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulundila-1 — https://www.kimbundu.org/pt/word/kulundila",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
