@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 20114,
+      "kimbundu_term": "Xisa",
+      "portuguese_translation": "Pov. e sede do posto civ. deste nome, circ., prov. e distr. de Malange, 14.683 hab. e est. postal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xisa-1 — https://www.kimbundu.org/pt/word/xisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20115,
+      "kimbundu_term": "Xite",
+      "portuguese_translation": "Tapado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xite-1 — https://www.kimbundu.org/pt/word/xite",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20116,
+      "kimbundu_term": "Xite",
+      "portuguese_translation": "Planta esterculiácea",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xite-1 — https://www.kimbundu.org/pt/word/xite",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20117,
+      "kimbundu_term": "Xitu",
+      "portuguese_translation": "Carne",
+      "definition": null,
+      "alternative_meanings": [
+        "polpa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xitu-1 — https://www.kimbundu.org/pt/word/xitu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20118,
+      "kimbundu_term": "Xitu",
+      "portuguese_translation": "Corpo",
+      "definition": null,
+      "alternative_meanings": [
+        "matéria (em oposição ao espírito)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xitu-1 — https://www.kimbundu.org/pt/word/xitu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20119,
+      "kimbundu_term": "Xitu",
+      "portuguese_translation": "Caça",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xitu-1 — https://www.kimbundu.org/pt/word/xitu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20120,
+      "kimbundu_term": "Xiúme",
+      "portuguese_translation": "Pov. e sede do posto deste nome, circ. clv. dos Bundas, distr. do Moxico, prov. do Bié, 9 528 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xiúme-1 — https://www.kimbundu.org/pt/word/xiume",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20121,
+      "kimbundu_term": "Xixi",
+      "portuguese_translation": "Esperteza",
+      "definition": null,
+      "alternative_meanings": [
+        "insolência"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xixi-1 — https://www.kimbundu.org/pt/word/xixi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20122,
+      "kimbundu_term": "Xixikinya",
+      "portuguese_translation": "Formiga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xixikinya-1 — https://www.kimbundu.org/pt/word/xixikinya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20123,
+      "kimbundu_term": "Xlenge",
+      "portuguese_translation": "Pov. e sede do posto deste nome, circ. civ. da Quibala, dist. do Quanza-Sul, prov. de Benguela, 12.456 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xlenge-1 — https://www.kimbundu.org/pt/word/xlenge",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
