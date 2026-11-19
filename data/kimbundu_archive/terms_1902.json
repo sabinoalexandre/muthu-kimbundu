@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19124,
+      "kimbundu_term": "Tanga",
+      "portuguese_translation": "Entretela",
+      "definition": null,
+      "alternative_meanings": [
+        "estofo",
+        "chumaço"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tanga-1 — https://www.kimbundu.org/pt/word/tanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19125,
+      "kimbundu_term": "Tanga",
+      "portuguese_translation": "Rede do tipoia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tanga-1 — https://www.kimbundu.org/pt/word/tanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19126,
+      "kimbundu_term": "Tánga",
+      "portuguese_translation": "Abrev. de ritanga. Abóbora",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tánga-1 — https://www.kimbundu.org/pt/word/tanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19127,
+      "kimbundu_term": "Tange",
+      "portuguese_translation": "Lido. Sabido",
+      "definition": null,
+      "alternative_meanings": [
+        "contado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tange-1 — https://www.kimbundu.org/pt/word/tange",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19128,
+      "kimbundu_term": "Tangu",
+      "portuguese_translation": "Esgalho",
+      "definition": null,
+      "alternative_meanings": [
+        "haste",
+        "ramo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tangu-1 — https://www.kimbundu.org/pt/word/tangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19129,
+      "kimbundu_term": "Tângu",
+      "portuguese_translation": "Peixinho de rio, de que se alimentam certas aves",
+      "definition": null,
+      "alternative_meanings": [
+        "—, kûria kua kansôue"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tângu-1 — https://www.kimbundu.org/pt/word/tangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19130,
+      "kimbundu_term": "Tângu",
+      "portuguese_translation": "É mais usado no plural jitângu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tângu-1 — https://www.kimbundu.org/pt/word/tangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19131,
+      "kimbundu_term": "Tánu",
+      "portuguese_translation": "num. card. (IX) Cinco. O número 5. Grupo de cinco coisas ou pessoas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tánu-1 — https://www.kimbundu.org/pt/word/tanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19132,
+      "kimbundu_term": "Tat'ê",
+      "portuguese_translation": "Ó pai!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tat'ê-1 — https://www.kimbundu.org/pt/word/tat'e",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19133,
+      "kimbundu_term": "Tat'ê",
+      "portuguese_translation": "Grito de clamor",
+      "definition": null,
+      "alternative_meanings": [
+        "chamada"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tat'ê-1 — https://www.kimbundu.org/pt/word/tat'e",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
