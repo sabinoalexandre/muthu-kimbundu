@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2924,
+      "kimbundu_term": "Kábaba",
+      "portuguese_translation": "Planta arbustiva fam. das leguminosas (craibia baptistarum), de utilidade ornamental",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kábaba-2 — https://www.kimbundu.org/pt/word/kababa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2925,
+      "kimbundu_term": "Kábadi",
+      "portuguese_translation": "(IX) Diz-se da fuba escura, feita de makoka",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kábadi-1 — https://www.kimbundu.org/pt/word/kabadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2926,
+      "kimbundu_term": "Kábadi",
+      "portuguese_translation": "De cor escura. Turvo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kábadi-1 — https://www.kimbundu.org/pt/word/kabadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2927,
+      "kimbundu_term": "Kabáia",
+      "portuguese_translation": "Arbusto espinhoso fam. das caparidáceas (boscia microphyla,) de propriedades alimentícias e medicinais",
+      "definition": null,
+      "alternative_meanings": [
+        "Alcaparreira",
+        "Seu fruto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kabáia-1 — https://www.kimbundu.org/pt/word/kabaia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2928,
+      "kimbundu_term": "Kabakata",
+      "portuguese_translation": "Inofensivo",
+      "definition": null,
+      "alternative_meanings": [
+        "inocente",
+        "puro",
+        "Que não tem maldade ou culpa",
+        "Ingénuo",
+        "Comungado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kabakata-1 — https://www.kimbundu.org/pt/word/kabakata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2929,
+      "kimbundu_term": "Kabakata",
+      "portuguese_translation": "Da comunhão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kabakata-1 — https://www.kimbundu.org/pt/word/kabakata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2930,
+      "kimbundu_term": "Kabakata",
+      "portuguese_translation": "Casto",
+      "definition": null,
+      "alternative_meanings": [
+        "imaculado",
+        "puro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kabakata-2 — https://www.kimbundu.org/pt/word/kabakata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2931,
+      "kimbundu_term": "Kabalata",
+      "portuguese_translation": "Pau delgado e curto atado nas extremidades e que se mete na boca dos animais ferozes para não morderem",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Impedimento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kabalata-1 — https://www.kimbundu.org/pt/word/kabalata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2932,
+      "kimbundu_term": "Kabalu",
+      "portuguese_translation": "Cavalo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kabalu-1 — https://www.kimbundu.org/pt/word/kabalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2933,
+      "kimbundu_term": "Kabanda",
+      "portuguese_translation": "Que depende só de um superior ou chefe (do qual faz as vezes). Imediato",
+      "definition": null,
+      "alternative_meanings": [
+        "subalterno"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kabanda-1 — https://www.kimbundu.org/pt/word/kabanda",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
