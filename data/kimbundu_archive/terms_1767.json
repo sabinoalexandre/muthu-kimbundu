@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17774,
+      "kimbundu_term": "Ndólo",
+      "portuguese_translation": "Do português 'dor'",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndólo-1 — https://www.kimbundu.org/pt/word/ndolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17775,
+      "kimbundu_term": "Ndololo",
+      "portuguese_translation": "Saliente",
+      "definition": null,
+      "alternative_meanings": [
+        "linguareiro",
+        "falador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndololo-1 — https://www.kimbundu.org/pt/word/ndololo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17776,
+      "kimbundu_term": "Ndololo",
+      "portuguese_translation": "Aurícula",
+      "definition": null,
+      "alternative_meanings": [
+        "pavilhão do ouvido"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndololo-1 — https://www.kimbundu.org/pt/word/ndololo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17777,
+      "kimbundu_term": "Ndololo",
+      "portuguese_translation": "o que não guarda segredos",
+      "definition": null,
+      "alternative_meanings": [
+        "badaleiro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndololo-1 — https://www.kimbundu.org/pt/word/ndololo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17778,
+      "kimbundu_term": "Ndómba",
+      "portuguese_translation": "Tira de crepe que se usa em sinal de luto",
+      "definition": null,
+      "alternative_meanings": [
+        "cordel tingido de preto que as mulheres trazem sobre os panos",
+        "crepe",
+        "cordão que os frades e freiras trazem atado à cintura",
+        "escuridão",
+        "obscuridade",
+        "sombra",
+        "tristeza",
+        "pena",
+        "mágoa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndómba-1 — https://www.kimbundu.org/pt/word/ndomba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17779,
+      "kimbundu_term": "Ndómbe",
+      "portuguese_translation": "Sombrio",
+      "definition": null,
+      "alternative_meanings": [
+        "em que não há claridade ou luz suficiente",
+        "obscuro",
+        "que não é claro",
+        "baço",
+        "moreno",
+        "trigueiro",
+        "empanado, sem o brilho que lhe é próprio",
+        "preto, mate. fig.: falto de alegria",
+        "triste"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndómbe-1 — https://www.kimbundu.org/pt/word/ndombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17780,
+      "kimbundu_term": "Ndómbe",
+      "portuguese_translation": "Povoação e sede do posto civil do mesmo nome, concelho, distrito e província de Benguela, com 7.763 habitantes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndómbe-1 — https://www.kimbundu.org/pt/word/ndombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17781,
+      "kimbundu_term": "Ndómbe",
+      "portuguese_translation": "Ndómbe a polo: certa qualidade de cobra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndómbe-1 — https://www.kimbundu.org/pt/word/ndombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17782,
+      "kimbundu_term": "Ndombo",
+      "portuguese_translation": "Gema que se desenvolve na semente",
+      "definition": null,
+      "alternative_meanings": [
+        "Grelo",
+        "Parte da semente de que se forma a planta",
+        "Germe",
+        "Plântula",
+        "Galadura"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndombo-1 — https://www.kimbundu.org/pt/word/ndombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17783,
+      "kimbundu_term": "Ndombo-ndombo",
+      "portuguese_translation": "Haste das plantas crucíferas em que se há-de abrir a flor",
+      "definition": null,
+      "alternative_meanings": [
+        "grelo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndombo-ndombo-1 — https://www.kimbundu.org/pt/word/ndombo-ndombo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
