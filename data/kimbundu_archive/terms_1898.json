@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19084,
+      "kimbundu_term": "Suwalu",
+      "portuguese_translation": "Suor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, suwalu-1 — https://www.kimbundu.org/pt/word/suwalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19085,
+      "kimbundu_term": "Swalala",
+      "portuguese_translation": "Salalé",
+      "definition": null,
+      "alternative_meanings": [
+        "caprim, tb. conhecido por «formiga branca»",
+        "Termite"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, swalala-1 — https://www.kimbundu.org/pt/word/swalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19086,
+      "kimbundu_term": "Swalala",
+      "portuguese_translation": "fig. Inimigo",
+      "definition": null,
+      "alternative_meanings": [
+        "traidor"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, swalala-1 — https://www.kimbundu.org/pt/word/swalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19087,
+      "kimbundu_term": "Swiji",
+      "portuguese_translation": "Surucucú",
+      "definition": null,
+      "alternative_meanings": [
+        "cobra cuspideira",
+        "Noja"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, swiji-1 — https://www.kimbundu.org/pt/word/swiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19088,
+      "kimbundu_term": "Tá!",
+      "portuguese_translation": "Expressão comparativa da denotação de um tiro de pistola, estalo de uma bofetada, etc. Zás",
+      "definition": null,
+      "alternative_meanings": [
+        "trás"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tá!-1 — https://www.kimbundu.org/pt/word/ta%21",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19089,
+      "kimbundu_term": "Tâbu",
+      "portuguese_translation": "Abrev. de ritabu. Porto",
+      "definition": null,
+      "alternative_meanings": [
+        "fundeadouro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tâbu-1 — https://www.kimbundu.org/pt/word/tabu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19090,
+      "kimbundu_term": "Tadi",
+      "portuguese_translation": "Abrev. de ritari. Pedra",
+      "definition": null,
+      "alternative_meanings": [
+        "tablaz",
+        "tampo. Pedra da lei ou de afiar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tadi-1 — https://www.kimbundu.org/pt/word/tadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19091,
+      "kimbundu_term": "Tadi",
+      "portuguese_translation": "Povoação do concelho de S. A. do Zaire, distrito do Congo, província de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tadi-1 — https://www.kimbundu.org/pt/word/tadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19092,
+      "kimbundu_term": "Tádidi",
+      "portuguese_translation": "Tarde",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tádidi-1 — https://www.kimbundu.org/pt/word/tadidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19093,
+      "kimbundu_term": "Tahúi",
+      "portuguese_translation": "Planta fam. das ampelídeas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tahúi-1 — https://www.kimbundu.org/pt/word/tahui",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
