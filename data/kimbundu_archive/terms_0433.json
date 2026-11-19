@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4434,
+      "kimbundu_term": "Kiá",
+      "portuguese_translation": "Neste momento, agora, já",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiá-1 — https://www.kimbundu.org/pt/word/kia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4435,
+      "kimbundu_term": "Kiá",
+      "portuguese_translation": "De antemão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiá-1 — https://www.kimbundu.org/pt/word/kia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4436,
+      "kimbundu_term": "Kiá",
+      "portuguese_translation": "Interrogativo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiá-1 — https://www.kimbundu.org/pt/word/kia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4437,
+      "kimbundu_term": "Kiádi",
+      "portuguese_translation": "Demonstração cativante de benevolência, afeição ou amor",
+      "definition": null,
+      "alternative_meanings": [
+        "Carinho",
+        "Prova de simpatia, de bondade",
+        "Fineza",
+        "graça",
+        "prazer"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiádi-1 — https://www.kimbundu.org/pt/word/kiadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4438,
+      "kimbundu_term": "Kiáie",
+      "portuguese_translation": "Teu",
+      "definition": null,
+      "alternative_meanings": [
+        "tua"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiáie-1 — https://www.kimbundu.org/pt/word/kiaie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4439,
+      "kimbundu_term": "Kiáie",
+      "portuguese_translation": "Da tua pessoa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiáie-1 — https://www.kimbundu.org/pt/word/kiaie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4440,
+      "kimbundu_term": "Kiakale",
+      "portuguese_translation": "Interjeição que denota concordância, consentimento. Seja. Oxalá. Amém",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, conjunção, disjuntivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiakale-1 — https://www.kimbundu.org/pt/word/kiakale",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4441,
+      "kimbundu_term": "Kiakale",
+      "portuguese_translation": "Conjunção disjuntiva. Ou...quer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, conjunção, disjuntivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiakale-1 — https://www.kimbundu.org/pt/word/kiakale",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4442,
+      "kimbundu_term": "Kiakamukuá",
+      "portuguese_translation": "Não este. Outro. Diferente. Não igual. Mais um",
+      "definition": null,
+      "alternative_meanings": [
+        "seguinte. Precedente",
+        "restante"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiakamukuá-1 — https://www.kimbundu.org/pt/word/kiakamukua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4443,
+      "kimbundu_term": "Kiáku",
+      "portuguese_translation": "Lenço. Tecido próprio para a gente se assoar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiáku-1 — https://www.kimbundu.org/pt/word/kiaku",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
