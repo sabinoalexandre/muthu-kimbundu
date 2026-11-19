@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6934,
+      "kimbundu_term": "Kuaukísa",
+      "portuguese_translation": "Fazer chamuscar, assar levemente. Mandar passar pela chama",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuaukísa-1 — https://www.kimbundu.org/pt/word/kuaukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6935,
+      "kimbundu_term": "Kuaúla",
+      "portuguese_translation": "Chamuscar",
+      "definition": null,
+      "alternative_meanings": [
+        "passar pela chama"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuaúla-1 — https://www.kimbundu.org/pt/word/kuaula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6936,
+      "kimbundu_term": "Kuaúla",
+      "portuguese_translation": "Queimar levemente. É tb. sub",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuaúla-1 — https://www.kimbundu.org/pt/word/kuaula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6937,
+      "kimbundu_term": "Kuaúla",
+      "portuguese_translation": "Kuriaúla",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuaúla-1 — https://www.kimbundu.org/pt/word/kuaula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6938,
+      "kimbundu_term": "Kuáza",
+      "portuguese_translation": "Coçar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuáza-1 — https://www.kimbundu.org/pt/word/kuaza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6939,
+      "kimbundu_term": "Kûba",
+      "portuguese_translation": "Legar",
+      "definition": null,
+      "alternative_meanings": [
+        "dar para sempre"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kûba-1 — https://www.kimbundu.org/pt/word/kuba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6940,
+      "kimbundu_term": "Kûba",
+      "portuguese_translation": "Deixar, dar de vez",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kûba-1 — https://www.kimbundu.org/pt/word/kuba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6941,
+      "kimbundu_term": "Kubába",
+      "portuguese_translation": "e intr. Afagar",
+      "definition": null,
+      "alternative_meanings": [
+        "ninar",
+        "acalentar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubába-1 — https://www.kimbundu.org/pt/word/kubaba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6942,
+      "kimbundu_term": "Kubába",
+      "portuguese_translation": "Bater lentamente para fazer adormecer (a criança)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubába-1 — https://www.kimbundu.org/pt/word/kubaba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6943,
+      "kimbundu_term": "Kubába",
+      "portuguese_translation": "Acariciar",
+      "definition": null,
+      "alternative_meanings": [
+        "embair"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubába-1 — https://www.kimbundu.org/pt/word/kubaba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
