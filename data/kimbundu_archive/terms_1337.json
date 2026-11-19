@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13474,
+      "kimbundu_term": "Kuzánda",
+      "portuguese_translation": "Tornar-se grande",
+      "definition": null,
+      "alternative_meanings": [
+        "próspero, poderoso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzánda-1 — https://www.kimbundu.org/pt/word/kuzanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13475,
+      "kimbundu_term": "Kuzánda",
+      "portuguese_translation": "Floração",
+      "definition": null,
+      "alternative_meanings": [
+        "vicejo",
+        "verdor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzánda-1 — https://www.kimbundu.org/pt/word/kuzanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13476,
+      "kimbundu_term": "Kuzánda",
+      "portuguese_translation": "Grandeza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzánda-1 — https://www.kimbundu.org/pt/word/kuzanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13477,
+      "kimbundu_term": "Kuzandeleka",
+      "portuguese_translation": "Florescer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzandeleka-1 — https://www.kimbundu.org/pt/word/kuzandeleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13478,
+      "kimbundu_term": "Kuzandeleka",
+      "portuguese_translation": "Alastrar",
+      "definition": null,
+      "alternative_meanings": [
+        "estender-se (as cucurbitas)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzandeleka-1 — https://www.kimbundu.org/pt/word/kuzandeleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13479,
+      "kimbundu_term": "Kuzandesa",
+      "portuguese_translation": "Viçar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer crescer, florir (a planta)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzandesa-1 — https://www.kimbundu.org/pt/word/kuzandesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13480,
+      "kimbundu_term": "Kuzandesa",
+      "portuguese_translation": "Fazer ter grande copa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzandesa-1 — https://www.kimbundu.org/pt/word/kuzandesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13481,
+      "kimbundu_term": "Kuzánga",
+      "portuguese_translation": "Estragar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzánga-1 — https://www.kimbundu.org/pt/word/kuzanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13482,
+      "kimbundu_term": "Kuzánga",
+      "portuguese_translation": "Danar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzánga-1 — https://www.kimbundu.org/pt/word/kuzanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13483,
+      "kimbundu_term": "Kuzánga",
+      "portuguese_translation": "Esbanjar",
+      "definition": null,
+      "alternative_meanings": [
+        "desperdiçar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzánga-1 — https://www.kimbundu.org/pt/word/kuzanga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
