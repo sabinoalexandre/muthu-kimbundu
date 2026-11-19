@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6254,
+      "kimbundu_term": "Kisuma",
+      "portuguese_translation": "Determinação (que não depende de regra ou lei)",
+      "definition": null,
+      "alternative_meanings": [
+        "Arbítrio",
+        "juízo",
+        "opinião",
+        "parecer"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisuma-1 — https://www.kimbundu.org/pt/word/kisuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6255,
+      "kimbundu_term": "Kisumbe",
+      "portuguese_translation": "Que pode ser comprado",
+      "definition": null,
+      "alternative_meanings": [
+        "Alienável"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisumbe-1 — https://www.kimbundu.org/pt/word/kisumbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6256,
+      "kimbundu_term": "Kisumbe",
+      "portuguese_translation": "Artigo de negócio",
+      "definition": null,
+      "alternative_meanings": [
+        "mercadoria"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisumbe-1 — https://www.kimbundu.org/pt/word/kisumbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6257,
+      "kimbundu_term": "Kisumbe",
+      "portuguese_translation": "Tira de pano preto que se lança ao pescoço em sinal de luto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisumbe-1 — https://www.kimbundu.org/pt/word/kisumbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6258,
+      "kimbundu_term": "Kisumbe",
+      "portuguese_translation": "Fumo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisumbe-1 — https://www.kimbundu.org/pt/word/kisumbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6259,
+      "kimbundu_term": "Kisumbu",
+      "portuguese_translation": "Cousa comprada",
+      "definition": null,
+      "alternative_meanings": [
+        "Aquisição",
+        "compra"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisumbu-1 — https://www.kimbundu.org/pt/word/kisumbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6260,
+      "kimbundu_term": "Kisumbúla",
+      "portuguese_translation": "Armadilha",
+      "definition": null,
+      "alternative_meanings": [
+        "cilada",
+        "Esconderijo em que se espera a caça",
+        "emboscada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisumbúla-1 — https://www.kimbundu.org/pt/word/kisumbula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6261,
+      "kimbundu_term": "Kisumbúla",
+      "portuguese_translation": "Negaça",
+      "definition": null,
+      "alternative_meanings": [
+        "Engodo",
+        "logro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisumbúla-1 — https://www.kimbundu.org/pt/word/kisumbula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6262,
+      "kimbundu_term": "Kisume",
+      "portuguese_translation": "Milagreiro",
+      "definition": null,
+      "alternative_meanings": [
+        "maravilhoso",
+        "Que causa admiração"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisume-1 — https://www.kimbundu.org/pt/word/kisume",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6263,
+      "kimbundu_term": "Kisungidilu",
+      "portuguese_translation": "O objeto que dá lugar ao serão",
+      "definition": null,
+      "alternative_meanings": [
+        "Cousa com que se passa o começo da noite"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisungidilu-1 — https://www.kimbundu.org/pt/word/kisungidilu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
