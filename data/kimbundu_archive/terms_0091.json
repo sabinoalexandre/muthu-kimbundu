@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1014,
+      "kimbundu_term": "Dikuinyi",
+      "portuguese_translation": "Dezena",
+      "definition": null,
+      "alternative_meanings": [
+        "dez. O número 10"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikuinyi-1 — https://www.kimbundu.org/pt/word/dikuinyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1015,
+      "kimbundu_term": "Dikujinya",
+      "portuguese_translation": "Cozinha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikujinya-1 — https://www.kimbundu.org/pt/word/dikujinya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1016,
+      "kimbundu_term": "Dikukutilu",
+      "portuguese_translation": "Enxugadouro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikukutilu-1 — https://www.kimbundu.org/pt/word/dikukutilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1017,
+      "kimbundu_term": "Dikule",
+      "portuguese_translation": "Anebo impúbere",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikule-1 — https://www.kimbundu.org/pt/word/dikule",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1018,
+      "kimbundu_term": "Dikúlu",
+      "portuguese_translation": "Esfera",
+      "definition": null,
+      "alternative_meanings": [
+        "redondeza. Orbe. A terra",
+        "o mundo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikúlu-1 — https://www.kimbundu.org/pt/word/dikulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1019,
+      "kimbundu_term": "Díkulu",
+      "portuguese_translation": "O espírito de um antepassado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, díkulu-1 — https://www.kimbundu.org/pt/word/dikulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1020,
+      "kimbundu_term": "Dikulukubua",
+      "portuguese_translation": "Salamandra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikulukubua-1 — https://www.kimbundu.org/pt/word/dikulukubua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1021,
+      "kimbundu_term": "Dikulukumba",
+      "portuguese_translation": "Papeira",
+      "definition": null,
+      "alternative_meanings": [
+        "papada. Bócio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikulukumba-1 — https://www.kimbundu.org/pt/word/dikulukumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1022,
+      "kimbundu_term": "Dikuluma",
+      "portuguese_translation": "Mutismo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikuluma-1 — https://www.kimbundu.org/pt/word/dikuluma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1023,
+      "kimbundu_term": "Dikuluma",
+      "portuguese_translation": "Estado de quem se abstém de falar ou de fazer ruído",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikuluma-1 — https://www.kimbundu.org/pt/word/dikuluma",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
