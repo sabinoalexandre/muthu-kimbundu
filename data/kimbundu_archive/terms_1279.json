@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12894,
+      "kimbundu_term": "Kuuéua",
+      "portuguese_translation": "Kuriuéua e r. Estar em festa",
+      "definition": null,
+      "alternative_meanings": [
+        "encher-se de júbilo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuuéua-1 — https://www.kimbundu.org/pt/word/kuueua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12895,
+      "kimbundu_term": "Kuuéua",
+      "portuguese_translation": "Gozar",
+      "definition": null,
+      "alternative_meanings": [
+        "regozijar-se",
+        "estar satisfeito"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuuéua-1 — https://www.kimbundu.org/pt/word/kuueua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12896,
+      "kimbundu_term": "Kuueuésa",
+      "portuguese_translation": "Jubilar",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer ter alegria",
+        "dar prazer a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuueuésa-1 — https://www.kimbundu.org/pt/word/kuueuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12897,
+      "kimbundu_term": "Kuueuésa",
+      "portuguese_translation": "Isuriueuesa, v. r. Tornar-se jucundo, jubiloso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuueuésa-1 — https://www.kimbundu.org/pt/word/kuueuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12898,
+      "kimbundu_term": "Kuuikisa",
+      "portuguese_translation": "Mandar acender (lume)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuuikisa-1 — https://www.kimbundu.org/pt/word/kuuikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12899,
+      "kimbundu_term": "Kuuilu",
+      "portuguese_translation": "Demasia",
+      "definition": null,
+      "alternative_meanings": [
+        "O que se dá além do peso ou medida certa",
+        "Quebra",
+        "tara"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuuilu-1 — https://www.kimbundu.org/pt/word/kuuilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12900,
+      "kimbundu_term": "Kuúnda",
+      "portuguese_translation": "Ungir",
+      "definition": null,
+      "alternative_meanings": [
+        "Purificar",
+        "batizar",
+        "tornar ditoso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuúnda-1 — https://www.kimbundu.org/pt/word/kuunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12901,
+      "kimbundu_term": "Kuúnda",
+      "portuguese_translation": "Ato de ungir",
+      "definition": null,
+      "alternative_meanings": [
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuúnda-1 — https://www.kimbundu.org/pt/word/kuunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12902,
+      "kimbundu_term": "Kuundúla",
+      "portuguese_translation": "Crismar",
+      "definition": null,
+      "alternative_meanings": [
+        "confirmar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuundúla-1 — https://www.kimbundu.org/pt/word/kuundula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12903,
+      "kimbundu_term": "Kuvala",
+      "portuguese_translation": "Delivrar",
+      "definition": null,
+      "alternative_meanings": [
+        "ter filho",
+        "parir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvala-1 — https://www.kimbundu.org/pt/word/kuvala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
