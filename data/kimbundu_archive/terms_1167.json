@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11774,
+      "kimbundu_term": "Kusóta",
+      "portuguese_translation": "Encarnar",
+      "definition": null,
+      "alternative_meanings": [
+        "Cicatrizar",
+        "criar carne (a ferida)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusóta-1 — https://www.kimbundu.org/pt/word/kusota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11775,
+      "kimbundu_term": "Kusóta",
+      "portuguese_translation": "Procura",
+      "definition": null,
+      "alternative_meanings": [
+        "indagação",
+        "busca"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusóta-1 — https://www.kimbundu.org/pt/word/kusota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11776,
+      "kimbundu_term": "Kusotalala",
+      "portuguese_translation": "Estar encharcado, embebido em líquido",
+      "definition": null,
+      "alternative_meanings": [
+        "Estar úmido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusotalala-1 — https://www.kimbundu.org/pt/word/kusotalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11777,
+      "kimbundu_term": "Kusotalalesa",
+      "portuguese_translation": "Encharcar, molhar muito",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer criar umidade"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusotalalesa-1 — https://www.kimbundu.org/pt/word/kusotalalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11778,
+      "kimbundu_term": "Kusotesa",
+      "portuguese_translation": "Mandar procurar, buscar",
+      "definition": null,
+      "alternative_meanings": [
+        "É tb r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusotesa-1 — https://www.kimbundu.org/pt/word/kusotesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11779,
+      "kimbundu_term": "Kusotola",
+      "portuguese_translation": "Coucear",
+      "definition": null,
+      "alternative_meanings": [
+        "dar pontapé"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusotola-1 — https://www.kimbundu.org/pt/word/kusotola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11780,
+      "kimbundu_term": "Kúsua",
+      "portuguese_translation": "Fouçar",
+      "definition": null,
+      "alternative_meanings": [
+        "Segar, arrancar capim",
+        "Arregoar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsua-1 — https://www.kimbundu.org/pt/word/kusua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11781,
+      "kimbundu_term": "Kusuámba",
+      "portuguese_translation": "Arrufar",
+      "definition": null,
+      "alternative_meanings": [
+        "zangar",
+        "Diz-se da mulher que, amuada, espera ser rogada pelo marido para regressar à casa"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuámba-1 — https://www.kimbundu.org/pt/word/kusuamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11782,
+      "kimbundu_term": "Kusuámba",
+      "portuguese_translation": "Arrufo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuámba-1 — https://www.kimbundu.org/pt/word/kusuamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11783,
+      "kimbundu_term": "Kusuánga",
+      "portuguese_translation": "Pilar feijão para dele extrair o bicho que o estraga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuánga-1 — https://www.kimbundu.org/pt/word/kusuanga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
