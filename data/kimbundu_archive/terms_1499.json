@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15094,
+      "kimbundu_term": "Mbamba",
+      "portuguese_translation": "Mbamba huri-huri: planta arbustiva medicinal, de fruto comestível, cuja raiz se emprega em casos de icterícia. É também",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbamba-1 — https://www.kimbundu.org/pt/word/mbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15095,
+      "kimbundu_term": "Mbâmba",
+      "portuguese_translation": "Concha globiforme de moluscos gasterópodes. Porcelana. Nácar (feito desta concha)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbâmba-1 — https://www.kimbundu.org/pt/word/mbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15096,
+      "kimbundu_term": "Mbâmba",
+      "portuguese_translation": "Pedaço redondo de nácar, porcelana ou louça para jogar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbâmba-1 — https://www.kimbundu.org/pt/word/mbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15097,
+      "kimbundu_term": "Mbâmba",
+      "portuguese_translation": "A parte consistente ou…",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbâmba-1 — https://www.kimbundu.org/pt/word/mbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15098,
+      "kimbundu_term": "Mbâmba",
+      "portuguese_translation": "sólida que cobre ou rodeia um corpo menos duro",
+      "definition": null,
+      "alternative_meanings": [
+        "crosta",
+        "côdea",
+        "bostela"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbâmba-1 — https://www.kimbundu.org/pt/word/mbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15099,
+      "kimbundu_term": "Mbâmba",
+      "portuguese_translation": "Camada espessa e dura que se desenvolve sobre uma ferida em via de cicatrização",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbâmba-1 — https://www.kimbundu.org/pt/word/mbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15100,
+      "kimbundu_term": "Mbâmba",
+      "portuguese_translation": "Parte do líquen que adere ao corpo que o sustenta",
+      "definition": null,
+      "alternative_meanings": [
+        "viscosidade que endurece na superfície das conchas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbâmba-1 — https://www.kimbundu.org/pt/word/mbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15101,
+      "kimbundu_term": "Mbamba-ndúlu",
+      "portuguese_translation": "Morcego-vampiro",
+      "definition": null,
+      "alternative_meanings": [
+        "pacó"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbamba-ndúlu-1 — https://www.kimbundu.org/pt/word/mbamba-ndulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15102,
+      "kimbundu_term": "Mbambála",
+      "portuguese_translation": "Acólito",
+      "definition": null,
+      "alternative_meanings": [
+        "ajudante"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbambála-1 — https://www.kimbundu.org/pt/word/mbambala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15103,
+      "kimbundu_term": "Mbambê",
+      "portuguese_translation": "Pouco menos de",
+      "definition": null,
+      "alternative_meanings": [
+        "quase",
+        "muito próximo a",
+        "perto",
+        "com pouca diferença",
+        "por pouco, por um triz",
+        "também",
+        "somente",
+        "apenas"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbambê-1 — https://www.kimbundu.org/pt/word/mbambe",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
