@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19994,
+      "kimbundu_term": "Vêmbu",
+      "portuguese_translation": "Arqueado",
+      "definition": null,
+      "alternative_meanings": [
+        "torto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, vêmbu-1 — https://www.kimbundu.org/pt/word/vembu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19995,
+      "kimbundu_term": "Venenu",
+      "portuguese_translation": "Veneno",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, venenu-1 — https://www.kimbundu.org/pt/word/venenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19996,
+      "kimbundu_term": "Vielu",
+      "portuguese_translation": "Grão alimentício, família das leguminosas (Voandzeia subterranea), também conhecida por «jinguba-ja-kambámbi»",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, vielu-1 — https://www.kimbundu.org/pt/word/vielu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19997,
+      "kimbundu_term": "Vindangele",
+      "portuguese_translation": "Vinagre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, vindangele-1 — https://www.kimbundu.org/pt/word/vindangele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19998,
+      "kimbundu_term": "Vindika",
+      "portuguese_translation": "Afluente da margem direita do rio Cuíba (Kuíba), na região e distrito do Moxico, província do Bié",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, vindika-1 — https://www.kimbundu.org/pt/word/vindika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19999,
+      "kimbundu_term": "Vinyu",
+      "portuguese_translation": "Vinho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, vinyu-1 — https://www.kimbundu.org/pt/word/vinyu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20000,
+      "kimbundu_term": "Vióxo",
+      "portuguese_translation": "chul. Expressão que traduz indecência, obscenidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, vióxo-1 — https://www.kimbundu.org/pt/word/vioxo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20001,
+      "kimbundu_term": "Vondadi",
+      "portuguese_translation": "Vontade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, vondadi-1 — https://www.kimbundu.org/pt/word/vondadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20002,
+      "kimbundu_term": "Vúmu",
+      "portuguese_translation": "Abrev. de rivúmu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, vúmu-1 — https://www.kimbundu.org/pt/word/vumu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20003,
+      "kimbundu_term": "Vúmu",
+      "portuguese_translation": "Barriga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, vúmu-1 — https://www.kimbundu.org/pt/word/vumu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
