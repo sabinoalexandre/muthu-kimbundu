@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16844,
+      "kimbundu_term": "Mûndu",
+      "portuguese_translation": "Grande número",
+      "definition": null,
+      "alternative_meanings": [
+        "Multidão",
+        "vaga",
+        "Povo [...]"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mûndu-1 — https://www.kimbundu.org/pt/word/mundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16845,
+      "kimbundu_term": "Múndu",
+      "portuguese_translation": "Mundo (do português)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múndu-1 — https://www.kimbundu.org/pt/word/mundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16846,
+      "kimbundu_term": "Mundumbe",
+      "portuguese_translation": "Noviço. (Também se diz ndâmbe)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mundumbe-1 — https://www.kimbundu.org/pt/word/mundumbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16847,
+      "kimbundu_term": "Múndungu",
+      "portuguese_translation": "Pimenteira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múndungu-1 — https://www.kimbundu.org/pt/word/mundungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16848,
+      "kimbundu_term": "Múndungu",
+      "portuguese_translation": "Elatina",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múndungu-1 — https://www.kimbundu.org/pt/word/mundungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16849,
+      "kimbundu_term": "Múnduniji",
+      "portuguese_translation": "Instigador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múnduniji-1 — https://www.kimbundu.org/pt/word/munduniji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16850,
+      "kimbundu_term": "Múnduniji",
+      "portuguese_translation": "Que concita",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múnduniji-1 — https://www.kimbundu.org/pt/word/munduniji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16851,
+      "kimbundu_term": "Múnduniji",
+      "portuguese_translation": "Serve de servo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múnduniji-1 — https://www.kimbundu.org/pt/word/munduniji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16852,
+      "kimbundu_term": "Múnduniji",
+      "portuguese_translation": "Escravo resgatado por outro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múnduniji-1 — https://www.kimbundu.org/pt/word/munduniji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16853,
+      "kimbundu_term": "Mundunya",
+      "portuguese_translation": "Batata doce",
+      "definition": null,
+      "alternative_meanings": [
+        "cará (no Libolo)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mundunya-1 — https://www.kimbundu.org/pt/word/mundunya",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
