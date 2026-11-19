@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2214,
+      "kimbundu_term": "Ínu",
+      "portuguese_translation": "Gral de madeira onde se pilam, trituram ou descascam milho, mandioca, café, etc",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ínu-1 — https://www.kimbundu.org/pt/word/inu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2215,
+      "kimbundu_term": "Inyami",
+      "portuguese_translation": "Dioscórea",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, inyami-1 — https://www.kimbundu.org/pt/word/inyami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2216,
+      "kimbundu_term": "Inyami",
+      "portuguese_translation": "Apego",
+      "definition": null,
+      "alternative_meanings": [
+        "Afeição",
+        "Amor"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, inyami-1 — https://www.kimbundu.org/pt/word/inyami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2217,
+      "kimbundu_term": "Ínyi",
+      "portuguese_translation": "interrog. Que",
+      "definition": null,
+      "alternative_meanings": [
+        "como",
+        "Que coisa"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ínyi-1 — https://www.kimbundu.org/pt/word/inyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2218,
+      "kimbundu_term": "Ínyi",
+      "portuguese_translation": "interrog. servindo para determinar um objeto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ínyi-1 — https://www.kimbundu.org/pt/word/inyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2219,
+      "kimbundu_term": "Inyungu",
+      "portuguese_translation": "Família de aves vulturídeas, que tem por tipo o abutre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, inyungu-1 — https://www.kimbundu.org/pt/word/inyungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2220,
+      "kimbundu_term": "Inyungu",
+      "portuguese_translation": "Bando de abutres",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, inyungu-1 — https://www.kimbundu.org/pt/word/inyungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2221,
+      "kimbundu_term": "Inzánza",
+      "portuguese_translation": "Tecido ordinário e transparente, de fácil rompimento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, inzánza-1 — https://www.kimbundu.org/pt/word/inzanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2222,
+      "kimbundu_term": "Inzánza",
+      "portuguese_translation": "Fazenda pouco resistente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, inzánza-1 — https://www.kimbundu.org/pt/word/inzanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2223,
+      "kimbundu_term": "Înzo",
+      "portuguese_translation": "Domicílio",
+      "definition": null,
+      "alternative_meanings": [
+        "casa",
+        "habitação",
+        "morada",
+        "Edifício",
+        "residência"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, înzo-1 — https://www.kimbundu.org/pt/word/inzo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
