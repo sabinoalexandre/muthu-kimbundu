@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14794,
+      "kimbundu_term": "Many'a-tanu",
+      "portuguese_translation": "Cinquenta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, many'a-tanu-1 — https://www.kimbundu.org/pt/word/many'a-tanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14795,
+      "kimbundu_term": "Many'a-tanu",
+      "portuguese_translation": "Abrev. de makuinhi tanu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, many'a-tanu-1 — https://www.kimbundu.org/pt/word/many'a-tanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14796,
+      "kimbundu_term": "Many'a-tatu",
+      "portuguese_translation": "Trinta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, many'a-tatu-1 — https://www.kimbundu.org/pt/word/many'a-tatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14797,
+      "kimbundu_term": "Many'a-tatu",
+      "portuguese_translation": "O número 30",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, many'a-tatu-1 — https://www.kimbundu.org/pt/word/many'a-tatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14798,
+      "kimbundu_term": "Many'a-uâna",
+      "portuguese_translation": "Quarenta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, many'a-uâna-1 — https://www.kimbundu.org/pt/word/many'a-uana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14799,
+      "kimbundu_term": "Mányanga",
+      "portuguese_translation": "Comba. O cavado das águas. Bairro ao S. da cidade de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mányanga-1 — https://www.kimbundu.org/pt/word/manyanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14800,
+      "kimbundu_term": "Manyânge",
+      "portuguese_translation": "Sacerdotes da morte. Salteadores",
+      "definition": null,
+      "alternative_meanings": [
+        "caçadores de vítimas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, manyânge-1 — https://www.kimbundu.org/pt/word/manyange",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14801,
+      "kimbundu_term": "Manyangua",
+      "portuguese_translation": "Terreno plantado de aboboreiras. Conjunto de abóboras",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, manyangua-1 — https://www.kimbundu.org/pt/word/manyangua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14802,
+      "kimbundu_term": "Manyânyu",
+      "portuguese_translation": "Passos. Encalço",
+      "definition": null,
+      "alternative_meanings": [
+        "rasto",
+        "pista. Vestígios",
+        "pegadas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, manyânyu-1 — https://www.kimbundu.org/pt/word/manyanyu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14803,
+      "kimbundu_term": "Manyenge",
+      "portuguese_translation": "Sentimento manifestado pelo choro. Desgostos",
+      "definition": null,
+      "alternative_meanings": [
+        "tristezas, mágoas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, manyenge-1 — https://www.kimbundu.org/pt/word/manyenge",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
