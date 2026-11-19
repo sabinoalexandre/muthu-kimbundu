@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14044,
+      "kimbundu_term": "Kyasu",
+      "portuguese_translation": "A mão, o lado esquerdo",
+      "definition": null,
+      "alternative_meanings": [
+        "Canha",
+        "O que está do lado oposto ao direito"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyasu-1 — https://www.kimbundu.org/pt/word/kyasu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14045,
+      "kimbundu_term": "Kyebhi",
+      "portuguese_translation": "interrog. De que modo. Como",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyebhi-1 — https://www.kimbundu.org/pt/word/kyebhi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14046,
+      "kimbundu_term": "Kyebhi",
+      "portuguese_translation": "interrog. Que quer?",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyebhi-1 — https://www.kimbundu.org/pt/word/kyebhi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14047,
+      "kimbundu_term": "Kyebhi",
+      "portuguese_translation": "O que?",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyebhi-1 — https://www.kimbundu.org/pt/word/kyebhi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14048,
+      "kimbundu_term": "Kyebhi",
+      "portuguese_translation": "Que diz?",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyebhi-1 — https://www.kimbundu.org/pt/word/kyebhi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14049,
+      "kimbundu_term": "Kyeji",
+      "portuguese_translation": "Abertura por onde entra o peixe na nassa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyeji-1 — https://www.kimbundu.org/pt/word/kyeji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14050,
+      "kimbundu_term": "Kyela",
+      "portuguese_translation": "Jogo semelhante ao das damas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyela-1 — https://www.kimbundu.org/pt/word/kyela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14051,
+      "kimbundu_term": "Kyela",
+      "portuguese_translation": "o tabuleiro em que ele se pratica",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyela-1 — https://www.kimbundu.org/pt/word/kyela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14052,
+      "kimbundu_term": "Kyene",
+      "portuguese_translation": "(III) Exato",
+      "definition": null,
+      "alternative_meanings": [
+        "certo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyene-1 — https://www.kimbundu.org/pt/word/kyene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14053,
+      "kimbundu_term": "Kyene",
+      "portuguese_translation": "de afirmação, de anuência, de consentimento. Sim. Efetivamente. Desta maneira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyene-1 — https://www.kimbundu.org/pt/word/kyene",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
