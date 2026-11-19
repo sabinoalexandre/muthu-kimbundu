@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6844,
+      "kimbundu_term": "Kouê",
+      "portuguese_translation": "Exclamação de aplauso, de vitória",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kouê-1 — https://www.kimbundu.org/pt/word/koue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6845,
+      "kimbundu_term": "Kóxi",
+      "portuguese_translation": "Abreviatura de rikóxi",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kóxi-1 — https://www.kimbundu.org/pt/word/koxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6846,
+      "kimbundu_term": "Kóxi",
+      "portuguese_translation": "Na parte, situação inferior",
+      "definition": null,
+      "alternative_meanings": [
+        "Debaixo",
+        "Sob, por baixo de",
+        "Em baixo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kóxi-1 — https://www.kimbundu.org/pt/word/koxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6847,
+      "kimbundu_term": "Kóxikujula",
+      "portuguese_translation": "Causar muitas desgraças a. Danificar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kóxikujula-1 — https://www.kimbundu.org/pt/word/koxikujula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6848,
+      "kimbundu_term": "Krimá",
+      "portuguese_translation": "Irmão da Ordem 3.ª de S. Francisco da Penitência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, krimá-1 — https://www.kimbundu.org/pt/word/krima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6849,
+      "kimbundu_term": "Ksôxi",
+      "portuguese_translation": "Derramamento de lágrimas",
+      "definition": null,
+      "alternative_meanings": [
+        "Pranto",
+        "choro",
+        "fig. Lamúria"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ksôxi-1 — https://www.kimbundu.org/pt/word/ksoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6850,
+      "kimbundu_term": "Ku",
+      "portuguese_translation": "para infinitivar a radical dos verbos: zuela (fala) (falar)",
+      "definition": null,
+      "alternative_meanings": [
+        "tala, (olha), (olhar), etc"
+      ],
+      "examples": [],
+      "grammatical_category": "prefixo, preposição, partícula",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ku-1 — https://www.kimbundu.org/pt/word/ku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6851,
+      "kimbundu_term": "Ku",
+      "portuguese_translation": "de, a, em, para, etc",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "prefixo, preposição, partícula",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ku-1 — https://www.kimbundu.org/pt/word/ku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6852,
+      "kimbundu_term": "Ku",
+      "portuguese_translation": "part. adv. indicativa de ação, de lugar, etc",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "prefixo, preposição, partícula",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ku-1 — https://www.kimbundu.org/pt/word/ku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6853,
+      "kimbundu_term": "Ku hádia",
+      "portuguese_translation": "No porvir",
+      "definition": null,
+      "alternative_meanings": [
+        "nos tempos vindouros"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ku hádia-1 — https://www.kimbundu.org/pt/word/ku%20hadia",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
