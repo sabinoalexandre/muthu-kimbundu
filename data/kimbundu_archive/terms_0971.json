@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9814,
+      "kimbundu_term": "Kukunguk'sa",
+      "portuguese_translation": "Fazer desbotar, perder o brilho, a cor",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer desvanecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukunguk'sa-1 — https://www.kimbundu.org/pt/word/kukunguk'sa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9815,
+      "kimbundu_term": "Kukunguka",
+      "portuguese_translation": "Ficar desbotado (com o uso, com o tempo)",
+      "definition": null,
+      "alternative_meanings": [
+        "Apagar-se",
+        "perder a cor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukunguka-1 — https://www.kimbundu.org/pt/word/kukunguka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9816,
+      "kimbundu_term": "Kukunguka",
+      "portuguese_translation": "Desbotamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukunguka-1 — https://www.kimbundu.org/pt/word/kukunguka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9817,
+      "kimbundu_term": "Kukungula",
+      "portuguese_translation": "Excluir: pôr de parte",
+      "definition": null,
+      "alternative_meanings": [
+        "Não constar",
+        "Excetuar",
+        "omitir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukungula-1 — https://www.kimbundu.org/pt/word/kukungula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9818,
+      "kimbundu_term": "Kukungula",
+      "portuguese_translation": "Exclusão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukungula-1 — https://www.kimbundu.org/pt/word/kukungula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9819,
+      "kimbundu_term": "Kukunguluka",
+      "portuguese_translation": "Garrar",
+      "definition": null,
+      "alternative_meanings": [
+        "ir com a corrente (do rio, das águas da chuva, etc.). Percorrer vagando",
+        "Ser levado ou ir à mercê das ondas",
+        "fig. Passar",
+        "correr",
+        "ir-se embora"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukunguluka-1 — https://www.kimbundu.org/pt/word/kukunguluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9820,
+      "kimbundu_term": "Kukungulula",
+      "portuguese_translation": "Arrastar",
+      "definition": null,
+      "alternative_meanings": [
+        "levar consigo",
+        "Diz-se das águas das chuvas e dos rios"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukungulula-1 — https://www.kimbundu.org/pt/word/kukungulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9821,
+      "kimbundu_term": "Kukungulula",
+      "portuguese_translation": "Esfregar",
+      "definition": null,
+      "alternative_meanings": [
+        "passar por"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukungulula-1 — https://www.kimbundu.org/pt/word/kukungulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9822,
+      "kimbundu_term": "Kukungulula",
+      "portuguese_translation": "Kurikungulula, e r. Roçar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "tocar levemente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukungulula-1 — https://www.kimbundu.org/pt/word/kukungulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9823,
+      "kimbundu_term": "Kukunguna",
+      "portuguese_translation": "Desbotar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer apagar, desaparecer (a cor)",
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukunguna-1 — https://www.kimbundu.org/pt/word/kukunguna",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
