@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 20024,
+      "kimbundu_term": "Wene",
+      "portuguese_translation": "Palavra que designa função, autoridade ou mando",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wene-1 — https://www.kimbundu.org/pt/word/wene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20025,
+      "kimbundu_term": "Wene",
+      "portuguese_translation": "de afirmação de um facto",
+      "definition": null,
+      "alternative_meanings": [
+        "É"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wene-1 — https://www.kimbundu.org/pt/word/wene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20026,
+      "kimbundu_term": "Wengenge",
+      "portuguese_translation": "Hemodi",
+      "definition": null,
+      "alternative_meanings": [
+        "Embotamento dos dentes pela mastigação de alimentos ácidos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wengenge-1 — https://www.kimbundu.org/pt/word/wengenge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20027,
+      "kimbundu_term": "Wengi",
+      "portuguese_translation": "Aquele que se não pode confundir com outro",
+      "definition": null,
+      "alternative_meanings": [
+        "Diverso",
+        "diferente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wengi-1 — https://www.kimbundu.org/pt/word/wengi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20028,
+      "kimbundu_term": "Wengi",
+      "portuguese_translation": "Que forma corpo à parte",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wengi-1 — https://www.kimbundu.org/pt/word/wengi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20029,
+      "kimbundu_term": "Wengi",
+      "portuguese_translation": "Outrem",
+      "definition": null,
+      "alternative_meanings": [
+        "outra pessoa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wengi-1 — https://www.kimbundu.org/pt/word/wengi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20030,
+      "kimbundu_term": "Wenji",
+      "portuguese_translation": "Transação lucrativa",
+      "definition": null,
+      "alternative_meanings": [
+        "Tráfico",
+        "negócio",
+        "Compra e venda de artigos de comércio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wenji-1 — https://www.kimbundu.org/pt/word/wenji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20031,
+      "kimbundu_term": "Wenji",
+      "portuguese_translation": "mute'a —, adj. e sub. Comerciante",
+      "definition": null,
+      "alternative_meanings": [
+        "negociador"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wenji-1 — https://www.kimbundu.org/pt/word/wenji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20032,
+      "kimbundu_term": "Wenu",
+      "portuguese_translation": "Vossa",
+      "definition": null,
+      "alternative_meanings": [
+        "vosso",
+        "De vosso lado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wenu-1 — https://www.kimbundu.org/pt/word/wenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20033,
+      "kimbundu_term": "Wenu",
+      "portuguese_translation": "enu, Propriamente vosso, vossa",
+      "definition": null,
+      "alternative_meanings": [
+        "de vós mesmos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wenu-1 — https://www.kimbundu.org/pt/word/wenu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
