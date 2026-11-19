@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5294,
+      "kimbundu_term": "Kikuinyi",
+      "portuguese_translation": "Decénio",
+      "definition": null,
+      "alternative_meanings": [
+        "Década",
+        "o que contém dez unidades"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikuinyi-1 — https://www.kimbundu.org/pt/word/kikuinyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5295,
+      "kimbundu_term": "Kikukisa",
+      "portuguese_translation": "Modo de tornar velho o que se usa",
+      "definition": null,
+      "alternative_meanings": [
+        "Avelhantamento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikukisa-1 — https://www.kimbundu.org/pt/word/kikukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5296,
+      "kimbundu_term": "Kikukise",
+      "portuguese_translation": "O que faz avelhantar, deteriorar, ficar velho (antes do tempo)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikukise-1 — https://www.kimbundu.org/pt/word/kikukise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5297,
+      "kimbundu_term": "Kikukise",
+      "portuguese_translation": "adj. Avelhantador",
+      "definition": null,
+      "alternative_meanings": [
+        "Que torna velho (o que usa) antes do tempo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikukise-1 — https://www.kimbundu.org/pt/word/kikukise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5298,
+      "kimbundu_term": "Kikúku",
+      "portuguese_translation": "Gasto com o uso",
+      "definition": null,
+      "alternative_meanings": [
+        "Safado",
+        "reles",
+        "Avelhantado",
+        "carcomido. fig. Traste"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikúku-1 — https://www.kimbundu.org/pt/word/kikuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5299,
+      "kimbundu_term": "Kikúku",
+      "portuguese_translation": "Planta euforbiácea de propriedades medicinais em casos de hemorroidal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikúku-1 — https://www.kimbundu.org/pt/word/kikuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5300,
+      "kimbundu_term": "Kikukumuni",
+      "portuguese_translation": "Sacudidor",
+      "definition": null,
+      "alternative_meanings": [
+        "Espinador"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikukumuni-1 — https://www.kimbundu.org/pt/word/kikukumuni",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5301,
+      "kimbundu_term": "Kikulakaji",
+      "portuguese_translation": "Mulher de avançada idade",
+      "definition": null,
+      "alternative_meanings": [
+        "Velha",
+        "Ancã"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikulakaji-1 — https://www.kimbundu.org/pt/word/kikulakaji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5302,
+      "kimbundu_term": "Kikulingu",
+      "portuguese_translation": "Pelicano",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikulingu-1 — https://www.kimbundu.org/pt/word/kikulingu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5303,
+      "kimbundu_term": "Kikulingu",
+      "portuguese_translation": "Pov. e sede do posto civil do conc. de Ambaca, distr. do Quanza-Norte, prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikulingu-1 — https://www.kimbundu.org/pt/word/kikulingu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
