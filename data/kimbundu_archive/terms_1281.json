@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12914,
+      "kimbundu_term": "Kuvema",
+      "portuguese_translation": "Ação e efeito de vergar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvema-1 — https://www.kimbundu.org/pt/word/kuvema",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12915,
+      "kimbundu_term": "Kuvembuka",
+      "portuguese_translation": "Estar arqueado, curvo",
+      "definition": null,
+      "alternative_meanings": [
+        "ficar vergado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvembuka-1 — https://www.kimbundu.org/pt/word/kuvembuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12916,
+      "kimbundu_term": "Kuvembuka",
+      "portuguese_translation": "Arqueação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvembuka-1 — https://www.kimbundu.org/pt/word/kuvembuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12917,
+      "kimbundu_term": "Kuvembukisa",
+      "portuguese_translation": "Arquear",
+      "definition": null,
+      "alternative_meanings": [
+        "encurvar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvembukisa-1 — https://www.kimbundu.org/pt/word/kuvembukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12918,
+      "kimbundu_term": "Kuvembukisa",
+      "portuguese_translation": "Fazer vergar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvembukisa-1 — https://www.kimbundu.org/pt/word/kuvembukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12919,
+      "kimbundu_term": "Kuvembula",
+      "portuguese_translation": "Dar a forma de arco a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvembula-1 — https://www.kimbundu.org/pt/word/kuvembula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12920,
+      "kimbundu_term": "Kuvemesa",
+      "portuguese_translation": "Fazer vergar, ceder à pressão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvemesa-1 — https://www.kimbundu.org/pt/word/kuvemesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12921,
+      "kimbundu_term": "Kuvensela",
+      "portuguese_translation": "Vencer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvensela-1 — https://www.kimbundu.org/pt/word/kuvensela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12922,
+      "kimbundu_term": "Kuvetulula",
+      "portuguese_translation": "Revender",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvetulula-1 — https://www.kimbundu.org/pt/word/kuvetulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12923,
+      "kimbundu_term": "Kuvetulula",
+      "portuguese_translation": "Revenda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvetulula-1 — https://www.kimbundu.org/pt/word/kuvetulula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
