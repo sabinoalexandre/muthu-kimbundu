@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14074,
+      "kimbundu_term": "Kyoso",
+      "portuguese_translation": "e pron. indef. Todo",
+      "definition": null,
+      "alternative_meanings": [
+        "toda",
+        "Tudo",
+        "Inteiro",
+        "completo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyoso-1 — https://www.kimbundu.org/pt/word/kyoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14075,
+      "kimbundu_term": "Kyoso",
+      "portuguese_translation": "Absolutamente",
+      "definition": null,
+      "alternative_meanings": [
+        "De todo",
+        "por junto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyoso-1 — https://www.kimbundu.org/pt/word/kyoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14076,
+      "kimbundu_term": "Kyoso",
+      "portuguese_translation": "Consoante",
+      "definition": null,
+      "alternative_meanings": [
+        "conforme",
+        "Pl. ioso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyoso-1 — https://www.kimbundu.org/pt/word/kyoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14077,
+      "kimbundu_term": "Kyoso",
+      "portuguese_translation": "adj. e pron. demonstr. Tudo isto",
+      "definition": null,
+      "alternative_meanings": [
+        "Todo o objeto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyoso-1 — https://www.kimbundu.org/pt/word/kyoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14078,
+      "kimbundu_term": "Kyoso",
+      "portuguese_translation": "Neste meio tempo",
+      "definition": null,
+      "alternative_meanings": [
+        "adv. Enquanto",
+        "entretanto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyoso-1 — https://www.kimbundu.org/pt/word/kyoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14079,
+      "kimbundu_term": "Kyoso",
+      "portuguese_translation": "A matroca",
+      "definition": null,
+      "alternative_meanings": [
+        "a esmo",
+        "De qualquer maneira",
+        "sem ordem"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyoso-1 — https://www.kimbundu.org/pt/word/kyoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14080,
+      "kimbundu_term": "Kyoso",
+      "portuguese_translation": "Um (entre muitos sem escolha)",
+      "definition": null,
+      "alternative_meanings": [
+        "Qualquer"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyoso-1 — https://www.kimbundu.org/pt/word/kyoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14081,
+      "kimbundu_term": "Kyu",
+      "portuguese_translation": "Lhe",
+      "definition": null,
+      "alternative_meanings": [
+        "A ele: a vós"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyu-1 — https://www.kimbundu.org/pt/word/kyu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14082,
+      "kimbundu_term": "La",
+      "portuguese_translation": "Quando, como",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "conjunção, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, la-1 — https://www.kimbundu.org/pt/word/la",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14083,
+      "kimbundu_term": "La",
+      "portuguese_translation": "Enquanto a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "conjunção, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, la-1 — https://www.kimbundu.org/pt/word/la",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
