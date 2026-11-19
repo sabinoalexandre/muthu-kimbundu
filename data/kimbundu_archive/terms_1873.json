@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18834,
+      "kimbundu_term": "Rkábakába",
+      "portuguese_translation": "Galopada",
+      "definition": null,
+      "alternative_meanings": [
+        "corrida rápida. Ato de galopar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, rkábakába-1 — https://www.kimbundu.org/pt/word/rkabakaba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18835,
+      "kimbundu_term": "Rubuíminu",
+      "portuguese_translation": "Respiradouro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, rubuíminu-1 — https://www.kimbundu.org/pt/word/rubuiminu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18836,
+      "kimbundu_term": "Rubuíminu",
+      "portuguese_translation": "Orifício destinado a deixar penetrar o ar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, rubuíminu-1 — https://www.kimbundu.org/pt/word/rubuiminu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18837,
+      "kimbundu_term": "Rubute",
+      "portuguese_translation": "Ferida que supura",
+      "definition": null,
+      "alternative_meanings": [
+        "chaga"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, rubute-1 — https://www.kimbundu.org/pt/word/rubute",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18838,
+      "kimbundu_term": "Rubute",
+      "portuguese_translation": "adj. Chaguento",
+      "definition": null,
+      "alternative_meanings": [
+        "ulceroso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, rubute-1 — https://www.kimbundu.org/pt/word/rubute",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18839,
+      "kimbundu_term": "Ruhóna",
+      "portuguese_translation": "Ressonar",
+      "definition": null,
+      "alternative_meanings": [
+        "dormir roncando"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ruhóna-1 — https://www.kimbundu.org/pt/word/ruhona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18840,
+      "kimbundu_term": "Ruhóna",
+      "portuguese_translation": "Ressonância",
+      "definition": null,
+      "alternative_meanings": [
+        "ronco"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ruhóna-1 — https://www.kimbundu.org/pt/word/ruhona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18841,
+      "kimbundu_term": "Rukombuésa",
+      "portuguese_translation": "Vender por atacado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, rukombuésa-1 — https://www.kimbundu.org/pt/word/rukombuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18842,
+      "kimbundu_term": "Rukombuésa",
+      "portuguese_translation": "Dar a permutar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, rukombuésa-1 — https://www.kimbundu.org/pt/word/rukombuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18843,
+      "kimbundu_term": "Rukombuésa",
+      "portuguese_translation": "Agenciar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, rukombuésa-1 — https://www.kimbundu.org/pt/word/rukombuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
