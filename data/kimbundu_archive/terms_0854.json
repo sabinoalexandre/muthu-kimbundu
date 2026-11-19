@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8644,
+      "kimbundu_term": "Kúfuta",
+      "portuguese_translation": "Abrigar",
+      "definition": null,
+      "alternative_meanings": [
+        "defender"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúfuta-1 — https://www.kimbundu.org/pt/word/kufuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8645,
+      "kimbundu_term": "Kúfuta",
+      "portuguese_translation": "Kúrisuta, v. r. Tapar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "esconder-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúfuta-1 — https://www.kimbundu.org/pt/word/kufuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8646,
+      "kimbundu_term": "Kufúta",
+      "portuguese_translation": "Indemnizar",
+      "definition": null,
+      "alternative_meanings": [
+        "embolsar",
+        "pagar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufúta-1 — https://www.kimbundu.org/pt/word/kufuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8647,
+      "kimbundu_term": "Kufúta",
+      "portuguese_translation": "Reparar",
+      "definition": null,
+      "alternative_meanings": [
+        "resarcir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufúta-1 — https://www.kimbundu.org/pt/word/kufuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8648,
+      "kimbundu_term": "Kufúta",
+      "portuguese_translation": "Remunerar",
+      "definition": null,
+      "alternative_meanings": [
+        "recompensar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufúta-1 — https://www.kimbundu.org/pt/word/kufuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8649,
+      "kimbundu_term": "Kufúta",
+      "portuguese_translation": "Kurisúta, v. r. Pagar-se (por suas mãos)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufúta-1 — https://www.kimbundu.org/pt/word/kufuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8650,
+      "kimbundu_term": "Kufúta",
+      "portuguese_translation": "Descontar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufúta-1 — https://www.kimbundu.org/pt/word/kufuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8651,
+      "kimbundu_term": "Kufúta",
+      "portuguese_translation": "Desforrar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "vingar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufúta-1 — https://www.kimbundu.org/pt/word/kufuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8652,
+      "kimbundu_term": "Kufutama",
+      "portuguese_translation": "Estar incógnito, incoberto, oculto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufutama-1 — https://www.kimbundu.org/pt/word/kufutama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8653,
+      "kimbundu_term": "Kufutamesa",
+      "portuguese_translation": "Fazer dissimular, conservar incógnito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufutamesa-1 — https://www.kimbundu.org/pt/word/kufutamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
