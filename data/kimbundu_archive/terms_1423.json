@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14334,
+      "kimbundu_term": "Lwa",
+      "portuguese_translation": "e pron. poss. Delas",
+      "definition": null,
+      "alternative_meanings": [
+        "deles",
+        "Pertencentes às suas pessoas"
+      ],
+      "examples": [],
+      "grammatical_category": "preposição, adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lwa-1 — https://www.kimbundu.org/pt/word/lwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14335,
+      "kimbundu_term": "Lwa",
+      "portuguese_translation": "pron. relat. Que, cujo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "preposição, adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lwa-1 — https://www.kimbundu.org/pt/word/lwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14336,
+      "kimbundu_term": "Lweji",
+      "portuguese_translation": "Rio do S. Salvador do Congo, ao S. da antiga cidade, afluente do Loge",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lweji-1 — https://www.kimbundu.org/pt/word/lweji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14337,
+      "kimbundu_term": "Lwelu",
+      "portuguese_translation": "(IX) Voluntariedade",
+      "definition": null,
+      "alternative_meanings": [
+        "espontaneidade",
+        "propósito"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lwelu-1 — https://www.kimbundu.org/pt/word/lwelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14338,
+      "kimbundu_term": "Lwelu",
+      "portuguese_translation": "Voluntariamente",
+      "definition": null,
+      "alternative_meanings": [
+        "de motu-próprio",
+        "Sem coação nem constrangimento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lwelu-1 — https://www.kimbundu.org/pt/word/lwelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14339,
+      "kimbundu_term": "Lwenu",
+      "portuguese_translation": "e pron. pess. pl. (contr. da prep. lua e do pron. pess. enu) Vós",
+      "definition": null,
+      "alternative_meanings": [
+        "vossa",
+        "De vós",
+        "pertencente às vossas pessoas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, pessoa, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lwenu-1 — https://www.kimbundu.org/pt/word/lwenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14340,
+      "kimbundu_term": "Lwenu",
+      "portuguese_translation": "propriamente vosso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, pessoa, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lwenu-1 — https://www.kimbundu.org/pt/word/lwenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14341,
+      "kimbundu_term": "Lwetu",
+      "portuguese_translation": "adj. e pron. poss. pl. Nosso",
+      "definition": null,
+      "alternative_meanings": [
+        "nossa",
+        "Das nossas pessoas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lwetu-1 — https://www.kimbundu.org/pt/word/lwetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14342,
+      "kimbundu_term": "Lwetu",
+      "portuguese_translation": "—etu De nós próprios",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lwetu-1 — https://www.kimbundu.org/pt/word/lwetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14343,
+      "kimbundu_term": "Lwiji",
+      "portuguese_translation": "Jusante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lwiji-1 — https://www.kimbundu.org/pt/word/lwiji",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
