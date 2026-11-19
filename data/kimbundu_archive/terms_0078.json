@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 884,
+      "kimbundu_term": "Dikambu",
+      "portuguese_translation": "Peixe desmóptero",
+      "definition": null,
+      "alternative_meanings": [
+        "É m. us. no pl. mákambu"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikambu-1 — https://www.kimbundu.org/pt/word/dikambu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 885,
+      "kimbundu_term": "Dikânda",
+      "portuguese_translation": "Palma (da mão)",
+      "definition": null,
+      "alternative_meanings": [
+        "Planta (do pé)",
+        "Passo",
+        "pegada",
+        "marcha",
+        "piso",
+        "Cada um dos vários modos de marchar",
+        "Cada um dos diferentes passos de dança"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikânda-1 — https://www.kimbundu.org/pt/word/dikanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 886,
+      "kimbundu_term": "Dikânda",
+      "portuguese_translation": "Vestígio",
+      "definition": null,
+      "alternative_meanings": [
+        "sinal (do pé)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikânda-1 — https://www.kimbundu.org/pt/word/dikanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 887,
+      "kimbundu_term": "Dikanga",
+      "portuguese_translation": "Longe",
+      "definition": null,
+      "alternative_meanings": [
+        "O ponto mais alto, distante ou profundo",
+        "A vastidão das águas",
+        "o mar largo",
+        "Campo",
+        "lugar de luta",
+        "Audiência",
+        "julgamento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikanga-1 — https://www.kimbundu.org/pt/word/dikanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 888,
+      "kimbundu_term": "Dikanga",
+      "portuguese_translation": "Longínquo",
+      "definition": null,
+      "alternative_meanings": [
+        "distante",
+        "afastado. Remoto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikanga-1 — https://www.kimbundu.org/pt/word/dikanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 889,
+      "kimbundu_term": "Dikanga",
+      "portuguese_translation": "A muita distância (no tempo e no espaço)",
+      "definition": null,
+      "alternative_meanings": [
+        "Muito longe"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikanga-1 — https://www.kimbundu.org/pt/word/dikanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 890,
+      "kimbundu_term": "Dikangu",
+      "portuguese_translation": "Promessa",
+      "definition": null,
+      "alternative_meanings": [
+        "voto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikangu-1 — https://www.kimbundu.org/pt/word/dikangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 891,
+      "kimbundu_term": "Dikánji",
+      "portuguese_translation": "Aparelho respiratório dos peixes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikánji-1 — https://www.kimbundu.org/pt/word/dikanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 892,
+      "kimbundu_term": "Dikánu",
+      "portuguese_translation": "Boca",
+      "definition": null,
+      "alternative_meanings": [
+        "O conjunto dos lábios"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikánu-1 — https://www.kimbundu.org/pt/word/dikanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 893,
+      "kimbundu_term": "Dikánu",
+      "portuguese_translation": "Mukua-, adj. Boquirroto",
+      "definition": null,
+      "alternative_meanings": [
+        "linguareiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikánu-1 — https://www.kimbundu.org/pt/word/dikanu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
