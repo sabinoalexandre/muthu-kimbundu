@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9584,
+      "kimbundu_term": "Kukondeka",
+      "portuguese_translation": "Abafar",
+      "definition": null,
+      "alternative_meanings": [
+        "conchegar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukondeka-1 — https://www.kimbundu.org/pt/word/kukondeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9585,
+      "kimbundu_term": "Kukondeka",
+      "portuguese_translation": "Ato de louvar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukondeka-1 — https://www.kimbundu.org/pt/word/kukondeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9586,
+      "kimbundu_term": "Kukondeka",
+      "portuguese_translation": "Kurikondeka, v. r. Tornar-se digno de louvores",
+      "definition": null,
+      "alternative_meanings": [
+        "Abafar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukondeka-1 — https://www.kimbundu.org/pt/word/kukondeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9587,
+      "kimbundu_term": "Kukondekesa",
+      "portuguese_translation": "Abrigar",
+      "definition": null,
+      "alternative_meanings": [
+        "amparar",
+        "proteger",
+        "Dar conchego a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukondekesa-1 — https://www.kimbundu.org/pt/word/kukondekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9588,
+      "kimbundu_term": "Kukondekesa",
+      "portuguese_translation": "Fazer acatar, honrar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukondekesa-1 — https://www.kimbundu.org/pt/word/kukondekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9589,
+      "kimbundu_term": "Kukondela",
+      "portuguese_translation": "Dar volta, pôr cerco a",
+      "definition": null,
+      "alternative_meanings": [
+        "Rodear",
+        "envolver pelos lados"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukondela-1 — https://www.kimbundu.org/pt/word/kukondela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9590,
+      "kimbundu_term": "Kukondesa",
+      "portuguese_translation": "Consolar",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer esquecer a aflição, a dor",
+        "Mandar cercar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukondesa-1 — https://www.kimbundu.org/pt/word/kukondesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9591,
+      "kimbundu_term": "Kukondojcka",
+      "portuguese_translation": "Serpear",
+      "definition": null,
+      "alternative_meanings": [
+        "Dar voltas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukondojcka-1 — https://www.kimbundu.org/pt/word/kukondojcka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9592,
+      "kimbundu_term": "Kukondoxa",
+      "portuguese_translation": "Estar consolado, conformado",
+      "definition": null,
+      "alternative_meanings": [
+        "Esquecer as dores, as mágoas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukondoxa-1 — https://www.kimbundu.org/pt/word/kukondoxa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9593,
+      "kimbundu_term": "Kúkosa",
+      "portuguese_translation": "Dedilhar",
+      "definition": null,
+      "alternative_meanings": [
+        "mexer",
+        "lulir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkosa-1 — https://www.kimbundu.org/pt/word/kukosa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
