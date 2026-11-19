@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8184,
+      "kimbundu_term": "Kudikombuesa",
+      "portuguese_translation": "Vender-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikombuesa-1 — https://www.kimbundu.org/pt/word/kudikombuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8185,
+      "kimbundu_term": "Kudikombuesa",
+      "portuguese_translation": "Acasalar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikombuesa-1 — https://www.kimbundu.org/pt/word/kudikombuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8186,
+      "kimbundu_term": "Kudikuama",
+      "portuguese_translation": "Magoar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "ferir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikuama-1 — https://www.kimbundu.org/pt/word/kudikuama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8187,
+      "kimbundu_term": "Kudikuameka",
+      "portuguese_translation": "Entregar-se por despeito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikuameka-1 — https://www.kimbundu.org/pt/word/kudikuameka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8188,
+      "kimbundu_term": "Kudikuameka",
+      "portuguese_translation": "Abandonar-se com resentimento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikuameka-1 — https://www.kimbundu.org/pt/word/kudikuameka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8189,
+      "kimbundu_term": "Kudikuata",
+      "portuguese_translation": "Altercar, questionar",
+      "definition": null,
+      "alternative_meanings": [
+        "ter desavenças com",
+        "Brigar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikuata-1 — https://www.kimbundu.org/pt/word/kudikuata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8190,
+      "kimbundu_term": "Kudikuata",
+      "portuguese_translation": "vir às mãos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikuata-2 — https://www.kimbundu.org/pt/word/kudikuata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8191,
+      "kimbundu_term": "Kudikuata",
+      "portuguese_translation": "Pegar-se muitas vezes",
+      "definition": null,
+      "alternative_meanings": [
+        "atrapalhar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikuata-2 — https://www.kimbundu.org/pt/word/kudikuata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8192,
+      "kimbundu_term": "Kudikuata",
+      "portuguese_translation": "Hesitar (no falar)",
+      "definition": null,
+      "alternative_meanings": [
+        "mostrar receio"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikuata-2 — https://www.kimbundu.org/pt/word/kudikuata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8193,
+      "kimbundu_term": "Kudikufina",
+      "portuguese_translation": "Jactar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "ufanar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikufina-1 — https://www.kimbundu.org/pt/word/kudikufina",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
