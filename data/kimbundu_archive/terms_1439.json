@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14494,
+      "kimbundu_term": "Maie",
+      "portuguese_translation": "Embora",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maie-1 — https://www.kimbundu.org/pt/word/maie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14495,
+      "kimbundu_term": "Maie",
+      "portuguese_translation": "Apesar de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maie-1 — https://www.kimbundu.org/pt/word/maie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14496,
+      "kimbundu_term": "Mâie",
+      "portuguese_translation": "Palmar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mâie-1 — https://www.kimbundu.org/pt/word/maie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14497,
+      "kimbundu_term": "Maioko",
+      "portuguese_translation": "Escárnio",
+      "definition": null,
+      "alternative_meanings": [
+        "zombaria"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maioko-1 — https://www.kimbundu.org/pt/word/maioko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14498,
+      "kimbundu_term": "Maioko",
+      "portuguese_translation": "Troça",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maioko-1 — https://www.kimbundu.org/pt/word/maioko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14499,
+      "kimbundu_term": "Maiómbe",
+      "portuguese_translation": "Do ocidente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maiómbe-1 — https://www.kimbundu.org/pt/word/maiombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14500,
+      "kimbundu_term": "Maiómbe",
+      "portuguese_translation": "Os que habitam as regiões ocidentais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maiómbe-1 — https://www.kimbundu.org/pt/word/maiombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14501,
+      "kimbundu_term": "Maiómbe",
+      "portuguese_translation": "Diz-se dos povos ou regiões do Congo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maiómbe-1 — https://www.kimbundu.org/pt/word/maiombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14502,
+      "kimbundu_term": "Maiombola",
+      "portuguese_translation": "Feitiçaria por meio da qual um vivo fica inanimado, autómato",
+      "definition": null,
+      "alternative_meanings": [
+        "Estado de ser encantado",
+        "Bruxedo",
+        "magia",
+        "Nota: Diz-se das pessoas a que, conforme a crença popular, os feiticeiros tiram a vida pelo poder diabólico dos seus fei",
+        "e, ressuscitados, andam e falam como os vivos, conservando, porém, o frio cadavérico"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maiombola-1 — https://www.kimbundu.org/pt/word/maiombola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14503,
+      "kimbundu_term": "Maiski",
+      "portuguese_translation": "Ovos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maiski-1 — https://www.kimbundu.org/pt/word/maiski",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
