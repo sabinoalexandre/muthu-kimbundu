@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 794,
+      "kimbundu_term": "Difuba",
+      "portuguese_translation": "Mukua-, adj. Ciumento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, difuba-1 — https://www.kimbundu.org/pt/word/difuba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 795,
+      "kimbundu_term": "Dîfue",
+      "portuguese_translation": "Martal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dîfue-1 — https://www.kimbundu.org/pt/word/difue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 796,
+      "kimbundu_term": "Difúku",
+      "portuguese_translation": "Antiga medida de capacidade, equivalente a 10.000 cauris ou njimbu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, difúku-1 — https://www.kimbundu.org/pt/word/difuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 797,
+      "kimbundu_term": "Difukunukinu",
+      "portuguese_translation": "Lugar da ressurreição",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, difukunukinu-1 — https://www.kimbundu.org/pt/word/difukunukinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 798,
+      "kimbundu_term": "Difukunukinu",
+      "portuguese_translation": "Ato de ressurgir, de ressuscitar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, difukunukinu-1 — https://www.kimbundu.org/pt/word/difukunukinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 799,
+      "kimbundu_term": "Difula",
+      "portuguese_translation": "Palato",
+      "definition": null,
+      "alternative_meanings": [
+        "sabor",
+        "substância que realça o gosto da comida. Condimento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, difula-1 — https://www.kimbundu.org/pt/word/difula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 800,
+      "kimbundu_term": "Difúlu",
+      "portuguese_translation": "Holandês",
+      "definition": null,
+      "alternative_meanings": [
+        "bóer"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, difúlu-1 — https://www.kimbundu.org/pt/word/difulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 801,
+      "kimbundu_term": "Difúlu",
+      "portuguese_translation": "É mais usado no plural mafúlu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, difúlu-1 — https://www.kimbundu.org/pt/word/difulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 802,
+      "kimbundu_term": "Difulumengu",
+      "portuguese_translation": "Flamingo (ave)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, difulumengu-1 — https://www.kimbundu.org/pt/word/difulumengu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 803,
+      "kimbundu_term": "Difúmbe",
+      "portuguese_translation": "Testemunho",
+      "definition": null,
+      "alternative_meanings": [
+        "prova"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, difúmbe-1 — https://www.kimbundu.org/pt/word/difumbe",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
