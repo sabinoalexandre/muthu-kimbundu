@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8014,
+      "kimbundu_term": "Kubwa",
+      "portuguese_translation": "Depredação",
+      "definition": null,
+      "alternative_meanings": [
+        "assalto",
+        "roubo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubwa-1 — https://www.kimbundu.org/pt/word/kubwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8015,
+      "kimbundu_term": "Kubwa",
+      "portuguese_translation": "Cessar de haver",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubwa-1 — https://www.kimbundu.org/pt/word/kubwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8016,
+      "kimbundu_term": "Kubwakula",
+      "portuguese_translation": "Fumar",
+      "definition": null,
+      "alternative_meanings": [
+        "baforar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubwakula-1 — https://www.kimbundu.org/pt/word/kubwakula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8017,
+      "kimbundu_term": "Kubwakula",
+      "portuguese_translation": "Baforada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubwakula-1 — https://www.kimbundu.org/pt/word/kubwakula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8018,
+      "kimbundu_term": "Kubwika",
+      "portuguese_translation": "Acamar",
+      "definition": null,
+      "alternative_meanings": [
+        "pender para o chão"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubwika-1 — https://www.kimbundu.org/pt/word/kubwika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8019,
+      "kimbundu_term": "Kubwika",
+      "portuguese_translation": "Amaciar",
+      "definition": null,
+      "alternative_meanings": [
+        "suavizar",
+        "abrandar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubwika-1 — https://www.kimbundu.org/pt/word/kubwika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8020,
+      "kimbundu_term": "Kubwika",
+      "portuguese_translation": "Acabar",
+      "definition": null,
+      "alternative_meanings": [
+        "perecer",
+        "extinguir-se",
+        "Deixar de existir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubwika-1 — https://www.kimbundu.org/pt/word/kubwika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8021,
+      "kimbundu_term": "Kubwika",
+      "portuguese_translation": "Destruição",
+      "definition": null,
+      "alternative_meanings": [
+        "arrasamento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubwika-1 — https://www.kimbundu.org/pt/word/kubwika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8022,
+      "kimbundu_term": "Kubwikila",
+      "portuguese_translation": "Ir parar a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubwikila-1 — https://www.kimbundu.org/pt/word/kubwikila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8023,
+      "kimbundu_term": "Kubwikila",
+      "portuguese_translation": "Acabar",
+      "definition": null,
+      "alternative_meanings": [
+        "descansar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubwikila-1 — https://www.kimbundu.org/pt/word/kubwikila",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
