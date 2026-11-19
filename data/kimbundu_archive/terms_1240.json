@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12504,
+      "kimbundu_term": "Kutongolola",
+      "portuguese_translation": "Explanar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar compreensível",
+        "Certificar",
+        "reconhecer, dar a razão de ser",
+        "Interpretar, exprimir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutongolola-1 — https://www.kimbundu.org/pt/word/kutongolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12505,
+      "kimbundu_term": "Kutongolola",
+      "portuguese_translation": "Justificação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutongolola-1 — https://www.kimbundu.org/pt/word/kutongolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12506,
+      "kimbundu_term": "Kutongolola",
+      "portuguese_translation": "Kuritongolola, v. r. Justificar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "Provar que obrou como devia"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutongolola-1 — https://www.kimbundu.org/pt/word/kutongolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12507,
+      "kimbundu_term": "Kutongona",
+      "portuguese_translation": "Depilar",
+      "definition": null,
+      "alternative_meanings": [
+        "Depurar",
+        "Limpar. É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutongona-1 — https://www.kimbundu.org/pt/word/kutongona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12508,
+      "kimbundu_term": "Kutongonesa",
+      "portuguese_translation": "Fazer arrancar, catar, limpar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutongonesa-1 — https://www.kimbundu.org/pt/word/kutongonesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12509,
+      "kimbundu_term": "Kutongonoka",
+      "portuguese_translation": "Ser sagaz, vivo",
+      "definition": null,
+      "alternative_meanings": [
+        "Ter clareza de espírito"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutongonoka-1 — https://www.kimbundu.org/pt/word/kutongonoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12510,
+      "kimbundu_term": "Kutongonona",
+      "portuguese_translation": "Aclarar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar evidente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutongonona-1 — https://www.kimbundu.org/pt/word/kutongonona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12511,
+      "kimbundu_term": "Kutongonona",
+      "portuguese_translation": "Kuritongonona, v. r. Mostrar-se sem rebuço",
+      "definition": null,
+      "alternative_meanings": [
+        "revelar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutongonona-1 — https://www.kimbundu.org/pt/word/kutongonona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12512,
+      "kimbundu_term": "Kutongonuesa",
+      "portuguese_translation": "Submeter (alguém) a um interrogatório",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutongonuesa-1 — https://www.kimbundu.org/pt/word/kutongonuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12513,
+      "kimbundu_term": "Kutongonuesa",
+      "portuguese_translation": "Fazer perguntas (por forma a saber a verdade)",
+      "definition": null,
+      "alternative_meanings": [
+        "Inquirir minuciosamente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutongonuesa-1 — https://www.kimbundu.org/pt/word/kutongonuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
