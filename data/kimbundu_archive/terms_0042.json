@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 524,
+      "kimbundu_term": "Bwa",
+      "portuguese_translation": "Nelas",
+      "definition": null,
+      "alternative_meanings": [
+        "neles",
+        "no seu lugar",
+        "na terra deles"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bwa-1 — https://www.kimbundu.org/pt/word/bwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 525,
+      "kimbundu_term": "Bwa",
+      "portuguese_translation": "deles mesmo",
+      "definition": null,
+      "alternative_meanings": [
+        "no seu verdadeiro lugar",
+        "com certeza"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bwa-1 — https://www.kimbundu.org/pt/word/bwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 526,
+      "kimbundu_term": "Bwí",
+      "portuguese_translation": "interjeição para significar uma coisa excessivamente preta, ou o tempo demasiadamente escuro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bwí-1 — https://www.kimbundu.org/pt/word/bwi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 527,
+      "kimbundu_term": "Bwí",
+      "portuguese_translation": "adjetivo. Preto",
+      "definition": null,
+      "alternative_meanings": [
+        "escuro",
+        "negro"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição, adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bwí-1 — https://www.kimbundu.org/pt/word/bwi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 528,
+      "kimbundu_term": "Bwí",
+      "portuguese_translation": "substantivo. Ausência de todas as cores",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bwí-1 — https://www.kimbundu.org/pt/word/bwi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 529,
+      "kimbundu_term": "caMuéndi",
+      "portuguese_translation": "Andador",
+      "definition": null,
+      "alternative_meanings": [
+        "Caminheiro",
+        "Peregrinador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, camuéndi-1 — https://www.kimbundu.org/pt/word/camuendi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 530,
+      "kimbundu_term": "caMuéndi",
+      "portuguese_translation": "pé-de-léguas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, camuéndi-1 — https://www.kimbundu.org/pt/word/camuendi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 531,
+      "kimbundu_term": "Di",
+      "portuguese_translation": "Pronome relativo. Que",
+      "definition": null,
+      "alternative_meanings": [
+        "cujo: o rikole —u ajlba"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, di-1 — https://www.kimbundu.org/pt/word/di",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 532,
+      "kimbundu_term": "Di",
+      "portuguese_translation": "Partícula concordante dos substantivos da IV classe: o ribengu—alenge",
+      "definition": null,
+      "alternative_meanings": [
+        "o ribaba—ctoloka"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, di-1 — https://www.kimbundu.org/pt/word/di",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 533,
+      "kimbundu_term": "Dia",
+      "portuguese_translation": "Adjetivo e pronome possessivo plural (classe IV). Delas",
+      "definition": null,
+      "alternative_meanings": [
+        "deles"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, preposição, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dia-1 — https://www.kimbundu.org/pt/word/dia",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
