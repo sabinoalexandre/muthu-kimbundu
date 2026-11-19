@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2694,
+      "kimbundu_term": "Jingôndo",
+      "portuguese_translation": "Ouros",
+      "definition": null,
+      "alternative_meanings": [
+        "Contas (em ouro) que as mulheres usam como adorno nos pulsos e pescoço",
+        "Colares",
+        "rosários"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jingôndo-1 — https://www.kimbundu.org/pt/word/jingondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2695,
+      "kimbundu_term": "Jingônge",
+      "portuguese_translation": "Articulações",
+      "definition": null,
+      "alternative_meanings": [
+        "Falanges",
+        "Juntas",
+        "Pregões",
+        "avisos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jingônge-1 — https://www.kimbundu.org/pt/word/jingonge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2696,
+      "kimbundu_term": "Jingóngo",
+      "portuguese_translation": "Padecimentos",
+      "definition": null,
+      "alternative_meanings": [
+        "Sofrimentos",
+        "Martírios",
+        "Pezares",
+        "Desgostos",
+        "Desgraças",
+        "aflições",
+        "trabalhos penosos",
+        "Endoenças",
+        "Privações",
+        "necessidades"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jingóngo-1 — https://www.kimbundu.org/pt/word/jingongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2697,
+      "kimbundu_term": "Jingongo",
+      "portuguese_translation": "Gémeos",
+      "definition": null,
+      "alternative_meanings": [
+        "Diz-se dos frutos geminados",
+        "Diz-se do parto de dois filhos",
+        "Diz-se dos dois músculos que formam a barriga da perna, e da constelação do zodíaco «Castor e Polux»",
+        "Parelha",
+        "Os da mesma origem"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jingongo-1 — https://www.kimbundu.org/pt/word/jingongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2698,
+      "kimbundu_term": "Jinguba",
+      "portuguese_translation": "Planta leguminosa produtora do amendoim (Arachis hypogaea)",
+      "definition": null,
+      "alternative_meanings": [
+        "O próprio amendoim, sua porção ou quantidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jinguba-1 — https://www.kimbundu.org/pt/word/jinguba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2699,
+      "kimbundu_term": "Jinguba",
+      "portuguese_translation": "Amendoal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jinguba-1 — https://www.kimbundu.org/pt/word/jinguba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2700,
+      "kimbundu_term": "Jinguba",
+      "portuguese_translation": "planta alimentícia fam. das leguminosas (Voandzeia subterranea), tb. conhecida por vielu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jinguba-1 — https://www.kimbundu.org/pt/word/jinguba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2701,
+      "kimbundu_term": "Jingúhi",
+      "portuguese_translation": "Família de sáurios que tem por tipo o aligátor",
+      "definition": null,
+      "alternative_meanings": [
+        "Jacarés marinhos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jingúhi-1 — https://www.kimbundu.org/pt/word/jinguhi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2702,
+      "kimbundu_term": "Jingulá",
+      "portuguese_translation": "Ingratos",
+      "definition": null,
+      "alternative_meanings": [
+        "Desagradecidos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jingulá-1 — https://www.kimbundu.org/pt/word/jingula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2703,
+      "kimbundu_term": "Jingúlu",
+      "portuguese_translation": "Porcada",
+      "definition": null,
+      "alternative_meanings": [
+        "Vara de porcos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jingúlu-1 — https://www.kimbundu.org/pt/word/jingulu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
