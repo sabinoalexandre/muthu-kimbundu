@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11214,
+      "kimbundu_term": "Kupúma",
+      "portuguese_translation": "Deitar borrifos em",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupúma-1 — https://www.kimbundu.org/pt/word/kupuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11215,
+      "kimbundu_term": "Kupúma",
+      "portuguese_translation": "Espumejar",
+      "definition": null,
+      "alternative_meanings": [
+        "deitar perdigotos",
+        "salivar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupúma-1 — https://www.kimbundu.org/pt/word/kupuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11216,
+      "kimbundu_term": "Kurbandela",
+      "portuguese_translation": "Subir por si",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kurbandela-1 — https://www.kimbundu.org/pt/word/kurbandela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11217,
+      "kimbundu_term": "Kurbandela",
+      "portuguese_translation": "Elevar-se sem auxílio estranho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kurbandela-1 — https://www.kimbundu.org/pt/word/kurbandela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11218,
+      "kimbundu_term": "Kurseba",
+      "portuguese_translation": "Enfeitar-se. (para agradar.)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kurseba-1 — https://www.kimbundu.org/pt/word/kurseba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11219,
+      "kimbundu_term": "Kurtisa",
+      "portuguese_translation": "Cortiça",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kurtisa-1 — https://www.kimbundu.org/pt/word/kurtisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11220,
+      "kimbundu_term": "Kusabhuka",
+      "portuguese_translation": "Despontar. Germinar",
+      "definition": null,
+      "alternative_meanings": [
+        "sair do solo: masa m'a sabuku. Nascer",
+        "deitar de si. Grelar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusabhuka-1 — https://www.kimbundu.org/pt/word/kusabhuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11221,
+      "kimbundu_term": "Kusabhuka",
+      "portuguese_translation": "Ato de brotar, de nascer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusabhuka-1 — https://www.kimbundu.org/pt/word/kusabhuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11222,
+      "kimbundu_term": "Kusabuatala",
+      "portuguese_translation": "Traquinar",
+      "definition": null,
+      "alternative_meanings": [
+        "ser buliçoso, indiscreto"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusabuatala-1 — https://www.kimbundu.org/pt/word/kusabuatala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11223,
+      "kimbundu_term": "Kusabujuxa",
+      "portuguese_translation": "Brotar, germinar muitas vezes. Reflorescor",
+      "definition": null,
+      "alternative_meanings": [
+        "rejuvenecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusabujuxa-1 — https://www.kimbundu.org/pt/word/kusabujuxa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
