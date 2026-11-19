@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18324,
+      "kimbundu_term": "Ngwé",
+      "portuguese_translation": "Recusa",
+      "definition": null,
+      "alternative_meanings": [
+        "Nega"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, pronome, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngwé-1 — https://www.kimbundu.org/pt/word/ngwe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18325,
+      "kimbundu_term": "Ngwendu",
+      "portuguese_translation": "Unguento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngwendu-1 — https://www.kimbundu.org/pt/word/ngwendu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18326,
+      "kimbundu_term": "Ngwenu",
+      "portuguese_translation": "e pron. interrog. pl. Não quereis",
+      "definition": null,
+      "alternative_meanings": [
+        "não consentis"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, pronome, substantivo, interrogativo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngwenu-1 — https://www.kimbundu.org/pt/word/ngwenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18327,
+      "kimbundu_term": "Ngwenu",
+      "portuguese_translation": "De forma nenhuma. Não podeis consentir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, pronome, substantivo, interrogativo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngwenu-1 — https://www.kimbundu.org/pt/word/ngwenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18328,
+      "kimbundu_term": "Ngwenu",
+      "portuguese_translation": "Recusa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, pronome, substantivo, interrogativo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngwenu-1 — https://www.kimbundu.org/pt/word/ngwenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18329,
+      "kimbundu_term": "Ngwetu",
+      "portuguese_translation": "Não queremos. Não aceitamos. Não consentimos: Não aceitamos de maneira nenhuma. Não podemos consentir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngwetu-1 — https://www.kimbundu.org/pt/word/ngwetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18330,
+      "kimbundu_term": "Ngwetu",
+      "portuguese_translation": "Negação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngwetu-1 — https://www.kimbundu.org/pt/word/ngwetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18331,
+      "kimbundu_term": "Ni",
+      "portuguese_translation": "copulativa. E",
+      "definition": null,
+      "alternative_meanings": [
+        "mais",
+        "também"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ni-1 — https://www.kimbundu.org/pt/word/ni",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18332,
+      "kimbundu_term": "Ni",
+      "portuguese_translation": "Preposição que estabelece várias relações: de companhia",
+      "definition": null,
+      "alternative_meanings": [
+        "de modo",
+        "causal, etc"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ni-1 — https://www.kimbundu.org/pt/word/ni",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18333,
+      "kimbundu_term": "Nikunda",
+      "portuguese_translation": "Segunda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nikunda-1 — https://www.kimbundu.org/pt/word/nikunda",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
