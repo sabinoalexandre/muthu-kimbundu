@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7774,
+      "kimbundu_term": "Kububila",
+      "portuguese_translation": "É também reflexivo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kububila-1 — https://www.kimbundu.org/pt/word/kububila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7775,
+      "kimbundu_term": "Kububuluka",
+      "portuguese_translation": "Descarar",
+      "definition": null,
+      "alternative_meanings": [
+        "perder a vergonha"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kububuluka-1 — https://www.kimbundu.org/pt/word/kububuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7776,
+      "kimbundu_term": "Kububuluka",
+      "portuguese_translation": "Desfaçatez",
+      "definition": null,
+      "alternative_meanings": [
+        "desaforo",
+        "impudência"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kububuluka-1 — https://www.kimbundu.org/pt/word/kububuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7777,
+      "kimbundu_term": "Kububulula",
+      "portuguese_translation": "Tirar da lavra o resto dos mantimentos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kububulula-1 — https://www.kimbundu.org/pt/word/kububulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7778,
+      "kimbundu_term": "Kububulula",
+      "portuguese_translation": "Proceder à segunda recolha dos cereais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kububulula-1 — https://www.kimbundu.org/pt/word/kububulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7779,
+      "kimbundu_term": "Kububulula",
+      "portuguese_translation": "Tornar descarado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kububulula-1 — https://www.kimbundu.org/pt/word/kububulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7780,
+      "kimbundu_term": "Kububulula",
+      "portuguese_translation": "Fazer perder a vergonha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kububulula-1 — https://www.kimbundu.org/pt/word/kububulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7781,
+      "kimbundu_term": "Kubudidika",
+      "portuguese_translation": "Enfestar",
+      "definition": null,
+      "alternative_meanings": [
+        "dobrar ao meio. Enrolar",
+        "envolver"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubudidika-1 — https://www.kimbundu.org/pt/word/kubudidika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7782,
+      "kimbundu_term": "Kubudidika",
+      "portuguese_translation": "Kuriburirika, v. r. Tapar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "envolver-se",
+        "cobrir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubudidika-1 — https://www.kimbundu.org/pt/word/kubudidika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7783,
+      "kimbundu_term": "Kubudijika",
+      "portuguese_translation": "Desfazer-se em muitos bocados. Esfrangalhar-se. Quebrar-se em muitas partes. Espedaçar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "partir-se muito"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubudijika-1 — https://www.kimbundu.org/pt/word/kubudijika",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
