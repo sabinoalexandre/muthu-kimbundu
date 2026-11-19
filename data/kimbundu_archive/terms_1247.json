@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12574,
+      "kimbundu_term": "Kutuama",
+      "portuguese_translation": "Antecedência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutuama-1 — https://www.kimbundu.org/pt/word/kutuama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12575,
+      "kimbundu_term": "Kutuameka",
+      "portuguese_translation": "Mandar adiantar, ir à frente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutuameka-1 — https://www.kimbundu.org/pt/word/kutuameka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12576,
+      "kimbundu_term": "Kutuamena",
+      "portuguese_translation": "Tomar a dianteira. Seguir ou estar em primeiro lugar",
+      "definition": null,
+      "alternative_meanings": [
+        "ter primazia"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutuamena-1 — https://www.kimbundu.org/pt/word/kutuamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12577,
+      "kimbundu_term": "Kutuamesa",
+      "portuguese_translation": "Fazer seguir antes. Mandar ir em primeiro lugar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutuamesa-1 — https://www.kimbundu.org/pt/word/kutuamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12578,
+      "kimbundu_term": "Kutuánga",
+      "portuguese_translation": "Vituperar",
+      "definition": null,
+      "alternative_meanings": [
+        "adjetivar",
+        "acusar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutuánga-1 — https://www.kimbundu.org/pt/word/kutuanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12579,
+      "kimbundu_term": "Kutuánga",
+      "portuguese_translation": "Lançamento em rosto de atos ignominiosos. É tb. r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutuánga-1 — https://www.kimbundu.org/pt/word/kutuanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12580,
+      "kimbundu_term": "Kutubhula",
+      "portuguese_translation": "Fazer sair (para não mais voltar)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutubhula-1 — https://www.kimbundu.org/pt/word/kutubhula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12581,
+      "kimbundu_term": "Kutubhula",
+      "portuguese_translation": "Furar: abrir caminho por meio de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutubhula-1 — https://www.kimbundu.org/pt/word/kutubhula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12582,
+      "kimbundu_term": "Kutubhula",
+      "portuguese_translation": "Perfurar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutubhula-1 — https://www.kimbundu.org/pt/word/kutubhula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12583,
+      "kimbundu_term": "Kutubhula",
+      "portuguese_translation": "Pôr fora",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutubhula-1 — https://www.kimbundu.org/pt/word/kutubhula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
