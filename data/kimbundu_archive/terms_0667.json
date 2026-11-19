@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6774,
+      "kimbundu_term": "Kizúka",
+      "portuguese_translation": "Árido",
+      "definition": null,
+      "alternative_meanings": [
+        "resequido"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizúka-1 — https://www.kimbundu.org/pt/word/kizuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6775,
+      "kimbundu_term": "Kizuku",
+      "portuguese_translation": "Tampão",
+      "definition": null,
+      "alternative_meanings": [
+        "rolha grande (geralmente de capim)",
+        "t.co",
+        "Porção de estopa para tapar botijas, calafetar fendas, etc",
+        "Tapulho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizuku-1 — https://www.kimbundu.org/pt/word/kizuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6776,
+      "kimbundu_term": "Kizukuilu",
+      "portuguese_translation": "Lugar em que habitualmente se acolita o hipopótamo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizukuilu-1 — https://www.kimbundu.org/pt/word/kizukuilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6777,
+      "kimbundu_term": "Kizúlu",
+      "portuguese_translation": "Desnudamente",
+      "definition": null,
+      "alternative_meanings": [
+        "nudez",
+        "Falta de folhas, de vegetação, de vestuário",
+        "Mudação",
+        "penúria"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizúlu-1 — https://www.kimbundu.org/pt/word/kizulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6778,
+      "kimbundu_term": "Kizulúlu",
+      "portuguese_translation": "Atração",
+      "definition": null,
+      "alternative_meanings": [
+        "simpatia",
+        "Companhia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizulúlu-1 — https://www.kimbundu.org/pt/word/kizululu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6779,
+      "kimbundu_term": "Kizuminu",
+      "portuguese_translation": "Som cavernoso",
+      "definition": null,
+      "alternative_meanings": [
+        "Rosnadúra"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizuminu-1 — https://www.kimbundu.org/pt/word/kizuminu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6780,
+      "kimbundu_term": "Kizuminu",
+      "portuguese_translation": "Ressonância",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizuminu-1 — https://www.kimbundu.org/pt/word/kizuminu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6781,
+      "kimbundu_term": "Kizunda",
+      "portuguese_translation": "Planta fam. das leguminosas, de fls. largas e flores em espiga papilionáceas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizunda-1 — https://www.kimbundu.org/pt/word/kizunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6782,
+      "kimbundu_term": "Kizunu",
+      "portuguese_translation": "Fanha",
+      "definition": null,
+      "alternative_meanings": [
+        "fala pelo nariz"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizunu-1 — https://www.kimbundu.org/pt/word/kizunu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6783,
+      "kimbundu_term": "Kizunu",
+      "portuguese_translation": "adj. Fanhoso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizunu-1 — https://www.kimbundu.org/pt/word/kizunu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
