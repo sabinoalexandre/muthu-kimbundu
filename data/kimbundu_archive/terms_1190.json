@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12004,
+      "kimbundu_term": "Kutabesa",
+      "portuguese_translation": "Mandar tirar água do rio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutabesa-1 — https://www.kimbundu.org/pt/word/kutabesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12005,
+      "kimbundu_term": "Kutabuisa",
+      "portuguese_translation": "Fazer passar para a outra margem do rio",
+      "definition": null,
+      "alternative_meanings": [
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutabuisa-1 — https://www.kimbundu.org/pt/word/kutabuisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12006,
+      "kimbundu_term": "Kutabujuka",
+      "portuguese_translation": "Repassar (para a outra banda)",
+      "definition": null,
+      "alternative_meanings": [
+        "Transpor o rio a miúde"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutabujuka-1 — https://www.kimbundu.org/pt/word/kutabujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12007,
+      "kimbundu_term": "Kutabujula",
+      "portuguese_translation": "Levar a passar por vezes um rio ou lagoa: — [jIngenjl?]",
+      "definition": null,
+      "alternative_meanings": [
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutabujula-1 — https://www.kimbundu.org/pt/word/kutabujula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12008,
+      "kimbundu_term": "Kutabujula",
+      "portuguese_translation": "por vezes um rio ou lagoa: — jinge-njil",
+      "definition": null,
+      "alternative_meanings": [
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutabujula-1 — https://www.kimbundu.org/pt/word/kutabujula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12009,
+      "kimbundu_term": "Kutabúka",
+      "portuguese_translation": "Atravessar ou transpor uma corrente de água",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutabúka-1 — https://www.kimbundu.org/pt/word/kutabuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12010,
+      "kimbundu_term": "Kutabúka",
+      "portuguese_translation": "Ir para a outra banda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutabúka-1 — https://www.kimbundu.org/pt/word/kutabuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12011,
+      "kimbundu_term": "Kutabúka",
+      "portuguese_translation": "Aportar",
+      "definition": null,
+      "alternative_meanings": [
+        "desembarcar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutabúka-1 — https://www.kimbundu.org/pt/word/kutabuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12012,
+      "kimbundu_term": "Kutabúka",
+      "portuguese_translation": "Aportamento",
+      "definition": null,
+      "alternative_meanings": [
+        "desembarque"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutabúka-1 — https://www.kimbundu.org/pt/word/kutabuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12013,
+      "kimbundu_term": "Kutabukisa",
+      "portuguese_translation": "Fazer passar uma corrente de água",
+      "definition": null,
+      "alternative_meanings": [
+        "Tb. se diz kutabuisa"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutabukisa-1 — https://www.kimbundu.org/pt/word/kutabukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
