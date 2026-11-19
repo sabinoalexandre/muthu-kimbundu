@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7024,
+      "kimbundu_term": "Kubalúla",
+      "portuguese_translation": "Kuribalula, v. r. Prevenir-se (tocando o parceiro com o dedo)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubalúla-1 — https://www.kimbundu.org/pt/word/kubalula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7025,
+      "kimbundu_term": "Kubalúla",
+      "portuguese_translation": "Dar sinal de entendido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubalúla-1 — https://www.kimbundu.org/pt/word/kubalula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7026,
+      "kimbundu_term": "Kubalumuna",
+      "portuguese_translation": "Fazer levantar, erguer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubalumuna-1 — https://www.kimbundu.org/pt/word/kubalumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7027,
+      "kimbundu_term": "Kubalumuna",
+      "portuguese_translation": "Fazer pôr de pé (a pessoa)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubalumuna-1 — https://www.kimbundu.org/pt/word/kubalumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7028,
+      "kimbundu_term": "Kubalumuna",
+      "portuguese_translation": "Fazer que (alguém) se levante do lugar onde está deitado ou assentado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubalumuna-1 — https://www.kimbundu.org/pt/word/kubalumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7029,
+      "kimbundu_term": "Kúbambuka",
+      "portuguese_translation": "Desviar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbambuka-1 — https://www.kimbundu.org/pt/word/kubambuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7030,
+      "kimbundu_term": "Kúbambuka",
+      "portuguese_translation": "Atravessar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbambuka-1 — https://www.kimbundu.org/pt/word/kubambuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7031,
+      "kimbundu_term": "Kúbambuka",
+      "portuguese_translation": "Tirar do caminho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbambuka-1 — https://www.kimbundu.org/pt/word/kubambuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7032,
+      "kimbundu_term": "Kúbambuka",
+      "portuguese_translation": "Encrusar",
+      "definition": null,
+      "alternative_meanings": [
+        "atalhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbambuka-1 — https://www.kimbundu.org/pt/word/kubambuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7033,
+      "kimbundu_term": "Kúbambuka",
+      "portuguese_translation": "Encurtar",
+      "definition": null,
+      "alternative_meanings": [
+        "tomar por caminho secundário que evita rodear pelo principal"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbambuka-1 — https://www.kimbundu.org/pt/word/kubambuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
