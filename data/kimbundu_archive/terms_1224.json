@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12344,
+      "kimbundu_term": "Kutetejeka",
+      "portuguese_translation": "Simular",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutetejeka-1 — https://www.kimbundu.org/pt/word/kutetejeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12345,
+      "kimbundu_term": "Kutetejeka",
+      "portuguese_translation": "lar",
+      "definition": null,
+      "alternative_meanings": [
+        "disfarçar",
+        "fingir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutetejeka-1 — https://www.kimbundu.org/pt/word/kutetejeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12346,
+      "kimbundu_term": "Kutetejeka",
+      "portuguese_translation": "Kuritetejeka, e r. Vestir-se de modo a parecer outro",
+      "definition": null,
+      "alternative_meanings": [
+        "Mascarar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutetejeka-1 — https://www.kimbundu.org/pt/word/kutetejeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12347,
+      "kimbundu_term": "Kuteteka",
+      "portuguese_translation": "Engalanar",
+      "definition": null,
+      "alternative_meanings": [
+        "adornar",
+        "enfeitar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuteteka-1 — https://www.kimbundu.org/pt/word/kuteteka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12348,
+      "kimbundu_term": "Kuteteka",
+      "portuguese_translation": "Kuriteteka, e r. Arrebicar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "encher-se de atavios"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuteteka-1 — https://www.kimbundu.org/pt/word/kuteteka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12349,
+      "kimbundu_term": "Kutetuila",
+      "portuguese_translation": "Revelar",
+      "definition": null,
+      "alternative_meanings": [
+        "indicar",
+        "descobrir (a origem)",
+        "Dar a conhecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutetuila-1 — https://www.kimbundu.org/pt/word/kutetuila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12350,
+      "kimbundu_term": "Kutetujuka",
+      "portuguese_translation": "Ficar descascado em muitos lugares",
+      "definition": null,
+      "alternative_meanings": [
+        "Ter mossas",
+        "Diz-se da fruta que tem a casca levantada em muitos lugares"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutetujuka-1 — https://www.kimbundu.org/pt/word/kutetujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12351,
+      "kimbundu_term": "Kutetujula",
+      "portuguese_translation": "Descascar aos poucos",
+      "definition": null,
+      "alternative_meanings": [
+        "Tirar a pele a pouco e pouco",
+        "fazer mossas",
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutetujula-1 — https://www.kimbundu.org/pt/word/kutetujula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12352,
+      "kimbundu_term": "Kutetuka",
+      "portuguese_translation": "Ficar pelado, descascado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutetuka-1 — https://www.kimbundu.org/pt/word/kutetuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12353,
+      "kimbundu_term": "Kutetuka",
+      "portuguese_translation": "Ficar revelado, confirmado, descoberto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutetuka-1 — https://www.kimbundu.org/pt/word/kutetuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
