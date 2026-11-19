@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18484,
+      "kimbundu_term": "Nzenzela",
+      "portuguese_translation": "Enfiada",
+      "definition": null,
+      "alternative_meanings": [
+        "fio (de pérolas, etc.)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzenzela-1 — https://www.kimbundu.org/pt/word/nzenzela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18485,
+      "kimbundu_term": "Nzenzela",
+      "portuguese_translation": "Colar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzenzela-1 — https://www.kimbundu.org/pt/word/nzenzela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18486,
+      "kimbundu_term": "Nzéta",
+      "portuguese_translation": "Fresco",
+      "definition": null,
+      "alternative_meanings": [
+        "tenro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzéta-1 — https://www.kimbundu.org/pt/word/nzeta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18487,
+      "kimbundu_term": "Nzéta",
+      "portuguese_translation": "Saído há pouco da terra ou da haste",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzéta-1 — https://www.kimbundu.org/pt/word/nzeta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18488,
+      "kimbundu_term": "Nzéu",
+      "portuguese_translation": "Formigão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzéu-1 — https://www.kimbundu.org/pt/word/nzeu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18489,
+      "kimbundu_term": "Nzéu",
+      "portuguese_translation": "Formiga grande de cor preta, de mordedura dolorosa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzéu-1 — https://www.kimbundu.org/pt/word/nzeu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18490,
+      "kimbundu_term": "Nzéu",
+      "portuguese_translation": "Caminheiro",
+      "definition": null,
+      "alternative_meanings": [
+        "viandante"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzéu-1 — https://www.kimbundu.org/pt/word/nzeu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18491,
+      "kimbundu_term": "Nzévu",
+      "portuguese_translation": "Bigode",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzévu-1 — https://www.kimbundu.org/pt/word/nzevu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18492,
+      "kimbundu_term": "Nzévu",
+      "portuguese_translation": "Pêlos que guarnecem o focinho de certos animais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzévu-1 — https://www.kimbundu.org/pt/word/nzevu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18493,
+      "kimbundu_term": "Nzo",
+      "portuguese_translation": "Abreviatura de inzo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzo-1 — https://www.kimbundu.org/pt/word/nzo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
