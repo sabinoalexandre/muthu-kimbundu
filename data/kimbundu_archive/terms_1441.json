@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14514,
+      "kimbundu_term": "Mâji",
+      "portuguese_translation": "Ungüento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mâji-1 — https://www.kimbundu.org/pt/word/maji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14515,
+      "kimbundu_term": "Mâji",
+      "portuguese_translation": "Almécega",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mâji-1 — https://www.kimbundu.org/pt/word/maji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14516,
+      "kimbundu_term": "Mâji",
+      "portuguese_translation": "Azeitar",
+      "definition": null,
+      "alternative_meanings": [
+        "olear",
+        "untar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mâji-1 — https://www.kimbundu.org/pt/word/maji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14517,
+      "kimbundu_term": "Maji",
+      "portuguese_translation": "Mas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maji-1 — https://www.kimbundu.org/pt/word/maji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14518,
+      "kimbundu_term": "Májiku",
+      "portuguese_translation": "Lugares onde se cozinha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, májiku-1 — https://www.kimbundu.org/pt/word/majiku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14519,
+      "kimbundu_term": "Májiku",
+      "portuguese_translation": "Fogos",
+      "definition": null,
+      "alternative_meanings": [
+        "lares"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, májiku-1 — https://www.kimbundu.org/pt/word/majiku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14520,
+      "kimbundu_term": "Májina",
+      "portuguese_translation": "Nomes",
+      "definition": null,
+      "alternative_meanings": [
+        "adjetivações"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, májina-1 — https://www.kimbundu.org/pt/word/majina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14521,
+      "kimbundu_term": "Májina",
+      "portuguese_translation": "Ultrajes",
+      "definition": null,
+      "alternative_meanings": [
+        "injúrias"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, májina-1 — https://www.kimbundu.org/pt/word/majina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14522,
+      "kimbundu_term": "Majita",
+      "portuguese_translation": "Laçaria",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, majita-1 — https://www.kimbundu.org/pt/word/majita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14523,
+      "kimbundu_term": "Majita",
+      "portuguese_translation": "Muitos nós em um cordel",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, majita-1 — https://www.kimbundu.org/pt/word/majita",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
