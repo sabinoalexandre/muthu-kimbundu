@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15114,
+      "kimbundu_term": "Mbámbi",
+      "portuguese_translation": "( ) jinguba",
+      "definition": null,
+      "alternative_meanings": [
+        "amendoim"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbámbi-1 — https://www.kimbundu.org/pt/word/mbambi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15115,
+      "kimbundu_term": "Mbámbi",
+      "portuguese_translation": "Vila, concelho e circunscrição civil de Cambambe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbámbi-1 — https://www.kimbundu.org/pt/word/mbambi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15116,
+      "kimbundu_term": "Mbâmbu",
+      "portuguese_translation": "Envenenamento acompanhado de sortilégio",
+      "definition": null,
+      "alternative_meanings": [
+        "venefício",
+        "veneno do juramento",
+        "ato de preparar este veneno"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbâmbu-1 — https://www.kimbundu.org/pt/word/mbambu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15117,
+      "kimbundu_term": "Mbâmbu",
+      "portuguese_translation": "Planta venenosa da família das gramíneas, assim conhecida em Ambaca, também chamada ndúua (bambusa vulgaris)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbâmbu-1 — https://www.kimbundu.org/pt/word/mbambu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15118,
+      "kimbundu_term": "Mbâmbu",
+      "portuguese_translation": "Costado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbâmbu-1 — https://www.kimbundu.org/pt/word/mbambu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15119,
+      "kimbundu_term": "Mbâmvu",
+      "portuguese_translation": "Pássaro castanho de bico vermelho, que acompanha o gado bovino e se alimenta de carraças. Búfago",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbâmvu-1 — https://www.kimbundu.org/pt/word/mbamvu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15120,
+      "kimbundu_term": "Mbanda",
+      "portuguese_translation": "Preceito",
+      "definition": null,
+      "alternative_meanings": [
+        "mandamento",
+        "prescrição",
+        "indicações",
+        "licença",
+        "atos prescritos pela religião contra os supostos espíritos maus",
+        "regra"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbanda-1 — https://www.kimbundu.org/pt/word/mbanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15121,
+      "kimbundu_term": "Mbánda",
+      "portuguese_translation": "Lagoa na área do posto civil da Funda, circunscrição de Icolo e Bengo, distrito e província de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbánda-1 — https://www.kimbundu.org/pt/word/mbanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15122,
+      "kimbundu_term": "Mbanda-njila",
+      "portuguese_translation": "Ofídio venenoso, de cor amarelo-torrada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbanda-njila-1 — https://www.kimbundu.org/pt/word/mbanda-njila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15123,
+      "kimbundu_term": "Mbandamena",
+      "portuguese_translation": "Estacionamento",
+      "definition": null,
+      "alternative_meanings": [
+        "suspensão",
+        "parada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbandamena-1 — https://www.kimbundu.org/pt/word/mbandamena",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
