@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5784,
+      "kimbundu_term": "Kinguálasa",
+      "portuguese_translation": "Garça",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinguálasa-1 — https://www.kimbundu.org/pt/word/kingualasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5785,
+      "kimbundu_term": "Kinguángua",
+      "portuguese_translation": "Usurpador",
+      "definition": null,
+      "alternative_meanings": [
+        "Pessoa que se apossa do alheio por meio de barulhos ou desordens propositadas",
+        "Homem sem escrúpulos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinguángua-1 — https://www.kimbundu.org/pt/word/kinguangua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5786,
+      "kimbundu_term": "Kinguanjí",
+      "portuguese_translation": "Canibal",
+      "definition": null,
+      "alternative_meanings": [
+        "antropófago",
+        "Asqueroso, cruel, infame",
+        "Homem esgrouviado, feroz e escanzelado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinguanjí-1 — https://www.kimbundu.org/pt/word/kinguanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5787,
+      "kimbundu_term": "Kingudi",
+      "portuguese_translation": "Tronco de descendência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingudi-1 — https://www.kimbundu.org/pt/word/kingudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5788,
+      "kimbundu_term": "Kingudi",
+      "portuguese_translation": "Pessoa de que principiou a origem de uma família",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingudi-1 — https://www.kimbundu.org/pt/word/kingudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5789,
+      "kimbundu_term": "Kingudi",
+      "portuguese_translation": "Genitor",
+      "definition": null,
+      "alternative_meanings": [
+        "procedência"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingudi-1 — https://www.kimbundu.org/pt/word/kingudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5790,
+      "kimbundu_term": "Kingudi",
+      "portuguese_translation": "Ponto de que principiam as raízes de uma planta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingudi-1 — https://www.kimbundu.org/pt/word/kingudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5791,
+      "kimbundu_term": "Kingudi",
+      "portuguese_translation": "Que procria",
+      "definition": null,
+      "alternative_meanings": [
+        "que faz germinar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingudi-1 — https://www.kimbundu.org/pt/word/kingudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5792,
+      "kimbundu_term": "Kingudi",
+      "portuguese_translation": "Gerador",
+      "definition": null,
+      "alternative_meanings": [
+        "ascendente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingudi-1 — https://www.kimbundu.org/pt/word/kingudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5793,
+      "kimbundu_term": "Kingudila",
+      "portuguese_translation": "Acidez do estômago",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingudila-1 — https://www.kimbundu.org/pt/word/kingudila",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
