@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9574,
+      "kimbundu_term": "Kúkonda",
+      "portuguese_translation": "Suavizar",
+      "definition": null,
+      "alternative_meanings": [
+        "consolar, atenuar",
+        "Agasalhar, tapar, cercar de cuidados"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkonda-1 — https://www.kimbundu.org/pt/word/kukonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9575,
+      "kimbundu_term": "Kúkonda",
+      "portuguese_translation": "Estar atribulado, cheio de amargura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkonda-1 — https://www.kimbundu.org/pt/word/kukonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9576,
+      "kimbundu_term": "Kukondala",
+      "portuguese_translation": "Curvar",
+      "definition": null,
+      "alternative_meanings": [
+        "Ficar em forma de arco"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukondala-1 — https://www.kimbundu.org/pt/word/kukondala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9577,
+      "kimbundu_term": "Kukondalala",
+      "portuguese_translation": "Estar recurvado, torto",
+      "definition": null,
+      "alternative_meanings": [
+        "Ficar arqueado",
+        "Estar desviado da direção"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukondalala-1 — https://www.kimbundu.org/pt/word/kukondalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9578,
+      "kimbundu_term": "Kukondalalesa",
+      "portuguese_translation": "Fazer recurvar, entortar",
+      "definition": null,
+      "alternative_meanings": [
+        "Arquear"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukondalalesa-1 — https://www.kimbundu.org/pt/word/kukondalalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9579,
+      "kimbundu_term": "Kukondalesa",
+      "portuguese_translation": "Fazer curvar, dar a forma de arco (segurando pelas duas extremidades)",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer desviar da linha reta"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukondalesa-1 — https://www.kimbundu.org/pt/word/kukondalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9580,
+      "kimbundu_term": "Kukondama",
+      "portuguese_translation": "Estar resguardado, abrigado, recatado",
+      "definition": null,
+      "alternative_meanings": [
+        "Estar seguro, oculto"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukondama-1 — https://www.kimbundu.org/pt/word/kukondama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9581,
+      "kimbundu_term": "Kukondama",
+      "portuguese_translation": "Resguardo",
+      "definition": null,
+      "alternative_meanings": [
+        "decência"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukondama-1 — https://www.kimbundu.org/pt/word/kukondama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9582,
+      "kimbundu_term": "Kukondamesa",
+      "portuguese_translation": "Recatar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer resguardar, acautelar",
+        "Abrigar",
+        "ocultar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukondamesa-1 — https://www.kimbundu.org/pt/word/kukondamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9583,
+      "kimbundu_term": "Kukondeka",
+      "portuguese_translation": "Respeitar",
+      "definition": null,
+      "alternative_meanings": [
+        "louvar",
+        "Abençoar",
+        "bendizer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukondeka-1 — https://www.kimbundu.org/pt/word/kukondeka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
