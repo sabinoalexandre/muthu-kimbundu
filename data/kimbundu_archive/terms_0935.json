@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9454,
+      "kimbundu_term": "Kukitula",
+      "portuguese_translation": "Fazer ser (o que não era)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukitula-1 — https://www.kimbundu.org/pt/word/kukitula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9455,
+      "kimbundu_term": "Kukitula",
+      "portuguese_translation": "Metamorfosear",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer mudar (de forma)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukitula-1 — https://www.kimbundu.org/pt/word/kukitula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9456,
+      "kimbundu_term": "Kukitula",
+      "portuguese_translation": "Transfigurar",
+      "definition": null,
+      "alternative_meanings": [
+        "mudar o aspeto de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukitula-2 — https://www.kimbundu.org/pt/word/kukitula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9457,
+      "kimbundu_term": "Kukitula",
+      "portuguese_translation": "Alterar, tornar diferente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukitula-2 — https://www.kimbundu.org/pt/word/kukitula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9458,
+      "kimbundu_term": "Kukituluka",
+      "portuguese_translation": "Ficar transfigurado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukituluka-1 — https://www.kimbundu.org/pt/word/kukituluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9459,
+      "kimbundu_term": "Kukituluka",
+      "portuguese_translation": "Metamorfosear-se, não ser o mesmo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukituluka-1 — https://www.kimbundu.org/pt/word/kukituluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9460,
+      "kimbundu_term": "Kukituluka",
+      "portuguese_translation": "Ruborizar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "mudar de aspeto"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukituluka-1 — https://www.kimbundu.org/pt/word/kukituluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9461,
+      "kimbundu_term": "Kukituluka",
+      "portuguese_translation": "Transfiguração",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukituluka-1 — https://www.kimbundu.org/pt/word/kukituluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9462,
+      "kimbundu_term": "Kukituluka",
+      "portuguese_translation": "Metamorfose",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukituluka-1 — https://www.kimbundu.org/pt/word/kukituluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9463,
+      "kimbundu_term": "Kukobhalala",
+      "portuguese_translation": "Cobrar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukobhalala-1 — https://www.kimbundu.org/pt/word/kukobhalala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
