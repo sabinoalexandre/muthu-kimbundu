@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3264,
+      "kimbundu_term": "Kajimvunda",
+      "portuguese_translation": "Desordeiro",
+      "definition": null,
+      "alternative_meanings": [
+        "Amotinador",
+        "Que provoca conflitos, desordens"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kajimvunda-1 — https://www.kimbundu.org/pt/word/kajimvunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3265,
+      "kimbundu_term": "Kajindungu",
+      "portuguese_translation": "Picante",
+      "definition": null,
+      "alternative_meanings": [
+        "Ardente",
+        "Que sabe a pimenta"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kajindungu-1 — https://www.kimbundu.org/pt/word/kajindungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3266,
+      "kimbundu_term": "Kajindungu",
+      "portuguese_translation": "O da pimenta",
+      "definition": null,
+      "alternative_meanings": [
+        "seu vendedor"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kajindungu-1 — https://www.kimbundu.org/pt/word/kajindungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3267,
+      "kimbundu_term": "Kajínga",
+      "portuguese_translation": "Pequeno barrete tecido de palha fina",
+      "definition": null,
+      "alternative_meanings": [
+        "Cobertura de cabeça dos clérigos",
+        "Insígnia de autoridade",
+        "Solideu",
+        "Barretinho de tecido ou malha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kajínga-1 — https://www.kimbundu.org/pt/word/kajinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3268,
+      "kimbundu_term": "Kajisabi",
+      "portuguese_translation": "Que tem a seu cargo a guarda das chaves",
+      "definition": null,
+      "alternative_meanings": [
+        "Carcereiro",
+        "chaveiro",
+        "Que lida com chaves"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kajisabi-1 — https://www.kimbundu.org/pt/word/kajisabi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3269,
+      "kimbundu_term": "Kajitendu",
+      "portuguese_translation": "Que tem ou vende castanhas",
+      "definition": null,
+      "alternative_meanings": [
+        "Castanheira"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kajitendu-1 — https://www.kimbundu.org/pt/word/kajitendu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3270,
+      "kimbundu_term": "Kajitendu",
+      "portuguese_translation": "Pov. e sede do posto deste nome, circ. civ. dos Dembos, distr. e prov. de Luanda, com 1.686 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kajitendu-1 — https://www.kimbundu.org/pt/word/kajitendu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3271,
+      "kimbundu_term": "Kajitetembua",
+      "portuguese_translation": "Dos astros",
+      "definition": null,
+      "alternative_meanings": [
+        "Sideral",
+        "Relativo às estrelas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kajitetembua-1 — https://www.kimbundu.org/pt/word/kajitetembua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3272,
+      "kimbundu_term": "Kajú",
+      "portuguese_translation": "Fruto de cajueiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kajú-1 — https://www.kimbundu.org/pt/word/kaju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3273,
+      "kimbundu_term": "Káka",
+      "portuguese_translation": "E -ta",
+      "definition": null,
+      "alternative_meanings": [
+        "este"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, káka-1 — https://www.kimbundu.org/pt/word/kaka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
