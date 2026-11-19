@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12524,
+      "kimbundu_term": "Kutóta",
+      "portuguese_translation": "Ver mal",
+      "definition": null,
+      "alternative_meanings": [
+        "pecar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutóta-1 — https://www.kimbundu.org/pt/word/kutota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12525,
+      "kimbundu_term": "Kutóta",
+      "portuguese_translation": "Errar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutóta-1 — https://www.kimbundu.org/pt/word/kutota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12526,
+      "kimbundu_term": "Kutóta",
+      "portuguese_translation": "Caminhar devagar",
+      "definition": null,
+      "alternative_meanings": [
+        "andar às apalpadelas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutóta-1 — https://www.kimbundu.org/pt/word/kutota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12527,
+      "kimbundu_term": "Kutotejeka",
+      "portuguese_translation": "Mosquear",
+      "definition": null,
+      "alternative_meanings": [
+        "marcar com pintinhas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutotejeka-1 — https://www.kimbundu.org/pt/word/kutotejeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12528,
+      "kimbundu_term": "Kutotejeka",
+      "portuguese_translation": "Estar sarapintado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutotejeka-1 — https://www.kimbundu.org/pt/word/kutotejeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12529,
+      "kimbundu_term": "Kutoteka",
+      "portuguese_translation": "Estampar",
+      "definition": null,
+      "alternative_meanings": [
+        "carimbar",
+        "imprimir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutoteka-1 — https://www.kimbundu.org/pt/word/kutoteka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12530,
+      "kimbundu_term": "Kutoteka",
+      "portuguese_translation": "Queimar",
+      "definition": null,
+      "alternative_meanings": [
+        "chegar fogo a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutoteka-1 — https://www.kimbundu.org/pt/word/kutoteka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12531,
+      "kimbundu_term": "Kutoteka",
+      "portuguese_translation": "Pontuar",
+      "definition": null,
+      "alternative_meanings": [
+        "marcar com o dedo",
+        "pungir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutoteka-1 — https://www.kimbundu.org/pt/word/kutoteka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12532,
+      "kimbundu_term": "Kutoteka",
+      "portuguese_translation": "Kuritoteka, v. r. Macular-se",
+      "definition": null,
+      "alternative_meanings": [
+        "queimar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutoteka-1 — https://www.kimbundu.org/pt/word/kutoteka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12533,
+      "kimbundu_term": "Kutoteka",
+      "portuguese_translation": "Deitar a correr",
+      "definition": null,
+      "alternative_meanings": [
+        "fugir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutoteka-1 — https://www.kimbundu.org/pt/word/kutoteka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
