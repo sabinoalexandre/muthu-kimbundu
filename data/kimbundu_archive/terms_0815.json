@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8254,
+      "kimbundu_term": "Kudimuena",
+      "portuguese_translation": "Ver (com os próprios olhos). Estar crente, convencido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudimuena-1 — https://www.kimbundu.org/pt/word/kudimuena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8255,
+      "kimbundu_term": "Kudimuka",
+      "portuguese_translation": "Ser esperto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudimuka-1 — https://www.kimbundu.org/pt/word/kudimuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8256,
+      "kimbundu_term": "Kudimuka",
+      "portuguese_translation": "Esperteza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudimuka-1 — https://www.kimbundu.org/pt/word/kudimuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8257,
+      "kimbundu_term": "Kudimuka",
+      "portuguese_translation": "Astúcia",
+      "definition": null,
+      "alternative_meanings": [
+        "sagacidade"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudimuka-1 — https://www.kimbundu.org/pt/word/kudimuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8258,
+      "kimbundu_term": "Kudimukina",
+      "portuguese_translation": "Empregar astúcia sobre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudimukina-1 — https://www.kimbundu.org/pt/word/kudimukina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8259,
+      "kimbundu_term": "Kudimukina",
+      "portuguese_translation": "Tornar-se esperto para",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudimukina-1 — https://www.kimbundu.org/pt/word/kudimukina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8260,
+      "kimbundu_term": "Kudimukisa",
+      "portuguese_translation": "Fazer ter esperteza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudimukisa-1 — https://www.kimbundu.org/pt/word/kudimukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8261,
+      "kimbundu_term": "Kudimukisa",
+      "portuguese_translation": "Pôr de sobreaviso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudimukisa-1 — https://www.kimbundu.org/pt/word/kudimukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8262,
+      "kimbundu_term": "Kudimuna",
+      "portuguese_translation": "Avisar",
+      "definition": null,
+      "alternative_meanings": [
+        "despertar",
+        "prevenir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudimuna-1 — https://www.kimbundu.org/pt/word/kudimuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8263,
+      "kimbundu_term": "Kudinyikita",
+      "portuguese_translation": "Choutar",
+      "definition": null,
+      "alternative_meanings": [
+        "andar aos solavancos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudinyikita-1 — https://www.kimbundu.org/pt/word/kudinyikita",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
