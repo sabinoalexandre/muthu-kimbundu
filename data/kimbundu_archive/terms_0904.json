@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9144,
+      "kimbundu_term": "Kúkakela",
+      "portuguese_translation": "Vaticinar",
+      "definition": null,
+      "alternative_meanings": [
+        "predizer (o mal)",
+        "Imprecar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkakela-1 — https://www.kimbundu.org/pt/word/kukakela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9145,
+      "kimbundu_term": "Kúkakela",
+      "portuguese_translation": "Praguejamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkakela-1 — https://www.kimbundu.org/pt/word/kukakela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9146,
+      "kimbundu_term": "Kukakuka",
+      "portuguese_translation": "Estar apto",
+      "definition": null,
+      "alternative_meanings": [
+        "Diz-se da criança que tomou o primeiro alimento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukakuka-1 — https://www.kimbundu.org/pt/word/kukakuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9147,
+      "kimbundu_term": "Kukakula",
+      "portuguese_translation": "Dar (à criança) o primeiro alimento",
+      "definition": null,
+      "alternative_meanings": [
+        "Iniciar o filho nos segredos e destinos da família",
+        "fig. Batizar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukakula-1 — https://www.kimbundu.org/pt/word/kukakula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9148,
+      "kimbundu_term": "Kukakula",
+      "portuguese_translation": "Estado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukakula-1 — https://www.kimbundu.org/pt/word/kukakula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9149,
+      "kimbundu_term": "Kúkala",
+      "portuguese_translation": "Estar",
+      "definition": null,
+      "alternative_meanings": [
+        "permanecer",
+        "residir",
+        "Viver",
+        "existir",
+        "Morar",
+        "conviver"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkala-1 — https://www.kimbundu.org/pt/word/kukala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9150,
+      "kimbundu_term": "Kúkala",
+      "portuguese_translation": "Ter",
+      "definition": null,
+      "alternative_meanings": [
+        "haver",
+        "possuir",
+        "Dizer respeito a",
+        "Ser relativo a",
+        "pertencer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkala-1 — https://www.kimbundu.org/pt/word/kukala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9151,
+      "kimbundu_term": "Kúkala",
+      "portuguese_translation": "Estado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkala-1 — https://www.kimbundu.org/pt/word/kukala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9152,
+      "kimbundu_term": "Kukála",
+      "portuguese_translation": "Escalar",
+      "definition": null,
+      "alternative_meanings": [
+        "Dilacerar carne",
+        "cortar de alto a baixo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukála-1 — https://www.kimbundu.org/pt/word/kukala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9153,
+      "kimbundu_term": "Kukála",
+      "portuguese_translation": "Escalamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukála-1 — https://www.kimbundu.org/pt/word/kukala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
