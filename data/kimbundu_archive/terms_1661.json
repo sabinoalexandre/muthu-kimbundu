@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16714,
+      "kimbundu_term": "Mulóloke",
+      "portuguese_translation": "Penitência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulóloke-1 — https://www.kimbundu.org/pt/word/muloloke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16715,
+      "kimbundu_term": "Mulolóki",
+      "portuguese_translation": "Que perdoa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulolóki-1 — https://www.kimbundu.org/pt/word/muloloki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16716,
+      "kimbundu_term": "Mulolóki",
+      "portuguese_translation": "Pessoa que absolve",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulolóki-1 — https://www.kimbundu.org/pt/word/muloloki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16717,
+      "kimbundu_term": "Mulolóki",
+      "portuguese_translation": "Aquele que confere indulgências",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulolóki-1 — https://www.kimbundu.org/pt/word/muloloki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16718,
+      "kimbundu_term": "Mulómbe",
+      "portuguese_translation": "Mascarado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulómbe-1 — https://www.kimbundu.org/pt/word/mulombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16719,
+      "kimbundu_term": "Mulómbe",
+      "portuguese_translation": "Que suja com carvão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulómbe-1 — https://www.kimbundu.org/pt/word/mulombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16720,
+      "kimbundu_term": "Mulómbe",
+      "portuguese_translation": "Maldito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulómbe-1 — https://www.kimbundu.org/pt/word/mulombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16721,
+      "kimbundu_term": "Mulômbe",
+      "portuguese_translation": "Azul",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Maldição"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulômbe-1 — https://www.kimbundu.org/pt/word/mulombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16722,
+      "kimbundu_term": "Mulômbe",
+      "portuguese_translation": "Azul carregado",
+      "definition": null,
+      "alternative_meanings": [
+        "azul loio. Azulado",
+        "sombrio",
+        "escuro",
+        "Que faz escurecer"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulômbe-1 — https://www.kimbundu.org/pt/word/mulombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16723,
+      "kimbundu_term": "Mulómbi",
+      "portuguese_translation": "Azulador",
+      "definition": null,
+      "alternative_meanings": [
+        "toldador",
+        "Que faz escurecer ou confundir com o azul do céu"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulómbi-1 — https://www.kimbundu.org/pt/word/mulombi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
