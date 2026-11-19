@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4374,
+      "kimbundu_term": "Kazûndu",
+      "portuguese_translation": "Rã. É também adj",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kazûndu-1 — https://www.kimbundu.org/pt/word/kazundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4375,
+      "kimbundu_term": "Kázunu",
+      "portuguese_translation": "Provocação",
+      "definition": null,
+      "alternative_meanings": [
+        "desafio",
+        "repto",
+        "Ato de provocar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, toponímia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kázunu-1 — https://www.kimbundu.org/pt/word/kazunu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4376,
+      "kimbundu_term": "Kázunu",
+      "portuguese_translation": "topon. Antigo bairro da cidade de Luanda, perto do Asilo D. Pedro V",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, toponímia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kázunu-1 — https://www.kimbundu.org/pt/word/kazunu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4377,
+      "kimbundu_term": "Ke",
+      "portuguese_translation": "e pron. poss. (contr. da prep. ka e do pron. muene). Dela",
+      "definition": null,
+      "alternative_meanings": [
+        "dêle"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ke-1 — https://www.kimbundu.org/pt/word/ke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4378,
+      "kimbundu_term": "Ke",
+      "portuguese_translation": "Da sua pessoa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ke-1 — https://www.kimbundu.org/pt/word/ke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4379,
+      "kimbundu_term": "Ke",
+      "portuguese_translation": "Pertencente à pessoa dele",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ke-1 — https://www.kimbundu.org/pt/word/ke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4380,
+      "kimbundu_term": "Ke",
+      "portuguese_translation": "O dela",
+      "definition": null,
+      "alternative_meanings": [
+        "o dele"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ke-1 — https://www.kimbundu.org/pt/word/ke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4381,
+      "kimbundu_term": "Ké",
+      "portuguese_translation": "e pron. poss. (contr. da prep. ka e do pron. éte). Teu",
+      "definition": null,
+      "alternative_meanings": [
+        "tua"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ké-1 — https://www.kimbundu.org/pt/word/ke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4382,
+      "kimbundu_term": "Ké",
+      "portuguese_translation": "Da tua ou pertencente à tua pessoa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ké-1 — https://www.kimbundu.org/pt/word/ke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4383,
+      "kimbundu_term": "Ké",
+      "portuguese_translation": "sub. O teu",
+      "definition": null,
+      "alternative_meanings": [
+        "o da tua pessoa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ké-1 — https://www.kimbundu.org/pt/word/ke",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
