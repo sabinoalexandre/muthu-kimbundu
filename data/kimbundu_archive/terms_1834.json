@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18444,
+      "kimbundu_term": "Nzāmbi",
+      "portuguese_translation": "Deus",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzāmbi-1 — https://www.kimbundu.org/pt/word/nzambi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18445,
+      "kimbundu_term": "Nzāmbi",
+      "portuguese_translation": "Santo",
+      "definition": null,
+      "alternative_meanings": [
+        "divindade de qualquer religião",
+        "cada um dos membros da Trindade cristã"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzāmbi-1 — https://www.kimbundu.org/pt/word/nzambi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18446,
+      "kimbundu_term": "Nzāmbi",
+      "portuguese_translation": "o Ser Supremo",
+      "definition": null,
+      "alternative_meanings": [
+        "o Todo Poderoso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzāmbi-1 — https://www.kimbundu.org/pt/word/nzambi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18447,
+      "kimbundu_term": "Nzāmbi",
+      "portuguese_translation": "Ídolo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzāmbi-1 — https://www.kimbundu.org/pt/word/nzambi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18448,
+      "kimbundu_term": "Nzangi",
+      "portuguese_translation": "Que é essencialmente bom",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzangi-1 — https://www.kimbundu.org/pt/word/nzangi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18449,
+      "kimbundu_term": "Nzangi",
+      "portuguese_translation": "Boa pessoa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzangi-1 — https://www.kimbundu.org/pt/word/nzangi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18450,
+      "kimbundu_term": "Nzangi",
+      "portuguese_translation": "mártir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzangi-1 — https://www.kimbundu.org/pt/word/nzangi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18451,
+      "kimbundu_term": "Nzangidi",
+      "portuguese_translation": "Petulante",
+      "definition": null,
+      "alternative_meanings": [
+        "brigão",
+        "desordeiro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzangidi-1 — https://www.kimbundu.org/pt/word/nzangidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18452,
+      "kimbundu_term": "Nzangidi",
+      "portuguese_translation": "Que tem fumaças de valente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzangidi-1 — https://www.kimbundu.org/pt/word/nzangidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18453,
+      "kimbundu_term": "Nzângu",
+      "portuguese_translation": "Parelha",
+      "definition": null,
+      "alternative_meanings": [
+        "par: —la jingombe"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzângu-1 — https://www.kimbundu.org/pt/word/nzangu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
