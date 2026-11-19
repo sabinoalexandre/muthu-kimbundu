@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8614,
+      "kimbundu_term": "Kufundumuka",
+      "portuguese_translation": "Levantar-se (da cama)",
+      "definition": null,
+      "alternative_meanings": [
+        "erguer-se",
+        "pôr-se em altura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufundumuka-1 — https://www.kimbundu.org/pt/word/kufundumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8615,
+      "kimbundu_term": "Kufundumuka",
+      "portuguese_translation": "Ato de se levantar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufundumuka-1 — https://www.kimbundu.org/pt/word/kufundumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8616,
+      "kimbundu_term": "Kufundumuna",
+      "portuguese_translation": "Fazer levantar",
+      "definition": null,
+      "alternative_meanings": [
+        "erguer (do leito)",
+        "Fazer despertar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufundumuna-1 — https://www.kimbundu.org/pt/word/kufundumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8617,
+      "kimbundu_term": "Kufúnga",
+      "portuguese_translation": "Fusionar",
+      "definition": null,
+      "alternative_meanings": [
+        "misturar",
+        "Juntar coisas diferentes num todo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufúnga-1 — https://www.kimbundu.org/pt/word/kufunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8618,
+      "kimbundu_term": "Kufúnga",
+      "portuguese_translation": "Almocrevar",
+      "definition": null,
+      "alternative_meanings": [
+        "cuidar de gados"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufúnga-1 — https://www.kimbundu.org/pt/word/kufunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8619,
+      "kimbundu_term": "Kufúnga",
+      "portuguese_translation": "Kurijunga, v. r. Misturar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "incorporar-se",
+        "incluir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufúnga-1 — https://www.kimbundu.org/pt/word/kufunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8620,
+      "kimbundu_term": "Kufungisa",
+      "portuguese_translation": "Fazer mistura",
+      "definition": null,
+      "alternative_meanings": [
+        "combinar coisas diferentes",
+        "Baralhar",
+        "confundir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufungisa-1 — https://www.kimbundu.org/pt/word/kufungisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8621,
+      "kimbundu_term": "Kufungula",
+      "portuguese_translation": "Mexer (para que se misture)",
+      "definition": null,
+      "alternative_meanings": [
+        "Revolver"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufungula-1 — https://www.kimbundu.org/pt/word/kufungula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8622,
+      "kimbundu_term": "Kufungula",
+      "portuguese_translation": "v",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufungula-1 — https://www.kimbundu.org/pt/word/kufungula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8623,
+      "kimbundu_term": "Kufungula",
+      "portuguese_translation": "Exercer almocrevaria",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufungula-1 — https://www.kimbundu.org/pt/word/kufungula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
