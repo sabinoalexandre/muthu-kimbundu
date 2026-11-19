@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19894,
+      "kimbundu_term": "Usúla",
+      "portuguese_translation": "Esterilidade (da mulher)",
+      "definition": null,
+      "alternative_meanings": [
+        "Atocia",
+        "acísia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, usúla-1 — https://www.kimbundu.org/pt/word/usula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19895,
+      "kimbundu_term": "Usúsu",
+      "portuguese_translation": "Ensosso",
+      "definition": null,
+      "alternative_meanings": [
+        "insulso",
+        "Sem sal"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, usúsu-1 — https://www.kimbundu.org/pt/word/ususu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19896,
+      "kimbundu_term": "Usúsu",
+      "portuguese_translation": "Falta de sabor",
+      "definition": null,
+      "alternative_meanings": [
+        "Insipidez"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, usúsu-1 — https://www.kimbundu.org/pt/word/ususu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19897,
+      "kimbundu_term": "Uta",
+      "portuguese_translation": "Espingarda",
+      "definition": null,
+      "alternative_meanings": [
+        "bacamarte",
+        "arcabuz"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uta-1 — https://www.kimbundu.org/pt/word/uta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19898,
+      "kimbundu_term": "Utakuilu",
+      "portuguese_translation": "Forma de arremessar, de atirar para longe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, utakuilu-1 — https://www.kimbundu.org/pt/word/utakuilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19899,
+      "kimbundu_term": "Utalale",
+      "portuguese_translation": "Relento",
+      "definition": null,
+      "alternative_meanings": [
+        "humidade",
+        "Sensação causada pela temperatura baixa",
+        "Resfriamento",
+        "Invernia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, utalale-1 — https://www.kimbundu.org/pt/word/utalale",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19900,
+      "kimbundu_term": "Utalelu",
+      "portuguese_translation": "Modo ou maneira de olhar",
+      "definition": null,
+      "alternative_meanings": [
+        "Aspeto dos olhos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, utalelu-1 — https://www.kimbundu.org/pt/word/utalelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19901,
+      "kimbundu_term": "Utambekelu",
+      "portuguese_translation": "Forma de passar a outrem uma coisa que está fora do seu alcance",
+      "definition": null,
+      "alternative_meanings": [
+        "Maneira de fazer alcançar com a mão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, utambekelu-1 — https://www.kimbundu.org/pt/word/utambekelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19902,
+      "kimbundu_term": "Utambelu",
+      "portuguese_translation": "Maneira de tarrafear, de lançar a rede",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, utambelu-1 — https://www.kimbundu.org/pt/word/utambelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19903,
+      "kimbundu_term": "Utambujilu",
+      "portuguese_translation": "Forma de responder (acudindo à chamada)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, utambujilu-1 — https://www.kimbundu.org/pt/word/utambujilu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
