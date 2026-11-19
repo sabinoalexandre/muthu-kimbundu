@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17564,
+      "kimbundu_term": "Múzuua",
+      "portuguese_translation": "Roupa larga e mal acabada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múzuua-1 — https://www.kimbundu.org/pt/word/muzuua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17565,
+      "kimbundu_term": "Múzuua",
+      "portuguese_translation": "Fancaria",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múzuua-1 — https://www.kimbundu.org/pt/word/muzuua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17566,
+      "kimbundu_term": "Múzuua",
+      "portuguese_translation": "Planta tb. conhecida por Kikole",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múzuua-1 — https://www.kimbundu.org/pt/word/muzuua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17567,
+      "kimbundu_term": "Múzuze",
+      "portuguese_translation": "Assadeiro",
+      "definition": null,
+      "alternative_meanings": [
+        "tostador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múzuze-1 — https://www.kimbundu.org/pt/word/muzuze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17568,
+      "kimbundu_term": "Mvama",
+      "portuguese_translation": "Rico",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mvama-1 — https://www.kimbundu.org/pt/word/mvama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17569,
+      "kimbundu_term": "Mvanga",
+      "portuguese_translation": "Tarântula",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mvanga-1 — https://www.kimbundu.org/pt/word/mvanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17570,
+      "kimbundu_term": "Mvéla",
+      "portuguese_translation": "Vela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mvéla-1 — https://www.kimbundu.org/pt/word/mvela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17571,
+      "kimbundu_term": "Mvíndu",
+      "portuguese_translation": "Cardina",
+      "definition": null,
+      "alternative_meanings": [
+        "churro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mvíndu-1 — https://www.kimbundu.org/pt/word/mvindu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17572,
+      "kimbundu_term": "Mvíndu",
+      "portuguese_translation": "Bolhelho",
+      "definition": null,
+      "alternative_meanings": [
+        "sujidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mvíndu-1 — https://www.kimbundu.org/pt/word/mvindu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17573,
+      "kimbundu_term": "Mvuama",
+      "portuguese_translation": "Abastado",
+      "definition": null,
+      "alternative_meanings": [
+        "rico"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mvuama-1 — https://www.kimbundu.org/pt/word/mvuama",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
