@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6534,
+      "kimbundu_term": "Kivunda",
+      "portuguese_translation": "Estatura",
+      "definition": null,
+      "alternative_meanings": [
+        "feição",
+        "talhe. Corpulência",
+        "tamanho",
+        "posição: vulto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivunda-1 — https://www.kimbundu.org/pt/word/kivunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6535,
+      "kimbundu_term": "Kivunga",
+      "portuguese_translation": "Membrana que envolve exteriormente o feto. Córion. O que envolve ou encobre alguma coisa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivunga-1 — https://www.kimbundu.org/pt/word/kivunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6536,
+      "kimbundu_term": "Kivunga",
+      "portuguese_translation": "Armadura que cobre o peito e parte das costas. Couraça, blindagem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivunga-1 — https://www.kimbundu.org/pt/word/kivunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6537,
+      "kimbundu_term": "Kivungininu",
+      "portuguese_translation": "Coisa que envolve, reveste ou cobre outra. Envólucro",
+      "definition": null,
+      "alternative_meanings": [
+        "cobertura. Embuço"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivungininu-1 — https://www.kimbundu.org/pt/word/kivungininu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6538,
+      "kimbundu_term": "Kívungu",
+      "portuguese_translation": "Embuçado",
+      "definition": null,
+      "alternative_meanings": [
+        "encapotado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kívungu-1 — https://www.kimbundu.org/pt/word/kivungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6539,
+      "kimbundu_term": "Kivunzu",
+      "portuguese_translation": "Toldação",
+      "definition": null,
+      "alternative_meanings": [
+        "turvamento. Obscuridade",
+        "turbilhão",
+        "agitação de espírito que nos não deixa ver claro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivunzu-1 — https://www.kimbundu.org/pt/word/kivunzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6540,
+      "kimbundu_term": "Kivunzu",
+      "portuguese_translation": "Borra",
+      "definition": null,
+      "alternative_meanings": [
+        "pé"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivunzu-1 — https://www.kimbundu.org/pt/word/kivunzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6541,
+      "kimbundu_term": "Kivutu",
+      "portuguese_translation": "Movimento de retrocesso. Regresso ao estado anterior",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivutu-1 — https://www.kimbundu.org/pt/word/kivutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6542,
+      "kimbundu_term": "Kivutuile",
+      "portuguese_translation": "Restituível. Que se pode ou deve devolver",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivutuile-1 — https://www.kimbundu.org/pt/word/kivutuile",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6543,
+      "kimbundu_term": "Kivutwilu",
+      "portuguese_translation": "Despique",
+      "definition": null,
+      "alternative_meanings": [
+        "desforra. O que se devolve"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivutwilu-1 — https://www.kimbundu.org/pt/word/kivutwilu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
