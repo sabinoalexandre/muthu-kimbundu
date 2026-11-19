@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13734,
+      "kimbundu_term": "Kuzuluka",
+      "portuguese_translation": "Deslizar",
+      "definition": null,
+      "alternative_meanings": [
+        "resvalar",
+        "Escorregar",
+        "sair"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo intransitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzuluka-1 — https://www.kimbundu.org/pt/word/kuzuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13735,
+      "kimbundu_term": "Kuzulumuka",
+      "portuguese_translation": "Estar em decadência",
+      "definition": null,
+      "alternative_meanings": [
+        "dar ares de cansaço",
+        "Resvalar, decair, ir-se abaixo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo intransitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzulumuka-1 — https://www.kimbundu.org/pt/word/kuzulumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13736,
+      "kimbundu_term": "Kuzulumukisa",
+      "portuguese_translation": "Fazer perder o vigor",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer decair"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo transitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzulumukisa-1 — https://www.kimbundu.org/pt/word/kuzulumukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13737,
+      "kimbundu_term": "Kuzulumuna",
+      "portuguese_translation": "Desenfiar",
+      "definition": null,
+      "alternative_meanings": [
+        "Despojar",
+        "despir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo transitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzulumuna-1 — https://www.kimbundu.org/pt/word/kuzulumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13738,
+      "kimbundu_term": "Kuzúma",
+      "portuguese_translation": "Rosnar",
+      "definition": null,
+      "alternative_meanings": [
+        "rouquejar",
+        "Diz-se do ruído do cão quando mostra os dentes e ameaça morder"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo intransitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzúma-1 — https://www.kimbundu.org/pt/word/kuzuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13739,
+      "kimbundu_term": "Kuzumata",
+      "portuguese_translation": "Beberricar",
+      "definition": null,
+      "alternative_meanings": [
+        "provar líquidos",
+        "fig. Estar pouco alegre"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo transitivo, verbo intransitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzumata-1 — https://www.kimbundu.org/pt/word/kuzumata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13740,
+      "kimbundu_term": "Kuzumata",
+      "portuguese_translation": "Degustação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzumata-2 — https://www.kimbundu.org/pt/word/kuzumata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13741,
+      "kimbundu_term": "Kuzumatesa",
+      "portuguese_translation": "Dar a provar",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer degostar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo transitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzumatesa-1 — https://www.kimbundu.org/pt/word/kuzumatesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13742,
+      "kimbundu_term": "Kuzumbika",
+      "portuguese_translation": "Odiar",
+      "definition": null,
+      "alternative_meanings": [
+        "ter animosidade ou má vontade contra alguém",
+        "Importunar",
+        "perseguir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo transitivo, verbo intransitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzumbika-1 — https://www.kimbundu.org/pt/word/kuzumbika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13743,
+      "kimbundu_term": "Kuzumbuka",
+      "portuguese_translation": "Terminar, acabar (o trabalho) no fim do dia",
+      "definition": null,
+      "alternative_meanings": [
+        "Cessar",
+        "parar (a faina). Descansar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo intransitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzumbuka-1 — https://www.kimbundu.org/pt/word/kuzumbuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
