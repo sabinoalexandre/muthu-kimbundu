@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10654,
+      "kimbundu_term": "Kuminya",
+      "portuguese_translation": "Acreditar (o que não é verdade)",
+      "definition": null,
+      "alternative_meanings": [
+        "Embuchar",
+        "calar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuminya-1 — https://www.kimbundu.org/pt/word/kuminya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10655,
+      "kimbundu_term": "Kuminya",
+      "portuguese_translation": "Deglutição",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuminya-1 — https://www.kimbundu.org/pt/word/kuminya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10656,
+      "kimbundu_term": "Kuminya",
+      "portuguese_translation": "Kuriminha, e r. Calar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "não produzir ruído ou som",
+        "Conter-se",
+        "reprimir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuminya-1 — https://www.kimbundu.org/pt/word/kuminya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10657,
+      "kimbundu_term": "Kuminyisa",
+      "portuguese_translation": "Fazer engolir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuminyisa-1 — https://www.kimbundu.org/pt/word/kuminyisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10658,
+      "kimbundu_term": "Kuminyisa",
+      "portuguese_translation": "Enganar",
+      "definition": null,
+      "alternative_meanings": [
+        "iludir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuminyisa-1 — https://www.kimbundu.org/pt/word/kuminyisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10659,
+      "kimbundu_term": "Kumiokota",
+      "portuguese_translation": "Fazer cócegas",
+      "definition": null,
+      "alternative_meanings": [
+        "Titilar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumiokota-1 — https://www.kimbundu.org/pt/word/kumiokota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10660,
+      "kimbundu_term": "Kumiokota",
+      "portuguese_translation": "Kurimickota, e r. Sentir ou sofrer titilações",
+      "definition": null,
+      "alternative_meanings": [
+        "Colear",
+        "serpear"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumiokota-1 — https://www.kimbundu.org/pt/word/kumiokota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10661,
+      "kimbundu_term": "Kumoka",
+      "portuguese_translation": "Criticar",
+      "definition": null,
+      "alternative_meanings": [
+        "censurar",
+        "dizer mal de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumoka-1 — https://www.kimbundu.org/pt/word/kumoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10662,
+      "kimbundu_term": "Kumoka",
+      "portuguese_translation": "Kurimoka, e r. Falar de tudo sem propósito",
+      "definition": null,
+      "alternative_meanings": [
+        "Abocar",
+        "despropositar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumoka-1 — https://www.kimbundu.org/pt/word/kumoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10663,
+      "kimbundu_term": "Kumokóna",
+      "portuguese_translation": "Bicar",
+      "definition": null,
+      "alternative_meanings": [
+        "Lavrar (pedra com picão)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumokóna-1 — https://www.kimbundu.org/pt/word/kumokona",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
