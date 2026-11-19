@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4674,
+      "kimbundu_term": "Kibóta",
+      "portuguese_translation": "Putrefação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibóta-1 — https://www.kimbundu.org/pt/word/kibota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4675,
+      "kimbundu_term": "Kibóta",
+      "portuguese_translation": "Fétido",
+      "definition": null,
+      "alternative_meanings": [
+        "que exala mau cheiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibóta-1 — https://www.kimbundu.org/pt/word/kibota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4676,
+      "kimbundu_term": "Kibote",
+      "portuguese_translation": "Fiação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibote-1 — https://www.kimbundu.org/pt/word/kibote",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4677,
+      "kimbundu_term": "Kibote",
+      "portuguese_translation": "Obra ou oficina de fiação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibote-1 — https://www.kimbundu.org/pt/word/kibote",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4678,
+      "kimbundu_term": "Kibote",
+      "portuguese_translation": "Meada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibote-1 — https://www.kimbundu.org/pt/word/kibote",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4679,
+      "kimbundu_term": "Kibóto",
+      "portuguese_translation": "(III) Amalgamento",
+      "definition": null,
+      "alternative_meanings": [
+        "Mistura"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibóto-1 — https://www.kimbundu.org/pt/word/kiboto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4680,
+      "kimbundu_term": "Kibóto",
+      "portuguese_translation": "Rancho (de soldados)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibóto-1 — https://www.kimbundu.org/pt/word/kiboto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4681,
+      "kimbundu_term": "Kibóto",
+      "portuguese_translation": "Fermentado (ao calor)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibóto-1 — https://www.kimbundu.org/pt/word/kiboto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4682,
+      "kimbundu_term": "Kibóua",
+      "portuguese_translation": "Planta da família das gramíneas, de utilidade ornamental e medicinal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibóua-1 — https://www.kimbundu.org/pt/word/kiboua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4683,
+      "kimbundu_term": "Kibozo",
+      "portuguese_translation": "Voz habitual do cão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibozo-1 — https://www.kimbundu.org/pt/word/kibozo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
