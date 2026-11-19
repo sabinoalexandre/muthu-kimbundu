@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10984,
+      "kimbundu_term": "Kunyanguna",
+      "portuguese_translation": "Levar (sob custódia)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyanguna-1 — https://www.kimbundu.org/pt/word/kunyanguna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10985,
+      "kimbundu_term": "Kunyanyuka",
+      "portuguese_translation": "Rarear",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar-se menos assíduo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyanyuka-1 — https://www.kimbundu.org/pt/word/kunyanyuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10986,
+      "kimbundu_term": "Kunyanyuka",
+      "portuguese_translation": "Aparecer poucas vezes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyanyuka-1 — https://www.kimbundu.org/pt/word/kunyanyuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10987,
+      "kimbundu_term": "Kunyanyukisa",
+      "portuguese_translation": "Fazer rarear",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyanyukisa-1 — https://www.kimbundu.org/pt/word/kunyanyukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10988,
+      "kimbundu_term": "Kunyáta",
+      "portuguese_translation": "Transportar, levar carga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyáta-1 — https://www.kimbundu.org/pt/word/kunyata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10989,
+      "kimbundu_term": "Kunyáta",
+      "portuguese_translation": "Conduzir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyáta-1 — https://www.kimbundu.org/pt/word/kunyata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10990,
+      "kimbundu_term": "Kunyatuka",
+      "portuguese_translation": "Estar pejado, cheio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyatuka-1 — https://www.kimbundu.org/pt/word/kunyatuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10991,
+      "kimbundu_term": "Kunyéka",
+      "portuguese_translation": "Vacilar",
+      "definition": null,
+      "alternative_meanings": [
+        "vergar",
+        "balançar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyéka-1 — https://www.kimbundu.org/pt/word/kunyeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10992,
+      "kimbundu_term": "Kunyéka",
+      "portuguese_translation": "É também recíproco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyéka-1 — https://www.kimbundu.org/pt/word/kunyeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10993,
+      "kimbundu_term": "Kunyekuka",
+      "portuguese_translation": "Abalar",
+      "definition": null,
+      "alternative_meanings": [
+        "dar de si",
+        "Tocar-se",
+        "ofender-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyekuka-1 — https://www.kimbundu.org/pt/word/kunyekuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
