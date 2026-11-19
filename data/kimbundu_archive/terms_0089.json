@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 994,
+      "kimbundu_term": "Dikoue",
+      "portuguese_translation": "Cacarejo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikoue-1 — https://www.kimbundu.org/pt/word/dikoue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 995,
+      "kimbundu_term": "Dikoue",
+      "portuguese_translation": "Diz-se da galinha cantando vitória",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikoue-1 — https://www.kimbundu.org/pt/word/dikoue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 996,
+      "kimbundu_term": "Dikovi",
+      "portuguese_translation": "Couve",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikovi-1 — https://www.kimbundu.org/pt/word/dikovi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 997,
+      "kimbundu_term": "Dikovo",
+      "portuguese_translation": "Cavidade anormal em qualquer superfície. Célula",
+      "definition": null,
+      "alternative_meanings": [
+        "buraco"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikovo-1 — https://www.kimbundu.org/pt/word/dikovo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 998,
+      "kimbundu_term": "Dikovo",
+      "portuguese_translation": "S lads. Umbigo mui saliente, maior que o",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikovo-1 — https://www.kimbundu.org/pt/word/dikovo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 999,
+      "kimbundu_term": "Dikovo",
+      "portuguese_translation": "Umbigo mui saliente, maior que o tumbu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikovo-1 — https://www.kimbundu.org/pt/word/dikovo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1000,
+      "kimbundu_term": "Dikoxi",
+      "portuguese_translation": "Cerviz",
+      "definition": null,
+      "alternative_meanings": [
+        "cachaço",
+        "nuca. Inlon"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikoxi-1 — https://www.kimbundu.org/pt/word/dikoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1001,
+      "kimbundu_term": "Dikóza",
+      "portuguese_translation": "Farrapo. Peça de vestuário usada e rota",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikóza-1 — https://www.kimbundu.org/pt/word/dikoza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1002,
+      "kimbundu_term": "Dikuakelu",
+      "portuguese_translation": "Estação",
+      "definition": null,
+      "alternative_meanings": [
+        "ponto de desembarque. Lugar de encalhe"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikuakelu-1 — https://www.kimbundu.org/pt/word/dikuakelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1003,
+      "kimbundu_term": "Dikuanekenu",
+      "portuguese_translation": "Secadouro. Lugar onde se estende roupa a secar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikuanekenu-1 — https://www.kimbundu.org/pt/word/dikuanekenu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
