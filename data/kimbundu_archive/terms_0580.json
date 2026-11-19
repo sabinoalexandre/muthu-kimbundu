@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5904,
+      "kimbundu_term": "Kinzuá",
+      "portuguese_translation": "Cegonha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinzuá-1 — https://www.kimbundu.org/pt/word/kinzua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5905,
+      "kimbundu_term": "Kinzúngila",
+      "portuguese_translation": "Planta fam. das leguminosas, de utilidade ornamental",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinzúngila-1 — https://www.kimbundu.org/pt/word/kinzungila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5906,
+      "kimbundu_term": "Kinzunzumbia",
+      "portuguese_translation": "Silhueta de um corpo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinzunzumbia-1 — https://www.kimbundu.org/pt/word/kinzunzumbia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5907,
+      "kimbundu_term": "Kinzunzumbia",
+      "portuguese_translation": "Sombra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinzunzumbia-1 — https://www.kimbundu.org/pt/word/kinzunzumbia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5908,
+      "kimbundu_term": "Kinzunzumbia",
+      "portuguese_translation": "Imagem confusa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinzunzumbia-1 — https://www.kimbundu.org/pt/word/kinzunzumbia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5909,
+      "kimbundu_term": "Kióhe",
+      "portuguese_translation": "Que queima ou abrasa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kióhe-1 — https://www.kimbundu.org/pt/word/kiohe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5910,
+      "kimbundu_term": "Kióhe",
+      "portuguese_translation": "Escaldante",
+      "definition": null,
+      "alternative_meanings": [
+        "abrasador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kióhe-1 — https://www.kimbundu.org/pt/word/kiohe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5911,
+      "kimbundu_term": "Kióhela",
+      "portuguese_translation": "Resíduos ou fezes que o tabaco deixa do cachimbo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kióhela-1 — https://www.kimbundu.org/pt/word/kiohela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5912,
+      "kimbundu_term": "Kióhela",
+      "portuguese_translation": "Saburra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kióhela-1 — https://www.kimbundu.org/pt/word/kiohela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5913,
+      "kimbundu_term": "Kiôho",
+      "portuguese_translation": "Sabor",
+      "definition": null,
+      "alternative_meanings": [
+        "paladares"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiôho-1 — https://www.kimbundu.org/pt/word/kioho",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
