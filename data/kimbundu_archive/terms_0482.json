@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4924,
+      "kimbundu_term": "Kifanji",
+      "portuguese_translation": "Abastado",
+      "definition": null,
+      "alternative_meanings": [
+        "opulento",
+        "rico"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifanji-1 — https://www.kimbundu.org/pt/word/kifanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4925,
+      "kimbundu_term": "Kifasa",
+      "portuguese_translation": "Mandioca descascada e passada ao sol",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifasa-1 — https://www.kimbundu.org/pt/word/kifasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4926,
+      "kimbundu_term": "Kifebe",
+      "portuguese_translation": "Larica",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifebe-1 — https://www.kimbundu.org/pt/word/kifebe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4927,
+      "kimbundu_term": "Kifebe",
+      "portuguese_translation": "Fome",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifebe-1 — https://www.kimbundu.org/pt/word/kifebe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4928,
+      "kimbundu_term": "Kifele",
+      "portuguese_translation": "Pouco quantioso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifele-1 — https://www.kimbundu.org/pt/word/kifele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4929,
+      "kimbundu_term": "Kifele",
+      "portuguese_translation": "Pequeno",
+      "definition": null,
+      "alternative_meanings": [
+        "diminuto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifele-1 — https://www.kimbundu.org/pt/word/kifele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4930,
+      "kimbundu_term": "Kifele",
+      "portuguese_translation": "Pouca coisa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifele-1 — https://www.kimbundu.org/pt/word/kifele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4931,
+      "kimbundu_term": "Kifele",
+      "portuguese_translation": "pequenino",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifele-1 — https://www.kimbundu.org/pt/word/kifele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4932,
+      "kimbundu_term": "Kifelu",
+      "portuguese_translation": "Loanword from Portuguese. Ferro (de grandes dimensões)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifelu-1 — https://www.kimbundu.org/pt/word/kifelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4933,
+      "kimbundu_term": "Kifidimiku",
+      "portuguese_translation": "Diz-se do que se deve usar ou servir de barco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifidimiku-1 — https://www.kimbundu.org/pt/word/kifidimiku",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
