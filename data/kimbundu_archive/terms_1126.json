@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11364,
+      "kimbundu_term": "Kusanduka",
+      "portuguese_translation": "Ficar separado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusanduka-1 — https://www.kimbundu.org/pt/word/kusanduka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11365,
+      "kimbundu_term": "Kusandukisa",
+      "portuguese_translation": "Fazer distanciar, afastar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusandukisa-1 — https://www.kimbundu.org/pt/word/kusandukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11366,
+      "kimbundu_term": "Kusandukisa",
+      "portuguese_translation": "Mandar separar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusandukisa-1 — https://www.kimbundu.org/pt/word/kusandukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11367,
+      "kimbundu_term": "Kusandula",
+      "portuguese_translation": "Distanciar",
+      "definition": null,
+      "alternative_meanings": [
+        "apartar (de uma pessoa ou lugar)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusandula-1 — https://www.kimbundu.org/pt/word/kusandula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11368,
+      "kimbundu_term": "Kusandula",
+      "portuguese_translation": "Kurisandula, v. r. Separar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "pôs-se de parte"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusandula-1 — https://www.kimbundu.org/pt/word/kusandula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11369,
+      "kimbundu_term": "Kusaneneka",
+      "portuguese_translation": "Ser ardoroso, veemente, impetuoso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusaneneka-1 — https://www.kimbundu.org/pt/word/kusaneneka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11370,
+      "kimbundu_term": "Kusaneneka",
+      "portuguese_translation": "Ter entusiasmo (nos afazeres, nos negócios, etc.)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusaneneka-1 — https://www.kimbundu.org/pt/word/kusaneneka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11371,
+      "kimbundu_term": "Kusanesa",
+      "portuguese_translation": "Mandar desfiar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer desfibrar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusanesa-1 — https://www.kimbundu.org/pt/word/kusanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11372,
+      "kimbundu_term": "Kusánga",
+      "portuguese_translation": "Encontrar",
+      "definition": null,
+      "alternative_meanings": [
+        "achar (procurando ou não)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusánga-1 — https://www.kimbundu.org/pt/word/kusanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11373,
+      "kimbundu_term": "Kusánga",
+      "portuguese_translation": "Achamento",
+      "definition": null,
+      "alternative_meanings": [
+        "encontro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusánga-1 — https://www.kimbundu.org/pt/word/kusanga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
