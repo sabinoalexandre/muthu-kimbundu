@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12904,
+      "kimbundu_term": "Kuvala",
+      "portuguese_translation": "O ato de parir",
+      "definition": null,
+      "alternative_meanings": [
+        "O feto dado à luz",
+        "Descendência",
+        "prole"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvala-1 — https://www.kimbundu.org/pt/word/kuvala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12905,
+      "kimbundu_term": "Kuvala",
+      "portuguese_translation": "Kurivala, e r. Multiplicar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "reproduzir-se",
+        "Renascer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvala-1 — https://www.kimbundu.org/pt/word/kuvala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12906,
+      "kimbundu_term": "Kuvalesa",
+      "portuguese_translation": "Assistir ao parto de",
+      "definition": null,
+      "alternative_meanings": [
+        "Ajudar a parir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvalesa-1 — https://www.kimbundu.org/pt/word/kuvalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12907,
+      "kimbundu_term": "Kuvalesa",
+      "portuguese_translation": "Kurivalesa, Ter filho sem intervenção de parteira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvalesa-1 — https://www.kimbundu.org/pt/word/kuvalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12908,
+      "kimbundu_term": "Kuvalulula",
+      "portuguese_translation": "Fazer nascer muitas vezes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvalulula-1 — https://www.kimbundu.org/pt/word/kuvalulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12909,
+      "kimbundu_term": "Kuvalulula",
+      "portuguese_translation": "Kurivalulula, e r. Reproduzir-se a cada passo",
+      "definition": null,
+      "alternative_meanings": [
+        "Ir de geração em geração"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvalulula-1 — https://www.kimbundu.org/pt/word/kuvalulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12910,
+      "kimbundu_term": "Kuvalulula",
+      "portuguese_translation": "Rebentar",
+      "definition": null,
+      "alternative_meanings": [
+        "desabrochar sucessivamente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvalulula-1 — https://www.kimbundu.org/pt/word/kuvalulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12911,
+      "kimbundu_term": "Kuvandumuka",
+      "portuguese_translation": "Brotar, surgir rapidamente",
+      "definition": null,
+      "alternative_meanings": [
+        "Frutificar, crescer a olhos vistos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvandumuka-1 — https://www.kimbundu.org/pt/word/kuvandumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12912,
+      "kimbundu_term": "Kuvandumuna",
+      "portuguese_translation": "Levantar, erguer com rapidez",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvandumuna-1 — https://www.kimbundu.org/pt/word/kuvandumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12913,
+      "kimbundu_term": "Kuvema",
+      "portuguese_translation": "Vergar",
+      "definition": null,
+      "alternative_meanings": [
+        "dar de si",
+        "ceder à pressão, ao peso",
+        "fig. Ocultar-se",
+        "esconder-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvema-1 — https://www.kimbundu.org/pt/word/kuvema",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
