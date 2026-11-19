@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 20174,
+      "kimbundu_term": "Yoso",
+      "portuguese_translation": "Em peso",
+      "definition": null,
+      "alternative_meanings": [
+        "Totalmente",
+        "Ao todo",
+        "por junto",
+        "Completamente",
+        "absolutamente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, substantivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yoso-1 — https://www.kimbundu.org/pt/word/yoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20175,
+      "kimbundu_term": "Yoso",
+      "portuguese_translation": "O todo",
+      "definition": null,
+      "alternative_meanings": [
+        "o conjunto",
+        "a soma",
+        "A totalidade",
+        "O aspeto geral",
+        "O universo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, substantivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yoso-1 — https://www.kimbundu.org/pt/word/yoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20176,
+      "kimbundu_term": "Yoso",
+      "portuguese_translation": "Tudo",
+      "definition": null,
+      "alternative_meanings": [
+        "todas as cousas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, substantivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yoso-1 — https://www.kimbundu.org/pt/word/yoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20177,
+      "kimbundu_term": "Yoso",
+      "portuguese_translation": "demonstr. Tudo isto",
+      "definition": null,
+      "alternative_meanings": [
+        "Isto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, substantivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yoso-1 — https://www.kimbundu.org/pt/word/yoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20178,
+      "kimbundu_term": "Yoso",
+      "portuguese_translation": "— pl. (II) Uns, umas (entre muitas cousas sem escolher). Quaisquer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, substantivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yoso-1 — https://www.kimbundu.org/pt/word/yoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20179,
+      "kimbundu_term": "Yoso",
+      "portuguese_translation": "(III) Uns que não sejam aqueles de que se fala",
+      "definition": null,
+      "alternative_meanings": [
+        "pron. indef. Sejam quais forem"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, substantivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yoso-1 — https://www.kimbundu.org/pt/word/yoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20180,
+      "kimbundu_term": "Youa",
+      "portuguese_translation": "e sub. pl. (III) Reunião de parvos, tolos, patetas",
+      "definition": null,
+      "alternative_meanings": [
+        "Pascácios",
+        "Falhos de inteligência",
+        "Lorpas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, youa-1 — https://www.kimbundu.org/pt/word/youa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20181,
+      "kimbundu_term": "Yuná",
+      "portuguese_translation": "Aquele",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yuná-1 — https://www.kimbundu.org/pt/word/yuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20182,
+      "kimbundu_term": "Zá",
+      "portuguese_translation": "para chamar. Vem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, zá-1 — https://www.kimbundu.org/pt/word/za",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20183,
+      "kimbundu_term": "Zá",
+      "portuguese_translation": "Chamamento",
+      "definition": null,
+      "alternative_meanings": [
+        "chamada. (Melhor dizer: lad)"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, zá-1 — https://www.kimbundu.org/pt/word/za",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
