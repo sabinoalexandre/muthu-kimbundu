@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16334,
+      "kimbundu_term": "Mukánde",
+      "portuguese_translation": "Cavador",
+      "definition": null,
+      "alternative_meanings": [
+        "trabalhador da enxada"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukánde-1 — https://www.kimbundu.org/pt/word/mukande",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16335,
+      "kimbundu_term": "Mukane",
+      "portuguese_translation": "Destinatário",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukane-1 — https://www.kimbundu.org/pt/word/mukane",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16336,
+      "kimbundu_term": "Múkane",
+      "portuguese_translation": "A quem uma coisa é destinada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkane-1 — https://www.kimbundu.org/pt/word/mukane",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16337,
+      "kimbundu_term": "Mukanese",
+      "portuguese_translation": "Destinador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukanese-1 — https://www.kimbundu.org/pt/word/mukanese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16338,
+      "kimbundu_term": "Múkanga",
+      "portuguese_translation": "Farinha de milho enrolada em folhas de palmeira ou coqueiro cozida em banho-maria",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkanga-1 — https://www.kimbundu.org/pt/word/mukanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16339,
+      "kimbundu_term": "Múkanga",
+      "portuguese_translation": "Cuscuz",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkanga-1 — https://www.kimbundu.org/pt/word/mukanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16340,
+      "kimbundu_term": "Mukangalu",
+      "portuguese_translation": "Travessão",
+      "definition": null,
+      "alternative_meanings": [
+        "travessa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukangalu-1 — https://www.kimbundu.org/pt/word/mukangalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16341,
+      "kimbundu_term": "Mukangalu",
+      "portuguese_translation": "Cada uma das peças transversais que formam o leito de uma cama, ou sobre que assentam os «rails» do caminho de ferro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukangalu-1 — https://www.kimbundu.org/pt/word/mukangalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16342,
+      "kimbundu_term": "Mukangalu",
+      "portuguese_translation": "Verga ou padieira da porta ou janela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukangalu-1 — https://www.kimbundu.org/pt/word/mukangalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16343,
+      "kimbundu_term": "Mukangalu",
+      "portuguese_translation": "Coisa deitada de través",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukangalu-1 — https://www.kimbundu.org/pt/word/mukangalu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
