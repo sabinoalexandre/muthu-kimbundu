@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11154,
+      "kimbundu_term": "Kupalata",
+      "portuguese_translation": "Parar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupalata-1 — https://www.kimbundu.org/pt/word/kupalata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11155,
+      "kimbundu_term": "Kupalumuka",
+      "portuguese_translation": "Estar desabotoado, desfivelado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupalumuka-1 — https://www.kimbundu.org/pt/word/kupalumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11156,
+      "kimbundu_term": "Kupalumuna",
+      "portuguese_translation": "Desabotoar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupalumuna-1 — https://www.kimbundu.org/pt/word/kupalumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11157,
+      "kimbundu_term": "Kupalumuna",
+      "portuguese_translation": "Desfivelar, desafogar, abrir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupalumuna-1 — https://www.kimbundu.org/pt/word/kupalumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11158,
+      "kimbundu_term": "Kupalumuna",
+      "portuguese_translation": "Desabotoar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "pôr-se à vontade"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupalumuna-1 — https://www.kimbundu.org/pt/word/kupalumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11159,
+      "kimbundu_term": "Kupáma",
+      "portuguese_translation": "Pasmar",
+      "definition": null,
+      "alternative_meanings": [
+        "fixar prolongadamente os olhos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupáma-1 — https://www.kimbundu.org/pt/word/kupama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11160,
+      "kimbundu_term": "Kupáma",
+      "portuguese_translation": "Admiração",
+      "definition": null,
+      "alternative_meanings": [
+        "pasmo",
+        "assombro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupáma-2 — https://www.kimbundu.org/pt/word/kupama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11161,
+      "kimbundu_term": "Kupamena",
+      "portuguese_translation": "Borrifar. Deitar água da boca em gotas miudinhas (apertando os lábios)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupamena-1 — https://www.kimbundu.org/pt/word/kupamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11162,
+      "kimbundu_term": "Kupamena",
+      "portuguese_translation": "Aspergimento. Ato de borrifar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupamena-1 — https://www.kimbundu.org/pt/word/kupamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11163,
+      "kimbundu_term": "Kupamena",
+      "portuguese_translation": "Kuripamena, v. r. Borrifar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupamena-1 — https://www.kimbundu.org/pt/word/kupamena",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
