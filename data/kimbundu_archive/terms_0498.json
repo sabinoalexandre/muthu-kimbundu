@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5084,
+      "kimbundu_term": "Kiiúku",
+      "portuguese_translation": "Direitura",
+      "definition": null,
+      "alternative_meanings": [
+        "retidão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiiúku-1 — https://www.kimbundu.org/pt/word/kiiuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5085,
+      "kimbundu_term": "Kiiungulule",
+      "portuguese_translation": "Transferidor. É tb. sub",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiiungulule-1 — https://www.kimbundu.org/pt/word/kiiungulule",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5086,
+      "kimbundu_term": "Kijela",
+      "portuguese_translation": "Caboré",
+      "definition": null,
+      "alternative_meanings": [
+        "olha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijela-1 — https://www.kimbundu.org/pt/word/kijela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5087,
+      "kimbundu_term": "Kijela",
+      "portuguese_translation": "Panela de duas asas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijela-1 — https://www.kimbundu.org/pt/word/kijela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5088,
+      "kimbundu_term": "Kijela",
+      "portuguese_translation": "Caçarola",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijela-1 — https://www.kimbundu.org/pt/word/kijela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5089,
+      "kimbundu_term": "Kijengetela",
+      "portuguese_translation": "Escoriação",
+      "definition": null,
+      "alternative_meanings": [
+        "obscuridade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijengetela-1 — https://www.kimbundu.org/pt/word/kijengetela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5090,
+      "kimbundu_term": "Kijengetela",
+      "portuguese_translation": "Sinal",
+      "definition": null,
+      "alternative_meanings": [
+        "mancha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijengetela-1 — https://www.kimbundu.org/pt/word/kijengetela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5091,
+      "kimbundu_term": "Kijengetela",
+      "portuguese_translation": "Círculo",
+      "definition": null,
+      "alternative_meanings": [
+        "sombra"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijengetela-1 — https://www.kimbundu.org/pt/word/kijengetela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5092,
+      "kimbundu_term": "Kijengetela",
+      "portuguese_translation": "O círculo que rodeia o mamilo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijengetela-1 — https://www.kimbundu.org/pt/word/kijengetela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5093,
+      "kimbundu_term": "Kijibha",
+      "portuguese_translation": "Homicídio",
+      "definition": null,
+      "alternative_meanings": [
+        "assassínio",
+        "morte violenta"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijibha-1 — https://www.kimbundu.org/pt/word/kijibha",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
