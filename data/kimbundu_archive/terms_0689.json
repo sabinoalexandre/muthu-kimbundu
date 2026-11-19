@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6994,
+      "kimbundu_term": "Kubakuila",
+      "portuguese_translation": "Kuribakuila, e r. Tributar para si próprio",
+      "definition": null,
+      "alternative_meanings": [
+        "Impor-se tributo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubakuila-1 — https://www.kimbundu.org/pt/word/kubakuila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6995,
+      "kimbundu_term": "Kubakuila",
+      "portuguese_translation": "Guardar para si os rendimentos de qualquer negócio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubakuila-1 — https://www.kimbundu.org/pt/word/kubakuila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6996,
+      "kimbundu_term": "Kubakuísa",
+      "portuguese_translation": "Fazer pagar tributo ou imposto",
+      "definition": null,
+      "alternative_meanings": [
+        "Impor tributo a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubakuísa-1 — https://www.kimbundu.org/pt/word/kubakuisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6997,
+      "kimbundu_term": "Kubála",
+      "portuguese_translation": "Cavar com a mão",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer covas no chão"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubála-1 — https://www.kimbundu.org/pt/word/kubala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6998,
+      "kimbundu_term": "Kúbala",
+      "portuguese_translation": "Ficar",
+      "definition": null,
+      "alternative_meanings": [
+        "quedar",
+        "permanecer",
+        "cair",
+        "Tomar assento",
+        "estar por terra"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbala-1 — https://www.kimbundu.org/pt/word/kubala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6999,
+      "kimbundu_term": "Kúbala",
+      "portuguese_translation": "Kuribala, e r. Deixar-se cair",
+      "definition": null,
+      "alternative_meanings": [
+        "Dar ou apanhar trambulhão",
+        "queda",
+        "ir à terra"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbala-1 — https://www.kimbundu.org/pt/word/kubala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7000,
+      "kimbundu_term": "Kúbala",
+      "portuguese_translation": "O momento de cair",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbala-1 — https://www.kimbundu.org/pt/word/kubala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7001,
+      "kimbundu_term": "Kubalakala",
+      "portuguese_translation": "Embarcar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubalakala-1 — https://www.kimbundu.org/pt/word/kubalakala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7002,
+      "kimbundu_term": "Kubalakala",
+      "portuguese_translation": "Deportar",
+      "definition": null,
+      "alternative_meanings": [
+        "degredar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubalakala-1 — https://www.kimbundu.org/pt/word/kubalakala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7003,
+      "kimbundu_term": "Kubalakala",
+      "portuguese_translation": "Kuribalakala, e r. Condenar-se à deportação",
+      "definition": null,
+      "alternative_meanings": [
+        "Desterrar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubalakala-1 — https://www.kimbundu.org/pt/word/kubalakala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
