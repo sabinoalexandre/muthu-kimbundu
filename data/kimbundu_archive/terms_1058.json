@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10684,
+      "kimbundu_term": "Kumonejeka",
+      "portuguese_translation": "Aparecer por vezes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumonejeka-1 — https://www.kimbundu.org/pt/word/kumonejeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10685,
+      "kimbundu_term": "Kumoneka",
+      "portuguese_translation": "Apresentar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "mostrar-se",
+        "Aparecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, intransitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumoneka-1 — https://www.kimbundu.org/pt/word/kumoneka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10686,
+      "kimbundu_term": "Kumoneka",
+      "portuguese_translation": "Aparecimento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, intransitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumoneka-1 — https://www.kimbundu.org/pt/word/kumoneka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10687,
+      "kimbundu_term": "Kumonekesa",
+      "portuguese_translation": "Fazer aparecer",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer que se manifeste (o que estiver oculto)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumonekesa-1 — https://www.kimbundu.org/pt/word/kumonekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10688,
+      "kimbundu_term": "Kumosojoka",
+      "portuguese_translation": "Ficar pisado, empapado devido à demasiada trituração",
+      "definition": null,
+      "alternative_meanings": [
+        "Ficar desfeito"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumosojoka-1 — https://www.kimbundu.org/pt/word/kumosojoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10689,
+      "kimbundu_term": "Kumosojona",
+      "portuguese_translation": "Amassar",
+      "definition": null,
+      "alternative_meanings": [
+        "ir triturando. É também reflexivo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumosojona-1 — https://www.kimbundu.org/pt/word/kumosojona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10690,
+      "kimbundu_term": "Kumosoka",
+      "portuguese_translation": "Ficar amassado, feito em papas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumosoka-1 — https://www.kimbundu.org/pt/word/kumosoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10691,
+      "kimbundu_term": "Kumosona",
+      "portuguese_translation": "Esmiudar",
+      "definition": null,
+      "alternative_meanings": [
+        "esmigalhar",
+        "esfarelar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumosona-1 — https://www.kimbundu.org/pt/word/kumosona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10692,
+      "kimbundu_term": "Kumuangajana",
+      "portuguese_translation": "Ir-se dispersando",
+      "definition": null,
+      "alternative_meanings": [
+        "pôr-se em debandada",
+        "Tomar cada um seu rumo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumuangajana-1 — https://www.kimbundu.org/pt/word/kumuangajana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10693,
+      "kimbundu_term": "Kumuangana",
+      "portuguese_translation": "Estar disperso. Destroçar",
+      "definition": null,
+      "alternative_meanings": [
+        "sair da forma"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumuangana-1 — https://www.kimbundu.org/pt/word/kumuangana",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
