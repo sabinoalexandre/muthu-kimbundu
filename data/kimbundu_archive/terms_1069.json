@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10794,
+      "kimbundu_term": "Kunde",
+      "portuguese_translation": "Feijão frade, miúdo, verde: — kl k'arlteke-l'd kl ri zana'ê, kiringu kia mukua nzala ki k'izub'ê",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunde-1 — https://www.kimbundu.org/pt/word/kunde",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10795,
+      "kimbundu_term": "Kunde",
+      "portuguese_translation": "Abrev. de riKunde",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunde-1 — https://www.kimbundu.org/pt/word/kunde",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10796,
+      "kimbundu_term": "Kundómba",
+      "portuguese_translation": "Tornar trigueiro, moreno",
+      "definition": null,
+      "alternative_meanings": [
+        "Enlourecer",
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kundómba-1 — https://www.kimbundu.org/pt/word/kundomba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10797,
+      "kimbundu_term": "Kúndonda",
+      "portuguese_translation": "Gotejar",
+      "definition": null,
+      "alternative_meanings": [
+        "escorrer pingando"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúndonda-1 — https://www.kimbundu.org/pt/word/kundonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10798,
+      "kimbundu_term": "Kúndonda",
+      "portuguese_translation": "Gotejamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúndonda-1 — https://www.kimbundu.org/pt/word/kundonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10799,
+      "kimbundu_term": "Kundónda",
+      "portuguese_translation": "Apontar",
+      "definition": null,
+      "alternative_meanings": [
+        "indicar com o dedo ou ponteiro",
+        "Precisar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kundónda-1 — https://www.kimbundu.org/pt/word/kundonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10800,
+      "kimbundu_term": "Kundondejeka",
+      "portuguese_translation": "Segurar com pontos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kundondejeka-1 — https://www.kimbundu.org/pt/word/kundondejeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10801,
+      "kimbundu_term": "Kundondeka",
+      "portuguese_translation": "Apontuar",
+      "definition": null,
+      "alternative_meanings": [
+        "assinalar",
+        "Declarar a procedência, a origem de",
+        "Marcar com ponto"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kundondeka-1 — https://www.kimbundu.org/pt/word/kundondeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10802,
+      "kimbundu_term": "Kundondesa",
+      "portuguese_translation": "Fazer escorrer, gotejar, pingar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kundondesa-1 — https://www.kimbundu.org/pt/word/kundondesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10803,
+      "kimbundu_term": "Kundondesa",
+      "portuguese_translation": "Fazer marcar, assinalar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kundondesa-1 — https://www.kimbundu.org/pt/word/kundondesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
