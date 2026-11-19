@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9924,
+      "kimbundu_term": "Kulába",
+      "portuguese_translation": "Enlamear",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulába-1 — https://www.kimbundu.org/pt/word/kulaba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9925,
+      "kimbundu_term": "Kulába",
+      "portuguese_translation": "Lambuzadela",
+      "definition": null,
+      "alternative_meanings": [
+        "bezuntadela"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulába-1 — https://www.kimbundu.org/pt/word/kulaba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9926,
+      "kimbundu_term": "Kulabeka",
+      "portuguese_translation": "Pespegar",
+      "definition": null,
+      "alternative_meanings": [
+        "chimpar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulabeka-1 — https://www.kimbundu.org/pt/word/kulabeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9927,
+      "kimbundu_term": "Kulabeka",
+      "portuguese_translation": "Chapar",
+      "definition": null,
+      "alternative_meanings": [
+        "estampar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulabeka-1 — https://www.kimbundu.org/pt/word/kulabeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9928,
+      "kimbundu_term": "Kulabeka",
+      "portuguese_translation": "Assinalar",
+      "definition": null,
+      "alternative_meanings": [
+        "imprimir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulabeka-1 — https://www.kimbundu.org/pt/word/kulabeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9929,
+      "kimbundu_term": "Kulabekesa",
+      "portuguese_translation": "Mandar dar ou aplicar com força. Fazer pespegar, dar chapada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulabekesa-1 — https://www.kimbundu.org/pt/word/kulabekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9930,
+      "kimbundu_term": "Kulabesa",
+      "portuguese_translation": "Ajudar a trepar",
+      "definition": null,
+      "alternative_meanings": [
+        "mandar subir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulabesa-1 — https://www.kimbundu.org/pt/word/kulabesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9931,
+      "kimbundu_term": "Kulabesa",
+      "portuguese_translation": "Fazer lambuzar, bezuntar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulabesa-1 — https://www.kimbundu.org/pt/word/kulabesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9932,
+      "kimbundu_term": "Kulabuka",
+      "portuguese_translation": "Amornar",
+      "definition": null,
+      "alternative_meanings": [
+        "estar pouco quente",
+        "adquirir calor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulabuka-1 — https://www.kimbundu.org/pt/word/kulabuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9933,
+      "kimbundu_term": "Kulabuka",
+      "portuguese_translation": "Ter princípio de febre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulabuka-1 — https://www.kimbundu.org/pt/word/kulabuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
