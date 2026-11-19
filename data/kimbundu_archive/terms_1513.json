@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15234,
+      "kimbundu_term": "Mbinga",
+      "portuguese_translation": "Chifre para usos domésticos ou para artefactos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbinga-1 — https://www.kimbundu.org/pt/word/mbinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15235,
+      "kimbundu_term": "Mbinga",
+      "portuguese_translation": "Cornícula",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbinga-1 — https://www.kimbundu.org/pt/word/mbinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15236,
+      "kimbundu_term": "Mbinga",
+      "portuguese_translation": "Trombeta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbinga-1 — https://www.kimbundu.org/pt/word/mbinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15237,
+      "kimbundu_term": "Mbinga",
+      "portuguese_translation": "A ponta aguçada da cornucópia",
+      "definition": null,
+      "alternative_meanings": [
+        "cada uma das pontas do crescente da lua"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbinga-1 — https://www.kimbundu.org/pt/word/mbinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15238,
+      "kimbundu_term": "Mbinji",
+      "portuguese_translation": "Lobo pequeno",
+      "definition": null,
+      "alternative_meanings": [
+        "lobato"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbinji-1 — https://www.kimbundu.org/pt/word/mbinji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15239,
+      "kimbundu_term": "Mbinji",
+      "portuguese_translation": "Animal cerval, carnívoro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbinji-1 — https://www.kimbundu.org/pt/word/mbinji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15240,
+      "kimbundu_term": "Mbinji",
+      "portuguese_translation": "Rapace",
+      "definition": null,
+      "alternative_meanings": [
+        "voraz"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbinji-1 — https://www.kimbundu.org/pt/word/mbinji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15241,
+      "kimbundu_term": "Mbinji",
+      "portuguese_translation": "Destruidor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbinji-1 — https://www.kimbundu.org/pt/word/mbinji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15242,
+      "kimbundu_term": "Mbinza",
+      "portuguese_translation": "Camisa",
+      "definition": null,
+      "alternative_meanings": [
+        "peça interior do vestuário"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbinza-1 — https://www.kimbundu.org/pt/word/mbinza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15243,
+      "kimbundu_term": "Mbôa",
+      "portuguese_translation": "Planta amarantácea anual, comestível",
+      "definition": null,
+      "alternative_meanings": [
+        "bredo",
+        "amaranto. Usa-se mais no plural (jimbóa)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbôa-1 — https://www.kimbundu.org/pt/word/mboa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
