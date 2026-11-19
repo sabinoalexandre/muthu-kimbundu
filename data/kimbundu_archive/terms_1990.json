@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 20004,
+      "kimbundu_term": "Vúnda",
+      "portuguese_translation": "Abrev. de rivúnda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, vúnda-1 — https://www.kimbundu.org/pt/word/vunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20005,
+      "kimbundu_term": "Vúnda",
+      "portuguese_translation": "Moita",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, vúnda-1 — https://www.kimbundu.org/pt/word/vunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20006,
+      "kimbundu_term": "Vwa",
+      "portuguese_translation": "Nove. O número 9. O último numa série de nove. Precedido da prep. ria, este adj. concorda com os prefixos de todas as cl",
+      "definition": null,
+      "alternative_meanings": [
+        "—ria malunueun etc"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, cardinal",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, vwa-1 — https://www.kimbundu.org/pt/word/vwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20007,
+      "kimbundu_term": "Wama",
+      "portuguese_translation": "(V) Bruxaria",
+      "definition": null,
+      "alternative_meanings": [
+        "encantamento",
+        "magia. Arte de aproveitar os segredos das ciências para produzir efeitos surpreendentes"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wama-1 — https://www.kimbundu.org/pt/word/wama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20008,
+      "kimbundu_term": "Wamba",
+      "portuguese_translation": "Ofídio venenoso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wamba-1 — https://www.kimbundu.org/pt/word/wamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20009,
+      "kimbundu_term": "Wamba",
+      "portuguese_translation": "Pequeno afluente do rio Cambo, nas terras da Ginga, distr. da Lunda, prov. de Malanje",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wamba-1 — https://www.kimbundu.org/pt/word/wamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20010,
+      "kimbundu_term": "Wamba",
+      "portuguese_translation": "Pov. e posto da circ. civ. do Pombo, distr. do Congo, prov. de Luanda, 6.061 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wamba-1 — https://www.kimbundu.org/pt/word/wamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20011,
+      "kimbundu_term": "Wami",
+      "portuguese_translation": "e pron. poss. (contr. da prep. ua e do pron. poss. eme) Meu",
+      "definition": null,
+      "alternative_meanings": [
+        "minha"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio, indefinido",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wami-1 — https://www.kimbundu.org/pt/word/wami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20012,
+      "kimbundu_term": "Wami",
+      "portuguese_translation": "Também. Egualmente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio, indefinido",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wami-1 — https://www.kimbundu.org/pt/word/wami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20013,
+      "kimbundu_term": "Wamukwa",
+      "portuguese_translation": "e pron. ind-f. Diferente. Outro",
+      "definition": null,
+      "alternative_meanings": [
+        "outra"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, indefinido",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wamukwa-1 — https://www.kimbundu.org/pt/word/wamukwa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
