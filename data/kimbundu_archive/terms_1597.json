@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16074,
+      "kimbundu_term": "Muele",
+      "portuguese_translation": "Réu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muele-1 — https://www.kimbundu.org/pt/word/muele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16075,
+      "kimbundu_term": "Muele",
+      "portuguese_translation": "O que perdeu a razão (numa demanda)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muele-1 — https://www.kimbundu.org/pt/word/muele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16076,
+      "kimbundu_term": "Muele",
+      "portuguese_translation": "Condenado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muele-1 — https://www.kimbundu.org/pt/word/muele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16077,
+      "kimbundu_term": "Mueléle",
+      "portuguese_translation": "Manjericão bravo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mueléle-1 — https://www.kimbundu.org/pt/word/muelele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16078,
+      "kimbundu_term": "Mueléle",
+      "portuguese_translation": "Manjerona",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mueléle-1 — https://www.kimbundu.org/pt/word/muelele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16079,
+      "kimbundu_term": "Muélu",
+      "portuguese_translation": "Que não é liberal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muélu-1 — https://www.kimbundu.org/pt/word/muelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16080,
+      "kimbundu_term": "Muélu",
+      "portuguese_translation": "Fona",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muélu-1 — https://www.kimbundu.org/pt/word/muelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16081,
+      "kimbundu_term": "Muélu",
+      "portuguese_translation": "Agarrado",
+      "definition": null,
+      "alternative_meanings": [
+        "forreta"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muélu-1 — https://www.kimbundu.org/pt/word/muelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16082,
+      "kimbundu_term": "Muêlu",
+      "portuguese_translation": "Abertura",
+      "definition": null,
+      "alternative_meanings": [
+        "entrada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muêlu-1 — https://www.kimbundu.org/pt/word/muelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16083,
+      "kimbundu_term": "Muêlu",
+      "portuguese_translation": "Umbral",
+      "definition": null,
+      "alternative_meanings": [
+        "soleira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muêlu-1 — https://www.kimbundu.org/pt/word/muelu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
