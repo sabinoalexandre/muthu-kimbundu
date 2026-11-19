@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 20064,
+      "kimbundu_term": "Xálu",
+      "portuguese_translation": "Monte de conchas de «mabanga» para queimar e fabricar cal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xálu-1 — https://www.kimbundu.org/pt/word/xalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20065,
+      "kimbundu_term": "Xana",
+      "portuguese_translation": "Savana",
+      "definition": null,
+      "alternative_meanings": [
+        "planície onde só cresce erva"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xana-1 — https://www.kimbundu.org/pt/word/xana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20066,
+      "kimbundu_term": "Xanganga",
+      "portuguese_translation": "Longínquo",
+      "definition": null,
+      "alternative_meanings": [
+        "imemorável"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xanganga-1 — https://www.kimbundu.org/pt/word/xanganga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20067,
+      "kimbundu_term": "Xanganga",
+      "portuguese_translation": "Muito distante, remoto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xanganga-1 — https://www.kimbundu.org/pt/word/xanganga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20068,
+      "kimbundu_term": "Xanganga",
+      "portuguese_translation": "Ido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xanganga-1 — https://www.kimbundu.org/pt/word/xanganga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20069,
+      "kimbundu_term": "Xapé",
+      "portuguese_translation": "Chapéu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xapé-1 — https://www.kimbundu.org/pt/word/xape",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20070,
+      "kimbundu_term": "Xapidinyu",
+      "portuguese_translation": "Umbela",
+      "definition": null,
+      "alternative_meanings": [
+        "chapéu de chuva"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xapidinyu-1 — https://www.kimbundu.org/pt/word/xapidinyu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20071,
+      "kimbundu_term": "Xata",
+      "portuguese_translation": "De vez. Para sempre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xata-1 — https://www.kimbundu.org/pt/word/xata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20072,
+      "kimbundu_term": "Xê",
+      "portuguese_translation": "para chamar alguém",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xê-1 — https://www.kimbundu.org/pt/word/xe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20073,
+      "kimbundu_term": "Xéxe",
+      "portuguese_translation": "Passarinho conirostro, conhecido por «celeste»",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xéxe-1 — https://www.kimbundu.org/pt/word/xexe",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
