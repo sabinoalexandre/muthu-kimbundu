@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4024,
+      "kimbundu_term": "Kasabi",
+      "portuguese_translation": "Chavinha",
+      "definition": null,
+      "alternative_meanings": [
+        "chaveta"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasabi-1 — https://www.kimbundu.org/pt/word/kasabi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4025,
+      "kimbundu_term": "Kasai",
+      "portuguese_translation": "Grande afluente da margem esquerda do Zaire ou Congo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasai-1 — https://www.kimbundu.org/pt/word/kasai",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4026,
+      "kimbundu_term": "Kasai",
+      "portuguese_translation": "Pov. e sede da circ. civ. deste nome (Vila Veríssimo Sarmento), distr. da Lunda, prov. de Malange, com 4.848 hab., est.",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasai-1 — https://www.kimbundu.org/pt/word/kasai",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4027,
+      "kimbundu_term": "Kasai",
+      "portuguese_translation": "Pov. e posto da circ. civ. de Cassai-Sul, à margem do rio deste nome, distr. da Lunda, prov. de Malange, com 7.474 hab.",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasai-1 — https://www.kimbundu.org/pt/word/kasai",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4028,
+      "kimbundu_term": "Kasai",
+      "portuguese_translation": "Sede da circ. civ. de Nova Chaves, distr. da Lunda, prov. de Malange, a 10° 35' de lat. S. e 21° 19' de long. E. Gr. 4.1",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasai-1 — https://www.kimbundu.org/pt/word/kasai",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4029,
+      "kimbundu_term": "Kásaju",
+      "portuguese_translation": "Eriçado",
+      "definition": null,
+      "alternative_meanings": [
+        "Que tem o cabelo ou as penas em desalinho",
+        "Desgrenhado",
+        "despenteado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kásaju-1 — https://www.kimbundu.org/pt/word/kasaju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4030,
+      "kimbundu_term": "Kasakata",
+      "portuguese_translation": "Avançada",
+      "definition": null,
+      "alternative_meanings": [
+        "dianteira",
+        "Avanço"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasakata-1 — https://www.kimbundu.org/pt/word/kasakata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4031,
+      "kimbundu_term": "Kasakata",
+      "portuguese_translation": "Saliente",
+      "definition": null,
+      "alternative_meanings": [
+        "avançado",
+        "Que sobressai",
+        "Que se torna notável",
+        "que dá nas vistas",
+        "Dianteiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasakata-1 — https://www.kimbundu.org/pt/word/kasakata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4032,
+      "kimbundu_term": "Kasakata",
+      "portuguese_translation": "Morro ao S. da foz do Dande, (visível da cidade de Luanda)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasakata-1 — https://www.kimbundu.org/pt/word/kasakata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4033,
+      "kimbundu_term": "Kasakata",
+      "portuguese_translation": "Cabo ao N. da praia de S. Tiago, posto civ. da Barra, circ. do Dande, distr. e prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasakata-1 — https://www.kimbundu.org/pt/word/kasakata",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
