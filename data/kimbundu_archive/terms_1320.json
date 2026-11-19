@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13304,
+      "kimbundu_term": "Kúxinga",
+      "portuguese_translation": "Ato ou expressão altamente ofensiva",
+      "definition": null,
+      "alternative_meanings": [
+        "Injúria",
+        "insulto",
+        "descompostura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxinga-1 — https://www.kimbundu.org/pt/word/kuxinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13305,
+      "kimbundu_term": "Kúxinga",
+      "portuguese_translation": "Kurixinga, e r. Desordenar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "Permutar indecências, obscenidades, injúrias"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxinga-1 — https://www.kimbundu.org/pt/word/kuxinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13306,
+      "kimbundu_term": "Kuxingeneka",
+      "portuguese_translation": "Raciocinar",
+      "definition": null,
+      "alternative_meanings": [
+        "pensar",
+        "considerar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxingeneka-1 — https://www.kimbundu.org/pt/word/kuxingeneka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13307,
+      "kimbundu_term": "Kuxingeneka",
+      "portuguese_translation": "Imaginar",
+      "definition": null,
+      "alternative_meanings": [
+        "calcular",
+        "ver"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxingeneka-1 — https://www.kimbundu.org/pt/word/kuxingeneka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13308,
+      "kimbundu_term": "Kuxingeneka",
+      "portuguese_translation": "Raciocínio",
+      "definition": null,
+      "alternative_meanings": [
+        "juízo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxingeneka-1 — https://www.kimbundu.org/pt/word/kuxingeneka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13309,
+      "kimbundu_term": "Kuxingidisa",
+      "portuguese_translation": "Magnetizar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer evocar os espíritos dos mortos",
+        "Pôr sob a influência do magnetismo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxingidisa-1 — https://www.kimbundu.org/pt/word/kuxingidisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13310,
+      "kimbundu_term": "Kuxingila",
+      "portuguese_translation": "Chamar, invocar espíritos",
+      "definition": null,
+      "alternative_meanings": [
+        "Ficar ou estar magnetisado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxingila-1 — https://www.kimbundu.org/pt/word/kuxingila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13311,
+      "kimbundu_term": "Kuxingisa",
+      "portuguese_translation": "Fazer injuriar, insultar",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer perder a consideração, o decoro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxingisa-1 — https://www.kimbundu.org/pt/word/kuxingisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13312,
+      "kimbundu_term": "Kuxingisa",
+      "portuguese_translation": "Kurixingisa, v. r. Dedignar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxingisa-1 — https://www.kimbundu.org/pt/word/kuxingisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13313,
+      "kimbundu_term": "Kuxingujuka",
+      "portuguese_translation": "Hesitar",
+      "definition": null,
+      "alternative_meanings": [
+        "estar a esquivar-se",
+        "Mostrar receio, má vontade"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxingujuka-1 — https://www.kimbundu.org/pt/word/kuxingujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
