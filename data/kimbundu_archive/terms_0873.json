@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8834,
+      "kimbundu_term": "Kuíba",
+      "portuguese_translation": "Rio de grande caudal, afluente do Quanza, com nascente na serra da Mossamba, distr. do Moxico, prov. do Bié",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuíba-1 — https://www.kimbundu.org/pt/word/kuiba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8835,
+      "kimbundu_term": "Kúibila",
+      "portuguese_translation": "Desagradar",
+      "definition": null,
+      "alternative_meanings": [
+        "aborrecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúibila-1 — https://www.kimbundu.org/pt/word/kuibila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8836,
+      "kimbundu_term": "Kúibila",
+      "portuguese_translation": "Ser mau, descontentar, desgostar a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúibila-1 — https://www.kimbundu.org/pt/word/kuibila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8837,
+      "kimbundu_term": "Kuibisa",
+      "portuguese_translation": "Tornar desagradável, feio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuibisa-1 — https://www.kimbundu.org/pt/word/kuibisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8838,
+      "kimbundu_term": "Kuibisa",
+      "portuguese_translation": "Desfigurar",
+      "definition": null,
+      "alternative_meanings": [
+        "desformar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuibisa-1 — https://www.kimbundu.org/pt/word/kuibisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8839,
+      "kimbundu_term": "Kuibisa",
+      "portuguese_translation": "Agoniar",
+      "definition": null,
+      "alternative_meanings": [
+        "constranger",
+        "afligir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuibisa-1 — https://www.kimbundu.org/pt/word/kuibisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8840,
+      "kimbundu_term": "Kuibudisa",
+      "portuguese_translation": "Averiguar",
+      "definition": null,
+      "alternative_meanings": [
+        "indagar",
+        "inquirir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuibudisa-1 — https://www.kimbundu.org/pt/word/kuibudisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8841,
+      "kimbundu_term": "Kuibudisa",
+      "portuguese_translation": "Proceder a averiguações",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuibudisa-1 — https://www.kimbundu.org/pt/word/kuibudisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8842,
+      "kimbundu_term": "Kuibudisa",
+      "portuguese_translation": "Indagação",
+      "definition": null,
+      "alternative_meanings": [
+        "interrogatório"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuibudisa-1 — https://www.kimbundu.org/pt/word/kuibudisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8843,
+      "kimbundu_term": "Kuidika",
+      "portuguese_translation": "Mostrar",
+      "definition": null,
+      "alternative_meanings": [
+        "ensinar",
+        "fazer ver",
+        "Amoldar",
+        "instruir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuidika-1 — https://www.kimbundu.org/pt/word/kuidika",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
