@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10054,
+      "kimbundu_term": "Kulandumuna",
+      "portuguese_translation": "Expulsar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulandumuna-1 — https://www.kimbundu.org/pt/word/kulandumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10055,
+      "kimbundu_term": "Kulandumuna",
+      "portuguese_translation": "É também recíproco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulandumuna-1 — https://www.kimbundu.org/pt/word/kulandumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10056,
+      "kimbundu_term": "Kúlanga",
+      "portuguese_translation": "Espiar",
+      "definition": null,
+      "alternative_meanings": [
+        "observar",
+        "ver",
+        "Buscar",
+        "não perder de vista",
+        "Rondar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlanga-1 — https://www.kimbundu.org/pt/word/kulanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10057,
+      "kimbundu_term": "Kulangála",
+      "portuguese_translation": "Estar na cama",
+      "definition": null,
+      "alternative_meanings": [
+        "repousar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulangála-1 — https://www.kimbundu.org/pt/word/kulangala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10058,
+      "kimbundu_term": "Kulangála",
+      "portuguese_translation": "Deitar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "estender-se ao comprido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulangála-1 — https://www.kimbundu.org/pt/word/kulangala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10059,
+      "kimbundu_term": "Kulangama",
+      "portuguese_translation": "Montar, colocar-se sobre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulangama-1 — https://www.kimbundu.org/pt/word/kulangama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10060,
+      "kimbundu_term": "Kulangama",
+      "portuguese_translation": "Deitar-se por cima de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulangama-1 — https://www.kimbundu.org/pt/word/kulangama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10061,
+      "kimbundu_term": "Kulangamesa",
+      "portuguese_translation": "Acavalar",
+      "definition": null,
+      "alternative_meanings": [
+        "amontoar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulangamesa-1 — https://www.kimbundu.org/pt/word/kulangamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10062,
+      "kimbundu_term": "Kulangamesa",
+      "portuguese_translation": "Pôr por cima de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulangamesa-1 — https://www.kimbundu.org/pt/word/kulangamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10063,
+      "kimbundu_term": "Kulangeka",
+      "portuguese_translation": "Preparar (alguém de um acontecimento)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulangeka-1 — https://www.kimbundu.org/pt/word/kulangeka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
