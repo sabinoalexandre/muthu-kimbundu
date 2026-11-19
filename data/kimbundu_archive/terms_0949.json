@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9594,
+      "kimbundu_term": "Kukosomona",
+      "portuguese_translation": "Mexer alguém a dormir para que se mova",
+      "definition": null,
+      "alternative_meanings": [
+        "Titilar",
+        "fazer palpitar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukosomona-1 — https://www.kimbundu.org/pt/word/kukosomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9595,
+      "kimbundu_term": "Kukosomona",
+      "portuguese_translation": "Espreguiçar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "mover-se (estando a dormir)",
+        "Dar sinal de vida",
+        "estremecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukosomona-1 — https://www.kimbundu.org/pt/word/kukosomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9596,
+      "kimbundu_term": "Kukosomona",
+      "portuguese_translation": "Titilação",
+      "definition": null,
+      "alternative_meanings": [
+        "estremecimento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukosomona-1 — https://www.kimbundu.org/pt/word/kukosomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9597,
+      "kimbundu_term": "Kukotama",
+      "portuguese_translation": "Estar alquebrado, corcovado",
+      "definition": null,
+      "alternative_meanings": [
+        "Tornar-se curvo",
+        "fig. Ser maleável, dócil"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukotama-1 — https://www.kimbundu.org/pt/word/kukotama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9598,
+      "kimbundu_term": "Kukotama",
+      "portuguese_translation": "Curvatura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukotama-2 — https://www.kimbundu.org/pt/word/kukotama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9599,
+      "kimbundu_term": "Kukotamena",
+      "portuguese_translation": "Estar penalizado, triste por",
+      "definition": null,
+      "alternative_meanings": [
+        "Curvar-se (pensativo)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukotamena-1 — https://www.kimbundu.org/pt/word/kukotamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9600,
+      "kimbundu_term": "Kukotamena",
+      "portuguese_translation": "Tornar-se meditabundo, triste",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukotamena-1 — https://www.kimbundu.org/pt/word/kukotamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9601,
+      "kimbundu_term": "Kukotamesa",
+      "portuguese_translation": "Arquear",
+      "definition": null,
+      "alternative_meanings": [
+        "encurvar",
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukotamesa-1 — https://www.kimbundu.org/pt/word/kukotamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9602,
+      "kimbundu_term": "Kukoteka",
+      "portuguese_translation": "Arrebitar",
+      "definition": null,
+      "alternative_meanings": [
+        "virar o bico",
+        "Dobrar",
+        "Vergar",
+        "fig. Sujeitar",
+        "demover",
+        "seduzir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukoteka-1 — https://www.kimbundu.org/pt/word/kukoteka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9603,
+      "kimbundu_term": "Kukoteka",
+      "portuguese_translation": "Alapar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "enroscar-se, encolher-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukoteka-1 — https://www.kimbundu.org/pt/word/kukoteka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
