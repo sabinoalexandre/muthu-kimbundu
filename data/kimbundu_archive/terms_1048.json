@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10584,
+      "kimbundu_term": "Kuma",
+      "portuguese_translation": "Pov. e posto da circ. civ. da Caala, distr. do Huambo, prov. de Benguela, 17.486 hab., est. telegr.-postal e do C. de F.",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, conjunção, corografia, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuma-1 — https://www.kimbundu.org/pt/word/kuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10585,
+      "kimbundu_term": "Kumakuna",
+      "portuguese_translation": "Esmechar",
+      "definition": null,
+      "alternative_meanings": [
+        "dar cutiladas",
+        "golpear"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumakuna-1 — https://www.kimbundu.org/pt/word/kumakuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10586,
+      "kimbundu_term": "Kumakuna",
+      "portuguese_translation": "Esborcinar",
+      "definition": null,
+      "alternative_meanings": [
+        "esmoncar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumakuna-1 — https://www.kimbundu.org/pt/word/kumakuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10587,
+      "kimbundu_term": "Kumáma",
+      "portuguese_translation": "Contactar",
+      "definition": null,
+      "alternative_meanings": [
+        "comunicar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumáma-1 — https://www.kimbundu.org/pt/word/kumama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10588,
+      "kimbundu_term": "Kumáma",
+      "portuguese_translation": "Diz-se do molhar o pão no molho, ou a bola do funji no caldo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumáma-1 — https://www.kimbundu.org/pt/word/kumama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10589,
+      "kimbundu_term": "Kumamejeka",
+      "portuguese_translation": "Acrescentar aos poucos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumamejeka-1 — https://www.kimbundu.org/pt/word/kumamejeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10590,
+      "kimbundu_term": "Kumamejeka",
+      "portuguese_translation": "Coser pequenos bocados de pano",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumamejeka-1 — https://www.kimbundu.org/pt/word/kumamejeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10591,
+      "kimbundu_term": "Kumamejeka",
+      "portuguese_translation": "Caracterizar",
+      "definition": null,
+      "alternative_meanings": [
+        "considerar em particular"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumamejeka-1 — https://www.kimbundu.org/pt/word/kumamejeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10592,
+      "kimbundu_term": "Kumameka",
+      "portuguese_translation": "Colar",
+      "definition": null,
+      "alternative_meanings": [
+        "grudar. Estabelecer aderência"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumameka-1 — https://www.kimbundu.org/pt/word/kumameka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10593,
+      "kimbundu_term": "Kumameka",
+      "portuguese_translation": "Kurimameka, e r. Ficar grudado, unido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumameka-1 — https://www.kimbundu.org/pt/word/kumameka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
