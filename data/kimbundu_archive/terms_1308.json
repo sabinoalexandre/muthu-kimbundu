@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13184,
+      "kimbundu_term": "Kuxiialala",
+      "portuguese_translation": "Estar ceboroso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxiialala-1 — https://www.kimbundu.org/pt/word/kuxiialala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13185,
+      "kimbundu_term": "Kuxiialesa",
+      "portuguese_translation": "Ensebar",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer enrouquecer (a voz)",
+        "Tornar fanhoso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxiialesa-1 — https://www.kimbundu.org/pt/word/kuxiialesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13186,
+      "kimbundu_term": "Kúxika",
+      "portuguese_translation": "e intr. Soar",
+      "definition": null,
+      "alternative_meanings": [
+        "tocar",
+        "tanger",
+        "Tirar sons"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxika-1 — https://www.kimbundu.org/pt/word/kuxika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13187,
+      "kimbundu_term": "Kúxika",
+      "portuguese_translation": "Assobiar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxika-1 — https://www.kimbundu.org/pt/word/kuxika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13188,
+      "kimbundu_term": "Kuxika",
+      "portuguese_translation": "Deliciar",
+      "definition": null,
+      "alternative_meanings": [
+        "causar deleite a. Sentir prazer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxika-1 — https://www.kimbundu.org/pt/word/kuxika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13189,
+      "kimbundu_term": "Kuxikama",
+      "portuguese_translation": "Sentar",
+      "definition": null,
+      "alternative_meanings": [
+        "abancar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikama-1 — https://www.kimbundu.org/pt/word/kuxikama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13190,
+      "kimbundu_term": "Kuxikama",
+      "portuguese_translation": "Estar quieto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikama-1 — https://www.kimbundu.org/pt/word/kuxikama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13191,
+      "kimbundu_term": "Kuxikamena",
+      "portuguese_translation": "Esperar (assentado) por",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikamena-1 — https://www.kimbundu.org/pt/word/kuxikamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13192,
+      "kimbundu_term": "Kuxikamena",
+      "portuguese_translation": "Presenciar",
+      "definition": null,
+      "alternative_meanings": [
+        "assentar-se para ver"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikamena-1 — https://www.kimbundu.org/pt/word/kuxikamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13193,
+      "kimbundu_term": "Kuxikamesa",
+      "portuguese_translation": "Fazer assentar",
+      "definition": null,
+      "alternative_meanings": [
+        "pôr seguro (sobre base)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikamesa-1 — https://www.kimbundu.org/pt/word/kuxikamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
