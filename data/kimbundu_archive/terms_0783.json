@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7934,
+      "kimbundu_term": "Kubundumuna",
+      "portuguese_translation": "Desperdiçar",
+      "definition": null,
+      "alternative_meanings": [
+        "malbaratar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubundumuna-1 — https://www.kimbundu.org/pt/word/kubundumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7935,
+      "kimbundu_term": "Kubundumuna",
+      "portuguese_translation": "Gastar sem proveito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubundumuna-1 — https://www.kimbundu.org/pt/word/kubundumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7936,
+      "kimbundu_term": "Kubundumuna",
+      "portuguese_translation": "Ultrapassar",
+      "definition": null,
+      "alternative_meanings": [
+        "exceder"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubundumuna-1 — https://www.kimbundu.org/pt/word/kubundumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7937,
+      "kimbundu_term": "Kubúnga",
+      "portuguese_translation": "e intr. Enxamear",
+      "definition": null,
+      "alternative_meanings": [
+        "estar pouco húmido, seco"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubúnga-1 — https://www.kimbundu.org/pt/word/kubunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7938,
+      "kimbundu_term": "Kubúnga",
+      "portuguese_translation": "Ter magia",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar-se feiticeiro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubúnga-1 — https://www.kimbundu.org/pt/word/kubunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7939,
+      "kimbundu_term": "Kubungajana",
+      "portuguese_translation": "Levar vida incerta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubungajana-1 — https://www.kimbundu.org/pt/word/kubungajana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7940,
+      "kimbundu_term": "Kubungajana",
+      "portuguese_translation": "Andar sem destino",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubungajana-1 — https://www.kimbundu.org/pt/word/kubungajana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7941,
+      "kimbundu_term": "Kubungajana",
+      "portuguese_translation": "Errar",
+      "definition": null,
+      "alternative_meanings": [
+        "vaguear"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubungajana-1 — https://www.kimbundu.org/pt/word/kubungajana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7942,
+      "kimbundu_term": "Kubungana",
+      "portuguese_translation": "Divagar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubungana-1 — https://www.kimbundu.org/pt/word/kubungana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7943,
+      "kimbundu_term": "Kubungana",
+      "portuguese_translation": "Ir sem rumo certo nem objeto determinado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubungana-1 — https://www.kimbundu.org/pt/word/kubungana",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
