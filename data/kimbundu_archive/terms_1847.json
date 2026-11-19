@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18574,
+      "kimbundu_term": "Páka",
+      "portuguese_translation": "Vereda. Atalho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, páka-1 — https://www.kimbundu.org/pt/word/paka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18575,
+      "kimbundu_term": "Pakála",
+      "portuguese_translation": "Antiga medida de capacidade. Taleiga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pakála-1 — https://www.kimbundu.org/pt/word/pakala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18576,
+      "kimbundu_term": "Paku",
+      "portuguese_translation": "Arruda. Planta fam. das rutáceas (Zauthaxylum nitens) de madeira resistente, própria para medicação e construções",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, paku-1 — https://www.kimbundu.org/pt/word/paku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18577,
+      "kimbundu_term": "Paku",
+      "portuguese_translation": "Todos, todas",
+      "definition": null,
+      "alternative_meanings": [
+        "Sem exceção",
+        "Tudo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, paku-1 — https://www.kimbundu.org/pt/word/paku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18578,
+      "kimbundu_term": "Paku",
+      "portuguese_translation": "Totalmente",
+      "definition": null,
+      "alternative_meanings": [
+        "ao todo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, paku-1 — https://www.kimbundu.org/pt/word/paku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18579,
+      "kimbundu_term": "Paku",
+      "portuguese_translation": "A soma",
+      "definition": null,
+      "alternative_meanings": [
+        "o conjunto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, paku-1 — https://www.kimbundu.org/pt/word/paku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18580,
+      "kimbundu_term": "Paku",
+      "portuguese_translation": "ene, todos eles",
+      "definition": null,
+      "alternative_meanings": [
+        "sem restrição",
+        "——, adj. indef. Uns ou umas (entre vários)",
+        "Quaisquer"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, paku-1 — https://www.kimbundu.org/pt/word/paku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18581,
+      "kimbundu_term": "Paku",
+      "portuguese_translation": "todos",
+      "definition": null,
+      "alternative_meanings": [
+        "tudo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, paku-1 — https://www.kimbundu.org/pt/word/paku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18582,
+      "kimbundu_term": "Paku",
+      "portuguese_translation": "Indistintamente",
+      "definition": null,
+      "alternative_meanings": [
+        "geralmente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, paku-1 — https://www.kimbundu.org/pt/word/paku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18583,
+      "kimbundu_term": "Pala'nyi",
+      "portuguese_translation": "Para quê",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pala'nyi-1 — https://www.kimbundu.org/pt/word/pala'nyi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
