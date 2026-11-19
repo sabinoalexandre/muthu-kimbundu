@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7944,
+      "kimbundu_term": "Kubungana",
+      "portuguese_translation": "Andar vagueando",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubungana-1 — https://www.kimbundu.org/pt/word/kubungana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7945,
+      "kimbundu_term": "Kubungana",
+      "portuguese_translation": "Vagueação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubungana-1 — https://www.kimbundu.org/pt/word/kubungana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7946,
+      "kimbundu_term": "Kubungila",
+      "portuguese_translation": "Assentar",
+      "definition": null,
+      "alternative_meanings": [
+        "firmar-se",
+        "afazer-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubungila-1 — https://www.kimbundu.org/pt/word/kubungila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7947,
+      "kimbundu_term": "Kubungila",
+      "portuguese_translation": "Demorar",
+      "definition": null,
+      "alternative_meanings": [
+        "permanecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubungila-1 — https://www.kimbundu.org/pt/word/kubungila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7948,
+      "kimbundu_term": "Kubungisa",
+      "portuguese_translation": "Fazer enxamear, secar levemente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubungisa-1 — https://www.kimbundu.org/pt/word/kubungisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7949,
+      "kimbundu_term": "Kubungujuka",
+      "portuguese_translation": "Andar desamparado, abandonado, sem proteção",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubungujuka-1 — https://www.kimbundu.org/pt/word/kubungujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7950,
+      "kimbundu_term": "Kubungujula",
+      "portuguese_translation": "Desamparar",
+      "definition": null,
+      "alternative_meanings": [
+        "dar ao desprezo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubungujula-1 — https://www.kimbundu.org/pt/word/kubungujula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7951,
+      "kimbundu_term": "Kubungujula",
+      "portuguese_translation": "Kuribungujula, v. r. Dar-se ao desprezo",
+      "definition": null,
+      "alternative_meanings": [
+        "relaxar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubungujula-1 — https://www.kimbundu.org/pt/word/kubungujula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7952,
+      "kimbundu_term": "Kubunguka",
+      "portuguese_translation": "Ficar apartado, separado, extremado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubunguka-1 — https://www.kimbundu.org/pt/word/kubunguka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7953,
+      "kimbundu_term": "Kubungúla",
+      "portuguese_translation": "Selecionar, separar, escolher. Apurar, afastar dos outros",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubungúla-1 — https://www.kimbundu.org/pt/word/kubungula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
