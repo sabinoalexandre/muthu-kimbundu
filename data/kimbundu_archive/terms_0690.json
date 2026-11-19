@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7004,
+      "kimbundu_term": "Kubalakalesa",
+      "portuguese_translation": "Fazer deportar",
+      "definition": null,
+      "alternative_meanings": [
+        "degredar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubalakalesa-1 — https://www.kimbundu.org/pt/word/kubalakalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7005,
+      "kimbundu_term": "Kubalakalesa",
+      "portuguese_translation": "Kuribalakalesa, e r. Fazer-se embarcadiço, deportado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubalakalesa-1 — https://www.kimbundu.org/pt/word/kubalakalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7006,
+      "kimbundu_term": "Kubalakanya",
+      "portuguese_translation": "Abalroar",
+      "definition": null,
+      "alternative_meanings": [
+        "Esbarrar",
+        "Chocar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubalakanya-1 — https://www.kimbundu.org/pt/word/kubalakanya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7007,
+      "kimbundu_term": "Kubalakata",
+      "portuguese_translation": "e intr. Suportar",
+      "definition": null,
+      "alternative_meanings": [
+        "sofrer",
+        "Experimentar as consequências de",
+        "Padecer com paciência e resignação"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubalakata-1 — https://www.kimbundu.org/pt/word/kubalakata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7008,
+      "kimbundu_term": "Kubalakata",
+      "portuguese_translation": "Padecimento",
+      "definition": null,
+      "alternative_meanings": [
+        "resignação"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubalakata-1 — https://www.kimbundu.org/pt/word/kubalakata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7009,
+      "kimbundu_term": "Kubalakatesa",
+      "portuguese_translation": "Fazer suportar, sofrer, padecer com resignação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubalakatesa-1 — https://www.kimbundu.org/pt/word/kubalakatesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7010,
+      "kimbundu_term": "Kubalata",
+      "portuguese_translation": "Arranhar (sem ferir)",
+      "definition": null,
+      "alternative_meanings": [
+        "Agatanhar",
+        "Arrepelar",
+        "unhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubalata-1 — https://www.kimbundu.org/pt/word/kubalata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7011,
+      "kimbundu_term": "Kubalata",
+      "portuguese_translation": "Kuribalata, v. r. Agatanhar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "arrepelar-se (com os dedos)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubalata-1 — https://www.kimbundu.org/pt/word/kubalata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7012,
+      "kimbundu_term": "Kúbalesa",
+      "portuguese_translation": "Fazer desabar, abater, dar queda",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer deitar por terra, cair"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbalesa-1 — https://www.kimbundu.org/pt/word/kubalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7013,
+      "kimbundu_term": "Kúbalesa",
+      "portuguese_translation": "Kuribalesa, e r. Tropeçar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer-se cair"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbalesa-1 — https://www.kimbundu.org/pt/word/kubalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
