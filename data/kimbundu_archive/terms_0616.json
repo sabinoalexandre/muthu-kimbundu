@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6264,
+      "kimbundu_term": "Kisungidilu",
+      "portuguese_translation": "Brinquedo para entreter o sono",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisungidilu-1 — https://www.kimbundu.org/pt/word/kisungidilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6265,
+      "kimbundu_term": "Kisungilu",
+      "portuguese_translation": "Puxador",
+      "definition": null,
+      "alternative_meanings": [
+        "utensílio para puxar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisungilu-1 — https://www.kimbundu.org/pt/word/kisungilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6266,
+      "kimbundu_term": "Kisungu",
+      "portuguese_translation": "A parte superior da cana de açúcar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisungu-1 — https://www.kimbundu.org/pt/word/kisungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6267,
+      "kimbundu_term": "Kisungu",
+      "portuguese_translation": "Aguardente",
+      "definition": null,
+      "alternative_meanings": [
+        "Cachaça"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisungu-1 — https://www.kimbundu.org/pt/word/kisungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6268,
+      "kimbundu_term": "Kisunji",
+      "portuguese_translation": "Fenómeno",
+      "definition": null,
+      "alternative_meanings": [
+        "Tudo o que na natureza é momentâneo e sucede poucas vezes",
+        "Tudo que é extraordinário, raro ou novo",
+        "Cousa surpreendente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisunji-1 — https://www.kimbundu.org/pt/word/kisunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6269,
+      "kimbundu_term": "Kisunji",
+      "portuguese_translation": "Pessoa de dotes extraordinários",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisunji-1 — https://www.kimbundu.org/pt/word/kisunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6270,
+      "kimbundu_term": "Kisunyate",
+      "portuguese_translation": "Parte da cabeça do dedo onde a unha se encrava e adere",
+      "definition": null,
+      "alternative_meanings": [
+        "Sabugo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisunyate-1 — https://www.kimbundu.org/pt/word/kisunyate",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6271,
+      "kimbundu_term": "Kisunyate",
+      "portuguese_translation": "Película que se levanta junto da unha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisunyate-1 — https://www.kimbundu.org/pt/word/kisunyate",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6272,
+      "kimbundu_term": "Kisunzu",
+      "portuguese_translation": "Ave de rapina noturna, fam. das Estrigídeas",
+      "definition": null,
+      "alternative_meanings": [
+        "Corujão",
+        "Bufo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisunzu-1 — https://www.kimbundu.org/pt/word/kisunzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6273,
+      "kimbundu_term": "Kisunzu",
+      "portuguese_translation": "Fantasma",
+      "definition": null,
+      "alternative_meanings": [
+        "Pessoa taciturna e feia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisunzu-1 — https://www.kimbundu.org/pt/word/kisunzu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
