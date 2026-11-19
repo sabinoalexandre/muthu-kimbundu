@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5324,
+      "kimbundu_term": "Kikungilu",
+      "portuguese_translation": "Esfregador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikungilu-1 — https://www.kimbundu.org/pt/word/kikungilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5325,
+      "kimbundu_term": "Kikungulu",
+      "portuguese_translation": "Tronco",
+      "definition": null,
+      "alternative_meanings": [
+        "caule",
+        "Parte da árvore que permanece na terra depois de cortada",
+        "Pau grosso e comprido"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikungulu-1 — https://www.kimbundu.org/pt/word/kikungulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5326,
+      "kimbundu_term": "Kikungunu",
+      "portuguese_translation": "Rispideira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikungunu-1 — https://www.kimbundu.org/pt/word/kikungunu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5327,
+      "kimbundu_term": "Kikungunu",
+      "portuguese_translation": "Rasura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikungunu-1 — https://www.kimbundu.org/pt/word/kikungunu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5328,
+      "kimbundu_term": "Kikunji",
+      "portuguese_translation": "Cachoeira do rio Cuango, a 5º 5' de lat. S., no distr. da Lunda, prov. de Malange",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikunji-1 — https://www.kimbundu.org/pt/word/kikunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5329,
+      "kimbundu_term": "Kikúnzu",
+      "portuguese_translation": "Porca velha de muitos filhos",
+      "definition": null,
+      "alternative_meanings": [
+        "fig"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikúnzu-1 — https://www.kimbundu.org/pt/word/kikunzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5330,
+      "kimbundu_term": "Kikúnzu",
+      "portuguese_translation": "Carcaça",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikúnzu-1 — https://www.kimbundu.org/pt/word/kikunzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5331,
+      "kimbundu_term": "Kikúnzu",
+      "portuguese_translation": "Gafeira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikúnzu-1 — https://www.kimbundu.org/pt/word/kikunzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5332,
+      "kimbundu_term": "Kikúsa",
+      "portuguese_translation": "Defeito da pessoa que, no falar, se embaraça, parando em certas sílabas e repetindo outras",
+      "definition": null,
+      "alternative_meanings": [
+        "Gaguês"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikúsa-1 — https://www.kimbundu.org/pt/word/kikusa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5333,
+      "kimbundu_term": "Kikúsa",
+      "portuguese_translation": "Tartamudo",
+      "definition": null,
+      "alternative_meanings": [
+        "Gago"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikúsa-2 — https://www.kimbundu.org/pt/word/kikusa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
