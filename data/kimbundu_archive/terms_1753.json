@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17634,
+      "kimbundu_term": "Naju",
+      "portuguese_translation": "Em companhia da pessoa que, de quem, ou com quem se fala",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, naju-1 — https://www.kimbundu.org/pt/word/naju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17635,
+      "kimbundu_term": "Nâke",
+      "portuguese_translation": "Oito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nâke-1 — https://www.kimbundu.org/pt/word/nake",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17636,
+      "kimbundu_term": "Nâke",
+      "portuguese_translation": "O número 8",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nâke-1 — https://www.kimbundu.org/pt/word/nake",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17637,
+      "kimbundu_term": "Nâke",
+      "portuguese_translation": "Oitavo. Que ocupa o oitavo lugar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nâke-1 — https://www.kimbundu.org/pt/word/nake",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17638,
+      "kimbundu_term": "Náki",
+      "portuguese_translation": "Designação vaga de pessoa incerta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, náki-1 — https://www.kimbundu.org/pt/word/naki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17639,
+      "kimbundu_term": "Náki",
+      "portuguese_translation": "Fulano",
+      "definition": null,
+      "alternative_meanings": [
+        "esse tal"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, náki-1 — https://www.kimbundu.org/pt/word/naki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17640,
+      "kimbundu_term": "Náki",
+      "portuguese_translation": "Afluente da margem esquerda do rio Xkapa, distr. e prov. de Malanga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, náki-1 — https://www.kimbundu.org/pt/word/naki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17641,
+      "kimbundu_term": "Naku",
+      "portuguese_translation": "Com ele, ela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, naku-1 — https://www.kimbundu.org/pt/word/naku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17642,
+      "kimbundu_term": "Naku",
+      "portuguese_translation": "Em companhia de quem ou com quem se fala",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, naku-1 — https://www.kimbundu.org/pt/word/naku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17643,
+      "kimbundu_term": "Nakyu",
+      "portuguese_translation": "Lh'a",
+      "definition": null,
+      "alternative_meanings": [
+        "lh'o"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nakyu-1 — https://www.kimbundu.org/pt/word/nakyu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
