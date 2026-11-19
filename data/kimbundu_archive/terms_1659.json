@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16694,
+      "kimbundu_term": "Mulódi",
+      "portuguese_translation": "Provador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulódi-1 — https://www.kimbundu.org/pt/word/mulodi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16695,
+      "kimbundu_term": "Mulóji",
+      "portuguese_translation": "Mandingueiro",
+      "definition": null,
+      "alternative_meanings": [
+        "infame",
+        "feiticeiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulóji-1 — https://www.kimbundu.org/pt/word/muloji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16696,
+      "kimbundu_term": "Mulóji",
+      "portuguese_translation": "Malvado",
+      "definition": null,
+      "alternative_meanings": [
+        "vil",
+        "execrável"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulóji-1 — https://www.kimbundu.org/pt/word/muloji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16697,
+      "kimbundu_term": "Mulóke",
+      "portuguese_translation": "Jurado",
+      "definition": null,
+      "alternative_meanings": [
+        "ajuramentado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulóke-1 — https://www.kimbundu.org/pt/word/muloke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16698,
+      "kimbundu_term": "Mulóke",
+      "portuguese_translation": "Praguejador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulóke-2 — https://www.kimbundu.org/pt/word/muloke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16699,
+      "kimbundu_term": "Mulóke",
+      "portuguese_translation": "Que jura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulóke-2 — https://www.kimbundu.org/pt/word/muloke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16700,
+      "kimbundu_term": "Mulóko",
+      "portuguese_translation": "Juramento",
+      "definition": null,
+      "alternative_meanings": [
+        "sua fórmula"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulóko-1 — https://www.kimbundu.org/pt/word/muloko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16701,
+      "kimbundu_term": "Mulóko",
+      "portuguese_translation": "almofariz em que se prepara o juramento do mbuluugu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulóko-1 — https://www.kimbundu.org/pt/word/muloko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16702,
+      "kimbundu_term": "Mulokomono",
+      "portuguese_translation": "Fraqueza",
+      "definition": null,
+      "alternative_meanings": [
+        "debilidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulokomono-1 — https://www.kimbundu.org/pt/word/mulokomono",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16703,
+      "kimbundu_term": "Mulokomono",
+      "portuguese_translation": "Desfalecimento",
+      "definition": null,
+      "alternative_meanings": [
+        "perda de forças"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulokomono-1 — https://www.kimbundu.org/pt/word/mulokomono",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
