@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8474,
+      "kimbundu_term": "Kúfonga",
+      "portuguese_translation": "Falhar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúfonga-1 — https://www.kimbundu.org/pt/word/kufonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8475,
+      "kimbundu_term": "Kúfonga",
+      "portuguese_translation": "Negar fogo",
+      "definition": null,
+      "alternative_meanings": [
+        "dar em falso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúfonga-1 — https://www.kimbundu.org/pt/word/kufonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8476,
+      "kimbundu_term": "Kufosoka",
+      "portuguese_translation": "Perder a vista",
+      "definition": null,
+      "alternative_meanings": [
+        "cegar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufosoka-1 — https://www.kimbundu.org/pt/word/kufosoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8477,
+      "kimbundu_term": "Kufringala",
+      "portuguese_translation": "Fincar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufringala-1 — https://www.kimbundu.org/pt/word/kufringala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8478,
+      "kimbundu_term": "Kufringala",
+      "portuguese_translation": "Fixar-se (no chão)",
+      "definition": null,
+      "alternative_meanings": [
+        "resistir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufringala-1 — https://www.kimbundu.org/pt/word/kufringala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8479,
+      "kimbundu_term": "Kufringala",
+      "portuguese_translation": "Kurifiringala, e r. Firmar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "enraizar-se",
+        "apoiar-se com força"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufringala-1 — https://www.kimbundu.org/pt/word/kufringala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8480,
+      "kimbundu_term": "Kufudisa",
+      "portuguese_translation": "Malograr",
+      "definition": null,
+      "alternative_meanings": [
+        "embaraçar",
+        "empecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufudisa-1 — https://www.kimbundu.org/pt/word/kufudisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8481,
+      "kimbundu_term": "Kufudisa",
+      "portuguese_translation": "Fazer insonar",
+      "definition": null,
+      "alternative_meanings": [
+        "não deixar dormir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufudisa-1 — https://www.kimbundu.org/pt/word/kufudisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8482,
+      "kimbundu_term": "Kufudisa",
+      "portuguese_translation": "Frustrar",
+      "definition": null,
+      "alternative_meanings": [
+        "impedir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufudisa-1 — https://www.kimbundu.org/pt/word/kufudisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8483,
+      "kimbundu_term": "Kufudisa",
+      "portuguese_translation": "Condimentar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar agradável (ao paladar)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufudisa-1 — https://www.kimbundu.org/pt/word/kufudisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
