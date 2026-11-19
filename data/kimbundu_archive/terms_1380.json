@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13904,
+      "kimbundu_term": "Kwila",
+      "portuguese_translation": "Imaginar",
+      "definition": null,
+      "alternative_meanings": [
+        "supor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwila-1 — https://www.kimbundu.org/pt/word/kwila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13905,
+      "kimbundu_term": "Kwila",
+      "portuguese_translation": "Ser de parecer",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer suposições acerca de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwila-1 — https://www.kimbundu.org/pt/word/kwila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13906,
+      "kimbundu_term": "Kwiluka",
+      "portuguese_translation": "Sarar",
+      "definition": null,
+      "alternative_meanings": [
+        "estar curado (da doença)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwiluka-1 — https://www.kimbundu.org/pt/word/kwiluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13907,
+      "kimbundu_term": "Kwiluka",
+      "portuguese_translation": "Recuperar a saúde",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwiluka-1 — https://www.kimbundu.org/pt/word/kwiluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13908,
+      "kimbundu_term": "Kwiluka",
+      "portuguese_translation": "Cura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwiluka-1 — https://www.kimbundu.org/pt/word/kwiluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13909,
+      "kimbundu_term": "Kwima",
+      "portuguese_translation": "Frutificar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwima-1 — https://www.kimbundu.org/pt/word/kwima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13910,
+      "kimbundu_term": "Kwima",
+      "portuguese_translation": "Vicejar, medrar (a planta)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwima-1 — https://www.kimbundu.org/pt/word/kwima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13911,
+      "kimbundu_term": "Kwima",
+      "portuguese_translation": "Vicejo",
+      "definition": null,
+      "alternative_meanings": [
+        "exuberância"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwima-1 — https://www.kimbundu.org/pt/word/kwima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13912,
+      "kimbundu_term": "Kwima",
+      "portuguese_translation": "Pov. e sede do posto deste nome, conc. de Caala, dist. do Huambo, prov. de Benguela, 35 725 hab. e escola rural",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwima-1 — https://www.kimbundu.org/pt/word/kwima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13913,
+      "kimbundu_term": "Kwimajana",
+      "portuguese_translation": "Parar a cada passo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwimajana-1 — https://www.kimbundu.org/pt/word/kwimajana",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
