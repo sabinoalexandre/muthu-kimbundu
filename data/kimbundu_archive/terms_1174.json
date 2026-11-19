@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11844,
+      "kimbundu_term": "Kusukika",
+      "portuguese_translation": "Fazer bastar, satisfazer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusukika-1 — https://www.kimbundu.org/pt/word/kusukika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11845,
+      "kimbundu_term": "Kusukila",
+      "portuguese_translation": "Não passar além de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusukila-1 — https://www.kimbundu.org/pt/word/kusukila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11846,
+      "kimbundu_term": "Kusukila",
+      "portuguese_translation": "Chegar a determinado lugar",
+      "definition": null,
+      "alternative_meanings": [
+        "parar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusukila-1 — https://www.kimbundu.org/pt/word/kusukila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11847,
+      "kimbundu_term": "Kusukila",
+      "portuguese_translation": "Estacionar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusukila-1 — https://www.kimbundu.org/pt/word/kusukila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11848,
+      "kimbundu_term": "Kusukina",
+      "portuguese_translation": "Ficar atrás, no fim, vir atrasado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusukina-1 — https://www.kimbundu.org/pt/word/kusukina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11849,
+      "kimbundu_term": "Kusukinina",
+      "portuguese_translation": "Ser derradeiro, o último da série",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusukinina-1 — https://www.kimbundu.org/pt/word/kusukinina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11850,
+      "kimbundu_term": "Kusukinisa",
+      "portuguese_translation": "Colocar em último lugar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusukinisa-1 — https://www.kimbundu.org/pt/word/kusukinisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11851,
+      "kimbundu_term": "Kusukinisa",
+      "portuguese_translation": "Fazer atrasar, pôr no fim",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusukinisa-1 — https://www.kimbundu.org/pt/word/kusukinisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11852,
+      "kimbundu_term": "Kusukinisa",
+      "portuguese_translation": "Kurisukinisa e r. Tornar-se derradeiro",
+      "definition": null,
+      "alternative_meanings": [
+        "pôr-se no extremo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusukinisa-1 — https://www.kimbundu.org/pt/word/kusukinisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11853,
+      "kimbundu_term": "Kúsukisa",
+      "portuguese_translation": "Fazer sobrestar, esperar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsukisa-1 — https://www.kimbundu.org/pt/word/kusukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
