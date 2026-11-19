@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3294,
+      "kimbundu_term": "Kákijua",
+      "portuguese_translation": "Pequeno vício ou defeito. Pecha. Parecença, ares",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kákijua-1 — https://www.kimbundu.org/pt/word/kakijua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3295,
+      "kimbundu_term": "Kakikoto",
+      "portuguese_translation": "Botina. Sapatinho. Pequena pata (de animal)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakikoto-1 — https://www.kimbundu.org/pt/word/kakikoto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3296,
+      "kimbundu_term": "Kakikusu",
+      "portuguese_translation": "Peixinho (do rio). Cacusso pequeno",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakikusu-1 — https://www.kimbundu.org/pt/word/kakikusu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3297,
+      "kimbundu_term": "Kakilumba",
+      "portuguese_translation": "Senhorinha. Mulherzinha",
+      "definition": null,
+      "alternative_meanings": [
+        "rapariga. Mulher de pouca idade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakilumba-1 — https://www.kimbundu.org/pt/word/kakilumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3298,
+      "kimbundu_term": "Kakima",
+      "portuguese_translation": "Coisinha. Nadinha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakima-1 — https://www.kimbundu.org/pt/word/kakima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3299,
+      "kimbundu_term": "Kakimbámba",
+      "portuguese_translation": "Bichinho. Pequeno inseto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakimbámba-1 — https://www.kimbundu.org/pt/word/kakimbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3300,
+      "kimbundu_term": "Kakimbámba",
+      "portuguese_translation": "Vibrião",
+      "definition": null,
+      "alternative_meanings": [
+        "bacilo",
+        "micróbio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakimbámba-1 — https://www.kimbundu.org/pt/word/kakimbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3301,
+      "kimbundu_term": "Kakimbámba",
+      "portuguese_translation": "Microbiano. De inseto, ou a ele relativo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakimbámba-1 — https://www.kimbundu.org/pt/word/kakimbamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3302,
+      "kimbundu_term": "Kakimenga",
+      "portuguese_translation": "Tacho pequeno, frigideira. Caco (de panela). Torrador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakimenga-1 — https://www.kimbundu.org/pt/word/kakimenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3303,
+      "kimbundu_term": "Kakinama",
+      "portuguese_translation": "Pésinho. Perna de menor tamanho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakinama-1 — https://www.kimbundu.org/pt/word/kakinama",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
