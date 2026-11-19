@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8264,
+      "kimbundu_term": "Kudinyinga",
+      "portuguese_translation": "Enroscar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "enrolar-se. Entrelaçar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudinyinga-1 — https://www.kimbundu.org/pt/word/kudinyinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8265,
+      "kimbundu_term": "Kudinyingina",
+      "portuguese_translation": "Enrodilhar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "enrolar-se (de panos à cintura). Envolver-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudinyingina-1 — https://www.kimbundu.org/pt/word/kudinyingina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8266,
+      "kimbundu_term": "Kudinyonga",
+      "portuguese_translation": "Torcer-se violentamente",
+      "definition": null,
+      "alternative_meanings": [
+        "contrair-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudinyonga-1 — https://www.kimbundu.org/pt/word/kudinyonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8267,
+      "kimbundu_term": "Kudinyoxesa",
+      "portuguese_translation": "Aliviar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "calmar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudinyoxesa-1 — https://www.kimbundu.org/pt/word/kudinyoxesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8268,
+      "kimbundu_term": "Kudipapa",
+      "portuguese_translation": "Manducar",
+      "definition": null,
+      "alternative_meanings": [
+        "comer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudipapa-1 — https://www.kimbundu.org/pt/word/kudipapa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8269,
+      "kimbundu_term": "Kudisa",
+      "portuguese_translation": "Dar alimento a",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer comer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudisa-1 — https://www.kimbundu.org/pt/word/kudisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8270,
+      "kimbundu_term": "Kudisa",
+      "portuguese_translation": "Avivar",
+      "definition": null,
+      "alternative_meanings": [
+        "colorir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudisa-1 — https://www.kimbundu.org/pt/word/kudisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8271,
+      "kimbundu_term": "Kudisénga",
+      "portuguese_translation": "Desagregar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "despegar-se",
+        "extremar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudisénga-1 — https://www.kimbundu.org/pt/word/kudisenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8272,
+      "kimbundu_term": "Kudisénga",
+      "portuguese_translation": "Diferenciar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "distinguir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudisénga-1 — https://www.kimbundu.org/pt/word/kudisenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8273,
+      "kimbundu_term": "Kudisukula",
+      "portuguese_translation": "Lavar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "tomar banho"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudisukula-1 — https://www.kimbundu.org/pt/word/kudisukula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
