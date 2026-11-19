@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12484,
+      "kimbundu_term": "Kútonda",
+      "portuguese_translation": "Apoiar",
+      "definition": null,
+      "alternative_meanings": [
+        "aplaudir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútonda-1 — https://www.kimbundu.org/pt/word/kutonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12485,
+      "kimbundu_term": "Kútonda",
+      "portuguese_translation": "Bater palmas (em sinal de reconhecimento)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútonda-1 — https://www.kimbundu.org/pt/word/kutonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12486,
+      "kimbundu_term": "Kútonda",
+      "portuguese_translation": "Abençoar",
+      "definition": null,
+      "alternative_meanings": [
+        "agradecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútonda-1 — https://www.kimbundu.org/pt/word/kutonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12487,
+      "kimbundu_term": "Kutondala",
+      "portuguese_translation": "Errar",
+      "definition": null,
+      "alternative_meanings": [
+        "equivocar-se",
+        "confundir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutondala-1 — https://www.kimbundu.org/pt/word/kutondala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12488,
+      "kimbundu_term": "Kutondala",
+      "portuguese_translation": "Inexatidão",
+      "definition": null,
+      "alternative_meanings": [
+        "erro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutondala-1 — https://www.kimbundu.org/pt/word/kutondala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12489,
+      "kimbundu_term": "Kutondalesa",
+      "portuguese_translation": "Fazer errar",
+      "definition": null,
+      "alternative_meanings": [
+        "ter um engano"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutondalesa-1 — https://www.kimbundu.org/pt/word/kutondalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12490,
+      "kimbundu_term": "Kutondela",
+      "portuguese_translation": "Aclamar, aprovar solenemente",
+      "definition": null,
+      "alternative_meanings": [
+        "Bater palmas por"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutondela-1 — https://www.kimbundu.org/pt/word/kutondela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12491,
+      "kimbundu_term": "Kutondesa",
+      "portuguese_translation": "Mandar louvar, fazer aplaudir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutondesa-1 — https://www.kimbundu.org/pt/word/kutondesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12492,
+      "kimbundu_term": "Kutonena",
+      "portuguese_translation": "Estar de atalaia",
+      "definition": null,
+      "alternative_meanings": [
+        "ter sob as vistas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutonena-1 — https://www.kimbundu.org/pt/word/kutonena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12493,
+      "kimbundu_term": "Kútonga",
+      "portuguese_translation": "Manejar, jogar armas",
+      "definition": null,
+      "alternative_meanings": [
+        "Pelejar",
+        "combater",
+        "esgrimir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútonga-1 — https://www.kimbundu.org/pt/word/kutonga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
