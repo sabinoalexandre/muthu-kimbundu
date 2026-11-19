@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13924,
+      "kimbundu_term": "Kwimika",
+      "portuguese_translation": "Kurimika, e r. Parar",
+      "definition": null,
+      "alternative_meanings": [
+        "aprumar-se",
+        "pôr-se em pé"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwimika-1 — https://www.kimbundu.org/pt/word/kwimika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13925,
+      "kimbundu_term": "Kwimina",
+      "portuguese_translation": "Negar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwimina-1 — https://www.kimbundu.org/pt/word/kwimina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13926,
+      "kimbundu_term": "Kwimina",
+      "portuguese_translation": "Recusar (alguma coisa) a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwimina-1 — https://www.kimbundu.org/pt/word/kwimina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13927,
+      "kimbundu_term": "Kwimita",
+      "portuguese_translation": "Conceber",
+      "definition": null,
+      "alternative_meanings": [
+        "ficar prenhe"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwimita-1 — https://www.kimbundu.org/pt/word/kwimita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13928,
+      "kimbundu_term": "Kwimita",
+      "portuguese_translation": "Prenhez",
+      "definition": null,
+      "alternative_meanings": [
+        "gravidez"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwimita-1 — https://www.kimbundu.org/pt/word/kwimita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13929,
+      "kimbundu_term": "Kwinda",
+      "portuguese_translation": "Entrançar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwinda-1 — https://www.kimbundu.org/pt/word/kwinda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13930,
+      "kimbundu_term": "Kwinda",
+      "portuguese_translation": "Encaracolar",
+      "definition": null,
+      "alternative_meanings": [
+        "anelar (cabelo)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwinda-1 — https://www.kimbundu.org/pt/word/kwinda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13931,
+      "kimbundu_term": "Kwinda",
+      "portuguese_translation": "Entrançamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwinda-1 — https://www.kimbundu.org/pt/word/kwinda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13932,
+      "kimbundu_term": "Kwinda",
+      "portuguese_translation": "Kurinda, v. r. Trançar os próprios cabelos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwinda-1 — https://www.kimbundu.org/pt/word/kwinda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13933,
+      "kimbundu_term": "Kwinga",
+      "portuguese_translation": "Velar",
+      "definition": null,
+      "alternative_meanings": [
+        "vigiar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwinga-1 — https://www.kimbundu.org/pt/word/kwinga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
