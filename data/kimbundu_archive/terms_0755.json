@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7654,
+      "kimbundu_term": "Kubolesa",
+      "portuguese_translation": "Mandar ligar",
+      "definition": null,
+      "alternative_meanings": [
+        "vincar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubolesa-1 — https://www.kimbundu.org/pt/word/kubolesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7655,
+      "kimbundu_term": "Kubolesa",
+      "portuguese_translation": "Fazer apertar (amarrando)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubolesa-1 — https://www.kimbundu.org/pt/word/kubolesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7656,
+      "kimbundu_term": "Kubolesa",
+      "portuguese_translation": "Fazer deteriorar",
+      "definition": null,
+      "alternative_meanings": [
+        "apodrecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubolesa-1 — https://www.kimbundu.org/pt/word/kubolesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7657,
+      "kimbundu_term": "Kuboloka",
+      "portuguese_translation": "Desalagar",
+      "definition": null,
+      "alternative_meanings": [
+        "estar recuado, diminuído"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuboloka-1 — https://www.kimbundu.org/pt/word/kuboloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7658,
+      "kimbundu_term": "Kuboloka",
+      "portuguese_translation": "Vazar",
+      "definition": null,
+      "alternative_meanings": [
+        "refluir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuboloka-1 — https://www.kimbundu.org/pt/word/kuboloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7659,
+      "kimbundu_term": "Kuboloka",
+      "portuguese_translation": "Diz-se das águas dos rios quando deixam as margens que alagavam",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuboloka-1 — https://www.kimbundu.org/pt/word/kuboloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7660,
+      "kimbundu_term": "Kuboloka",
+      "portuguese_translation": "A vazante da maré",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuboloka-1 — https://www.kimbundu.org/pt/word/kuboloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7661,
+      "kimbundu_term": "Kuboloka",
+      "portuguese_translation": "Recolhimento (das águas)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuboloka-1 — https://www.kimbundu.org/pt/word/kuboloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7662,
+      "kimbundu_term": "Kuboloka",
+      "portuguese_translation": "Escoamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuboloka-1 — https://www.kimbundu.org/pt/word/kuboloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7663,
+      "kimbundu_term": "Kubolokota",
+      "portuguese_translation": "Estar maduro em excesso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubolokota-1 — https://www.kimbundu.org/pt/word/kubolokota",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
