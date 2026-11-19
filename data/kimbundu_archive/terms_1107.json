@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11174,
+      "kimbundu_term": "Kúpapana",
+      "portuguese_translation": "Ver-se em dificuldades",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúpapana-1 — https://www.kimbundu.org/pt/word/kupapana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11175,
+      "kimbundu_term": "Kúpapana",
+      "portuguese_translation": "Crepitação. Estalido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúpapana-2 — https://www.kimbundu.org/pt/word/kupapana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11176,
+      "kimbundu_term": "Kupapanesa",
+      "portuguese_translation": "Fazer crepitar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupapanesa-1 — https://www.kimbundu.org/pt/word/kupapanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11177,
+      "kimbundu_term": "Kupapanesa",
+      "portuguese_translation": "Fazer meter (alguém) em salsadas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupapanesa-1 — https://www.kimbundu.org/pt/word/kupapanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11178,
+      "kimbundu_term": "Kupapanesa",
+      "portuguese_translation": "Kuripapanesa, v. r. Meter-se em pantanas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupapanesa-1 — https://www.kimbundu.org/pt/word/kupapanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11179,
+      "kimbundu_term": "Kupapela",
+      "portuguese_translation": "Pregar",
+      "definition": null,
+      "alternative_meanings": [
+        "cravar",
+        "estacar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupapela-1 — https://www.kimbundu.org/pt/word/kupapela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11180,
+      "kimbundu_term": "Kupapela",
+      "portuguese_translation": "Segurar com espeto",
+      "definition": null,
+      "alternative_meanings": [
+        "fechar com pregos. É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupapela-1 — https://www.kimbundu.org/pt/word/kupapela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11181,
+      "kimbundu_term": "Kupapesa",
+      "portuguese_translation": "Mandar cravar, bites (com estacas)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupapesa-1 — https://www.kimbundu.org/pt/word/kupapesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11182,
+      "kimbundu_term": "Kupapumúna",
+      "portuguese_translation": "Despregar",
+      "definition": null,
+      "alternative_meanings": [
+        "despertar",
+        "abrir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupapumúna-1 — https://www.kimbundu.org/pt/word/kupapumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11183,
+      "kimbundu_term": "Kupatala",
+      "portuguese_translation": "Empatar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer demorar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kupatala-1 — https://www.kimbundu.org/pt/word/kupatala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
