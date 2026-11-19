@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7674,
+      "kimbundu_term": "Kubomóka",
+      "portuguese_translation": "Ficar queimado, pelado ou esfolado pelo fogo ou água quente. Ficar sem a derme por queimadura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubomóka-1 — https://www.kimbundu.org/pt/word/kubomoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7675,
+      "kimbundu_term": "Kubomóka",
+      "portuguese_translation": "Esfolamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubomóka-1 — https://www.kimbundu.org/pt/word/kubomoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7676,
+      "kimbundu_term": "Kubomóna",
+      "portuguese_translation": "Escoriar",
+      "definition": null,
+      "alternative_meanings": [
+        "esfolar (por efeito de água quente)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubomóna-1 — https://www.kimbundu.org/pt/word/kubomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7677,
+      "kimbundu_term": "Kubomóna",
+      "portuguese_translation": "Despojar",
+      "definition": null,
+      "alternative_meanings": [
+        "despir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubomóna-1 — https://www.kimbundu.org/pt/word/kubomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7678,
+      "kimbundu_term": "Kubomuesa",
+      "portuguese_translation": "Fazer queimar, esfolar (por meio de água quente)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubomuesa-1 — https://www.kimbundu.org/pt/word/kubomuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7679,
+      "kimbundu_term": "Kubomuesa",
+      "portuguese_translation": "Fazer excoriar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubomuesa-1 — https://www.kimbundu.org/pt/word/kubomuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7680,
+      "kimbundu_term": "Kúbonda",
+      "portuguese_translation": "Trucidar",
+      "definition": null,
+      "alternative_meanings": [
+        "estrangular",
+        "matar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbonda-1 — https://www.kimbundu.org/pt/word/kubonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7681,
+      "kimbundu_term": "Kúbonda",
+      "portuguese_translation": "Empapar",
+      "definition": null,
+      "alternative_meanings": [
+        "amassar",
+        "fazer purée"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbonda-1 — https://www.kimbundu.org/pt/word/kubonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7682,
+      "kimbundu_term": "Kúbonda",
+      "portuguese_translation": "Degolação",
+      "definition": null,
+      "alternative_meanings": [
+        "matança"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbonda-1 — https://www.kimbundu.org/pt/word/kubonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7683,
+      "kimbundu_term": "Kúbonda",
+      "portuguese_translation": "Kuribonda, e r. Enforcar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "suicidar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbonda-1 — https://www.kimbundu.org/pt/word/kubonda",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
