@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 20124,
+      "kimbundu_term": "Xóbo",
+      "portuguese_translation": "Expressão imitativa do ruído do objeto que cai em atoleiro ou água",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xóbo-1 — https://www.kimbundu.org/pt/word/xobo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20125,
+      "kimbundu_term": "Xófidi",
+      "portuguese_translation": "Enxofre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xófidi-1 — https://www.kimbundu.org/pt/word/xofidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20126,
+      "kimbundu_term": "Xôle",
+      "portuguese_translation": "Infecundo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xôle-1 — https://www.kimbundu.org/pt/word/xole",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20127,
+      "kimbundu_term": "Xóna",
+      "portuguese_translation": "Exposto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xóna-1 — https://www.kimbundu.org/pt/word/xona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20128,
+      "kimbundu_term": "Xóna",
+      "portuguese_translation": "Tutelado, abandonado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xóna-1 — https://www.kimbundu.org/pt/word/xona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20129,
+      "kimbundu_term": "Xonge",
+      "portuguese_translation": "Árvore fam. das leguminosas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xonge-1 — https://www.kimbundu.org/pt/word/xonge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20130,
+      "kimbundu_term": "Xongota",
+      "portuguese_translation": "Fumegação",
+      "definition": null,
+      "alternative_meanings": [
+        "que deita fumo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xongota-1 — https://www.kimbundu.org/pt/word/xongota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20131,
+      "kimbundu_term": "Xongota",
+      "portuguese_translation": "Aguardente",
+      "definition": null,
+      "alternative_meanings": [
+        "fumaças de álcool"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xongota-1 — https://www.kimbundu.org/pt/word/xongota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20132,
+      "kimbundu_term": "Xongota",
+      "portuguese_translation": "Bebedeira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xongota-1 — https://www.kimbundu.org/pt/word/xongota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20133,
+      "kimbundu_term": "Xóto",
+      "portuguese_translation": "Peido, traque",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xóto-1 — https://www.kimbundu.org/pt/word/xoto",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
