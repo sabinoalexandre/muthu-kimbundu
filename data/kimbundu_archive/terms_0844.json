@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8544,
+      "kimbundu_term": "Kufulamana",
+      "portuguese_translation": "Lusco-fusco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufulamana-1 — https://www.kimbundu.org/pt/word/kufulamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8545,
+      "kimbundu_term": "Kufulamanesa",
+      "portuguese_translation": "Derramar trevas sobre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufulamanesa-1 — https://www.kimbundu.org/pt/word/kufulamanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8546,
+      "kimbundu_term": "Kufulamanesa",
+      "portuguese_translation": "Empanar",
+      "definition": null,
+      "alternative_meanings": [
+        "obscurecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufulamanesa-1 — https://www.kimbundu.org/pt/word/kufulamanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8547,
+      "kimbundu_term": "Kufulamanesa",
+      "portuguese_translation": "Fazer perder a claridade, o brilho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufulamanesa-1 — https://www.kimbundu.org/pt/word/kufulamanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8548,
+      "kimbundu_term": "Kufulamesa",
+      "portuguese_translation": "Predestinar",
+      "definition": null,
+      "alternative_meanings": [
+        "fadar",
+        "dar destino a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufulamesa-1 — https://www.kimbundu.org/pt/word/kufulamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8549,
+      "kimbundu_term": "Kufulujuka",
+      "portuguese_translation": "Fervilhar",
+      "definition": null,
+      "alternative_meanings": [
+        "espumar, borbulhar por muito tempo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufulujuka-1 — https://www.kimbundu.org/pt/word/kufulujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8550,
+      "kimbundu_term": "Kufuluka",
+      "portuguese_translation": "Espumar",
+      "definition": null,
+      "alternative_meanings": [
+        "estar em ebulição"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufuluka-1 — https://www.kimbundu.org/pt/word/kufuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8551,
+      "kimbundu_term": "Kufuluka",
+      "portuguese_translation": "Formar cachão (ao ferver)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufuluka-1 — https://www.kimbundu.org/pt/word/kufuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8552,
+      "kimbundu_term": "Kufuluka",
+      "portuguese_translation": "Estado de líquido que ferve",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufuluka-1 — https://www.kimbundu.org/pt/word/kufuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8553,
+      "kimbundu_term": "Kufuluka",
+      "portuguese_translation": "Fervor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufuluka-1 — https://www.kimbundu.org/pt/word/kufuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
