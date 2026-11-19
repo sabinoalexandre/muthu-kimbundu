@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13194,
+      "kimbundu_term": "Kuxikana",
+      "portuguese_translation": "Acreditar",
+      "definition": null,
+      "alternative_meanings": [
+        "aceitar",
+        "aquiescer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikana-1 — https://www.kimbundu.org/pt/word/kuxikana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13195,
+      "kimbundu_term": "Kuxikana",
+      "portuguese_translation": "Concordar",
+      "definition": null,
+      "alternative_meanings": [
+        "assentir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikana-1 — https://www.kimbundu.org/pt/word/kuxikana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13196,
+      "kimbundu_term": "Kuxikana",
+      "portuguese_translation": "Anuir",
+      "definition": null,
+      "alternative_meanings": [
+        "consentir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikana-1 — https://www.kimbundu.org/pt/word/kuxikana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13197,
+      "kimbundu_term": "Kuxikana",
+      "portuguese_translation": "Aquiescência",
+      "definition": null,
+      "alternative_meanings": [
+        "aceitação, consenso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikana-1 — https://www.kimbundu.org/pt/word/kuxikana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13198,
+      "kimbundu_term": "Kuxikanesa",
+      "portuguese_translation": "Fazer concordar, aceitar, anuir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikanesa-1 — https://www.kimbundu.org/pt/word/kuxikanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13199,
+      "kimbundu_term": "Kuxikanesa",
+      "portuguese_translation": "Pôr de acordo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikanesa-1 — https://www.kimbundu.org/pt/word/kuxikanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13200,
+      "kimbundu_term": "Kuxikela",
+      "portuguese_translation": "Ter negrume",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikela-1 — https://www.kimbundu.org/pt/word/kuxikela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13201,
+      "kimbundu_term": "Kuxikela",
+      "portuguese_translation": "Ser de cor preta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikela-1 — https://www.kimbundu.org/pt/word/kuxikela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13202,
+      "kimbundu_term": "Kuxikelela",
+      "portuguese_translation": "Estar enegrecido, preto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikelela-1 — https://www.kimbundu.org/pt/word/kuxikelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13203,
+      "kimbundu_term": "Kuxikelela",
+      "portuguese_translation": "Estar queimado (do sol)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikelela-1 — https://www.kimbundu.org/pt/word/kuxikelela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
