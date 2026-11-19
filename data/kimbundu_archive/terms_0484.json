@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4944,
+      "kimbundu_term": "Kifuamu",
+      "portuguese_translation": "Merecimento",
+      "definition": null,
+      "alternative_meanings": [
+        "Coisa condigna",
+        "merecida"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifuamu-1 — https://www.kimbundu.org/pt/word/kifuamu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4945,
+      "kimbundu_term": "Kifuamu",
+      "portuguese_translation": "Merecido",
+      "definition": null,
+      "alternative_meanings": [
+        "condigno"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifuamu-1 — https://www.kimbundu.org/pt/word/kifuamu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4946,
+      "kimbundu_term": "Kífuba",
+      "portuguese_translation": "Osso",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Peso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kífuba-1 — https://www.kimbundu.org/pt/word/kifuba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4947,
+      "kimbundu_term": "Kîfue",
+      "portuguese_translation": "Suscetível de morrer",
+      "definition": null,
+      "alternative_meanings": [
+        "Mortal",
+        "Semelhante a cadáver. fig. Inerte"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kîfue-1 — https://www.kimbundu.org/pt/word/kifue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4948,
+      "kimbundu_term": "Kifufunya",
+      "portuguese_translation": "Gengiva. É mais usado no plural: ifufunha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifufunya-1 — https://www.kimbundu.org/pt/word/kifufunya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4949,
+      "kimbundu_term": "Kifufutila",
+      "portuguese_translation": "Doce de ginguba torrada, farinha de mandioca e açúcar, pulverizados",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifufutila-1 — https://www.kimbundu.org/pt/word/kifufutila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4950,
+      "kimbundu_term": "Kifukamenu",
+      "portuguese_translation": "Genuflexório",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifukamenu-1 — https://www.kimbundu.org/pt/word/kifukamenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4951,
+      "kimbundu_term": "Kifuke",
+      "portuguese_translation": "Fumo que pela ação do calor se desprende dos corpos húmidos: kia kixibu. Vapor",
+      "definition": null,
+      "alternative_meanings": [
+        "tumo. Força expansiva da água vaporizada. Exalação",
+        "miasma"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifuke-1 — https://www.kimbundu.org/pt/word/kifuke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4952,
+      "kimbundu_term": "Kifukinu",
+      "portuguese_translation": "Escavação",
+      "definition": null,
+      "alternative_meanings": [
+        "desaterro",
+        "cova. Terras removidas do ponto desaterrado. Barranco",
+        "buraco fundo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifukinu-1 — https://www.kimbundu.org/pt/word/kifukinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4953,
+      "kimbundu_term": "Kifúku",
+      "portuguese_translation": "Varinha ou cana em que se enrola a rama que se quer fiar. Roca",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifúku-1 — https://www.kimbundu.org/pt/word/kifuku",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
