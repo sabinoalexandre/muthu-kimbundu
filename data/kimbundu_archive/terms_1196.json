@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12064,
+      "kimbundu_term": "Kutalela",
+      "portuguese_translation": "Cuidar",
+      "definition": null,
+      "alternative_meanings": [
+        "vigiar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutalela-1 — https://www.kimbundu.org/pt/word/kutalela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12065,
+      "kimbundu_term": "Kutalela",
+      "portuguese_translation": "Atenção que se presta a alguma coisa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutalela-1 — https://www.kimbundu.org/pt/word/kutalela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12066,
+      "kimbundu_term": "Kutalesa",
+      "portuguese_translation": "Deixar ver",
+      "definition": null,
+      "alternative_meanings": [
+        "dar a provar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutalesa-1 — https://www.kimbundu.org/pt/word/kutalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12067,
+      "kimbundu_term": "Kutalesa",
+      "portuguese_translation": "Mostrar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutalesa-1 — https://www.kimbundu.org/pt/word/kutalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12068,
+      "kimbundu_term": "Kutalúla",
+      "portuguese_translation": "Unhar",
+      "definition": null,
+      "alternative_meanings": [
+        "rasgar",
+        "romper (de alto a baixo)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutalúla-1 — https://www.kimbundu.org/pt/word/kutalula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12069,
+      "kimbundu_term": "Kutalúla",
+      "portuguese_translation": "Escoriar",
+      "definition": null,
+      "alternative_meanings": [
+        "arranhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutalúla-1 — https://www.kimbundu.org/pt/word/kutalula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12070,
+      "kimbundu_term": "Kútamba",
+      "portuguese_translation": "Pescar com rede",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútamba-1 — https://www.kimbundu.org/pt/word/kutamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12071,
+      "kimbundu_term": "Kútamba",
+      "portuguese_translation": "Tarrafar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútamba-1 — https://www.kimbundu.org/pt/word/kutamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12072,
+      "kimbundu_term": "Kutambeka",
+      "portuguese_translation": "Entregar",
+      "definition": null,
+      "alternative_meanings": [
+        "dar",
+        "ceder"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutambeka-1 — https://www.kimbundu.org/pt/word/kutambeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12073,
+      "kimbundu_term": "Kutambesa",
+      "portuguese_translation": "Mandar tarrafear",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutambesa-1 — https://www.kimbundu.org/pt/word/kutambesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
