@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19474,
+      "kimbundu_term": "Uhabhu",
+      "portuguese_translation": "Cio",
+      "definition": null,
+      "alternative_meanings": [
+        "Devassidão grosseira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uhabhu-1 — https://www.kimbundu.org/pt/word/uhabhu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19475,
+      "kimbundu_term": "Uhabuilu",
+      "portuguese_translation": "Forma de abocar, de devorar, de tragar",
+      "definition": null,
+      "alternative_meanings": [
+        "Forma de comer (como os cães)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uhabuilu-1 — https://www.kimbundu.org/pt/word/uhabuilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19476,
+      "kimbundu_term": "Uhâtu",
+      "portuguese_translation": "Feminilidade. Qualidade, modos ou índole de mulher. Os órgãos da conceção (da mulher)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uhâtu-1 — https://www.kimbundu.org/pt/word/uhatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19477,
+      "kimbundu_term": "Uhaxi",
+      "portuguese_translation": "Doença",
+      "definition": null,
+      "alternative_meanings": [
+        "moléstia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uhaxi-1 — https://www.kimbundu.org/pt/word/uhaxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19478,
+      "kimbundu_term": "Úhete",
+      "portuguese_translation": "Esmero",
+      "definition": null,
+      "alternative_meanings": [
+        "perícia. Bom gosto (em fazer algo)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úhete-1 — https://www.kimbundu.org/pt/word/uhete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19479,
+      "kimbundu_term": "Úhete",
+      "portuguese_translation": "Limpeza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úhete-1 — https://www.kimbundu.org/pt/word/uhete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19480,
+      "kimbundu_term": "Úhêtu",
+      "portuguese_translation": "Do sexo feminino",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úhêtu-1 — https://www.kimbundu.org/pt/word/uhetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19481,
+      "kimbundu_term": "Úhêtu",
+      "portuguese_translation": "O mesmo que uhâtu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úhêtu-1 — https://www.kimbundu.org/pt/word/uhetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19482,
+      "kimbundu_term": "Uholwa",
+      "portuguese_translation": "Embriaguez. Bebedeira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uholwa-1 — https://www.kimbundu.org/pt/word/uholwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19483,
+      "kimbundu_term": "Úhuku",
+      "portuguese_translation": "Bruteza",
+      "definition": null,
+      "alternative_meanings": [
+        "rustidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úhuku-1 — https://www.kimbundu.org/pt/word/uhuku",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
