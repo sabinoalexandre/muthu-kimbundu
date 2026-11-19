@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13964,
+      "kimbundu_term": "Kwixana",
+      "portuguese_translation": "Chamamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwixana-1 — https://www.kimbundu.org/pt/word/kwixana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13965,
+      "kimbundu_term": "Kwixana",
+      "portuguese_translation": "Invocação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwixana-1 — https://www.kimbundu.org/pt/word/kwixana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13966,
+      "kimbundu_term": "Kwixana",
+      "portuguese_translation": "Kurixana, v. r. Designar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "chamar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwixana-1 — https://www.kimbundu.org/pt/word/kwixana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13967,
+      "kimbundu_term": "Kwiza",
+      "portuguese_translation": "Andar, caminhar para cá",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwiza-1 — https://www.kimbundu.org/pt/word/kwiza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13968,
+      "kimbundu_term": "Kwiza",
+      "portuguese_translation": "Sobrevir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwiza-1 — https://www.kimbundu.org/pt/word/kwiza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13969,
+      "kimbundu_term": "Kwiza",
+      "portuguese_translation": "Vinda",
+      "definition": null,
+      "alternative_meanings": [
+        "chegada"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwiza-1 — https://www.kimbundu.org/pt/word/kwiza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13970,
+      "kimbundu_term": "Kwizala",
+      "portuguese_translation": "Estar ou ficar cheio, saturado, aborrecido",
+      "definition": null,
+      "alternative_meanings": [
+        "maka m'a. Atestar",
+        "saturar",
+        "encher",
+        "Enriquecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwizala-1 — https://www.kimbundu.org/pt/word/kwizala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13971,
+      "kimbundu_term": "Kwizala",
+      "portuguese_translation": "Kurizalesa, v. r. Encher-se",
+      "definition": null,
+      "alternative_meanings": [
+        "adquirir fortuna"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwizala-1 — https://www.kimbundu.org/pt/word/kwizala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13972,
+      "kimbundu_term": "Kwoha",
+      "portuguese_translation": "Assar",
+      "definition": null,
+      "alternative_meanings": [
+        "tostar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwoha-1 — https://www.kimbundu.org/pt/word/kwoha",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13973,
+      "kimbundu_term": "Kwoha",
+      "portuguese_translation": "Abrasar",
+      "definition": null,
+      "alternative_meanings": [
+        "incinerar",
+        "queimar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwoha-1 — https://www.kimbundu.org/pt/word/kwoha",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
