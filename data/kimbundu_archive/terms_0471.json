@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4814,
+      "kimbundu_term": "Kidiangu",
+      "portuguese_translation": "Malvado",
+      "definition": null,
+      "alternative_meanings": [
+        "depravado",
+        "perverso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidiangu-1 — https://www.kimbundu.org/pt/word/kidiangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4815,
+      "kimbundu_term": "Kidiangu",
+      "portuguese_translation": "Provação",
+      "definition": null,
+      "alternative_meanings": [
+        "desvairamento",
+        "desatino",
+        "Situação difícil"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidiangu-1 — https://www.kimbundu.org/pt/word/kidiangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4816,
+      "kimbundu_term": "Kidiángu",
+      "portuguese_translation": "O que serve para estabelecer a verdade de uma asserção ou facto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidiángu-1 — https://www.kimbundu.org/pt/word/kidiangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4817,
+      "kimbundu_term": "Kidiángu",
+      "portuguese_translation": "Prova",
+      "definition": null,
+      "alternative_meanings": [
+        "experiência",
+        "ensaio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidiángu-1 — https://www.kimbundu.org/pt/word/kidiangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4818,
+      "kimbundu_term": "Kidiatelu",
+      "portuguese_translation": "Pisadeiro",
+      "definition": null,
+      "alternative_meanings": [
+        "calcador"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidiatelu-1 — https://www.kimbundu.org/pt/word/kidiatelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4819,
+      "kimbundu_term": "Kidiatelu",
+      "portuguese_translation": "Estribo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidiatelu-1 — https://www.kimbundu.org/pt/word/kidiatelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4820,
+      "kimbundu_term": "Kidiátu",
+      "portuguese_translation": "Borrifo",
+      "definition": null,
+      "alternative_meanings": [
+        "Diz-se dos borrifos que se deitam a uma criança que chora muito às noites",
+        "Pisadura"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidiátu-1 — https://www.kimbundu.org/pt/word/kidiatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4821,
+      "kimbundu_term": "Kidiátu",
+      "portuguese_translation": "exorcismo feito por meio de borrifos à criança que chora",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Susto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidiátu-1 — https://www.kimbundu.org/pt/word/kidiatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4822,
+      "kimbundu_term": "Kidibaia",
+      "portuguese_translation": "Tábua grossa e larga",
+      "definition": null,
+      "alternative_meanings": [
+        "Tabuão",
+        "prancha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidibaia-1 — https://www.kimbundu.org/pt/word/kidibaia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4823,
+      "kimbundu_term": "Kidibukanu",
+      "portuguese_translation": "Tropeção",
+      "definition": null,
+      "alternative_meanings": [
+        "topada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidibukanu-1 — https://www.kimbundu.org/pt/word/kidibukanu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
