@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2164,
+      "kimbundu_term": "Imue",
+      "portuguese_translation": "Mosquito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imue-1 — https://www.kimbundu.org/pt/word/imue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2165,
+      "kimbundu_term": "Imúna",
+      "portuguese_translation": "Animais irracionais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imúna-1 — https://www.kimbundu.org/pt/word/imuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2166,
+      "kimbundu_term": "Imúna",
+      "portuguese_translation": "Nome genérico de gado doméstico",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imúna-1 — https://www.kimbundu.org/pt/word/imuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2167,
+      "kimbundu_term": "Imúna",
+      "portuguese_translation": "Irracionais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imúna-1 — https://www.kimbundu.org/pt/word/imuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2168,
+      "kimbundu_term": "Imúpu",
+      "portuguese_translation": "Grande árvore da família das malváceas (Cochlospermum angolense) de madeira têxtil e raiz medicinal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imúpu-1 — https://www.kimbundu.org/pt/word/imupu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2169,
+      "kimbundu_term": "Imvi",
+      "portuguese_translation": "Cabelo branco",
+      "definition": null,
+      "alternative_meanings": [
+        "Cã. É mais usado no plural jínvi"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imvi-1 — https://www.kimbundu.org/pt/word/imvi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2170,
+      "kimbundu_term": "Imvo",
+      "portuguese_translation": "Podadeira",
+      "definition": null,
+      "alternative_meanings": [
+        "Foice",
+        "Instrumento agrícola curvo e com gume para ceifar",
+        "Foice para podar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imvo-1 — https://www.kimbundu.org/pt/word/imvo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2171,
+      "kimbundu_term": "Ína",
+      "portuguese_translation": "Inseto áptero pediculado",
+      "definition": null,
+      "alternative_meanings": [
+        "Piolho",
+        "Parasita"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ína-1 — https://www.kimbundu.org/pt/word/ina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2172,
+      "kimbundu_term": "Ína",
+      "portuguese_translation": "Inseto hemíptero que se agarra às partes pudendas",
+      "definition": null,
+      "alternative_meanings": [
+        "Piolho ladro",
+        "Chato",
+        "Pl. jína"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ína-1 — https://www.kimbundu.org/pt/word/ina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2173,
+      "kimbundu_term": "Iná",
+      "portuguese_translation": "e pron. demonstr. (IX) Aquele",
+      "definition": null,
+      "alternative_meanings": [
+        "aquela",
+        "Aquilo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iná-1 — https://www.kimbundu.org/pt/word/ina",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
