@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3814,
+      "kimbundu_term": "Kandenge",
+      "portuguese_translation": "Do menor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kandenge-1 — https://www.kimbundu.org/pt/word/kandenge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3815,
+      "kimbundu_term": "Kandeya",
+      "portuguese_translation": "Candeia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kandeya-1 — https://www.kimbundu.org/pt/word/kandeya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3816,
+      "kimbundu_term": "Kandimba",
+      "portuguese_translation": "Coelhinho",
+      "definition": null,
+      "alternative_meanings": [
+        "Lebrácho",
+        "Láparo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kandimba-1 — https://www.kimbundu.org/pt/word/kandimba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3817,
+      "kimbundu_term": "Kandindi",
+      "portuguese_translation": "Cão ordinário, magro e enfezado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kandindi-1 — https://www.kimbundu.org/pt/word/kandindi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3818,
+      "kimbundu_term": "Kandinga-puna",
+      "portuguese_translation": "Planta plumbaginea (plumbago zeilanica) utilizada como ornamento",
+      "definition": null,
+      "alternative_meanings": [
+        "Plumbago",
+        "\"Dentelária.\""
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kandinga-puna-1 — https://www.kimbundu.org/pt/word/kandinga-puna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3819,
+      "kimbundu_term": "Kandómbe",
+      "portuguese_translation": "Tirante a moreno",
+      "definition": null,
+      "alternative_meanings": [
+        "Amorenado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kandómbe-1 — https://www.kimbundu.org/pt/word/kandombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3820,
+      "kimbundu_term": "Kandóndo",
+      "portuguese_translation": "Alcaçuz",
+      "definition": null,
+      "alternative_meanings": [
+        "Raiz empregada como remédio em doenças de peito e constipações"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kandóndo-1 — https://www.kimbundu.org/pt/word/kandondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3821,
+      "kimbundu_term": "Kandúa",
+      "portuguese_translation": "Planta fam. das liliáceas (methonica abyssinica) de raiz (tubérculo) comestível. Salepo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kandúa-1 — https://www.kimbundu.org/pt/word/kandua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3822,
+      "kimbundu_term": "Kándumba",
+      "portuguese_translation": "(IX) Ordinário",
+      "definition": null,
+      "alternative_meanings": [
+        "soez"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kándumba-1 — https://www.kimbundu.org/pt/word/kandumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3823,
+      "kimbundu_term": "Kándumba",
+      "portuguese_translation": "Abundância",
+      "definition": null,
+      "alternative_meanings": [
+        "fartura"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kándumba-1 — https://www.kimbundu.org/pt/word/kandumba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
