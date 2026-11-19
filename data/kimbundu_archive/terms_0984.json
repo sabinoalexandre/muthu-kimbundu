@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9944,
+      "kimbundu_term": "Kúlaia",
+      "portuguese_translation": "Viver",
+      "definition": null,
+      "alternative_meanings": [
+        "existir",
+        "o ungafi lumbi lua kixinji ki tandula, ki ki tung' ê"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlaia-1 — https://www.kimbundu.org/pt/word/kulaia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9945,
+      "kimbundu_term": "Kúlaia",
+      "portuguese_translation": "Conservar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "ter vida"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlaia-1 — https://www.kimbundu.org/pt/word/kulaia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9946,
+      "kimbundu_term": "Kúlaia",
+      "portuguese_translation": "Vida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlaia-2 — https://www.kimbundu.org/pt/word/kulaia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9947,
+      "kimbundu_term": "Kulakalala",
+      "portuguese_translation": "Estar muito quente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulakalala-1 — https://www.kimbundu.org/pt/word/kulakalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9948,
+      "kimbundu_term": "Kulakalala",
+      "portuguese_translation": "Ser ardente, tempestuoso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulakalala-1 — https://www.kimbundu.org/pt/word/kulakalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9949,
+      "kimbundu_term": "Kulakalala",
+      "portuguese_translation": "Estar quase a ferver",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulakalala-1 — https://www.kimbundu.org/pt/word/kulakalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9950,
+      "kimbundu_term": "Kulakama",
+      "portuguese_translation": "Ser férvido, denodado, temeroso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulakama-1 — https://www.kimbundu.org/pt/word/kulakama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9951,
+      "kimbundu_term": "Kulakama",
+      "portuguese_translation": "Tempestear",
+      "definition": null,
+      "alternative_meanings": [
+        "estar revolto, agitado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulakama-1 — https://www.kimbundu.org/pt/word/kulakama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9952,
+      "kimbundu_term": "Kulakama",
+      "portuguese_translation": "Ímpeto",
+      "definition": null,
+      "alternative_meanings": [
+        "fervor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulakama-1 — https://www.kimbundu.org/pt/word/kulakama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9953,
+      "kimbundu_term": "Kulakamana",
+      "portuguese_translation": "Ser intrépido, destemido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulakamana-1 — https://www.kimbundu.org/pt/word/kulakamana",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
