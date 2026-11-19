@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9834,
+      "kimbundu_term": "Kukúnya",
+      "portuguese_translation": "Rilhar",
+      "definition": null,
+      "alternative_meanings": [
+        "esburgar",
+        "roer",
+        "Descarnar",
+        "limpar (os ossos) com os dentes"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukúnya-1 — https://www.kimbundu.org/pt/word/kukunya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9835,
+      "kimbundu_term": "Kukúnya",
+      "portuguese_translation": "Descarnamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukúnya-1 — https://www.kimbundu.org/pt/word/kukunya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9836,
+      "kimbundu_term": "Kukunyisa",
+      "portuguese_translation": "Fazer roer ou esburgar ossos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukunyisa-1 — https://www.kimbundu.org/pt/word/kukunyisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9837,
+      "kimbundu_term": "Kukunzama",
+      "portuguese_translation": "Emagrecer",
+      "definition": null,
+      "alternative_meanings": [
+        "Estar abatido, humilhado, diminuído",
+        "Ficar pensativo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukunzama-1 — https://www.kimbundu.org/pt/word/kukunzama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9838,
+      "kimbundu_term": "Kukunzamesa",
+      "portuguese_translation": "Abater",
+      "definition": null,
+      "alternative_meanings": [
+        "diminuir",
+        "Fazer emagrecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukunzamesa-1 — https://www.kimbundu.org/pt/word/kukunzamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9839,
+      "kimbundu_term": "Kúkusa",
+      "portuguese_translation": "Atemorizar",
+      "definition": null,
+      "alternative_meanings": [
+        "intimidar",
+        "Causar medo ou terror a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkusa-1 — https://www.kimbundu.org/pt/word/kukusa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9840,
+      "kimbundu_term": "Kúkusa",
+      "portuguese_translation": "Kurikusa, v. r. Sentir temor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkusa-1 — https://www.kimbundu.org/pt/word/kukusa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9841,
+      "kimbundu_term": "Kukustala",
+      "portuguese_translation": "Custar, kuviza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukustala-1 — https://www.kimbundu.org/pt/word/kukustala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9842,
+      "kimbundu_term": "Kukusuka",
+      "portuguese_translation": "Ser ou ficar encarnado",
+      "definition": null,
+      "alternative_meanings": [
+        "Ter a cor vermelha"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukusuka-1 — https://www.kimbundu.org/pt/word/kukusuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9843,
+      "kimbundu_term": "Kukusuka",
+      "portuguese_translation": "Encarnado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukusuka-1 — https://www.kimbundu.org/pt/word/kukusuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
