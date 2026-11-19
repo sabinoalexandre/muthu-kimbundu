@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6364,
+      "kimbundu_term": "Kithala",
+      "portuguese_translation": "Remoquear",
+      "definition": null,
+      "alternative_meanings": [
+        "apodar, notar defeito"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kithala-1 — https://www.kimbundu.org/pt/word/kithala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6365,
+      "kimbundu_term": "Kithanga",
+      "portuguese_translation": "Lepra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kithanga-1 — https://www.kimbundu.org/pt/word/kithanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6366,
+      "kimbundu_term": "Kithanga",
+      "portuguese_translation": "Framboezia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kithanga-1 — https://www.kimbundu.org/pt/word/kithanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6367,
+      "kimbundu_term": "Kithanga",
+      "portuguese_translation": "Boubagem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kithanga-1 — https://www.kimbundu.org/pt/word/kithanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6368,
+      "kimbundu_term": "Kithangana",
+      "portuguese_translation": "Tempo que medeia entre duas operações",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kithangana-1 — https://www.kimbundu.org/pt/word/kithangana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6369,
+      "kimbundu_term": "Kithangana",
+      "portuguese_translation": "Momento",
+      "definition": null,
+      "alternative_meanings": [
+        "instante"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kithangana-1 — https://www.kimbundu.org/pt/word/kithangana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6370,
+      "kimbundu_term": "Kithangana",
+      "portuguese_translation": "Comenos",
+      "definition": null,
+      "alternative_meanings": [
+        "intervalo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kithangana-1 — https://www.kimbundu.org/pt/word/kithangana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6371,
+      "kimbundu_term": "Kithangelu",
+      "portuguese_translation": "Ofício de leitor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kithangelu-1 — https://www.kimbundu.org/pt/word/kithangelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6372,
+      "kimbundu_term": "Kithangelu",
+      "portuguese_translation": "Contadoria",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kithangelu-1 — https://www.kimbundu.org/pt/word/kithangelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6373,
+      "kimbundu_term": "Kithembu",
+      "portuguese_translation": "Ventania",
+      "definition": null,
+      "alternative_meanings": [
+        "Temporal",
+        "fig. Bufa",
+        "peido"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kithembu-1 — https://www.kimbundu.org/pt/word/kithembu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
