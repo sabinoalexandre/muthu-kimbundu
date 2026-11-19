@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18294,
+      "kimbundu_term": "Ngúngu",
+      "portuguese_translation": "Grande número de pessoas ou seres da mesma espécie",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Comilão",
+        "Devastador"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngúngu-1 — https://www.kimbundu.org/pt/word/ngungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18295,
+      "kimbundu_term": "Ngúngu",
+      "portuguese_translation": "Peru do mato á-njila",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngúngu-1 — https://www.kimbundu.org/pt/word/ngungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18296,
+      "kimbundu_term": "Ngúngu",
+      "portuguese_translation": "Abutre",
+      "definition": null,
+      "alternative_meanings": [
+        "Devorador de carnes 'a xitu"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngúngu-1 — https://www.kimbundu.org/pt/word/ngungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18297,
+      "kimbundu_term": "Ngúngu",
+      "portuguese_translation": "Fruto ou casca da mafumeira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngúngu-1 — https://www.kimbundu.org/pt/word/ngungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18298,
+      "kimbundu_term": "Ngúnji",
+      "portuguese_translation": "Pilar que sustenta abóbada ou entablamento",
+      "definition": null,
+      "alternative_meanings": [
+        "Coluna",
+        "Pau que, devido à sua grossura e resistência, se coloca nos cantos da casa para a fortificar",
+        "Sustentáculo",
+        "Escora",
+        "apoio",
+        "encosto",
+        "base"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngúnji-1 — https://www.kimbundu.org/pt/word/ngunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18299,
+      "kimbundu_term": "Ngúnji",
+      "portuguese_translation": "Coluna simples que serve de suporte",
+      "definition": null,
+      "alternative_meanings": [
+        "Pilar",
+        "Esteio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngúnji-1 — https://www.kimbundu.org/pt/word/ngunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18300,
+      "kimbundu_term": "Ngúnji",
+      "portuguese_translation": "Hipoteca",
+      "definition": null,
+      "alternative_meanings": [
+        "penhor",
+        "O que nos garante contra o perigo",
+        "Segurança",
+        "Firmeza",
+        "O que serve de garantia",
+        "Faculdade",
+        "Poder"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngúnji-1 — https://www.kimbundu.org/pt/word/ngunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18301,
+      "kimbundu_term": "Ngunyá",
+      "portuguese_translation": "Peixe do mar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngunyá-1 — https://www.kimbundu.org/pt/word/ngunya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18302,
+      "kimbundu_term": "Ngunyu",
+      "portuguese_translation": "Nome genérico das plantas sarmentosas das matas virgens Cipó: (hippocratea apicula)",
+      "definition": null,
+      "alternative_meanings": [
+        "Caule lenhoso ou herbáceo que lança raízes nas articulações",
+        "Sarmento",
+        "Haste comprida das trepadeiras"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngunyu-1 — https://www.kimbundu.org/pt/word/ngunyu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18303,
+      "kimbundu_term": "Ngúnza",
+      "portuguese_translation": "Mensageiro",
+      "definition": null,
+      "alternative_meanings": [
+        "mandado",
+        "Apóstolo",
+        "enviado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngúnza-1 — https://www.kimbundu.org/pt/word/ngunza",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
