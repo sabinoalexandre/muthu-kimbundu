@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10734,
+      "kimbundu_term": "Kumwanga",
+      "portuguese_translation": "Ku imuánga, e r. Dispersar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "debandar",
+        "Ir cada qual para seu lado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumwanga-1 — https://www.kimbundu.org/pt/word/kumwanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10735,
+      "kimbundu_term": "Kumwanganesa",
+      "portuguese_translation": "Fazer destroçar, dispersar",
+      "definition": null,
+      "alternative_meanings": [
+        "pôr em debandada"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumwanganesa-1 — https://www.kimbundu.org/pt/word/kumwanganesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10736,
+      "kimbundu_term": "Kumwika",
+      "portuguese_translation": "Alumiar",
+      "definition": null,
+      "alternative_meanings": [
+        "iluminar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumwika-1 — https://www.kimbundu.org/pt/word/kumwika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10737,
+      "kimbundu_term": "Kumwika",
+      "portuguese_translation": "Ter luz própria. Brilhar",
+      "definition": null,
+      "alternative_meanings": [
+        "luzir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumwika-1 — https://www.kimbundu.org/pt/word/kumwika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10738,
+      "kimbundu_term": "Kumwika",
+      "portuguese_translation": "Kurimuíka, v. r. Ver-se ao espelho. Mirar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumwika-1 — https://www.kimbundu.org/pt/word/kumwika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10739,
+      "kimbundu_term": "Kumwikina",
+      "portuguese_translation": "Derramar luz sobre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumwikina-1 — https://www.kimbundu.org/pt/word/kumwikina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10740,
+      "kimbundu_term": "Kumwikina",
+      "portuguese_translation": "Iluminar por meio de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumwikina-1 — https://www.kimbundu.org/pt/word/kumwikina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10741,
+      "kimbundu_term": "Kuná",
+      "portuguese_translation": "Ali",
+      "definition": null,
+      "alternative_meanings": [
+        "lá"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuná-1 — https://www.kimbundu.org/pt/word/kuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10742,
+      "kimbundu_term": "Kuná",
+      "portuguese_translation": "Acolá",
+      "definition": null,
+      "alternative_meanings": [
+        "além"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuná-1 — https://www.kimbundu.org/pt/word/kuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10743,
+      "kimbundu_term": "Kunafunuka",
+      "portuguese_translation": "Adolescer",
+      "definition": null,
+      "alternative_meanings": [
+        "crescer em atitudes, em forças"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunafunuka-1 — https://www.kimbundu.org/pt/word/kunafunuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
