@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17594,
+      "kimbundu_term": "Mwanga",
+      "portuguese_translation": "Luz",
+      "definition": null,
+      "alternative_meanings": [
+        "facho",
+        "Lume",
+        "Candeio",
+        "clarão",
+        "chama"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mwanga-1 — https://www.kimbundu.org/pt/word/mwanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17595,
+      "kimbundu_term": "Mwanu",
+      "portuguese_translation": "Não",
+      "definition": null,
+      "alternative_meanings": [
+        "nenhuma vez",
+        "Nunca"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mwanu-1 — https://www.kimbundu.org/pt/word/mwanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17596,
+      "kimbundu_term": "Mwanu",
+      "portuguese_translation": "loc. adv. Longe de mim tal pensar",
+      "definition": null,
+      "alternative_meanings": [
+        "Deus me defenda"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mwanu-1 — https://www.kimbundu.org/pt/word/mwanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17597,
+      "kimbundu_term": "Mwanu",
+      "portuguese_translation": "Negação",
+      "definition": null,
+      "alternative_meanings": [
+        "recusa"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mwanu-1 — https://www.kimbundu.org/pt/word/mwanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17598,
+      "kimbundu_term": "Mwanya",
+      "portuguese_translation": "A luz do dia em que o sol não brilha",
+      "definition": null,
+      "alternative_meanings": [
+        "Claridade",
+        "transparência",
+        "limpidez (do dia)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mwanya-1 — https://www.kimbundu.org/pt/word/mwanya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17599,
+      "kimbundu_term": "Mwanya",
+      "portuguese_translation": "saudação",
+      "definition": null,
+      "alternative_meanings": [
+        "cumprimento",
+        "Muânh'o (a que se responde), ( «bom dia te dê Deus» — «seja este o bom dia».)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mwanya-1 — https://www.kimbundu.org/pt/word/mwanya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17600,
+      "kimbundu_term": "Mwanyu",
+      "portuguese_translation": "Vagar",
+      "definition": null,
+      "alternative_meanings": [
+        "lentidão",
+        "pachorra",
+        "Tempo",
+        "paciência. Calma"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mwanyu-1 — https://www.kimbundu.org/pt/word/mwanyu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17601,
+      "kimbundu_term": "Mwanyu",
+      "portuguese_translation": "Diligência: ku-u rid-ku",
+      "definition": null,
+      "alternative_meanings": [
+        "ku usuri ki kuri'ê-ku",
+        "Cuidado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mwanyu-1 — https://www.kimbundu.org/pt/word/mwanyu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17602,
+      "kimbundu_term": "Mwanyu",
+      "portuguese_translation": "adj. e sub. Paciente",
+      "definition": null,
+      "alternative_meanings": [
+        "pachorrento",
+        "zeloso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mwanyu-1 — https://www.kimbundu.org/pt/word/mwanyu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17603,
+      "kimbundu_term": "Mwebhu",
+      "portuguese_translation": "Sobrinho., sobrinho de maior idade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mwebhu-1 — https://www.kimbundu.org/pt/word/mwebhu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
