@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7714,
+      "kimbundu_term": "Kúbonya",
+      "portuguese_translation": "Estilar",
+      "definition": null,
+      "alternative_meanings": [
+        "gotejar. Cabecear, coxilar. Blasonar",
+        "jactar-se. fig. Sonhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbonya-1 — https://www.kimbundu.org/pt/word/kubonya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7715,
+      "kimbundu_term": "Kubónza",
+      "portuguese_translation": "Hissopar, espargir. Purificar",
+      "definition": null,
+      "alternative_meanings": [
+        "benzer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubónza-1 — https://www.kimbundu.org/pt/word/kubonza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7716,
+      "kimbundu_term": "Kubónza",
+      "portuguese_translation": "Aspersão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubónza-1 — https://www.kimbundu.org/pt/word/kubonza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7717,
+      "kimbundu_term": "Kubónza",
+      "portuguese_translation": "Kuribónza e r. Abençoar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "benzer-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubónza-1 — https://www.kimbundu.org/pt/word/kubonza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7718,
+      "kimbundu_term": "Kúbonza",
+      "portuguese_translation": "Transtornar",
+      "definition": null,
+      "alternative_meanings": [
+        "irritar",
+        "aborrecer. Ficar abalado, penalizado, triste"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbonza-1 — https://www.kimbundu.org/pt/word/kubonza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7719,
+      "kimbundu_term": "Kúbonza",
+      "portuguese_translation": "Aborrecimento",
+      "definition": null,
+      "alternative_meanings": [
+        "irritação",
+        "tristeza"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbonza-2 — https://www.kimbundu.org/pt/word/kubonza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7720,
+      "kimbundu_term": "Kubonzela",
+      "portuguese_translation": "Penalizar. Causar tristeza, aborrecimento a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubonzela-1 — https://www.kimbundu.org/pt/word/kubonzela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7721,
+      "kimbundu_term": "Kubósa",
+      "portuguese_translation": "Esmagar",
+      "definition": null,
+      "alternative_meanings": [
+        "calcar",
+        "achatar com o pé. Achoar",
+        "conculcar",
+        "esborrachar. fig. Postergar",
+        "desprezar (pisando). Aviltar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubósa-1 — https://www.kimbundu.org/pt/word/kubosa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7722,
+      "kimbundu_term": "Kúbosa",
+      "portuguese_translation": "Manocar. Entrançar (tabaco)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbosa-1 — https://www.kimbundu.org/pt/word/kubosa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7723,
+      "kimbundu_term": "Kubosomoka",
+      "portuguese_translation": "Ficar esfarelado, esboroado, esmigalhado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubosomoka-1 — https://www.kimbundu.org/pt/word/kubosomoka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
