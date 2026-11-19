@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10534,
+      "kimbundu_term": "Kulungulukxila",
+      "portuguese_translation": "Ir contra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungulukxila-1 — https://www.kimbundu.org/pt/word/kulungulukxila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10535,
+      "kimbundu_term": "Kulungulukxila",
+      "portuguese_translation": "Contestar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungulukxila-1 — https://www.kimbundu.org/pt/word/kulungulukxila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10536,
+      "kimbundu_term": "Kulungulula",
+      "portuguese_translation": "Trocar",
+      "definition": null,
+      "alternative_meanings": [
+        "inverter, transpor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungulula-1 — https://www.kimbundu.org/pt/word/kulungulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10537,
+      "kimbundu_term": "Kulungulula",
+      "portuguese_translation": "Mudança",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungulula-1 — https://www.kimbundu.org/pt/word/kulungulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10538,
+      "kimbundu_term": "Kulungulula",
+      "portuguese_translation": "mudar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "transferir-se",
+        "fig. Emendar-se",
+        "corrigir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungulula-1 — https://www.kimbundu.org/pt/word/kulungulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10539,
+      "kimbundu_term": "Kulunjika",
+      "portuguese_translation": "Acumular",
+      "definition": null,
+      "alternative_meanings": [
+        "aglomerar",
+        "Apinhar",
+        "reunir (sem ligação)",
+        "Ajuizar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulunjika-1 — https://www.kimbundu.org/pt/word/kulunjika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10540,
+      "kimbundu_term": "Kulunjika",
+      "portuguese_translation": "Fazer pé de meia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulunjika-1 — https://www.kimbundu.org/pt/word/kulunjika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10541,
+      "kimbundu_term": "Kulunjika",
+      "portuguese_translation": "Kurilunjika, v. r. Amontoar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer com outros ajuntamento",
+        "Constituir-se em grupos",
+        "Apinhar-se",
+        "reunir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulunjika-1 — https://www.kimbundu.org/pt/word/kulunjika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10542,
+      "kimbundu_term": "Kulunjikisa",
+      "portuguese_translation": "Fazer aglomerar, apinhar, reunir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulunjikisa-1 — https://www.kimbundu.org/pt/word/kulunjikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10543,
+      "kimbundu_term": "Kúlusa",
+      "portuguese_translation": "e intr. Lançar",
+      "definition": null,
+      "alternative_meanings": [
+        "vomitar",
+        "fig. De embuchar, dizer o que souber"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlusa-1 — https://www.kimbundu.org/pt/word/kulusa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
