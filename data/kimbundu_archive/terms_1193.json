@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12034,
+      "kimbundu_term": "Kutakula",
+      "portuguese_translation": "Atirar com força de braço",
+      "definition": null,
+      "alternative_meanings": [
+        "Jogar",
+        "arremessar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutakula-1 — https://www.kimbundu.org/pt/word/kutakula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12035,
+      "kimbundu_term": "Kutakula",
+      "portuguese_translation": "Tiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutakula-1 — https://www.kimbundu.org/pt/word/kutakula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12036,
+      "kimbundu_term": "Kutakula",
+      "portuguese_translation": "Kuritakula, e r. Despenhar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "arrojar-se",
+        "Atirar-se",
+        "lançar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutakula-1 — https://www.kimbundu.org/pt/word/kutakula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12037,
+      "kimbundu_term": "Kutàla",
+      "portuguese_translation": "Despelar",
+      "definition": null,
+      "alternative_meanings": [
+        "Esfolar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutàla-1 — https://www.kimbundu.org/pt/word/kutala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12038,
+      "kimbundu_term": "Kutàla",
+      "portuguese_translation": "Esfoladura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutàla-1 — https://www.kimbundu.org/pt/word/kutala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12039,
+      "kimbundu_term": "Kútala",
+      "portuguese_translation": "Verificar",
+      "definition": null,
+      "alternative_meanings": [
+        "examinar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútala-1 — https://www.kimbundu.org/pt/word/kutala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12040,
+      "kimbundu_term": "Kútala",
+      "portuguese_translation": "Contemplar",
+      "definition": null,
+      "alternative_meanings": [
+        "fitar os olhos em"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútala-1 — https://www.kimbundu.org/pt/word/kutala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12041,
+      "kimbundu_term": "Kútala",
+      "portuguese_translation": "Procurar",
+      "definition": null,
+      "alternative_meanings": [
+        "diligenciar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútala-1 — https://www.kimbundu.org/pt/word/kutala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12042,
+      "kimbundu_term": "Kútala",
+      "portuguese_translation": "Visitar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútala-1 — https://www.kimbundu.org/pt/word/kutala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12043,
+      "kimbundu_term": "Kútala",
+      "portuguese_translation": "Provar",
+      "definition": null,
+      "alternative_meanings": [
+        "assistir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútala-1 — https://www.kimbundu.org/pt/word/kutala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
