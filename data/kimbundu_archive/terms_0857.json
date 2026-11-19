@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8674,
+      "kimbundu_term": "Kufuuetela",
+      "portuguese_translation": "Estar sombrio, opaco, basso. Estar fosco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufuuetela-1 — https://www.kimbundu.org/pt/word/kufuuetela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8675,
+      "kimbundu_term": "Kufuuetelesa",
+      "portuguese_translation": "Tornar basso. Foscar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufuuetelesa-1 — https://www.kimbundu.org/pt/word/kufuuetelesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8676,
+      "kimbundu_term": "Kufuxika",
+      "portuguese_translation": "Exercitar",
+      "definition": null,
+      "alternative_meanings": [
+        "adestrar",
+        "fazer adquirir prática. Animar",
+        "movimentar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufuxika-1 — https://www.kimbundu.org/pt/word/kufuxika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8677,
+      "kimbundu_term": "Kufuxika",
+      "portuguese_translation": "Kurijuxika, v. r. Exercitar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "desenvolver-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufuxika-1 — https://www.kimbundu.org/pt/word/kufuxika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8678,
+      "kimbundu_term": "Kufwa",
+      "portuguese_translation": "Cessar de viver",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufwa-1 — https://www.kimbundu.org/pt/word/kufwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8679,
+      "kimbundu_term": "Kufwa",
+      "portuguese_translation": "Finar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufwa-1 — https://www.kimbundu.org/pt/word/kufwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8680,
+      "kimbundu_term": "Kufwa",
+      "portuguese_translation": "Morte",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufwa-1 — https://www.kimbundu.org/pt/word/kufwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8681,
+      "kimbundu_term": "Kufwa",
+      "portuguese_translation": "Fim",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufwa-1 — https://www.kimbundu.org/pt/word/kufwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8682,
+      "kimbundu_term": "Kugozala",
+      "portuguese_translation": "Gozar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kugozala-1 — https://www.kimbundu.org/pt/word/kugozala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8683,
+      "kimbundu_term": "Kuhabika",
+      "portuguese_translation": "Fabular Inventar (sucessos fabulosos)",
+      "definition": null,
+      "alternative_meanings": [
+        "Adulterar (os factos, narrando-os)",
+        "Falsear",
+        "fabulizar",
+        "mentir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhabika-1 — https://www.kimbundu.org/pt/word/kuhabika",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
