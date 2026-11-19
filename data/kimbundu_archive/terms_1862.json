@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18724,
+      "kimbundu_term": "Phuku",
+      "portuguese_translation": "leirão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, phuku-1 — https://www.kimbundu.org/pt/word/phuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18725,
+      "kimbundu_term": "Phuku",
+      "portuguese_translation": "lontra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, phuku-1 — https://www.kimbundu.org/pt/word/phuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18726,
+      "kimbundu_term": "Phuku",
+      "portuguese_translation": "som produzido pelo abano do pano ou bandeira, ao ser agitado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, phuku-1 — https://www.kimbundu.org/pt/word/phuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18727,
+      "kimbundu_term": "Phulu",
+      "portuguese_translation": "Ódio, rancor",
+      "definition": null,
+      "alternative_meanings": [
+        "malvadez. Falta de piedade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, phulu-1 — https://www.kimbundu.org/pt/word/phulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18728,
+      "kimbundu_term": "Phulu",
+      "portuguese_translation": "adj. Odioso",
+      "definition": null,
+      "alternative_meanings": [
+        "maldoso",
+        "rancoroso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, phulu-1 — https://www.kimbundu.org/pt/word/phulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18729,
+      "kimbundu_term": "Phulungu",
+      "portuguese_translation": "Pobretão",
+      "definition": null,
+      "alternative_meanings": [
+        "miserável. Mendigo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, phulungu-1 — https://www.kimbundu.org/pt/word/phulungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18730,
+      "kimbundu_term": "Phumbulu",
+      "portuguese_translation": "Vísceras",
+      "definition": null,
+      "alternative_meanings": [
+        "fato Miudezas",
+        "leves"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, phumbulu-1 — https://www.kimbundu.org/pt/word/phumbulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18731,
+      "kimbundu_term": "Phuna",
+      "portuguese_translation": "Cotovelo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, phuna-1 — https://www.kimbundu.org/pt/word/phuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18732,
+      "kimbundu_term": "Phupha",
+      "portuguese_translation": "A parte mais recôndita, mais íntima. O âmago. Coração, espírito",
+      "definition": null,
+      "alternative_meanings": [
+        "alma"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, phupha-1 — https://www.kimbundu.org/pt/word/phupha",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18733,
+      "kimbundu_term": "Phutu",
+      "portuguese_translation": "Português",
+      "definition": null,
+      "alternative_meanings": [
+        "a língua portuguesa",
+        "Português (pessoa)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, phutu-1 — https://www.kimbundu.org/pt/word/phutu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
