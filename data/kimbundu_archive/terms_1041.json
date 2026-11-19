@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10514,
+      "kimbundu_term": "Kulungila",
+      "portuguese_translation": "Pôr de acordo, harmónico, conforme",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungila-1 — https://www.kimbundu.org/pt/word/kulungila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10515,
+      "kimbundu_term": "Kulungila",
+      "portuguese_translation": "Acertar",
+      "definition": null,
+      "alternative_meanings": [
+        "combinar",
+        "compor. Regularizar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungila-1 — https://www.kimbundu.org/pt/word/kulungila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10516,
+      "kimbundu_term": "Kulungísa",
+      "portuguese_translation": "Guiar",
+      "definition": null,
+      "alternative_meanings": [
+        "destinar",
+        "dirigir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungísa-1 — https://www.kimbundu.org/pt/word/kulungisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10517,
+      "kimbundu_term": "Kulungísa",
+      "portuguese_translation": "Dedicar",
+      "definition": null,
+      "alternative_meanings": [
+        "devotar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungísa-1 — https://www.kimbundu.org/pt/word/kulungisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10518,
+      "kimbundu_term": "Kulungísa",
+      "portuguese_translation": "Apurar",
+      "definition": null,
+      "alternative_meanings": [
+        "afinar",
+        "fazer concordar. É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungísa-1 — https://www.kimbundu.org/pt/word/kulungisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10519,
+      "kimbundu_term": "Kulungujuka",
+      "portuguese_translation": "Resolver",
+      "definition": null,
+      "alternative_meanings": [
+        "desfazer-se aos poucos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungujuka-1 — https://www.kimbundu.org/pt/word/kulungujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10520,
+      "kimbundu_term": "Kulungujuka",
+      "portuguese_translation": "Viver na incerteza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungujuka-1 — https://www.kimbundu.org/pt/word/kulungujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10521,
+      "kimbundu_term": "Kulungujuka",
+      "portuguese_translation": "Falta de constância",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungujuka-1 — https://www.kimbundu.org/pt/word/kulungujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10522,
+      "kimbundu_term": "Kulunguka",
+      "portuguese_translation": "Deliberar",
+      "definition": null,
+      "alternative_meanings": [
+        "resolver",
+        "tomar uma decisão"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulunguka-1 — https://www.kimbundu.org/pt/word/kulunguka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10523,
+      "kimbundu_term": "Kulungúla",
+      "portuguese_translation": "Tomar a resolução de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungúla-1 — https://www.kimbundu.org/pt/word/kulungula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
