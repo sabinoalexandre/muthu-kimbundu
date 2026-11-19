@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11504,
+      "kimbundu_term": "Kusaxina",
+      "portuguese_translation": "Estar azougado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusaxina-1 — https://www.kimbundu.org/pt/word/kusaxina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11505,
+      "kimbundu_term": "Kusaya",
+      "portuguese_translation": "Circuncidar",
+      "definition": null,
+      "alternative_meanings": [
+        "castificar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusaya-1 — https://www.kimbundu.org/pt/word/kusaya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11506,
+      "kimbundu_term": "Kusaya",
+      "portuguese_translation": "Sacramento das religiões africana, judaica e maometana, que consiste no corte do prepúcio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusaya-1 — https://www.kimbundu.org/pt/word/kusaya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11507,
+      "kimbundu_term": "Kusaya",
+      "portuguese_translation": "Circuncisão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusaya-1 — https://www.kimbundu.org/pt/word/kusaya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11508,
+      "kimbundu_term": "Kusaya",
+      "portuguese_translation": "Kurisaia, e r. Circuncidar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar-se casto"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusaya-1 — https://www.kimbundu.org/pt/word/kusaya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11509,
+      "kimbundu_term": "Kuséba",
+      "portuguese_translation": "Galantejar",
+      "definition": null,
+      "alternative_meanings": [
+        "requebrar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuséba-1 — https://www.kimbundu.org/pt/word/kuseba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11510,
+      "kimbundu_term": "Kuséba",
+      "portuguese_translation": "Denguice",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuséba-1 — https://www.kimbundu.org/pt/word/kuseba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11511,
+      "kimbundu_term": "Kusebelela",
+      "portuguese_translation": "Festejar! Acompanhar os últimos passos ou movimentos de um dançarino",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusebelela-1 — https://www.kimbundu.org/pt/word/kusebelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11512,
+      "kimbundu_term": "Kusebelela",
+      "portuguese_translation": "Laurear",
+      "definition": null,
+      "alternative_meanings": [
+        "aplaudir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusebelela-1 — https://www.kimbundu.org/pt/word/kusebelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11513,
+      "kimbundu_term": "Kusebelela",
+      "portuguese_translation": "Ato e efeito de galantear",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusebelela-1 — https://www.kimbundu.org/pt/word/kusebelela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
