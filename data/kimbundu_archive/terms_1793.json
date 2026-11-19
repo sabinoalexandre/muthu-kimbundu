@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18034,
+      "kimbundu_term": "Ngayeta",
+      "portuguese_translation": "Do português. Gaita (de foles)",
+      "definition": null,
+      "alternative_meanings": [
+        "harmónio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngayeta-1 — https://www.kimbundu.org/pt/word/ngayeta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18035,
+      "kimbundu_term": "Ngaza",
+      "portuguese_translation": "Planta tipo da família das ambrosiáceas",
+      "definition": null,
+      "alternative_meanings": [
+        "erva medicinal",
+        "ambrósia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngaza-1 — https://www.kimbundu.org/pt/word/ngaza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18036,
+      "kimbundu_term": "Ngéki",
+      "portuguese_translation": "Do mesmo modo que",
+      "definition": null,
+      "alternative_meanings": [
+        "assim como",
+        "conforme",
+        "como",
+        "quando",
+        "logo que",
+        "se",
+        "uma vez que"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngéki-1 — https://www.kimbundu.org/pt/word/ngeki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18037,
+      "kimbundu_term": "Ngéla",
+      "portuguese_translation": "Que se põe ou oculta",
+      "definition": null,
+      "alternative_meanings": [
+        "poente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngéla-1 — https://www.kimbundu.org/pt/word/ngela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18038,
+      "kimbundu_term": "Ngéla",
+      "portuguese_translation": "O ocidente",
+      "definition": null,
+      "alternative_meanings": [
+        "o lado onde o sol se põe",
+        "ocaso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngéla-1 — https://www.kimbundu.org/pt/word/ngela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18039,
+      "kimbundu_term": "Ngêla",
+      "portuguese_translation": "Cada uma das pontas sólidas de alguns animais",
+      "definition": null,
+      "alternative_meanings": [
+        "chavelho",
+        "corno",
+        "chifre para usos domésticos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngêla-1 — https://www.kimbundu.org/pt/word/ngela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18040,
+      "kimbundu_term": "Ngeleja",
+      "portuguese_translation": "Igreja",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngeleja-1 — https://www.kimbundu.org/pt/word/ngeleja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18041,
+      "kimbundu_term": "Ngelelu",
+      "portuguese_translation": "O que se come habitualmente com pão, funji, farinha, etc",
+      "definition": null,
+      "alternative_meanings": [
+        "condimento",
+        "conduto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngelelu-1 — https://www.kimbundu.org/pt/word/ngelelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18042,
+      "kimbundu_term": "Ngelelu",
+      "portuguese_translation": "Substância que realça o sabor da comida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngelelu-1 — https://www.kimbundu.org/pt/word/ngelelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18043,
+      "kimbundu_term": "Ngelenge",
+      "portuguese_translation": "Antílope da corpulência de um boi (catoblepas taurina), de carne saborosa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngelenge-1 — https://www.kimbundu.org/pt/word/ngelenge",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
