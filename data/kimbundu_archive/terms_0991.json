@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10014,
+      "kimbundu_term": "Kulambalala",
+      "portuguese_translation": "Repousar",
+      "definition": null,
+      "alternative_meanings": [
+        "passar pelo sono"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulambalala-1 — https://www.kimbundu.org/pt/word/kulambalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10015,
+      "kimbundu_term": "Kulambeka",
+      "portuguese_translation": "Passar o pano entre as pernas, preso à frente e atrás por forma a ocultar as partes genitais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulambeka-1 — https://www.kimbundu.org/pt/word/kulambeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10016,
+      "kimbundu_term": "Kulambeka",
+      "portuguese_translation": "Diz-se do trajar dos pugilistas de circo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulambeka-1 — https://www.kimbundu.org/pt/word/kulambeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10017,
+      "kimbundu_term": "Kulambeka",
+      "portuguese_translation": "Kurilambeka, e r. Resguardar-se, preparar-se para a luta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulambeka-1 — https://www.kimbundu.org/pt/word/kulambeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10018,
+      "kimbundu_term": "Kulambéla",
+      "portuguese_translation": "Sepultar",
+      "definition": null,
+      "alternative_meanings": [
+        "encher de terra"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulambéla-1 — https://www.kimbundu.org/pt/word/kulambela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10019,
+      "kimbundu_term": "Kulambéla",
+      "portuguese_translation": "Soterrar",
+      "definition": null,
+      "alternative_meanings": [
+        "rasar, tapar (com terra)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulambéla-1 — https://www.kimbundu.org/pt/word/kulambela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10020,
+      "kimbundu_term": "Kulambéla",
+      "portuguese_translation": "Kurilambela, v. r. Cobrir-se com terra",
+      "definition": null,
+      "alternative_meanings": [
+        "soterrar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulambéla-1 — https://www.kimbundu.org/pt/word/kulambela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10021,
+      "kimbundu_term": "Kúlambesa",
+      "portuguese_translation": "Mandar cozinhar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlambesa-1 — https://www.kimbundu.org/pt/word/kulambesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10022,
+      "kimbundu_term": "Kúlambesa",
+      "portuguese_translation": "Fazer perder a memória",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlambesa-1 — https://www.kimbundu.org/pt/word/kulambesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10023,
+      "kimbundu_term": "Kúlambesa",
+      "portuguese_translation": "Fazer esquecer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlambesa-1 — https://www.kimbundu.org/pt/word/kulambesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
