@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15294,
+      "kimbundu_term": "Mbote",
+      "portuguese_translation": "Como é devido, como é conveniente",
+      "definition": null,
+      "alternative_meanings": [
+        "bem",
+        "de modo agradável",
+        "muito bem",
+        "admiravelmente",
+        "plenamente",
+        "belamente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbote-1 — https://www.kimbundu.org/pt/word/mbote",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15295,
+      "kimbundu_term": "Mboteka",
+      "portuguese_translation": "Que tem muitos filhos",
+      "definition": null,
+      "alternative_meanings": [
+        "que tem prole numerosa",
+        "prolífico",
+        "fecundo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mboteka-1 — https://www.kimbundu.org/pt/word/mboteka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15296,
+      "kimbundu_term": "Mboteka",
+      "portuguese_translation": "ter muitos filhos",
+      "definition": null,
+      "alternative_meanings": [
+        "proliferar",
+        "ter prole (em abundância)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mboteka-1 — https://www.kimbundu.org/pt/word/mboteka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15297,
+      "kimbundu_term": "Mboto",
+      "portuguese_translation": "Árvore tipo fam. das ebenáceas (Enclea lanceolata) de fruto comestível",
+      "definition": null,
+      "alternative_meanings": [
+        "Ébano",
+        "Sua madeira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mboto-1 — https://www.kimbundu.org/pt/word/mboto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15298,
+      "kimbundu_term": "Mboto",
+      "portuguese_translation": "Pequenino tumor na pele",
+      "definition": null,
+      "alternative_meanings": [
+        "Botão",
+        "Mamilo",
+        "Flor antes de desabrochar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mboto-1 — https://www.kimbundu.org/pt/word/mboto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15299,
+      "kimbundu_term": "Mbua",
+      "portuguese_translation": "Homem sem importância",
+      "definition": null,
+      "alternative_meanings": [
+        "miserável"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbua-1 — https://www.kimbundu.org/pt/word/mbua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15300,
+      "kimbundu_term": "Mbua",
+      "portuguese_translation": "cachorrinho",
+      "definition": null,
+      "alternative_meanings": [
+        "cão pequeno"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbua-1 — https://www.kimbundu.org/pt/word/mbua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15301,
+      "kimbundu_term": "Mbua",
+      "portuguese_translation": "cão selvagem",
+      "definition": null,
+      "alternative_meanings": [
+        "chacal"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbua-1 — https://www.kimbundu.org/pt/word/mbua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15302,
+      "kimbundu_term": "Mbuanga",
+      "portuguese_translation": "Peixe miúdo teleósteo silúrida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuanga-1 — https://www.kimbundu.org/pt/word/mbuanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15303,
+      "kimbundu_term": "Mbuanga",
+      "portuguese_translation": "Bagre pequeno, abundante no rio Cuanza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuanga-1 — https://www.kimbundu.org/pt/word/mbuanga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
