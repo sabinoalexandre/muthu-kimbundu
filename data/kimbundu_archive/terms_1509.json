@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15194,
+      "kimbundu_term": "Mbengela",
+      "portuguese_translation": "(adjetivo) mais pequeno, inferior",
+      "definition": null,
+      "alternative_meanings": [
+        "menor (em tamanho ou volume)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbengela-1 — https://www.kimbundu.org/pt/word/mbengela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15195,
+      "kimbundu_term": "Mbéngu",
+      "portuguese_translation": "Utensílio para tirar terra ou lixo",
+      "definition": null,
+      "alternative_meanings": [
+        "a parte larga e chata do remo",
+        "pá",
+        "remo curto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbéngu-1 — https://www.kimbundu.org/pt/word/mbengu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15196,
+      "kimbundu_term": "Mbéngu",
+      "portuguese_translation": "A parte mais carnuda da perna da rês",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbéngu-1 — https://www.kimbundu.org/pt/word/mbengu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15197,
+      "kimbundu_term": "Mbengu",
+      "portuguese_translation": "Campina",
+      "definition": null,
+      "alternative_meanings": [
+        "vale"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbengu-1 — https://www.kimbundu.org/pt/word/mbengu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15198,
+      "kimbundu_term": "Mbengu",
+      "portuguese_translation": "Nome por que é conhecida a região compreendida entre Quifangondo e Cabíri, banhada pelo rio Zenza, a 40 km de Luanda",
+      "definition": null,
+      "alternative_meanings": [
+        "o vale do Bengo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbengu-1 — https://www.kimbundu.org/pt/word/mbengu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15199,
+      "kimbundu_term": "Mbenza",
+      "portuguese_translation": "Cadeira sem espaldar nem braços",
+      "definition": null,
+      "alternative_meanings": [
+        "tamborete",
+        "cadeira feita de bambu ou bordão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbenza-1 — https://www.kimbundu.org/pt/word/mbenza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15200,
+      "kimbundu_term": "Mbenza",
+      "portuguese_translation": "Mbenza ni malunga: deuses que os indígenas consideram unidos",
+      "definition": null,
+      "alternative_meanings": [
+        "Castor e Pólux"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbenza-1 — https://www.kimbundu.org/pt/word/mbenza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15201,
+      "kimbundu_term": "Mbéta",
+      "portuguese_translation": "Cabelo liso",
+      "definition": null,
+      "alternative_meanings": [
+        "cabelo corrido"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbéta-1 — https://www.kimbundu.org/pt/word/mbeta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15202,
+      "kimbundu_term": "Mbetekete",
+      "portuguese_translation": "Passagem estreita entre montes",
+      "definition": null,
+      "alternative_meanings": [
+        "desfiladeiro",
+        "sopé, base",
+        "o que serve de apoio, princípio, fundamento",
+        "parte inferior"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbetekete-1 — https://www.kimbundu.org/pt/word/mbetekete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15203,
+      "kimbundu_term": "Mbéu",
+      "portuguese_translation": "Povoação e posto do concelho do Zombo, distrito do Congo, província de Luanda, com 9.964 habitantes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbéu-1 — https://www.kimbundu.org/pt/word/mbeu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
