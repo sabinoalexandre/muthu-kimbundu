@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4614,
+      "kimbundu_term": "Kibilu",
+      "portuguese_translation": "Mudança de forma ou de qualidade",
+      "definition": null,
+      "alternative_meanings": [
+        "Conversão",
+        "Transformação"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibilu-1 — https://www.kimbundu.org/pt/word/kibilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4615,
+      "kimbundu_term": "Kibinde",
+      "portuguese_translation": "Convocado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibinde-1 — https://www.kimbundu.org/pt/word/kibinde",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4616,
+      "kimbundu_term": "Kibindu",
+      "portuguese_translation": "Pedido de assistência",
+      "definition": null,
+      "alternative_meanings": [
+        "Convite",
+        "solicitação",
+        "obséquio",
+        "Prática habitual",
+        "Tradição. Costume",
+        "Modo de proceder",
+        "Memória",
+        "recordação",
+        "símbolo",
+        "uso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibindu-1 — https://www.kimbundu.org/pt/word/kibindu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4617,
+      "kimbundu_term": "Kibinduminu",
+      "portuguese_translation": "Benefício",
+      "definition": null,
+      "alternative_meanings": [
+        "auxílio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibinduminu-1 — https://www.kimbundu.org/pt/word/kibinduminu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4618,
+      "kimbundu_term": "Kibinduminu",
+      "portuguese_translation": "Ramificação",
+      "definition": null,
+      "alternative_meanings": [
+        "repartição",
+        "divisão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibinduminu-1 — https://www.kimbundu.org/pt/word/kibinduminu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4619,
+      "kimbundu_term": "Kibinganu",
+      "portuguese_translation": "Que sucedeu ou substituiu outra coisa. sub. O que substitui",
+      "definition": null,
+      "alternative_meanings": [
+        "Substituição"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibinganu-1 — https://www.kimbundu.org/pt/word/kibinganu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4620,
+      "kimbundu_term": "Kibinini",
+      "portuguese_translation": "Golpe forte que contunde",
+      "definition": null,
+      "alternative_meanings": [
+        "Pancada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, popular",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibinini-1 — https://www.kimbundu.org/pt/word/kibinini",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4621,
+      "kimbundu_term": "Kibinji",
+      "portuguese_translation": "Privação",
+      "definition": null,
+      "alternative_meanings": [
+        "aperto",
+        "embaraço",
+        "grande dificuldade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibinji-1 — https://www.kimbundu.org/pt/word/kibinji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4622,
+      "kimbundu_term": "Kibinji",
+      "portuguese_translation": "Situação difícil ou perigosa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibinji-1 — https://www.kimbundu.org/pt/word/kibinji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4623,
+      "kimbundu_term": "Kibiokoto",
+      "portuguese_translation": "Lagarta das árvores",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibiokoto-1 — https://www.kimbundu.org/pt/word/kibiokoto",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
