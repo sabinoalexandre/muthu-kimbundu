@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9974,
+      "kimbundu_term": "Kulaláma",
+      "portuguese_translation": "Emersão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulaláma-2 — https://www.kimbundu.org/pt/word/kulalama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9975,
+      "kimbundu_term": "Kúlalama",
+      "portuguese_translation": "Estar azafamado, intranquilo, disperso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlalama-1 — https://www.kimbundu.org/pt/word/kulalama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9976,
+      "kimbundu_term": "Kúlalama",
+      "portuguese_translation": "Ficar agitado, inquieto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlalama-1 — https://www.kimbundu.org/pt/word/kulalama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9977,
+      "kimbundu_term": "Kúlalama",
+      "portuguese_translation": "Assanhamento",
+      "definition": null,
+      "alternative_meanings": [
+        "inquietude"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlalama-2 — https://www.kimbundu.org/pt/word/kulalama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9978,
+      "kimbundu_term": "Kúlalama",
+      "portuguese_translation": "—kya //",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlalama-2 — https://www.kimbundu.org/pt/word/kulalama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9979,
+      "kimbundu_term": "Kúlalama",
+      "portuguese_translation": "Nome de certo tecido de algodão que muito se usou em Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlalama-2 — https://www.kimbundu.org/pt/word/kulalama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9980,
+      "kimbundu_term": "Kulalameka",
+      "portuguese_translation": "Apressar. Adiantar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer com rapidez"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulalameka-1 — https://www.kimbundu.org/pt/word/kulalameka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9981,
+      "kimbundu_term": "Kulalameka",
+      "portuguese_translation": "Kurilalameka, v. r. Dar-se pressa",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar-se rápido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulalameka-1 — https://www.kimbundu.org/pt/word/kulalameka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9982,
+      "kimbundu_term": "Kulalamesa",
+      "portuguese_translation": "Fazer boiar, sobrenadar. Tornar emerso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulalamesa-1 — https://www.kimbundu.org/pt/word/kulalamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9983,
+      "kimbundu_term": "Kulalamesa",
+      "portuguese_translation": "Alarmar",
+      "definition": null,
+      "alternative_meanings": [
+        "assanhar. Agravar, fazer espalhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulalamesa-1 — https://www.kimbundu.org/pt/word/kulalamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
