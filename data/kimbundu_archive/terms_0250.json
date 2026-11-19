@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2604,
+      "kimbundu_term": "Jimbutu",
+      "portuguese_translation": "Grãos para reprodução",
+      "definition": null,
+      "alternative_meanings": [
+        "Sementes",
+        "Gérmenes"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimbutu-1 — https://www.kimbundu.org/pt/word/jimbutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2605,
+      "kimbundu_term": "Jimbutu",
+      "portuguese_translation": "Sementeira",
+      "definition": null,
+      "alternative_meanings": [
+        "O que se semeia",
+        "Terra semeada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimbutu-1 — https://www.kimbundu.org/pt/word/jimbutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2606,
+      "kimbundu_term": "Jimbwa",
+      "portuguese_translation": "Conjunto de cães",
+      "definition": null,
+      "alternative_meanings": [
+        "Matilha",
+        "canzoada",
+        "fig. Miseráveis",
+        "Ingratos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimbwa-1 — https://www.kimbundu.org/pt/word/jimbwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2607,
+      "kimbundu_term": "Jimenya",
+      "portuguese_translation": "Meias",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimenya-1 — https://www.kimbundu.org/pt/word/jimenya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2608,
+      "kimbundu_term": "Jimola",
+      "portuguese_translation": "Esmolas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimola-1 — https://www.kimbundu.org/pt/word/jimola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2609,
+      "kimbundu_term": "Jimola",
+      "portuguese_translation": "Molas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimola-1 — https://www.kimbundu.org/pt/word/jimola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2610,
+      "kimbundu_term": "Jimono",
+      "portuguese_translation": "Sementes ou frutos de rícino",
+      "definition": null,
+      "alternative_meanings": [
+        "Quantidade de rícino",
+        "Carrapateiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimono-1 — https://www.kimbundu.org/pt/word/jimono",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2611,
+      "kimbundu_term": "Jimosana",
+      "portuguese_translation": "Modelos",
+      "definition": null,
+      "alternative_meanings": [
+        "Objetos ou desenhos que servem para ser imitados",
+        "Reproduções",
+        "Cópias"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimosana-1 — https://www.kimbundu.org/pt/word/jimosana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2612,
+      "kimbundu_term": "Jimuke",
+      "portuguese_translation": "Apagado",
+      "definition": null,
+      "alternative_meanings": [
+        "extinto",
+        "Desaparecido",
+        "esquecido",
+        "morto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimuke-1 — https://www.kimbundu.org/pt/word/jimuke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2613,
+      "kimbundu_term": "Jimvi",
+      "portuguese_translation": "Cabelos brancos",
+      "definition": null,
+      "alternative_meanings": [
+        "Cãs"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimvi-1 — https://www.kimbundu.org/pt/word/jimvi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
