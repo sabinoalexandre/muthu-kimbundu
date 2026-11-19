@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13834,
+      "kimbundu_term": "Kwambata",
+      "portuguese_translation": "Engravidar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwambata-1 — https://www.kimbundu.org/pt/word/kwambata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13835,
+      "kimbundu_term": "Kwambata",
+      "portuguese_translation": "Kuriambata, e r. Deixar-se guiar, conduzir",
+      "definition": null,
+      "alternative_meanings": [
+        "Ir por si"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwambata-1 — https://www.kimbundu.org/pt/word/kwambata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13836,
+      "kimbundu_term": "Kwambatela",
+      "portuguese_translation": "Levar, transportar, conduzir (algo) pertencente a outrem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwambatela-1 — https://www.kimbundu.org/pt/word/kwambatela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13837,
+      "kimbundu_term": "Kwambatela",
+      "portuguese_translation": "Levar, conduzir de uma só vez",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwambatela-1 — https://www.kimbundu.org/pt/word/kwambatela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13838,
+      "kimbundu_term": "Kwambatela",
+      "portuguese_translation": "Kuríambatela, v. r. Corporificar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwambatela-1 — https://www.kimbundu.org/pt/word/kwambatela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13839,
+      "kimbundu_term": "Kwambatela",
+      "portuguese_translation": "Ser fornido, bem constituído",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwambatela-1 — https://www.kimbundu.org/pt/word/kwambatela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13840,
+      "kimbundu_term": "Kwambatela",
+      "portuguese_translation": "Ter corpo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwambatela-1 — https://www.kimbundu.org/pt/word/kwambatela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13841,
+      "kimbundu_term": "Kwambatela",
+      "portuguese_translation": "Fornimento",
+      "definition": null,
+      "alternative_meanings": [
+        "corpulência"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwambatela-1 — https://www.kimbundu.org/pt/word/kwambatela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13842,
+      "kimbundu_term": "Kwambe",
+      "portuguese_translation": "Hein?! Que diz a isto? Que tal?",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwambe-1 — https://www.kimbundu.org/pt/word/kwambe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13843,
+      "kimbundu_term": "Kwambe",
+      "portuguese_translation": "Portanto",
+      "definition": null,
+      "alternative_meanings": [
+        "em tal caso"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwambe-1 — https://www.kimbundu.org/pt/word/kwambe",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
