@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18224,
+      "kimbundu_term": "Ngongo",
+      "portuguese_translation": "O par",
+      "definition": null,
+      "alternative_meanings": [
+        "o semelhante",
+        "Gémeo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngongo-1 — https://www.kimbundu.org/pt/word/ngongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18225,
+      "kimbundu_term": "Ngongoénya",
+      "portuguese_translation": "Sopas de farinha de mandioca com açúcar ou mel, a frio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngongoénya-1 — https://www.kimbundu.org/pt/word/ngongoenya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18226,
+      "kimbundu_term": "Ngongolo",
+      "portuguese_translation": "Grupo de pessoas",
+      "definition": null,
+      "alternative_meanings": [
+        "Magote",
+        "Rancho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngongolo-1 — https://www.kimbundu.org/pt/word/ngongolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18227,
+      "kimbundu_term": "Ngongolo",
+      "portuguese_translation": "Multidão",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Súcia",
+        "barulho",
+        "confusão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngongolo-1 — https://www.kimbundu.org/pt/word/ngongolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18228,
+      "kimbundu_term": "Ngongólo",
+      "portuguese_translation": "Que tem a cor da casca de castanha",
+      "definition": null,
+      "alternative_meanings": [
+        "Castanho"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngongólo-1 — https://www.kimbundu.org/pt/word/ngongolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18229,
+      "kimbundu_term": "Ngongólo",
+      "portuguese_translation": "A cor da casca de castanha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngongólo-1 — https://www.kimbundu.org/pt/word/ngongolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18230,
+      "kimbundu_term": "Ngongólo",
+      "portuguese_translation": "Madeira do castanheiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngongólo-1 — https://www.kimbundu.org/pt/word/ngongolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18231,
+      "kimbundu_term": "Ngongólo",
+      "portuguese_translation": "Verme anelido que se enrosca quando se lhe tocam",
+      "definition": null,
+      "alternative_meanings": [
+        "Mourão",
+        "Género de miriápodo parecido com o bicho de conta"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngongólo-1 — https://www.kimbundu.org/pt/word/ngongolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18232,
+      "kimbundu_term": "Ngongono",
+      "portuguese_translation": "Fruto de planta apocinácea, comestível",
+      "definition": null,
+      "alternative_meanings": [
+        "Uva silvestre, de bom paladar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngongono-1 — https://www.kimbundu.org/pt/word/ngongono",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18233,
+      "kimbundu_term": "Nguá",
+      "portuguese_translation": "Não querem",
+      "definition": null,
+      "alternative_meanings": [
+        "Não admitem",
+        "não aceitam",
+        "não consentem"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nguá-1 — https://www.kimbundu.org/pt/word/ngua",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
