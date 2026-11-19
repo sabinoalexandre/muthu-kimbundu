@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5844,
+      "kimbundu_term": "Kinjenge",
+      "portuguese_translation": "Homem abastado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinjenge-1 — https://www.kimbundu.org/pt/word/kinjenge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5845,
+      "kimbundu_term": "Kinjénje",
+      "portuguese_translation": "Dano",
+      "definition": null,
+      "alternative_meanings": [
+        "avaria",
+        "prejuízo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinjénje-1 — https://www.kimbundu.org/pt/word/kinjenje",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5846,
+      "kimbundu_term": "Kinjénje",
+      "portuguese_translation": "Pov. e posto deste nome na circ. civ. da Ganda, distr. e prov. de Benguela, 22.026 hab., junta local, est. postal e de C",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinjénje-1 — https://www.kimbundu.org/pt/word/kinjenje",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5847,
+      "kimbundu_term": "Kinji",
+      "portuguese_translation": "Antiga pov. na margem direita do rio Honzo, na região de Nambuangongo, circ. civ. do Ambriz. distr. e prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinji-1 — https://www.kimbundu.org/pt/word/kinji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5848,
+      "kimbundu_term": "Kínjila",
+      "portuguese_translation": "Passarão. Passarolo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kínjila-1 — https://www.kimbundu.org/pt/word/kinjila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5849,
+      "kimbundu_term": "Kínjila",
+      "portuguese_translation": "A maior das aves pernaltas. Avestruz",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kínjila-1 — https://www.kimbundu.org/pt/word/kinjila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5850,
+      "kimbundu_term": "Kínjima",
+      "portuguese_translation": "Ação malévola. Pecado. Desumanidade. Ato pecaminoso",
+      "definition": null,
+      "alternative_meanings": [
+        "crueldade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kínjima-1 — https://www.kimbundu.org/pt/word/kinjima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5851,
+      "kimbundu_term": "Kinjondo",
+      "portuguese_translation": "(III) Coto. Resto de um membro amputado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinjondo-1 — https://www.kimbundu.org/pt/word/kinjondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5852,
+      "kimbundu_term": "Kinjondo",
+      "portuguese_translation": "Decepado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinjondo-1 — https://www.kimbundu.org/pt/word/kinjondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5853,
+      "kimbundu_term": "Kinjóngo",
+      "portuguese_translation": "(III) zool. Gafanhão",
+      "definition": null,
+      "alternative_meanings": [
+        "acrídio. Peste acridiana"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinjóngo-1 — https://www.kimbundu.org/pt/word/kinjongo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
