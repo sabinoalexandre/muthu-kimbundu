@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6894,
+      "kimbundu_term": "Kuandála",
+      "portuguese_translation": "Sentir desejos",
+      "definition": null,
+      "alternative_meanings": [
+        "ter ambições"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuandála-1 — https://www.kimbundu.org/pt/word/kuandala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6895,
+      "kimbundu_term": "Kuandála",
+      "portuguese_translation": "Querença",
+      "definition": null,
+      "alternative_meanings": [
+        "vontade"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuandála-1 — https://www.kimbundu.org/pt/word/kuandala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6896,
+      "kimbundu_term": "Kuandeka",
+      "portuguese_translation": "Anelar",
+      "definition": null,
+      "alternative_meanings": [
+        "almejar",
+        "desejar",
+        "Aparecer ao longe de modo indeciso (coisa que nos é agradável)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuandeka-1 — https://www.kimbundu.org/pt/word/kuandeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6897,
+      "kimbundu_term": "Kuandeka",
+      "portuguese_translation": "Anelo",
+      "definition": null,
+      "alternative_meanings": [
+        "almejo",
+        "desejo ardente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuandeka-1 — https://www.kimbundu.org/pt/word/kuandeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6898,
+      "kimbundu_term": "Kuandesa",
+      "portuguese_translation": "Fazer ter sonhos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuandesa-1 — https://www.kimbundu.org/pt/word/kuandesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6899,
+      "kimbundu_term": "Kuandesa",
+      "portuguese_translation": "Fazer mastigar, comer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuandesa-1 — https://www.kimbundu.org/pt/word/kuandesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6900,
+      "kimbundu_term": "Kuandu",
+      "portuguese_translation": "Afluente do rio Cunene, com origem na serra de Ulondo, à 14° e 5' lat. S. 13° e 20' de long. E",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuandu-1 — https://www.kimbundu.org/pt/word/kuandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6901,
+      "kimbundu_term": "Kuanduluka",
+      "portuguese_translation": "Ruborizar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "estar corado",
+        "Corar (expondo-se ao sol)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuanduluka-1 — https://www.kimbundu.org/pt/word/kuanduluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6902,
+      "kimbundu_term": "Kuangála",
+      "portuguese_translation": "Ficar desmaiado, ofuscado, desbotado",
+      "definition": null,
+      "alternative_meanings": [
+        "Perder a cor (pela ação do tempo)",
+        "Desvanecer",
+        "tornar-se baço"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuangála-1 — https://www.kimbundu.org/pt/word/kuangala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6903,
+      "kimbundu_term": "Kuangála",
+      "portuguese_translation": "Embaciamento",
+      "definition": null,
+      "alternative_meanings": [
+        "Desbotadura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuangála-1 — https://www.kimbundu.org/pt/word/kuangala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
