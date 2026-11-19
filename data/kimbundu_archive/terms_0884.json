@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8944,
+      "kimbundu_term": "Kujidika",
+      "portuguese_translation": "Preceituar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujidika-1 — https://www.kimbundu.org/pt/word/kujidika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8945,
+      "kimbundu_term": "Kujidika",
+      "portuguese_translation": "Vedar, deixar de usar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujidika-1 — https://www.kimbundu.org/pt/word/kujidika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8946,
+      "kimbundu_term": "Kujidikisa",
+      "portuguese_translation": "Fazer preceituar, vedar o uso de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujidikisa-1 — https://www.kimbundu.org/pt/word/kujidikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8947,
+      "kimbundu_term": "Kujidikisa",
+      "portuguese_translation": "Proibir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujidikisa-1 — https://www.kimbundu.org/pt/word/kujidikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8948,
+      "kimbundu_term": "Kujidisa",
+      "portuguese_translation": "Fazer jejuar, guardar abstinência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujidisa-1 — https://www.kimbundu.org/pt/word/kujidisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8949,
+      "kimbundu_term": "Kujidisa",
+      "portuguese_translation": "Fazer jurar, renegar, renunciar o uso de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujidisa-1 — https://www.kimbundu.org/pt/word/kujidisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8950,
+      "kimbundu_term": "Kujidisa",
+      "portuguese_translation": "Fazer desgastar, diminuir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujidisa-1 — https://www.kimbundu.org/pt/word/kujidisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8951,
+      "kimbundu_term": "Kujijika",
+      "portuguese_translation": "Obrigar",
+      "definition": null,
+      "alternative_meanings": [
+        "compelir",
+        "Exigir o cumprimento de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujijika-1 — https://www.kimbundu.org/pt/word/kujijika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8952,
+      "kimbundu_term": "Kujijika",
+      "portuguese_translation": "Importunar",
+      "definition": null,
+      "alternative_meanings": [
+        "afligir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujijika-1 — https://www.kimbundu.org/pt/word/kujijika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8953,
+      "kimbundu_term": "Kujijika",
+      "portuguese_translation": "Exigir cumprimento",
+      "definition": null,
+      "alternative_meanings": [
+        "impor obrigações"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujijika-1 — https://www.kimbundu.org/pt/word/kujijika",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
