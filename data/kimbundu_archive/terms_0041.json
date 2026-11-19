@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 514,
+      "kimbundu_term": "Bulutu",
+      "portuguese_translation": "Este lugar é assim conhecido em razão do cap. António Bruto se haver, no morro sobranceiro ao rio, defendido dos ataques",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bulutu-1 — https://www.kimbundu.org/pt/word/bulutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 515,
+      "kimbundu_term": "Búmoxi",
+      "portuguese_translation": "Junto",
+      "definition": null,
+      "alternative_meanings": [
+        "perto",
+        "próximo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, búmoxi-1 — https://www.kimbundu.org/pt/word/bumoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 516,
+      "kimbundu_term": "Bunde",
+      "portuguese_translation": "Saqueado",
+      "definition": null,
+      "alternative_meanings": [
+        "batido",
+        "penhorado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bunde-1 — https://www.kimbundu.org/pt/word/bunde",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 517,
+      "kimbundu_term": "Bungama",
+      "portuguese_translation": "Arbusto de caules subterrâneos, folhas simples, flores hermafroditas e frutos esferoides, de propriedades medicinais (an",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bungama-1 — https://www.kimbundu.org/pt/word/bungama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 518,
+      "kimbundu_term": "Bunjike",
+      "portuguese_translation": "Dobrado",
+      "definition": null,
+      "alternative_meanings": [
+        "Embrulhado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bunjike-1 — https://www.kimbundu.org/pt/word/bunjike",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 519,
+      "kimbundu_term": "Bunyanga",
+      "portuguese_translation": "Que tem falta de alguns dentes",
+      "definition": null,
+      "alternative_meanings": [
+        "Desdentado",
+        "Privado de dentes (parcialmente)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bunyanga-1 — https://www.kimbundu.org/pt/word/bunyanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 520,
+      "kimbundu_term": "Buoso-buoso",
+      "portuguese_translation": "A esmo",
+      "definition": null,
+      "alternative_meanings": [
+        "Em qualquer parte ou lugar"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, buoso-buoso-1 — https://www.kimbundu.org/pt/word/buoso-buoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 521,
+      "kimbundu_term": "Bûtua",
+      "portuguese_translation": "Planta a cuja raiz se atribuem propriedades tónicas e diuréticas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bûtua-1 — https://www.kimbundu.org/pt/word/butua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 522,
+      "kimbundu_term": "Buze",
+      "portuguese_translation": "Depenado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, buze-1 — https://www.kimbundu.org/pt/word/buze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 523,
+      "kimbundu_term": "Bwa",
+      "portuguese_translation": "(contração da prep. 'bu' e do pron. poss. 'ia') Delas",
+      "definition": null,
+      "alternative_meanings": [
+        "deles",
+        "com eles",
+        "da pessoa deles",
+        "pertencente à sua pessoa (deles)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bwa-1 — https://www.kimbundu.org/pt/word/bwa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
