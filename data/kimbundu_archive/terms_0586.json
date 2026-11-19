@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5964,
+      "kimbundu_term": "Kipanana",
+      "portuguese_translation": "Buzina",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipanana-1 — https://www.kimbundu.org/pt/word/kipanana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5965,
+      "kimbundu_term": "Kipanga",
+      "portuguese_translation": "Aringa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipanga-1 — https://www.kimbundu.org/pt/word/kipanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5966,
+      "kimbundu_term": "Kipanga",
+      "portuguese_translation": "Sebe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipanga-1 — https://www.kimbundu.org/pt/word/kipanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5967,
+      "kimbundu_term": "Kipanga",
+      "portuguese_translation": "Enchamel de madeiras feito de paus, varas e folhas de árvores fazendo parede",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipanga-1 — https://www.kimbundu.org/pt/word/kipanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5968,
+      "kimbundu_term": "Kipanga",
+      "portuguese_translation": "Taipa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipanga-1 — https://www.kimbundu.org/pt/word/kipanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5969,
+      "kimbundu_term": "Kipangala",
+      "portuguese_translation": "Armação",
+      "definition": null,
+      "alternative_meanings": [
+        "esqueleto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipangala-1 — https://www.kimbundu.org/pt/word/kipangala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5970,
+      "kimbundu_term": "Kipangala",
+      "portuguese_translation": "Ossatura completa do corpo animal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipangala-1 — https://www.kimbundu.org/pt/word/kipangala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5971,
+      "kimbundu_term": "Kipangapanga",
+      "portuguese_translation": "Omoplata. fig. Costado",
+      "definition": null,
+      "alternative_meanings": [
+        "saliência nas costas de certos animais"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipangapanga-1 — https://www.kimbundu.org/pt/word/kipangapanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5972,
+      "kimbundu_term": "Kipanzu",
+      "portuguese_translation": "Pov. no conc. e circ. civ. do Ambriz, no caminho para o Encoge",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipanzu-1 — https://www.kimbundu.org/pt/word/kipanzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5973,
+      "kimbundu_term": "Kipanzu",
+      "portuguese_translation": "Serra ao poente da pov. do Sassa, circ. civil do Dande, distr. e prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipanzu-1 — https://www.kimbundu.org/pt/word/kipanzu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
