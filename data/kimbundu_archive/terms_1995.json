@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 20054,
+      "kimbundu_term": "Wowa",
+      "portuguese_translation": "Saburra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wowa-1 — https://www.kimbundu.org/pt/word/wowa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20055,
+      "kimbundu_term": "Wowa",
+      "portuguese_translation": "engano",
+      "definition": null,
+      "alternative_meanings": [
+        "logro: indução em erro ou ideia falsa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, wowa-1 — https://www.kimbundu.org/pt/word/wowa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20056,
+      "kimbundu_term": "X'eie",
+      "portuguese_translation": "Tratamento de tu para chamar atenção: olha lá!",
+      "definition": null,
+      "alternative_meanings": [
+        "Emprega-se tb. em sentido provocador ou de desafio: ó tu!"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, x'eie-1 — https://www.kimbundu.org/pt/word/x'eie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20057,
+      "kimbundu_term": "Xá",
+      "portuguese_translation": "Chá",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xá-1 — https://www.kimbundu.org/pt/word/xa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20058,
+      "kimbundu_term": "Xá-kasáu",
+      "portuguese_translation": "Pov. e sede do posto civ. do conc. de Saurimo, distrito da Lunda, prov. de Malanje, 14.831 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xá-kasáu-1 — https://www.kimbundu.org/pt/word/xa-kasau",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20059,
+      "kimbundu_term": "Xáhulu",
+      "portuguese_translation": "Tempos passados",
+      "definition": null,
+      "alternative_meanings": [
+        "antiguidade remota",
+        "A noite dos tempos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xáhulu-1 — https://www.kimbundu.org/pt/word/xahulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20060,
+      "kimbundu_term": "Xáka",
+      "portuguese_translation": "(IX) Fuga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xáka-1 — https://www.kimbundu.org/pt/word/xaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20061,
+      "kimbundu_term": "Xáka",
+      "portuguese_translation": "De vez",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xáka-1 — https://www.kimbundu.org/pt/word/xaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20062,
+      "kimbundu_term": "Xàla",
+      "portuguese_translation": "Expressão de despedida",
+      "definition": null,
+      "alternative_meanings": [
+        "Adeus! Fica! É tb. interj"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xàla-1 — https://www.kimbundu.org/pt/word/xala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20063,
+      "kimbundu_term": "Xalela",
+      "portuguese_translation": "Chaleira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xalela-1 — https://www.kimbundu.org/pt/word/xalela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
