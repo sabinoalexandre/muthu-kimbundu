@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2144,
+      "kimbundu_term": "Imbonga",
+      "portuguese_translation": "Mascarada",
+      "definition": null,
+      "alternative_meanings": [
+        "Rancho de pessoas mascaradas",
+        "Bando de máscaras",
+        "Entrudada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imbonga-1 — https://www.kimbundu.org/pt/word/imbonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2145,
+      "kimbundu_term": "Imbonga",
+      "portuguese_translation": "Entrudo",
+      "definition": null,
+      "alternative_meanings": [
+        "O tempo do carnaval"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imbonga-1 — https://www.kimbundu.org/pt/word/imbonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2146,
+      "kimbundu_term": "Imbuámbua",
+      "portuguese_translation": "Bolhas de água que brotam",
+      "definition": null,
+      "alternative_meanings": [
+        "Borbotões",
+        "Golfadas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imbuámbua-1 — https://www.kimbundu.org/pt/word/imbuambua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2147,
+      "kimbundu_term": "Imbuámbua",
+      "portuguese_translation": "Andrajos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imbuámbua-1 — https://www.kimbundu.org/pt/word/imbuambua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2148,
+      "kimbundu_term": "Ímbui",
+      "portuguese_translation": "Bola de funji que o comedor tira do prato",
+      "definition": null,
+      "alternative_meanings": [
+        "A mesma porção que se mete de uma só vez na boca"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ímbui-1 — https://www.kimbundu.org/pt/word/imbui",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2149,
+      "kimbundu_term": "Imbumbulukufu",
+      "portuguese_translation": "Corpos esféricos e pesados",
+      "definition": null,
+      "alternative_meanings": [
+        "Bolas grosseiras",
+        "fig. Homens rudes, grosseiros, estúpidos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imbumbulukufu-1 — https://www.kimbundu.org/pt/word/imbumbulukufu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2150,
+      "kimbundu_term": "Imbwa",
+      "portuguese_translation": "Quadrúpede carnívoro digitígrado e doméstico",
+      "definition": null,
+      "alternative_meanings": [
+        "Cão: cadela",
+        "cachorro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imbwa-1 — https://www.kimbundu.org/pt/word/imbwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2151,
+      "kimbundu_term": "Imbwa",
+      "portuguese_translation": "Âncora",
+      "definition": null,
+      "alternative_meanings": [
+        "poita",
+        "Pedra grande amarrada a um cabo que serve de âncora a pequenos barcos",
+        "Pedral"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imbwa-1 — https://www.kimbundu.org/pt/word/imbwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2152,
+      "kimbundu_term": "Imbwa",
+      "portuguese_translation": "Ingrato",
+      "definition": null,
+      "alternative_meanings": [
+        "Infame",
+        "Homem sem sentimentos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imbwa-1 — https://www.kimbundu.org/pt/word/imbwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2153,
+      "kimbundu_term": "Imbwa",
+      "portuguese_translation": "Calote",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, imbwa-1 — https://www.kimbundu.org/pt/word/imbwa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
