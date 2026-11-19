@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10304,
+      "kimbundu_term": "Kulombuela",
+      "portuguese_translation": "Fiar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulombuela-1 — https://www.kimbundu.org/pt/word/kulombuela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10305,
+      "kimbundu_term": "Kúlonda",
+      "portuguese_translation": "Instigar, reduzir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlonda-1 — https://www.kimbundu.org/pt/word/kulonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10306,
+      "kimbundu_term": "Kúlonda",
+      "portuguese_translation": "Tentar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlonda-1 — https://www.kimbundu.org/pt/word/kulonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10307,
+      "kimbundu_term": "Kúlonda",
+      "portuguese_translation": "Induzir em erro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlonda-1 — https://www.kimbundu.org/pt/word/kulonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10308,
+      "kimbundu_term": "Kúlonda",
+      "portuguese_translation": "Tentativa",
+      "definition": null,
+      "alternative_meanings": [
+        "sedução"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlonda-2 — https://www.kimbundu.org/pt/word/kulonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10309,
+      "kimbundu_term": "Kulónda",
+      "portuguese_translation": "Averiguar",
+      "definition": null,
+      "alternative_meanings": [
+        "certificar-se de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulónda-1 — https://www.kimbundu.org/pt/word/kulonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10310,
+      "kimbundu_term": "Kulónda",
+      "portuguese_translation": "Ter como certo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulónda-1 — https://www.kimbundu.org/pt/word/kulonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10311,
+      "kimbundu_term": "Kulondala",
+      "portuguese_translation": "Rondar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulondala-1 — https://www.kimbundu.org/pt/word/kulondala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10312,
+      "kimbundu_term": "Kulondekeza",
+      "portuguese_translation": "Indicar",
+      "definition": null,
+      "alternative_meanings": [
+        "revelar",
+        "dar a conhecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulondekeza-1 — https://www.kimbundu.org/pt/word/kulondekeza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10313,
+      "kimbundu_term": "Kulondoka",
+      "portuguese_translation": "melhor kulanduka",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulondoka-1 — https://www.kimbundu.org/pt/word/kulondoka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
