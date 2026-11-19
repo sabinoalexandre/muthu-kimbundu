@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3214,
+      "kimbundu_term": "Kahoji",
+      "portuguese_translation": "Leonino",
+      "definition": null,
+      "alternative_meanings": [
+        "Do leão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kahoji-1 — https://www.kimbundu.org/pt/word/kahoji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3215,
+      "kimbundu_term": "Kahole",
+      "portuguese_translation": "Múrice",
+      "definition": null,
+      "alternative_meanings": [
+        "Sua concha",
+        "Hélice"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kahole-1 — https://www.kimbundu.org/pt/word/kahole",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3216,
+      "kimbundu_term": "Kahole",
+      "portuguese_translation": "Do caracol, ou a ele relativo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kahole-1 — https://www.kimbundu.org/pt/word/kahole",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3217,
+      "kimbundu_term": "Kaholokóko",
+      "portuguese_translation": "Águia pequena",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaholokóko-1 — https://www.kimbundu.org/pt/word/kaholokoko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3218,
+      "kimbundu_term": "Kaholokóko",
+      "portuguese_translation": "Aquilino",
+      "definition": null,
+      "alternative_meanings": [
+        "Da águia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaholokóko-1 — https://www.kimbundu.org/pt/word/kaholokoko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3219,
+      "kimbundu_term": "Kaholongonyo",
+      "portuguese_translation": "Caveirinha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaholongonyo-1 — https://www.kimbundu.org/pt/word/kaholongonyo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3220,
+      "kimbundu_term": "Kahombo",
+      "portuguese_translation": "Cabritinho",
+      "definition": null,
+      "alternative_meanings": [
+        "Cabra de poucos meses"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kahombo-1 — https://www.kimbundu.org/pt/word/kahombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3221,
+      "kimbundu_term": "Kahombo",
+      "portuguese_translation": "Planta com fruto amomáceos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kahombo-1 — https://www.kimbundu.org/pt/word/kahombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3222,
+      "kimbundu_term": "Kahota",
+      "portuguese_translation": "Canto de segredo",
+      "definition": null,
+      "alternative_meanings": [
+        "Lugar recôndito e desviado das vistas",
+        "Recanto",
+        "escaninho",
+        "esconderijo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kahota-1 — https://www.kimbundu.org/pt/word/kahota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3223,
+      "kimbundu_term": "Kahota",
+      "portuguese_translation": "Do canto, ou a ele relativo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kahota-1 — https://www.kimbundu.org/pt/word/kahota",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
