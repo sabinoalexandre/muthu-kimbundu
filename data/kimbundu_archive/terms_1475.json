@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14854,
+      "kimbundu_term": "Masóko",
+      "portuguese_translation": "Pessoas da mesma época ou idade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, masóko-1 — https://www.kimbundu.org/pt/word/masoko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14855,
+      "kimbundu_term": "Masokwelu",
+      "portuguese_translation": "Decrepitude",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, masokwelu-1 — https://www.kimbundu.org/pt/word/masokwelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14856,
+      "kimbundu_term": "Masokwelu",
+      "portuguese_translation": "Estado de pessoa caduca",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, masokwelu-1 — https://www.kimbundu.org/pt/word/masokwelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14857,
+      "kimbundu_term": "Masokwelu",
+      "portuguese_translation": "Velhice",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, masokwelu-1 — https://www.kimbundu.org/pt/word/masokwelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14858,
+      "kimbundu_term": "Masomboxela",
+      "portuguese_translation": "Salteado",
+      "definition": null,
+      "alternative_meanings": [
+        "espaçado",
+        "entremeado",
+        "sub. pl. Lavor bordado",
+        "Renda ou outro adorno lavrado",
+        "Entremeio., Bordar",
+        "guarnecer",
+        "Entremear"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, masomboxela-1 — https://www.kimbundu.org/pt/word/masomboxela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14859,
+      "kimbundu_term": "Masôxi",
+      "portuguese_translation": "Lágrimas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, masôxi-1 — https://www.kimbundu.org/pt/word/masoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14860,
+      "kimbundu_term": "Masôxi",
+      "portuguese_translation": "Pranto",
+      "definition": null,
+      "alternative_meanings": [
+        "choro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, masôxi-1 — https://www.kimbundu.org/pt/word/masoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14861,
+      "kimbundu_term": "Mâsu",
+      "portuguese_translation": "Urina",
+      "definition": null,
+      "alternative_meanings": [
+        "mijo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mâsu-1 — https://www.kimbundu.org/pt/word/masu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14862,
+      "kimbundu_term": "Mâsu",
+      "portuguese_translation": "Pov. na área do antigo conc. de Duque de Bragança, circ. civ. de Ambaca, distr. e prov. de Malange",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mâsu-1 — https://www.kimbundu.org/pt/word/masu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14863,
+      "kimbundu_term": "Masu",
+      "portuguese_translation": "Olhos. Vista",
+      "definition": null,
+      "alternative_meanings": [
+        "olhares: — ma mbangl"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, masu-1 — https://www.kimbundu.org/pt/word/masu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
