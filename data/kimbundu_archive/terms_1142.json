@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11524,
+      "kimbundu_term": "Kusebuluka",
+      "portuguese_translation": "Ficar ultrajado, maltratado, desonrado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusebuluka-1 — https://www.kimbundu.org/pt/word/kusebuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11525,
+      "kimbundu_term": "Kusebuluka",
+      "portuguese_translation": "Sofrer ignomínia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusebuluka-1 — https://www.kimbundu.org/pt/word/kusebuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11526,
+      "kimbundu_term": "Kuséia",
+      "portuguese_translation": "Entibiar",
+      "definition": null,
+      "alternative_meanings": [
+        "desanimar",
+        "enfraquecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuséia-1 — https://www.kimbundu.org/pt/word/kuseia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11527,
+      "kimbundu_term": "Kuséia",
+      "portuguese_translation": "Entibiamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuséia-1 — https://www.kimbundu.org/pt/word/kuseia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11528,
+      "kimbundu_term": "Kuséia",
+      "portuguese_translation": "Kuriséa, v. r. Tornar-se tíbio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuséia-1 — https://www.kimbundu.org/pt/word/kuseia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11529,
+      "kimbundu_term": "Kuseiala",
+      "portuguese_translation": "Ceiar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuseiala-1 — https://www.kimbundu.org/pt/word/kuseiala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11530,
+      "kimbundu_term": "Kúseka",
+      "portuguese_translation": "Farinar",
+      "definition": null,
+      "alternative_meanings": [
+        "ralar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúseka-1 — https://www.kimbundu.org/pt/word/kuseka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11531,
+      "kimbundu_term": "Kúseka",
+      "portuguese_translation": "Serrar",
+      "definition": null,
+      "alternative_meanings": [
+        "corroer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúseka-1 — https://www.kimbundu.org/pt/word/kuseka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11532,
+      "kimbundu_term": "Kúseka",
+      "portuguese_translation": "Cortar pouco a pouco (roendo)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúseka-1 — https://www.kimbundu.org/pt/word/kuseka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11533,
+      "kimbundu_term": "Kúseka",
+      "portuguese_translation": "Minar",
+      "definition": null,
+      "alternative_meanings": [
+        "enredar",
+        "fomentar discórdias"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúseka-1 — https://www.kimbundu.org/pt/word/kuseka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
