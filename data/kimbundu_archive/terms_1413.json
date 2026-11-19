@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14234,
+      "kimbundu_term": "Lukudá",
+      "portuguese_translation": "Algodão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lukudá-1 — https://www.kimbundu.org/pt/word/lukuda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14235,
+      "kimbundu_term": "Lukuka",
+      "portuguese_translation": "Capa feita de palha ou capim",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lukuka-1 — https://www.kimbundu.org/pt/word/lukuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14236,
+      "kimbundu_term": "Lukuka",
+      "portuguese_translation": "Põe-se fora! Saia!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lukuka-1 — https://www.kimbundu.org/pt/word/lukuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14237,
+      "kimbundu_term": "Lukula",
+      "portuguese_translation": "Tacula",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lukula-1 — https://www.kimbundu.org/pt/word/lukula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14238,
+      "kimbundu_term": "Lukula",
+      "portuguese_translation": "Planta fam. das leguminosas (pterocarpus tinctorius), de madeira apreciável",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lukula-1 — https://www.kimbundu.org/pt/word/lukula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14239,
+      "kimbundu_term": "Lukuse",
+      "portuguese_translation": "Pov. e posto civ",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lukuse-1 — https://www.kimbundu.org/pt/word/lukuse",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14240,
+      "kimbundu_term": "Lukúxi",
+      "portuguese_translation": "Quantas, que número de vezes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lukúxi-1 — https://www.kimbundu.org/pt/word/lukuxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14241,
+      "kimbundu_term": "Lukwaku",
+      "portuguese_translation": "Mão",
+      "definition": null,
+      "alternative_meanings": [
+        "braço"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lukwaku-1 — https://www.kimbundu.org/pt/word/lukwaku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14242,
+      "kimbundu_term": "Lukwinyi",
+      "portuguese_translation": "Dez vezes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lukwinyi-1 — https://www.kimbundu.org/pt/word/lukwinyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14243,
+      "kimbundu_term": "Lukwinyi",
+      "portuguese_translation": "Décimo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lukwinyi-1 — https://www.kimbundu.org/pt/word/lukwinyi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
