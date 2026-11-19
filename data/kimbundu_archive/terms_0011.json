@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 214,
+      "kimbundu_term": "Akuni",
+      "portuguese_translation": "Semeadores",
+      "definition": null,
+      "alternative_meanings": [
+        "plantadores",
+        "os que semeiam ou plantam árvores"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akuni-1 — https://www.kimbundu.org/pt/word/akuni",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 215,
+      "kimbundu_term": "Akunji",
+      "portuguese_translation": "Apóstolos",
+      "definition": null,
+      "alternative_meanings": [
+        "Mandados",
+        "Mensageiros",
+        "Pessoas encarregadas de uma missão",
+        "Núncios",
+        "Parlamentários",
+        "Embaixadores"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akunji-1 — https://www.kimbundu.org/pt/word/akunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 216,
+      "kimbundu_term": "Akuxi",
+      "portuguese_translation": "Que número ou que quantidade",
+      "definition": null,
+      "alternative_meanings": [
+        "Quantos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akuxi-1 — https://www.kimbundu.org/pt/word/akuxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 217,
+      "kimbundu_term": "Akwa",
+      "portuguese_translation": "Outros",
+      "definition": null,
+      "alternative_meanings": [
+        "iguais",
+        "do mesmo género",
+        "pessoas da mesma categoria ou condição social",
+        "companheiros, camaradas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akwa-1 — https://www.kimbundu.org/pt/word/akwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 218,
+      "kimbundu_term": "Akwa",
+      "portuguese_translation": "Akua matui: ouvidores",
+      "definition": null,
+      "alternative_meanings": [
+        "ouvintes",
+        "que têm orelhas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akwa-1 — https://www.kimbundu.org/pt/word/akwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 219,
+      "kimbundu_term": "Akwa",
+      "portuguese_translation": "Área que compreende o posto civil deste nome, circunscrição do Baixo Cunene (Cuamato), distrito e província da Huíla, co",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akwa-1 — https://www.kimbundu.org/pt/word/akwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 220,
+      "kimbundu_term": "Akwa",
+      "portuguese_translation": "Akua mbele: criados graves",
+      "definition": null,
+      "alternative_meanings": [
+        "familiares",
+        "feitores",
+        "domésticos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akwa-1 — https://www.kimbundu.org/pt/word/akwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 221,
+      "kimbundu_term": "Akwa",
+      "portuguese_translation": "Akua nhama: indivíduos que se dedicam à caça",
+      "definition": null,
+      "alternative_meanings": [
+        "que matam e vendem carne de caça",
+        "carniceiros"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akwa-1 — https://www.kimbundu.org/pt/word/akwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 222,
+      "kimbundu_term": "Akwa",
+      "portuguese_translation": "Vasta área que compreende a circunscrição civil do Baixo Cunene",
+      "definition": null,
+      "alternative_meanings": [
+        "terra habitada pelos anhama (os da carne)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akwa-1 — https://www.kimbundu.org/pt/word/akwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 223,
+      "kimbundu_term": "Akwenu",
+      "portuguese_translation": "Outros (como tu, como vós)",
+      "definition": null,
+      "alternative_meanings": [
+        "vós outros",
+        "camaradas",
+        "companheiros"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akwenu-1 — https://www.kimbundu.org/pt/word/akwenu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
