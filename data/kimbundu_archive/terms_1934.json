@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19444,
+      "kimbundu_term": "Udimínu",
+      "portuguese_translation": "Forma de lavrar terras",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, udimínu-1 — https://www.kimbundu.org/pt/word/udiminu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19445,
+      "kimbundu_term": "Udímu",
+      "portuguese_translation": "Vegetalidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, udímu-1 — https://www.kimbundu.org/pt/word/udimu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19446,
+      "kimbundu_term": "Udióma",
+      "portuguese_translation": "Glutoneria",
+      "definition": null,
+      "alternative_meanings": [
+        "alarvice"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, udióma-1 — https://www.kimbundu.org/pt/word/udioma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19447,
+      "kimbundu_term": "Uê",
+      "portuguese_translation": "Teu",
+      "definition": null,
+      "alternative_meanings": [
+        "tua"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uê-1 — https://www.kimbundu.org/pt/word/ue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19448,
+      "kimbundu_term": "Uê",
+      "portuguese_translation": "De ti",
+      "definition": null,
+      "alternative_meanings": [
+        "pertencente à tua pessoa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uê-1 — https://www.kimbundu.org/pt/word/ue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19449,
+      "kimbundu_term": "Uê",
+      "portuguese_translation": "Igualmente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uê-1 — https://www.kimbundu.org/pt/word/ue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19450,
+      "kimbundu_term": "Ue",
+      "portuguese_translation": "Seu",
+      "definition": null,
+      "alternative_meanings": [
+        "sua (dele ou dela)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ue-1 — https://www.kimbundu.org/pt/word/ue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19451,
+      "kimbundu_term": "Ue",
+      "portuguese_translation": "Pertencente à sua pessoa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ue-1 — https://www.kimbundu.org/pt/word/ue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19452,
+      "kimbundu_term": "Ue",
+      "portuguese_translation": "Do mesmo modo",
+      "definition": null,
+      "alternative_meanings": [
+        "também: muene — u alenge"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ue-1 — https://www.kimbundu.org/pt/word/ue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19453,
+      "kimbundu_term": "Ue",
+      "portuguese_translation": "Consequentemente",
+      "definition": null,
+      "alternative_meanings": [
+        "outrossim: u amba mukua ni muene —"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ue-1 — https://www.kimbundu.org/pt/word/ue",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
