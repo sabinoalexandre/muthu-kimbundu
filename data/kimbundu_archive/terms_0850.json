@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8604,
+      "kimbundu_term": "Kufundamena",
+      "portuguese_translation": "Fazer abstinência",
+      "definition": null,
+      "alternative_meanings": [
+        "cumprir os preceitos da quaresma"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufundamena-1 — https://www.kimbundu.org/pt/word/kufundamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8605,
+      "kimbundu_term": "Kufundamena",
+      "portuguese_translation": "Estar de magro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufundamena-1 — https://www.kimbundu.org/pt/word/kufundamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8606,
+      "kimbundu_term": "Kufundamesa",
+      "portuguese_translation": "Isolar",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer estar de quarentena, de magro. É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufundamesa-1 — https://www.kimbundu.org/pt/word/kufundamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8607,
+      "kimbundu_term": "Kufundika",
+      "portuguese_translation": "Emostar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer amadurecer pela ação do calor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufundika-1 — https://www.kimbundu.org/pt/word/kufundika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8608,
+      "kimbundu_term": "Kufundika",
+      "portuguese_translation": "Guardar (para amadurecer)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufundika-1 — https://www.kimbundu.org/pt/word/kufundika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8609,
+      "kimbundu_term": "Kufundikisa",
+      "portuguese_translation": "Fazer emostar, sazonar, amadurecer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufundikisa-1 — https://www.kimbundu.org/pt/word/kufundikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8610,
+      "kimbundu_term": "Kufundila",
+      "portuguese_translation": "Informar a",
+      "definition": null,
+      "alternative_meanings": [
+        "formular queixa de",
+        "relatar",
+        "Contar",
+        "dizer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufundila-1 — https://www.kimbundu.org/pt/word/kufundila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8611,
+      "kimbundu_term": "Kufundila",
+      "portuguese_translation": "Dar sepultura a",
+      "definition": null,
+      "alternative_meanings": [
+        "Enterrar por causa de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufundila-1 — https://www.kimbundu.org/pt/word/kufundila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8612,
+      "kimbundu_term": "Kufundísa",
+      "portuguese_translation": "Mandar sepultar",
+      "definition": null,
+      "alternative_meanings": [
+        "ajudar a meter na cova"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufundísa-1 — https://www.kimbundu.org/pt/word/kufundisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8613,
+      "kimbundu_term": "Kufundísa",
+      "portuguese_translation": "Julgar",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer justiça",
+        "decidir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufundísa-1 — https://www.kimbundu.org/pt/word/kufundisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
