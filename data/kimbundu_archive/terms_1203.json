@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12134,
+      "kimbundu_term": "Kutanguluka",
+      "portuguese_translation": "Estar ou ficar conferido, certo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutanguluka-1 — https://www.kimbundu.org/pt/word/kutanguluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12135,
+      "kimbundu_term": "Kutangulula",
+      "portuguese_translation": "Recontar",
+      "definition": null,
+      "alternative_meanings": [
+        "reler"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutangulula-1 — https://www.kimbundu.org/pt/word/kutangulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12136,
+      "kimbundu_term": "Kutangulula",
+      "portuguese_translation": "Conferir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutangulula-1 — https://www.kimbundu.org/pt/word/kutangulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12137,
+      "kimbundu_term": "Kutangumuka",
+      "portuguese_translation": "Transpor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, indeterminativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutangumuka-1 — https://www.kimbundu.org/pt/word/kutangumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12138,
+      "kimbundu_term": "Kutangumuka",
+      "portuguese_translation": "Passar por cima de (atravessando)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, indeterminativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutangumuka-1 — https://www.kimbundu.org/pt/word/kutangumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12139,
+      "kimbundu_term": "Kutanjala",
+      "portuguese_translation": "Passear (dentro de um recinto)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutanjala-1 — https://www.kimbundu.org/pt/word/kutanjala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12140,
+      "kimbundu_term": "Kutanjala",
+      "portuguese_translation": "Andar de um lado para o outro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutanjala-1 — https://www.kimbundu.org/pt/word/kutanjala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12141,
+      "kimbundu_term": "Kútanu",
+      "portuguese_translation": "O quinto mês da época pluviosa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútanu-1 — https://www.kimbundu.org/pt/word/kutanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12142,
+      "kimbundu_term": "Kútapa",
+      "portuguese_translation": "Ser sofrível, suportável",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútapa-1 — https://www.kimbundu.org/pt/word/kutapa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12143,
+      "kimbundu_term": "Kútapa",
+      "portuguese_translation": "Não ser mau de todo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútapa-1 — https://www.kimbundu.org/pt/word/kutapa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
