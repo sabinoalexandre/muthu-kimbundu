@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17284,
+      "kimbundu_term": "Mútonge",
+      "portuguese_translation": "Dado a brigas. Espadachim. Esgrima",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mútonge-1 — https://www.kimbundu.org/pt/word/mutonge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17285,
+      "kimbundu_term": "Mutongo",
+      "portuguese_translation": "Nogueira",
+      "definition": null,
+      "alternative_meanings": [
+        "grande árvore fam. das rosáceas (parinarium mebola) de fruto comestível"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutongo-1 — https://www.kimbundu.org/pt/word/mutongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17286,
+      "kimbundu_term": "Mutongolodi",
+      "portuguese_translation": "Aquele que justifica um facto. Explicador",
+      "definition": null,
+      "alternative_meanings": [
+        "intérprete"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutongolodi-1 — https://www.kimbundu.org/pt/word/mutongolodi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17287,
+      "kimbundu_term": "Mutongoloke",
+      "portuguese_translation": "Consciente",
+      "definition": null,
+      "alternative_meanings": [
+        "que sabe o que faz"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutongoloke-1 — https://www.kimbundu.org/pt/word/mutongoloke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17288,
+      "kimbundu_term": "Mutópa",
+      "portuguese_translation": "O mesmo que tenga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutópa-1 — https://www.kimbundu.org/pt/word/mutopa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17289,
+      "kimbundu_term": "Mutote",
+      "portuguese_translation": "Que mancha ou faz mossa. Maculador",
+      "definition": null,
+      "alternative_meanings": [
+        "que assinala ou notifica"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutote-1 — https://www.kimbundu.org/pt/word/mutote",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17290,
+      "kimbundu_term": "Mutoto",
+      "portuguese_translation": "Figulina",
+      "definition": null,
+      "alternative_meanings": [
+        "argila",
+        "Marga",
+        "greda",
+        "barro branco com que se barravam as paredes das casas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutoto-1 — https://www.kimbundu.org/pt/word/mutoto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17291,
+      "kimbundu_term": "Mutotodi",
+      "portuguese_translation": "Britador",
+      "definition": null,
+      "alternative_meanings": [
+        "Triturador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutotodi-1 — https://www.kimbundu.org/pt/word/mutotodi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17292,
+      "kimbundu_term": "Mútoue",
+      "portuguese_translation": "Adoçante: que agrada ou deleita",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mútoue-1 — https://www.kimbundu.org/pt/word/mutoue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17293,
+      "kimbundu_term": "Mútoue",
+      "portuguese_translation": "Corvina (peixe)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mútoue-2 — https://www.kimbundu.org/pt/word/mutoue",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
