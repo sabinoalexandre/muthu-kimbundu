@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10394,
+      "kimbundu_term": "Kulukumuka",
+      "portuguese_translation": "Saída impetuosa",
+      "definition": null,
+      "alternative_meanings": [
+        "jorro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulukumuka-1 — https://www.kimbundu.org/pt/word/kulukumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10395,
+      "kimbundu_term": "Kulukumukisa",
+      "portuguese_translation": "Fazer sair em jorro. Fazer verter em abundância",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulukumukisa-1 — https://www.kimbundu.org/pt/word/kulukumukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10396,
+      "kimbundu_term": "Kulukumuna",
+      "portuguese_translation": "Derramar (espalhando-se pelo chão)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulukumuna-1 — https://www.kimbundu.org/pt/word/kulukumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10397,
+      "kimbundu_term": "Kulukumuna",
+      "portuguese_translation": "Fazer sair em abundância, correr por fora",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulukumuna-1 — https://www.kimbundu.org/pt/word/kulukumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10398,
+      "kimbundu_term": "Kulukuta",
+      "portuguese_translation": "Estar abafado",
+      "definition": null,
+      "alternative_meanings": [
+        "sofrer calor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulukuta-1 — https://www.kimbundu.org/pt/word/kulukuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10399,
+      "kimbundu_term": "Kulukuta",
+      "portuguese_translation": "Estar em estufa, em refogado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulukuta-1 — https://www.kimbundu.org/pt/word/kulukuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10400,
+      "kimbundu_term": "Kulukuta",
+      "portuguese_translation": "Suar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulukuta-1 — https://www.kimbundu.org/pt/word/kulukuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10401,
+      "kimbundu_term": "Kulukutisa",
+      "portuguese_translation": "Estufar",
+      "definition": null,
+      "alternative_meanings": [
+        "refogar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulukutisa-1 — https://www.kimbundu.org/pt/word/kulukutisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10402,
+      "kimbundu_term": "Kulukutisa",
+      "portuguese_translation": "Cozer ou concentrar calor sobre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulukutisa-1 — https://www.kimbundu.org/pt/word/kulukutisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10403,
+      "kimbundu_term": "Kulúla",
+      "portuguese_translation": "Amargar",
+      "definition": null,
+      "alternative_meanings": [
+        "estar salgado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulúla-1 — https://www.kimbundu.org/pt/word/kulula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
