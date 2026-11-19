@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19144,
+      "kimbundu_term": "Taua",
+      "portuguese_translation": "Incriminação",
+      "definition": null,
+      "alternative_meanings": [
+        "responsabilidade",
+        "culpa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, taua-1 — https://www.kimbundu.org/pt/word/taua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19145,
+      "kimbundu_term": "Taua",
+      "portuguese_translation": "Mágoa que uma pessoa leva de outra",
+      "definition": null,
+      "alternative_meanings": [
+        "melindre",
+        "censura"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, taua-1 — https://www.kimbundu.org/pt/word/taua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19146,
+      "kimbundu_term": "Taua",
+      "portuguese_translation": "adj. Responsável",
+      "definition": null,
+      "alternative_meanings": [
+        "que tem culpa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, taua-1 — https://www.kimbundu.org/pt/word/taua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19147,
+      "kimbundu_term": "Taua",
+      "portuguese_translation": "É mais usado no plural jitaua",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, taua-1 — https://www.kimbundu.org/pt/word/taua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19148,
+      "kimbundu_term": "Tê",
+      "portuguese_translation": "(IX) A letra T",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tê-1 — https://www.kimbundu.org/pt/word/te",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19149,
+      "kimbundu_term": "Tê",
+      "portuguese_translation": "Colocado",
+      "definition": null,
+      "alternative_meanings": [
+        "posto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tê-1 — https://www.kimbundu.org/pt/word/te",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19150,
+      "kimbundu_term": "Teia-feia",
+      "portuguese_translation": "Com muitas dores",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, teia-feia-1 — https://www.kimbundu.org/pt/word/teia-feia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19151,
+      "kimbundu_term": "Teia-feia",
+      "portuguese_translation": "Dorido",
+      "definition": null,
+      "alternative_meanings": [
+        "grave"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, teia-feia-1 — https://www.kimbundu.org/pt/word/teia-feia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19152,
+      "kimbundu_term": "Tekú",
+      "portuguese_translation": "Expressão significativa de desamparo, abandono. Sem amparo",
+      "definition": null,
+      "alternative_meanings": [
+        "ao Deus dará"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tekú-1 — https://www.kimbundu.org/pt/word/teku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19153,
+      "kimbundu_term": "Tekú",
+      "portuguese_translation": "Atirado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tekú-1 — https://www.kimbundu.org/pt/word/teku",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
