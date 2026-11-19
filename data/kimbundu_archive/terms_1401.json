@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14114,
+      "kimbundu_term": "Lêmba",
+      "portuguese_translation": "Deusa protetora das mulheres grávidas. É tb. nome próprio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lêmba-1 — https://www.kimbundu.org/pt/word/lemba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14115,
+      "kimbundu_term": "Léte",
+      "portuguese_translation": "Leite",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, léte-1 — https://www.kimbundu.org/pt/word/lete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14116,
+      "kimbundu_term": "Léza",
+      "portuguese_translation": "Idiota",
+      "definition": null,
+      "alternative_meanings": [
+        "pateta",
+        "sem sagacidade. Diz-se do falar arrastado de um paralítico"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, léza-1 — https://www.kimbundu.org/pt/word/leza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14117,
+      "kimbundu_term": "Linda",
+      "portuguese_translation": "Sinalado",
+      "definition": null,
+      "alternative_meanings": [
+        "coartado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, linda-1 — https://www.kimbundu.org/pt/word/linda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14118,
+      "kimbundu_term": "Linda",
+      "portuguese_translation": "Fúria, furor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, linda-1 — https://www.kimbundu.org/pt/word/linda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14119,
+      "kimbundu_term": "Linda",
+      "portuguese_translation": "— ria undanda, furor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, linda-1 — https://www.kimbundu.org/pt/word/linda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14120,
+      "kimbundu_term": "Lóko",
+      "portuguese_translation": "Logo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lóko-1 — https://www.kimbundu.org/pt/word/loko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14121,
+      "kimbundu_term": "Lokoso",
+      "portuguese_translation": "Salgado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lokoso-1 — https://www.kimbundu.org/pt/word/lokoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14122,
+      "kimbundu_term": "Lóla",
+      "portuguese_translation": "Pov. e sede do posto da circ. civ. da Bibala, distr. de Mossâmedes, 5.776 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lóla-1 — https://www.kimbundu.org/pt/word/lola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14123,
+      "kimbundu_term": "Lólo",
+      "portuguese_translation": "pron. demonstr. Esse",
+      "definition": null,
+      "alternative_meanings": [
+        "essa"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lólo-1 — https://www.kimbundu.org/pt/word/lolo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
