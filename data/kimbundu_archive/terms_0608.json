@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6184,
+      "kimbundu_term": "Kisóko",
+      "portuguese_translation": "Competidor",
+      "definition": null,
+      "alternative_meanings": [
+        "antagonista",
+        "adversário"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisóko-1 — https://www.kimbundu.org/pt/word/kisoko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6185,
+      "kimbundu_term": "Kisóko",
+      "portuguese_translation": "Disputar",
+      "definition": null,
+      "alternative_meanings": [
+        "competir"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisóko-1 — https://www.kimbundu.org/pt/word/kisoko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6186,
+      "kimbundu_term": "Kisóko",
+      "portuguese_translation": "Aliar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer regata",
+        "Disputar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisóko-1 — https://www.kimbundu.org/pt/word/kisoko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6187,
+      "kimbundu_term": "Kisokola",
+      "portuguese_translation": "(III) Alabarda",
+      "definition": null,
+      "alternative_meanings": [
+        "archa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisokola-1 — https://www.kimbundu.org/pt/word/kisokola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6188,
+      "kimbundu_term": "Kisokolo",
+      "portuguese_translation": "(III) Sílex",
+      "definition": null,
+      "alternative_meanings": [
+        "pedra de ferir lume"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisokolo-1 — https://www.kimbundu.org/pt/word/kisokolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6189,
+      "kimbundu_term": "Kisokosoko",
+      "portuguese_translation": "(III) Sincipúcio",
+      "definition": null,
+      "alternative_meanings": [
+        "cocuruto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisokosoko-1 — https://www.kimbundu.org/pt/word/kisokosoko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6190,
+      "kimbundu_term": "Kisokosoko",
+      "portuguese_translation": "Fontanela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisokosoko-1 — https://www.kimbundu.org/pt/word/kisokosoko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6191,
+      "kimbundu_term": "Kisokosoko",
+      "portuguese_translation": "Cimo",
+      "definition": null,
+      "alternative_meanings": [
+        "cume"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisokosoko-1 — https://www.kimbundu.org/pt/word/kisokosoko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6192,
+      "kimbundu_term": "Kisóla",
+      "portuguese_translation": "(III) Nume tutelar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisóla-1 — https://www.kimbundu.org/pt/word/kisola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6193,
+      "kimbundu_term": "Kisole",
+      "portuguese_translation": "(III) Escolhido",
+      "definition": null,
+      "alternative_meanings": [
+        "distinguido"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisole-1 — https://www.kimbundu.org/pt/word/kisole",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
