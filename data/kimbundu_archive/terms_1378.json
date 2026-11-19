@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13884,
+      "kimbundu_term": "Kwengi",
+      "portuguese_translation": "Outra",
+      "definition": null,
+      "alternative_meanings": [
+        "outro",
+        "distinto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwengi-1 — https://www.kimbundu.org/pt/word/kwengi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13885,
+      "kimbundu_term": "Kwengi",
+      "portuguese_translation": "Em outra parte ou lugar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwengi-1 — https://www.kimbundu.org/pt/word/kwengi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13886,
+      "kimbundu_term": "Kwenu",
+      "portuguese_translation": "e pron. poss. pl. (contr. da prep. kua e do pron. pess. enu). Vossa",
+      "definition": null,
+      "alternative_meanings": [
+        "vosso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwenu-1 — https://www.kimbundu.org/pt/word/kwenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13887,
+      "kimbundu_term": "Kwenu",
+      "portuguese_translation": "De vós",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwenu-1 — https://www.kimbundu.org/pt/word/kwenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13888,
+      "kimbundu_term": "Kwenu",
+      "portuguese_translation": "Convosco",
+      "definition": null,
+      "alternative_meanings": [
+        "de vossa parte"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwenu-1 — https://www.kimbundu.org/pt/word/kwenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13889,
+      "kimbundu_term": "Kwenu",
+      "portuguese_translation": "Para vós",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwenu-1 — https://www.kimbundu.org/pt/word/kwenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13890,
+      "kimbundu_term": "Kwenu",
+      "portuguese_translation": "De vós próprios",
+      "definition": null,
+      "alternative_meanings": [
+        "de mais ninguém"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwenu-1 — https://www.kimbundu.org/pt/word/kwenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13891,
+      "kimbundu_term": "Kwetu",
+      "portuguese_translation": "e pron. poss. (contr. da prep. kua e do pron. pess. etu). Nossa",
+      "definition": null,
+      "alternative_meanings": [
+        "nosso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwetu-1 — https://www.kimbundu.org/pt/word/kwetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13892,
+      "kimbundu_term": "Kwetu",
+      "portuguese_translation": "De nossa parte",
+      "definition": null,
+      "alternative_meanings": [
+        "do país em que nascemos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwetu-1 — https://www.kimbundu.org/pt/word/kwetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13893,
+      "kimbundu_term": "Kwetu",
+      "portuguese_translation": "De ou para nós",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwetu-1 — https://www.kimbundu.org/pt/word/kwetu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
