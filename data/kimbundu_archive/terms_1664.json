@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16744,
+      "kimbundu_term": "Múlu",
+      "portuguese_translation": "Em cima",
+      "definition": null,
+      "alternative_meanings": [
+        "ao alto"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múlu-2 — https://www.kimbundu.org/pt/word/mulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16745,
+      "kimbundu_term": "Muluángu",
+      "portuguese_translation": "Natural de Luango. Sub.: Operário que trabalha em ferraria",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muluángu-1 — https://www.kimbundu.org/pt/word/muluangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16746,
+      "kimbundu_term": "Muludiki",
+      "portuguese_translation": "Fazedor",
+      "definition": null,
+      "alternative_meanings": [
+        "arranjador",
+        "Fator",
+        "armador"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muludiki-1 — https://www.kimbundu.org/pt/word/muludiki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16747,
+      "kimbundu_term": "Múlui",
+      "portuguese_translation": "Lutador",
+      "definition": null,
+      "alternative_meanings": [
+        "guerreador, combatente. Aquele que tem ânimo guerreiro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múlui-1 — https://www.kimbundu.org/pt/word/mului",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16748,
+      "kimbundu_term": "Mulúke",
+      "portuguese_translation": "Nomeador",
+      "definition": null,
+      "alternative_meanings": [
+        "designador. Alcunhador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulúke-1 — https://www.kimbundu.org/pt/word/muluke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16749,
+      "kimbundu_term": "Mulûlu",
+      "portuguese_translation": "(I) Bisneto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulûlu-1 — https://www.kimbundu.org/pt/word/mululu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16750,
+      "kimbundu_term": "Mulûlu",
+      "portuguese_translation": "(II) bot. Planta fam. das compostas (Vernonia senegalensis) de cujas sementes e casca das raízes se empregam na cura de",
+      "definition": null,
+      "alternative_meanings": [
+        "centaurea"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulûlu-1 — https://www.kimbundu.org/pt/word/mululu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16751,
+      "kimbundu_term": "Mulûlu",
+      "portuguese_translation": "Planta medicinal contra as febres",
+      "definition": null,
+      "alternative_meanings": [
+        "Genciana",
+        "centaurea"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulûlu-1 — https://www.kimbundu.org/pt/word/mululu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16752,
+      "kimbundu_term": "Mululúdi",
+      "portuguese_translation": "Congraçador",
+      "definition": null,
+      "alternative_meanings": [
+        "reconciliador. Aquele que faz harmonizar pessoas desavindas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mululúdi-1 — https://www.kimbundu.org/pt/word/mululudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16753,
+      "kimbundu_term": "Mululute",
+      "portuguese_translation": "Errante",
+      "definition": null,
+      "alternative_meanings": [
+        "que anda sem destino. Vagabundo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mululute-1 — https://www.kimbundu.org/pt/word/mululute",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
