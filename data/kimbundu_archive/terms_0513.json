@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5234,
+      "kimbundu_term": "Kikole",
+      "portuguese_translation": "Agravoso",
+      "definition": null,
+      "alternative_meanings": [
+        "vexatório",
+        "Que causa tristeza, luto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikole-1 — https://www.kimbundu.org/pt/word/kikole",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5235,
+      "kimbundu_term": "Kikole",
+      "portuguese_translation": "Arbusto de caules volúveis, flores inteiras e frutos perpendiculares",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikole-1 — https://www.kimbundu.org/pt/word/kikole",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5236,
+      "kimbundu_term": "Kikólo",
+      "portuguese_translation": "Desfiladeiro",
+      "definition": null,
+      "alternative_meanings": [
+        "vale",
+        "O cavado das águas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikólo-1 — https://www.kimbundu.org/pt/word/kikolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5237,
+      "kimbundu_term": "Kikólo",
+      "portuguese_translation": "Lugar ou casa onde se pratica a circuncisão (no Bengo). É mais usado no pl. ikólo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikólo-1 — https://www.kimbundu.org/pt/word/kikolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5238,
+      "kimbundu_term": "Kikólo",
+      "portuguese_translation": "Sabugo de milho (nos Dembos)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikólo-1 — https://www.kimbundu.org/pt/word/kikolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5239,
+      "kimbundu_term": "Kikolokôko",
+      "portuguese_translation": "Grade ou cesto para transportar aves de capoeira",
+      "definition": null,
+      "alternative_meanings": [
+        "Gaiola"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikolokôko-1 — https://www.kimbundu.org/pt/word/kikolokoko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5240,
+      "kimbundu_term": "Kikolokolo",
+      "portuguese_translation": "Cachaço",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikolokolo-1 — https://www.kimbundu.org/pt/word/kikolokolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5241,
+      "kimbundu_term": "Kikolokolo",
+      "portuguese_translation": "Caluga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikolokolo-1 — https://www.kimbundu.org/pt/word/kikolokolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5242,
+      "kimbundu_term": "Kikololo",
+      "portuguese_translation": "Instrumento que raspa",
+      "definition": null,
+      "alternative_meanings": [
+        "Raspilha",
+        "Raspadeira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikololo-1 — https://www.kimbundu.org/pt/word/kikololo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5243,
+      "kimbundu_term": "Kikoloto",
+      "portuguese_translation": "Dor de umbigo",
+      "definition": null,
+      "alternative_meanings": [
+        "Dor ou doença de barriga"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikoloto-1 — https://www.kimbundu.org/pt/word/kikoloto",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
