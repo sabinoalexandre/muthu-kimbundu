@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2404,
+      "kimbundu_term": "Iú",
+      "portuguese_translation": "e pron. demonstr. designativo da pessoa ou coisa que está presente, ou mais próxima de quem fala ou de que se falou em ú",
+      "definition": null,
+      "alternative_meanings": [
+        "Este",
+        "esta"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iú-1 — https://www.kimbundu.org/pt/word/iu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2405,
+      "kimbundu_term": "Iú",
+      "portuguese_translation": "Ora",
+      "definition": null,
+      "alternative_meanings": [
+        "umas vezes"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iú-2 — https://www.kimbundu.org/pt/word/iu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2406,
+      "kimbundu_term": "Iú",
+      "portuguese_translation": "Eil-o",
+      "definition": null,
+      "alternative_meanings": [
+        "eil-a. pron. À ele",
+        "a ela",
+        "Lhe"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iú-2 — https://www.kimbundu.org/pt/word/iu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2407,
+      "kimbundu_term": "Iúba",
+      "portuguese_translation": "Diz-se dos irmãos filhos da mesma mãe mas não do mesmo pai",
+      "definition": null,
+      "alternative_meanings": [
+        "Uterinos",
+        "De mãe"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iúba-1 — https://www.kimbundu.org/pt/word/iuba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2408,
+      "kimbundu_term": "Íuikilu",
+      "portuguese_translation": "Aparas",
+      "definition": null,
+      "alternative_meanings": [
+        "O que serve para acender o lume",
+        "Acendalhas",
+        "Acendedores"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, íuikilu-1 — https://www.kimbundu.org/pt/word/iuikilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2409,
+      "kimbundu_term": "Ivalelu",
+      "portuguese_translation": "Roupas de que a parturiente se serviu",
+      "definition": null,
+      "alternative_meanings": [
+        "Os primeiros lençóis que cobriram um recém-nascido",
+        "Fazendas utilizadas no parto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ivalelu-1 — https://www.kimbundu.org/pt/word/ivalelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2410,
+      "kimbundu_term": "Ívunzu",
+      "portuguese_translation": "Fezes",
+      "definition": null,
+      "alternative_meanings": [
+        "Lia de líquidos",
+        "Borra",
+        "O que faz toldar ou turvar o vinho",
+        "Tolda"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ívunzu-1 — https://www.kimbundu.org/pt/word/ivunzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2411,
+      "kimbundu_term": "Ivwa",
+      "portuguese_translation": "Nove",
+      "definition": null,
+      "alternative_meanings": [
+        "Oito mais um",
+        "Aquele que numa série ocupa o nono lugar"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ivwa-1 — https://www.kimbundu.org/pt/word/ivwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2412,
+      "kimbundu_term": "Ivwa",
+      "portuguese_translation": "Ouça! Atende",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ivwa-1 — https://www.kimbundu.org/pt/word/ivwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2413,
+      "kimbundu_term": "Ivwa",
+      "portuguese_translation": "Silêncio com que se ouve",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ivwa-1 — https://www.kimbundu.org/pt/word/ivwa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
