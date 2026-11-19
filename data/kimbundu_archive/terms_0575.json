@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5854,
+      "kimbundu_term": "Kinjóngo",
+      "portuguese_translation": "Famélico",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinjóngo-1 — https://www.kimbundu.org/pt/word/kinjongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5855,
+      "kimbundu_term": "Kinjônjo",
+      "portuguese_translation": "Beliscão",
+      "definition": null,
+      "alternative_meanings": [
+        "unhada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinjônjo-1 — https://www.kimbundu.org/pt/word/kinjonjo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5856,
+      "kimbundu_term": "Kinjoto",
+      "portuguese_translation": "Estorcegadura. Beliscão (dado retorcendo a pele com as unhas)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinjoto-1 — https://www.kimbundu.org/pt/word/kinjoto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5857,
+      "kimbundu_term": "Kinjoto",
+      "portuguese_translation": "Estorcegar. Ferir levemente (com as unhas)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinjoto-1 — https://www.kimbundu.org/pt/word/kinjoto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5858,
+      "kimbundu_term": "Kinjúmbu",
+      "portuguese_translation": "Mortificação",
+      "definition": null,
+      "alternative_meanings": [
+        "castigo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinjúmbu-1 — https://www.kimbundu.org/pt/word/kinjumbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5859,
+      "kimbundu_term": "Kinôno",
+      "portuguese_translation": "Carepa. Luzimento que se manifesta pela resumação no rosto de algumas pessoas. p. ext. Suor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinôno-1 — https://www.kimbundu.org/pt/word/kinono",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5860,
+      "kimbundu_term": "Kinôno",
+      "portuguese_translation": "adj. Careposo. Que tem caspa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinôno-1 — https://www.kimbundu.org/pt/word/kinono",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5861,
+      "kimbundu_term": "Kinototo",
+      "portuguese_translation": "Friagem",
+      "definition": null,
+      "alternative_meanings": [
+        "Frialdade",
+        "O que é frio",
+        "fig. Gelo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinototo-1 — https://www.kimbundu.org/pt/word/kinototo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5862,
+      "kimbundu_term": "Kinu",
+      "portuguese_translation": "Gral",
+      "definition": null,
+      "alternative_meanings": [
+        "almofariz",
+        "Vaso para triturar com pilão., almofariz onde se trituram ervas e prepara o juramento do mbulungu"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinu-1 — https://www.kimbundu.org/pt/word/kinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5863,
+      "kimbundu_term": "Kînue",
+      "portuguese_translation": "Potável",
+      "definition": null,
+      "alternative_meanings": [
+        "bebível",
+        "Bom para beber"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kînue-1 — https://www.kimbundu.org/pt/word/kinue",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
