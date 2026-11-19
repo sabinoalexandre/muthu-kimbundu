@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3784,
+      "kimbundu_term": "Kana",
+      "portuguese_translation": "de neg. Não",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo, preposição, adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kana-1 — https://www.kimbundu.org/pt/word/kana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3785,
+      "kimbundu_term": "Kana",
+      "portuguese_translation": "Recusa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo, preposição, adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kana-1 — https://www.kimbundu.org/pt/word/kana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3786,
+      "kimbundu_term": "Kana",
+      "portuguese_translation": "Prep. que indica carência, privação ou ausência",
+      "definition": null,
+      "alternative_meanings": [
+        "Sem"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo, preposição, adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kana-1 — https://www.kimbundu.org/pt/word/kana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3787,
+      "kimbundu_term": "Kana",
+      "portuguese_translation": "Adj. e pron. demonstr. que designa (a coisinha) que está afastada daquele com [quem se fala",
+      "definition": null,
+      "alternative_meanings": [
+        "Aquela",
+        "aquêle.]"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo, preposição, adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kana-1 — https://www.kimbundu.org/pt/word/kana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3788,
+      "kimbundu_term": "Kana",
+      "portuguese_translation": "quem se fala: kahombo—kanete",
+      "definition": null,
+      "alternative_meanings": [
+        "Aquela",
+        "aquele"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo, preposição, adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kana-1 — https://www.kimbundu.org/pt/word/kana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3789,
+      "kimbundu_term": "Kaná",
+      "portuguese_translation": "Não",
+      "definition": null,
+      "alternative_meanings": [
+        "nunca",
+        "Não pode ser"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaná-1 — https://www.kimbundu.org/pt/word/kana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3790,
+      "kimbundu_term": "Kaná",
+      "portuguese_translation": "Prep. que denota abstenção",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaná-1 — https://www.kimbundu.org/pt/word/kana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3791,
+      "kimbundu_term": "Kaná",
+      "portuguese_translation": "absolutamente. (Mais correto, porém menos us.)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaná-1 — https://www.kimbundu.org/pt/word/kana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3792,
+      "kimbundu_term": "Kaná",
+      "portuguese_translation": "não há",
+      "definition": null,
+      "alternative_meanings": [
+        "não tem"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaná-1 — https://www.kimbundu.org/pt/word/kana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3793,
+      "kimbundu_term": "Kanâke",
+      "portuguese_translation": "(IX) Oitavo. Que está em oitavo lugar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanâke-1 — https://www.kimbundu.org/pt/word/kanake",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
