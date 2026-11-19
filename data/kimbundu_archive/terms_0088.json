@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 984,
+      "kimbundu_term": "Díkosa",
+      "portuguese_translation": "Camarão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, díkosa-1 — https://www.kimbundu.org/pt/word/dikosa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 985,
+      "kimbundu_term": "Dikóso",
+      "portuguese_translation": "Remédio arranjado pelo kimbundu, para aliviar o doente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikóso-1 — https://www.kimbundu.org/pt/word/dikoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 986,
+      "kimbundu_term": "Dikóso",
+      "portuguese_translation": "Lenitivo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikóso-1 — https://www.kimbundu.org/pt/word/dikoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 987,
+      "kimbundu_term": "Dikota",
+      "portuguese_translation": "O mais velho",
+      "definition": null,
+      "alternative_meanings": [
+        "o primeiro na ordem de sucessão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikota-1 — https://www.kimbundu.org/pt/word/dikota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 988,
+      "kimbundu_term": "Dikota",
+      "portuguese_translation": "Maior",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikota-1 — https://www.kimbundu.org/pt/word/dikota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 989,
+      "kimbundu_term": "Dikota",
+      "portuguese_translation": "Número excedente a metade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikota-1 — https://www.kimbundu.org/pt/word/dikota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 990,
+      "kimbundu_term": "Dikota",
+      "portuguese_translation": "Maioral",
+      "definition": null,
+      "alternative_meanings": [
+        "superior"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikota-1 — https://www.kimbundu.org/pt/word/dikota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 991,
+      "kimbundu_term": "Dikoua",
+      "portuguese_translation": "Pigmento",
+      "definition": null,
+      "alternative_meanings": [
+        "cutis",
+        "ria mundombe. A cor do rosto",
+        "tez"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikoua-1 — https://www.kimbundu.org/pt/word/dikoua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 992,
+      "kimbundu_term": "Dikoua",
+      "portuguese_translation": "Tintura",
+      "definition": null,
+      "alternative_meanings": [
+        "colorido"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikoua-1 — https://www.kimbundu.org/pt/word/dikoua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 993,
+      "kimbundu_term": "Dikoua",
+      "portuguese_translation": "Peixe azul",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikoua-1 — https://www.kimbundu.org/pt/word/dikoua",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
