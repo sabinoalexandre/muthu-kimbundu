@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8874,
+      "kimbundu_term": "Kuimisa",
+      "portuguese_translation": "Fazer produzir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuimisa-1 — https://www.kimbundu.org/pt/word/kuimisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8875,
+      "kimbundu_term": "Kuimisa",
+      "portuguese_translation": "Tornar viçoso",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer dar frutos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuimisa-1 — https://www.kimbundu.org/pt/word/kuimisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8876,
+      "kimbundu_term": "Kuimitisa",
+      "portuguese_translation": "Emprenhar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer conceber"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuimitisa-1 — https://www.kimbundu.org/pt/word/kuimitisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8877,
+      "kimbundu_term": "Kuimitisa",
+      "portuguese_translation": "Kurimitisa, v. r. Fazer-se emprenhar (a fêmea)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuimitisa-1 — https://www.kimbundu.org/pt/word/kuimitisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8878,
+      "kimbundu_term": "Kuimuna",
+      "portuguese_translation": "Avaliar",
+      "definition": null,
+      "alternative_meanings": [
+        "alvitrar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuimuna-1 — https://www.kimbundu.org/pt/word/kuimuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8879,
+      "kimbundu_term": "Kuimuna",
+      "portuguese_translation": "Dar parecer, conselho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuimuna-1 — https://www.kimbundu.org/pt/word/kuimuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8880,
+      "kimbundu_term": "Kuingina",
+      "portuguese_translation": "Aflorar",
+      "definition": null,
+      "alternative_meanings": [
+        "rebentar, aparecer (à superfície)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuingina-1 — https://www.kimbundu.org/pt/word/kuingina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8881,
+      "kimbundu_term": "Kuingina",
+      "portuguese_translation": "Principiar a manifestar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuingina-1 — https://www.kimbundu.org/pt/word/kuingina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8882,
+      "kimbundu_term": "Kuinginina",
+      "portuguese_translation": "Voltear",
+      "definition": null,
+      "alternative_meanings": [
+        "girar",
+        "agitar-se à roda de",
+        "Tumultuar (rodopiando)",
+        "Zumbir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuinginina-1 — https://www.kimbundu.org/pt/word/kuinginina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8883,
+      "kimbundu_term": "Kuinginina",
+      "portuguese_translation": "Esvoaçar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuinginina-1 — https://www.kimbundu.org/pt/word/kuinginina",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
