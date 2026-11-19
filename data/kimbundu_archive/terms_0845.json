@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8554,
+      "kimbundu_term": "Kufulukisa",
+      "portuguese_translation": "Fazer levantar fervura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufulukisa-1 — https://www.kimbundu.org/pt/word/kufulukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8555,
+      "kimbundu_term": "Kufulula",
+      "portuguese_translation": "Pôr a ferver",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufulula-1 — https://www.kimbundu.org/pt/word/kufulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8556,
+      "kimbundu_term": "Kufulula",
+      "portuguese_translation": "Agitar (o líquido) a ponto de fazer espuma",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufulula-1 — https://www.kimbundu.org/pt/word/kufulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8557,
+      "kimbundu_term": "Kufulula",
+      "portuguese_translation": "Dar cordial",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer vir a si"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufulula-1 — https://www.kimbundu.org/pt/word/kufulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8558,
+      "kimbundu_term": "Kufulumuna",
+      "portuguese_translation": "Destapar",
+      "definition": null,
+      "alternative_meanings": [
+        "descobrir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufulumuna-1 — https://www.kimbundu.org/pt/word/kufulumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8559,
+      "kimbundu_term": "Kufulumuna",
+      "portuguese_translation": "Kurifulumuna, e r. Destapar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufulumuna-1 — https://www.kimbundu.org/pt/word/kufulumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8560,
+      "kimbundu_term": "Kufumala",
+      "portuguese_translation": "Fumar",
+      "definition": null,
+      "alternative_meanings": [
+        "defumar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufumala-1 — https://www.kimbundu.org/pt/word/kufumala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8561,
+      "kimbundu_term": "Kufumana",
+      "portuguese_translation": "Correr boato, notícia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufumana-1 — https://www.kimbundu.org/pt/word/kufumana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8562,
+      "kimbundu_term": "Kufumana",
+      "portuguese_translation": "Ter fama (boa ou má)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufumana-1 — https://www.kimbundu.org/pt/word/kufumana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8563,
+      "kimbundu_term": "Kufumana",
+      "portuguese_translation": "Ser tido e havido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufumana-1 — https://www.kimbundu.org/pt/word/kufumana",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
