@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1904,
+      "kimbundu_term": "Hule",
+      "portuguese_translation": "Diz-se do escravo que se libertou ou foi libertado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hule-1 — https://www.kimbundu.org/pt/word/hule",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1905,
+      "kimbundu_term": "Hulukáji",
+      "portuguese_translation": "Dez vezes cem",
+      "definition": null,
+      "alternative_meanings": [
+        "Mil"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hulukáji-1 — https://www.kimbundu.org/pt/word/hulukaji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1906,
+      "kimbundu_term": "Hulukáji",
+      "portuguese_translation": "Grupo de mil unidades",
+      "definition": null,
+      "alternative_meanings": [
+        "Milhar",
+        "O número mil",
+        "fig. Um grande número"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hulukáji-1 — https://www.kimbundu.org/pt/word/hulukaji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1907,
+      "kimbundu_term": "Hulukubua",
+      "portuguese_translation": "Espécie de lagarto que prefere os lugares húmidos",
+      "definition": null,
+      "alternative_meanings": [
+        "Salamandra",
+        "Lagarto das pedras"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hulukubua-1 — https://www.kimbundu.org/pt/word/hulukubua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1908,
+      "kimbundu_term": "Hulukúku",
+      "portuguese_translation": "Comida (mantimentos, cereais e frutas) que, no dia do óbito do lavrador, se come e se distribui aos presentes ao funeral",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hulukúku-1 — https://www.kimbundu.org/pt/word/hulukuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1909,
+      "kimbundu_term": "Hulungu",
+      "portuguese_translation": "Doença que consiste na destruição ou apodrecimento de determinada parte do corpo",
+      "definition": null,
+      "alternative_meanings": [
+        "Doença que ataca e destrói os dedos das mãos ou dos pés",
+        "Úlcera",
+        "Gangrena",
+        "fig. Quisília"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hulungu-1 — https://www.kimbundu.org/pt/word/hulungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1910,
+      "kimbundu_term": "Humba",
+      "portuguese_translation": "Vasilha feita de coiro de certos animais para condução de líquidos",
+      "definition": null,
+      "alternative_meanings": [
+        "Odre"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, humba-1 — https://www.kimbundu.org/pt/word/humba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1911,
+      "kimbundu_term": "Humba",
+      "portuguese_translation": "Saco de coiro para sólidos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, humba-1 — https://www.kimbundu.org/pt/word/humba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1912,
+      "kimbundu_term": "Humba",
+      "portuguese_translation": "Árvore dicotiledónea da família das leguminosas, conhecida no Seles por este nome",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, humba-1 — https://www.kimbundu.org/pt/word/humba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1913,
+      "kimbundu_term": "Húmbi",
+      "portuguese_translation": "Dilatação permanente e mórbida de uma veia causada por acumulação do sangue no seu interior",
+      "definition": null,
+      "alternative_meanings": [
+        "Variz"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, húmbi-1 — https://www.kimbundu.org/pt/word/humbi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
