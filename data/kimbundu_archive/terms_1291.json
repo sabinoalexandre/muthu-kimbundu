@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13014,
+      "kimbundu_term": "Kuvungununa",
+      "portuguese_translation": "Kurivungununa, v. r. Limpar-se de nuvens",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvungununa-1 — https://www.kimbundu.org/pt/word/kuvungununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13015,
+      "kimbundu_term": "Kuvunguta",
+      "portuguese_translation": "Ondear",
+      "definition": null,
+      "alternative_meanings": [
+        "flutuar",
+        "ir serpenteando"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvunguta-1 — https://www.kimbundu.org/pt/word/kuvunguta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13016,
+      "kimbundu_term": "Kuvunguta",
+      "portuguese_translation": "Movimento ondeante",
+      "definition": null,
+      "alternative_meanings": [
+        "Ato de ondular"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvunguta-1 — https://www.kimbundu.org/pt/word/kuvunguta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13017,
+      "kimbundu_term": "Kuvungutisa",
+      "portuguese_translation": "Fazer ondular, flutuar",
+      "definition": null,
+      "alternative_meanings": [
+        "Tornar onduloso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvungutisa-1 — https://www.kimbundu.org/pt/word/kuvungutisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13018,
+      "kimbundu_term": "Kúvunza",
+      "portuguese_translation": "Turvar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar escuro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúvunza-1 — https://www.kimbundu.org/pt/word/kuvunza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13019,
+      "kimbundu_term": "Kúvunza",
+      "portuguese_translation": "Enredar",
+      "definition": null,
+      "alternative_meanings": [
+        "atrapalhar",
+        "estabelecer confusão"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúvunza-1 — https://www.kimbundu.org/pt/word/kuvunza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13020,
+      "kimbundu_term": "Kúvunza",
+      "portuguese_translation": "Desordenar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúvunza-1 — https://www.kimbundu.org/pt/word/kuvunza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13021,
+      "kimbundu_term": "Kuvunzuka",
+      "portuguese_translation": "Turvejar, estar toldado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvunzuka-1 — https://www.kimbundu.org/pt/word/kuvunzuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13022,
+      "kimbundu_term": "Kuvunzuka",
+      "portuguese_translation": "Turvação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvunzuka-1 — https://www.kimbundu.org/pt/word/kuvunzuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13023,
+      "kimbundu_term": "Kuvunzula",
+      "portuguese_translation": "Toldar",
+      "definition": null,
+      "alternative_meanings": [
+        "turbar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvunzula-1 — https://www.kimbundu.org/pt/word/kuvunzula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
