@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2244,
+      "kimbundu_term": "Iphaka",
+      "portuguese_translation": "Nome do lugar fronteiro à estação do C. de F., ao Bungo, em Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, topografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iphaka-1 — https://www.kimbundu.org/pt/word/iphaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2245,
+      "kimbundu_term": "Ipheteka",
+      "portuguese_translation": "(III) Magicarias",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ipheteka-1 — https://www.kimbundu.org/pt/word/ipheteka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2246,
+      "kimbundu_term": "Ipheteka",
+      "portuguese_translation": "imposturas",
+      "definition": null,
+      "alternative_meanings": [
+        "Artifícios para enganar",
+        "Modos, linguagem e processos de charlatão",
+        "Charlatanarias"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ipheteka-1 — https://www.kimbundu.org/pt/word/ipheteka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2247,
+      "kimbundu_term": "Ípi",
+      "portuguese_translation": "Corda delgada que serve para atar",
+      "definition": null,
+      "alternative_meanings": [
+        "Baraço, cordel",
+        "Baraça",
+        "Atilho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ípi-1 — https://www.kimbundu.org/pt/word/ipi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2248,
+      "kimbundu_term": "Ipóta",
+      "portuguese_translation": "Humores viscosos que saem dos olhos",
+      "definition": null,
+      "alternative_meanings": [
+        "Ramela",
+        "Pús"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ipóta-1 — https://www.kimbundu.org/pt/word/ipota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2249,
+      "kimbundu_term": "Ipumuna",
+      "portuguese_translation": "Articulações",
+      "definition": null,
+      "alternative_meanings": [
+        "Dobradiças",
+        "Joelhos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ipumuna-1 — https://www.kimbundu.org/pt/word/ipumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2250,
+      "kimbundu_term": "Isába",
+      "portuguese_translation": "Encantamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, isába-1 — https://www.kimbundu.org/pt/word/isaba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2251,
+      "kimbundu_term": "Ísala",
+      "portuguese_translation": "As penas das aves",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ísala-1 — https://www.kimbundu.org/pt/word/isala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2252,
+      "kimbundu_term": "Isálale",
+      "portuguese_translation": "Ramos de palmeira ou coqueiro que simbolizam o martírio, o tempo, a glória",
+      "definition": null,
+      "alternative_meanings": [
+        "Palmas, que servem de ornamento a bazares, kermesses e outros"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, isálale-1 — https://www.kimbundu.org/pt/word/isalale",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2253,
+      "kimbundu_term": "Isálale",
+      "portuguese_translation": "lugares festivos",
+      "definition": null,
+      "alternative_meanings": [
+        "Ramagem",
+        "rama"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, isálale-1 — https://www.kimbundu.org/pt/word/isalale",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
