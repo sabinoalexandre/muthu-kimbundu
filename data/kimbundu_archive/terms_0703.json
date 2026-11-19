@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7134,
+      "kimbundu_term": "Kubanzela",
+      "portuguese_translation": "Kuribanzela Meditar, pensar por si",
+      "definition": null,
+      "alternative_meanings": [
+        "Considerar, tomar para si uma resolução",
+        "Imaginar sem concurso estranho"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubanzela-1 — https://www.kimbundu.org/pt/word/kubanzela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7135,
+      "kimbundu_term": "Kubanzesa",
+      "portuguese_translation": "Fazer imaginar, pensar, refletir",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer ter ideias"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubanzesa-1 — https://www.kimbundu.org/pt/word/kubanzesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7136,
+      "kimbundu_term": "Kubása",
+      "portuguese_translation": "Rachar",
+      "definition": null,
+      "alternative_meanings": [
+        "fender",
+        "abrir de meio a meio"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubása-1 — https://www.kimbundu.org/pt/word/kubasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7137,
+      "kimbundu_term": "Kubása",
+      "portuguese_translation": "Lenhar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubása-1 — https://www.kimbundu.org/pt/word/kubasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7138,
+      "kimbundu_term": "Kubasakasa",
+      "portuguese_translation": "Estar achatado, largo para os lados",
+      "definition": null,
+      "alternative_meanings": [
+        "estar ou ficar em forma de tábua"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubasakasa-1 — https://www.kimbundu.org/pt/word/kubasakasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7139,
+      "kimbundu_term": "Kubasujuka",
+      "portuguese_translation": "Despedaçar-se aos poucos",
+      "definition": null,
+      "alternative_meanings": [
+        "quebrar-se pouco a pouco",
+        "partir-se em muitos bocados",
+        "ficar em pedaços"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubasujuka-1 — https://www.kimbundu.org/pt/word/kubasujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7140,
+      "kimbundu_term": "Kubasujula",
+      "portuguese_translation": "Ir quebrando aos poucos",
+      "definition": null,
+      "alternative_meanings": [
+        "despedaçar ou reduzir em bocados",
+        "escaqueirar",
+        "fazer em lascas",
+        "repartir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubasujula-1 — https://www.kimbundu.org/pt/word/kubasujula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7141,
+      "kimbundu_term": "Kubasujula",
+      "portuguese_translation": "Kuribasujula, e r. Lascar-se aos poucos",
+      "definition": null,
+      "alternative_meanings": [
+        "reduzir-se aos bocados"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubasujula-1 — https://www.kimbundu.org/pt/word/kubasujula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7142,
+      "kimbundu_term": "Kubasuka",
+      "portuguese_translation": "Quebrar-se (por si)",
+      "definition": null,
+      "alternative_meanings": [
+        "ficar ou estar lascado, quebrado (numa pequena parte)",
+        "sair um pedaço (de uma peça de louça ou barro)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubasuka-1 — https://www.kimbundu.org/pt/word/kubasuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7143,
+      "kimbundu_term": "Kubasula",
+      "portuguese_translation": "Tirar uma lasca de",
+      "definition": null,
+      "alternative_meanings": [
+        "quebrar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubasula-1 — https://www.kimbundu.org/pt/word/kubasula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
