@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10264,
+      "kimbundu_term": "Kulokoka",
+      "portuguese_translation": "Soltar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "desprender-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulokoka-1 — https://www.kimbundu.org/pt/word/kulokoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10265,
+      "kimbundu_term": "Kulokola",
+      "portuguese_translation": "Deitar fora",
+      "definition": null,
+      "alternative_meanings": [
+        "deixar sair (o que se tem na boca)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulokola-1 — https://www.kimbundu.org/pt/word/kulokola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10266,
+      "kimbundu_term": "Kulokola",
+      "portuguese_translation": "Lançar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulokola-1 — https://www.kimbundu.org/pt/word/kulokola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10267,
+      "kimbundu_term": "Kulokola",
+      "portuguese_translation": "Pagar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulokola-1 — https://www.kimbundu.org/pt/word/kulokola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10268,
+      "kimbundu_term": "Kulokolola",
+      "portuguese_translation": "Desembuchar",
+      "definition": null,
+      "alternative_meanings": [
+        "desabafar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulokolola-1 — https://www.kimbundu.org/pt/word/kulokolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10269,
+      "kimbundu_term": "Kulokolola",
+      "portuguese_translation": "Acabar de deitar fora (o que se tinha na boca)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulokolola-1 — https://www.kimbundu.org/pt/word/kulokolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10270,
+      "kimbundu_term": "Kulokomoka",
+      "portuguese_translation": "Ficar desconjuntado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulokomoka-1 — https://www.kimbundu.org/pt/word/kulokomoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10271,
+      "kimbundu_term": "Kulokomoka",
+      "portuguese_translation": "Ter (os membros) deslocados",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulokomoka-1 — https://www.kimbundu.org/pt/word/kulokomoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10272,
+      "kimbundu_term": "Kulokomoka",
+      "portuguese_translation": "Sentir-se alquebrado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulokomoka-1 — https://www.kimbundu.org/pt/word/kulokomoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10273,
+      "kimbundu_term": "Kulokomoka",
+      "portuguese_translation": "Desconjuntamento",
+      "definition": null,
+      "alternative_meanings": [
+        "desengonço"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulokomoka-1 — https://www.kimbundu.org/pt/word/kulokomoka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
