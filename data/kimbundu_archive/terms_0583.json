@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5934,
+      "kimbundu_term": "Kiômbo",
+      "portuguese_translation": "Javali",
+      "definition": null,
+      "alternative_meanings": [
+        "porco montês"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiômbo-1 — https://www.kimbundu.org/pt/word/kiombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5935,
+      "kimbundu_term": "Kiondo",
+      "portuguese_translation": "Palavra com que se forma o futuro dos verbos. Há-de (ou kufua)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiondo-1 — https://www.kimbundu.org/pt/word/kiondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5936,
+      "kimbundu_term": "Kiondo",
+      "portuguese_translation": "No momento em que",
+      "definition": null,
+      "alternative_meanings": [
+        "Quando",
+        "Assim que"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiondo-1 — https://www.kimbundu.org/pt/word/kiondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5937,
+      "kimbundu_term": "Kiónga",
+      "portuguese_translation": "Reunião de pessoas (para fim útil). Ajuntamento",
+      "definition": null,
+      "alternative_meanings": [
+        "conferência",
+        "conselho",
+        "Assembleia dos maiores da terra",
+        "Conjunto de pessoas que regem um Estado, uma Nação",
+        "Instituto",
+        "ordem",
+        "Senado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiónga-1 — https://www.kimbundu.org/pt/word/kionga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5938,
+      "kimbundu_term": "Kiónga",
+      "portuguese_translation": "Edifício destinado a alojar soldados",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiónga-1 — https://www.kimbundu.org/pt/word/kionga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5939,
+      "kimbundu_term": "Kióngua",
+      "portuguese_translation": "Nitro",
+      "definition": null,
+      "alternative_meanings": [
+        "salitre. adj. Salitroso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kióngua-1 — https://www.kimbundu.org/pt/word/kiongua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5940,
+      "kimbundu_term": "Kióngua",
+      "portuguese_translation": "Pequena pov. na margem direita do rio Cuanza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kióngua-1 — https://www.kimbundu.org/pt/word/kiongua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5941,
+      "kimbundu_term": "Kióua",
+      "portuguese_translation": "Néscio",
+      "definition": null,
+      "alternative_meanings": [
+        "parvo",
+        "tolo",
+        "Idiota"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kióua-1 — https://www.kimbundu.org/pt/word/kioua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5942,
+      "kimbundu_term": "Kipa",
+      "portuguese_translation": "Sortilégico",
+      "definition": null,
+      "alternative_meanings": [
+        "escamoteação",
+        "magia",
+        "Prestidigitação"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipa-1 — https://www.kimbundu.org/pt/word/kipa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5943,
+      "kimbundu_term": "Kipa",
+      "portuguese_translation": "Planta fam. das leguminosas (tetrapleura andongensis), de propriedades narcóticas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kipa-1 — https://www.kimbundu.org/pt/word/kipa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
