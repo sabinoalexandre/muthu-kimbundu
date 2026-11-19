@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2864,
+      "kimbundu_term": "Jizalata",
+      "portuguese_translation": "Alfaçal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jizalata-1 — https://www.kimbundu.org/pt/word/jizalata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2865,
+      "kimbundu_term": "Jóio",
+      "portuguese_translation": "e demonstr. pl. (IX) Essas",
+      "definition": null,
+      "alternative_meanings": [
+        "esses"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jóio-1 — https://www.kimbundu.org/pt/word/joio",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2866,
+      "kimbundu_term": "Jóio",
+      "portuguese_translation": "Designa pessoas ou coisas que estão próximas daquela com quem se fala",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jóio-1 — https://www.kimbundu.org/pt/word/joio",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2867,
+      "kimbundu_term": "Jóio",
+      "portuguese_translation": "Eis aí",
+      "definition": null,
+      "alternative_meanings": [
+        "aí estão"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jóio-1 — https://www.kimbundu.org/pt/word/joio",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2868,
+      "kimbundu_term": "Jóio",
+      "portuguese_translation": "Ei-los",
+      "definition": null,
+      "alternative_meanings": [
+        "ei-las"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jóio-1 — https://www.kimbundu.org/pt/word/joio",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2869,
+      "kimbundu_term": "Jókótó",
+      "portuguese_translation": "Completamente queimado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jókótó-1 — https://www.kimbundu.org/pt/word/jokoto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2870,
+      "kimbundu_term": "Jondo",
+      "portuguese_translation": "Palavra com que se forma o futuro dos verbos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jondo-1 — https://www.kimbundu.org/pt/word/jondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2871,
+      "kimbundu_term": "Jondo",
+      "portuguese_translation": "Hão-de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jondo-1 — https://www.kimbundu.org/pt/word/jondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2872,
+      "kimbundu_term": "Joso",
+      "portuguese_translation": "(IX) Todos",
+      "definition": null,
+      "alternative_meanings": [
+        "todas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, joso-1 — https://www.kimbundu.org/pt/word/joso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2873,
+      "kimbundu_term": "Joso",
+      "portuguese_translation": "Todas as coisas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, joso-1 — https://www.kimbundu.org/pt/word/joso",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
