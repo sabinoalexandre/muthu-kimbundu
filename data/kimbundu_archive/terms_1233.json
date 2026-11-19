@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12434,
+      "kimbundu_term": "Kutolesa",
+      "portuguese_translation": "Fazer diminuir",
+      "definition": null,
+      "alternative_meanings": [
+        "reduzir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutolesa-1 — https://www.kimbundu.org/pt/word/kutolesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12435,
+      "kimbundu_term": "Kutolesa",
+      "portuguese_translation": "Apoucar",
+      "definition": null,
+      "alternative_meanings": [
+        "amesquinhar",
+        "humilhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutolesa-1 — https://www.kimbundu.org/pt/word/kutolesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12436,
+      "kimbundu_term": "Kutolesa",
+      "portuguese_translation": "Kuritolesa, e r. Rebaixar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "deprimir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutolesa-1 — https://www.kimbundu.org/pt/word/kutolesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12437,
+      "kimbundu_term": "Kutolojola",
+      "portuguese_translation": "Despedaçar",
+      "definition": null,
+      "alternative_meanings": [
+        "partir em muitos bocados"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutolojola-1 — https://www.kimbundu.org/pt/word/kutolojola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12438,
+      "kimbundu_term": "Kutolojola",
+      "portuguese_translation": "Kuritolojola, e r. Requebrar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "gingar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutolojola-1 — https://www.kimbundu.org/pt/word/kutolojola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12439,
+      "kimbundu_term": "Kutolojoxa",
+      "portuguese_translation": "Fazer-se em pedaços",
+      "definition": null,
+      "alternative_meanings": [
+        "partir-se muitas vezes"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutolojoxa-1 — https://www.kimbundu.org/pt/word/kutolojoxa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12440,
+      "kimbundu_term": "Kutolojoxa",
+      "portuguese_translation": "Ficar muito cansado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutolojoxa-1 — https://www.kimbundu.org/pt/word/kutolojoxa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12441,
+      "kimbundu_term": "Kutoloka",
+      "portuguese_translation": "Ter fratura",
+      "definition": null,
+      "alternative_meanings": [
+        "ficar quebrado, partido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutoloka-1 — https://www.kimbundu.org/pt/word/kutoloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12442,
+      "kimbundu_term": "Kutoloka",
+      "portuguese_translation": "Ficar dominado, exausto de forças, vencido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutoloka-1 — https://www.kimbundu.org/pt/word/kutoloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12443,
+      "kimbundu_term": "Kutoloka",
+      "portuguese_translation": "Fratura",
+      "definition": null,
+      "alternative_meanings": [
+        "quebradura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutoloka-1 — https://www.kimbundu.org/pt/word/kutoloka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
