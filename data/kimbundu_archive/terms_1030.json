@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10404,
+      "kimbundu_term": "Kulúla",
+      "portuguese_translation": "Amargor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulúla-1 — https://www.kimbundu.org/pt/word/kulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10405,
+      "kimbundu_term": "Kululama",
+      "portuguese_translation": "Defrontar",
+      "definition": null,
+      "alternative_meanings": [
+        "dar de cara"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kululama-1 — https://www.kimbundu.org/pt/word/kululama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10406,
+      "kimbundu_term": "Kululama",
+      "portuguese_translation": "Defrontação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kululama-1 — https://www.kimbundu.org/pt/word/kululama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10407,
+      "kimbundu_term": "Kululama",
+      "portuguese_translation": "Defronte",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kululama-1 — https://www.kimbundu.org/pt/word/kululama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10408,
+      "kimbundu_term": "Kululama",
+      "portuguese_translation": "Kurilulama, v. r. Pôr-se defronte",
+      "definition": null,
+      "alternative_meanings": [
+        "encarar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kululama-1 — https://www.kimbundu.org/pt/word/kululama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10409,
+      "kimbundu_term": "Kululamesa",
+      "portuguese_translation": "Fazer defrontar, encarar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kululamesa-1 — https://www.kimbundu.org/pt/word/kululamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10410,
+      "kimbundu_term": "Kululamesa",
+      "portuguese_translation": "Kurilulamesa, v. r. Fazer-se defrontar com",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kululamesa-1 — https://www.kimbundu.org/pt/word/kululamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10411,
+      "kimbundu_term": "Kululamesa",
+      "portuguese_translation": "Pôr-se cara a cara",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kululamesa-1 — https://www.kimbundu.org/pt/word/kululamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10412,
+      "kimbundu_term": "Kululúka",
+      "portuguese_translation": "Ficar reconciliado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kululúka-1 — https://www.kimbundu.org/pt/word/kululuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10413,
+      "kimbundu_term": "Kululúka",
+      "portuguese_translation": "Ter as relações restabelecidas com pessoas inimigas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kululúka-1 — https://www.kimbundu.org/pt/word/kululuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
