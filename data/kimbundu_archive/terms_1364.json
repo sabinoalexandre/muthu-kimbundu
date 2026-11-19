@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13744,
+      "kimbundu_term": "Kuzumbúla",
+      "portuguese_translation": "Mandar interromper o trabalho (na hora do descanso ou no fim do dia)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo transitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzumbúla-1 — https://www.kimbundu.org/pt/word/kuzumbula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13745,
+      "kimbundu_term": "Kuzumina",
+      "portuguese_translation": "Roncar, rosnar por",
+      "definition": null,
+      "alternative_meanings": [
+        "Resfolegar",
+        "respirar em",
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo transitivo, verbo intransitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzumina-1 — https://www.kimbundu.org/pt/word/kuzumina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13746,
+      "kimbundu_term": "Kuzúna",
+      "portuguese_translation": "Derriçar",
+      "definition": null,
+      "alternative_meanings": [
+        "descarnar",
+        "arrancar aos bocados"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, iterativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzúna-1 — https://www.kimbundu.org/pt/word/kuzuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13747,
+      "kimbundu_term": "Kuzúna",
+      "portuguese_translation": "Descarnar aos poucos. Arrancar com os dentes muitas vezes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, iterativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzúna-1 — https://www.kimbundu.org/pt/word/kuzuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13748,
+      "kimbundu_term": "Kuzundala",
+      "portuguese_translation": "Estar penalizado, falto de alegria. Estar habitualmente triste",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzundala-1 — https://www.kimbundu.org/pt/word/kuzundala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13749,
+      "kimbundu_term": "Kuzundalala",
+      "portuguese_translation": "Ser de aspeto triste. Estar adoentado. Diz-se das aves quando se mostram encapotadas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzundalala-1 — https://www.kimbundu.org/pt/word/kuzundalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13750,
+      "kimbundu_term": "Kuzunduluka",
+      "portuguese_translation": "Ser de tamanho pouco maior. Ter um pouco mais de volume. Estar um pouco mais desenvolvido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzunduluka-1 — https://www.kimbundu.org/pt/word/kuzunduluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13751,
+      "kimbundu_term": "Kúzunga",
+      "portuguese_translation": "Rodopiar",
+      "definition": null,
+      "alternative_meanings": [
+        "girar. Dar voltas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúzunga-1 — https://www.kimbundu.org/pt/word/kuzunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13752,
+      "kimbundu_term": "Kúzunga",
+      "portuguese_translation": "Ambular",
+      "definition": null,
+      "alternative_meanings": [
+        "circular"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúzunga-1 — https://www.kimbundu.org/pt/word/kuzunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13753,
+      "kimbundu_term": "Kúzunga",
+      "portuguese_translation": "Voltas ou giros dados sem parar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúzunga-1 — https://www.kimbundu.org/pt/word/kuzunga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
