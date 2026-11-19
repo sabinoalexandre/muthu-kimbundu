@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7534,
+      "kimbundu_term": "Kubilukisa",
+      "portuguese_translation": "Fazer virar, volver",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer dar voltas, mudar de posição"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubilukisa-1 — https://www.kimbundu.org/pt/word/kubilukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7535,
+      "kimbundu_term": "Kubilukisa",
+      "portuguese_translation": "Converter",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubilukisa-1 — https://www.kimbundu.org/pt/word/kubilukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7536,
+      "kimbundu_term": "Kúbima",
+      "portuguese_translation": "Carregar, levar para outro lugar (coisa pesada ou difícil)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbima-1 — https://www.kimbundu.org/pt/word/kubima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7537,
+      "kimbundu_term": "Kúbima",
+      "portuguese_translation": "Furtar",
+      "definition": null,
+      "alternative_meanings": [
+        "roubar",
+        "levar consigo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbima-1 — https://www.kimbundu.org/pt/word/kubima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7538,
+      "kimbundu_term": "Kúbima",
+      "portuguese_translation": "Gatunar",
+      "definition": null,
+      "alternative_meanings": [
+        "latapiar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbima-2 — https://www.kimbundu.org/pt/word/kubima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7539,
+      "kimbundu_term": "Kubimisa",
+      "portuguese_translation": "Fazer levantar e levar para outro sítio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubimisa-1 — https://www.kimbundu.org/pt/word/kubimisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7540,
+      "kimbundu_term": "Kubimisa",
+      "portuguese_translation": "Mandar surripiar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubimisa-1 — https://www.kimbundu.org/pt/word/kubimisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7541,
+      "kimbundu_term": "Kúbinda",
+      "portuguese_translation": "Solicitar",
+      "definition": null,
+      "alternative_meanings": [
+        "chamar por meio de convite",
+        "pedir que apareça"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbinda-1 — https://www.kimbundu.org/pt/word/kubinda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7542,
+      "kimbundu_term": "Kúbinda",
+      "portuguese_translation": "Kuribinda, v. r. Dar-se ou fazer-se convidado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbinda-1 — https://www.kimbundu.org/pt/word/kubinda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7543,
+      "kimbundu_term": "Kúbinda",
+      "portuguese_translation": "Retribuir convite",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbinda-1 — https://www.kimbundu.org/pt/word/kubinda",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
