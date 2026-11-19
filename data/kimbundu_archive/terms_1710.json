@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17204,
+      "kimbundu_term": "Mutakanga",
+      "portuguese_translation": "Planta gamopétala, fam. das oleaginosas, (mayepa africana) de boa madeira para marcenaria",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutakanga-1 — https://www.kimbundu.org/pt/word/mutakanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17205,
+      "kimbundu_term": "Mutakanga",
+      "portuguese_translation": "Oliveira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutakanga-1 — https://www.kimbundu.org/pt/word/mutakanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17206,
+      "kimbundu_term": "Mutakani",
+      "portuguese_translation": "Que busca ou procura. O que traz consigo (alguma coisa). Buscador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutakani-1 — https://www.kimbundu.org/pt/word/mutakani",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17207,
+      "kimbundu_term": "Mutakanu",
+      "portuguese_translation": "Encontro. Busca. Chamada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutakanu-1 — https://www.kimbundu.org/pt/word/mutakanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17208,
+      "kimbundu_term": "Mutakaxi",
+      "portuguese_translation": "Planta fam. das combretáceas (combretum lopolensis), de utilidade medicinal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutakaxi-1 — https://www.kimbundu.org/pt/word/mutakaxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17209,
+      "kimbundu_term": "Mutaku",
+      "portuguese_translation": "Bichoca",
+      "definition": null,
+      "alternative_meanings": [
+        "minhoca das praias. Biscalongo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutaku-1 — https://www.kimbundu.org/pt/word/mutaku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17210,
+      "kimbundu_term": "Mútala",
+      "portuguese_translation": "Comprimento. Altura (do que se pode pôr ao alto). Tamanho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mútala-1 — https://www.kimbundu.org/pt/word/mutala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17211,
+      "kimbundu_term": "Mútala",
+      "portuguese_translation": "Árvore fam. das leguminosas (millettia nudiflora) de madeira própria para construções",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mútala-1 — https://www.kimbundu.org/pt/word/mutala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17212,
+      "kimbundu_term": "Mútala",
+      "portuguese_translation": "Planta leguminosa a que pertence a árvore kaseke",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mútala-1 — https://www.kimbundu.org/pt/word/mutala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17213,
+      "kimbundu_term": "Mútala",
+      "portuguese_translation": "diz da mandioca ou batata aguda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mútala-1 — https://www.kimbundu.org/pt/word/mutala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
