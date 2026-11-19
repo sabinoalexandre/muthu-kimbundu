@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8524,
+      "kimbundu_term": "Kufukunuísa",
+      "portuguese_translation": "Mandar desenterrar, descobrir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufukunuísa-1 — https://www.kimbundu.org/pt/word/kufukunuisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8525,
+      "kimbundu_term": "Kufukunuka",
+      "portuguese_translation": "Ressuscitar",
+      "definition": null,
+      "alternative_meanings": [
+        "ressurgir",
+        "voltar à vida"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufukunuka-1 — https://www.kimbundu.org/pt/word/kufukunuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8526,
+      "kimbundu_term": "Kufukunuka",
+      "portuguese_translation": "Brotar",
+      "definition": null,
+      "alternative_meanings": [
+        "reviver",
+        "vir de novo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufukunuka-1 — https://www.kimbundu.org/pt/word/kufukunuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8527,
+      "kimbundu_term": "Kufukunuka",
+      "portuguese_translation": "Ressurreição",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufukunuka-1 — https://www.kimbundu.org/pt/word/kufukunuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8528,
+      "kimbundu_term": "Kufukunukisa",
+      "portuguese_translation": "Fazer voltar à vida (depois de estar morto)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufukunukisa-1 — https://www.kimbundu.org/pt/word/kufukunukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8529,
+      "kimbundu_term": "Kufukununa",
+      "portuguese_translation": "Exumar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufukununa-1 — https://www.kimbundu.org/pt/word/kufukununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8530,
+      "kimbundu_term": "Kufukununa",
+      "portuguese_translation": "Trazer à luz o que estava esquecido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufukununa-1 — https://www.kimbundu.org/pt/word/kufukununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8531,
+      "kimbundu_term": "Kufukununa",
+      "portuguese_translation": "Ressuscitar: fazer ressurgir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufukununa-1 — https://www.kimbundu.org/pt/word/kufukununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8532,
+      "kimbundu_term": "Kúfula",
+      "portuguese_translation": "Ter gosto (a comida)",
+      "definition": null,
+      "alternative_meanings": [
+        "saber bem ao paladar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúfula-1 — https://www.kimbundu.org/pt/word/kufula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8533,
+      "kimbundu_term": "Kúfula",
+      "portuguese_translation": "Ter chiste",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúfula-1 — https://www.kimbundu.org/pt/word/kufula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
