@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1804,
+      "kimbundu_term": "Hata",
+      "portuguese_translation": "Rodilha",
+      "definition": null,
+      "alternative_meanings": [
+        "chinguiço. Pequena almofada redonda que se põe ao ombro ou à cabeça para amortecer o peso de uma carga. Rodeta. Molhelha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hata-1 — https://www.kimbundu.org/pt/word/hata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1805,
+      "kimbundu_term": "Hata",
+      "portuguese_translation": "Cada uma das voltas da cobra enroscada. Rosca",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hata-1 — https://www.kimbundu.org/pt/word/hata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1806,
+      "kimbundu_term": "Hata",
+      "portuguese_translation": "Regaço",
+      "definition": null,
+      "alternative_meanings": [
+        "colo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hata-1 — https://www.kimbundu.org/pt/word/hata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1807,
+      "kimbundu_term": "Hatu",
+      "portuguese_translation": "Simples",
+      "definition": null,
+      "alternative_meanings": [
+        "sem acompanhamento ou conduto. Sem adornos nem enfeites. Desacompanhado, seco"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hatu-1 — https://www.kimbundu.org/pt/word/hatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1808,
+      "kimbundu_term": "Hâxi",
+      "portuguese_translation": "Doente",
+      "definition": null,
+      "alternative_meanings": [
+        "Padecente",
+        "Enfermo",
+        "Que é portador de uma moléstia anormal"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hâxi-1 — https://www.kimbundu.org/pt/word/haxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1809,
+      "kimbundu_term": "Hâxi",
+      "portuguese_translation": "Maníaco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hâxi-1 — https://www.kimbundu.org/pt/word/haxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1810,
+      "kimbundu_term": "Hê",
+      "portuguese_translation": "No caso de",
+      "definition": null,
+      "alternative_meanings": [
+        "Se",
+        "Se porventura"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hê-1 — https://www.kimbundu.org/pt/word/he",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1811,
+      "kimbundu_term": "Hebhu",
+      "portuguese_translation": "Filho de parto tardio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hebhu-1 — https://www.kimbundu.org/pt/word/hebhu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1812,
+      "kimbundu_term": "Hebhu",
+      "portuguese_translation": "Pov. e posto civ. deste nome, no conc. de Amboim, distr. do Quanza-Sul, prov. de Benguela, com 13.153 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hebhu-1 — https://www.kimbundu.org/pt/word/hebhu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1813,
+      "kimbundu_term": "Héiu",
+      "portuguese_translation": "Diz-se da sensação da navalha ao penetrar nas carnes, cortando-as",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, héiu-1 — https://www.kimbundu.org/pt/word/heiu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
