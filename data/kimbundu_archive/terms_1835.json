@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18454,
+      "kimbundu_term": "Nzângu",
+      "portuguese_translation": "Toscura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzângu-1 — https://www.kimbundu.org/pt/word/nzangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18455,
+      "kimbundu_term": "Nzângu",
+      "portuguese_translation": "Parceiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzângu-1 — https://www.kimbundu.org/pt/word/nzangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18456,
+      "kimbundu_term": "Nzânza",
+      "portuguese_translation": "A prumo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzânza-1 — https://www.kimbundu.org/pt/word/nzanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18457,
+      "kimbundu_term": "Nzânza",
+      "portuguese_translation": "Ao alto",
+      "definition": null,
+      "alternative_meanings": [
+        "de pé",
+        "em equilíbrio"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzânza-1 — https://www.kimbundu.org/pt/word/nzanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18458,
+      "kimbundu_term": "Nzebêle",
+      "portuguese_translation": "Insensível",
+      "definition": null,
+      "alternative_meanings": [
+        "estupefato"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzebêle-1 — https://www.kimbundu.org/pt/word/nzebele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18459,
+      "kimbundu_term": "Nzebêle",
+      "portuguese_translation": "Aparvalhado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzebêle-1 — https://www.kimbundu.org/pt/word/nzebele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18460,
+      "kimbundu_term": "Nzebêle",
+      "portuguese_translation": "É tb. nome próprio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzebêle-1 — https://www.kimbundu.org/pt/word/nzebele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18461,
+      "kimbundu_term": "Nzébu",
+      "portuguese_translation": "Baba",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzébu-1 — https://www.kimbundu.org/pt/word/nzebu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18462,
+      "kimbundu_term": "Nzébu",
+      "portuguese_translation": "Mucosidade que soltam alguns animais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzébu-1 — https://www.kimbundu.org/pt/word/nzebu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18463,
+      "kimbundu_term": "Nzébu",
+      "portuguese_translation": "Babugem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzébu-1 — https://www.kimbundu.org/pt/word/nzebu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
