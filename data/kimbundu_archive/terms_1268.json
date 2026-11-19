@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12784,
+      "kimbundu_term": "Kutungununa",
+      "portuguese_translation": "Kuritungununa, v. r. Desdizer-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutungununa-1 — https://www.kimbundu.org/pt/word/kutungununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12785,
+      "kimbundu_term": "Kutunguta",
+      "portuguese_translation": "Abalar",
+      "definition": null,
+      "alternative_meanings": [
+        "agitar",
+        "mover"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutunguta-1 — https://www.kimbundu.org/pt/word/kutunguta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12786,
+      "kimbundu_term": "Kutunúka",
+      "portuguese_translation": "Suportar",
+      "definition": null,
+      "alternative_meanings": [
+        "padecer",
+        "sofrer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutunúka-1 — https://www.kimbundu.org/pt/word/kutunuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12787,
+      "kimbundu_term": "Kutunúka",
+      "portuguese_translation": "Ser vítima",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutunúka-1 — https://www.kimbundu.org/pt/word/kutunuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12788,
+      "kimbundu_term": "Kutunúka",
+      "portuguese_translation": "Estar diminuído",
+      "definition": null,
+      "alternative_meanings": [
+        "ir a menos",
+        "estar em falta"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutunúka-1 — https://www.kimbundu.org/pt/word/kutunuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12789,
+      "kimbundu_term": "Kutunúka",
+      "portuguese_translation": "Descer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutunúka-1 — https://www.kimbundu.org/pt/word/kutunuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12790,
+      "kimbundu_term": "Kutunúka",
+      "portuguese_translation": "Sofrimento",
+      "definition": null,
+      "alternative_meanings": [
+        "dor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutunúka-1 — https://www.kimbundu.org/pt/word/kutunuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12791,
+      "kimbundu_term": "Kutunúna",
+      "portuguese_translation": "Vitimar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer sofrer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutunúna-1 — https://www.kimbundu.org/pt/word/kutununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12792,
+      "kimbundu_term": "Kutunúna",
+      "portuguese_translation": "Humilhar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutunúna-1 — https://www.kimbundu.org/pt/word/kutununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12793,
+      "kimbundu_term": "Kutunúna",
+      "portuguese_translation": "Kuritununa, v. r. Sacrificar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "rebaixar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutunúna-1 — https://www.kimbundu.org/pt/word/kutununa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
