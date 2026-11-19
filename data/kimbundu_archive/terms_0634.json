@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6444,
+      "kimbundu_term": "Kitukumuke",
+      "portuguese_translation": "Surpresa",
+      "definition": null,
+      "alternative_meanings": [
+        "sobressalto",
+        "pasmo",
+        "Ação calculada pela qual se pretende agradar ou ser útil a alguém sem este o prever",
+        "Prazer ou desgosto inesperado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitukumuke-1 — https://www.kimbundu.org/pt/word/kitukumuke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6445,
+      "kimbundu_term": "Kitukutuku",
+      "portuguese_translation": "Cóccix",
+      "definition": null,
+      "alternative_meanings": [
+        "A região cóccica"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitukutuku-1 — https://www.kimbundu.org/pt/word/kitukutuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6446,
+      "kimbundu_term": "Kitúla",
+      "portuguese_translation": "Casa de recolher cereais",
+      "definition": null,
+      "alternative_meanings": [
+        "Secadouro: depósito de provisões",
+        "Arrecadação"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitúla-1 — https://www.kimbundu.org/pt/word/kitula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6447,
+      "kimbundu_term": "Kitulukutu",
+      "portuguese_translation": "Turbulento",
+      "definition": null,
+      "alternative_meanings": [
+        "belicoso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitulukutu-1 — https://www.kimbundu.org/pt/word/kitulukutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6448,
+      "kimbundu_term": "Kitulúlu",
+      "portuguese_translation": "Ronqueira",
+      "definition": null,
+      "alternative_meanings": [
+        "asma",
+        "pieira",
+        "Som produzido pelo ar respirado nas pessoas asmáticas ou atacadas de bronquite"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitulúlu-1 — https://www.kimbundu.org/pt/word/kitululu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6449,
+      "kimbundu_term": "Kitulúlu",
+      "portuguese_translation": "Estertor",
+      "definition": null,
+      "alternative_meanings": [
+        "agonia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitulúlu-1 — https://www.kimbundu.org/pt/word/kitululu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6450,
+      "kimbundu_term": "Kitumba",
+      "portuguese_translation": "Mata espessa de plantas de pouca altura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitumba-1 — https://www.kimbundu.org/pt/word/kitumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6451,
+      "kimbundu_term": "Kitumba",
+      "portuguese_translation": "Armação de madeira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitumba-1 — https://www.kimbundu.org/pt/word/kitumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6452,
+      "kimbundu_term": "Kitúmba",
+      "portuguese_translation": "Entrevado",
+      "definition": null,
+      "alternative_meanings": [
+        "autômato",
+        "cego"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitúmba-1 — https://www.kimbundu.org/pt/word/kitumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6453,
+      "kimbundu_term": "Kitúmba",
+      "portuguese_translation": "Palhote",
+      "definition": null,
+      "alternative_meanings": [
+        "Capa de palha (usada pelos cabindas nas suas diversões)",
+        "Boneco de trapos para queimar",
+        "Monte de palha"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitúmba-1 — https://www.kimbundu.org/pt/word/kitumba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
