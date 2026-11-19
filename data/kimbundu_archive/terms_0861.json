@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8714,
+      "kimbundu_term": "Kuhanguluka",
+      "portuguese_translation": "Mudar de maneiras, de cor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhanguluka-1 — https://www.kimbundu.org/pt/word/kuhanguluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8715,
+      "kimbundu_term": "Kuhanguluka",
+      "portuguese_translation": "Estar destemperado, sem gosto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhanguluka-1 — https://www.kimbundu.org/pt/word/kuhanguluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8716,
+      "kimbundu_term": "Kuhanjika",
+      "portuguese_translation": "Ansiar",
+      "definition": null,
+      "alternative_meanings": [
+        "padecer",
+        "ter desejos, ambições"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhanjika-1 — https://www.kimbundu.org/pt/word/kuhanjika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8717,
+      "kimbundu_term": "Kuhánza",
+      "portuguese_translation": "Adular",
+      "definition": null,
+      "alternative_meanings": [
+        "elogiar sem fundamento (para captar o favor). Lisonjear"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhánza-1 — https://www.kimbundu.org/pt/word/kuhanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8718,
+      "kimbundu_term": "Kuhaúla",
+      "portuguese_translation": "Apanhar",
+      "definition": null,
+      "alternative_meanings": [
+        "surpreender. Diz-se do gavião ao apanhar o pinto"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhaúla-1 — https://www.kimbundu.org/pt/word/kuhaula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8719,
+      "kimbundu_term": "Kuheiula",
+      "portuguese_translation": "Golpear",
+      "definition": null,
+      "alternative_meanings": [
+        "rasgar com navalha"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuheiula-1 — https://www.kimbundu.org/pt/word/kuheiula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8720,
+      "kimbundu_term": "Kuheiula",
+      "portuguese_translation": "Ferir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuheiula-1 — https://www.kimbundu.org/pt/word/kuheiula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8721,
+      "kimbundu_term": "Kuhéma",
+      "portuguese_translation": "Fremir",
+      "definition": null,
+      "alternative_meanings": [
+        "ter frenesi"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhéma-1 — https://www.kimbundu.org/pt/word/kuhema",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8722,
+      "kimbundu_term": "Kuhéma",
+      "portuguese_translation": "Respiração ofegante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhéma-1 — https://www.kimbundu.org/pt/word/kuhema",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8723,
+      "kimbundu_term": "Kuhemesa",
+      "portuguese_translation": "Frenesiar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhemesa-1 — https://www.kimbundu.org/pt/word/kuhemesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
