@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6324,
+      "kimbundu_term": "Kitapa",
+      "portuguese_translation": "Pov. e sede do posto da circ. civ. do Songo, distr. e prov. de Malange, 5.995 hab. e est. telegr.-postal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitapa-1 — https://www.kimbundu.org/pt/word/kitapa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6325,
+      "kimbundu_term": "Kitapepe",
+      "portuguese_translation": "Vento tempestuoso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitapepe-1 — https://www.kimbundu.org/pt/word/kitapepe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6326,
+      "kimbundu_term": "Kitapepe",
+      "portuguese_translation": "Tufão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitapepe-1 — https://www.kimbundu.org/pt/word/kitapepe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6327,
+      "kimbundu_term": "Kitapepe",
+      "portuguese_translation": "Redemoinho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitapepe-1 — https://www.kimbundu.org/pt/word/kitapepe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6328,
+      "kimbundu_term": "Kitáta",
+      "portuguese_translation": "Rameira",
+      "definition": null,
+      "alternative_meanings": [
+        "meretriz"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitáta-1 — https://www.kimbundu.org/pt/word/kitata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6329,
+      "kimbundu_term": "Kitatu",
+      "portuguese_translation": "Três",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitatu-1 — https://www.kimbundu.org/pt/word/kitatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6330,
+      "kimbundu_term": "Kitatu",
+      "portuguese_translation": "Cascabulho",
+      "definition": null,
+      "alternative_meanings": [
+        "exterioridade"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitatu-1 — https://www.kimbundu.org/pt/word/kitatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6331,
+      "kimbundu_term": "Kiteke",
+      "portuguese_translation": "Ídolo",
+      "definition": null,
+      "alternative_meanings": [
+        "imagem",
+        "feitiço"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiteke-1 — https://www.kimbundu.org/pt/word/kiteke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6332,
+      "kimbundu_term": "Kiteke",
+      "portuguese_translation": "Títere",
+      "definition": null,
+      "alternative_meanings": [
+        "espantalho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiteke-1 — https://www.kimbundu.org/pt/word/kiteke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6333,
+      "kimbundu_term": "Kiteke",
+      "portuguese_translation": "Atado de caniço",
+      "definition": null,
+      "alternative_meanings": [
+        "Molho de cana brava",
+        "Taipal de caniços cruzados",
+        "Planta da família das gramíneas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiteke-1 — https://www.kimbundu.org/pt/word/kiteke",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
