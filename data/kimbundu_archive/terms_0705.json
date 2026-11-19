@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7154,
+      "kimbundu_term": "Kubatekela",
+      "portuguese_translation": "Sossegar",
+      "definition": null,
+      "alternative_meanings": [
+        "descansar (o espírito)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatekela-1 — https://www.kimbundu.org/pt/word/kubatekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7155,
+      "kimbundu_term": "Kubatekesa",
+      "portuguese_translation": "Mandar entestar, enrolhar, tapar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatekesa-1 — https://www.kimbundu.org/pt/word/kubatekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7156,
+      "kimbundu_term": "Kubatekesa",
+      "portuguese_translation": "Fazer aplacar, apaziguar, serenar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatekesa-1 — https://www.kimbundu.org/pt/word/kubatekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7157,
+      "kimbundu_term": "Kubatekesa",
+      "portuguese_translation": "Fazer refletir (para resolver)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatekesa-1 — https://www.kimbundu.org/pt/word/kubatekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7158,
+      "kimbundu_term": "Kubatela",
+      "portuguese_translation": "Abater",
+      "definition": null,
+      "alternative_meanings": [
+        "reduzir (o preço)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatela-1 — https://www.kimbundu.org/pt/word/kubatela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7159,
+      "kimbundu_term": "Kubatesa",
+      "portuguese_translation": "Secundar",
+      "definition": null,
+      "alternative_meanings": [
+        "seguir (alguém ou alguma cousa)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatesa-1 — https://www.kimbundu.org/pt/word/kubatesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7160,
+      "kimbundu_term": "Kubatesa",
+      "portuguese_translation": "Fazer calcar",
+      "definition": null,
+      "alternative_meanings": [
+        "acamar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatesa-1 — https://www.kimbundu.org/pt/word/kubatesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7161,
+      "kimbundu_term": "Kubatesa",
+      "portuguese_translation": "Fazer tapar",
+      "definition": null,
+      "alternative_meanings": [
+        "calafetar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatesa-1 — https://www.kimbundu.org/pt/word/kubatesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7162,
+      "kimbundu_term": "Kubatizala",
+      "portuguese_translation": "Batizar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatizala-1 — https://www.kimbundu.org/pt/word/kubatizala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7163,
+      "kimbundu_term": "Kubatuíla",
+      "portuguese_translation": "Atalhar",
+      "definition": null,
+      "alternative_meanings": [
+        "impedir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubatuíla-1 — https://www.kimbundu.org/pt/word/kubatuila",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
