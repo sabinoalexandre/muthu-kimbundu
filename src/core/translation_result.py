@@ -126,7 +126,7 @@ class TranslationResult:
         if source_reference:
             notes.append(f"Source: {source_reference}")
         if verification_status != VERIFICATION_STATUS_VERIFIED:
-            notes.append("Dictionary entry has not been verified by a Kimbundu speaker yet.")
+            notes.append("Dictionary entry has not been verified by language speakers yet.")
 
         return cls(
             original_text=original_text or "",

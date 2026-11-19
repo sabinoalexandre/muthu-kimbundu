@@ -1,4 +1,4 @@
-"""Local bilingual dictionary translation provider."""
+"""Local multilingual dictionary translation provider."""
 
 import json
 import re
@@ -6,7 +6,7 @@ import unicodedata
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
-from src.core.language import KIMBUNDU, PORTUGUESE
+from src.core.language import KIKONGO, KIMBUNDU, PORTUGUESE
 from src.core.translation_result import TranslationResult
 from src.providers.base_provider import TranslationProvider
 
@@ -24,7 +24,7 @@ def _normalize_term(value: Optional[str]) -> str:
 
 
 class LocalDictionaryProvider(TranslationProvider):
-    """Dictionary based translation provider for Portuguese <-> Kimbundu."""
+    """Dictionary based provider for Portuguese, Kimbundu and Kikongo."""
 
     def __init__(self, dictionary_path: Optional[str] = None) -> None:
         self.dictionary_path = (
@@ -33,7 +33,7 @@ class LocalDictionaryProvider(TranslationProvider):
         self.entries: List[Dict[str, Any]] = self._load_entries()
 
     def _load_entries(self) -> List[Dict[str, Any]]:
-        """Load the bilingual dictionary resource."""
+        """Load the multilingual dictionary resource."""
         if not self.dictionary_path.exists():
             return []
         with open(self.dictionary_path, "r", encoding="utf-8") as handle:
@@ -52,14 +52,19 @@ class LocalDictionaryProvider(TranslationProvider):
         self,
         kimbundu_term: Optional[str] = None,
         portuguese_translation: Optional[str] = None,
+        kikongo_term: Optional[str] = None,
     ) -> Optional[Dict[str, Any]]:
         """Return a single dictionary entry matching the given fields."""
         term = _normalize_term(kimbundu_term)
+        kikongo = _normalize_term(kikongo_term)
         translation = _normalize_term(portuguese_translation)
         for entry in self.entries:
             entry_term = _normalize_term(entry.get("kimbundu_term"))
+            entry_kikongo = _normalize_term(entry.get("kikongo_term"))
             entry_translation = _normalize_term(entry.get("portuguese_translation"))
             if term and entry_term == term:
+                return entry
+            if kikongo and entry_kikongo == kikongo:
                 return entry
             if translation and entry_translation == translation:
                 return entry
@@ -68,14 +73,22 @@ class LocalDictionaryProvider(TranslationProvider):
     def translate(
         self, text: str, source: str, target: str
     ) -> TranslationResult:
-        """Replace the longest sourced word or expression matches in either direction.
+        """Replace the longest sourced word or expression in any language pair.
 
         Unmatched words and punctuation remain exactly as entered. This is a
         dictionary lookup, so matching words does not claim sentence-level grammar.
         """
         term = (text or "").strip()
-        if not term or (source, target) not in (
-            (KIMBUNDU, PORTUGUESE), (PORTUGUESE, KIMBUNDU)
+        language_fields = {
+            KIMBUNDU: "kimbundu_term",
+            KIKONGO: "kikongo_term",
+            PORTUGUESE: "portuguese_translation",
+        }
+        if (
+            not term
+            or source not in language_fields
+            or target not in language_fields
+            or source == target
         ):
             return TranslationResult.unsupported(
                 term, source, target, "",
@@ -83,12 +96,8 @@ class LocalDictionaryProvider(TranslationProvider):
 
         matches: Dict[tuple[str, ...], List[Dict[str, Any]]] = {}
         for entry in self.entries:
-            source_term = entry.get(
-                "kimbundu_term" if source == KIMBUNDU else "portuguese_translation"
-            )
-            target_term = entry.get(
-                "portuguese_translation" if target == PORTUGUESE else "kimbundu_term"
-            )
+            source_term = entry.get(language_fields[source])
+            target_term = entry.get(language_fields[target])
             source_words = tuple(_normalize_term(word) for word in _WORD_PATTERN.findall(str(source_term or "")))
             if source_words and str(target_term or "").strip():
                 matches.setdefault(source_words, []).append(entry)
@@ -131,7 +140,7 @@ class LocalDictionaryProvider(TranslationProvider):
             last_span = input_words[word_index + selected_length - 1]
             output.append(term[cursor:first_span.start()])
             output.append(str(selected.get(
-                "portuguese_translation" if target == PORTUGUESE else "kimbundu_term"
+                language_fields[target]
             ) or ""))
             cursor = last_span.end()
             matched_entries.append(selected)

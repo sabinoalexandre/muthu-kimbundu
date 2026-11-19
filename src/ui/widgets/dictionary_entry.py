@@ -1,4 +1,4 @@
-"""Compact material card for a bilingual dictionary record."""
+"""Compact material card for a multilingual dictionary record."""
 
 from kivy.metrics import dp
 from kivy.uix.boxlayout import BoxLayout
@@ -10,7 +10,7 @@ from src.ui.widgets.theme import DARK_SURFACE, SURFACE, bind_theme_color
 
 
 class DictionaryEntryView(MDCard):
-    """Show the word pair, annotations and verification status."""
+    """Show multilingual terms, annotations and verification status."""
 
     def __init__(self, entry: DictionaryEntry, **kwargs) -> None:
         super().__init__(orientation="vertical", padding=dp(16), spacing=dp(6),
@@ -21,10 +21,21 @@ class DictionaryEntryView(MDCard):
         body = BoxLayout(orientation="vertical", size_hint_y=None, spacing=dp(5))
         body.bind(minimum_height=body.setter("height"))
         self.height = dp(130)
-        body.add_widget(MDLabel(text=entry.kimbundu_term, font_style="Title", role="medium", bold=True,
-                                size_hint_y=None, height=dp(30), shorten=True))
-        body.add_widget(MDLabel(text=entry.portuguese_translation, font_style="Body", role="large",
-                                size_hint_y=None, height=dp(28), shorten=True))
+        for language, term in (
+            ("Kimbundu", entry.kimbundu_term),
+            ("Kikongo", entry.kikongo_term),
+            ("Português", entry.portuguese_translation),
+        ):
+            if term:
+                body.add_widget(MDLabel(
+                    text=f"{language} · {term}",
+                    font_style="Title" if not body.children else "Body",
+                    role="medium" if not body.children else "large",
+                    bold=not body.children,
+                    size_hint_y=None,
+                    height=dp(30 if not body.children else 28),
+                    shorten=True,
+                ))
         if entry.definition:
             body.add_widget(MDLabel(text=f"Definição · {entry.definition}", theme_text_color="Secondary",
                                     size_hint_y=None, height=dp(26), shorten=True))

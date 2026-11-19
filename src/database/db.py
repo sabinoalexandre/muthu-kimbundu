@@ -31,6 +31,7 @@ CREATE TABLE IF NOT EXISTS favorites (
 CREATE TABLE IF NOT EXISTS dictionary (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     kimbundu_term TEXT NOT NULL,
+    kikongo_term TEXT NOT NULL DEFAULT '',
     portuguese_translation TEXT NOT NULL,
     definition TEXT,
     alternative_meanings TEXT,
@@ -63,6 +64,13 @@ def initialize_database() -> None:
     connection = get_connection()
     try:
         connection.executescript(SCHEMA)
+        columns = {
+            row["name"] for row in connection.execute("PRAGMA table_info(dictionary)")
+        }
+        if "kikongo_term" not in columns:
+            connection.execute(
+                "ALTER TABLE dictionary ADD COLUMN kikongo_term TEXT NOT NULL DEFAULT ''"
+            )
         _seed_dictionary(connection)
         connection.commit()
     finally:
@@ -85,31 +93,53 @@ def _seed_dictionary(connection: sqlite3.Connection) -> None:
         return
 
     existing = {
-        (str(row[0]).casefold().strip(), str(row[1]).casefold().strip())
+        tuple(str(value).casefold().strip() for value in row)
         for row in connection.execute(
-            "SELECT kimbundu_term, portuguese_translation FROM dictionary"
+            "SELECT kimbundu_term, kikongo_term, portuguese_translation FROM dictionary"
         )
     }
     for entry in entries:
         if not isinstance(entry, dict):
             continue
         kimbundu_term = str(entry.get("kimbundu_term") or "").strip()
+        kikongo_term = str(entry.get("kikongo_term") or "").strip()
         portuguese_translation = str(entry.get("portuguese_translation") or "").strip()
-        if not kimbundu_term or not portuguese_translation:
+        if not (kimbundu_term or kikongo_term) or not portuguese_translation:
             continue
-        key = (kimbundu_term.casefold(), portuguese_translation.casefold())
+        key = (
+            kimbundu_term.casefold(),
+            kikongo_term.casefold(),
+            portuguese_translation.casefold(),
+        )
         if key in existing:
+            continue
+        legacy_key = (
+            kimbundu_term.casefold(),
+            "",
+            portuguese_translation.casefold(),
+        )
+        if kikongo_term and legacy_key in existing:
+            connection.execute(
+                """UPDATE dictionary SET kikongo_term = ?
+                   WHERE lower(trim(kimbundu_term)) = ?
+                     AND lower(trim(portuguese_translation)) = ?
+                     AND trim(kikongo_term) = ''""",
+                (kikongo_term, legacy_key[0], legacy_key[2]),
+            )
+            existing.discard(legacy_key)
+            existing.add(key)
             continue
         connection.execute(
             """
             INSERT INTO dictionary (
-                kimbundu_term, portuguese_translation, definition,
+                kimbundu_term, kikongo_term, portuguese_translation, definition,
                 alternative_meanings, examples, grammatical_category,
                 regional_variation, verification_status, source_reference, timestamp
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             """,
             (
                 kimbundu_term,
+                kikongo_term,
                 portuguese_translation,
                 entry.get("definition"),
                 json.dumps(entry.get("alternative_meanings") or [], ensure_ascii=False),

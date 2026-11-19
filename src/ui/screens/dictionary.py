@@ -10,7 +10,6 @@ from kivymd.uix.label import MDLabel
 from kivymd.uix.screen import MDScreen
 from kivymd.uix.textfield import MDTextField
 
-from src.core.language import KIMBUNDU, PORTUGUESE
 from src.services.dictionary_service import DictionaryService
 from src.ui.widgets.dictionary_entry import DictionaryEntryView
 from src.ui.widgets.theme import (
@@ -20,7 +19,7 @@ from src.ui.widgets.theme import (
 
 
 class DictionaryScreen(MDScreen):
-    """Search the local Portuguese–Kimbundu vocabulary."""
+    """Search the local Kikongo–Kimbundu–Portuguese vocabulary."""
 
     dictionary_service = None
     results = ListProperty([])
@@ -42,7 +41,7 @@ class DictionaryScreen(MDScreen):
         hero.add_widget(MDLabel(text="Dicionário", font_style="Headline", role="small", bold=True,
                                 theme_text_color="Custom", text_color=(1, 1, 1, 1),
                                 size_hint_y=None, height=dp(36)))
-        hero.add_widget(MDLabel(text="Palavras e expressões em duas direções.",
+        hero.add_widget(MDLabel(text="Palavras em Kikongo, Kimbundu e Português.",
                                 theme_text_color="Custom", text_color=(0.86, 0.93, 0.91, 1),
                                 size_hint_y=None, height=dp(22)))
         root.add_widget(hero)
@@ -56,7 +55,7 @@ class DictionaryScreen(MDScreen):
         search_card.add_widget(self.search_field)
         root.add_widget(search_card)
         self.direction_label = MDLabel(
-            text="PORTUGUÊS  ↔  KIMBUNDU  ·  DICIONÁRIO LOCAL",
+            text="KIKONGO  ·  KIMBUNDU  ·  PORTUGUÊS  ·  DICIONÁRIO LOCAL",
             theme_text_color="Secondary", font_style="Label", role="small",
             size_hint_y=None, height=dp(24),
         )
