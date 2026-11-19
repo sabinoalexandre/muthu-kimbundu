@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8354,
+      "kimbundu_term": "Kufamena",
+      "portuguese_translation": "Ser digno de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufamena-1 — https://www.kimbundu.org/pt/word/kufamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8355,
+      "kimbundu_term": "Kufamena",
+      "portuguese_translation": "Merecer",
+      "definition": null,
+      "alternative_meanings": [
+        "ter jus a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufamena-1 — https://www.kimbundu.org/pt/word/kufamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8356,
+      "kimbundu_term": "Kufamena",
+      "portuguese_translation": "Ser ou tornar-se merecedor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufamena-1 — https://www.kimbundu.org/pt/word/kufamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8357,
+      "kimbundu_term": "Kufamena",
+      "portuguese_translation": "Kurijamena, v. r. Ter concordância",
+      "definition": null,
+      "alternative_meanings": [
+        "harmonizar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufamena-1 — https://www.kimbundu.org/pt/word/kufamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8358,
+      "kimbundu_term": "Kufamesa",
+      "portuguese_translation": "Fazer ataviar, adornar, enfeitar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufamesa-1 — https://www.kimbundu.org/pt/word/kufamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8359,
+      "kimbundu_term": "Kufamesa",
+      "portuguese_translation": "Fazer dignificar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar merecedor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufamesa-1 — https://www.kimbundu.org/pt/word/kufamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8360,
+      "kimbundu_term": "Kufamesa",
+      "portuguese_translation": "Kurijamesa, v. r. Ataviar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "enfeitar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufamesa-1 — https://www.kimbundu.org/pt/word/kufamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8361,
+      "kimbundu_term": "Kufandujuka",
+      "portuguese_translation": "Estar desarranjado, amarrotado, em desordem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufandujuka-1 — https://www.kimbundu.org/pt/word/kufandujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8362,
+      "kimbundu_term": "Kufandujuka",
+      "portuguese_translation": "Ficar amarfanhado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufandujuka-1 — https://www.kimbundu.org/pt/word/kufandujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8363,
+      "kimbundu_term": "Kufandujuka",
+      "portuguese_translation": "Estar em desalinho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufandujuka-1 — https://www.kimbundu.org/pt/word/kufandujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
