@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14354,
+      "kimbundu_term": "M'úkulu",
+      "portuguese_translation": "Noutro tempo",
+      "definition": null,
+      "alternative_meanings": [
+        "outrora"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, m'úkulu-1 — https://www.kimbundu.org/pt/word/m'ukulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14355,
+      "kimbundu_term": "Ma",
+      "portuguese_translation": "De: maju — ngãndu",
+      "definition": null,
+      "alternative_meanings": [
+        "mêsu — hima, e estabelece relação de matéria"
+      ],
+      "examples": [],
+      "grammatical_category": "preposição, adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ma-1 — https://www.kimbundu.org/pt/word/ma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14356,
+      "kimbundu_term": "Ma",
+      "portuguese_translation": "e pron. poss. pl. Deles",
+      "definition": null,
+      "alternative_meanings": [
+        "delas: o makanha — m'auba"
+      ],
+      "examples": [],
+      "grammatical_category": "preposição, adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ma-1 — https://www.kimbundu.org/pt/word/ma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14357,
+      "kimbundu_term": "Ma",
+      "portuguese_translation": "Das suas pessoas: o matubî'ama — ene",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "preposição, adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ma-1 — https://www.kimbundu.org/pt/word/ma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14358,
+      "kimbundu_term": "Ma",
+      "portuguese_translation": "Que: o matenda, — bangesa kulueza o xitu",
+      "definition": null,
+      "alternative_meanings": [
+        "Cujos"
+      ],
+      "examples": [],
+      "grammatical_category": "preposição, adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ma-1 — https://www.kimbundu.org/pt/word/ma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14359,
+      "kimbundu_term": "Má",
+      "portuguese_translation": "Interj. Toma! Recebe!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, má-1 — https://www.kimbundu.org/pt/word/ma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14360,
+      "kimbundu_term": "Má",
+      "portuguese_translation": "Dação",
+      "definition": null,
+      "alternative_meanings": [
+        "ato de dar, kand kuila ngi ku bana"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, má-1 — https://www.kimbundu.org/pt/word/ma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14361,
+      "kimbundu_term": "Má! má! má!",
+      "portuguese_translation": "para chamar porcos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, má! má! má!-1 — https://www.kimbundu.org/pt/word/ma%21%20ma%21%20ma%21",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14362,
+      "kimbundu_term": "Maba",
+      "portuguese_translation": "Particularidades",
+      "definition": null,
+      "alternative_meanings": [
+        "maneiras especiais"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maba-1 — https://www.kimbundu.org/pt/word/maba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14363,
+      "kimbundu_term": "Maba",
+      "portuguese_translation": "Em particular",
+      "definition": null,
+      "alternative_meanings": [
+        "especialmente",
+        "Por partes"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maba-1 — https://www.kimbundu.org/pt/word/maba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
