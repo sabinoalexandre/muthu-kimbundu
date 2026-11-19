@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15264,
+      "kimbundu_term": "Mbombolo",
+      "portuguese_translation": "árvore da família das meliáceas (Melia dubia)",
+      "definition": null,
+      "alternative_meanings": [
+        "sicómoro bastardo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbombolo-1 — https://www.kimbundu.org/pt/word/mbombolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15265,
+      "kimbundu_term": "Mbombota",
+      "portuguese_translation": "borralho",
+      "definition": null,
+      "alternative_meanings": [
+        "pó",
+        "cinza"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbombota-1 — https://www.kimbundu.org/pt/word/mbombota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15266,
+      "kimbundu_term": "Mbombotela",
+      "portuguese_translation": "que gosta de estar no borralho",
+      "definition": null,
+      "alternative_meanings": [
+        "borralheiro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbombotela-1 — https://www.kimbundu.org/pt/word/mbombotela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15267,
+      "kimbundu_term": "Mbombotela",
+      "portuguese_translation": "(substantivo) pó de carvão",
+      "definition": null,
+      "alternative_meanings": [
+        "cisco",
+        "limpaduras",
+        "lixo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbombotela-1 — https://www.kimbundu.org/pt/word/mbombotela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15268,
+      "kimbundu_term": "Mbóndo",
+      "portuguese_translation": "robusta árvore esterculiácea, mais conhecida por «embondeiro» (Adansonia digitata)",
+      "definition": null,
+      "alternative_meanings": [
+        "baobá",
+        "planta têxtil de fruta alimentícia",
+        "calabaceira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbóndo-1 — https://www.kimbundu.org/pt/word/mbondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15269,
+      "kimbundu_term": "Mbóndo",
+      "portuguese_translation": "( ) género de plantas dicotiledóneas, família das esterculiáceas (Sterculia pubescens), de madeira própria para construç",
+      "definition": null,
+      "alternative_meanings": [
+        "estercúlia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbóndo-1 — https://www.kimbundu.org/pt/word/mbondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15270,
+      "kimbundu_term": "Mbóndo",
+      "portuguese_translation": "(corografia) povoação de Cambondo, circunscrição civil de Cazengo, a 15 km de Canhoca, distrito e província de Luanda, c",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbóndo-1 — https://www.kimbundu.org/pt/word/mbondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15271,
+      "kimbundu_term": "Mbónga",
+      "portuguese_translation": "Rapaz",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbónga-1 — https://www.kimbundu.org/pt/word/mbonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15272,
+      "kimbundu_term": "Mbónga",
+      "portuguese_translation": "Moço",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbónga-1 — https://www.kimbundu.org/pt/word/mbonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15273,
+      "kimbundu_term": "Mbónge",
+      "portuguese_translation": "Construção fortificada para defesa de cidades, vilas, etc",
+      "definition": null,
+      "alternative_meanings": [
+        "fortaleza",
+        "obra de fortificação defendida por artilharia",
+        "forte"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbónge-1 — https://www.kimbundu.org/pt/word/mbonge",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
