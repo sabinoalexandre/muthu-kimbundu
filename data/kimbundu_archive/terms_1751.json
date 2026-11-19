@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17614,
+      "kimbundu_term": "Mwii",
+      "portuguese_translation": "Ladrão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mwii-1 — https://www.kimbundu.org/pt/word/mwii",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17615,
+      "kimbundu_term": "Mwiji",
+      "portuguese_translation": "Família",
+      "definition": null,
+      "alternative_meanings": [
+        "geração",
+        "descendência. Raça. Genealogia",
+        "parentela. Conjunto de pessoas da mesma origem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mwiji-1 — https://www.kimbundu.org/pt/word/mwiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17616,
+      "kimbundu_term": "Mwiji",
+      "portuguese_translation": "adj. e sub. Parente",
+      "definition": null,
+      "alternative_meanings": [
+        "derivado",
+        "familiar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mwiji-1 — https://www.kimbundu.org/pt/word/mwiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17617,
+      "kimbundu_term": "Mwimbu",
+      "portuguese_translation": "Música vocal. Cantiga",
+      "definition": null,
+      "alternative_meanings": [
+        "melodia. O que se canta"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mwimbu-1 — https://www.kimbundu.org/pt/word/mwimbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17618,
+      "kimbundu_term": "Mwimbu",
+      "portuguese_translation": "Peta",
+      "definition": null,
+      "alternative_meanings": [
+        "mentira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mwimbu-1 — https://www.kimbundu.org/pt/word/mwimbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17619,
+      "kimbundu_term": "Mwinya",
+      "portuguese_translation": "Espinha. Cravo (na pele)",
+      "definition": null,
+      "alternative_meanings": [
+        "espeto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mwinya-1 — https://www.kimbundu.org/pt/word/mwinya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17620,
+      "kimbundu_term": "Mwinya",
+      "portuguese_translation": "Punhal",
+      "definition": null,
+      "alternative_meanings": [
+        "estilete"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mwinya-1 — https://www.kimbundu.org/pt/word/mwinya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17621,
+      "kimbundu_term": "Mwixi",
+      "portuguese_translation": "Som agudo que se solta juntando as mãos em forma de búzio. Espécie de ocarina",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mwixi-1 — https://www.kimbundu.org/pt/word/mwixi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17622,
+      "kimbundu_term": "Myelu",
+      "portuguese_translation": "Aberturas (de portas). Locais por onde se entra ou sai. Vãos",
+      "definition": null,
+      "alternative_meanings": [
+        "intervalos. Espaços de paredes ocupados por portas ou janelas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, myelu-1 — https://www.kimbundu.org/pt/word/myelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17623,
+      "kimbundu_term": "Myezu",
+      "portuguese_translation": "Barbas. Pêlos que guarnecem o focinho de certos animais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, myezu-1 — https://www.kimbundu.org/pt/word/myezu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
