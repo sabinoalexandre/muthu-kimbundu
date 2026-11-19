@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9504,
+      "kimbundu_term": "Kukóla",
+      "portuguese_translation": "Ser inabalável, inflexível, duro (de coração)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, iterativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukóla-1 — https://www.kimbundu.org/pt/word/kukola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9505,
+      "kimbundu_term": "Kukóla",
+      "portuguese_translation": "Bradar",
+      "definition": null,
+      "alternative_meanings": [
+        "chamar em voz alta"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, iterativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukóla-1 — https://www.kimbundu.org/pt/word/kukola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9506,
+      "kimbundu_term": "Kukóla",
+      "portuguese_translation": "Dizer (gritando)",
+      "definition": null,
+      "alternative_meanings": [
+        "vozear",
+        "exorar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, iterativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukóla-1 — https://www.kimbundu.org/pt/word/kukola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9507,
+      "kimbundu_term": "Kukóla",
+      "portuguese_translation": "Qualidade do que é inflexível, duro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, iterativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukóla-1 — https://www.kimbundu.org/pt/word/kukola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9508,
+      "kimbundu_term": "Kukóla",
+      "portuguese_translation": "Firmeza",
+      "definition": null,
+      "alternative_meanings": [
+        "solidez"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, iterativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukóla-1 — https://www.kimbundu.org/pt/word/kukola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9509,
+      "kimbundu_term": "Kukóla",
+      "portuguese_translation": "Gritar, implorar muitas vezes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, iterativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukóla-1 — https://www.kimbundu.org/pt/word/kukola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9510,
+      "kimbundu_term": "Kukóla",
+      "portuguese_translation": "Kurixóla, v. r. Reclamar",
+      "definition": null,
+      "alternative_meanings": [
+        "denunciar",
+        "dar gritos. Queixar-se",
+        "mostrar-se ofendido",
+        "Agravar-se",
+        "recorrer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, iterativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukóla-1 — https://www.kimbundu.org/pt/word/kukola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9511,
+      "kimbundu_term": "Kukóla",
+      "portuguese_translation": "Clamor",
+      "definition": null,
+      "alternative_meanings": [
+        "brado",
+        "gritaria"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, iterativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukóla-1 — https://www.kimbundu.org/pt/word/kukola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9512,
+      "kimbundu_term": "Kukóla",
+      "portuguese_translation": "Gritar, falar sem motivo",
+      "definition": null,
+      "alternative_meanings": [
+        "Vociferar repetidas vezes"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, iterativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukóla-1 — https://www.kimbundu.org/pt/word/kukola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9513,
+      "kimbundu_term": "Kúkola",
+      "portuguese_translation": "Piorar",
+      "definition": null,
+      "alternative_meanings": [
+        "agravar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkola-1 — https://www.kimbundu.org/pt/word/kukola",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
