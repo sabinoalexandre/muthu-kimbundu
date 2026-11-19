@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14104,
+      "kimbundu_term": "Lekete",
+      "portuguese_translation": "Impertinente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lekete-1 — https://www.kimbundu.org/pt/word/lekete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14105,
+      "kimbundu_term": "Lekete",
+      "portuguese_translation": "Buliçoso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lekete-1 — https://www.kimbundu.org/pt/word/lekete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14106,
+      "kimbundu_term": "Léku",
+      "portuguese_translation": "Expressão designativa do repentino clarão do fogo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, léku-1 — https://www.kimbundu.org/pt/word/leku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14107,
+      "kimbundu_term": "Léku",
+      "portuguese_translation": "Diz-se do disparo do acanhão visto de longe",
+      "definition": null,
+      "alternative_meanings": [
+        "kiluminu ki êri «ndum». Fogacho"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, léku-1 — https://www.kimbundu.org/pt/word/leku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14108,
+      "kimbundu_term": "Lela",
+      "portuguese_translation": "Pov. e sede do posto da circ. civ. de Cacongo, distr. e prov. de Luanda, 1 241 habit",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lela-1 — https://www.kimbundu.org/pt/word/lela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14109,
+      "kimbundu_term": "Lele",
+      "portuguese_translation": "Palavra sufixa para minusculisar ou superlativar certos subst. ou adj",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "sufixo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lele-1 — https://www.kimbundu.org/pt/word/lele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14110,
+      "kimbundu_term": "Lelému",
+      "portuguese_translation": "Pov. e sede do posto civ. de Luremo, circ. de Camaxilo, distr. da Lunda, prov. de Malange, 7 923 hab. e sucursal da Miss",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lelému-1 — https://www.kimbundu.org/pt/word/lelemu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14111,
+      "kimbundu_term": "Lêlu",
+      "portuguese_translation": "Hoje. Atualmente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lêlu-1 — https://www.kimbundu.org/pt/word/lelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14112,
+      "kimbundu_term": "Lêlu",
+      "portuguese_translation": "—'erl, hoje em dia",
+      "definition": null,
+      "alternative_meanings": [
+        "no tempo presente"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lêlu-1 — https://www.kimbundu.org/pt/word/lelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14113,
+      "kimbundu_term": "Lêlu",
+      "portuguese_translation": "sem demora. Logo a seguir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lêlu-1 — https://www.kimbundu.org/pt/word/lelu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
