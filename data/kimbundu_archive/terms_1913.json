@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19234,
+      "kimbundu_term": "Tuanyanya",
+      "portuguese_translation": "(IX) Fulgurante",
+      "definition": null,
+      "alternative_meanings": [
+        "Resplendente",
+        "Luminoso",
+        "claro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tuanyanya-1 — https://www.kimbundu.org/pt/word/tuanyanya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19235,
+      "kimbundu_term": "Tuanyanya",
+      "portuguese_translation": "Sem manchas",
+      "definition": null,
+      "alternative_meanings": [
+        "Diz-se do sol ou lua muito brilhante, luminoso, claro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tuanyanya-1 — https://www.kimbundu.org/pt/word/tuanyanya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19236,
+      "kimbundu_term": "Tuânyi",
+      "portuguese_translation": "interrog. pl. (contr. da prep. tua e do pron. relat. inhi). Quais. Que coisas (entre várias) De que?",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, interrogativo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tuânyi-1 — https://www.kimbundu.org/pt/word/tuanyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19237,
+      "kimbundu_term": "Tubhuka",
+      "portuguese_translation": "Saia! Fora daqui! Gira!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tubhuka-1 — https://www.kimbundu.org/pt/word/tubhuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19238,
+      "kimbundu_term": "Túbhya",
+      "portuguese_translation": "Fogo",
+      "definition": null,
+      "alternative_meanings": [
+        "incêndio: inso i akuata.—",
+        "Fogacho",
+        "tiro (de espingarda)",
+        "Labareda",
+        "chama"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, túbhya-1 — https://www.kimbundu.org/pt/word/tubhya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19239,
+      "kimbundu_term": "Túbu",
+      "portuguese_translation": "burl. Rústico",
+      "definition": null,
+      "alternative_meanings": [
+        "ignorante. Nome dado aos pescadores da ilha de Luanda, em razão da sua rusticidade"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, túbu-1 — https://www.kimbundu.org/pt/word/tubu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19240,
+      "kimbundu_term": "Tûbu",
+      "portuguese_translation": "Dispêndio",
+      "definition": null,
+      "alternative_meanings": [
+        "gasto",
+        "despesa",
+        "Consumo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tûbu-1 — https://www.kimbundu.org/pt/word/tubu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19241,
+      "kimbundu_term": "Tubú",
+      "portuguese_translation": "Só",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, preposição, conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tubú-1 — https://www.kimbundu.org/pt/word/tubu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19242,
+      "kimbundu_term": "Tubú",
+      "portuguese_translation": "A contar de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, preposição, conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tubú-1 — https://www.kimbundu.org/pt/word/tubu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19243,
+      "kimbundu_term": "Tubú",
+      "portuguese_translation": "Quando",
+      "definition": null,
+      "alternative_meanings": [
+        "no momento em que"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, preposição, conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tubú-1 — https://www.kimbundu.org/pt/word/tubu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
