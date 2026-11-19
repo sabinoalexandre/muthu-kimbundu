@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12424,
+      "kimbundu_term": "Kutokomona",
+      "portuguese_translation": "Tirar o que estava escondido",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer brotar, aparecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutokomona-1 — https://www.kimbundu.org/pt/word/kutokomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12425,
+      "kimbundu_term": "Kutokona",
+      "portuguese_translation": "Esgravatar, palitar (os dentes)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutokona-1 — https://www.kimbundu.org/pt/word/kutokona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12426,
+      "kimbundu_term": "Kutokonona",
+      "portuguese_translation": "Escarafunchar",
+      "definition": null,
+      "alternative_meanings": [
+        "Meter o dedo em (o nariz, ouvido, etc.)",
+        "Limpar com esgravatador"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutokonona-1 — https://www.kimbundu.org/pt/word/kutokonona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12427,
+      "kimbundu_term": "Kutokonona",
+      "portuguese_translation": "Kuritokonona, v. r. Palitar-se — mu muju",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutokonona-1 — https://www.kimbundu.org/pt/word/kutokonona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12428,
+      "kimbundu_term": "Kutokwesa",
+      "portuguese_translation": "Mandar quebrar, partir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutokwesa-1 — https://www.kimbundu.org/pt/word/kutokwesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12429,
+      "kimbundu_term": "Kutokwesa",
+      "portuguese_translation": "Fazer examinar (interrogando)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutokwesa-1 — https://www.kimbundu.org/pt/word/kutokwesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12430,
+      "kimbundu_term": "Kutóla",
+      "portuguese_translation": "Ser pouco, limitado",
+      "definition": null,
+      "alternative_meanings": [
+        "Ser em pequeno número ou quantidade"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutóla-1 — https://www.kimbundu.org/pt/word/kutola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12431,
+      "kimbundu_term": "Kutóla",
+      "portuguese_translation": "Pequenez",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutóla-1 — https://www.kimbundu.org/pt/word/kutola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12432,
+      "kimbundu_term": "Kútola",
+      "portuguese_translation": "Farejar caça",
+      "definition": null,
+      "alternative_meanings": [
+        "bater mato",
+        "ir no encalço de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútola-1 — https://www.kimbundu.org/pt/word/kutola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12433,
+      "kimbundu_term": "Kútola",
+      "portuguese_translation": "Acossamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútola-1 — https://www.kimbundu.org/pt/word/kutola",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
