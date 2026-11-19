@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12324,
+      "kimbundu_term": "Kutengeneka",
+      "portuguese_translation": "Mostrar com alarde",
+      "definition": null,
+      "alternative_meanings": [
+        "pôr às vistas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutengeneka-1 — https://www.kimbundu.org/pt/word/kutengeneka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12325,
+      "kimbundu_term": "Kutengeneka",
+      "portuguese_translation": "Kuritengeneka, e r. Expor-se",
+      "definition": null,
+      "alternative_meanings": [
+        "Exibir-se com ostentação"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutengeneka-1 — https://www.kimbundu.org/pt/word/kutengeneka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12326,
+      "kimbundu_term": "Kutengula",
+      "portuguese_translation": "Pôr de parte",
+      "definition": null,
+      "alternative_meanings": [
+        "abandonar",
+        "destituir",
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutengula-1 — https://www.kimbundu.org/pt/word/kutengula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12327,
+      "kimbundu_term": "Kutengunuka",
+      "portuguese_translation": "Desabrochar (o gomo)",
+      "definition": null,
+      "alternative_meanings": [
+        "Principiar a aparecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutengunuka-1 — https://www.kimbundu.org/pt/word/kutengunuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12328,
+      "kimbundu_term": "Kutengununa",
+      "portuguese_translation": "Desabrochar",
+      "definition": null,
+      "alternative_meanings": [
+        "Afastar",
+        "desunir (as bordas de uma abertura)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutengununa-1 — https://www.kimbundu.org/pt/word/kutengununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12329,
+      "kimbundu_term": "Kutengununa",
+      "portuguese_translation": "Kuritengununa, e r. Abrir-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutengununa-1 — https://www.kimbundu.org/pt/word/kutengununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12330,
+      "kimbundu_term": "Kutengunya",
+      "portuguese_translation": "Coxear",
+      "definition": null,
+      "alternative_meanings": [
+        "mancar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutengunya-1 — https://www.kimbundu.org/pt/word/kutengunya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12331,
+      "kimbundu_term": "Kutengunya",
+      "portuguese_translation": "O manquejar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutengunya-1 — https://www.kimbundu.org/pt/word/kutengunya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12332,
+      "kimbundu_term": "Kutenuka",
+      "portuguese_translation": "Começar a desabrochar, a abrir",
+      "definition": null,
+      "alternative_meanings": [
+        "Principiar a aclarar (o tempo)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutenuka-1 — https://www.kimbundu.org/pt/word/kutenuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12333,
+      "kimbundu_term": "Kutenuka",
+      "portuguese_translation": "Entreaberta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutenuka-1 — https://www.kimbundu.org/pt/word/kutenuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
