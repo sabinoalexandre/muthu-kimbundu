@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18824,
+      "kimbundu_term": "Pungu",
+      "portuguese_translation": "Pov. e sede do posto civ. do conc. de Cazengo, distr. de Quanza-Norte, prov. de Luanda, 7.989 hab. est. postal de 3.ª cl",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pungu-1 — https://www.kimbundu.org/pt/word/pungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18825,
+      "kimbundu_term": "Púsu",
+      "portuguese_translation": "Roca",
+      "definition": null,
+      "alternative_meanings": [
+        "fuso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, púsu-1 — https://www.kimbundu.org/pt/word/pusu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18826,
+      "kimbundu_term": "Puugi",
+      "portuguese_translation": "Conjurado",
+      "definition": null,
+      "alternative_meanings": [
+        "traidor"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, puugi-1 — https://www.kimbundu.org/pt/word/puugi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18827,
+      "kimbundu_term": "Púxu",
+      "portuguese_translation": "Pucho Pessoa que faz companhia a outra. Da mesma índole, jaez ou grupo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, púxu-1 — https://www.kimbundu.org/pt/word/puxu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18828,
+      "kimbundu_term": "R ko'e",
+      "portuguese_translation": "Amarelante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, r ko'e-1 — https://www.kimbundu.org/pt/word/r%20ko'e",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18829,
+      "kimbundu_term": "R ko'e",
+      "portuguese_translation": "Pássaro motacilino mais conhecido por «papa-figos»",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, r ko'e-1 — https://www.kimbundu.org/pt/word/r%20ko'e",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18830,
+      "kimbundu_term": "R'bómbo",
+      "portuguese_translation": "A polpa que envolve a pevide da múkua do embondeiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, r'bómbo-1 — https://www.kimbundu.org/pt/word/r'bombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18831,
+      "kimbundu_term": "R'bómbo",
+      "portuguese_translation": "A própria pevide",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, r'bómbo-1 — https://www.kimbundu.org/pt/word/r'bombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18832,
+      "kimbundu_term": "R'lónde",
+      "portuguese_translation": "Lugar elevado do chão para dormir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, r'lónde-1 — https://www.kimbundu.org/pt/word/r'londe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18833,
+      "kimbundu_term": "R'lónde",
+      "portuguese_translation": "Cama",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, r'lónde-1 — https://www.kimbundu.org/pt/word/r'londe",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
