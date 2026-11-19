@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13804,
+      "kimbundu_term": "Kuzwelela",
+      "portuguese_translation": "Kurizuelela, Falar a sós",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzwelela-1 — https://www.kimbundu.org/pt/word/kuzwelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13805,
+      "kimbundu_term": "Kuzwelesa",
+      "portuguese_translation": "Falar a",
+      "definition": null,
+      "alternative_meanings": [
+        "Interrogar. É também reflexivo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, também",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzwelesa-1 — https://www.kimbundu.org/pt/word/kuzwelesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13806,
+      "kimbundu_term": "Kuzwika",
+      "portuguese_translation": "Enroupar",
+      "definition": null,
+      "alternative_meanings": [
+        "dar de vestir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzwika-1 — https://www.kimbundu.org/pt/word/kuzwika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13807,
+      "kimbundu_term": "Kuzwika",
+      "portuguese_translation": "Amolar",
+      "definition": null,
+      "alternative_meanings": [
+        "desembotar",
+        "Afiar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzwika-1 — https://www.kimbundu.org/pt/word/kuzwika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13808,
+      "kimbundu_term": "Kuzwika",
+      "portuguese_translation": "Kurizuika, v. r. Afinar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "vestir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzwika-1 — https://www.kimbundu.org/pt/word/kuzwika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13809,
+      "kimbundu_term": "Kwa",
+      "portuguese_translation": "e pron. poss. pl. Deles",
+      "definition": null,
+      "alternative_meanings": [
+        "delas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, preposição, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwa-1 — https://www.kimbundu.org/pt/word/kwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13810,
+      "kimbundu_term": "Kwa",
+      "portuguese_translation": "prep. de, para, a, por",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, preposição, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwa-1 — https://www.kimbundu.org/pt/word/kwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13811,
+      "kimbundu_term": "Kwa",
+      "portuguese_translation": "Pron. relat. Que, cujo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, preposição, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwa-1 — https://www.kimbundu.org/pt/word/kwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13812,
+      "kimbundu_term": "Kwa",
+      "portuguese_translation": "Com eles",
+      "definition": null,
+      "alternative_meanings": [
+        "da parte deles"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, preposição, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwa-1 — https://www.kimbundu.org/pt/word/kwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13813,
+      "kimbundu_term": "Kwabhu",
+      "portuguese_translation": "Não mais! Basta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwabhu-1 — https://www.kimbundu.org/pt/word/kwabhu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
