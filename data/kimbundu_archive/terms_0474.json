@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4844,
+      "kimbundu_term": "Kidikánu",
+      "portuguese_translation": "Bocaça",
+      "definition": null,
+      "alternative_meanings": [
+        "bocarra",
+        "Boqueirão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidikánu-1 — https://www.kimbundu.org/pt/word/kidikanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4845,
+      "kimbundu_term": "Kidikóma",
+      "portuguese_translation": "Acrócomo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidikóma-1 — https://www.kimbundu.org/pt/word/kidikoma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4846,
+      "kimbundu_term": "Kidikóma",
+      "portuguese_translation": "Palmeira grande",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidikóma-1 — https://www.kimbundu.org/pt/word/kidikoma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4847,
+      "kimbundu_term": "Kidikungu",
+      "portuguese_translation": "Buracão",
+      "definition": null,
+      "alternative_meanings": [
+        "Precipício",
+        "covão",
+        "abismo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidikungu-1 — https://www.kimbundu.org/pt/word/kidikungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4848,
+      "kimbundu_term": "Kidila",
+      "portuguese_translation": "Saco",
+      "definition": null,
+      "alternative_meanings": [
+        "bolsa (para comida). Alforge",
+        "o seu conteúdo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidila-1 — https://www.kimbundu.org/pt/word/kidila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4849,
+      "kimbundu_term": "Kidila",
+      "portuguese_translation": "Medida de peso equivalente a duas arrobas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidila-1 — https://www.kimbundu.org/pt/word/kidila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4850,
+      "kimbundu_term": "Kidilonga",
+      "portuguese_translation": "Pratalhão",
+      "definition": null,
+      "alternative_meanings": [
+        "pratalhada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidilonga-1 — https://www.kimbundu.org/pt/word/kidilonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4851,
+      "kimbundu_term": "Kidilu",
+      "portuguese_translation": "Mangedoura",
+      "definition": null,
+      "alternative_meanings": [
+        "Lugar onde comem os animais de carga",
+        "Comedouro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidilu-1 — https://www.kimbundu.org/pt/word/kidilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4852,
+      "kimbundu_term": "Kidima",
+      "portuguese_translation": "Ato de andar para trás",
+      "definition": null,
+      "alternative_meanings": [
+        "Recuo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidima-1 — https://www.kimbundu.org/pt/word/kidima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4853,
+      "kimbundu_term": "Kidima",
+      "portuguese_translation": "recuamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidima-1 — https://www.kimbundu.org/pt/word/kidima",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
