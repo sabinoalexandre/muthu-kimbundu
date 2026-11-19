@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19294,
+      "kimbundu_term": "Tungu",
+      "portuguese_translation": "Paus",
+      "definition": null,
+      "alternative_meanings": [
+        "barrotes",
+        "Madeiramento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tungu-1 — https://www.kimbundu.org/pt/word/tungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19295,
+      "kimbundu_term": "Tungu",
+      "portuguese_translation": "Toza",
+      "definition": null,
+      "alternative_meanings": [
+        "pancada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tungu-1 — https://www.kimbundu.org/pt/word/tungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19296,
+      "kimbundu_term": "Túngu",
+      "portuguese_translation": "Fábrica",
+      "definition": null,
+      "alternative_meanings": [
+        "Casa ou lugar onde se fabrica alguma coisa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, túngu-1 — https://www.kimbundu.org/pt/word/tungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19297,
+      "kimbundu_term": "Tunguadi",
+      "portuguese_translation": "Conjunto de perdigotos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tunguadi-1 — https://www.kimbundu.org/pt/word/tunguadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19298,
+      "kimbundu_term": "Tungunu",
+      "portuguese_translation": "O primeiro (na ordem das coisas.)",
+      "definition": null,
+      "alternative_meanings": [
+        "O mais votado, o mais velho, o mais antigo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tungunu-1 — https://www.kimbundu.org/pt/word/tungunu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19299,
+      "kimbundu_term": "Tungunu",
+      "portuguese_translation": "adj",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tungunu-1 — https://www.kimbundu.org/pt/word/tungunu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19300,
+      "kimbundu_term": "Tungunu",
+      "portuguese_translation": "Principal",
+      "definition": null,
+      "alternative_meanings": [
+        "Que precede a todos (na série dos tempos ou do lugar)",
+        "Anterior",
+        "primitivo",
+        "Coevo das primeiras coisas, dos primeiros tempos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tungunu-1 — https://www.kimbundu.org/pt/word/tungunu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19301,
+      "kimbundu_term": "Tunya",
+      "portuguese_translation": "Expressão com que se exprime o efeito de um objeto que tomba",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tunya-1 — https://www.kimbundu.org/pt/word/tunya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19302,
+      "kimbundu_term": "Tunya",
+      "portuguese_translation": "Catrapús",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tunya-1 — https://www.kimbundu.org/pt/word/tunya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19303,
+      "kimbundu_term": "Tupoko",
+      "portuguese_translation": "Faquinhas",
+      "definition": null,
+      "alternative_meanings": [
+        "Pequenas incisões na pele"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tupoko-1 — https://www.kimbundu.org/pt/word/tupoko",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
