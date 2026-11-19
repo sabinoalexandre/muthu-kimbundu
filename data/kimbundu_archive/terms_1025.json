@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10354,
+      "kimbundu_term": "Kúloua",
+      "portuguese_translation": "Pescar à linha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúloua-1 — https://www.kimbundu.org/pt/word/kuloua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10355,
+      "kimbundu_term": "Kúloua",
+      "portuguese_translation": "Colher",
+      "definition": null,
+      "alternative_meanings": [
+        "atrair"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúloua-1 — https://www.kimbundu.org/pt/word/kuloua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10356,
+      "kimbundu_term": "Kúloua",
+      "portuguese_translation": "Pescaria",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúloua-1 — https://www.kimbundu.org/pt/word/kuloua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10357,
+      "kimbundu_term": "Kúlouela",
+      "portuguese_translation": "Pescar para outrem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlouela-1 — https://www.kimbundu.org/pt/word/kulouela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10358,
+      "kimbundu_term": "Kulouéla",
+      "portuguese_translation": "Enfeitiçar para",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulouéla-1 — https://www.kimbundu.org/pt/word/kulouela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10359,
+      "kimbundu_term": "Kulouésa",
+      "portuguese_translation": "Mandar enfeitiçar, ou envenenar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulouésa-1 — https://www.kimbundu.org/pt/word/kulouesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10360,
+      "kimbundu_term": "Kúlouesa",
+      "portuguese_translation": "Mandar pescar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlouesa-1 — https://www.kimbundu.org/pt/word/kulouesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10361,
+      "kimbundu_term": "Kúloza",
+      "portuguese_translation": "Dar tiro",
+      "definition": null,
+      "alternative_meanings": [
+        "disparar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúloza-1 — https://www.kimbundu.org/pt/word/kuloza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10362,
+      "kimbundu_term": "Kúloza",
+      "portuguese_translation": "Arrebentar com estrondo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúloza-1 — https://www.kimbundu.org/pt/word/kuloza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10363,
+      "kimbundu_term": "Kúloza",
+      "portuguese_translation": "Desfechar. Espingardear",
+      "definition": null,
+      "alternative_meanings": [
+        "passar pelas armas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúloza-1 — https://www.kimbundu.org/pt/word/kuloza",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
