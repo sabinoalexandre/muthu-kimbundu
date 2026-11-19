@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8924,
+      "kimbundu_term": "Kuj'kafa",
+      "portuguese_translation": "Ficar calcinado, tostado, reduzido a cinzas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuj'kafa-1 — https://www.kimbundu.org/pt/word/kuj'kafa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8925,
+      "kimbundu_term": "Kuj'kafa",
+      "portuguese_translation": "Estorricar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "tomar esturro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuj'kafa-1 — https://www.kimbundu.org/pt/word/kuj'kafa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8926,
+      "kimbundu_term": "Kujája",
+      "portuguese_translation": "Mitigar",
+      "definition": null,
+      "alternative_meanings": [
+        "suavizar (a sede)",
+        "Abrandar: atenuar (a vontade de beber)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujája-1 — https://www.kimbundu.org/pt/word/kujaja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8927,
+      "kimbundu_term": "Kujája",
+      "portuguese_translation": "Mitigação",
+      "definition": null,
+      "alternative_meanings": [
+        "alívio"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujája-1 — https://www.kimbundu.org/pt/word/kujaja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8928,
+      "kimbundu_term": "Kujájana",
+      "portuguese_translation": "Estar aflito: ver-se em dificuldades, oprimido",
+      "definition": null,
+      "alternative_meanings": [
+        "Padecer",
+        "ter sofrimento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujájana-1 — https://www.kimbundu.org/pt/word/kujajana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8929,
+      "kimbundu_term": "Kujajanesa",
+      "portuguese_translation": "Oprimir",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer padecer, suportar o peso de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujajanesa-1 — https://www.kimbundu.org/pt/word/kujajanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8930,
+      "kimbundu_term": "Kujajesa",
+      "portuguese_translation": "Dessedentar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer atenuar, dar de beber pequena quantidade de água"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujajesa-1 — https://www.kimbundu.org/pt/word/kujajesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8931,
+      "kimbundu_term": "Kujejeta",
+      "portuguese_translation": "Aproximar-se a pouco e pouco",
+      "definition": null,
+      "alternative_meanings": [
+        "Acercar-se sem se fazer notar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujejeta-1 — https://www.kimbundu.org/pt/word/kujejeta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8932,
+      "kimbundu_term": "Kujejeta",
+      "portuguese_translation": "Aparecer próximo, nas imediações",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Rondar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujejeta-1 — https://www.kimbundu.org/pt/word/kujejeta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8933,
+      "kimbundu_term": "Kujeta",
+      "portuguese_translation": "Adejar",
+      "definition": null,
+      "alternative_meanings": [
+        "pairar",
+        "Sombrear",
+        "estar iminente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujeta-1 — https://www.kimbundu.org/pt/word/kujeta",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
