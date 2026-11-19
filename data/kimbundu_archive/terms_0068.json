@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 784,
+      "kimbundu_term": "Dietu",
+      "portuguese_translation": "De nós",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dietu-1 — https://www.kimbundu.org/pt/word/dietu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 785,
+      "kimbundu_term": "Dietu",
+      "portuguese_translation": "propriamente nosso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dietu-1 — https://www.kimbundu.org/pt/word/dietu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 786,
+      "kimbundu_term": "Difexidi",
+      "portuguese_translation": "Desprezo",
+      "definition": null,
+      "alternative_meanings": [
+        "desdém"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, difexidi-1 — https://www.kimbundu.org/pt/word/difexidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 787,
+      "kimbundu_term": "Difexidi",
+      "portuguese_translation": "Negligência (no vestir)",
+      "definition": null,
+      "alternative_meanings": [
+        "desalinho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, difexidi-1 — https://www.kimbundu.org/pt/word/difexidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 788,
+      "kimbundu_term": "Difexidi",
+      "portuguese_translation": "Abandono",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, difexidi-1 — https://www.kimbundu.org/pt/word/difexidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 789,
+      "kimbundu_term": "Difóngo",
+      "portuguese_translation": "Fruta do mufóngo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, difóngo-1 — https://www.kimbundu.org/pt/word/difongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 790,
+      "kimbundu_term": "Dîfu",
+      "portuguese_translation": "Folha (de planta)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dîfu-1 — https://www.kimbundu.org/pt/word/difu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 791,
+      "kimbundu_term": "Difuba",
+      "portuguese_translation": "Fruta verde, que não serve para comer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, difuba-1 — https://www.kimbundu.org/pt/word/difuba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 792,
+      "kimbundu_term": "Difuba",
+      "portuguese_translation": "Despeito",
+      "definition": null,
+      "alternative_meanings": [
+        "emulação",
+        "ciúme"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, difuba-1 — https://www.kimbundu.org/pt/word/difuba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 793,
+      "kimbundu_term": "Difuba",
+      "portuguese_translation": "Excesso de zelo",
+      "definition": null,
+      "alternative_meanings": [
+        "inveja"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, difuba-1 — https://www.kimbundu.org/pt/word/difuba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
