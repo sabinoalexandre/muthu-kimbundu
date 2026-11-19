@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10524,
+      "kimbundu_term": "Kulungúla",
+      "portuguese_translation": "Deliberar",
+      "definition": null,
+      "alternative_meanings": [
+        "decidir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungúla-1 — https://www.kimbundu.org/pt/word/kulungula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10525,
+      "kimbundu_term": "Kulungúla",
+      "portuguese_translation": "Tomar uma resolução",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungúla-1 — https://www.kimbundu.org/pt/word/kulungula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10526,
+      "kimbundu_term": "Kulunguluka",
+      "portuguese_translation": "Ficar mudado, transposto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulunguluka-1 — https://www.kimbundu.org/pt/word/kulunguluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10527,
+      "kimbundu_term": "Kulunguluka",
+      "portuguese_translation": "Passar de um para outro lugar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulunguluka-1 — https://www.kimbundu.org/pt/word/kulunguluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10528,
+      "kimbundu_term": "Kulunguluka",
+      "portuguese_translation": "Transferir-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulunguluka-1 — https://www.kimbundu.org/pt/word/kulunguluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10529,
+      "kimbundu_term": "Kulunguluka",
+      "portuguese_translation": "Transposição",
+      "definition": null,
+      "alternative_meanings": [
+        "transferência",
+        "troca"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulunguluka-1 — https://www.kimbundu.org/pt/word/kulunguluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10530,
+      "kimbundu_term": "Kulungulukisa",
+      "portuguese_translation": "Fazer ultrapassar, transferir, ir de um para outro lugar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungulukisa-1 — https://www.kimbundu.org/pt/word/kulungulukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10531,
+      "kimbundu_term": "Kulungulukisa",
+      "portuguese_translation": "Fazer negar, ir contra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungulukisa-1 — https://www.kimbundu.org/pt/word/kulungulukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10532,
+      "kimbundu_term": "Kulungulukxila",
+      "portuguese_translation": "Contradizer (alguém no que diz)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungulukxila-1 — https://www.kimbundu.org/pt/word/kulungulukxila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10533,
+      "kimbundu_term": "Kulungulukxila",
+      "portuguese_translation": "Negar, discordar, não convir (mostrando razões)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungulukxila-1 — https://www.kimbundu.org/pt/word/kulungulukxila",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
