@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 714,
+      "kimbundu_term": "Dibuílu",
+      "portuguese_translation": "Termo",
+      "definition": null,
+      "alternative_meanings": [
+        "cabo",
+        "fim"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibuílu-1 — https://www.kimbundu.org/pt/word/dibuilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 715,
+      "kimbundu_term": "Dibuílu",
+      "portuguese_translation": "Limite abstrato",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibuílu-1 — https://www.kimbundu.org/pt/word/dibuilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 716,
+      "kimbundu_term": "Dibuílu",
+      "portuguese_translation": "Finalidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibuílu-1 — https://www.kimbundu.org/pt/word/dibuilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 717,
+      "kimbundu_term": "Dibuíma",
+      "portuguese_translation": "Ofego",
+      "definition": null,
+      "alternative_meanings": [
+        "respiração",
+        "fôlego"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibuíma-1 — https://www.kimbundu.org/pt/word/dibuima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 718,
+      "kimbundu_term": "Dibuinginu",
+      "portuguese_translation": "Esgotadouro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibuinginu-1 — https://www.kimbundu.org/pt/word/dibuinginu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 719,
+      "kimbundu_term": "Dibuinginu",
+      "portuguese_translation": "Abertura do vertedouro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibuinginu-1 — https://www.kimbundu.org/pt/word/dibuinginu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 720,
+      "kimbundu_term": "Dibuinginu",
+      "portuguese_translation": "Lugar por onde vasa ou se escoa o líquido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibuinginu-1 — https://www.kimbundu.org/pt/word/dibuinginu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 721,
+      "kimbundu_term": "Dibuínyi",
+      "portuguese_translation": "Mossa: abertura, falha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibuínyi-1 — https://www.kimbundu.org/pt/word/dibuinyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 722,
+      "kimbundu_term": "Dibuínyi",
+      "portuguese_translation": "Diz-se da falta de um dente, ou abertura por ele deixada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibuínyi-1 — https://www.kimbundu.org/pt/word/dibuinyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 723,
+      "kimbundu_term": "Dibuínyi",
+      "portuguese_translation": "adj. Desdentado",
+      "definition": null,
+      "alternative_meanings": [
+        "privado de um dente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibuínyi-1 — https://www.kimbundu.org/pt/word/dibuinyi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
