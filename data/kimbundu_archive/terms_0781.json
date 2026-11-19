@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7914,
+      "kimbundu_term": "Kubumuka",
+      "portuguese_translation": "Ficar roçado, quebrado, falhado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubumuka-1 — https://www.kimbundu.org/pt/word/kubumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7915,
+      "kimbundu_term": "Kubumúna",
+      "portuguese_translation": "Fazer quebrada, mossa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubumúna-1 — https://www.kimbundu.org/pt/word/kubumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7916,
+      "kimbundu_term": "Kubumúna",
+      "portuguese_translation": "Alanhar, ferir levemente: o poko, inga k' iatu' e, i bumuna. Abrir brecha. Desguarnecer (o exterior de uma parede, a sup",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubumúna-1 — https://www.kimbundu.org/pt/word/kubumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7917,
+      "kimbundu_term": "Kubúna",
+      "portuguese_translation": "Embotar",
+      "definition": null,
+      "alternative_meanings": [
+        "cortar pouco"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubúna-1 — https://www.kimbundu.org/pt/word/kubuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7918,
+      "kimbundu_term": "Kubúna",
+      "portuguese_translation": "Tornar inofensivo ou menos ativo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubúna-1 — https://www.kimbundu.org/pt/word/kubuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7919,
+      "kimbundu_term": "Kúbunda",
+      "portuguese_translation": "Dar pancadas em",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbunda-1 — https://www.kimbundu.org/pt/word/kubunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7920,
+      "kimbundu_term": "Kúbunda",
+      "portuguese_translation": "Fustigar",
+      "definition": null,
+      "alternative_meanings": [
+        "sacudir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbunda-1 — https://www.kimbundu.org/pt/word/kubunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7921,
+      "kimbundu_term": "Kúbunda",
+      "portuguese_translation": "Trilhar",
+      "definition": null,
+      "alternative_meanings": [
+        "descascar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbunda-1 — https://www.kimbundu.org/pt/word/kubunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7922,
+      "kimbundu_term": "Kúbunda",
+      "portuguese_translation": "Desfolhar",
+      "definition": null,
+      "alternative_meanings": [
+        "tirar da vagem"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbunda-1 — https://www.kimbundu.org/pt/word/kubunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7923,
+      "kimbundu_term": "Kúbunda",
+      "portuguese_translation": "Kuribunda, e r. Atirar-se, arremessar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbunda-1 — https://www.kimbundu.org/pt/word/kubunda",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
