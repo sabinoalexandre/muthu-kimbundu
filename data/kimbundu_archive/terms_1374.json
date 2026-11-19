@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13844,
+      "kimbundu_term": "Kwambe",
+      "portuguese_translation": "Deveras?",
+      "definition": null,
+      "alternative_meanings": [
+        "É isso?",
+        "Sim?",
+        "Será verdade?",
+        "É boa…"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwambe-1 — https://www.kimbundu.org/pt/word/kwambe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13845,
+      "kimbundu_term": "Kwambela",
+      "portuguese_translation": "Avisar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer saber",
+        "Transmitir",
+        "Dizer",
+        "Fazer chegar ao conhecimento de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwambela-1 — https://www.kimbundu.org/pt/word/kwambela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13846,
+      "kimbundu_term": "Kwami",
+      "portuguese_translation": "(contr. da prep. kuá e pron. eme). Meu",
+      "definition": null,
+      "alternative_meanings": [
+        "minha",
+        "Pertencente à minha pessoa",
+        "loc. adj. A mim",
+        "comigo",
+        "Para mim"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwami-1 — https://www.kimbundu.org/pt/word/kwami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13847,
+      "kimbundu_term": "Kwamwa",
+      "portuguese_translation": "Chupar o leite das tetas",
+      "definition": null,
+      "alternative_meanings": [
+        "Mamar",
+        "Absorver"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwamwa-1 — https://www.kimbundu.org/pt/word/kwamwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13848,
+      "kimbundu_term": "Kwamwisa",
+      "portuguese_translation": "Dar de mamar a",
+      "definition": null,
+      "alternative_meanings": [
+        "Aleitar",
+        "amamentar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwamwisa-1 — https://www.kimbundu.org/pt/word/kwamwisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13849,
+      "kimbundu_term": "Kwandulula",
+      "portuguese_translation": "Ruminar",
+      "definition": null,
+      "alternative_meanings": [
+        "remoer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwandulula-1 — https://www.kimbundu.org/pt/word/kwandulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13850,
+      "kimbundu_term": "Kwandulula",
+      "portuguese_translation": "Corar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar vivo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwandulula-1 — https://www.kimbundu.org/pt/word/kwandulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13851,
+      "kimbundu_term": "Kwaneka",
+      "portuguese_translation": "Assoalhar",
+      "definition": null,
+      "alternative_meanings": [
+        "Estender (roupa, viandas, etc.) para enxugar ou secar ao sol"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwaneka-1 — https://www.kimbundu.org/pt/word/kwaneka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13852,
+      "kimbundu_term": "Kwaneka",
+      "portuguese_translation": "Patentear",
+      "definition": null,
+      "alternative_meanings": [
+        "mostrar",
+        "expor às vistas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwaneka-1 — https://www.kimbundu.org/pt/word/kwaneka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13853,
+      "kimbundu_term": "Kwata",
+      "portuguese_translation": "Agarra!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kwata-1 — https://www.kimbundu.org/pt/word/kwata",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
