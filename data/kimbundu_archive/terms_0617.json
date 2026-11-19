@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6274,
+      "kimbundu_term": "Kisusise",
+      "portuguese_translation": "Micturição",
+      "definition": null,
+      "alternative_meanings": [
+        "Fluxo sanguíneo pelas vias urinárias"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisusise-1 — https://www.kimbundu.org/pt/word/kisusise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6275,
+      "kimbundu_term": "Kisusise",
+      "portuguese_translation": "Que faz urinar",
+      "definition": null,
+      "alternative_meanings": [
+        "Mictório"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisusise-1 — https://www.kimbundu.org/pt/word/kisusise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6276,
+      "kimbundu_term": "Kisuta",
+      "portuguese_translation": "Trapo",
+      "definition": null,
+      "alternative_meanings": [
+        "rodela",
+        "bucha",
+        "Panete",
+        "farrapo",
+        "Pedaço de pano que se aplica às feridas",
+        "Rôlho, chumaço"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisuta-1 — https://www.kimbundu.org/pt/word/kisuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6277,
+      "kimbundu_term": "Kisuta",
+      "portuguese_translation": "Morrão",
+      "definition": null,
+      "alternative_meanings": [
+        "cheiro a pano queimado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisuta-1 — https://www.kimbundu.org/pt/word/kisuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6278,
+      "kimbundu_term": "Kisuta",
+      "portuguese_translation": "Homem sem dignidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisuta-1 — https://www.kimbundu.org/pt/word/kisuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6279,
+      "kimbundu_term": "Kisutu",
+      "portuguese_translation": "Chibo",
+      "definition": null,
+      "alternative_meanings": [
+        "bode"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisutu-1 — https://www.kimbundu.org/pt/word/kisutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6280,
+      "kimbundu_term": "Kisuxi",
+      "portuguese_translation": "Ombro",
+      "definition": null,
+      "alternative_meanings": [
+        "Espádua"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisuxi-1 — https://www.kimbundu.org/pt/word/kisuxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6281,
+      "kimbundu_term": "Kisuxinu",
+      "portuguese_translation": "Bexiga",
+      "definition": null,
+      "alternative_meanings": [
+        "bolsa que contém a urina. fig. Seringa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisuxinu-1 — https://www.kimbundu.org/pt/word/kisuxinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6282,
+      "kimbundu_term": "Kisuxise",
+      "portuguese_translation": "Tenesmo vesical",
+      "definition": null,
+      "alternative_meanings": [
+        "incontinência de urinas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisuxise-1 — https://www.kimbundu.org/pt/word/kisuxise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6283,
+      "kimbundu_term": "Kisuxise",
+      "portuguese_translation": "Urinário",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisuxise-1 — https://www.kimbundu.org/pt/word/kisuxise",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
