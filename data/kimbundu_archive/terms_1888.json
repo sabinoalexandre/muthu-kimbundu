@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18984,
+      "kimbundu_term": "Sése",
+      "portuguese_translation": "Bosca",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sése-1 — https://www.kimbundu.org/pt/word/sese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18985,
+      "kimbundu_term": "Seséle",
+      "portuguese_translation": "(IX) Que principia",
+      "definition": null,
+      "alternative_meanings": [
+        "incipiente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, seséle-1 — https://www.kimbundu.org/pt/word/sesele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18986,
+      "kimbundu_term": "Seséle",
+      "portuguese_translation": "Pessoa que principia a exercitar-se em alguma coisa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, seséle-1 — https://www.kimbundu.org/pt/word/sesele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18987,
+      "kimbundu_term": "Seseme",
+      "portuguese_translation": "Novilho",
+      "definition": null,
+      "alternative_meanings": [
+        "bácoro",
+        "vitela"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, seseme-1 — https://www.kimbundu.org/pt/word/seseme",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18988,
+      "kimbundu_term": "Seseme",
+      "portuguese_translation": "Animal doméstico",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, seseme-1 — https://www.kimbundu.org/pt/word/seseme",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18989,
+      "kimbundu_term": "Sexi",
+      "portuguese_translation": "Corça",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sexi-1 — https://www.kimbundu.org/pt/word/sexi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18990,
+      "kimbundu_term": "Sexi",
+      "portuguese_translation": "Pov. e sede da vila da Muxima, conc. da Quissama, margem esquerda do rio Quanza, distr. e prov. de Luanda, a 9° e 30' de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sexi-1 — https://www.kimbundu.org/pt/word/sexi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18991,
+      "kimbundu_term": "Seyalu",
+      "portuguese_translation": "Ceia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, seyalu-1 — https://www.kimbundu.org/pt/word/seyalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18992,
+      "kimbundu_term": "Sobha",
+      "portuguese_translation": "Nome genérico de representante da autoridade gentílica em determinada região",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sobha-1 — https://www.kimbundu.org/pt/word/sobha",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18993,
+      "kimbundu_term": "Sobha",
+      "portuguese_translation": "Palavra que o proponente de um nongonongo pede aos que não souberem decifrá-lo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sobha-1 — https://www.kimbundu.org/pt/word/sobha",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
