@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10914,
+      "kimbundu_term": "Kúnoka",
+      "portuguese_translation": "Chover",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúnoka-1 — https://www.kimbundu.org/pt/word/kunoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10915,
+      "kimbundu_term": "Kúnokena",
+      "portuguese_translation": "Apanhar chuva",
+      "definition": null,
+      "alternative_meanings": [
+        "estar molhado (por efeito da chuva)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúnokena-1 — https://www.kimbundu.org/pt/word/kunokena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10916,
+      "kimbundu_term": "Kunokesa",
+      "portuguese_translation": "Fazer chover",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunokesa-1 — https://www.kimbundu.org/pt/word/kunokesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10917,
+      "kimbundu_term": "Kunokóka",
+      "portuguese_translation": "Ficar triturado, moído, trilhado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunokóka-1 — https://www.kimbundu.org/pt/word/kunokoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10918,
+      "kimbundu_term": "Kunokóka",
+      "portuguese_translation": "do, moido, trilhado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunokóka-1 — https://www.kimbundu.org/pt/word/kunokoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10919,
+      "kimbundu_term": "Kunokóna",
+      "portuguese_translation": "Triturar",
+      "definition": null,
+      "alternative_meanings": [
+        "trilhar",
+        "moer",
+        "Pulverizar",
+        "desfazer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunokóna-1 — https://www.kimbundu.org/pt/word/kunokona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10920,
+      "kimbundu_term": "Kunokóna",
+      "portuguese_translation": "Kurinokona, v. r. fig. Irritar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "moer-se",
+        "afligir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunokóna-1 — https://www.kimbundu.org/pt/word/kunokona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10921,
+      "kimbundu_term": "Kunomona",
+      "portuguese_translation": "Tirar, extrair com cautela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunomona-1 — https://www.kimbundu.org/pt/word/kunomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10922,
+      "kimbundu_term": "Kunona",
+      "portuguese_translation": "Selecionar",
+      "definition": null,
+      "alternative_meanings": [
+        "Separar",
+        "tirar um de cada vez",
+        "Apurar",
+        "distinguir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunona-1 — https://www.kimbundu.org/pt/word/kunona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10923,
+      "kimbundu_term": "Kunona",
+      "portuguese_translation": "Seleção",
+      "definition": null,
+      "alternative_meanings": [
+        "escolha"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunona-1 — https://www.kimbundu.org/pt/word/kunona",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
