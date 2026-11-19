@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19744,
+      "kimbundu_term": "Umvunji",
+      "portuguese_translation": "Falta de senso prático",
+      "definition": null,
+      "alternative_meanings": [
+        "parvoice"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, umvunji-1 — https://www.kimbundu.org/pt/word/umvunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19745,
+      "kimbundu_term": "Umvwama",
+      "portuguese_translation": "Opulência",
+      "definition": null,
+      "alternative_meanings": [
+        "abundância",
+        "riqueza"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, umvwama-1 — https://www.kimbundu.org/pt/word/umvwama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19746,
+      "kimbundu_term": "Umwene",
+      "portuguese_translation": "O mesmo estado",
+      "definition": null,
+      "alternative_meanings": [
+        "a mesma situação",
+        "a mesma coisa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, umwene-1 — https://www.kimbundu.org/pt/word/umwene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19747,
+      "kimbundu_term": "Umwene",
+      "portuguese_translation": "Assim, assim",
+      "definition": null,
+      "alternative_meanings": [
+        "sem alteração"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, umwene-1 — https://www.kimbundu.org/pt/word/umwene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19748,
+      "kimbundu_term": "Umwene",
+      "portuguese_translation": "Da mesma forma",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, umwene-1 — https://www.kimbundu.org/pt/word/umwene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19749,
+      "kimbundu_term": "Uná",
+      "portuguese_translation": "Aquele",
+      "definition": null,
+      "alternative_meanings": [
+        "aquela"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uná-1 — https://www.kimbundu.org/pt/word/una",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19750,
+      "kimbundu_term": "Uná",
+      "portuguese_translation": "Diferente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uná-1 — https://www.kimbundu.org/pt/word/una",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19751,
+      "kimbundu_term": "Unangenu",
+      "portuguese_translation": "Passadio",
+      "definition": null,
+      "alternative_meanings": [
+        "forma de viver"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, unangenu-1 — https://www.kimbundu.org/pt/word/unangenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19752,
+      "kimbundu_term": "Undanda",
+      "portuguese_translation": "Temeridade",
+      "definition": null,
+      "alternative_meanings": [
+        "audácia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, undanda-1 — https://www.kimbundu.org/pt/word/undanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19753,
+      "kimbundu_term": "Undanda",
+      "portuguese_translation": "Brutalidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, undanda-1 — https://www.kimbundu.org/pt/word/undanda",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
