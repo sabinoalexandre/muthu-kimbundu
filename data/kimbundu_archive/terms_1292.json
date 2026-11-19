@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13024,
+      "kimbundu_term": "Kuvunzula",
+      "portuguese_translation": "Perturbar",
+      "definition": null,
+      "alternative_meanings": [
+        "ofuscar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvunzula-1 — https://www.kimbundu.org/pt/word/kuvunzula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13025,
+      "kimbundu_term": "Kuvunzula",
+      "portuguese_translation": "Kurivunzula, v. r. Tornar-se turvo",
+      "definition": null,
+      "alternative_meanings": [
+        "toldar-se",
+        "fig. Embriagar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvunzula-1 — https://www.kimbundu.org/pt/word/kuvunzula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13026,
+      "kimbundu_term": "Kuvutuka",
+      "portuguese_translation": "Voltar para trás ou para o ponto de partida",
+      "definition": null,
+      "alternative_meanings": [
+        "Tornar",
+        "Regressar",
+        "retroceder"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvutuka-1 — https://www.kimbundu.org/pt/word/kuvutuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13027,
+      "kimbundu_term": "Kuvutukisa",
+      "portuguese_translation": "Recuar",
+      "definition": null,
+      "alternative_meanings": [
+        "retroceder",
+        "Não prosseguir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvutukisa-1 — https://www.kimbundu.org/pt/word/kuvutukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13028,
+      "kimbundu_term": "Kuvutukla",
+      "portuguese_translation": "Tornar",
+      "definition": null,
+      "alternative_meanings": [
+        "repetir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvutukla-1 — https://www.kimbundu.org/pt/word/kuvutukla",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13029,
+      "kimbundu_term": "Kuvutukla",
+      "portuguese_translation": "Repetição",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvutukla-1 — https://www.kimbundu.org/pt/word/kuvutukla",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13030,
+      "kimbundu_term": "Kuvutukla",
+      "portuguese_translation": "Kurivutuki'a, e r. Reconciliar-se (marido e mulher)",
+      "definition": null,
+      "alternative_meanings": [
+        "Tornar ao estado anterior"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvutukla-1 — https://www.kimbundu.org/pt/word/kuvutukla",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13031,
+      "kimbundu_term": "Kuvutula",
+      "portuguese_translation": "Não aceitar",
+      "definition": null,
+      "alternative_meanings": [
+        "devolver",
+        "Retornar",
+        "resistir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvutula-1 — https://www.kimbundu.org/pt/word/kuvutula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13032,
+      "kimbundu_term": "Kuvutula",
+      "portuguese_translation": "Devolução",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvutula-1 — https://www.kimbundu.org/pt/word/kuvutula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13033,
+      "kimbundu_term": "Kuvutulla",
+      "portuguese_translation": "Responder",
+      "definition": null,
+      "alternative_meanings": [
+        "retribuir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvutulla-1 — https://www.kimbundu.org/pt/word/kuvutulla",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
