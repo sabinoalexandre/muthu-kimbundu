@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10884,
+      "kimbundu_term": "Kungunguma",
+      "portuguese_translation": "Soltar sons uniformes (como os instrumentos de foles que servem de acompanhamento dos sons agudos)",
+      "definition": null,
+      "alternative_meanings": [
+        "Resoar",
+        "retumbar",
+        "Produzir som cavo e profundo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungunguma-1 — https://www.kimbundu.org/pt/word/kungunguma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10885,
+      "kimbundu_term": "Kungunguma",
+      "portuguese_translation": "Retumbância",
+      "definition": null,
+      "alternative_meanings": [
+        "vibração",
+        "eco",
+        "Ronco"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungunguma-1 — https://www.kimbundu.org/pt/word/kungunguma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10886,
+      "kimbundu_term": "Kungungumisa",
+      "portuguese_translation": "Fazer retumbar, vibrar, soltar sons graves e prolongados",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungungumisa-1 — https://www.kimbundu.org/pt/word/kungungumisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10887,
+      "kimbundu_term": "Kungunguta",
+      "portuguese_translation": "Resmungar",
+      "definition": null,
+      "alternative_meanings": [
+        "boquejar",
+        "Falar entre dentes",
+        "dizer em voz baixa"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungunguta-1 — https://www.kimbundu.org/pt/word/kungunguta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10888,
+      "kimbundu_term": "Kungungutila",
+      "portuguese_translation": "Fazer queixas a",
+      "definition": null,
+      "alternative_meanings": [
+        "Dizer murmúrios para"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungungutila-1 — https://www.kimbundu.org/pt/word/kungungutila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10889,
+      "kimbundu_term": "Kungungutila",
+      "portuguese_translation": "Kuringungutila, e r. Andar a resmungar, a queixar-se. Dar sinais de descontentamento falando baixo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kungungutila-1 — https://www.kimbundu.org/pt/word/kungungutila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10890,
+      "kimbundu_term": "Kunjanguísa",
+      "portuguese_translation": "Fazer mastigar, triturar com os dentes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunjanguísa-1 — https://www.kimbundu.org/pt/word/kunjanguisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10891,
+      "kimbundu_term": "Kunjanguta",
+      "portuguese_translation": "Mastigar",
+      "definition": null,
+      "alternative_meanings": [
+        "mascar",
+        "ruminar",
+        "Triturar com os dentes"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunjanguta-1 — https://www.kimbundu.org/pt/word/kunjanguta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10892,
+      "kimbundu_term": "Kunjanguta",
+      "portuguese_translation": "Mastigação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunjanguta-1 — https://www.kimbundu.org/pt/word/kunjanguta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10893,
+      "kimbundu_term": "Kunjanguta",
+      "portuguese_translation": "Kurinjangufa, v. r. Morder-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunjanguta-1 — https://www.kimbundu.org/pt/word/kunjanguta",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
