@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4634,
+      "kimbundu_term": "Kibiti",
+      "portuguese_translation": "Que passou ou decorreu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibiti-1 — https://www.kimbundu.org/pt/word/kibiti",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4635,
+      "kimbundu_term": "Kibiti",
+      "portuguese_translation": "O passado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibiti-1 — https://www.kimbundu.org/pt/word/kibiti",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4636,
+      "kimbundu_term": "Kibiti",
+      "portuguese_translation": "O pretérito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibiti-1 — https://www.kimbundu.org/pt/word/kibiti",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4637,
+      "kimbundu_term": "Kibiti",
+      "portuguese_translation": "O que lá vai",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibiti-1 — https://www.kimbundu.org/pt/word/kibiti",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4638,
+      "kimbundu_term": "Kibitilu",
+      "portuguese_translation": "Coisa por onde se passa ou atravessa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibitilu-1 — https://www.kimbundu.org/pt/word/kibitilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4639,
+      "kimbundu_term": "Kibitilu",
+      "portuguese_translation": "Passadiço",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibitilu-1 — https://www.kimbundu.org/pt/word/kibitilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4640,
+      "kimbundu_term": "Kibitilu",
+      "portuguese_translation": "Passagem estreita",
+      "definition": null,
+      "alternative_meanings": [
+        "corredor de comunicação"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibitilu-1 — https://www.kimbundu.org/pt/word/kibitilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4641,
+      "kimbundu_term": "Kibitise",
+      "portuguese_translation": "Que deixa ou faz passar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibitise-1 — https://www.kimbundu.org/pt/word/kibitise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4642,
+      "kimbundu_term": "Kibitise",
+      "portuguese_translation": "Passador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibitise-1 — https://www.kimbundu.org/pt/word/kibitise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4643,
+      "kimbundu_term": "Kibitise",
+      "portuguese_translation": "Utensílio culinário por onde se espreme massas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibitise-1 — https://www.kimbundu.org/pt/word/kibitise",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
