@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5204,
+      "kimbundu_term": "Kikéla",
+      "portuguese_translation": "Procurador",
+      "definition": null,
+      "alternative_meanings": [
+        "Medianeiro, encarregado de negócios de outrem",
+        "Gestor",
+        "mandatário"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikéla-1 — https://www.kimbundu.org/pt/word/kikela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5205,
+      "kimbundu_term": "Kikele",
+      "portuguese_translation": "Próprio para oferecer",
+      "definition": null,
+      "alternative_meanings": [
+        "Digno de oferta"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikele-1 — https://www.kimbundu.org/pt/word/kikele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5206,
+      "kimbundu_term": "Kikele",
+      "portuguese_translation": "O que se oferece",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikele-1 — https://www.kimbundu.org/pt/word/kikele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5207,
+      "kimbundu_term": "Kikele",
+      "portuguese_translation": "O que acode ao anzol ou à nassa",
+      "definition": null,
+      "alternative_meanings": [
+        "O que se pode pescar",
+        "Frango do mar",
+        "taneca",
+        "Peixe (cacuço)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikele-1 — https://www.kimbundu.org/pt/word/kikele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5208,
+      "kimbundu_term": "Kikelekele",
+      "portuguese_translation": "A parte grossa e espinhosa da hasta da palmeira, depois de cortada a fimpela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikelekele-1 — https://www.kimbundu.org/pt/word/kikelekele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5209,
+      "kimbundu_term": "Kikelekete",
+      "portuguese_translation": "Espiga de milho que não chegou a completo desenvolvimento. É mais usado no pl. ikelekete",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikelekete-1 — https://www.kimbundu.org/pt/word/kikelekete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5210,
+      "kimbundu_term": "Kikelengu",
+      "portuguese_translation": "Esófago",
+      "definition": null,
+      "alternative_meanings": [
+        "Canal estomacal. (Diz-se dos animais)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikelengu-1 — https://www.kimbundu.org/pt/word/kikelengu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5211,
+      "kimbundu_term": "Kikeletu",
+      "portuguese_translation": "Corneto",
+      "definition": null,
+      "alternative_meanings": [
+        "Substância de que se compõe o esófago"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikeletu-1 — https://www.kimbundu.org/pt/word/kikeletu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5212,
+      "kimbundu_term": "Kikeletu",
+      "portuguese_translation": "Osso mole",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikeletu-1 — https://www.kimbundu.org/pt/word/kikeletu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5213,
+      "kimbundu_term": "Kikemete",
+      "portuguese_translation": "Tenesmo",
+      "definition": null,
+      "alternative_meanings": [
+        "puxo",
+        "Dejeção dolorosa de pus e outros humores. É mais usado no pl. ikemete"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikemete-1 — https://www.kimbundu.org/pt/word/kikemete",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
