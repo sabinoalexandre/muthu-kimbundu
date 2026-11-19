@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4014,
+      "kimbundu_term": "Kapúia",
+      "portuguese_translation": "Capim forrageiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kapúia-1 — https://www.kimbundu.org/pt/word/kapuia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4015,
+      "kimbundu_term": "Kapuipi",
+      "portuguese_translation": "Planta papilionada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kapuipi-1 — https://www.kimbundu.org/pt/word/kapuipi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4016,
+      "kimbundu_term": "Kapuipi",
+      "portuguese_translation": "Papila",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kapuipi-1 — https://www.kimbundu.org/pt/word/kapuipi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4017,
+      "kimbundu_term": "Kapulungu",
+      "portuguese_translation": "Pobresinho",
+      "definition": null,
+      "alternative_meanings": [
+        "Infeliz"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kapulungu-1 — https://www.kimbundu.org/pt/word/kapulungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4018,
+      "kimbundu_term": "Kapulungu",
+      "portuguese_translation": "Pobrete",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kapulungu-1 — https://www.kimbundu.org/pt/word/kapulungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4019,
+      "kimbundu_term": "Kapúnga",
+      "portuguese_translation": "Meirinho",
+      "definition": null,
+      "alternative_meanings": [
+        "moço"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kapúnga-1 — https://www.kimbundu.org/pt/word/kapunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4020,
+      "kimbundu_term": "Kapúnga",
+      "portuguese_translation": "Pov. na margem esquerda e circ. civ. do Dande, distr. e prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kapúnga-1 — https://www.kimbundu.org/pt/word/kapunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4021,
+      "kimbundu_term": "Kapúngu-pungu",
+      "portuguese_translation": "Planta herbácea com pubescência áspera, hirta e caduca",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kapúngu-pungu-1 — https://www.kimbundu.org/pt/word/kapungu-pungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4022,
+      "kimbundu_term": "Kása",
+      "portuguese_translation": "Cassa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kása-1 — https://www.kimbundu.org/pt/word/kasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4023,
+      "kimbundu_term": "Kása",
+      "portuguese_translation": "Palavra que exprime quantidade, enormidade de coisas ou seres",
+      "definition": null,
+      "alternative_meanings": [
+        "Grande número"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kása-1 — https://www.kimbundu.org/pt/word/kasa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
