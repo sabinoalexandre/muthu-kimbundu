@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10254,
+      "kimbundu_term": "Kulóka",
+      "portuguese_translation": "Prometer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulóka-1 — https://www.kimbundu.org/pt/word/kuloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10255,
+      "kimbundu_term": "Kulóka",
+      "portuguese_translation": "Asseveração que se faz tomando a divindade por testemunha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulóka-1 — https://www.kimbundu.org/pt/word/kuloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10256,
+      "kimbundu_term": "Kulokalala",
+      "portuguese_translation": "Difamar",
+      "definition": null,
+      "alternative_meanings": [
+        "prejudicar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulokalala-1 — https://www.kimbundu.org/pt/word/kulokalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10257,
+      "kimbundu_term": "Kulokalala",
+      "portuguese_translation": "Amofinar",
+      "definition": null,
+      "alternative_meanings": [
+        "contender"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulokalala-1 — https://www.kimbundu.org/pt/word/kulokalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10258,
+      "kimbundu_term": "Kulokalala",
+      "portuguese_translation": "Kurilokalala, v. r. Dignar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulokalala-1 — https://www.kimbundu.org/pt/word/kulokalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10259,
+      "kimbundu_term": "Kulokela",
+      "portuguese_translation": "Invocar, jurando o nome de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulokela-1 — https://www.kimbundu.org/pt/word/kulokela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10260,
+      "kimbundu_term": "Kulokela",
+      "portuguese_translation": "Afirmar, asseverar em nome de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulokela-1 — https://www.kimbundu.org/pt/word/kulokela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10261,
+      "kimbundu_term": "Kulokesa",
+      "portuguese_translation": "Fazer jurar",
+      "definition": null,
+      "alternative_meanings": [
+        "afirmar solenemente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulokesa-1 — https://www.kimbundu.org/pt/word/kulokesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10262,
+      "kimbundu_term": "Kulokoka",
+      "portuguese_translation": "Saltar de dentro para fora de qualquer orifício ou passagem estreita",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulokoka-1 — https://www.kimbundu.org/pt/word/kulokoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10263,
+      "kimbundu_term": "Kulokoka",
+      "portuguese_translation": "Sair de algum buraco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulokoka-1 — https://www.kimbundu.org/pt/word/kulokoka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
