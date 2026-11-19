@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4174,
+      "kimbundu_term": "Katâtu",
+      "portuguese_translation": "Terceira vez",
+      "definition": null,
+      "alternative_meanings": [
+        "Em terceiro lugar"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, katâtu-1 — https://www.kimbundu.org/pt/word/katatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4175,
+      "kimbundu_term": "Káte",
+      "portuguese_translation": "Mulher querida, amada: io — kâmil",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, káte-1 — https://www.kimbundu.org/pt/word/kate",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4176,
+      "kimbundu_term": "Káte",
+      "portuguese_translation": "Favorita",
+      "definition": null,
+      "alternative_meanings": [
+        "predileta"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, káte-1 — https://www.kimbundu.org/pt/word/kate",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4177,
+      "kimbundu_term": "Katé",
+      "portuguese_translation": "Até",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, katé-1 — https://www.kimbundu.org/pt/word/kate",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4178,
+      "kimbundu_term": "Katekelu",
+      "portuguese_translation": "e sub. Regadio",
+      "definition": null,
+      "alternative_meanings": [
+        "Diz-se da terra que tem água com que pode ser regada"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, katekelu-1 — https://www.kimbundu.org/pt/word/katekelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4179,
+      "kimbundu_term": "Kateketeke",
+      "portuguese_translation": "Mindinho",
+      "definition": null,
+      "alternative_meanings": [
+        "Meiminho"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kateketeke-1 — https://www.kimbundu.org/pt/word/kateketeke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4180,
+      "kimbundu_term": "Kateketeke",
+      "portuguese_translation": "O mais pequeno",
+      "definition": null,
+      "alternative_meanings": [
+        "o dedo mínimo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kateketeke-1 — https://www.kimbundu.org/pt/word/kateketeke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4181,
+      "kimbundu_term": "Kateku-ka-ngola",
+      "portuguese_translation": "Pov. e sede do posto deste nome, circ. civ. de Duque de Bragança, distr. e prov. de Malange, 8.097 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kateku-ka-ngola-1 — https://www.kimbundu.org/pt/word/kateku-ka-ngola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4182,
+      "kimbundu_term": "Katelútelu",
+      "portuguese_translation": "Pirilampo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, katelútelu-1 — https://www.kimbundu.org/pt/word/katelutelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4183,
+      "kimbundu_term": "Katelútelu",
+      "portuguese_translation": "O que brilha a espaços",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, katelútelu-1 — https://www.kimbundu.org/pt/word/katelutelu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
