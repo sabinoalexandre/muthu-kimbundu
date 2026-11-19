@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13774,
+      "kimbundu_term": "Kuzutuna",
+      "portuguese_translation": "Tirar, arrancar (aos puxões)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzutuna-1 — https://www.kimbundu.org/pt/word/kuzutuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13775,
+      "kimbundu_term": "Kuzúua",
+      "portuguese_translation": "Humectar",
+      "definition": null,
+      "alternative_meanings": [
+        "diluir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzúua-1 — https://www.kimbundu.org/pt/word/kuzuua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13776,
+      "kimbundu_term": "Kuzúua",
+      "portuguese_translation": "Molhar levemente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzúua-1 — https://www.kimbundu.org/pt/word/kuzuua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13777,
+      "kimbundu_term": "Kuzúua",
+      "portuguese_translation": "Escoar",
+      "definition": null,
+      "alternative_meanings": [
+        "escorrer. Figurado: Ganhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzúua-1 — https://www.kimbundu.org/pt/word/kuzuua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13778,
+      "kimbundu_term": "Kuzuuáma",
+      "portuguese_translation": "Depender",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzuuáma-1 — https://www.kimbundu.org/pt/word/kuzuuama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13779,
+      "kimbundu_term": "Kuzuuáma",
+      "portuguese_translation": "Resultar",
+      "definition": null,
+      "alternative_meanings": [
+        "porvir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzuuáma-1 — https://www.kimbundu.org/pt/word/kuzuuama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13780,
+      "kimbundu_term": "Kuzuuamesa",
+      "portuguese_translation": "Fazer resultar, sujeitar, depender",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzuuamesa-1 — https://www.kimbundu.org/pt/word/kuzuuamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13781,
+      "kimbundu_term": "Kuzuuika",
+      "portuguese_translation": "Vedar",
+      "definition": null,
+      "alternative_meanings": [
+        "tapar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzuuika-1 — https://www.kimbundu.org/pt/word/kuzuuika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13782,
+      "kimbundu_term": "Kúzuza",
+      "portuguese_translation": "Assar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúzuza-1 — https://www.kimbundu.org/pt/word/kuzuza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13783,
+      "kimbundu_term": "Kúzuza",
+      "portuguese_translation": "Defumar",
+      "definition": null,
+      "alternative_meanings": [
+        "curar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúzuza-1 — https://www.kimbundu.org/pt/word/kuzuza",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
