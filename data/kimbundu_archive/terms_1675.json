@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16854,
+      "kimbundu_term": "Munému",
+      "portuguese_translation": "Peso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munému-1 — https://www.kimbundu.org/pt/word/munemu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16855,
+      "kimbundu_term": "Múnene",
+      "portuguese_translation": "Eminente",
+      "definition": null,
+      "alternative_meanings": [
+        "notável"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múnene-1 — https://www.kimbundu.org/pt/word/munene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16856,
+      "kimbundu_term": "Munenga",
+      "portuguese_translation": "Pov. e sede do posto civ. deste nome, cir. do Libolo, distr. do Quanza-Sul, prov. de Benguela, 6 184 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munenga-1 — https://www.kimbundu.org/pt/word/munenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16857,
+      "kimbundu_term": "Múnga",
+      "portuguese_translation": "Cana, bordão ou vara com que os tripulantes ou pescadores da costa impelem as embarcações",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múnga-1 — https://www.kimbundu.org/pt/word/munga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16858,
+      "kimbundu_term": "Mungaiáva",
+      "portuguese_translation": "Goiabeira",
+      "definition": null,
+      "alternative_meanings": [
+        "planta de fruto comestível e folhas de utilidade medicinal em casos de diarreia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mungaiáva-1 — https://www.kimbundu.org/pt/word/mungaiava",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16859,
+      "kimbundu_term": "Mungalu",
+      "portuguese_translation": "Embaciamento",
+      "definition": null,
+      "alternative_meanings": [
+        "desmaio (da cor de tecido pela ação do sol), Palidez"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mungalu-1 — https://www.kimbundu.org/pt/word/mungalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16860,
+      "kimbundu_term": "Mungalu",
+      "portuguese_translation": "Atrapalhação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mungalu-1 — https://www.kimbundu.org/pt/word/mungalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16861,
+      "kimbundu_term": "Mungangela",
+      "portuguese_translation": "Natural ou proveniente das ganguelas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mungangela-1 — https://www.kimbundu.org/pt/word/mungangela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16862,
+      "kimbundu_term": "Mungângu",
+      "portuguese_translation": "A parte oposta ao fio dos instrumentos cortantes. Costas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mungângu-1 — https://www.kimbundu.org/pt/word/mungangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16863,
+      "kimbundu_term": "Mungângu",
+      "portuguese_translation": "Planta da família das leguminosas (gleditsia africana), de boa madeira para construções",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mungângu-1 — https://www.kimbundu.org/pt/word/mungangu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
