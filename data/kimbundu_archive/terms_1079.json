@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10894,
+      "kimbundu_term": "Kunji",
+      "portuguese_translation": "Abreviatura de rikunji",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunji-1 — https://www.kimbundu.org/pt/word/kunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10895,
+      "kimbundu_term": "Kunji",
+      "portuguese_translation": "Pequeno rio na região dos Dembos, tributário do Lêfua, confluente da margem esquerda do Dande, perto da pov. de Mabinda,",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunji-1 — https://www.kimbundu.org/pt/word/kunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10896,
+      "kimbundu_term": "Kunji",
+      "portuguese_translation": "Confluente da margem esquerda do Quanza. Nasce a E. do território do Bailundo, distr. e prov. do Bié",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunji-1 — https://www.kimbundu.org/pt/word/kunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10897,
+      "kimbundu_term": "Kunjongojona",
+      "portuguese_translation": "Amiudar",
+      "definition": null,
+      "alternative_meanings": [
+        "Cortar por vezes",
+        "partir em bocados"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunjongojona-1 — https://www.kimbundu.org/pt/word/kunjongojona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10898,
+      "kimbundu_term": "Kunjongoka",
+      "portuguese_translation": "Ficar amputado, cortado",
+      "definition": null,
+      "alternative_meanings": [
+        "Estar curto"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunjongoka-1 — https://www.kimbundu.org/pt/word/kunjongoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10899,
+      "kimbundu_term": "Kunjongona",
+      "portuguese_translation": "Cortar",
+      "definition": null,
+      "alternative_meanings": [
+        "separar",
+        "partir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunjongona-1 — https://www.kimbundu.org/pt/word/kunjongona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10900,
+      "kimbundu_term": "Kunjongona",
+      "portuguese_translation": "Amputação",
+      "definition": null,
+      "alternative_meanings": [
+        "corte",
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunjongona-1 — https://www.kimbundu.org/pt/word/kunjongona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10901,
+      "kimbundu_term": "Kunjongonona",
+      "portuguese_translation": "Tornar a cortar, a partir",
+      "definition": null,
+      "alternative_meanings": [
+        "Beliscar",
+        "magoar",
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunjongonona-1 — https://www.kimbundu.org/pt/word/kunjongonona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10902,
+      "kimbundu_term": "Kunjonja",
+      "portuguese_translation": "Comer pouco muitas vezes",
+      "definition": null,
+      "alternative_meanings": [
+        "Lambiscar",
+        "depenicar",
+        "merendar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunjonja-1 — https://www.kimbundu.org/pt/word/kunjonja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10903,
+      "kimbundu_term": "Kunjonjesa",
+      "portuguese_translation": "Dar merenda a",
+      "definition": null,
+      "alternative_meanings": [
+        "dar de comer aos poucos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunjonjesa-1 — https://www.kimbundu.org/pt/word/kunjonjesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
