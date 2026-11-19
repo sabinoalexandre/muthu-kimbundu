@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9544,
+      "kimbundu_term": "Kukolokota",
+      "portuguese_translation": "Obduração",
+      "definition": null,
+      "alternative_meanings": [
+        "pertinácia",
+        "rijeza"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukolokota-1 — https://www.kimbundu.org/pt/word/kukolokota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9545,
+      "kimbundu_term": "Kukolola",
+      "portuguese_translation": "Rapar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukolola-1 — https://www.kimbundu.org/pt/word/kukolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9546,
+      "kimbundu_term": "Kukolola",
+      "portuguese_translation": "Raspar",
+      "definition": null,
+      "alternative_meanings": [
+        "alizar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukolola-1 — https://www.kimbundu.org/pt/word/kukolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9547,
+      "kimbundu_term": "Kukolola",
+      "portuguese_translation": "Rapadura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukolola-2 — https://www.kimbundu.org/pt/word/kukolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9548,
+      "kimbundu_term": "Kukolola",
+      "portuguese_translation": "Ato de raspar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukolola-2 — https://www.kimbundu.org/pt/word/kukolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9549,
+      "kimbundu_term": "Kukolola",
+      "portuguese_translation": "É também intr. e r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukolola-2 — https://www.kimbundu.org/pt/word/kukolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9550,
+      "kimbundu_term": "Kukolomona",
+      "portuguese_translation": "Solicitar",
+      "definition": null,
+      "alternative_meanings": [
+        "trazer consigo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukolomona-1 — https://www.kimbundu.org/pt/word/kukolomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9551,
+      "kimbundu_term": "Kukolomona",
+      "portuguese_translation": "Preparar",
+      "definition": null,
+      "alternative_meanings": [
+        "dar sinal"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukolomona-1 — https://www.kimbundu.org/pt/word/kukolomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9552,
+      "kimbundu_term": "Kukolomona",
+      "portuguese_translation": "Fazer chegar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukolomona-1 — https://www.kimbundu.org/pt/word/kukolomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9553,
+      "kimbundu_term": "Kúkoma",
+      "portuguese_translation": "Arrulhar",
+      "definition": null,
+      "alternative_meanings": [
+        "gemer",
+        "soltar lamentos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkoma-1 — https://www.kimbundu.org/pt/word/kukoma",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
