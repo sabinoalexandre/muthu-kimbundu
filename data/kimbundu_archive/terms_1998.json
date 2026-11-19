@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 20084,
+      "kimbundu_term": "Xikita",
+      "portuguese_translation": "Mestiça",
+      "definition": null,
+      "alternative_meanings": [
+        "mulata. Mulher de cor parda"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xikita-1 — https://www.kimbundu.org/pt/word/xikita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20085,
+      "kimbundu_term": "Xikixiki",
+      "portuguese_translation": "Inteiriçado, hirto",
+      "definition": null,
+      "alternative_meanings": [
+        "duro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xikixiki-1 — https://www.kimbundu.org/pt/word/xikixiki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20086,
+      "kimbundu_term": "Xikixiki",
+      "portuguese_translation": "Repleto",
+      "definition": null,
+      "alternative_meanings": [
+        "muito cheio"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xikixiki-1 — https://www.kimbundu.org/pt/word/xikixiki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20087,
+      "kimbundu_term": "Xikixiki",
+      "portuguese_translation": "Escuro",
+      "definition": null,
+      "alternative_meanings": [
+        "negro: — ndondon"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xikixiki-1 — https://www.kimbundu.org/pt/word/xikixiki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20088,
+      "kimbundu_term": "Xikixiki",
+      "portuguese_translation": "Completamente escuro",
+      "definition": null,
+      "alternative_meanings": [
+        "excessivamente preto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xikixiki-1 — https://www.kimbundu.org/pt/word/xikixiki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20089,
+      "kimbundu_term": "Xikola",
+      "portuguese_translation": "Escola",
+      "definition": null,
+      "alternative_meanings": [
+        "casa de ensino"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xikola-1 — https://www.kimbundu.org/pt/word/xikola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20090,
+      "kimbundu_term": "Xikote",
+      "portuguese_translation": "Chicote, açoite",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xikote-1 — https://www.kimbundu.org/pt/word/xikote",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20091,
+      "kimbundu_term": "Xíku",
+      "portuguese_translation": "Empate",
+      "definition": null,
+      "alternative_meanings": [
+        "espera",
+        "pausa. Impedimento",
+        "obstáculo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xíku-1 — https://www.kimbundu.org/pt/word/xiku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20092,
+      "kimbundu_term": "Xíku",
+      "portuguese_translation": "Empatar",
+      "definition": null,
+      "alternative_meanings": [
+        "impedir"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xíku-1 — https://www.kimbundu.org/pt/word/xiku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20093,
+      "kimbundu_term": "Xila",
+      "portuguese_translation": "Convencido de que",
+      "definition": null,
+      "alternative_meanings": [
+        "talvez"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, xila-1 — https://www.kimbundu.org/pt/word/xila",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
