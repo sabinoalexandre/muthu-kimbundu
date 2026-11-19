@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14314,
+      "kimbundu_term": "Luua",
+      "portuguese_translation": "Ainda",
+      "definition": null,
+      "alternative_meanings": [
+        "não. Antes",
+        "por enquanto. Até agora"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, luua-1 — https://www.kimbundu.org/pt/word/luua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14315,
+      "kimbundu_term": "Lúua",
+      "portuguese_translation": "Rua",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lúua-1 — https://www.kimbundu.org/pt/word/luua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14316,
+      "kimbundu_term": "Luuanda",
+      "portuguese_translation": "Aduana",
+      "definition": null,
+      "alternative_meanings": [
+        "Imposto. (Forma por que se devia grafar a palavra luanda.)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, luuanda-1 — https://www.kimbundu.org/pt/word/luuanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14317,
+      "kimbundu_term": "Luvalu",
+      "portuguese_translation": "Descendência",
+      "definition": null,
+      "alternative_meanings": [
+        "prole",
+        "linhagem",
+        "posteridade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, luvalu-1 — https://www.kimbundu.org/pt/word/luvalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14318,
+      "kimbundu_term": "Luvalu",
+      "portuguese_translation": "Filhos",
+      "definition": null,
+      "alternative_meanings": [
+        "as gerações futuras"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, luvalu-1 — https://www.kimbundu.org/pt/word/luvalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14319,
+      "kimbundu_term": "Lúvetu",
+      "portuguese_translation": "Revenda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lúvetu-1 — https://www.kimbundu.org/pt/word/luvetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14320,
+      "kimbundu_term": "Luvioko",
+      "portuguese_translation": "Indecência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, luvioko-1 — https://www.kimbundu.org/pt/word/luvioko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14321,
+      "kimbundu_term": "Luvioko",
+      "portuguese_translation": "Ato torpe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, luvioko-1 — https://www.kimbundu.org/pt/word/luvioko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14322,
+      "kimbundu_term": "Lûvu",
+      "portuguese_translation": "Povoação e posto da circunscrição civil de S. Salvador, distrito do Congo, província de Luanda, 5.427 habitantes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lûvu-1 — https://www.kimbundu.org/pt/word/luvu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14323,
+      "kimbundu_term": "Lúvua",
+      "portuguese_translation": "(VI) Nona ou nove vezes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lúvua-1 — https://www.kimbundu.org/pt/word/luvua",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
