@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13594,
+      "kimbundu_term": "Kuzemeka",
+      "portuguese_translation": "Arrimar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzemeka-1 — https://www.kimbundu.org/pt/word/kuzemeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13595,
+      "kimbundu_term": "Kuzemeka",
+      "portuguese_translation": "Apoiar, encostar. É tb. r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzemeka-1 — https://www.kimbundu.org/pt/word/kuzemeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13596,
+      "kimbundu_term": "Kuzemena",
+      "portuguese_translation": "Descansar (o corpo). É tb. intr",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzemena-1 — https://www.kimbundu.org/pt/word/kuzemena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13597,
+      "kimbundu_term": "Kuzemeneka",
+      "portuguese_translation": "Acomodar",
+      "definition": null,
+      "alternative_meanings": [
+        "inclinar",
+        "deitar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzemeneka-1 — https://www.kimbundu.org/pt/word/kuzemeneka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13598,
+      "kimbundu_term": "Kuzemeneka",
+      "portuguese_translation": "Kurizemeneka, e r. Acomodar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "deitar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzemeneka-1 — https://www.kimbundu.org/pt/word/kuzemeneka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13599,
+      "kimbundu_term": "Kuzemenena",
+      "portuguese_translation": "Recostar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzemenena-1 — https://www.kimbundu.org/pt/word/kuzemenena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13600,
+      "kimbundu_term": "Kuzemenesa",
+      "portuguese_translation": "Fazer recostar",
+      "definition": null,
+      "alternative_meanings": [
+        "dar encosto a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzemenesa-1 — https://www.kimbundu.org/pt/word/kuzemenesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13601,
+      "kimbundu_term": "Kuzendala",
+      "portuguese_translation": "Estar encostado",
+      "definition": null,
+      "alternative_meanings": [
+        "cair em sono"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzendala-1 — https://www.kimbundu.org/pt/word/kuzendala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13602,
+      "kimbundu_term": "Kuzendalala",
+      "portuguese_translation": "Pender",
+      "definition": null,
+      "alternative_meanings": [
+        "Estar inclinado, deitado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzendalala-1 — https://www.kimbundu.org/pt/word/kuzendalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13603,
+      "kimbundu_term": "Kuzendalala",
+      "portuguese_translation": "Passar pelo sono",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzendalala-1 — https://www.kimbundu.org/pt/word/kuzendalala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
