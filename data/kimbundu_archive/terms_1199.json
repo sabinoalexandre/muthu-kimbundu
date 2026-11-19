@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12094,
+      "kimbundu_term": "Kútanda",
+      "portuguese_translation": "Kuritanda, e r. Afastar-se para longe do lugar. Desterrar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútanda-1 — https://www.kimbundu.org/pt/word/kutanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12095,
+      "kimbundu_term": "Kutánda",
+      "portuguese_translation": "Pôr a curar, a secar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutánda-1 — https://www.kimbundu.org/pt/word/kutanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12096,
+      "kimbundu_term": "Kutánda",
+      "portuguese_translation": "Estender (para tirar a umidade)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutánda-1 — https://www.kimbundu.org/pt/word/kutanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12097,
+      "kimbundu_term": "Kutandakanya",
+      "portuguese_translation": "Estar desnorteado, atrapalhado, confuso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutandakanya-1 — https://www.kimbundu.org/pt/word/kutandakanya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12098,
+      "kimbundu_term": "Kutandakanya",
+      "portuguese_translation": "Perder a noção das coisas ou o fio do discurso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutandakanya-1 — https://www.kimbundu.org/pt/word/kutandakanya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12099,
+      "kimbundu_term": "Kutandakanya",
+      "portuguese_translation": "Estar embaraçado, não saber o que fazer ou dizer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutandakanya-1 — https://www.kimbundu.org/pt/word/kutandakanya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12100,
+      "kimbundu_term": "Kutandakanya",
+      "portuguese_translation": "Atrapalhação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutandakanya-1 — https://www.kimbundu.org/pt/word/kutandakanya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12101,
+      "kimbundu_term": "Kutandakanyesa",
+      "portuguese_translation": "Sarapantar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer confundir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutandakanyesa-1 — https://www.kimbundu.org/pt/word/kutandakanyesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12102,
+      "kimbundu_term": "Kutandakanyesa",
+      "portuguese_translation": "Causar embaraço",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer perder o fio da conversa"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutandakanyesa-1 — https://www.kimbundu.org/pt/word/kutandakanyesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12103,
+      "kimbundu_term": "Kutandelela",
+      "portuguese_translation": "Lançar (o anzol) a maior distância",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutandelela-1 — https://www.kimbundu.org/pt/word/kutandelela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
