@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14174,
+      "kimbundu_term": "Lúbongo",
+      "portuguese_translation": "Festo: dobra",
+      "definition": null,
+      "alternative_meanings": [
+        "largura"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lúbongo-1 — https://www.kimbundu.org/pt/word/lubongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14175,
+      "kimbundu_term": "Lubundu",
+      "portuguese_translation": "Detrimento",
+      "definition": null,
+      "alternative_meanings": [
+        "prejuízo",
+        "dano: uênjí ua. —"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lubundu-1 — https://www.kimbundu.org/pt/word/lubundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14176,
+      "kimbundu_term": "Lubundu",
+      "portuguese_translation": "Perdição",
+      "definition": null,
+      "alternative_meanings": [
+        "perca"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lubundu-1 — https://www.kimbundu.org/pt/word/lubundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14177,
+      "kimbundu_term": "Lubundu",
+      "portuguese_translation": "Prejudicial",
+      "definition": null,
+      "alternative_meanings": [
+        "danoso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lubundu-1 — https://www.kimbundu.org/pt/word/lubundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14178,
+      "kimbundu_term": "Lúbungu",
+      "portuguese_translation": "Egoísmo",
+      "definition": null,
+      "alternative_meanings": [
+        "Sentimento de exclusão das coisas ou pessoas estranhas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lúbungu-1 — https://www.kimbundu.org/pt/word/lubungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14179,
+      "kimbundu_term": "Luê",
+      "portuguese_translation": "(contr. da prep. lua e do pron. pess. ele). Teu",
+      "definition": null,
+      "alternative_meanings": [
+        "tua",
+        "Da tua pessoa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, luê-1 — https://www.kimbundu.org/pt/word/lue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14180,
+      "kimbundu_term": "Luê",
+      "portuguese_translation": "interrog. Qual? Que?",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, luê-1 — https://www.kimbundu.org/pt/word/lue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14181,
+      "kimbundu_term": "Lue",
+      "portuguese_translation": "e pron. poss. (contr. da prep. lua e do pron. pess. muene). Seu, sua (dele)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lue-1 — https://www.kimbundu.org/pt/word/lue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14182,
+      "kimbundu_term": "Lue",
+      "portuguese_translation": "Pertencente à sua pessoa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lue-1 — https://www.kimbundu.org/pt/word/lue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14183,
+      "kimbundu_term": "Lue",
+      "portuguese_translation": "propriamente dele",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lue-1 — https://www.kimbundu.org/pt/word/lue",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
