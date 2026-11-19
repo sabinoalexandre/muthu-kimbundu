@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13504,
+      "kimbundu_term": "Kuzangina",
+      "portuguese_translation": "Mortificar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzangina-1 — https://www.kimbundu.org/pt/word/kuzangina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13505,
+      "kimbundu_term": "Kuzanguisa",
+      "portuguese_translation": "Mandar levantar",
+      "definition": null,
+      "alternative_meanings": [
+        "erguer do chão"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzanguisa-1 — https://www.kimbundu.org/pt/word/kuzanguisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13506,
+      "kimbundu_term": "Kuzanguisa",
+      "portuguese_translation": "O levantar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzanguisa-1 — https://www.kimbundu.org/pt/word/kuzanguisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13507,
+      "kimbundu_term": "Kuzanguisa",
+      "portuguese_translation": "Kurizangula e r. Elevar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar-se notável"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzanguisa-1 — https://www.kimbundu.org/pt/word/kuzanguisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13508,
+      "kimbundu_term": "Kuzanguka",
+      "portuguese_translation": "Estar ou ficar levantado, elevado, alçado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzanguka-1 — https://www.kimbundu.org/pt/word/kuzanguka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13509,
+      "kimbundu_term": "Kuzanguka",
+      "portuguese_translation": "Decampar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzanguka-1 — https://www.kimbundu.org/pt/word/kuzanguka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13510,
+      "kimbundu_term": "Kuzanguka",
+      "portuguese_translation": "Ser superior",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzanguka-1 — https://www.kimbundu.org/pt/word/kuzanguka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13511,
+      "kimbundu_term": "Kuzanguka",
+      "portuguese_translation": "Elevação",
+      "definition": null,
+      "alternative_meanings": [
+        "decampamento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzanguka-1 — https://www.kimbundu.org/pt/word/kuzanguka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13512,
+      "kimbundu_term": "Kuzangumuka",
+      "portuguese_translation": "Levantar-se depressa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzangumuka-1 — https://www.kimbundu.org/pt/word/kuzangumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13513,
+      "kimbundu_term": "Kuzangumuka",
+      "portuguese_translation": "Erguer-se de repelão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzangumuka-1 — https://www.kimbundu.org/pt/word/kuzangumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
