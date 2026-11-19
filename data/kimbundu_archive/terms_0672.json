@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6824,
+      "kimbundu_term": "Kongo",
+      "portuguese_translation": "Abrev. de rikongo, dívida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kongo-1 — https://www.kimbundu.org/pt/word/kongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6825,
+      "kimbundu_term": "Kongo",
+      "portuguese_translation": "Vasto território do antigo reino deste nome",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kongo-1 — https://www.kimbundu.org/pt/word/kongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6826,
+      "kimbundu_term": "Kongo",
+      "portuguese_translation": "Pov. e sede da circ. civ. de S. Salvador, distr. do Congo, prov. de Luanda, a 6° 20' e 10'' de lat. Sul e 14° 17' e 18''",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kongo-1 — https://www.kimbundu.org/pt/word/kongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6827,
+      "kimbundu_term": "Konji",
+      "portuguese_translation": "Ajoujo",
+      "definition": null,
+      "alternative_meanings": [
+        "Prisão com que se jungem animais",
+        "Jugo",
+        "embaraço",
+        "sujeição penosa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, konji-1 — https://www.kimbundu.org/pt/word/konji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6828,
+      "kimbundu_term": "Konjuua",
+      "portuguese_translation": "Conjurado",
+      "definition": null,
+      "alternative_meanings": [
+        "Conjuro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, konjuua-1 — https://www.kimbundu.org/pt/word/konjuua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6829,
+      "kimbundu_term": "Kopho",
+      "portuguese_translation": "Copo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kopho-1 — https://www.kimbundu.org/pt/word/kopho",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6830,
+      "kimbundu_term": "Kórka",
+      "portuguese_translation": "Cólica",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kórka-1 — https://www.kimbundu.org/pt/word/korka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6831,
+      "kimbundu_term": "Koso",
+      "portuguese_translation": "(X) Toda",
+      "definition": null,
+      "alternative_meanings": [
+        "todo",
+        "Tudo",
+        "Inteiro",
+        "completo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, koso-1 — https://www.kimbundu.org/pt/word/koso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6832,
+      "kimbundu_term": "Koso",
+      "portuguese_translation": "A soma",
+      "definition": null,
+      "alternative_meanings": [
+        "a totalidade",
+        "o conjunto",
+        "O aspeto geral"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, koso-1 — https://www.kimbundu.org/pt/word/koso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6833,
+      "kimbundu_term": "Koso",
+      "portuguese_translation": "Ao todo",
+      "definition": null,
+      "alternative_meanings": [
+        "Completamente",
+        "em peso",
+        "sem exceção"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, koso-1 — https://www.kimbundu.org/pt/word/koso",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
