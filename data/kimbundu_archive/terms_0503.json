@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5134,
+      "kimbundu_term": "Kijimbwete",
+      "portuguese_translation": "Cicatriz de tumor curado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijimbwete-1 — https://www.kimbundu.org/pt/word/kijimbwete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5135,
+      "kimbundu_term": "Kijimbwete",
+      "portuguese_translation": "Vulto natural na pele",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijimbwete-1 — https://www.kimbundu.org/pt/word/kijimbwete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5136,
+      "kimbundu_term": "Kijimbwete",
+      "portuguese_translation": "Ponto de referência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijimbwete-1 — https://www.kimbundu.org/pt/word/kijimbwete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5137,
+      "kimbundu_term": "Kijimbwete",
+      "portuguese_translation": "Vestígio",
+      "definition": null,
+      "alternative_meanings": [
+        "indício"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijimbwete-1 — https://www.kimbundu.org/pt/word/kijimbwete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5138,
+      "kimbundu_term": "Kijimbwete",
+      "portuguese_translation": "Palavra pela qual os antigos principiavam a oração dominical",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijimbwete-1 — https://www.kimbundu.org/pt/word/kijimbwete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5139,
+      "kimbundu_term": "Kijimíse",
+      "portuguese_translation": "Que faz extinguir, apagar, desaparecer. Extintor. Apagador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijimíse-1 — https://www.kimbundu.org/pt/word/kijimise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5140,
+      "kimbundu_term": "Kijimíse",
+      "portuguese_translation": "Instrumento com que se apagam as luzes que estão fora de mão. É tb. sub",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijimíse-1 — https://www.kimbundu.org/pt/word/kijimise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5141,
+      "kimbundu_term": "Kijimíse",
+      "portuguese_translation": "Que se pode apagar ou extinguir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijimíse-1 — https://www.kimbundu.org/pt/word/kijimise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5142,
+      "kimbundu_term": "Kijimu",
+      "portuguese_translation": "Apagamento",
+      "definition": null,
+      "alternative_meanings": [
+        "desaparecimento",
+        "extinção"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijimu-1 — https://www.kimbundu.org/pt/word/kijimu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5143,
+      "kimbundu_term": "Kijimu",
+      "portuguese_translation": "Abolição completa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijimu-1 — https://www.kimbundu.org/pt/word/kijimu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
