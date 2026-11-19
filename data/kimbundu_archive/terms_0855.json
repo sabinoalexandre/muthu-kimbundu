@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8654,
+      "kimbundu_term": "Kufutamesa",
+      "portuguese_translation": "Cobrir para que se não conheça",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufutamesa-1 — https://www.kimbundu.org/pt/word/kufutamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8655,
+      "kimbundu_term": "Kufutika",
+      "portuguese_translation": "Fazer rugas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufutika-1 — https://www.kimbundu.org/pt/word/kufutika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8656,
+      "kimbundu_term": "Kufutika",
+      "portuguese_translation": "pregas em. Embainhar",
+      "definition": null,
+      "alternative_meanings": [
+        "dobrar. Enrolar, embrulhar em (papel, pano, etc.)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufutika-1 — https://www.kimbundu.org/pt/word/kufutika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8657,
+      "kimbundu_term": "Kufutika",
+      "portuguese_translation": "Kurijutika, e r. Embrulhar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "enrolar-se",
+        "envolver-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufutika-1 — https://www.kimbundu.org/pt/word/kufutika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8658,
+      "kimbundu_term": "Kufutila",
+      "portuguese_translation": "Pagar uma dívida de conta de outrem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufutila-1 — https://www.kimbundu.org/pt/word/kufutila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8659,
+      "kimbundu_term": "Kufutisa",
+      "portuguese_translation": "Mandar abafar",
+      "definition": null,
+      "alternative_meanings": [
+        "proteger, cobrir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufutisa-1 — https://www.kimbundu.org/pt/word/kufutisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8660,
+      "kimbundu_term": "Kufutisa",
+      "portuguese_translation": "Fazer embolsar, resarcir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufutisa-1 — https://www.kimbundu.org/pt/word/kufutisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8661,
+      "kimbundu_term": "Kufutuluka",
+      "portuguese_translation": "Escabrear. Estar zangado, ofendido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufutuluka-1 — https://www.kimbundu.org/pt/word/kufutuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8662,
+      "kimbundu_term": "Kufutuluka",
+      "portuguese_translation": "Escabreação",
+      "definition": null,
+      "alternative_meanings": [
+        "zanga",
+        "melindre"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufutuluka-1 — https://www.kimbundu.org/pt/word/kufutuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8663,
+      "kimbundu_term": "Kufutulukisa",
+      "portuguese_translation": "Zangar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer escabrear"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufutulukisa-1 — https://www.kimbundu.org/pt/word/kufutulukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
