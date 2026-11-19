@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7334,
+      "kimbundu_term": "Kubetama",
+      "portuguese_translation": "Inclinar a cabeça",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubetama-1 — https://www.kimbundu.org/pt/word/kubetama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7335,
+      "kimbundu_term": "Kubetamesa",
+      "portuguese_translation": "Fazer abaixar, curvar, inclinar (a cabeça)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubetamesa-1 — https://www.kimbundu.org/pt/word/kubetamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7336,
+      "kimbundu_term": "Kubeteka",
+      "portuguese_translation": "Inclinar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer pender, descair. Desviar da verticalidade"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubeteka-1 — https://www.kimbundu.org/pt/word/kubeteka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7337,
+      "kimbundu_term": "Kubeteka",
+      "portuguese_translation": "Tornar oblíquo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubeteka-1 — https://www.kimbundu.org/pt/word/kubeteka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7338,
+      "kimbundu_term": "Kubeteka",
+      "portuguese_translation": "Titubear",
+      "definition": null,
+      "alternative_meanings": [
+        "exprimir-se com dificuldade"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubeteka-1 — https://www.kimbundu.org/pt/word/kubeteka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7339,
+      "kimbundu_term": "Kubeteka",
+      "portuguese_translation": "sub. Inclinação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubeteka-1 — https://www.kimbundu.org/pt/word/kubeteka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7340,
+      "kimbundu_term": "Kubeteketa",
+      "portuguese_translation": "Estar flexível, frouxo, murcho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubeteketa-1 — https://www.kimbundu.org/pt/word/kubeteketa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7341,
+      "kimbundu_term": "Kubeteketa",
+      "portuguese_translation": "Estar flácido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubeteketa-1 — https://www.kimbundu.org/pt/word/kubeteketa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7342,
+      "kimbundu_term": "Kubeteketa",
+      "portuguese_translation": "Estar lânguido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubeteketa-1 — https://www.kimbundu.org/pt/word/kubeteketa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7343,
+      "kimbundu_term": "Kubetela",
+      "portuguese_translation": "Castigar, bater, (por outrem)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubetela-1 — https://www.kimbundu.org/pt/word/kubetela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
