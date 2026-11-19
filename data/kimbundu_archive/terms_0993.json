@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10034,
+      "kimbundu_term": "Kulánda",
+      "portuguese_translation": "Seguir-se",
+      "definition": null,
+      "alternative_meanings": [
+        "ter relação"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulánda-1 — https://www.kimbundu.org/pt/word/kulanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10035,
+      "kimbundu_term": "Kulandamana",
+      "portuguese_translation": "Teimar e persistir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulandamana-1 — https://www.kimbundu.org/pt/word/kulandamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10036,
+      "kimbundu_term": "Kulandamana",
+      "portuguese_translation": "Ser obstinado",
+      "definition": null,
+      "alternative_meanings": [
+        "não ceder"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulandamana-1 — https://www.kimbundu.org/pt/word/kulandamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10037,
+      "kimbundu_term": "Kulandamana",
+      "portuguese_translation": "Obstinação",
+      "definition": null,
+      "alternative_meanings": [
+        "teima"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulandamana-1 — https://www.kimbundu.org/pt/word/kulandamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10038,
+      "kimbundu_term": "Kulandameka",
+      "portuguese_translation": "Obstinar",
+      "definition": null,
+      "alternative_meanings": [
+        "constranger",
+        "impelir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulandameka-1 — https://www.kimbundu.org/pt/word/kulandameka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10039,
+      "kimbundu_term": "Kulandameka",
+      "portuguese_translation": "Forçar",
+      "definition": null,
+      "alternative_meanings": [
+        "importunar",
+        "perseguir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulandameka-1 — https://www.kimbundu.org/pt/word/kulandameka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10040,
+      "kimbundu_term": "Kulandameka",
+      "portuguese_translation": "Exigir cumprimento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulandameka-1 — https://www.kimbundu.org/pt/word/kulandameka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10041,
+      "kimbundu_term": "Kulandameka",
+      "portuguese_translation": "É também r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulandameka-1 — https://www.kimbundu.org/pt/word/kulandameka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10042,
+      "kimbundu_term": "Kulanduk'sa",
+      "portuguese_translation": "Fazer demorar, distrair",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulanduk'sa-1 — https://www.kimbundu.org/pt/word/kulanduk'sa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10043,
+      "kimbundu_term": "Kulanduka",
+      "portuguese_translation": "Estar distraído",
+      "definition": null,
+      "alternative_meanings": [
+        "entretido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulanduka-1 — https://www.kimbundu.org/pt/word/kulanduka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
