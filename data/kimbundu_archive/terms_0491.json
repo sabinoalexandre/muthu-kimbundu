@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5014,
+      "kimbundu_term": "Kihándu",
+      "portuguese_translation": "Leme. fig. Regulador. Governo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihándu-1 — https://www.kimbundu.org/pt/word/kihandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5015,
+      "kimbundu_term": "Kihanza",
+      "portuguese_translation": "Lagarta. Primeira fase da vida dos insetos lepidópteros",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihanza-1 — https://www.kimbundu.org/pt/word/kihanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5016,
+      "kimbundu_term": "Kihanze",
+      "portuguese_translation": "Adulatório. Aduloso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihanze-1 — https://www.kimbundu.org/pt/word/kihanze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5017,
+      "kimbundu_term": "Kihata",
+      "portuguese_translation": "Tortuosa árvore de pequeno porte, de folhas lisas e flores apétalas, utilizada como ornamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihata-1 — https://www.kimbundu.org/pt/word/kihata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5018,
+      "kimbundu_term": "Kihâtu",
+      "portuguese_translation": "Superlativo de muhâtu. Mulheraça. Matrona",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihâtu-1 — https://www.kimbundu.org/pt/word/kihatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5019,
+      "kimbundu_term": "Kihauzu",
+      "portuguese_translation": "Adulação",
+      "definition": null,
+      "alternative_meanings": [
+        "lisonja vil"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihauzu-1 — https://www.kimbundu.org/pt/word/kihauzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5020,
+      "kimbundu_term": "Kihauzu",
+      "portuguese_translation": "Dito lisonjeiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihauzu-1 — https://www.kimbundu.org/pt/word/kihauzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5021,
+      "kimbundu_term": "Kihaxi",
+      "portuguese_translation": "Epidemia",
+      "definition": null,
+      "alternative_meanings": [
+        "peste. Mal que ataca a muitas pessoas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihaxi-1 — https://www.kimbundu.org/pt/word/kihaxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5022,
+      "kimbundu_term": "Kihaxi",
+      "portuguese_translation": "Guerra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihaxi-1 — https://www.kimbundu.org/pt/word/kihaxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5023,
+      "kimbundu_term": "Kihénde",
+      "portuguese_translation": "Presidente",
+      "definition": null,
+      "alternative_meanings": [
+        "dirigente. Principal"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihénde-1 — https://www.kimbundu.org/pt/word/kihende",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
