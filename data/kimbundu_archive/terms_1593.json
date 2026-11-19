@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16034,
+      "kimbundu_term": "Mudi'atu",
+      "portuguese_translation": "Que pratica antropofagia",
+      "definition": null,
+      "alternative_meanings": [
+        "Comedor de carne humana"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mudi'atu-1 — https://www.kimbundu.org/pt/word/mudi'atu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16035,
+      "kimbundu_term": "Mudi'enu",
+      "portuguese_translation": "Entre vós",
+      "definition": null,
+      "alternative_meanings": [
+        "convosco"
+      ],
+      "examples": [],
+      "grammatical_category": "preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mudi'enu-1 — https://www.kimbundu.org/pt/word/mudi'enu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16036,
+      "kimbundu_term": "Mudi'etu",
+      "portuguese_translation": "Entre nós",
+      "definition": null,
+      "alternative_meanings": [
+        "connosco"
+      ],
+      "examples": [],
+      "grammatical_category": "preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mudi'etu-1 — https://www.kimbundu.org/pt/word/mudi'etu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16037,
+      "kimbundu_term": "Mudiámba",
+      "portuguese_translation": "Orquídeo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mudiámba-1 — https://www.kimbundu.org/pt/word/mudiamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16038,
+      "kimbundu_term": "Mudiángu",
+      "portuguese_translation": "Desvairado",
+      "definition": null,
+      "alternative_meanings": [
+        "réprobo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mudiángu-1 — https://www.kimbundu.org/pt/word/mudiangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16039,
+      "kimbundu_term": "Mudiángu",
+      "portuguese_translation": "Condenado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mudiángu-1 — https://www.kimbundu.org/pt/word/mudiangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16040,
+      "kimbundu_term": "Mudiángu",
+      "portuguese_translation": "Enguia",
+      "definition": null,
+      "alternative_meanings": [
+        "gimnoto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mudiángu-1 — https://www.kimbundu.org/pt/word/mudiangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16041,
+      "kimbundu_term": "Mudiángu",
+      "portuguese_translation": "Anguiforme",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mudiángu-1 — https://www.kimbundu.org/pt/word/mudiangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16042,
+      "kimbundu_term": "Mudiáte",
+      "portuguese_translation": "Pisador",
+      "definition": null,
+      "alternative_meanings": [
+        "Espesinhador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mudiáte-1 — https://www.kimbundu.org/pt/word/mudiate",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16043,
+      "kimbundu_term": "Mudídi",
+      "portuguese_translation": "Préfica",
+      "definition": null,
+      "alternative_meanings": [
+        "carpideira",
+        "Chorador",
+        "fig. Chorão"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mudídi-1 — https://www.kimbundu.org/pt/word/mudidi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
