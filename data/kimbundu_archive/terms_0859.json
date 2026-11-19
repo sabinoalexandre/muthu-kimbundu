@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8694,
+      "kimbundu_term": "Kuhalumuna",
+      "portuguese_translation": "Atacar com ímpeto (ao falar)",
+      "definition": null,
+      "alternative_meanings": [
+        "Arremeter",
+        "Ser arrebatado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhalumuna-1 — https://www.kimbundu.org/pt/word/kuhalumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8695,
+      "kimbundu_term": "Kuhalumuna",
+      "portuguese_translation": "Encolerizar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "encher-se de ira"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhalumuna-1 — https://www.kimbundu.org/pt/word/kuhalumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8696,
+      "kimbundu_term": "Kuhalumuna",
+      "portuguese_translation": "Arremetida",
+      "definition": null,
+      "alternative_meanings": [
+        "ímpeto"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhalumuna-1 — https://www.kimbundu.org/pt/word/kuhalumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8697,
+      "kimbundu_term": "Kuhama",
+      "portuguese_translation": "Esganar",
+      "definition": null,
+      "alternative_meanings": [
+        "danar-se",
+        "ter raiva",
+        "Enfurecer-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhama-1 — https://www.kimbundu.org/pt/word/kuhama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8698,
+      "kimbundu_term": "Kuhamena",
+      "portuguese_translation": "Esforçar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "debater-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhamena-1 — https://www.kimbundu.org/pt/word/kuhamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8699,
+      "kimbundu_term": "Kuhamena",
+      "portuguese_translation": "Agitar-se com violência procurando desprender-se",
+      "definition": null,
+      "alternative_meanings": [
+        "Diz-se do animal que, manietado, tenta arremeter"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhamena-1 — https://www.kimbundu.org/pt/word/kuhamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8700,
+      "kimbundu_term": "Kuhána",
+      "portuguese_translation": "Arreganhar",
+      "definition": null,
+      "alternative_meanings": [
+        "intimidar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhána-1 — https://www.kimbundu.org/pt/word/kuhana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8701,
+      "kimbundu_term": "Kuhána",
+      "portuguese_translation": "Arreganho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhána-1 — https://www.kimbundu.org/pt/word/kuhana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8702,
+      "kimbundu_term": "Kuhána",
+      "portuguese_translation": "Mostrar arreganho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhána-1 — https://www.kimbundu.org/pt/word/kuhana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8703,
+      "kimbundu_term": "Kuhandeka",
+      "portuguese_translation": "Esboçar",
+      "definition": null,
+      "alternative_meanings": [
+        "principiar",
+        "dar a conhecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhandeka-1 — https://www.kimbundu.org/pt/word/kuhandeka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
