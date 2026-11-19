@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4934,
+      "kimbundu_term": "Kifika",
+      "portuguese_translation": "Comparação. Qualquer facto aduzido como demonstração. Modo indireto de representar uma ideia ou coisa sob a aparência de",
+      "definition": null,
+      "alternative_meanings": [
+        "Alegoria",
+        "Parábola"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifika-1 — https://www.kimbundu.org/pt/word/kifika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4935,
+      "kimbundu_term": "Kifikidilu",
+      "portuguese_translation": "Anteparo",
+      "definition": null,
+      "alternative_meanings": [
+        "Biombo",
+        "resguardo",
+        "abrigo",
+        "fig. Defesa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifikidilu-1 — https://www.kimbundu.org/pt/word/kifikidilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4936,
+      "kimbundu_term": "Kifikila",
+      "portuguese_translation": "Desconfiança mais ou menos fundada",
+      "definition": null,
+      "alternative_meanings": [
+        "apreensão desfavorável a respeito de alguém ou de alguma cousa",
+        "Suspeita"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifikila-1 — https://www.kimbundu.org/pt/word/kifikila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4937,
+      "kimbundu_term": "Kifikula",
+      "portuguese_translation": "Figura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifikula-1 — https://www.kimbundu.org/pt/word/kifikula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4938,
+      "kimbundu_term": "Kifófo",
+      "portuguese_translation": "Cego",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Ignorante"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifófo-1 — https://www.kimbundu.org/pt/word/kifofo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4939,
+      "kimbundu_term": "Kifófo",
+      "portuguese_translation": "Pessoa cega",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifófo-1 — https://www.kimbundu.org/pt/word/kifofo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4940,
+      "kimbundu_term": "Kifofodi",
+      "portuguese_translation": "Vazio",
+      "definition": null,
+      "alternative_meanings": [
+        "oco",
+        "Balofo",
+        "que cede à pressão",
+        "Mole"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifofodi-1 — https://www.kimbundu.org/pt/word/kifofodi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4941,
+      "kimbundu_term": "Kifokoto",
+      "portuguese_translation": "Planta herbácea fam. das bignoneáceas (Sesamum indicum), de sementes oleaginosas",
+      "definition": null,
+      "alternative_meanings": [
+        "Gergelim"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifokoto-1 — https://www.kimbundu.org/pt/word/kifokoto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4942,
+      "kimbundu_term": "Kifu",
+      "portuguese_translation": "Extinto",
+      "definition": null,
+      "alternative_meanings": [
+        "acabado",
+        "morto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifu-1 — https://www.kimbundu.org/pt/word/kifu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4943,
+      "kimbundu_term": "Kifuakasa",
+      "portuguese_translation": "O mesmo ou melhor que kijakasa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifuakasa-1 — https://www.kimbundu.org/pt/word/kifuakasa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
