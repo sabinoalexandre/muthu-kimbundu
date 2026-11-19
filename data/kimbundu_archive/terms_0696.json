@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7064,
+      "kimbundu_term": "Kubánda",
+      "portuguese_translation": "Cortar, lanhar a golpes de machado, faca, catana, etc",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubánda-1 — https://www.kimbundu.org/pt/word/kubanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7065,
+      "kimbundu_term": "Kubánda",
+      "portuguese_translation": "Amputar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubánda-1 — https://www.kimbundu.org/pt/word/kubanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7066,
+      "kimbundu_term": "Kubánda",
+      "portuguese_translation": "Buscar",
+      "definition": null,
+      "alternative_meanings": [
+        "tratar de achar, de descobrir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubánda-1 — https://www.kimbundu.org/pt/word/kubanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7067,
+      "kimbundu_term": "Kubánda",
+      "portuguese_translation": "Concertar",
+      "definition": null,
+      "alternative_meanings": [
+        "aperfeiçoar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubánda-1 — https://www.kimbundu.org/pt/word/kubanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7068,
+      "kimbundu_term": "Kubánda",
+      "portuguese_translation": "Cevar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubánda-1 — https://www.kimbundu.org/pt/word/kubanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7069,
+      "kimbundu_term": "Kubánda",
+      "portuguese_translation": "sub. Estimação",
+      "definition": null,
+      "alternative_meanings": [
+        "elogio"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubánda-1 — https://www.kimbundu.org/pt/word/kubanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7070,
+      "kimbundu_term": "Kubánda",
+      "portuguese_translation": "Primazia. Pesquisa",
+      "definition": null,
+      "alternative_meanings": [
+        "busca"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubánda-1 — https://www.kimbundu.org/pt/word/kubanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7071,
+      "kimbundu_term": "Kubánda",
+      "portuguese_translation": "Kuribánda, v. r. Elogiar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "ufanar-se, gabar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubánda-1 — https://www.kimbundu.org/pt/word/kubanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7072,
+      "kimbundu_term": "Kubánda",
+      "portuguese_translation": "Dizer bem de si próprio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubánda-1 — https://www.kimbundu.org/pt/word/kubanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7073,
+      "kimbundu_term": "Kubandama",
+      "portuguese_translation": "Aquietar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "ficar estacionário"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubandama-1 — https://www.kimbundu.org/pt/word/kubandama",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
