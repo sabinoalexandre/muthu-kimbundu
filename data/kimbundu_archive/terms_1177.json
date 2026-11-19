@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11874,
+      "kimbundu_term": "Kusukumuna",
+      "portuguese_translation": "Fazer sair (por uma abertura) o conteúdo de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusukumuna-1 — https://www.kimbundu.org/pt/word/kusukumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11875,
+      "kimbundu_term": "Kúsula",
+      "portuguese_translation": "Surrar",
+      "definition": null,
+      "alternative_meanings": [
+        "Forjar",
+        "Malhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsula-1 — https://www.kimbundu.org/pt/word/kusula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11876,
+      "kimbundu_term": "Kúsula",
+      "portuguese_translation": "Açoitar",
+      "definition": null,
+      "alternative_meanings": [
+        "fustigar",
+        "bater",
+        "fig. Trabalhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsula-1 — https://www.kimbundu.org/pt/word/kusula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11877,
+      "kimbundu_term": "Kúsula",
+      "portuguese_translation": "Surramento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsula-1 — https://www.kimbundu.org/pt/word/kusula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11878,
+      "kimbundu_term": "Kusuluka",
+      "portuguese_translation": "Estar despachado, ficar livre",
+      "definition": null,
+      "alternative_meanings": [
+        "Estar absolvido",
+        "Sair (da opressão)",
+        "Ter baixa (de serviço)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuluka-1 — https://www.kimbundu.org/pt/word/kusuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11879,
+      "kimbundu_term": "Kusuluka",
+      "portuguese_translation": "sub. Absolvição",
+      "definition": null,
+      "alternative_meanings": [
+        "Despacho"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuluka-1 — https://www.kimbundu.org/pt/word/kusuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11880,
+      "kimbundu_term": "Kusulukisa",
+      "portuguese_translation": "Fazer despachar, resolver. É também recíproco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusulukisa-1 — https://www.kimbundu.org/pt/word/kusulukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11881,
+      "kimbundu_term": "Kusulula",
+      "portuguese_translation": "Despachar",
+      "definition": null,
+      "alternative_meanings": [
+        "libertar",
+        "absolver"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusulula-1 — https://www.kimbundu.org/pt/word/kusulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11882,
+      "kimbundu_term": "Kusulula",
+      "portuguese_translation": "Licenciar",
+      "definition": null,
+      "alternative_meanings": [
+        "dar baixa"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusulula-1 — https://www.kimbundu.org/pt/word/kusulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11883,
+      "kimbundu_term": "Kusulula",
+      "portuguese_translation": "Kurisulula, v. r. Despachar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "livrar-se de impedimentos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusulula-1 — https://www.kimbundu.org/pt/word/kusulula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
