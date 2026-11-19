@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6734,
+      "kimbundu_term": "Kizézu",
+      "portuguese_translation": "Enchente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizézu-1 — https://www.kimbundu.org/pt/word/kizezu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6735,
+      "kimbundu_term": "Kizókela",
+      "portuguese_translation": "Banquete",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizókela-1 — https://www.kimbundu.org/pt/word/kizokela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6736,
+      "kimbundu_term": "Kizókela",
+      "portuguese_translation": "Festa de cerimónia, de família, etc",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizókela-1 — https://www.kimbundu.org/pt/word/kizokela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6737,
+      "kimbundu_term": "Kizókela",
+      "portuguese_translation": "Regabofe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizókela-1 — https://www.kimbundu.org/pt/word/kizokela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6738,
+      "kimbundu_term": "Kizola",
+      "portuguese_translation": "Estimação",
+      "definition": null,
+      "alternative_meanings": [
+        "simpatia",
+        "agrado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizola-1 — https://www.kimbundu.org/pt/word/kizola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6739,
+      "kimbundu_term": "Kizola",
+      "portuguese_translation": "Amizade",
+      "definition": null,
+      "alternative_meanings": [
+        "amor"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizola-1 — https://www.kimbundu.org/pt/word/kizola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6740,
+      "kimbundu_term": "Kizola",
+      "portuguese_translation": "Ventura",
+      "definition": null,
+      "alternative_meanings": [
+        "felicidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizola-1 — https://www.kimbundu.org/pt/word/kizola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6741,
+      "kimbundu_term": "Kizole",
+      "portuguese_translation": "(III) Muito querido, prezado",
+      "definition": null,
+      "alternative_meanings": [
+        "estimado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizole-1 — https://www.kimbundu.org/pt/word/kizole",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6742,
+      "kimbundu_term": "Kizole",
+      "portuguese_translation": "O meu muito amado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizole-1 — https://www.kimbundu.org/pt/word/kizole",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6743,
+      "kimbundu_term": "Kizómba",
+      "portuguese_translation": "Folguedo",
+      "definition": null,
+      "alternative_meanings": [
+        "dança"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizómba-1 — https://www.kimbundu.org/pt/word/kizomba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
