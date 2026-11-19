@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10644,
+      "kimbundu_term": "Kumiámia",
+      "portuguese_translation": "Chuvisco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumiámia-1 — https://www.kimbundu.org/pt/word/kumiamia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10645,
+      "kimbundu_term": "Kumikuka",
+      "portuguese_translation": "Espaduar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "inclinar-se (em movimento rápido)",
+        "tombar de cabeça para trás"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumikuka-1 — https://www.kimbundu.org/pt/word/kumikuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10646,
+      "kimbundu_term": "Kumikuna",
+      "portuguese_translation": "Espaduar",
+      "definition": null,
+      "alternative_meanings": [
+        "inclinar (o busto) para trás"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumikuna-1 — https://www.kimbundu.org/pt/word/kumikuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10647,
+      "kimbundu_term": "Kumingana",
+      "portuguese_translation": "Ser torto (com o peito saliente)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumingana-1 — https://www.kimbundu.org/pt/word/kumingana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10648,
+      "kimbundu_term": "Kumingana",
+      "portuguese_translation": "Estar empertigado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumingana-1 — https://www.kimbundu.org/pt/word/kumingana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10649,
+      "kimbundu_term": "Kuminganana",
+      "portuguese_translation": "Andar torto, inclinado (com o peito saliente)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuminganana-1 — https://www.kimbundu.org/pt/word/kuminganana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10650,
+      "kimbundu_term": "Kuminganana",
+      "portuguese_translation": "Empertigar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "inclinar-se para trás"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuminganana-1 — https://www.kimbundu.org/pt/word/kuminganana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10651,
+      "kimbundu_term": "Kumingananesa",
+      "portuguese_translation": "Fazer entortar pela cintura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumingananesa-1 — https://www.kimbundu.org/pt/word/kumingananesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10652,
+      "kimbundu_term": "Kumingananesa",
+      "portuguese_translation": "Fazer inclinar para trás",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumingananesa-1 — https://www.kimbundu.org/pt/word/kumingananesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10653,
+      "kimbundu_term": "Kuminya",
+      "portuguese_translation": "Deglutir",
+      "definition": null,
+      "alternative_meanings": [
+        "engolir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuminya-1 — https://www.kimbundu.org/pt/word/kuminya",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
