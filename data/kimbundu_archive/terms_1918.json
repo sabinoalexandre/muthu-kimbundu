@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19284,
+      "kimbundu_term": "Tumbengela",
+      "portuguese_translation": "Dim. de mbengela. Apêndices",
+      "definition": null,
+      "alternative_meanings": [
+        "orelhas pequenas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tumbengela-1 — https://www.kimbundu.org/pt/word/tumbengela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19285,
+      "kimbundu_term": "Tumbu",
+      "portuguese_translation": "Agulha (de coser). Ponteiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tumbu-1 — https://www.kimbundu.org/pt/word/tumbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19286,
+      "kimbundu_term": "Tumbu",
+      "portuguese_translation": "Excrescência que se forma no umbigo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tumbu-1 — https://www.kimbundu.org/pt/word/tumbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19287,
+      "kimbundu_term": "Tumbu",
+      "portuguese_translation": "Árvore gnetácea",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tumbu-1 — https://www.kimbundu.org/pt/word/tumbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19288,
+      "kimbundu_term": "Tumbuende",
+      "portuguese_translation": "Diz-se da mandioca miúda, pouco desenvolvida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tumbuende-1 — https://www.kimbundu.org/pt/word/tumbuende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19289,
+      "kimbundu_term": "Tunda!",
+      "portuguese_translation": "Sai! Safa-te!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tunda!-1 — https://www.kimbundu.org/pt/word/tunda%21",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19290,
+      "kimbundu_term": "Tunda!",
+      "portuguese_translation": "Arredai! Fora",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tunda!-1 — https://www.kimbundu.org/pt/word/tunda%21",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19291,
+      "kimbundu_term": "Tunde",
+      "portuguese_translation": "Desde",
+      "definition": null,
+      "alternative_meanings": [
+        "a começar, a contar de",
+        "Depois de"
+      ],
+      "examples": [],
+      "grammatical_category": "próprio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tunde-1 — https://www.kimbundu.org/pt/word/tunde",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19292,
+      "kimbundu_term": "Tûnga",
+      "portuguese_translation": "Hesitação",
+      "definition": null,
+      "alternative_meanings": [
+        "receio",
+        "escrúpulo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tûnga-1 — https://www.kimbundu.org/pt/word/tunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19293,
+      "kimbundu_term": "Tûnga",
+      "portuguese_translation": "adj. Escrupuloso",
+      "definition": null,
+      "alternative_meanings": [
+        "Que hesita"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tûnga-1 — https://www.kimbundu.org/pt/word/tunga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
