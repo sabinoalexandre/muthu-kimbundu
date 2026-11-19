@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16154,
+      "kimbundu_term": "Múfunu",
+      "portuguese_translation": "Oficial",
+      "definition": null,
+      "alternative_meanings": [
+        "operário",
+        "artista"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múfunu-1 — https://www.kimbundu.org/pt/word/mufunu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16155,
+      "kimbundu_term": "Múfunu",
+      "portuguese_translation": "Profissional",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múfunu-1 — https://www.kimbundu.org/pt/word/mufunu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16156,
+      "kimbundu_term": "Múfuta",
+      "portuguese_translation": "Prega",
+      "definition": null,
+      "alternative_meanings": [
+        "ruga, vinco (em roupas ou panos)",
+        "Cada uma das duas partes que se sobrepõem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múfuta-1 — https://www.kimbundu.org/pt/word/mufuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16157,
+      "kimbundu_term": "Mufúte",
+      "portuguese_translation": "Pagador",
+      "definition": null,
+      "alternative_meanings": [
+        "Que remunera"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mufúte-1 — https://www.kimbundu.org/pt/word/mufute",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16158,
+      "kimbundu_term": "Múfuti",
+      "portuguese_translation": "Aquele que cobre ou abafa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múfuti-1 — https://www.kimbundu.org/pt/word/mufuti",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16159,
+      "kimbundu_term": "Mufutila",
+      "portuguese_translation": "Planta medicinal, utilizada em casos de incisões",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mufutila-1 — https://www.kimbundu.org/pt/word/mufutila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16160,
+      "kimbundu_term": "Múfutu",
+      "portuguese_translation": "Cobertura",
+      "definition": null,
+      "alternative_meanings": [
+        "O que serve para cobrir"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múfutu-1 — https://www.kimbundu.org/pt/word/mufutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16161,
+      "kimbundu_term": "Mufwe",
+      "portuguese_translation": "Que morre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mufwe-1 — https://www.kimbundu.org/pt/word/mufwe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16162,
+      "kimbundu_term": "Mufwe",
+      "portuguese_translation": "Condenado à morte",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mufwe-1 — https://www.kimbundu.org/pt/word/mufwe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16163,
+      "kimbundu_term": "Muhabi",
+      "portuguese_translation": "Fabulista",
+      "definition": null,
+      "alternative_meanings": [
+        "fabulador",
+        "Trapaceiro",
+        "embusteiro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muhabi-1 — https://www.kimbundu.org/pt/word/muhabi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
