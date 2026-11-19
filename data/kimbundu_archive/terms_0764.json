@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7744,
+      "kimbundu_term": "Kubotomona",
+      "portuguese_translation": "Amolecer",
+      "definition": null,
+      "alternative_meanings": [
+        "Tornar impotente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubotomona-1 — https://www.kimbundu.org/pt/word/kubotomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7745,
+      "kimbundu_term": "Kuboza",
+      "portuguese_translation": "Ladrar",
+      "definition": null,
+      "alternative_meanings": [
+        "latir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuboza-1 — https://www.kimbundu.org/pt/word/kuboza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7746,
+      "kimbundu_term": "Kubuâbua",
+      "portuguese_translation": "Jorrar",
+      "definition": null,
+      "alternative_meanings": [
+        "manar",
+        "verter copiosamente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuâbua-1 — https://www.kimbundu.org/pt/word/kubuabua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7747,
+      "kimbundu_term": "Kubuabuála",
+      "portuguese_translation": "e intr. Palavrear",
+      "definition": null,
+      "alternative_meanings": [
+        "falar muito e sem nexo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuabuála-1 — https://www.kimbundu.org/pt/word/kubuabuala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7748,
+      "kimbundu_term": "Kubuabuála",
+      "portuguese_translation": "Loquaz",
+      "definition": null,
+      "alternative_meanings": [
+        "verboso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuabuála-1 — https://www.kimbundu.org/pt/word/kubuabuala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7749,
+      "kimbundu_term": "Kubuabualesa",
+      "portuguese_translation": "Fazer palavrear",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuabualesa-1 — https://www.kimbundu.org/pt/word/kubuabualesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7750,
+      "kimbundu_term": "Kubuabualesa",
+      "portuguese_translation": "Mandar dizer palavras vazias de sentido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuabualesa-1 — https://www.kimbundu.org/pt/word/kubuabualesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7751,
+      "kimbundu_term": "Kubuabuata",
+      "portuguese_translation": "Exprimir-se dificilmente (como que tendo água na boca)",
+      "definition": null,
+      "alternative_meanings": [
+        "Tartamudear",
+        "não falar claro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuabuata-1 — https://www.kimbundu.org/pt/word/kubuabuata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7752,
+      "kimbundu_term": "Kubuabuesa",
+      "portuguese_translation": "Fazer jorrar, borbotar, verter com abundância",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuabuesa-1 — https://www.kimbundu.org/pt/word/kubuabuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7753,
+      "kimbundu_term": "Kubuasumuna",
+      "portuguese_translation": "Esmigalhar, esboroar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuasumuna-1 — https://www.kimbundu.org/pt/word/kubuasumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
