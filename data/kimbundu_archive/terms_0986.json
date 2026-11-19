@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9964,
+      "kimbundu_term": "Kulála",
+      "portuguese_translation": "Espichar, tornar tenso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulála-1 — https://www.kimbundu.org/pt/word/kulala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9965,
+      "kimbundu_term": "Kulála",
+      "portuguese_translation": "Forrar, tapar (com peles)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulála-1 — https://www.kimbundu.org/pt/word/kulala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9966,
+      "kimbundu_term": "Kulála",
+      "portuguese_translation": "Curtir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulála-1 — https://www.kimbundu.org/pt/word/kulala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9967,
+      "kimbundu_term": "Kulála",
+      "portuguese_translation": "Tornar (a pele) imputrescível",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulála-1 — https://www.kimbundu.org/pt/word/kulala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9968,
+      "kimbundu_term": "Kulála",
+      "portuguese_translation": "Alastrar",
+      "definition": null,
+      "alternative_meanings": [
+        "estender-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulála-1 — https://www.kimbundu.org/pt/word/kulala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9969,
+      "kimbundu_term": "Kulála",
+      "portuguese_translation": "Esbrasear",
+      "definition": null,
+      "alternative_meanings": [
+        "arder",
+        "consumir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulála-1 — https://www.kimbundu.org/pt/word/kulala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9970,
+      "kimbundu_term": "Kulála",
+      "portuguese_translation": "Curtimenta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulála-2 — https://www.kimbundu.org/pt/word/kulala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9971,
+      "kimbundu_term": "Kúlala",
+      "portuguese_translation": "Dissimular",
+      "definition": null,
+      "alternative_meanings": [
+        "torcer (a conversa)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlala-1 — https://www.kimbundu.org/pt/word/kulala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9972,
+      "kimbundu_term": "Kúlala",
+      "portuguese_translation": "Disfarçar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlala-1 — https://www.kimbundu.org/pt/word/kulala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9973,
+      "kimbundu_term": "Kulaláma",
+      "portuguese_translation": "Flutuar",
+      "definition": null,
+      "alternative_meanings": [
+        "conservar-se emerso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulaláma-1 — https://www.kimbundu.org/pt/word/kulalama",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
