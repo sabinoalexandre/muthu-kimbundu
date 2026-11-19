@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6544,
+      "kimbundu_term": "Kivúvu",
+      "portuguese_translation": "Desregramento",
+      "definition": null,
+      "alternative_meanings": [
+        "desmando",
+        "abuso. Falta de ordem, de respeito"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kivúvu-1 — https://www.kimbundu.org/pt/word/kivuvu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6545,
+      "kimbundu_term": "Kívuzu",
+      "portuguese_translation": "Perturbação",
+      "definition": null,
+      "alternative_meanings": [
+        "abalo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kívuzu-1 — https://www.kimbundu.org/pt/word/kivuzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6546,
+      "kimbundu_term": "Kiwana",
+      "portuguese_translation": "Quatro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiwana-1 — https://www.kimbundu.org/pt/word/kiwana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6547,
+      "kimbundu_term": "Kixakatu",
+      "portuguese_translation": "Esfregação. Fricção",
+      "definition": null,
+      "alternative_meanings": [
+        "roce"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixakatu-1 — https://www.kimbundu.org/pt/word/kixakatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6548,
+      "kimbundu_term": "Kixala",
+      "portuguese_translation": "Peixe do mar maior que a enxada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixala-1 — https://www.kimbundu.org/pt/word/kixala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6549,
+      "kimbundu_term": "Kíxalu",
+      "portuguese_translation": "Rasgão (nas carnes). Lanho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kíxalu-1 — https://www.kimbundu.org/pt/word/kixalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6550,
+      "kimbundu_term": "Kixamenenu",
+      "portuguese_translation": "Apoio",
+      "definition": null,
+      "alternative_meanings": [
+        "encosto",
+        "amparo. Coisa a que se encosta. Estelo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixamenenu-1 — https://www.kimbundu.org/pt/word/kixamenenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6551,
+      "kimbundu_term": "Kixanenu",
+      "portuguese_translation": "Chamariz",
+      "definition": null,
+      "alternative_meanings": [
+        "engodo",
+        "Convocatória",
+        "O que atrai"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixanenu-1 — https://www.kimbundu.org/pt/word/kixanenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6552,
+      "kimbundu_term": "Kixánga",
+      "portuguese_translation": "Tropo",
+      "definition": null,
+      "alternative_meanings": [
+        "Metáfora"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixánga-1 — https://www.kimbundu.org/pt/word/kixanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6553,
+      "kimbundu_term": "Kixánga",
+      "portuguese_translation": "Modo indireto de representar uma cousa ou ideia sob a aparência de outra",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Dissimulação",
+        "disfarce"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixánga-1 — https://www.kimbundu.org/pt/word/kixanga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
