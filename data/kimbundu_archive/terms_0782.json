@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7924,
+      "kimbundu_term": "Kúbunda",
+      "portuguese_translation": "Bater-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbunda-1 — https://www.kimbundu.org/pt/word/kubunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7925,
+      "kimbundu_term": "Kubúnda",
+      "portuguese_translation": "Saquear",
+      "definition": null,
+      "alternative_meanings": [
+        "despojar",
+        "sequestrar, confiscar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubúnda-1 — https://www.kimbundu.org/pt/word/kubunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7926,
+      "kimbundu_term": "Kubúnda",
+      "portuguese_translation": "Confisco",
+      "definition": null,
+      "alternative_meanings": [
+        "sequestro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubúnda-1 — https://www.kimbundu.org/pt/word/kubunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7927,
+      "kimbundu_term": "Kúbundisa",
+      "portuguese_translation": "Fazer trilhar. Mandar bater",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbundisa-1 — https://www.kimbundu.org/pt/word/kubundisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7928,
+      "kimbundu_term": "Kubundísa",
+      "portuguese_translation": "Fazer saquear, sequestrar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubundísa-1 — https://www.kimbundu.org/pt/word/kubundisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7929,
+      "kimbundu_term": "Kubundísa",
+      "portuguese_translation": "Mandar assaltar, confiscar, apreender",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubundísa-1 — https://www.kimbundu.org/pt/word/kubundisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7930,
+      "kimbundu_term": "Kubundúla",
+      "portuguese_translation": "Ganhar",
+      "definition": null,
+      "alternative_meanings": [
+        "tirar vantagens, obter lucros"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubundúla-1 — https://www.kimbundu.org/pt/word/kubundula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7931,
+      "kimbundu_term": "Kubundúla",
+      "portuguese_translation": "Recuperar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubundúla-1 — https://www.kimbundu.org/pt/word/kubundula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7932,
+      "kimbundu_term": "Kübundumuka",
+      "portuguese_translation": "Ter prejuízo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kübundumuka-1 — https://www.kimbundu.org/pt/word/kubundumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7933,
+      "kimbundu_term": "Kübundumuka",
+      "portuguese_translation": "Ficar menos quantidade",
+      "definition": null,
+      "alternative_meanings": [
+        "deitar a perder"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kübundumuka-1 — https://www.kimbundu.org/pt/word/kubundumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
