@@ -1578,7 +1578,7 @@
     },
     {
       "id": 104,
-      "kimbundu_term": "",
+      "kimbundu_term": "Kesóngo",
       "kikongo_term": "mfumu",
       "portuguese_translation": "chefe",
       "definition": "Chefe; a fonte também regista o sentido de cabeça.",
@@ -1589,12 +1589,12 @@
       "grammatical_category": "substantivo",
       "regional_variation": "Forma registada no material Kia Kongo; sentido depende do contexto.",
       "verification_status": "unverified",
-      "source_reference": "Kia Kongo, conteúdo das classes nominais — https://www.kiakongo.com/9-conteudo-dos-diferentes-classes/; Kia Kongo, eBookWords — https://www.kiakongo.com/lingua-kikongo/ebookwords-contents/?_page=11",
+      "source_reference": "Kia Kongo, conteúdo das classes nominais — https://www.kiakongo.com/9-conteudo-dos-diferentes-classes/; Kia Kongo, eBookWords — https://www.kiakongo.com/lingua-kikongo/ebookwords-contents/?_page=11; Arquivo Kimbundu, Kesóngo — https://www.kimbundu.org/pt/word/kesongo",
       "timestamp": "2026-11-19T00:00:00"
     },
     {
       "id": 105,
-      "kimbundu_term": "",
+      "kimbundu_term": "Rizunu",
       "kikongo_term": "mbômbo",
       "portuguese_translation": "nariz",
       "definition": "Nariz.",
@@ -1603,7 +1603,7 @@
       "grammatical_category": "substantivo",
       "regional_variation": "Forma registada no Léxikongo; confirmar variantes locais.",
       "verification_status": "unverified",
-      "source_reference": "Kia Kongo, conteúdo das classes nominais — https://www.kiakongo.com/9-conteudo-dos-diferentes-classes/",
+      "source_reference": "Kia Kongo, conteúdo das classes nominais — https://www.kiakongo.com/9-conteudo-dos-diferentes-classes/; Arquivo Kimbundu, Rizunu — https://www.kimbundu.org/pt/word/rizunu",
       "timestamp": "2026-11-19T00:00:00"
     }
   ]

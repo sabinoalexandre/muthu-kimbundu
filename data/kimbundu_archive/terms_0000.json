@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 106,
+      "kimbundu_term": "-jinga",
+      "portuguese_translation": "que indica ação contínua",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "sufixo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, -jinga-1 — https://www.kimbundu.org/pt/word/-jinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 107,
+      "kimbundu_term": "-jinga",
+      "portuguese_translation": "Sem cessar. Sempre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "sufixo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, -jinga-1 — https://www.kimbundu.org/pt/word/-jinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 108,
+      "kimbundu_term": "-jinga",
+      "portuguese_translation": "Palavra que se junta ao verbo para significar ação contínua, ininterrupta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "sufixo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, -jinga-1 — https://www.kimbundu.org/pt/word/-jinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 109,
+      "kimbundu_term": "'Ngo",
+      "portuguese_translation": "Onça",
+      "definition": null,
+      "alternative_meanings": [
+        "tigre",
+        "Mamífero carnívoro do género gato",
+        "Felino"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, 'ngo-1 — https://www.kimbundu.org/pt/word/'ngo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 110,
+      "kimbundu_term": "A'ba",
+      "portuguese_translation": "Abreviatura de baba, boba",
+      "definition": null,
+      "alternative_meanings": [
+        "aqui",
+        "neste lugar"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, a'ba-1 — https://www.kimbundu.org/pt/word/a'ba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 111,
+      "kimbundu_term": "Ababati",
+      "portuguese_translation": "Apalpadeiras",
+      "definition": null,
+      "alternative_meanings": [
+        "apalpadores",
+        "pessoas que apalpam",
+        "verificadores"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ababati-1 — https://www.kimbundu.org/pt/word/ababati",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 112,
+      "kimbundu_term": "Abádi",
+      "portuguese_translation": "Grupo de agentes que compram ou vendem por conta de outrem",
+      "definition": null,
+      "alternative_meanings": [
+        "aviados"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, abádi-1 — https://www.kimbundu.org/pt/word/abadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 113,
+      "kimbundu_term": "Abádi",
+      "portuguese_translation": "Mulheres que vendem a retalho em mercado ou feira, ou de terra em terra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, abádi-1 — https://www.kimbundu.org/pt/word/abadi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
