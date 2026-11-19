@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6674,
+      "kimbundu_term": "Kizádi",
+      "portuguese_translation": "Que se estende ou espalha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizádi-1 — https://www.kimbundu.org/pt/word/kizadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6675,
+      "kimbundu_term": "Kizádi",
+      "portuguese_translation": "O que ocupa grande extensão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizádi-1 — https://www.kimbundu.org/pt/word/kizadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6676,
+      "kimbundu_term": "Kizádi",
+      "portuguese_translation": "Planta de frutos comestíveis (Dioscorea angustiflora)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizádi-1 — https://www.kimbundu.org/pt/word/kizadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6677,
+      "kimbundu_term": "Kizádi",
+      "portuguese_translation": "Dioscórea",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizádi-1 — https://www.kimbundu.org/pt/word/kizadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6678,
+      "kimbundu_term": "Kizáka",
+      "portuguese_translation": "Esparregado de folhas da mandioqueira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizáka-1 — https://www.kimbundu.org/pt/word/kizaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6679,
+      "kimbundu_term": "Kizakazaka",
+      "portuguese_translation": "Poça extensa de água estagnada e suja",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizakazaka-1 — https://www.kimbundu.org/pt/word/kizakazaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6680,
+      "kimbundu_term": "Kizakazaka",
+      "portuguese_translation": "Charco",
+      "definition": null,
+      "alternative_meanings": [
+        "atoleiro",
+        "palude"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizakazaka-1 — https://www.kimbundu.org/pt/word/kizakazaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6681,
+      "kimbundu_term": "Kizala",
+      "portuguese_translation": "Vaidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizala-1 — https://www.kimbundu.org/pt/word/kizala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6682,
+      "kimbundu_term": "Kizalélu",
+      "portuguese_translation": "O que se estende na cama",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizalélu-1 — https://www.kimbundu.org/pt/word/kizalelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6683,
+      "kimbundu_term": "Kizalélu",
+      "portuguese_translation": "Roupa de abrigo, de agasalho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizalélu-1 — https://www.kimbundu.org/pt/word/kizalelu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
