@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1834,
+      "kimbundu_term": "Hima",
+      "portuguese_translation": "Nome genérico dos mamíferos quadrúmanos",
+      "definition": null,
+      "alternative_meanings": [
+        "Macaco",
+        "Mamífero quadrúmano da ordem dos primatas",
+        "Símio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hima-1 — https://www.kimbundu.org/pt/word/hima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1835,
+      "kimbundu_term": "Himba",
+      "portuguese_translation": "Pássaro dentirostro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, himba-1 — https://www.kimbundu.org/pt/word/himba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1836,
+      "kimbundu_term": "Hinji",
+      "portuguese_translation": "Ação e efeito de rodear, de volver",
+      "definition": null,
+      "alternative_meanings": [
+        "Movimento em torno",
+        "rodeio",
+        "giro",
+        "Volta em roda de",
+        "Volteio",
+        "volteadura",
+        "Cada uma das curvas de um espiral"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hinji-1 — https://www.kimbundu.org/pt/word/hinji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1837,
+      "kimbundu_term": "Hinji",
+      "portuguese_translation": "e intr. Voltear",
+      "definition": null,
+      "alternative_meanings": [
+        "girar",
+        "volver",
+        "Dar volta a",
+        "Agitar-se à roda de",
+        "Ir de volta",
+        "Circular"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hinji-1 — https://www.kimbundu.org/pt/word/hinji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1838,
+      "kimbundu_term": "Hinu",
+      "portuguese_translation": "Contudo",
+      "definition": null,
+      "alternative_meanings": [
+        "não obstante",
+        "Todavia",
+        "Entretanto",
+        "porém",
+        "Ainda assim",
+        "talvez"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hinu-1 — https://www.kimbundu.org/pt/word/hinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1839,
+      "kimbundu_term": "Hinu",
+      "portuguese_translation": "Por que",
+      "definition": null,
+      "alternative_meanings": [
+        "Visto que",
+        "Por motivo de que"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hinu-2 — https://www.kimbundu.org/pt/word/hinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1840,
+      "kimbundu_term": "Hinu",
+      "portuguese_translation": "Mais tarde",
+      "definition": null,
+      "alternative_meanings": [
+        "depois",
+        "Em seguida",
+        "em tempo posterior"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hinu-2 — https://www.kimbundu.org/pt/word/hinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1841,
+      "kimbundu_term": "Hinu",
+      "portuguese_translation": "Quando",
+      "definition": null,
+      "alternative_meanings": [
+        "No momento em que",
+        "Nesse ou em tal caso"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hinu-3 — https://www.kimbundu.org/pt/word/hinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1842,
+      "kimbundu_term": "Hisu",
+      "portuguese_translation": "Inseto hemíptero",
+      "definition": null,
+      "alternative_meanings": [
+        "Chinche",
+        "Percevejo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hisu-1 — https://www.kimbundu.org/pt/word/hisu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1843,
+      "kimbundu_term": "Hita",
+      "portuguese_translation": "Farinha de milho cozida em água fervente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hita-1 — https://www.kimbundu.org/pt/word/hita",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
