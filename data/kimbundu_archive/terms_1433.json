@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14434,
+      "kimbundu_term": "Madimbóndo",
+      "portuguese_translation": "Vespeiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, madimbóndo-1 — https://www.kimbundu.org/pt/word/madimbondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14435,
+      "kimbundu_term": "Màdimbu",
+      "portuguese_translation": "Nascidas",
+      "definition": null,
+      "alternative_meanings": [
+        "tumores"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, màdimbu-1 — https://www.kimbundu.org/pt/word/madimbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14436,
+      "kimbundu_term": "Madimbuénde",
+      "portuguese_translation": "Vespas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, madimbuénde-1 — https://www.kimbundu.org/pt/word/madimbuende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14437,
+      "kimbundu_term": "Madimbuénde",
+      "portuguese_translation": "O mesmo que marimbondo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, madimbuénde-1 — https://www.kimbundu.org/pt/word/madimbuende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14438,
+      "kimbundu_term": "Mádimi",
+      "portuguese_translation": "Línguas",
+      "definition": null,
+      "alternative_meanings": [
+        "idiomas",
+        "falas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mádimi-1 — https://www.kimbundu.org/pt/word/madimi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14439,
+      "kimbundu_term": "Mádimu",
+      "portuguese_translation": "Habilidades",
+      "definition": null,
+      "alternative_meanings": [
+        "espertezas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mádimu-1 — https://www.kimbundu.org/pt/word/madimu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14440,
+      "kimbundu_term": "Madímu",
+      "portuguese_translation": "Terras de lavoura longe das povoações",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, madímu-1 — https://www.kimbundu.org/pt/word/madimu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14441,
+      "kimbundu_term": "Madímu",
+      "portuguese_translation": "O «hinterland» agrícola",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, madímu-1 — https://www.kimbundu.org/pt/word/madimu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14442,
+      "kimbundu_term": "Mádinda",
+      "portuguese_translation": "Coartado. Aquele que não podia ser vendido por ter já entregue parte da quantia para o seu resgate. Diz-se do escravo da",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mádinda-1 — https://www.kimbundu.org/pt/word/madinda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14443,
+      "kimbundu_term": "Mádinda",
+      "portuguese_translation": "tia de uma dívida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mádinda-1 — https://www.kimbundu.org/pt/word/madinda",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
