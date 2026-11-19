@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17064,
+      "kimbundu_term": "Múseke",
+      "portuguese_translation": "Areia grossa",
+      "definition": null,
+      "alternative_meanings": [
+        "terra saibrosa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múseke-1 — https://www.kimbundu.org/pt/word/museke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17065,
+      "kimbundu_term": "Múseke",
+      "portuguese_translation": "Granja",
+      "definition": null,
+      "alternative_meanings": [
+        "herdade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múseke-1 — https://www.kimbundu.org/pt/word/museke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17066,
+      "kimbundu_term": "Musekenya",
+      "portuguese_translation": "Planta rasteira utilizada como grinalda em casos de encantamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musekenya-1 — https://www.kimbundu.org/pt/word/musekenya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17067,
+      "kimbundu_term": "Múseki",
+      "portuguese_translation": "Aquele que esfarela",
+      "definition": null,
+      "alternative_meanings": [
+        "ralador",
+        "roedor",
+        "o que morde a pouco e pouco",
+        "serrador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múseki-1 — https://www.kimbundu.org/pt/word/museki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17068,
+      "kimbundu_term": "Múseki",
+      "portuguese_translation": "Intriguista",
+      "definition": null,
+      "alternative_meanings": [
+        "mexeriqueiro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múseki-1 — https://www.kimbundu.org/pt/word/museki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17069,
+      "kimbundu_term": "Museku",
+      "portuguese_translation": "Cozedura",
+      "definition": null,
+      "alternative_meanings": [
+        "comida ligeira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, museku-1 — https://www.kimbundu.org/pt/word/museku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17070,
+      "kimbundu_term": "Museku",
+      "portuguese_translation": "Fervido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, museku-1 — https://www.kimbundu.org/pt/word/museku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17071,
+      "kimbundu_term": "Muselemi",
+      "portuguese_translation": "Desprezador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muselemi-1 — https://www.kimbundu.org/pt/word/muselemi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17072,
+      "kimbundu_term": "Muselengenye",
+      "portuguese_translation": "Diz-se da faca sem cabo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muselengenye-1 — https://www.kimbundu.org/pt/word/muselengenye",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17073,
+      "kimbundu_term": "Muselengenye",
+      "portuguese_translation": "Desencabado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muselengenye-1 — https://www.kimbundu.org/pt/word/muselengenye",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
