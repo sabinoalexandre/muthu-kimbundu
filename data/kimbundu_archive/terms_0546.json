@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5564,
+      "kimbundu_term": "Kimbande",
+      "portuguese_translation": "Firmeza. Finca-pé",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbande-1 — https://www.kimbundu.org/pt/word/kimbande",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5565,
+      "kimbundu_term": "Kimbande",
+      "portuguese_translation": "Defensiva",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbande-1 — https://www.kimbundu.org/pt/word/kimbande",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5566,
+      "kimbundu_term": "Kimbangala",
+      "portuguese_translation": "Esqueleto (de uma casa)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbangala-1 — https://www.kimbundu.org/pt/word/kimbangala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5567,
+      "kimbundu_term": "Kimbangala",
+      "portuguese_translation": "Armação de madeira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbangala-1 — https://www.kimbundu.org/pt/word/kimbangala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5568,
+      "kimbundu_term": "Kimbangala",
+      "portuguese_translation": "Natural da região dos bângalas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbangala-1 — https://www.kimbundu.org/pt/word/kimbangala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5569,
+      "kimbundu_term": "Kimbangalala",
+      "portuguese_translation": "Cigarra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbangalala-1 — https://www.kimbundu.org/pt/word/kimbangalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5570,
+      "kimbundu_term": "Kimbangalala",
+      "portuguese_translation": "Cantador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbangalala-1 — https://www.kimbundu.org/pt/word/kimbangalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5571,
+      "kimbundu_term": "Kimbangu",
+      "portuguese_translation": "Pov. e sede do posto civil deste nome, circ. do Songo, distr. e prov. de Malange, 10.463 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbangu-1 — https://www.kimbundu.org/pt/word/kimbangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5572,
+      "kimbundu_term": "Kimbánji",
+      "portuguese_translation": "De lado",
+      "definition": null,
+      "alternative_meanings": [
+        "de banda",
+        "de flanco.!"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbánji-1 — https://www.kimbundu.org/pt/word/kimbanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5573,
+      "kimbundu_term": "Kimbánji",
+      "portuguese_translation": "Costela grande",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimbánji-1 — https://www.kimbundu.org/pt/word/kimbanji",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
