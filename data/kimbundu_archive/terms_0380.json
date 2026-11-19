@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3904,
+      "kimbundu_term": "Kanjolonjolo",
+      "portuguese_translation": "Míndo",
+      "definition": null,
+      "alternative_meanings": [
+        "pequeno",
+        "diminuto",
+        "De pequeno tamanho",
+        "Ínfimo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanjolonjolo-1 — https://www.kimbundu.org/pt/word/kanjolonjolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3905,
+      "kimbundu_term": "Kanjombota",
+      "portuguese_translation": "Mamífero insetívoro, de rabo hirto e curto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanjombota-1 — https://www.kimbundu.org/pt/word/kanjombota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3906,
+      "kimbundu_term": "Kanjombota",
+      "portuguese_translation": "Pretensioso",
+      "definition": null,
+      "alternative_meanings": [
+        "Homem pequeno e impertinente",
+        "Pessoa minúscula e cortesão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanjombota-1 — https://www.kimbundu.org/pt/word/kanjombota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3907,
+      "kimbundu_term": "Kanjondo",
+      "portuguese_translation": "Manco",
+      "definition": null,
+      "alternative_meanings": [
+        "Que tem parte de um membro a menos. Aleijado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanjondo-1 — https://www.kimbundu.org/pt/word/kanjondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3908,
+      "kimbundu_term": "Kanjondo",
+      "portuguese_translation": "Coto",
+      "definition": null,
+      "alternative_meanings": [
+        "resto (de vela, braço, dedo, etc.)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanjondo-1 — https://www.kimbundu.org/pt/word/kanjondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3909,
+      "kimbundu_term": "Kanjongo-jongo",
+      "portuguese_translation": "Parte muito diminuta",
+      "definition": null,
+      "alternative_meanings": [
+        "Partícula",
+        "Coisa ínfima"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanjongo-jongo-1 — https://www.kimbundu.org/pt/word/kanjongo-jongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3910,
+      "kimbundu_term": "Kanjungu",
+      "portuguese_translation": "de njungu",
+      "definition": null,
+      "alternative_meanings": [
+        "Lourinho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanjungu-1 — https://www.kimbundu.org/pt/word/kanjungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3911,
+      "kimbundu_term": "Kanonoxi",
+      "portuguese_translation": "Pequena mancha ou nódoa",
+      "definition": null,
+      "alternative_meanings": [
+        "Estrelinha",
+        "Salpico",
+        "pinta"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanonoxi-1 — https://www.kimbundu.org/pt/word/kanonoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3912,
+      "kimbundu_term": "Kánu",
+      "portuguese_translation": "de rikanu. Boca",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, abreviatura",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kánu-1 — https://www.kimbundu.org/pt/word/kanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3913,
+      "kimbundu_term": "Kanuma",
+      "portuguese_translation": "Zanga",
+      "definition": null,
+      "alternative_meanings": [
+        "grima",
+        "Inimizade disfarçada",
+        "ódio",
+        "Má disposição de espírito contra alguém"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanuma-1 — https://www.kimbundu.org/pt/word/kanuma",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
