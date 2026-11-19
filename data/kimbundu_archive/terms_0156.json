@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1664,
+      "kimbundu_term": "Fúba",
+      "portuguese_translation": "Figurado: pó branco",
+      "definition": null,
+      "alternative_meanings": [
+        "poeira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fúba-1 — https://www.kimbundu.org/pt/word/fuba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1665,
+      "kimbundu_term": "Fúba",
+      "portuguese_translation": "farinha feita de makoka",
+      "definition": null,
+      "alternative_meanings": [
+        "farinha de mandioca escura mal preparada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fúba-1 — https://www.kimbundu.org/pt/word/fuba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1666,
+      "kimbundu_term": "Fúba",
+      "portuguese_translation": "farinha escura feita de batata doce seca ao sol",
+      "definition": null,
+      "alternative_meanings": [
+        "farinha de grande crescimento ao ser manipulada",
+        "farinha de inferior qualidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fúba-1 — https://www.kimbundu.org/pt/word/fuba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1667,
+      "kimbundu_term": "Fúba",
+      "portuguese_translation": "farinha de milho",
+      "definition": null,
+      "alternative_meanings": [
+        "milho moído, peneirado e reduzido a pó"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fúba-1 — https://www.kimbundu.org/pt/word/fuba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1668,
+      "kimbundu_term": "Fúba",
+      "portuguese_translation": "farinha feita da fécula da mandioca reduzida a pó",
+      "definition": null,
+      "alternative_meanings": [
+        "bombó seco e reduzido a pó branco, fino",
+        "goma"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fúba-1 — https://www.kimbundu.org/pt/word/fuba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1669,
+      "kimbundu_term": "Fuejá",
+      "portuguese_translation": "Do português 'feijão'",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fuejá-1 — https://www.kimbundu.org/pt/word/fueja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1670,
+      "kimbundu_term": "Fûju",
+      "portuguese_translation": "Grande agitação (produzida por pânico ou alegria)",
+      "definition": null,
+      "alternative_meanings": [
+        "alvoroço",
+        "tumulto",
+        "confusão",
+        "motim",
+        "atrapalhação",
+        "sarilho",
+        "correria",
+        "desordem",
+        "poeirada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fûju-1 — https://www.kimbundu.org/pt/word/fuju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1671,
+      "kimbundu_term": "Fujúta",
+      "portuguese_translation": "Restos que ficam no solo depois de tirar o lixo ou estrume ali amontoado",
+      "definition": null,
+      "alternative_meanings": [
+        "raspalhas",
+        "fig.: bagatela, coisas de nenhum valor",
+        "pó"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fujúta-1 — https://www.kimbundu.org/pt/word/fujuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1672,
+      "kimbundu_term": "Fujúta",
+      "portuguese_translation": "Carvão e cinza que ficam no forno depois de apagado",
+      "definition": null,
+      "alternative_meanings": [
+        "pó quente",
+        "brasas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fujúta-1 — https://www.kimbundu.org/pt/word/fujuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1673,
+      "kimbundu_term": "Fujutila",
+      "portuguese_translation": "Cisco",
+      "definition": null,
+      "alternative_meanings": [
+        "poeira",
+        "pó",
+        "o que se não aproveita",
+        "estado particular de uma substância reduzida a pequeníssimas partículas",
+        "borralho",
+        "restos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fujutila-1 — https://www.kimbundu.org/pt/word/fujutila",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
