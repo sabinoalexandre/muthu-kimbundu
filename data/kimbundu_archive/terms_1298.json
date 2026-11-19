@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13084,
+      "kimbundu_term": "Kuxakumba",
+      "portuguese_translation": "Tornar gradualmente mais rápido. Aumentar a velocidade. Ir acelerando, apressando, ativando",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxakumba-1 — https://www.kimbundu.org/pt/word/kuxakumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13085,
+      "kimbundu_term": "Kuxakumba",
+      "portuguese_translation": "Aceleração",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxakumba-1 — https://www.kimbundu.org/pt/word/kuxakumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13086,
+      "kimbundu_term": "Kuxala",
+      "portuguese_translation": "Ficar",
+      "definition": null,
+      "alternative_meanings": [
+        "achar-se",
+        "estar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxala-1 — https://www.kimbundu.org/pt/word/kuxala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13087,
+      "kimbundu_term": "Kuxala",
+      "portuguese_translation": "urixala, Ficar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "livrar-se",
+        "ver-se desoprimido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxala-1 — https://www.kimbundu.org/pt/word/kuxala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13088,
+      "kimbundu_term": "Kuxalela",
+      "portuguese_translation": "Demorar",
+      "definition": null,
+      "alternative_meanings": [
+        "deixar-se ficar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxalela-1 — https://www.kimbundu.org/pt/word/kuxalela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13089,
+      "kimbundu_term": "Kuxalela",
+      "portuguese_translation": "Ficar demoradamente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxalela-1 — https://www.kimbundu.org/pt/word/kuxalela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13090,
+      "kimbundu_term": "Kuxalesa",
+      "portuguese_translation": "Fazer estar, ficar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxalesa-1 — https://www.kimbundu.org/pt/word/kuxalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13091,
+      "kimbundu_term": "Kuxalesa",
+      "portuguese_translation": "Apresentar cumprimentos de despedida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxalesa-1 — https://www.kimbundu.org/pt/word/kuxalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13092,
+      "kimbundu_term": "Kuxalesa",
+      "portuguese_translation": "Kurixalesa, v. r. Fazer despedidas",
+      "definition": null,
+      "alternative_meanings": [
+        "renunciar a alguma coisa (que acaba)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxalesa-1 — https://www.kimbundu.org/pt/word/kuxalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13093,
+      "kimbundu_term": "Kuxamena",
+      "portuguese_translation": "Estribar",
+      "definition": null,
+      "alternative_meanings": [
+        "apoiar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxamena-1 — https://www.kimbundu.org/pt/word/kuxamena",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
