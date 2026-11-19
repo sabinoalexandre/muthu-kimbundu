@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13624,
+      "kimbundu_term": "Kuzenzekesa",
+      "portuguese_translation": "Fazer suspender, estar pendente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzenzekesa-1 — https://www.kimbundu.org/pt/word/kuzenzekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13625,
+      "kimbundu_term": "Kuzenzeta",
+      "portuguese_translation": "Trazer suspenso, pendente. Pendurar (na mão)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzenzeta-1 — https://www.kimbundu.org/pt/word/kuzenzeta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13626,
+      "kimbundu_term": "Kuzetama",
+      "portuguese_translation": "Ficar pasmado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzetama-1 — https://www.kimbundu.org/pt/word/kuzetama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13627,
+      "kimbundu_term": "Kuzeuluka",
+      "portuguese_translation": "Estar disjunto",
+      "definition": null,
+      "alternative_meanings": [
+        "separar-se. Diz-se das substâncias que, misturadas, se distinguem ou separam entre si"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzeuluka-1 — https://www.kimbundu.org/pt/word/kuzeuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13628,
+      "kimbundu_term": "Kuzeulula",
+      "portuguese_translation": "Fazer a disjunção de",
+      "definition": null,
+      "alternative_meanings": [
+        "separar. É também recíproco"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzeulula-1 — https://www.kimbundu.org/pt/word/kuzeulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13629,
+      "kimbundu_term": "Kuzéza",
+      "portuguese_translation": "Ter visco, baba",
+      "definition": null,
+      "alternative_meanings": [
+        "ficar baboso. Diz-se do milho em começo de floração"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzéza-1 — https://www.kimbundu.org/pt/word/kuzeza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13630,
+      "kimbundu_term": "Kuzéza",
+      "portuguese_translation": "Furtar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzéza-2 — https://www.kimbundu.org/pt/word/kuzeza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13631,
+      "kimbundu_term": "Kuzezela",
+      "portuguese_translation": "Babujar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzezela-1 — https://www.kimbundu.org/pt/word/kuzezela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13632,
+      "kimbundu_term": "Kuzezesa",
+      "portuguese_translation": "Fazer cair baba",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar baboso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzezesa-1 — https://www.kimbundu.org/pt/word/kuzezesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13633,
+      "kimbundu_term": "Kuzezuka",
+      "portuguese_translation": "Ficar tonto, atoleimado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzezuka-1 — https://www.kimbundu.org/pt/word/kuzezuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
