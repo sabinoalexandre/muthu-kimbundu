@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2234,
+      "kimbundu_term": "Ió",
+      "portuguese_translation": "e pron. demonstr. (IX) Essoutro",
+      "definition": null,
+      "alternative_meanings": [
+        "essoutra",
+        "Designa um dos objetos que estão próximos da pessoa com quem falamos, ou da cousa que se falou em penúltimo lugar",
+        "com quem se fala"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ió-1 — https://www.kimbundu.org/pt/word/io",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2235,
+      "kimbundu_term": "Ió",
+      "portuguese_translation": "Por essa via",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ió-1 — https://www.kimbundu.org/pt/word/io",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2236,
+      "kimbundu_term": "Ió",
+      "portuguese_translation": "(III) Designa as cousas que estão próximas da pessoa a quem se fala, ou daquelas que se falaram em penúltimo lugar",
+      "definition": null,
+      "alternative_meanings": [
+        "Esses",
+        "essas",
+        "Isso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ió-1 — https://www.kimbundu.org/pt/word/io",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2237,
+      "kimbundu_term": "Iondo",
+      "portuguese_translation": "(II) Palavra com que se forma o futuro dos verbos. Hão-de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iondo-1 — https://www.kimbundu.org/pt/word/iondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2238,
+      "kimbundu_term": "Iosololo",
+      "portuguese_translation": "(III) Geralmente",
+      "definition": null,
+      "alternative_meanings": [
+        "sem exceção",
+        "Sem restar um só"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iosololo-1 — https://www.kimbundu.org/pt/word/iosololo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2239,
+      "kimbundu_term": "Iosololo",
+      "portuguese_translation": "Tudo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iosololo-1 — https://www.kimbundu.org/pt/word/iosololo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2240,
+      "kimbundu_term": "Ipepefela",
+      "portuguese_translation": "(III) Cabelos das pálpebras",
+      "definition": null,
+      "alternative_meanings": [
+        "Cílios",
+        "Pelos das sobrancelhas",
+        "Pestanas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ipepefela-1 — https://www.kimbundu.org/pt/word/ipepefela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2241,
+      "kimbundu_term": "Iphaka",
+      "portuguese_translation": "(III) Nome das antigas moedas de dez réis",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, topografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iphaka-1 — https://www.kimbundu.org/pt/word/iphaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2242,
+      "kimbundu_term": "Iphaka",
+      "portuguese_translation": "Trincheiras",
+      "definition": null,
+      "alternative_meanings": [
+        "escavações",
+        "barreiras"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, topografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iphaka-1 — https://www.kimbundu.org/pt/word/iphaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2243,
+      "kimbundu_term": "Iphaka",
+      "portuguese_translation": "Em xadrez",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, topografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iphaka-1 — https://www.kimbundu.org/pt/word/iphaka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
