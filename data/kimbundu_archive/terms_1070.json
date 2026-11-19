@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10804,
+      "kimbundu_term": "Kundondomona",
+      "portuguese_translation": "Desopilar",
+      "definition": null,
+      "alternative_meanings": [
+        "Tirar o resto dos cereais pilados"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kundondomona-1 — https://www.kimbundu.org/pt/word/kundondomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10805,
+      "kimbundu_term": "Kundondomona",
+      "portuguese_translation": "Desobstruição",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kundondomona-1 — https://www.kimbundu.org/pt/word/kundondomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10806,
+      "kimbundu_term": "Kundu",
+      "portuguese_translation": "Narração",
+      "definition": null,
+      "alternative_meanings": [
+        "comunicação",
+        "entrevista"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kundu-1 — https://www.kimbundu.org/pt/word/kundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10807,
+      "kimbundu_term": "Kundu",
+      "portuguese_translation": "Planta medicinal fam. das ebenáceas (dyospirus hylophila), de raiz expectorante, emética e purgativa",
+      "definition": null,
+      "alternative_meanings": [
+        "sua madeira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kundu-1 — https://www.kimbundu.org/pt/word/kundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10808,
+      "kimbundu_term": "Kundúmba",
+      "portuguese_translation": "Noviciar",
+      "definition": null,
+      "alternative_meanings": [
+        "Praticar",
+        "iniciar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kundúmba-1 — https://www.kimbundu.org/pt/word/kundumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10809,
+      "kimbundu_term": "Kundumbuka",
+      "portuguese_translation": "Prostituir-se",
+      "definition": null,
+      "alternative_meanings": [
+        "Perder todo o recato"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kundumbuka-1 — https://www.kimbundu.org/pt/word/kundumbuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10810,
+      "kimbundu_term": "Kundumbula",
+      "portuguese_translation": "Aviltar",
+      "definition": null,
+      "alternative_meanings": [
+        "desmoralizar",
+        "prostituir",
+        "Tornar devasso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kundumbula-1 — https://www.kimbundu.org/pt/word/kundumbula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10811,
+      "kimbundu_term": "Kundumbula",
+      "portuguese_translation": "Kurindumbula, v. r. Fazer-se prostituta",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar-se meretriz"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kundumbula-1 — https://www.kimbundu.org/pt/word/kundumbula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10812,
+      "kimbundu_term": "Kundúnda",
+      "portuguese_translation": "Embater: dar ou ir de encontro a",
+      "definition": null,
+      "alternative_meanings": [
+        "Encontrar pé, ou tocar a sonda fundo",
+        "Topar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kundúnda-1 — https://www.kimbundu.org/pt/word/kundunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10813,
+      "kimbundu_term": "Kundúnda",
+      "portuguese_translation": "Embate",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kundúnda-1 — https://www.kimbundu.org/pt/word/kundunda",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
