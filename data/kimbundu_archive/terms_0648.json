@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6584,
+      "kimbundu_term": "Kixiiu",
+      "portuguese_translation": "Erro gramatical",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixiiu-1 — https://www.kimbundu.org/pt/word/kixiiu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6585,
+      "kimbundu_term": "Kixiiu",
+      "portuguese_translation": "Falta de saber falar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixiiu-1 — https://www.kimbundu.org/pt/word/kixiiu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6586,
+      "kimbundu_term": "Kixiiu",
+      "portuguese_translation": "Palavra errada ou mal soante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixiiu-1 — https://www.kimbundu.org/pt/word/kixiiu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6587,
+      "kimbundu_term": "Kixika",
+      "portuguese_translation": "Substância que se põe no anzol para atrair e pescar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixika-1 — https://www.kimbundu.org/pt/word/kixika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6588,
+      "kimbundu_term": "Kixika",
+      "portuguese_translation": "Isca",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixika-1 — https://www.kimbundu.org/pt/word/kixika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6589,
+      "kimbundu_term": "Kixikamenu",
+      "portuguese_translation": "Assento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixikamenu-1 — https://www.kimbundu.org/pt/word/kixikamenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6590,
+      "kimbundu_term": "Kixikamenu",
+      "portuguese_translation": "Parte do corpo (humano) que se adapta ao assento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixikamenu-1 — https://www.kimbundu.org/pt/word/kixikamenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6591,
+      "kimbundu_term": "Kixikane",
+      "portuguese_translation": "Que merece crédito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixikane-1 — https://www.kimbundu.org/pt/word/kixikane",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6592,
+      "kimbundu_term": "Kixikane",
+      "portuguese_translation": "Aceitável",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixikane-1 — https://www.kimbundu.org/pt/word/kixikane",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6593,
+      "kimbundu_term": "Kixikane",
+      "portuguese_translation": "Abusão",
+      "definition": null,
+      "alternative_meanings": [
+        "crendice"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixikane-1 — https://www.kimbundu.org/pt/word/kixikane",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
