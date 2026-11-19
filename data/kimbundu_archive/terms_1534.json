@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15444,
+      "kimbundu_term": "Mi'éngu",
+      "portuguese_translation": "Conjunto de plantas euforbiáceas de propriedades medicinais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mi'éngu-1 — https://www.kimbundu.org/pt/word/mi'engu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15445,
+      "kimbundu_term": "Miá",
+      "portuguese_translation": "para significar uma fuga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, miá-1 — https://www.kimbundu.org/pt/word/mia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15446,
+      "kimbundu_term": "Miá",
+      "portuguese_translation": "Escapada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, miá-1 — https://www.kimbundu.org/pt/word/mia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15447,
+      "kimbundu_term": "Mialala",
+      "portuguese_translation": "Família de vegetais que têm por tipo o ébano",
+      "definition": null,
+      "alternative_meanings": [
+        "Plantas ebenáceas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mialala-1 — https://www.kimbundu.org/pt/word/mialala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15448,
+      "kimbundu_term": "Miâmia",
+      "portuguese_translation": "Remiges",
+      "definition": null,
+      "alternative_meanings": [
+        "Guias (das aves)",
+        "As penas da cauda dos pássaros, Aguadeiras"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, miâmia-1 — https://www.kimbundu.org/pt/word/miamia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15449,
+      "kimbundu_term": "Miându",
+      "portuguese_translation": "Nome comum a todos os peixes esquálidas",
+      "definition": null,
+      "alternative_meanings": [
+        "Tubarões"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, miându-1 — https://www.kimbundu.org/pt/word/miandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15450,
+      "kimbundu_term": "Miându",
+      "portuguese_translation": "Família de cetáceos carnívoros delfinidas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, miându-1 — https://www.kimbundu.org/pt/word/miandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15451,
+      "kimbundu_term": "Miânga",
+      "portuguese_translation": "Candelas",
+      "definition": null,
+      "alternative_meanings": [
+        "luzes"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, miânga-1 — https://www.kimbundu.org/pt/word/mianga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15452,
+      "kimbundu_term": "Míbazu",
+      "portuguese_translation": "Ralhos",
+      "definition": null,
+      "alternative_meanings": [
+        "Repreensão em tom de cólera. Repentina",
+        "censura áspera",
+        "Rabecada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, míbazu-1 — https://www.kimbundu.org/pt/word/mibazu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15453,
+      "kimbundu_term": "Míbe",
+      "portuguese_translation": "Plantas cupulíferas família das amentáceas",
+      "definition": null,
+      "alternative_meanings": [
+        "Carvalhal"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, míbe-1 — https://www.kimbundu.org/pt/word/mibe",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
