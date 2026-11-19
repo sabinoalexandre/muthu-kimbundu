@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11554,
+      "kimbundu_term": "Kusekukisa",
+      "portuguese_translation": "É também reflexivo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusekukisa-1 — https://www.kimbundu.org/pt/word/kusekukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11555,
+      "kimbundu_term": "Kusekula",
+      "portuguese_translation": "Aferventar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusekula-1 — https://www.kimbundu.org/pt/word/kusekula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11556,
+      "kimbundu_term": "Kusekula",
+      "portuguese_translation": "Decruar",
+      "definition": null,
+      "alternative_meanings": [
+        "dar fervura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusekula-1 — https://www.kimbundu.org/pt/word/kusekula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11557,
+      "kimbundu_term": "Kusekumuka",
+      "portuguese_translation": "Estar a esvaziar-se ou em estado de vazio",
+      "definition": null,
+      "alternative_meanings": [
+        "Verter"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusekumuka-1 — https://www.kimbundu.org/pt/word/kusekumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11558,
+      "kimbundu_term": "Kusekumuka",
+      "portuguese_translation": "Vazadura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusekumuka-1 — https://www.kimbundu.org/pt/word/kusekumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11559,
+      "kimbundu_term": "Kusekumuna",
+      "portuguese_translation": "Esvaziar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer verter"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusekumuna-1 — https://www.kimbundu.org/pt/word/kusekumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11560,
+      "kimbundu_term": "Kusekumuna",
+      "portuguese_translation": "Fazer dançar as nádegas (no andar)",
+      "definition": null,
+      "alternative_meanings": [
+        "Menear"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusekumuna-1 — https://www.kimbundu.org/pt/word/kusekumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11561,
+      "kimbundu_term": "Kusekumuna",
+      "portuguese_translation": "Kurisekumuna, e r. Bambolear-se",
+      "definition": null,
+      "alternative_meanings": [
+        "saracotear-se (andando)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusekumuna-1 — https://www.kimbundu.org/pt/word/kusekumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11562,
+      "kimbundu_term": "Kuséla",
+      "portuguese_translation": "Recalcar",
+      "definition": null,
+      "alternative_meanings": [
+        "repizar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuséla-1 — https://www.kimbundu.org/pt/word/kusela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11563,
+      "kimbundu_term": "Kuséla",
+      "portuguese_translation": "Enchamelar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuséla-1 — https://www.kimbundu.org/pt/word/kusela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
