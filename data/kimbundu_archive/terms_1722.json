@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17324,
+      "kimbundu_term": "Mútume",
+      "portuguese_translation": "Outorgante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mútume-1 — https://www.kimbundu.org/pt/word/mutume",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17325,
+      "kimbundu_term": "Mutumine",
+      "portuguese_translation": "Comandante",
+      "definition": null,
+      "alternative_meanings": [
+        "chefe"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutumine-1 — https://www.kimbundu.org/pt/word/mutumine",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17326,
+      "kimbundu_term": "Mutumine",
+      "portuguese_translation": "Regente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutumine-1 — https://www.kimbundu.org/pt/word/mutumine",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17327,
+      "kimbundu_term": "Mútunda",
+      "portuguese_translation": "Pagão",
+      "definition": null,
+      "alternative_meanings": [
+        "gentio",
+        "não civilizado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mútunda-1 — https://www.kimbundu.org/pt/word/mutunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17328,
+      "kimbundu_term": "Mútunda",
+      "portuguese_translation": "Natural do sertão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mútunda-1 — https://www.kimbundu.org/pt/word/mutunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17329,
+      "kimbundu_term": "Mútunda",
+      "portuguese_translation": "Tb. se diz mukua tunda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mútunda-1 — https://www.kimbundu.org/pt/word/mutunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17330,
+      "kimbundu_term": "Mutúndu",
+      "portuguese_translation": "Planta solanácea",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutúndu-1 — https://www.kimbundu.org/pt/word/mutundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17331,
+      "kimbundu_term": "Mutundungu",
+      "portuguese_translation": "Leguminosa de madeira apreciável",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutundungu-1 — https://www.kimbundu.org/pt/word/mutundungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17332,
+      "kimbundu_term": "Mutúne",
+      "portuguese_translation": "Planta fam. das hipericíneas (Haronga madagascariensis) de propriedades medicinais em casos de febres palustres",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutúne-1 — https://www.kimbundu.org/pt/word/mutune",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17333,
+      "kimbundu_term": "Mutúnga",
+      "portuguese_translation": "Nome por que no sul de Angola se conhece o muboke",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutúnga-1 — https://www.kimbundu.org/pt/word/mutunga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
