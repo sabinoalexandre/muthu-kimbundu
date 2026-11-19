@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7344,
+      "kimbundu_term": "Kubetela",
+      "portuguese_translation": "Sovar, punir em determinado lugar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubetela-1 — https://www.kimbundu.org/pt/word/kubetela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7345,
+      "kimbundu_term": "Kubetesa",
+      "portuguese_translation": "Empapar",
+      "definition": null,
+      "alternative_meanings": [
+        "amolecer",
+        "fazer diminuir a consistência de um corpo ou substância"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubetesa-1 — https://www.kimbundu.org/pt/word/kubetesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7346,
+      "kimbundu_term": "Kubetesa",
+      "portuguese_translation": "Mandar bater, zurzir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubetesa-1 — https://www.kimbundu.org/pt/word/kubetesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7347,
+      "kimbundu_term": "Kubetuila",
+      "portuguese_translation": "Recostar, deitar, apoiar (a cabeça) sobre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubetuila-1 — https://www.kimbundu.org/pt/word/kubetuila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7348,
+      "kimbundu_term": "Kubetuila",
+      "portuguese_translation": "Reclinar",
+      "definition": null,
+      "alternative_meanings": [
+        "repousar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubetuila-1 — https://www.kimbundu.org/pt/word/kubetuila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7349,
+      "kimbundu_term": "Kubetumuka",
+      "portuguese_translation": "Ruir pela base, tombar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubetumuka-1 — https://www.kimbundu.org/pt/word/kubetumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7350,
+      "kimbundu_term": "Kubetumuka",
+      "portuguese_translation": "Descair",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubetumuka-1 — https://www.kimbundu.org/pt/word/kubetumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7351,
+      "kimbundu_term": "Kubetumuka",
+      "portuguese_translation": "Estar decadente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubetumuka-1 — https://www.kimbundu.org/pt/word/kubetumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7352,
+      "kimbundu_term": "Kubetumuka",
+      "portuguese_translation": "sub. Descaimento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubetumuka-1 — https://www.kimbundu.org/pt/word/kubetumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7353,
+      "kimbundu_term": "Kubetumuna",
+      "portuguese_translation": "Derribar, derruir (muro, parede, etc.)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubetumuna-1 — https://www.kimbundu.org/pt/word/kubetumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
