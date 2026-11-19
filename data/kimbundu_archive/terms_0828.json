@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8384,
+      "kimbundu_term": "Kufefeta",
+      "portuguese_translation": "Cício",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufefeta-1 — https://www.kimbundu.org/pt/word/kufefeta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8385,
+      "kimbundu_term": "Kufefetela",
+      "portuguese_translation": "Bruxolear",
+      "definition": null,
+      "alternative_meanings": [
+        "brilhar com pouca intensidade"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufefetela-1 — https://www.kimbundu.org/pt/word/kufefetela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8386,
+      "kimbundu_term": "Kufefetela",
+      "portuguese_translation": "Ter os olhos cerrados",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufefetela-1 — https://www.kimbundu.org/pt/word/kufefetela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8387,
+      "kimbundu_term": "Kufefetesa",
+      "portuguese_translation": "Fazer tremeluzir",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer baixar a luz (do candieiro)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufefetesa-1 — https://www.kimbundu.org/pt/word/kufefetesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8388,
+      "kimbundu_term": "Kufefetesa",
+      "portuguese_translation": "Diminuir o brilho ou a intensidade de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufefetesa-1 — https://www.kimbundu.org/pt/word/kufefetesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8389,
+      "kimbundu_term": "Kufefetesa",
+      "portuguese_translation": "Fazer cerrar os olhos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufefetesa-1 — https://www.kimbundu.org/pt/word/kufefetesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8390,
+      "kimbundu_term": "Kufelesela",
+      "portuguese_translation": "Oferecer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufelesela-1 — https://www.kimbundu.org/pt/word/kufelesela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8391,
+      "kimbundu_term": "Kufengenya",
+      "portuguese_translation": "Soluçar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufengenya-1 — https://www.kimbundu.org/pt/word/kufengenya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8392,
+      "kimbundu_term": "Kufengenya",
+      "portuguese_translation": "Dizer ou exprimir entre soluços",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufengenya-1 — https://www.kimbundu.org/pt/word/kufengenya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8393,
+      "kimbundu_term": "Kufenya",
+      "portuguese_translation": "Fungar",
+      "definition": null,
+      "alternative_meanings": [
+        "cheirar Absorver pelo nariz"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufenya-1 — https://www.kimbundu.org/pt/word/kufenya",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
