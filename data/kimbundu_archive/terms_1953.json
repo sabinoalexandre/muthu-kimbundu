@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19634,
+      "kimbundu_term": "Ûkusu",
+      "portuguese_translation": "Ruividão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ûkusu-1 — https://www.kimbundu.org/pt/word/ukusu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19635,
+      "kimbundu_term": "Ulabánga",
+      "portuguese_translation": "Maneiras de grosseiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ulabánga-1 — https://www.kimbundu.org/pt/word/ulabanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19636,
+      "kimbundu_term": "Ulabánga",
+      "portuguese_translation": "Atos de má educação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ulabánga-1 — https://www.kimbundu.org/pt/word/ulabanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19637,
+      "kimbundu_term": "Ulabánga",
+      "portuguese_translation": "Rusticidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ulabánga-1 — https://www.kimbundu.org/pt/word/ulabanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19638,
+      "kimbundu_term": "Ulabelu",
+      "portuguese_translation": "Modo de galgar, de trepar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ulabelu-1 — https://www.kimbundu.org/pt/word/ulabelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19639,
+      "kimbundu_term": "Uláji",
+      "portuguese_translation": "Vesania",
+      "definition": null,
+      "alternative_meanings": [
+        "maluquice"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uláji-1 — https://www.kimbundu.org/pt/word/ulaji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19640,
+      "kimbundu_term": "Uláji",
+      "portuguese_translation": "Extravagância",
+      "definition": null,
+      "alternative_meanings": [
+        "estroinice"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uláji-1 — https://www.kimbundu.org/pt/word/ulaji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19641,
+      "kimbundu_term": "Ulalu",
+      "portuguese_translation": "Bragantaria",
+      "definition": null,
+      "alternative_meanings": [
+        "mandrice"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ulalu-1 — https://www.kimbundu.org/pt/word/ulalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19642,
+      "kimbundu_term": "Ulalu",
+      "portuguese_translation": "Perdição",
+      "definition": null,
+      "alternative_meanings": [
+        "prodigalidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ulalu-1 — https://www.kimbundu.org/pt/word/ulalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19643,
+      "kimbundu_term": "Uláluvi",
+      "portuguese_translation": "Glutonaria",
+      "definition": null,
+      "alternative_meanings": [
+        "gulodice"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uláluvi-1 — https://www.kimbundu.org/pt/word/ulaluvi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
