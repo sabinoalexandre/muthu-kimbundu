@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9754,
+      "kimbundu_term": "Kukumbikinya",
+      "portuguese_translation": "Hesitar (por não saber que dizer)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumbikinya-1 — https://www.kimbundu.org/pt/word/kukumbikinya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9755,
+      "kimbundu_term": "Kukumbula",
+      "portuguese_translation": "Chuchurrear",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumbula-1 — https://www.kimbundu.org/pt/word/kukumbula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9756,
+      "kimbundu_term": "Kukumbula",
+      "portuguese_translation": "Beber aos poucos sorvendo o líquido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumbula-1 — https://www.kimbundu.org/pt/word/kukumbula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9757,
+      "kimbundu_term": "Kukumbulula",
+      "portuguese_translation": "Replicar",
+      "definition": null,
+      "alternative_meanings": [
+        "objetar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumbulula-1 — https://www.kimbundu.org/pt/word/kukumbulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9758,
+      "kimbundu_term": "Kukumbulula",
+      "portuguese_translation": "Retrucar",
+      "definition": null,
+      "alternative_meanings": [
+        "contestar",
+        "discutir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumbulula-1 — https://www.kimbundu.org/pt/word/kukumbulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9759,
+      "kimbundu_term": "Kukumbulula",
+      "portuguese_translation": "Contrariar",
+      "definition": null,
+      "alternative_meanings": [
+        "pôr em dúvida"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumbulula-1 — https://www.kimbundu.org/pt/word/kukumbulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9760,
+      "kimbundu_term": "Kukumbulula",
+      "portuguese_translation": "Dar resposta a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumbulula-1 — https://www.kimbundu.org/pt/word/kukumbulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9761,
+      "kimbundu_term": "Kukumbulula",
+      "portuguese_translation": "Ato e efeito de responder",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumbulula-1 — https://www.kimbundu.org/pt/word/kukumbulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9762,
+      "kimbundu_term": "Kukumbulula",
+      "portuguese_translation": "Kurikumbulula, v. r. Corresponder-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumbulula-1 — https://www.kimbundu.org/pt/word/kukumbulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9763,
+      "kimbundu_term": "Kukumbulula",
+      "portuguese_translation": "Permutar correspondência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumbulula-1 — https://www.kimbundu.org/pt/word/kukumbulula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
