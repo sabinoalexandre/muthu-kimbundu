@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7574,
+      "kimbundu_term": "Kubingajana",
+      "portuguese_translation": "Kuribingajana, v. r. Revezar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer-se substituir muitas vezes"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubingajana-1 — https://www.kimbundu.org/pt/word/kubingajana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7575,
+      "kimbundu_term": "Kubinguluka",
+      "portuguese_translation": "Mudar de posição",
+      "definition": null,
+      "alternative_meanings": [
+        "Estar em sentido contrário"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubinguluka-1 — https://www.kimbundu.org/pt/word/kubinguluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7576,
+      "kimbundu_term": "Kubinguluka",
+      "portuguese_translation": "Depois: mais tarde",
+      "definition": null,
+      "alternative_meanings": [
+        "Seguidamente",
+        "logo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubinguluka-1 — https://www.kimbundu.org/pt/word/kubinguluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7577,
+      "kimbundu_term": "Kubingulukisa",
+      "portuguese_translation": "Fazer mudar de tenção, de posição, de partido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubingulukisa-1 — https://www.kimbundu.org/pt/word/kubingulukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7578,
+      "kimbundu_term": "Kubingulula",
+      "portuguese_translation": "Voltar",
+      "definition": null,
+      "alternative_meanings": [
+        "volver",
+        "Mudar de direção, de sentido",
+        "Pôr de avesso",
+        "É tb. 7"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubingulula-1 — https://www.kimbundu.org/pt/word/kubingulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7579,
+      "kimbundu_term": "Kubinjikisa",
+      "portuguese_translation": "Embaraçar: limitar",
+      "definition": null,
+      "alternative_meanings": [
+        "impedir (os movimentos)",
+        "Constringir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubinjikisa-1 — https://www.kimbundu.org/pt/word/kubinjikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7580,
+      "kimbundu_term": "Kubinuka",
+      "portuguese_translation": "Baquear, cair de costas",
+      "definition": null,
+      "alternative_meanings": [
+        "Tombar (de cabeça para baixo.)",
+        "Cair de chofre"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubinuka-1 — https://www.kimbundu.org/pt/word/kubinuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7581,
+      "kimbundu_term": "Kubinukisa",
+      "portuguese_translation": "Fazer tombar, baquear, cair de costas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubinukisa-1 — https://www.kimbundu.org/pt/word/kubinukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7582,
+      "kimbundu_term": "Kubiokolola",
+      "portuguese_translation": "Retorcer (os",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubiokolola-1 — https://www.kimbundu.org/pt/word/kubiokolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7583,
+      "kimbundu_term": "Kubiokolola",
+      "portuguese_translation": "olhos)",
+      "definition": null,
+      "alternative_meanings": [
+        "Olhar de modo que quasi só a córnea se deixa ver — mêsu"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubiokolola-1 — https://www.kimbundu.org/pt/word/kubiokolola",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
