@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13224,
+      "kimbundu_term": "Kuxikinisa",
+      "portuguese_translation": "Fazer sossegar, ter juízo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikinisa-1 — https://www.kimbundu.org/pt/word/kuxikinisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13225,
+      "kimbundu_term": "Kúxikisa",
+      "portuguese_translation": "Fazer soar, tocar ou tanger instrumentos músicos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxikisa-1 — https://www.kimbundu.org/pt/word/kuxikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13226,
+      "kimbundu_term": "Kúxikisa",
+      "portuguese_translation": "Fazer dobrar ou repicar (sinos)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxikisa-1 — https://www.kimbundu.org/pt/word/kuxikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13227,
+      "kimbundu_term": "Kúxikujuka",
+      "portuguese_translation": "Soluçar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxikujuka-1 — https://www.kimbundu.org/pt/word/kuxikujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13228,
+      "kimbundu_term": "Kúxikujuka",
+      "portuguese_translation": "Chorar soluçando",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxikujuka-1 — https://www.kimbundu.org/pt/word/kuxikujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13229,
+      "kimbundu_term": "Kúxikujuka",
+      "portuguese_translation": "Dizer ou exprimir entre soluços",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxikujuka-1 — https://www.kimbundu.org/pt/word/kuxikujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13230,
+      "kimbundu_term": "Kuxikuka",
+      "portuguese_translation": "Ter síncope mortal. Finar-se sem dar tempo para nada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikuka-1 — https://www.kimbundu.org/pt/word/kuxikuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13231,
+      "kimbundu_term": "Kuxikuka",
+      "portuguese_translation": "Parar",
+      "definition": null,
+      "alternative_meanings": [
+        "pausar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikuka-1 — https://www.kimbundu.org/pt/word/kuxikuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13232,
+      "kimbundu_term": "Kuxikuka",
+      "portuguese_translation": "Paragem",
+      "definition": null,
+      "alternative_meanings": [
+        "pausa"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikuka-1 — https://www.kimbundu.org/pt/word/kuxikuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13233,
+      "kimbundu_term": "Kuxikula",
+      "portuguese_translation": "Mandar pausar, parar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikula-1 — https://www.kimbundu.org/pt/word/kuxikula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
