@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15674,
+      "kimbundu_term": "Misambu",
+      "portuguese_translation": "Falas",
+      "definition": null,
+      "alternative_meanings": [
+        "palavras"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, misambu-1 — https://www.kimbundu.org/pt/word/misambu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15675,
+      "kimbundu_term": "Misambu",
+      "portuguese_translation": "Conversação",
+      "definition": null,
+      "alternative_meanings": [
+        "diálogo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, misambu-1 — https://www.kimbundu.org/pt/word/misambu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15676,
+      "kimbundu_term": "Misanga",
+      "portuguese_translation": "Fios de contas miudinhas",
+      "definition": null,
+      "alternative_meanings": [
+        "Rosário"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, misanga-1 — https://www.kimbundu.org/pt/word/misanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15677,
+      "kimbundu_term": "Misanu",
+      "portuguese_translation": "Filamentos de matéria têxtil",
+      "definition": null,
+      "alternative_meanings": [
+        "Fiapos",
+        "linhas",
+        "Estranhesas",
+        "raridades"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, misanu-1 — https://www.kimbundu.org/pt/word/misanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15678,
+      "kimbundu_term": "Misányi",
+      "portuguese_translation": "Sanifas",
+      "definition": null,
+      "alternative_meanings": [
+        "barambás"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, misányi-1 — https://www.kimbundu.org/pt/word/misanyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15679,
+      "kimbundu_term": "Misányi",
+      "portuguese_translation": "Género de plantas piperáceas, de propriedades medicinais. O seu fruto empregue na cura de dores de dentes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, misányi-1 — https://www.kimbundu.org/pt/word/misanyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15680,
+      "kimbundu_term": "Misányi",
+      "portuguese_translation": "Também se chama Kabela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, misányi-1 — https://www.kimbundu.org/pt/word/misanyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15681,
+      "kimbundu_term": "Misányi",
+      "portuguese_translation": "Desfiaduras",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, misányi-1 — https://www.kimbundu.org/pt/word/misanyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15682,
+      "kimbundu_term": "Miseju",
+      "portuguese_translation": "Verduras",
+      "definition": null,
+      "alternative_meanings": [
+        "verdes"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, miseju-1 — https://www.kimbundu.org/pt/word/miseju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15683,
+      "kimbundu_term": "Miseju",
+      "portuguese_translation": "A cor verde dos vegetais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, miseju-1 — https://www.kimbundu.org/pt/word/miseju",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
