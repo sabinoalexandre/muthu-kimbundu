@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3164,
+      "kimbundu_term": "Kafaku",
+      "portuguese_translation": "Lugar arenoso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kafaku-1 — https://www.kimbundu.org/pt/word/kafaku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3165,
+      "kimbundu_term": "Kafaku",
+      "portuguese_translation": "Antigo bairro da cidade de Luanda (na Engombota)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kafaku-1 — https://www.kimbundu.org/pt/word/kafaku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3166,
+      "kimbundu_term": "Kafejetela",
+      "portuguese_translation": "Em surdina",
+      "definition": null,
+      "alternative_meanings": [
+        "em voz baixa",
+        "em segredo",
+        "Para que ninguém ouça"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kafejetela-1 — https://www.kimbundu.org/pt/word/kafejetela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3167,
+      "kimbundu_term": "Kafejetela",
+      "portuguese_translation": "Sem brilho",
+      "definition": null,
+      "alternative_meanings": [
+        "Mortiço"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kafejetela-1 — https://www.kimbundu.org/pt/word/kafejetela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3168,
+      "kimbundu_term": "Kafejetela",
+      "portuguese_translation": "O que serve para abafar ou enfraquecer um som",
+      "definition": null,
+      "alternative_meanings": [
+        "Surdina",
+        "Sem barulho"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kafejetela-1 — https://www.kimbundu.org/pt/word/kafejetela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3169,
+      "kimbundu_term": "Kafekezu",
+      "portuguese_translation": "Planta fanerogâmica, fam. das sapotáceas (Mimosops frondosa)",
+      "definition": null,
+      "alternative_meanings": [
+        "Sapota",
+        "Seu fruto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kafekezu-1 — https://www.kimbundu.org/pt/word/kafekezu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3170,
+      "kimbundu_term": "Kafifi",
+      "portuguese_translation": "Que pisca os olhos (por hábito)",
+      "definition": null,
+      "alternative_meanings": [
+        "Pisco"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kafifi-1 — https://www.kimbundu.org/pt/word/kafifi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3171,
+      "kimbundu_term": "Kafifi",
+      "portuguese_translation": "Pequena mosca preta fabricante de mel nos troncos das árvores",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kafifi-1 — https://www.kimbundu.org/pt/word/kafifi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3172,
+      "kimbundu_term": "Kafima",
+      "portuguese_translation": "Pov. e sede do posto da circ. civ. do Baixo-Cunene, distr. e prov. da Huíla, com 8.270 hab. e est. teleg-postal de 3.ª c",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kafima-1 — https://www.kimbundu.org/pt/word/kafima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3173,
+      "kimbundu_term": "Kafófo",
+      "portuguese_translation": "Ceguinho",
+      "definition": null,
+      "alternative_meanings": [
+        "Míope",
+        "Que padece da vista"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kafófo-1 — https://www.kimbundu.org/pt/word/kafofo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
