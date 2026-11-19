@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1854,
+      "kimbundu_term": "Hoka",
+      "portuguese_translation": "Cerca: roda",
+      "definition": null,
+      "alternative_meanings": [
+        "círculo",
+        "Redondeza",
+        "Espaço redondo",
+        "Grupo de pessoas dispostas em círculo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hoka-1 — https://www.kimbundu.org/pt/word/hoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1855,
+      "kimbundu_term": "Hoka",
+      "portuguese_translation": "Armação de redes dispostas em círculo que vai apertando",
+      "definition": null,
+      "alternative_meanings": [
+        "Rede de arrasto para pescar",
+        "O espaço que essa rede ocupa",
+        "Redondel",
+        "Circunferência"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hoka-1 — https://www.kimbundu.org/pt/word/hoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1856,
+      "kimbundu_term": "Hoka",
+      "portuguese_translation": "Circundar",
+      "definition": null,
+      "alternative_meanings": [
+        "cercar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hoka-1 — https://www.kimbundu.org/pt/word/hoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1857,
+      "kimbundu_term": "Hoke",
+      "portuguese_translation": "Pov. e posto deste nome, conc. do Lubango, distr. e prov. da Huíla, com 4.583 hab., est. teleg-postal sob a autoridade d",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hoke-1 — https://www.kimbundu.org/pt/word/hoke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1858,
+      "kimbundu_term": "Hole",
+      "portuguese_translation": "Invólucro calcário do corpo de certos moluscos",
+      "definition": null,
+      "alternative_meanings": [
+        "Concha da pia da água benta ou do batismo",
+        "A concha do caracol",
+        "Parte côncava (a descoberto) de um corpo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hole-1 — https://www.kimbundu.org/pt/word/hole",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1859,
+      "kimbundu_term": "Hole",
+      "portuguese_translation": "Concavidade",
+      "definition": null,
+      "alternative_meanings": [
+        "Interior de um tanque, chafariz ou pequeno lago",
+        "Fonte"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hole-1 — https://www.kimbundu.org/pt/word/hole",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1860,
+      "kimbundu_term": "Hole",
+      "portuguese_translation": "Molusco gasterópodo",
+      "definition": null,
+      "alternative_meanings": [
+        "Caracol"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hole-1 — https://www.kimbundu.org/pt/word/hole",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1861,
+      "kimbundu_term": "Hole",
+      "portuguese_translation": "Medida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hole-1 — https://www.kimbundu.org/pt/word/hole",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1862,
+      "kimbundu_term": "Hole",
+      "portuguese_translation": "Parte inferior",
+      "definition": null,
+      "alternative_meanings": [
+        "Fundo. fig. Caminho tortuoso ou em zig-zag"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hole-1 — https://www.kimbundu.org/pt/word/hole",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1863,
+      "kimbundu_term": "Holokoko",
+      "portuguese_translation": "Uma das maiores e mais possantes aves de rapina",
+      "definition": null,
+      "alternative_meanings": [
+        "Águia. fig. Arrebatador"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, holokoko-1 — https://www.kimbundu.org/pt/word/holokoko",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
