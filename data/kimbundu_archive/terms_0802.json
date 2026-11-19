@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8124,
+      "kimbundu_term": "Kudibukana",
+      "portuguese_translation": "Enganar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudibukana-1 — https://www.kimbundu.org/pt/word/kudibukana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8125,
+      "kimbundu_term": "Kudibukana",
+      "portuguese_translation": "Melindrar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "ressentir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudibukana-1 — https://www.kimbundu.org/pt/word/kudibukana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8126,
+      "kimbundu_term": "Kudidika",
+      "portuguese_translation": "Preparar",
+      "definition": null,
+      "alternative_meanings": [
+        "compor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudidika-1 — https://www.kimbundu.org/pt/word/kudidika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8127,
+      "kimbundu_term": "Kudidika",
+      "portuguese_translation": "Aprontar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudidika-1 — https://www.kimbundu.org/pt/word/kudidika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8128,
+      "kimbundu_term": "Kudidika",
+      "portuguese_translation": "Arranjar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer",
+        "construir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudidika-1 — https://www.kimbundu.org/pt/word/kudidika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8129,
+      "kimbundu_term": "Kudidika",
+      "portuguese_translation": "Acomodar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudidika-1 — https://www.kimbundu.org/pt/word/kudidika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8130,
+      "kimbundu_term": "Kudidika",
+      "portuguese_translation": "Pôr em estado de funcionar, de servir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudidika-1 — https://www.kimbundu.org/pt/word/kudidika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8131,
+      "kimbundu_term": "Kudidika",
+      "portuguese_translation": "Arrumação",
+      "definition": null,
+      "alternative_meanings": [
+        "arranjamento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudidika-1 — https://www.kimbundu.org/pt/word/kudidika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8132,
+      "kimbundu_term": "Kudidikisa",
+      "portuguese_translation": "Mandar preparar, arranjar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudidikisa-1 — https://www.kimbundu.org/pt/word/kudidikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8133,
+      "kimbundu_term": "Kudidikisa",
+      "portuguese_translation": "Fazer compor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudidikisa-1 — https://www.kimbundu.org/pt/word/kudidikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
