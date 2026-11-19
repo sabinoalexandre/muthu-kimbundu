@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5664,
+      "kimbundu_term": "Kimone",
+      "portuguese_translation": "Coisa digna de ver-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimone-1 — https://www.kimbundu.org/pt/word/kimone",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5665,
+      "kimbundu_term": "Kimono-mono",
+      "portuguese_translation": "Planta da família das meliáceas (Melia dubia), de boa madeira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimono-mono-1 — https://www.kimbundu.org/pt/word/kimono-mono",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5666,
+      "kimbundu_term": "Kimónya",
+      "portuguese_translation": "Indolente",
+      "definition": null,
+      "alternative_meanings": [
+        "preguiçoso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimónya-1 — https://www.kimbundu.org/pt/word/kimonya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5667,
+      "kimbundu_term": "Kimónya",
+      "portuguese_translation": "Tardigrado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimónya-1 — https://www.kimbundu.org/pt/word/kimonya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5668,
+      "kimbundu_term": "Kimónya",
+      "portuguese_translation": "Quadrúpede desdentado de pés curtos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimónya-1 — https://www.kimbundu.org/pt/word/kimonya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5669,
+      "kimbundu_term": "Kimónya",
+      "portuguese_translation": "Preguiça",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimónya-1 — https://www.kimbundu.org/pt/word/kimonya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5670,
+      "kimbundu_term": "Kimoxi",
+      "portuguese_translation": "Um. Que representa uma só coisa. Singular",
+      "definition": null,
+      "alternative_meanings": [
+        "individual. Certo",
+        "qualquer. Indiferente",
+        "igual: kiene--",
+        "Semelhante",
+        "mesma coisa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimoxi-1 — https://www.kimbundu.org/pt/word/kimoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5671,
+      "kimbundu_term": "Kimoxi",
+      "portuguese_translation": "Um de cada vez",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimoxi-1 — https://www.kimbundu.org/pt/word/kimoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5672,
+      "kimbundu_term": "Kimoxi",
+      "portuguese_translation": "A primeira coisa entre muitas",
+      "definition": null,
+      "alternative_meanings": [
+        "Unidade"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimoxi-1 — https://www.kimbundu.org/pt/word/kimoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5673,
+      "kimbundu_term": "Kimuana muana",
+      "portuguese_translation": "Planta herbácea de propriedades medicinais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimuana muana-1 — https://www.kimbundu.org/pt/word/kimuana%20muana",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
