@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12114,
+      "kimbundu_term": "Kútanga",
+      "portuguese_translation": "Contar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútanga-1 — https://www.kimbundu.org/pt/word/kutanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12115,
+      "kimbundu_term": "Kútanga",
+      "portuguese_translation": "Narrar",
+      "definition": null,
+      "alternative_meanings": [
+        "revelar",
+        "referir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútanga-1 — https://www.kimbundu.org/pt/word/kutanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12116,
+      "kimbundu_term": "Kútanga",
+      "portuguese_translation": "Evidenciar por palavras",
+      "definition": null,
+      "alternative_meanings": [
+        "anunciar",
+        "decifrar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútanga-1 — https://www.kimbundu.org/pt/word/kutanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12117,
+      "kimbundu_term": "Kútanga",
+      "portuguese_translation": "Leitura",
+      "definition": null,
+      "alternative_meanings": [
+        "numeração"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútanga-1 — https://www.kimbundu.org/pt/word/kutanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12118,
+      "kimbundu_term": "Kútanga",
+      "portuguese_translation": "Ato de contar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútanga-1 — https://www.kimbundu.org/pt/word/kutanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12119,
+      "kimbundu_term": "Kútanga",
+      "portuguese_translation": "Kuritanga, v. r. Denunciar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "incluir-se. Contar o que cada um souber do outro. Permutar injúrias"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútanga-1 — https://www.kimbundu.org/pt/word/kutanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12120,
+      "kimbundu_term": "Kutangalala",
+      "portuguese_translation": "Estar indeciso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutangalala-1 — https://www.kimbundu.org/pt/word/kutangalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12121,
+      "kimbundu_term": "Kutangama",
+      "portuguese_translation": "Entroncar",
+      "definition": null,
+      "alternative_meanings": [
+        "sair de través"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutangama-1 — https://www.kimbundu.org/pt/word/kutangama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12122,
+      "kimbundu_term": "Kutangama",
+      "portuguese_translation": "Estar cruzado, atravessado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutangama-1 — https://www.kimbundu.org/pt/word/kutangama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12123,
+      "kimbundu_term": "Kutangama",
+      "portuguese_translation": "Entroncamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutangama-1 — https://www.kimbundu.org/pt/word/kutangama",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
