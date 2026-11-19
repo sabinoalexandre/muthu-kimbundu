@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7014,
+      "kimbundu_term": "Kubalésa",
+      "portuguese_translation": "Mandar cavar, fazer covas (com as mãos)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubalésa-1 — https://www.kimbundu.org/pt/word/kubalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7015,
+      "kimbundu_term": "Kubaluka",
+      "portuguese_translation": "Estar revoltado, embravecido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubaluka-1 — https://www.kimbundu.org/pt/word/kubaluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7016,
+      "kimbundu_term": "Kubaluka",
+      "portuguese_translation": "Tornar-se fugidiço, bravio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubaluka-1 — https://www.kimbundu.org/pt/word/kubaluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7017,
+      "kimbundu_term": "Kubaluka",
+      "portuguese_translation": "Amontar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubaluka-1 — https://www.kimbundu.org/pt/word/kubaluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7018,
+      "kimbundu_term": "Kubaluka",
+      "portuguese_translation": "sub. Braveza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubaluka-1 — https://www.kimbundu.org/pt/word/kubaluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7019,
+      "kimbundu_term": "Kubalúla",
+      "portuguese_translation": "Chamar atenção",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubalúla-1 — https://www.kimbundu.org/pt/word/kubalula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7020,
+      "kimbundu_term": "Kubalúla",
+      "portuguese_translation": "Catucar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubalúla-1 — https://www.kimbundu.org/pt/word/kubalula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7021,
+      "kimbundu_term": "Kubalúla",
+      "portuguese_translation": "Acenar, beliscar levemente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubalúla-1 — https://www.kimbundu.org/pt/word/kubalula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7022,
+      "kimbundu_term": "Kubalúla",
+      "portuguese_translation": "Revoltar",
+      "definition": null,
+      "alternative_meanings": [
+        "indignar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubalúla-1 — https://www.kimbundu.org/pt/word/kubalula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7023,
+      "kimbundu_term": "Kubalúla",
+      "portuguese_translation": "Tornar bravo",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer andar a monte"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubalúla-1 — https://www.kimbundu.org/pt/word/kubalula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
