@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3144,
+      "kimbundu_term": "Kadingu",
+      "portuguese_translation": "Mandioca ou batata de pequeno tamanho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kadingu-1 — https://www.kimbundu.org/pt/word/kadingu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3145,
+      "kimbundu_term": "Kadingu",
+      "portuguese_translation": "Planta de propriedades medicinais em casos de males do estômago",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kadingu-1 — https://www.kimbundu.org/pt/word/kadingu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3146,
+      "kimbundu_term": "Kadinzenze",
+      "portuguese_translation": "Grilo pequeno",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kadinzenze-1 — https://www.kimbundu.org/pt/word/kadinzenze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3147,
+      "kimbundu_term": "Kadióko dióko",
+      "portuguese_translation": "Porção insignificante. Cousa ridícula",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kadióko dióko-1 — https://www.kimbundu.org/pt/word/kadioko%20dioko",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3148,
+      "kimbundu_term": "Kadiota",
+      "portuguese_translation": "Que tem índole perversa",
+      "definition": null,
+      "alternative_meanings": [
+        "Malvado",
+        "De maus instintos",
+        "Pessoa má"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kadiota-1 — https://www.kimbundu.org/pt/word/kadiota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3149,
+      "kimbundu_term": "Kadisu",
+      "portuguese_translation": "Olhete",
+      "definition": null,
+      "alternative_meanings": [
+        "Ocêlo",
+        "Pequeno furo",
+        "Olheiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kadisu-1 — https://www.kimbundu.org/pt/word/kadisu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3150,
+      "kimbundu_term": "Kadisu",
+      "portuguese_translation": "Qualidade de feijão branco com pintas amarelas, tb. conhecido por tambi la ngatu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kadisu-1 — https://www.kimbundu.org/pt/word/kadisu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3151,
+      "kimbundu_term": "Kadisu",
+      "portuguese_translation": "Vesgo",
+      "definition": null,
+      "alternative_meanings": [
+        "Zanaga"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kadisu-1 — https://www.kimbundu.org/pt/word/kadisu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3152,
+      "kimbundu_term": "Kadisuxina",
+      "portuguese_translation": "Padecente de enuresia, de incontinência de urinas",
+      "definition": null,
+      "alternative_meanings": [
+        "Eneúrético",
+        "fig. Mijão"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kadisuxina-1 — https://www.kimbundu.org/pt/word/kadisuxina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3153,
+      "kimbundu_term": "Kaditadi",
+      "portuguese_translation": "Pedrisco",
+      "definition": null,
+      "alternative_meanings": [
+        "Pedrinha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaditadi-1 — https://www.kimbundu.org/pt/word/kaditadi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
