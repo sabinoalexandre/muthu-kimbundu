@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12924,
+      "kimbundu_term": "Kuvíka",
+      "portuguese_translation": "Sonegar",
+      "definition": null,
+      "alternative_meanings": [
+        "subtrair fraudulentamente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvíka-1 — https://www.kimbundu.org/pt/word/kuvika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12925,
+      "kimbundu_term": "Kuvíka",
+      "portuguese_translation": "Dizer que não tem (tendo)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvíka-1 — https://www.kimbundu.org/pt/word/kuvika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12926,
+      "kimbundu_term": "Kuvíka",
+      "portuguese_translation": "Sonegamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvíka-1 — https://www.kimbundu.org/pt/word/kuvika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12927,
+      "kimbundu_term": "Kuvikisa",
+      "portuguese_translation": "Defraudar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvikisa-1 — https://www.kimbundu.org/pt/word/kuvikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12928,
+      "kimbundu_term": "Kuvikisa",
+      "portuguese_translation": "Lograr",
+      "definition": null,
+      "alternative_meanings": [
+        "iludir astuciosamente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvikisa-1 — https://www.kimbundu.org/pt/word/kuvikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12929,
+      "kimbundu_term": "Kuvikisa",
+      "portuguese_translation": "Fingir não conhecer o direito de outrem, ou fazer que compre coisa ruim por boa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvikisa-1 — https://www.kimbundu.org/pt/word/kuvikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12930,
+      "kimbundu_term": "Kuvinana",
+      "portuguese_translation": "Estar vergado, (estando seguro pelas duas extremidades)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvinana-1 — https://www.kimbundu.org/pt/word/kuvinana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12931,
+      "kimbundu_term": "Kuvinana",
+      "portuguese_translation": "Estar recurvado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvinana-1 — https://www.kimbundu.org/pt/word/kuvinana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12932,
+      "kimbundu_term": "Kuvinana",
+      "portuguese_translation": "Vergar (unindo as duas pontas)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvinana-1 — https://www.kimbundu.org/pt/word/kuvinana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12933,
+      "kimbundu_term": "Kuvinanesa",
+      "portuguese_translation": "Recurvar (segurando pelos dois extremos)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvinanesa-1 — https://www.kimbundu.org/pt/word/kuvinanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
