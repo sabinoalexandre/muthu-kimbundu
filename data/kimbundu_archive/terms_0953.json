@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9634,
+      "kimbundu_term": "Kukuakesa",
+      "portuguese_translation": "Mandar aportar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer encalhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuakesa-1 — https://www.kimbundu.org/pt/word/kukuakesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9635,
+      "kimbundu_term": "Kukuakesa",
+      "portuguese_translation": "Empatar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuakesa-1 — https://www.kimbundu.org/pt/word/kukuakesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9636,
+      "kimbundu_term": "Kukuameka",
+      "portuguese_translation": "Despeitar",
+      "definition": null,
+      "alternative_meanings": [
+        "dar com resentimento!"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuameka-1 — https://www.kimbundu.org/pt/word/kukuameka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9637,
+      "kimbundu_term": "Kukuameka",
+      "portuguese_translation": "Repudiar de muitos modos",
+      "definition": null,
+      "alternative_meanings": [
+        "rejeitar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuameka-1 — https://www.kimbundu.org/pt/word/kukuameka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9638,
+      "kimbundu_term": "Kukuameka",
+      "portuguese_translation": "Resentimento",
+      "definition": null,
+      "alternative_meanings": [
+        "despeito"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuameka-1 — https://www.kimbundu.org/pt/word/kukuameka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9639,
+      "kimbundu_term": "Kukuamekesa",
+      "portuguese_translation": "Fazer despeitar, abandonar com resentimento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuamekesa-1 — https://www.kimbundu.org/pt/word/kukuamekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9640,
+      "kimbundu_term": "Kukuamesa",
+      "portuguese_translation": "Fazer magoar, ferir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuamesa-1 — https://www.kimbundu.org/pt/word/kukuamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9641,
+      "kimbundu_term": "Kukuasúka",
+      "portuguese_translation": "Ficar meio seco, pouco enxuto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuasúka-1 — https://www.kimbundu.org/pt/word/kukuasuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9642,
+      "kimbundu_term": "Kukuasúka",
+      "portuguese_translation": "Ter pouca umidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuasúka-1 — https://www.kimbundu.org/pt/word/kukuasuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9643,
+      "kimbundu_term": "Kukuata",
+      "portuguese_translation": "Ter",
+      "definition": null,
+      "alternative_meanings": [
+        "possuir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuata-1 — https://www.kimbundu.org/pt/word/kukuata",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
