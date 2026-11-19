@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18614,
+      "kimbundu_term": "Pându",
+      "portuguese_translation": "Assado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pându-1 — https://www.kimbundu.org/pt/word/pandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18615,
+      "kimbundu_term": "Pându",
+      "portuguese_translation": "Bailarino",
+      "definition": null,
+      "alternative_meanings": [
+        "pessoa que se distingue na dança"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pându-1 — https://www.kimbundu.org/pt/word/pandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18616,
+      "kimbundu_term": "Pându",
+      "portuguese_translation": "Calça",
+      "definition": null,
+      "alternative_meanings": [
+        "pantalona"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pându-1 — https://www.kimbundu.org/pt/word/pandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18617,
+      "kimbundu_term": "Pânga",
+      "portuguese_translation": "Pássaro de cor verde e talões vermelhos, semelhante ao mulombe-ua-nganza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pânga-1 — https://www.kimbundu.org/pt/word/panga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18618,
+      "kimbundu_term": "Pangila",
+      "portuguese_translation": "Grande lago no caminho para o Dunde, a 3 km de Quifangodo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pangila-1 — https://www.kimbundu.org/pt/word/pangila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18619,
+      "kimbundu_term": "Panji",
+      "portuguese_translation": "Enérgico",
+      "definition": null,
+      "alternative_meanings": [
+        "corajoso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, panji-1 — https://www.kimbundu.org/pt/word/panji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18620,
+      "kimbundu_term": "Panji",
+      "portuguese_translation": "Árvore de sombra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, panji-1 — https://www.kimbundu.org/pt/word/panji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18621,
+      "kimbundu_term": "Panza",
+      "portuguese_translation": "Jogo de azar",
+      "definition": null,
+      "alternative_meanings": [
+        "batota"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, panza-1 — https://www.kimbundu.org/pt/word/panza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18622,
+      "kimbundu_term": "Panza",
+      "portuguese_translation": "Batotar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, panza-1 — https://www.kimbundu.org/pt/word/panza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18623,
+      "kimbundu_term": "Papa-pulunguuzu",
+      "portuguese_translation": "Expressão onomatopaica significativa de «entrada precipitada» com entrechocamento de portas ou móveis",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, papa-pulunguuzu-1 — https://www.kimbundu.org/pt/word/papa-pulunguuzu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
