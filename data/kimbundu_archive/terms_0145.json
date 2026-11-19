@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1554,
+      "kimbundu_term": "Dizuta",
+      "portuguese_translation": "Parvajola",
+      "definition": null,
+      "alternative_meanings": [
+        "pateta"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dizuta-1 — https://www.kimbundu.org/pt/word/dizuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1555,
+      "kimbundu_term": "Dizúzu",
+      "portuguese_translation": "Mentecapto",
+      "definition": null,
+      "alternative_meanings": [
+        "idiota"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dizúzu-1 — https://www.kimbundu.org/pt/word/dizuzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1556,
+      "kimbundu_term": "Dizúzu",
+      "portuguese_translation": "Que denota estupidez",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dizúzu-1 — https://www.kimbundu.org/pt/word/dizuzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1557,
+      "kimbundu_term": "Ê",
+      "portuguese_translation": "adjetivo e pronome possessivo plural (contração da preposição 'a' e do pronome pessoal 'eie'): teus",
+      "definition": null,
+      "alternative_meanings": [
+        "tuas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ê-1 — https://www.kimbundu.org/pt/word/e",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1558,
+      "kimbundu_term": "Ê",
+      "portuguese_translation": "de vós",
+      "definition": null,
+      "alternative_meanings": [
+        "das vossas pessoas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ê-1 — https://www.kimbundu.org/pt/word/e",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1559,
+      "kimbundu_term": "Ê",
+      "portuguese_translation": "pertencente às vossas pessoas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ê-1 — https://www.kimbundu.org/pt/word/e",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1560,
+      "kimbundu_term": "Ê",
+      "portuguese_translation": "substantivo (classe IX): nome da letra E",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ê-1 — https://www.kimbundu.org/pt/word/e",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1561,
+      "kimbundu_term": "E",
+      "portuguese_translation": "adjetivo e pronome possessivo (contração da preposição 'a' e do pronome pessoal 'muéne'): dele",
+      "definition": null,
+      "alternative_meanings": [
+        "dela (seu, sua)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, e-2 — https://www.kimbundu.org/pt/word/e",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1562,
+      "kimbundu_term": "E",
+      "portuguese_translation": "da pessoa dele",
+      "definition": null,
+      "alternative_meanings": [
+        "pertencente à sua pessoa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, e-2 — https://www.kimbundu.org/pt/word/e",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1563,
+      "kimbundu_term": "Ebhi",
+      "portuguese_translation": "pronome interrogativo plural (classe I): quais?",
+      "definition": null,
+      "alternative_meanings": [
+        "que pessoas (entre outras)?"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ebhi-1 — https://www.kimbundu.org/pt/word/ebhi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
