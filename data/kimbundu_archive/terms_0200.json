@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2104,
+      "kimbundu_term": "Ikúba-kuba",
+      "portuguese_translation": "Imprecações",
+      "definition": null,
+      "alternative_meanings": [
+        "maldições",
+        "pragas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ikúba-kuba-1 — https://www.kimbundu.org/pt/word/ikuba-kuba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2105,
+      "kimbundu_term": "Ikulakaji",
+      "portuguese_translation": "Velhas",
+      "definition": null,
+      "alternative_meanings": [
+        "Mulheres muito avançadas em anos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ikulakaji-1 — https://www.kimbundu.org/pt/word/ikulakaji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2106,
+      "kimbundu_term": "Ikulakaji",
+      "portuguese_translation": "Conjunto de velhas",
+      "definition": null,
+      "alternative_meanings": [
+        "Velhada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ikulakaji-1 — https://www.kimbundu.org/pt/word/ikulakaji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2107,
+      "kimbundu_term": "Ikuma",
+      "portuguese_translation": "Crimes",
+      "definition": null,
+      "alternative_meanings": [
+        "pecados",
+        "iniquidades"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ikuma-1 — https://www.kimbundu.org/pt/word/ikuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2108,
+      "kimbundu_term": "Ikuma",
+      "portuguese_translation": "Culpas",
+      "definition": null,
+      "alternative_meanings": [
+        "faltas",
+        "erros graves"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ikuma-1 — https://www.kimbundu.org/pt/word/ikuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2109,
+      "kimbundu_term": "Ikúnzu",
+      "portuguese_translation": "Sarna leprosa de certos animais",
+      "definition": null,
+      "alternative_meanings": [
+        "Gafeira",
+        "Ronha",
+        "Lepra"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ikúnzu-1 — https://www.kimbundu.org/pt/word/ikunzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2110,
+      "kimbundu_term": "Ikúnzu",
+      "portuguese_translation": "Conjunto de porcas com muitos filhos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ikúnzu-1 — https://www.kimbundu.org/pt/word/ikunzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2111,
+      "kimbundu_term": "Ikúnzu",
+      "portuguese_translation": "adj. Que tem gafeira",
+      "definition": null,
+      "alternative_meanings": [
+        "Gafento",
+        "Leproso",
+        "Pessoa que padece de gafeira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ikúnzu-1 — https://www.kimbundu.org/pt/word/ikunzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2112,
+      "kimbundu_term": "Ikusu",
+      "portuguese_translation": "Família de peixes acantopterígios, tipo dos percídeos, que vivem em rios e lagoas",
+      "definition": null,
+      "alternative_meanings": [
+        "Percas",
+        "Cacussos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ikusu-1 — https://www.kimbundu.org/pt/word/ikusu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2113,
+      "kimbundu_term": "Ikuxi",
+      "portuguese_translation": "interrog. pl. Quantos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo, interrogativo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ikuxi-1 — https://www.kimbundu.org/pt/word/ikuxi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
