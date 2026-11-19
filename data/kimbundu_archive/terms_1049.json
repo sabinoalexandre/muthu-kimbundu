@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10594,
+      "kimbundu_term": "Kumamekesa",
+      "portuguese_translation": "Fazer acrescentar, aderir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumamekesa-1 — https://www.kimbundu.org/pt/word/kumamekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10595,
+      "kimbundu_term": "Kumamekesa",
+      "portuguese_translation": "Emendar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumamekesa-1 — https://www.kimbundu.org/pt/word/kumamekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10596,
+      "kimbundu_term": "Kumamekeza",
+      "portuguese_translation": "Aderir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, errata",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumamekeza-1 — https://www.kimbundu.org/pt/word/kumamekeza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10597,
+      "kimbundu_term": "Kumamekeza",
+      "portuguese_translation": "Consentir por convicção ou interesse",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, errata",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumamekeza-1 — https://www.kimbundu.org/pt/word/kumamekeza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10598,
+      "kimbundu_term": "Kumamekeza",
+      "portuguese_translation": "Atribuir",
+      "definition": null,
+      "alternative_meanings": [
+        "admitir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, errata",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumamekeza-1 — https://www.kimbundu.org/pt/word/kumamekeza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10599,
+      "kimbundu_term": "Kumamekeza",
+      "portuguese_translation": "Kurimamekeza, v. r. Ligar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "unir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, errata",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumamekeza-1 — https://www.kimbundu.org/pt/word/kumamekeza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10600,
+      "kimbundu_term": "Kumamekeza",
+      "portuguese_translation": "Ir-se juntando",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, errata",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumamekeza-1 — https://www.kimbundu.org/pt/word/kumamekeza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10601,
+      "kimbundu_term": "Kumamena",
+      "portuguese_translation": "Humedecer",
+      "definition": null,
+      "alternative_meanings": [
+        "molhar aos poucos",
+        "Diz-se do polidor ao molhar a boneca no polimento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumamena-1 — https://www.kimbundu.org/pt/word/kumamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10602,
+      "kimbundu_term": "Kumamesa",
+      "portuguese_translation": "Fazer humectar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumamesa-1 — https://www.kimbundu.org/pt/word/kumamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10603,
+      "kimbundu_term": "Kumanamana",
+      "portuguese_translation": "Amealhar",
+      "definition": null,
+      "alternative_meanings": [
+        "Angariar, juntar aos poucos",
+        "Fazer economias"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumanamana-1 — https://www.kimbundu.org/pt/word/kumanamana",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
