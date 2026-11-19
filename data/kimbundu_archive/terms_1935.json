@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19454,
+      "kimbundu_term": "Uedi",
+      "portuguese_translation": "Cunhado",
+      "definition": null,
+      "alternative_meanings": [
+        "cunhada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uedi-1 — https://www.kimbundu.org/pt/word/uedi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19455,
+      "kimbundu_term": "Uedi",
+      "portuguese_translation": "Marido da mulher mais velha, ou vice-versa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uedi-1 — https://www.kimbundu.org/pt/word/uedi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19456,
+      "kimbundu_term": "Uélu",
+      "portuguese_translation": "Sovinaria",
+      "definition": null,
+      "alternative_meanings": [
+        "Estado de pessoa que não dá",
+        "Somiticaria"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uélu-1 — https://www.kimbundu.org/pt/word/uelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19457,
+      "kimbundu_term": "Uelungu",
+      "portuguese_translation": "Nome por que no Seles e no Amboim se conhece o mukuzu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uelungu-1 — https://www.kimbundu.org/pt/word/uelungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19458,
+      "kimbundu_term": "Uéma",
+      "portuguese_translation": "Vinhataria",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uéma-1 — https://www.kimbundu.org/pt/word/uema",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19459,
+      "kimbundu_term": "Uêmbu",
+      "portuguese_translation": "Paz",
+      "definition": null,
+      "alternative_meanings": [
+        "Agrado",
+        "Sossego (no falar ou proceder)",
+        "Concórdia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uêmbu-1 — https://www.kimbundu.org/pt/word/uembu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19460,
+      "kimbundu_term": "Uêmbu",
+      "portuguese_translation": "adv. À boa paz",
+      "definition": null,
+      "alternative_meanings": [
+        "em sossego"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uêmbu-1 — https://www.kimbundu.org/pt/word/uembu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19461,
+      "kimbundu_term": "Úfele",
+      "portuguese_translation": "Pouquidade",
+      "definition": null,
+      "alternative_meanings": [
+        "pequenês",
+        "Inferioridade",
+        "pouca valia ou tamanho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úfele-1 — https://www.kimbundu.org/pt/word/ufele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19462,
+      "kimbundu_term": "Úfele",
+      "portuguese_translation": "Qualidade de miúdo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úfele-1 — https://www.kimbundu.org/pt/word/ufele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19463,
+      "kimbundu_term": "Úfele",
+      "portuguese_translation": "Pequenino",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, úfele-2 — https://www.kimbundu.org/pt/word/ufele",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
