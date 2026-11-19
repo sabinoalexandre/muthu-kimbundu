@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8444,
+      "kimbundu_term": "Kufinya",
+      "portuguese_translation": "Acanhar",
+      "definition": null,
+      "alternative_meanings": [
+        "franzir",
+        "Fazer ocupar menor espaço"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufinya-1 — https://www.kimbundu.org/pt/word/kufinya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8445,
+      "kimbundu_term": "Kufinya",
+      "portuguese_translation": "Kurifinha, Enrugar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufinya-1 — https://www.kimbundu.org/pt/word/kufinya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8446,
+      "kimbundu_term": "Kufinya",
+      "portuguese_translation": "Comprimir-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufinya-1 — https://www.kimbundu.org/pt/word/kufinya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8447,
+      "kimbundu_term": "Kufinyama",
+      "portuguese_translation": "Estar acanhado, compresso",
+      "definition": null,
+      "alternative_meanings": [
+        "Ter proporções maiores que o espaço ocupado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufinyama-1 — https://www.kimbundu.org/pt/word/kufinyama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8448,
+      "kimbundu_term": "Kufinyamesa",
+      "portuguese_translation": "Fazer acanhar, encolher",
+      "definition": null,
+      "alternative_meanings": [
+        "Dar menores proporções que as devidas",
+        "Fazer encurtar, restringir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufinyamesa-1 — https://www.kimbundu.org/pt/word/kufinyamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8449,
+      "kimbundu_term": "Kufisa",
+      "portuguese_translation": "Fazer morrer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufisa-1 — https://www.kimbundu.org/pt/word/kufisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8450,
+      "kimbundu_term": "Kufisa",
+      "portuguese_translation": "Causar a morte de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufisa-1 — https://www.kimbundu.org/pt/word/kufisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8451,
+      "kimbundu_term": "Kufisa",
+      "portuguese_translation": "Kurifisa, v. r. Sacrificar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer-se morto"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufisa-1 — https://www.kimbundu.org/pt/word/kufisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8452,
+      "kimbundu_term": "Kufisala",
+      "portuguese_translation": "Confessar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufisala-1 — https://www.kimbundu.org/pt/word/kufisala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8453,
+      "kimbundu_term": "Kufitujuka",
+      "portuguese_translation": "Engelhar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufitujuka-1 — https://www.kimbundu.org/pt/word/kufitujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
