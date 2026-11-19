@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15154,
+      "kimbundu_term": "Mbasu",
+      "portuguese_translation": "Inflamação do parênquima do pulmão. Pneumonia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbasu-1 — https://www.kimbundu.org/pt/word/mbasu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15155,
+      "kimbundu_term": "Mbasu",
+      "portuguese_translation": "Dor aguda no pulmão",
+      "definition": null,
+      "alternative_meanings": [
+        "pneumonalgia",
+        "doença dos pulmões"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbasu-1 — https://www.kimbundu.org/pt/word/mbasu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15156,
+      "kimbundu_term": "Mbáta",
+      "portuguese_translation": "Por causa de",
+      "definition": null,
+      "alternative_meanings": [
+        "por motivo de que",
+        "por que",
+        "visto que",
+        "logo, em vista disso",
+        "portanto",
+        "por consequência",
+        "devido a isso"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbáta-1 — https://www.kimbundu.org/pt/word/mbata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15157,
+      "kimbundu_term": "Mbáta",
+      "portuguese_translation": "Logo",
+      "definition": null,
+      "alternative_meanings": [
+        "em vista disso",
+        "Portanto",
+        "Por consequência",
+        "Devido a isso"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbáta-1 — https://www.kimbundu.org/pt/word/mbata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15158,
+      "kimbundu_term": "Mbâte",
+      "portuguese_translation": "Que tem em si a força de produzir muito",
+      "definition": null,
+      "alternative_meanings": [
+        "fecundo",
+        "que não é estéril",
+        "que produz muito",
+        "que tem muitos filhos (com pequenos intervalos)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbâte-1 — https://www.kimbundu.org/pt/word/mbate",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15159,
+      "kimbundu_term": "Mbáu",
+      "portuguese_translation": "Palmatória",
+      "definition": null,
+      "alternative_meanings": [
+        "instrumento com que se castiga batendo nas palmas das mãos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbáu-1 — https://www.kimbundu.org/pt/word/mbau",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15160,
+      "kimbundu_term": "Mbaùlu",
+      "portuguese_translation": "Baú (do português)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbaùlu-1 — https://www.kimbundu.org/pt/word/mbaulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15161,
+      "kimbundu_term": "Mbaxi",
+      "portuguese_translation": "Cágado",
+      "definition": null,
+      "alternative_meanings": [
+        "espécie de tartaruga (de água doce)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbaxi-1 — https://www.kimbundu.org/pt/word/mbaxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15162,
+      "kimbundu_term": "Mbe",
+      "portuguese_translation": "Que",
+      "definition": null,
+      "alternative_meanings": [
+        "o seguinte"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbe-1 — https://www.kimbundu.org/pt/word/mbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15163,
+      "kimbundu_term": "Mbe",
+      "portuguese_translation": "Mas",
+      "definition": null,
+      "alternative_meanings": [
+        "porém"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbe-1 — https://www.kimbundu.org/pt/word/mbe",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
