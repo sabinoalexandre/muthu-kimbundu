@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16934,
+      "kimbundu_term": "Munyenye",
+      "portuguese_translation": "Planta papilionada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munyenye-1 — https://www.kimbundu.org/pt/word/munyenye",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16935,
+      "kimbundu_term": "Munyete",
+      "portuguese_translation": "Que dá mimos",
+      "definition": null,
+      "alternative_meanings": [
+        "acariciador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munyete-1 — https://www.kimbundu.org/pt/word/munyete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16936,
+      "kimbundu_term": "Munyinge",
+      "portuguese_translation": "Pessoa que faz rolos, rodilhas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munyinge-1 — https://www.kimbundu.org/pt/word/munyinge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16937,
+      "kimbundu_term": "Munyinge",
+      "portuguese_translation": "Que faz entrelaçamentos, cordoalha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munyinge-1 — https://www.kimbundu.org/pt/word/munyinge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16938,
+      "kimbundu_term": "Múnyoka",
+      "portuguese_translation": "Verme anelido terrícola",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múnyoka-1 — https://www.kimbundu.org/pt/word/munyoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16939,
+      "kimbundu_term": "Munyómbo",
+      "portuguese_translation": "Jasmim do Cabo, própria para perfumaria",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munyómbo-1 — https://www.kimbundu.org/pt/word/munyombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16940,
+      "kimbundu_term": "Munyómbo",
+      "portuguese_translation": "Sua flor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munyómbo-1 — https://www.kimbundu.org/pt/word/munyombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16941,
+      "kimbundu_term": "Munyunge",
+      "portuguese_translation": "Volteador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munyunge-1 — https://www.kimbundu.org/pt/word/munyunge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16942,
+      "kimbundu_term": "Munyunge",
+      "portuguese_translation": "Que dá rodeios",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munyunge-1 — https://www.kimbundu.org/pt/word/munyunge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16943,
+      "kimbundu_term": "Munyurgu",
+      "portuguese_translation": "Vagado",
+      "definition": null,
+      "alternative_meanings": [
+        "tontura",
+        "vertigem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munyurgu-1 — https://www.kimbundu.org/pt/word/munyurgu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
