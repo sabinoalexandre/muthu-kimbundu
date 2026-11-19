@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12874,
+      "kimbundu_term": "Kuuaiesa",
+      "portuguese_translation": "Fazer untar: — majl",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuuaiesa-1 — https://www.kimbundu.org/pt/word/kuuaiesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12875,
+      "kimbundu_term": "Kuuaiesa",
+      "portuguese_translation": "Mandar ungir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuuaiesa-1 — https://www.kimbundu.org/pt/word/kuuaiesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12876,
+      "kimbundu_term": "Kuuáka",
+      "portuguese_translation": "Amaldiçoar",
+      "definition": null,
+      "alternative_meanings": [
+        "excomungar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo transitivo, verbo intransitivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuuáka-1 — https://www.kimbundu.org/pt/word/kuuaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12877,
+      "kimbundu_term": "Kuuáka",
+      "portuguese_translation": "Blasfemar, maldizer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo transitivo, verbo intransitivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuuáka-1 — https://www.kimbundu.org/pt/word/kuuaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12878,
+      "kimbundu_term": "Kuuáka",
+      "portuguese_translation": "Desprezo sarcástico",
+      "definition": null,
+      "alternative_meanings": [
+        "maldição"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo transitivo, verbo intransitivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuuáka-1 — https://www.kimbundu.org/pt/word/kuuaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12879,
+      "kimbundu_term": "Kuuáka",
+      "portuguese_translation": "Kuriuáka, v. r. Rebaixar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "vilipendiar-se",
+        "Votar-se ao desprezo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo transitivo, verbo intransitivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuuáka-1 — https://www.kimbundu.org/pt/word/kuuaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12880,
+      "kimbundu_term": "Kuualumuna",
+      "portuguese_translation": "Desenramar — jiltangu ja mungenge",
+      "definition": null,
+      "alternative_meanings": [
+        "Destroncar",
+        "desmembrar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo transitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuualumuna-1 — https://www.kimbundu.org/pt/word/kuualumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12881,
+      "kimbundu_term": "Kuuanesa",
+      "portuguese_translation": "Mandar quartear",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer dividir em partes iguais"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo transitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuuanesa-1 — https://www.kimbundu.org/pt/word/kuuanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12882,
+      "kimbundu_term": "Kuuanuka",
+      "portuguese_translation": "Ficar rachado, fendido em todo o comprimento ou altura",
+      "definition": null,
+      "alternative_meanings": [
+        "Estar dividido em duas metades"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo intransitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuuanuka-1 — https://www.kimbundu.org/pt/word/kuuanuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12883,
+      "kimbundu_term": "Kuuanukisa",
+      "portuguese_translation": "Fazer separar, fender em duas metades",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo transitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuuanukisa-1 — https://www.kimbundu.org/pt/word/kuuanukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
