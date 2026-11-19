@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17004,
+      "kimbundu_term": "Musafukudia",
+      "portuguese_translation": "Peixe esquamodermo, conhecido por «corvina da barra»",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musafukudia-1 — https://www.kimbundu.org/pt/word/musafukudia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17005,
+      "kimbundu_term": "Musáka",
+      "portuguese_translation": "Cápsula que envolve a semente",
+      "definition": null,
+      "alternative_meanings": [
+        "Casulo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musáka-1 — https://www.kimbundu.org/pt/word/musaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17006,
+      "kimbundu_term": "Musakala",
+      "portuguese_translation": "Gazúa",
+      "definition": null,
+      "alternative_meanings": [
+        "A parte da chave que faz girar a lingueta da fechadora",
+        "A própria chave"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musakala-1 — https://www.kimbundu.org/pt/word/musakala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17007,
+      "kimbundu_term": "Musáke",
+      "portuguese_translation": "Que cura por meio de exorcismos",
+      "definition": null,
+      "alternative_meanings": [
+        "Curandeiro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musáke-1 — https://www.kimbundu.org/pt/word/musake",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17008,
+      "kimbundu_term": "Musakedi",
+      "portuguese_translation": "Bruxo",
+      "definition": null,
+      "alternative_meanings": [
+        "Homem a quem se atribui o dom de adivinhar"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musakedi-1 — https://www.kimbundu.org/pt/word/musakedi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17009,
+      "kimbundu_term": "Musakexi",
+      "portuguese_translation": "Vascolejador",
+      "definition": null,
+      "alternative_meanings": [
+        "Aquele que limpa utensílios sacudindo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musakexi-1 — https://www.kimbundu.org/pt/word/musakexi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17010,
+      "kimbundu_term": "Musakididi",
+      "portuguese_translation": "Que agradece",
+      "definition": null,
+      "alternative_meanings": [
+        "Homem agradecido"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musakididi-1 — https://www.kimbundu.org/pt/word/musakididi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17011,
+      "kimbundu_term": "Musáku",
+      "portuguese_translation": "Concha ou vaso de barro para, no fim das refeições, enxaguar a boca e lavar os dedos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musáku-1 — https://www.kimbundu.org/pt/word/musaku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17012,
+      "kimbundu_term": "Musála",
+      "portuguese_translation": "Árvore fam. das leguminosas (blalium), e seu fruto de polpa comestível",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musála-1 — https://www.kimbundu.org/pt/word/musala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17013,
+      "kimbundu_term": "Musála",
+      "portuguese_translation": "planta fam. das apocináceas (diplorynchus psilopus), de flores brancas e aromáticas, de que há várias espécies",
+      "definition": null,
+      "alternative_meanings": [
+        "Jasmim",
+        "sua flor",
+        "munhombo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musála-1 — https://www.kimbundu.org/pt/word/musala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
