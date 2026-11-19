@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9294,
+      "kimbundu_term": "Kukáuka",
+      "portuguese_translation": "Guerrear",
+      "definition": null,
+      "alternative_meanings": [
+        "competir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukáuka-1 — https://www.kimbundu.org/pt/word/kukauka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9295,
+      "kimbundu_term": "Kukáuka",
+      "portuguese_translation": "Correr o campo a cavalo",
+      "definition": null,
+      "alternative_meanings": [
+        "marchar com galhardia",
+        "ostentar",
+        "ser campeão"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukáuka-1 — https://www.kimbundu.org/pt/word/kukauka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9296,
+      "kimbundu_term": "Kukáuka",
+      "portuguese_translation": "Ser agitado, colhido, sacudido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukáuka-1 — https://www.kimbundu.org/pt/word/kukauka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9297,
+      "kimbundu_term": "Kukáuka",
+      "portuguese_translation": "Agitação",
+      "definition": null,
+      "alternative_meanings": [
+        "alvoroço",
+        "levantamento em massa"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukáuka-1 — https://www.kimbundu.org/pt/word/kukauka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9298,
+      "kimbundu_term": "Kukáuka",
+      "portuguese_translation": "Competição",
+      "definition": null,
+      "alternative_meanings": [
+        "justa",
+        "garbosidade"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukáuka-1 — https://www.kimbundu.org/pt/word/kukauka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9299,
+      "kimbundu_term": "Kukaukisa",
+      "portuguese_translation": "Fazer campear, tornear",
+      "definition": null,
+      "alternative_meanings": [
+        "justar",
+        "Mandar campar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukaukisa-1 — https://www.kimbundu.org/pt/word/kukaukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9300,
+      "kimbundu_term": "Kukaukisa",
+      "portuguese_translation": "Kurikaukisa, e r. Tomar parte em torneio",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer-se campeão"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukaukisa-1 — https://www.kimbundu.org/pt/word/kukaukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9301,
+      "kimbundu_term": "Kukaúla",
+      "portuguese_translation": "Atalhar",
+      "definition": null,
+      "alternative_meanings": [
+        "abreviar",
+        "encurtar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukaúla-1 — https://www.kimbundu.org/pt/word/kukaula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9302,
+      "kimbundu_term": "Kukaúla",
+      "portuguese_translation": "Resumir",
+      "definition": null,
+      "alternative_meanings": [
+        "Comprar (um artigo) antes que encareça"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukaúla-1 — https://www.kimbundu.org/pt/word/kukaula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9303,
+      "kimbundu_term": "Kukaúla",
+      "portuguese_translation": "Antecipar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "tomar por atalho"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukaúla-1 — https://www.kimbundu.org/pt/word/kukaula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
