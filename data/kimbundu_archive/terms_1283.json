@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12934,
+      "kimbundu_term": "Kuvinanesa",
+      "portuguese_translation": "É também recíproco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvinanesa-1 — https://www.kimbundu.org/pt/word/kuvinanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12935,
+      "kimbundu_term": "Kuvingala",
+      "portuguese_translation": "Vingar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvingala-1 — https://www.kimbundu.org/pt/word/kuvingala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12936,
+      "kimbundu_term": "Kuvingina",
+      "portuguese_translation": "Abafar, agasalhar contra o frio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvingina-1 — https://www.kimbundu.org/pt/word/kuvingina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12937,
+      "kimbundu_term": "Kuvingina",
+      "portuguese_translation": "Kurivingina, v. r. Encapotar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "cobrir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvingina-1 — https://www.kimbundu.org/pt/word/kuvingina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12938,
+      "kimbundu_term": "Kuvinginina",
+      "portuguese_translation": "Ir abafando",
+      "definition": null,
+      "alternative_meanings": [
+        "resguardar do frio"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvinginina-1 — https://www.kimbundu.org/pt/word/kuvinginina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12939,
+      "kimbundu_term": "Kuvinginina",
+      "portuguese_translation": "Confortar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvinginina-1 — https://www.kimbundu.org/pt/word/kuvinginina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12940,
+      "kimbundu_term": "Kuvinginina",
+      "portuguese_translation": "Kurivinginina, v. r. Tapar-se com roupa de abrigo",
+      "definition": null,
+      "alternative_meanings": [
+        "agasalhar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvinginina-1 — https://www.kimbundu.org/pt/word/kuvinginina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12941,
+      "kimbundu_term": "Kúvioka",
+      "portuguese_translation": "Passar",
+      "definition": null,
+      "alternative_meanings": [
+        "transitar (no Congo)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúvioka-1 — https://www.kimbundu.org/pt/word/kuvioka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12942,
+      "kimbundu_term": "Kuviokuesa",
+      "portuguese_translation": "Dizer disparateza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuviokuesa-1 — https://www.kimbundu.org/pt/word/kuviokuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12943,
+      "kimbundu_term": "Kuviokuesa",
+      "portuguese_translation": "Motejar, escarnecer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuviokuesa-1 — https://www.kimbundu.org/pt/word/kuviokuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
