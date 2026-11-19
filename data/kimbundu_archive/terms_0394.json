@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4044,
+      "kimbundu_term": "Kasambuadi",
+      "portuguese_translation": "Que vem ou está depois do sexto",
+      "definition": null,
+      "alternative_meanings": [
+        "Que ocupa o sétimo lugar"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasambuadi-1 — https://www.kimbundu.org/pt/word/kasambuadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4045,
+      "kimbundu_term": "Kasambuadi",
+      "portuguese_translation": "O sétimo (da série)",
+      "definition": null,
+      "alternative_meanings": [
+        "A sétima parte ou o sétimo dia (da semana)",
+        "Sábado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasambuadi-1 — https://www.kimbundu.org/pt/word/kasambuadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4046,
+      "kimbundu_term": "Kasandama",
+      "portuguese_translation": "Morro que fica a N. E. da cidade de Luanda, vulgarmente chamado «das lagostas», onde se encontra edificada a fortaleza d",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasandama-1 — https://www.kimbundu.org/pt/word/kasandama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4047,
+      "kimbundu_term": "Kásanga",
+      "portuguese_translation": "Planta amarantácea, conhecida por «gimbôa brava»",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kásanga-1 — https://www.kimbundu.org/pt/word/kasanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4048,
+      "kimbundu_term": "Kásanga",
+      "portuguese_translation": "boa bravas, (amaranthus spinosus)",
+      "definition": null,
+      "alternative_meanings": [
+        "Amaranto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kásanga-1 — https://www.kimbundu.org/pt/word/kasanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4049,
+      "kimbundu_term": "Kasanga-dimbu",
+      "portuguese_translation": "Tumor pequeno e duro, acompanhado de inflamação e dor",
+      "definition": null,
+      "alternative_meanings": [
+        "Maldita"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasanga-dimbu-1 — https://www.kimbundu.org/pt/word/kasanga-dimbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4050,
+      "kimbundu_term": "Kasangambu",
+      "portuguese_translation": "Inflamação do tecido celular",
+      "definition": null,
+      "alternative_meanings": [
+        "Fleumão",
+        "Furúnculo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasangambu-1 — https://www.kimbundu.org/pt/word/kasangambu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4051,
+      "kimbundu_term": "Kasánji",
+      "portuguese_translation": "Franga",
+      "definition": null,
+      "alternative_meanings": [
+        "Galinha pequena"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasánji-1 — https://www.kimbundu.org/pt/word/kasanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4052,
+      "kimbundu_term": "Kasánji",
+      "portuguese_translation": "Território que constitui a circ. civ. de Bondo e Bangalas, distr. da Lunda, prov. de Malange",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasánji-1 — https://www.kimbundu.org/pt/word/kasanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4053,
+      "kimbundu_term": "Kasánji",
+      "portuguese_translation": "Pov. na área do posto de Galangue, circ. civ. do Huambo, distr. e prov. de Benguela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasánji-1 — https://www.kimbundu.org/pt/word/kasanji",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
