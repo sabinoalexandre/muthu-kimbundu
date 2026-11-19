@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17954,
+      "kimbundu_term": "Ngaluju",
+      "portuguese_translation": "Do português. Garfo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngaluju-1 — https://www.kimbundu.org/pt/word/ngaluju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17955,
+      "kimbundu_term": "Ngámba",
+      "portuguese_translation": "Planta hortícola produtora de um tubérculo semelhante à batata",
+      "definition": null,
+      "alternative_meanings": [
+        "espécie de inhame"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngámba-1 — https://www.kimbundu.org/pt/word/ngamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17956,
+      "kimbundu_term": "Ngámba",
+      "portuguese_translation": "Povoação e posto da circunscrição civil do Andulo (Ndulu), distrito e província do Bié, com 22.416 habitantes, estação t",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngámba-1 — https://www.kimbundu.org/pt/word/ngamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17957,
+      "kimbundu_term": "Ngâmba",
+      "portuguese_translation": "Aquele que transporta cargas ou faz fretes",
+      "definition": null,
+      "alternative_meanings": [
+        "carregador"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngâmba-1 — https://www.kimbundu.org/pt/word/ngamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17958,
+      "kimbundu_term": "Ngâmba",
+      "portuguese_translation": "Servente empregado em transporte de cargas",
+      "definition": null,
+      "alternative_meanings": [
+        "moço de fretes"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngâmba-1 — https://www.kimbundu.org/pt/word/ngamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17959,
+      "kimbundu_term": "Ngâmba",
+      "portuguese_translation": "Emissário",
+      "definition": null,
+      "alternative_meanings": [
+        "mensageiro",
+        "mandado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngâmba-1 — https://www.kimbundu.org/pt/word/ngamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17960,
+      "kimbundu_term": "Ngâmbe",
+      "portuguese_translation": "Nem",
+      "definition": null,
+      "alternative_meanings": [
+        "pelo menos",
+        "só quer",
+        "ao menos",
+        "não"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngâmbe-1 — https://www.kimbundu.org/pt/word/ngambe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17961,
+      "kimbundu_term": "Ngâmbe",
+      "portuguese_translation": "E não",
+      "definition": null,
+      "alternative_meanings": [
+        "e sem"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngâmbe-1 — https://www.kimbundu.org/pt/word/ngambe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17962,
+      "kimbundu_term": "Ngâmbi",
+      "portuguese_translation": "Linguareiro",
+      "definition": null,
+      "alternative_meanings": [
+        "que diz tudo que vê ou ouve"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngâmbi-1 — https://www.kimbundu.org/pt/word/ngambi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17963,
+      "kimbundu_term": "Ngâmbi",
+      "portuguese_translation": "Delator",
+      "definition": null,
+      "alternative_meanings": [
+        "linguarudo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngâmbi-1 — https://www.kimbundu.org/pt/word/ngambi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
