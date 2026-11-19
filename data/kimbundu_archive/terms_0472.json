@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4824,
+      "kimbundu_term": "Kidibunda",
+      "portuguese_translation": "Trouxada",
+      "definition": null,
+      "alternative_meanings": [
+        "fardo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidibunda-1 — https://www.kimbundu.org/pt/word/kidibunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4825,
+      "kimbundu_term": "Kididi",
+      "portuguese_translation": "Lugar",
+      "definition": null,
+      "alternative_meanings": [
+        "Localidade",
+        "domicílio",
+        "residência",
+        "Ponto onde habitualmente se está",
+        "Emprego",
+        "situação",
+        "pousada",
+        "Posto",
+        "Espaço ocupado ou que pode ser ocupado",
+        "Recinto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kididi-1 — https://www.kimbundu.org/pt/word/kididi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4826,
+      "kimbundu_term": "Kididi",
+      "portuguese_translation": "Colchão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kididi-1 — https://www.kimbundu.org/pt/word/kididi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4827,
+      "kimbundu_term": "Kididi",
+      "portuguese_translation": "Vez",
+      "definition": null,
+      "alternative_meanings": [
+        "turno"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kididi-1 — https://www.kimbundu.org/pt/word/kididi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4828,
+      "kimbundu_term": "Kididi",
+      "portuguese_translation": "Posto de venda (em feira, praça, mercado, etc.)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kididi-1 — https://www.kimbundu.org/pt/word/kididi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4829,
+      "kimbundu_term": "Kididi",
+      "portuguese_translation": "e intr. Situar",
+      "definition": null,
+      "alternative_meanings": [
+        "abrigar",
+        "Dar aposento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kididi-1 — https://www.kimbundu.org/pt/word/kididi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4830,
+      "kimbundu_term": "Kîdie",
+      "portuguese_translation": "Comestível",
+      "definition": null,
+      "alternative_meanings": [
+        "comível"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kîdie-1 — https://www.kimbundu.org/pt/word/kidie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4831,
+      "kimbundu_term": "Kîdie",
+      "portuguese_translation": "O que se pode comer sem prejuízo ou repugnância",
+      "definition": null,
+      "alternative_meanings": [
+        "Coisa própria para comer"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kîdie-1 — https://www.kimbundu.org/pt/word/kidie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4832,
+      "kimbundu_term": "Kidiéle",
+      "portuguese_translation": "Mamola",
+      "definition": null,
+      "alternative_meanings": [
+        "Mama grande",
+        "Pl. iméle"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidiéle-1 — https://www.kimbundu.org/pt/word/kidiele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4833,
+      "kimbundu_term": "Kidielelu",
+      "portuguese_translation": "Esperança",
+      "definition": null,
+      "alternative_meanings": [
+        "Expectativa",
+        "confiança",
+        "coisa que se espera",
+        "Uma das três virtudes teologais"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidielelu-1 — https://www.kimbundu.org/pt/word/kidielelu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
