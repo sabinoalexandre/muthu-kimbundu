@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12744,
+      "kimbundu_term": "Kútunda",
+      "portuguese_translation": "Ultrapassar",
+      "definition": null,
+      "alternative_meanings": [
+        "exceder",
+        "sobressair"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútunda-1 — https://www.kimbundu.org/pt/word/kutunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12745,
+      "kimbundu_term": "Kútunda",
+      "portuguese_translation": "Ser do tamanho ou qualidade superior",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútunda-1 — https://www.kimbundu.org/pt/word/kutunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12746,
+      "kimbundu_term": "Kutundila",
+      "portuguese_translation": "Ir ao encontro de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutundila-1 — https://www.kimbundu.org/pt/word/kutundila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12747,
+      "kimbundu_term": "Kutundila",
+      "portuguese_translation": "Acerca-se de",
+      "definition": null,
+      "alternative_meanings": [
+        "sair por"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutundila-1 — https://www.kimbundu.org/pt/word/kutundila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12748,
+      "kimbundu_term": "Kutundisa",
+      "portuguese_translation": "Fazer sair",
+      "definition": null,
+      "alternative_meanings": [
+        "mandar pôr fora (do lugar)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutundisa-1 — https://www.kimbundu.org/pt/word/kutundisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12749,
+      "kimbundu_term": "Kutundisa",
+      "portuguese_translation": "Fazer ultrapassar, sobresair",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutundisa-1 — https://www.kimbundu.org/pt/word/kutundisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12750,
+      "kimbundu_term": "Kutundula",
+      "portuguese_translation": "Reprovar",
+      "definition": null,
+      "alternative_meanings": [
+        "contrariar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutundula-1 — https://www.kimbundu.org/pt/word/kutundula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12751,
+      "kimbundu_term": "Kutundula",
+      "portuguese_translation": "Polear",
+      "definition": null,
+      "alternative_meanings": [
+        "dar empurrões"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutundula-1 — https://www.kimbundu.org/pt/word/kutundula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12752,
+      "kimbundu_term": "Kutundula",
+      "portuguese_translation": "Reprovação",
+      "definition": null,
+      "alternative_meanings": [
+        "contrariedade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutundula-2 — https://www.kimbundu.org/pt/word/kutundula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12753,
+      "kimbundu_term": "Kutunga",
+      "portuguese_translation": "Coser",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutunga-1 — https://www.kimbundu.org/pt/word/kutunga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
