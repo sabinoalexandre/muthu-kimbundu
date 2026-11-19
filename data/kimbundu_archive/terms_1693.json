@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17034,
+      "kimbundu_term": "Musandu",
+      "portuguese_translation": "Utensílio em forma de garfo",
+      "definition": null,
+      "alternative_meanings": [
+        "Tridente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musandu-1 — https://www.kimbundu.org/pt/word/musandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17035,
+      "kimbundu_term": "Músanga",
+      "portuguese_translation": "Gargantilha",
+      "definition": null,
+      "alternative_meanings": [
+        "fio de metal",
+        "cordão (de ouro)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, músanga-1 — https://www.kimbundu.org/pt/word/musanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17036,
+      "kimbundu_term": "Músanga",
+      "portuguese_translation": "Rosário",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, músanga-1 — https://www.kimbundu.org/pt/word/musanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17037,
+      "kimbundu_term": "Músanga",
+      "portuguese_translation": "Ovário",
+      "definition": null,
+      "alternative_meanings": [
+        "enxúndia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, músanga-1 — https://www.kimbundu.org/pt/word/musanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17038,
+      "kimbundu_term": "Músanga",
+      "portuguese_translation": "Planta trepadeira de propriedades medicinais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, músanga-1 — https://www.kimbundu.org/pt/word/musanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17039,
+      "kimbundu_term": "Musánge",
+      "portuguese_translation": "Achador. Aquele que encontra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musánge-1 — https://www.kimbundu.org/pt/word/musange",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17040,
+      "kimbundu_term": "Musanguixi",
+      "portuguese_translation": "Árvore de madeira resistente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musanguixi-1 — https://www.kimbundu.org/pt/word/musanguixi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17041,
+      "kimbundu_term": "Musanu",
+      "portuguese_translation": "Raridade",
+      "definition": null,
+      "alternative_meanings": [
+        "casualidade. Objeto raro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musanu-1 — https://www.kimbundu.org/pt/word/musanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17042,
+      "kimbundu_term": "Musanu",
+      "portuguese_translation": "Que não é frequente. Sucedido por acaso. Eventual",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musanu-1 — https://www.kimbundu.org/pt/word/musanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17043,
+      "kimbundu_term": "Músanza",
+      "portuguese_translation": "Vastidão",
+      "definition": null,
+      "alternative_meanings": [
+        "extensão dilatada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, músanza-1 — https://www.kimbundu.org/pt/word/musanza",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
