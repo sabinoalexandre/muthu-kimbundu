@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8804,
+      "kimbundu_term": "Kuhumbulula",
+      "portuguese_translation": "Começar a soltar sons guturais",
+      "definition": null,
+      "alternative_meanings": [
+        "Grunhir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhumbulula-1 — https://www.kimbundu.org/pt/word/kuhumbulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8805,
+      "kimbundu_term": "Kuhumbulula",
+      "portuguese_translation": "Contestar ou ripostar com grunhidos",
+      "definition": null,
+      "alternative_meanings": [
+        "Rosnar. sub. Grunhido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhumbulula-1 — https://www.kimbundu.org/pt/word/kuhumbulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8806,
+      "kimbundu_term": "Kuhúnda",
+      "portuguese_translation": "Opinar",
+      "definition": null,
+      "alternative_meanings": [
+        "votar",
+        "dar parecer",
+        "Alvitrar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhúnda-1 — https://www.kimbundu.org/pt/word/kuhunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8807,
+      "kimbundu_term": "Kuhúnda",
+      "portuguese_translation": "Emitir ou formar juízo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhúnda-1 — https://www.kimbundu.org/pt/word/kuhunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8808,
+      "kimbundu_term": "Kuhúnga",
+      "portuguese_translation": "Refrear",
+      "definition": null,
+      "alternative_meanings": [
+        "sujeitar",
+        "ter mão em",
+        "Sustar",
+        "conter",
+        "reprimir",
+        "fig. prender"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhúnga-1 — https://www.kimbundu.org/pt/word/kuhunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8809,
+      "kimbundu_term": "Kuhúnga",
+      "portuguese_translation": "Kurihúnga, e r. Dominar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "ter mão em si"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhúnga-1 — https://www.kimbundu.org/pt/word/kuhunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8810,
+      "kimbundu_term": "Kuhúnga",
+      "portuguese_translation": "Ter termos",
+      "definition": null,
+      "alternative_meanings": [
+        "modos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhúnga-1 — https://www.kimbundu.org/pt/word/kuhunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8811,
+      "kimbundu_term": "Kuhungisa",
+      "portuguese_translation": "Fazer sujeitar, conter",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhungisa-1 — https://www.kimbundu.org/pt/word/kuhungisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8812,
+      "kimbundu_term": "Kuhunguluka",
+      "portuguese_translation": "Ficar desregrado",
+      "definition": null,
+      "alternative_meanings": [
+        "desaforado",
+        "Andar à solta, sem tino"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhunguluka-1 — https://www.kimbundu.org/pt/word/kuhunguluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8813,
+      "kimbundu_term": "Kuhungulukisa",
+      "portuguese_translation": "Fazer desregrar, depravar, desatinar",
+      "definition": null,
+      "alternative_meanings": [
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhungulukisa-1 — https://www.kimbundu.org/pt/word/kuhungulukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
