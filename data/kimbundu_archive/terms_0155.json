@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1654,
+      "kimbundu_term": "Fimba",
+      "portuguese_translation": "Kuta fimba (): ir ao fundo de água",
+      "definition": null,
+      "alternative_meanings": [
+        "mergulhar",
+        "meter-se ou nadar debaixo de água"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fimba-1 — https://www.kimbundu.org/pt/word/fimba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1655,
+      "kimbundu_term": "Fíngu",
+      "portuguese_translation": "Fruta de conta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fíngu-1 — https://www.kimbundu.org/pt/word/fingu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1656,
+      "kimbundu_term": "Fitiiu",
+      "portuguese_translation": "Feitio, maneira de ser (do português)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fitiiu-1 — https://www.kimbundu.org/pt/word/fitiiu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1657,
+      "kimbundu_term": "Fixi",
+      "portuguese_translation": "Ponto onde começa uma corrente de água",
+      "definition": null,
+      "alternative_meanings": [
+        "nascente",
+        "fonte",
+        "bacia ou nascente de rio",
+        "cisterna",
+        "aurícula",
+        "(figurado) origem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fixi-1 — https://www.kimbundu.org/pt/word/fixi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1658,
+      "kimbundu_term": "Fôbia",
+      "portuguese_translation": "Brando, lasso",
+      "definition": null,
+      "alternative_meanings": [
+        "mole",
+        "sem forças",
+        "enfraquecido",
+        "derreado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fôbia-1 — https://www.kimbundu.org/pt/word/fobia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1659,
+      "kimbundu_term": "Fólo",
+      "portuguese_translation": "(do português) Que teve alforria",
+      "definition": null,
+      "alternative_meanings": [
+        "forro",
+        "liberto",
+        "que tem liberdade"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fólo-1 — https://www.kimbundu.org/pt/word/folo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1660,
+      "kimbundu_term": "Fólo",
+      "portuguese_translation": "O que serve para forrar",
+      "definition": null,
+      "alternative_meanings": [
+        "revestimento"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fólo-1 — https://www.kimbundu.org/pt/word/folo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1661,
+      "kimbundu_term": "Folôlo",
+      "portuguese_translation": "Do português 'flor'",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, folôlo-1 — https://www.kimbundu.org/pt/word/fololo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1662,
+      "kimbundu_term": "Fotojoto",
+      "portuguese_translation": "Som imitativo de quem rasteja dentro de capim",
+      "definition": null,
+      "alternative_meanings": [
+        "restolho",
+        "ruído cavo e seco"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fotojoto-1 — https://www.kimbundu.org/pt/word/fotojoto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1663,
+      "kimbundu_term": "Fúba",
+      "portuguese_translation": "Pó proveniente da trituração ou moagem de um cereal, raiz farinácea ou legume seco",
+      "definition": null,
+      "alternative_meanings": [
+        "farinha",
+        "a fécula da mandioca com que se manipula o funji",
+        "amido"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fúba-1 — https://www.kimbundu.org/pt/word/fuba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
