@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7274,
+      "kimbundu_term": "Kubeluka",
+      "portuguese_translation": "Diz-se do ato de evitar que o adversário nos alcance na carreira, desviando-nos para o lado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubeluka-1 — https://www.kimbundu.org/pt/word/kubeluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7275,
+      "kimbundu_term": "Kubeluka",
+      "portuguese_translation": "Bordo",
+      "definition": null,
+      "alternative_meanings": [
+        "guinada"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubeluka-1 — https://www.kimbundu.org/pt/word/kubeluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7276,
+      "kimbundu_term": "Kubelula",
+      "portuguese_translation": "Fazer guinar",
+      "definition": null,
+      "alternative_meanings": [
+        "afastar (da carreira)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubelula-1 — https://www.kimbundu.org/pt/word/kubelula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7277,
+      "kimbundu_term": "Kubelula",
+      "portuguese_translation": "Furtar (da corrida)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubelula-1 — https://www.kimbundu.org/pt/word/kubelula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7278,
+      "kimbundu_term": "Kubelula",
+      "portuguese_translation": "Kuibelula, v. r. Desviar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "esquivar-se",
+        "eximir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubelula-1 — https://www.kimbundu.org/pt/word/kubelula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7279,
+      "kimbundu_term": "Kubemba",
+      "portuguese_translation": "Assoar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubemba-1 — https://www.kimbundu.org/pt/word/kubemba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7280,
+      "kimbundu_term": "Kubemba",
+      "portuguese_translation": "Atrapalhar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "cansar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubemba-1 — https://www.kimbundu.org/pt/word/kubemba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7281,
+      "kimbundu_term": "Kubembesa",
+      "portuguese_translation": "Esmoncar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer assoar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubembesa-1 — https://www.kimbundu.org/pt/word/kubembesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7282,
+      "kimbundu_term": "Kubembuka",
+      "portuguese_translation": "Ficar desviado, arredado (da questão)",
+      "definition": null,
+      "alternative_meanings": [
+        "isentar-se (da desordem)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubembuka-1 — https://www.kimbundu.org/pt/word/kubembuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7283,
+      "kimbundu_term": "Kubembula",
+      "portuguese_translation": "Espaduar",
+      "definition": null,
+      "alternative_meanings": [
+        "deslocar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubembula-1 — https://www.kimbundu.org/pt/word/kubembula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
