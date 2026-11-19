@@ -20,6 +20,11 @@ The seed lexicon also includes Kikongo terms for the sun, earth, dog, pig,
 mother, father, family, chair, car, dances, chief and nose. Their individual
 source references are stored with each entry in `data/dictionary.json`.
 
+Ten additional Kikongo verb forms are linked directly to existing Kimbundu and
+Portuguese entries: *diata*, *wiza*, *zola*, *longa*, *tala*, *sosa*, *tuma*,
+*nata*, *futa* and *dia*. The entries retain their source citations and the
+`unverified` status.
+
 This directory can also host additional resources such as:
 
 - Bilingual dictionaries.

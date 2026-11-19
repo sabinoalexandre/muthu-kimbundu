@@ -649,6 +649,7 @@
     {
       "id": 42,
       "kimbundu_term": "Kwenda",
+      "kikongo_term": "diata",
       "portuguese_translation": "andar",
       "definition": "Andar; percorrer; caminhar; marchar.",
       "alternative_meanings": [
@@ -659,7 +660,7 @@
       "grammatical_category": "verbo",
       "regional_variation": null,
       "verification_status": "unverified",
-      "source_reference": "Arquivo Kimbundu, Kwenda, Assis Júnior (anos 1940), p. 178 — https://www.kimbundu.org/pt/word/kwenda",
+      "source_reference": "Kimbundu: Arquivo Kimbundu, Kwenda, Assis Júnior (anos 1940), p. 178 — https://www.kimbundu.org/pt/word/kwenda; Kikongo: Kia Kongo, lista de verbos — https://www.kiakongo.com/lista-de-verbos-kikongo/",
       "timestamp": "2026-11-02T00:00:00"
     },
     {
@@ -680,6 +681,7 @@
     {
       "id": 44,
       "kimbundu_term": "Kwiza",
+      "kikongo_term": "wiza",
       "portuguese_translation": "vir",
       "definition": "Vir; chegar até nós.",
       "alternative_meanings": [
@@ -689,7 +691,7 @@
       "grammatical_category": "verbo",
       "regional_variation": null,
       "verification_status": "unverified",
-      "source_reference": "Arquivo Kimbundu, Kwiza, Assis Júnior (anos 1940), p. 189 — https://www.kimbundu.org/en/classes/6",
+      "source_reference": "Kimbundu: Arquivo Kimbundu, Kwiza, Assis Júnior (anos 1940), p. 189 — https://www.kimbundu.org/en/classes/6; Kikongo: Kia Kongo, Regra Geral — https://www.kiakongo.com/aprender-kikongo/regra-geral-kikongo/",
       "timestamp": "2026-11-02T00:00:00"
     },
     {
@@ -725,6 +727,7 @@
     {
       "id": 47,
       "kimbundu_term": "Kuzola",
+      "kikongo_term": "zola",
       "portuguese_translation": "amar",
       "definition": "Verbo amar, segundo o vocabulário citado na lição do infinitivo.",
       "alternative_meanings": [],
@@ -732,12 +735,13 @@
       "grammatical_category": "verbo",
       "regional_variation": null,
       "verification_status": "unverified",
-      "source_reference": "Aprender Kimbundu, O infinitivo: ku-, com base em Chatelain (1889) — https://www.kimbundu.org/pt/learn/the-infinitive",
+      "source_reference": "Kimbundu: Aprender Kimbundu, O infinitivo: ku-, com base em Chatelain (1889) — https://www.kimbundu.org/pt/learn/the-infinitive; Kikongo: Kia Kongo, Zola — https://www.kiakongo.com/zola/",
       "timestamp": "2026-11-02T00:00:00"
     },
     {
       "id": 48,
       "kimbundu_term": "Kulonga",
+      "kikongo_term": "longa",
       "portuguese_translation": "ensinar",
       "definition": "Ensinar; educar.",
       "alternative_meanings": [
@@ -747,7 +751,7 @@
       "grammatical_category": "verbo",
       "regional_variation": null,
       "verification_status": "unverified",
-      "source_reference": "Aprender Kimbundu, O infinitivo: ku-, com base em Chatelain (1889) — https://www.kimbundu.org/pt/learn/the-infinitive",
+      "source_reference": "Kimbundu: Aprender Kimbundu, O infinitivo: ku-, com base em Chatelain (1889) — https://www.kimbundu.org/pt/learn/the-infinitive; Kikongo: Kia Kongo, Regra Geral — https://www.kiakongo.com/aprender-kikongo/regra-geral-kikongo/",
       "timestamp": "2026-11-02T00:00:00"
     },
     {
@@ -768,6 +772,7 @@
     {
       "id": 50,
       "kimbundu_term": "Kutala",
+      "kikongo_term": "tala",
       "portuguese_translation": "olhar",
       "definition": "Verbo registado na unidade sobre as ordens: olhar.",
       "alternative_meanings": [],
@@ -775,12 +780,13 @@
       "grammatical_category": "verbo",
       "regional_variation": null,
       "verification_status": "unverified",
-      "source_reference": "Aprender Kimbundu, As ordens, com base em Chatelain (1889) — https://www.kimbundu.org/pt/learn/commands",
+      "source_reference": "Kimbundu: Aprender Kimbundu, As ordens, com base em Chatelain (1889) — https://www.kimbundu.org/pt/learn/commands; Kikongo: Kia Kongo, lista de verbos — https://www.kiakongo.com/lista-de-verbos-kikongo/",
       "timestamp": "2026-11-02T00:00:00"
     },
     {
       "id": 51,
       "kimbundu_term": "Kusota",
+      "kikongo_term": "sosa",
       "portuguese_translation": "procurar",
       "definition": "Verbo registado na unidade sobre as ordens: procurar.",
       "alternative_meanings": [],
@@ -788,12 +794,13 @@
       "grammatical_category": "verbo",
       "regional_variation": null,
       "verification_status": "unverified",
-      "source_reference": "Aprender Kimbundu, As ordens, com base em Chatelain (1889) — https://www.kimbundu.org/pt/learn/commands",
+      "source_reference": "Kimbundu: Aprender Kimbundu, As ordens, com base em Chatelain (1889) — https://www.kimbundu.org/pt/learn/commands; Kikongo: Kia Kongo, lista de verbos — https://www.kiakongo.com/lista-de-verbos-kikongo/",
       "timestamp": "2026-11-02T00:00:00"
     },
     {
       "id": 52,
       "kimbundu_term": "Kutuma",
+      "kikongo_term": "tuma",
       "portuguese_translation": "mandar",
       "definition": "Verbo registado na unidade sobre as ordens: mandar.",
       "alternative_meanings": [],
@@ -801,12 +808,13 @@
       "grammatical_category": "verbo",
       "regional_variation": null,
       "verification_status": "unverified",
-      "source_reference": "Aprender Kimbundu, As ordens, com base em Chatelain (1889) — https://www.kimbundu.org/pt/learn/commands",
+      "source_reference": "Kimbundu: Aprender Kimbundu, As ordens, com base em Chatelain (1889) — https://www.kimbundu.org/pt/learn/commands; Kikongo: Kia Kongo, pronomes prefixos e conjugações — https://www.kiakongo.com/os-pronomes-prefixos-em-conjugacoes/",
       "timestamp": "2026-11-02T00:00:00"
     },
     {
       "id": 53,
       "kimbundu_term": "Kubheka",
+      "kikongo_term": "nata",
       "portuguese_translation": "trazer",
       "definition": "Verbo registado na unidade sobre as ordens: trazer.",
       "alternative_meanings": [],
@@ -814,12 +822,13 @@
       "grammatical_category": "verbo",
       "regional_variation": null,
       "verification_status": "unverified",
-      "source_reference": "Aprender Kimbundu, As ordens, com base em Chatelain (1889) — https://www.kimbundu.org/pt/learn/commands",
+      "source_reference": "Kimbundu: Aprender Kimbundu, As ordens, com base em Chatelain (1889) — https://www.kimbundu.org/pt/learn/commands; Kikongo: Kia Kongo, lista de verbos — https://www.kiakongo.com/lista-de-verbos-kikongo/",
       "timestamp": "2026-11-02T00:00:00"
     },
     {
       "id": 54,
       "kimbundu_term": "Kufuta",
+      "kikongo_term": "futa",
       "portuguese_translation": "pagar",
       "definition": "Verbo registado na unidade sobre as ordens: pagar.",
       "alternative_meanings": [],
@@ -827,7 +836,7 @@
       "grammatical_category": "verbo",
       "regional_variation": null,
       "verification_status": "unverified",
-      "source_reference": "Aprender Kimbundu, As ordens, com base em Chatelain (1889) — https://www.kimbundu.org/pt/learn/commands",
+      "source_reference": "Kimbundu: Aprender Kimbundu, As ordens, com base em Chatelain (1889) — https://www.kimbundu.org/pt/learn/commands; Kikongo: Kia Kongo, lista de verbos — https://www.kiakongo.com/lista-de-verbos-kikongo/",
       "timestamp": "2026-11-02T00:00:00"
     },
     {
@@ -1203,6 +1212,7 @@
     {
       "id": 80,
       "kimbundu_term": "Kuanda",
+      "kikongo_term": "dia",
       "portuguese_translation": "comer",
       "definition": "Comer; tomar alimento. Também significa mastigar.",
       "alternative_meanings": [
@@ -1212,7 +1222,7 @@
       "grammatical_category": "verbo",
       "regional_variation": null,
       "verification_status": "unverified",
-      "source_reference": "Arquivo Kimbundu, Kuanda, Assis Júnior (anos 1940), p. 160 — https://www.kimbundu.org/en/word/kuanda",
+      "source_reference": "Kimbundu: Arquivo Kimbundu, Kuanda, Assis Júnior (anos 1940), p. 160 — https://www.kimbundu.org/en/word/kuanda; Kikongo: Kia Kongo, palavras e suas origens — https://www.kiakongo.com/aprender-kikongo/palavras-e-suas-origens/",
       "timestamp": "2026-11-02T00:00:00"
     },
     {
