@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1444,
+      "kimbundu_term": "Divúmu",
+      "portuguese_translation": "Infunação: bojo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, divúmu-1 — https://www.kimbundu.org/pt/word/divumu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1445,
+      "kimbundu_term": "Divúmu",
+      "portuguese_translation": "Prenhez",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, divúmu-1 — https://www.kimbundu.org/pt/word/divumu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1446,
+      "kimbundu_term": "Divúmu",
+      "portuguese_translation": "Volume",
+      "definition": null,
+      "alternative_meanings": [
+        "tufo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, divúmu-1 — https://www.kimbundu.org/pt/word/divumu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1447,
+      "kimbundu_term": "Divúmu",
+      "portuguese_translation": "secundinas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, divúmu-1 — https://www.kimbundu.org/pt/word/divumu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1448,
+      "kimbundu_term": "Divúnda",
+      "portuguese_translation": "Moita. Arbusto de ramagem espessa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, divúnda-1 — https://www.kimbundu.org/pt/word/divunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1449,
+      "kimbundu_term": "Divunga",
+      "portuguese_translation": "Casacão",
+      "definition": null,
+      "alternative_meanings": [
+        "capote. Abafador",
+        "sobretudo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, divunga-1 — https://www.kimbundu.org/pt/word/divunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1450,
+      "kimbundu_term": "Divunzu",
+      "portuguese_translation": "Turbação",
+      "definition": null,
+      "alternative_meanings": [
+        "balburdia",
+        "Agitação (de líquido). Fig. Confusão",
+        "desordem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, divunzu-1 — https://www.kimbundu.org/pt/word/divunzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1451,
+      "kimbundu_term": "Divuua",
+      "portuguese_translation": "Revés",
+      "definition": null,
+      "alternative_meanings": [
+        "infelicidade",
+        "desgraça"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, divuua-1 — https://www.kimbundu.org/pt/word/divuua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1452,
+      "kimbundu_term": "Divuua",
+      "portuguese_translation": "Kuta-, Infelicitar",
+      "definition": null,
+      "alternative_meanings": [
+        "desgraçar. Causar dano a"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, divuua-1 — https://www.kimbundu.org/pt/word/divuua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1453,
+      "kimbundu_term": "Dixá",
+      "portuguese_translation": "Opinião",
+      "definition": null,
+      "alternative_meanings": [
+        "parecer. Intervenção que se tem em conversa, discussão ou assunto. Voto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dixá-1 — https://www.kimbundu.org/pt/word/dixa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
