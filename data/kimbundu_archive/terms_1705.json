@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17154,
+      "kimbundu_term": "Musuamise",
+      "portuguese_translation": "Ocultante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musuamise-1 — https://www.kimbundu.org/pt/word/musuamise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17155,
+      "kimbundu_term": "Musuámu",
+      "portuguese_translation": "Esconço",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musuámu-1 — https://www.kimbundu.org/pt/word/musuamu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17156,
+      "kimbundu_term": "Musuámu",
+      "portuguese_translation": "Esconderijo",
+      "definition": null,
+      "alternative_meanings": [
+        "lugar oculto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musuámu-1 — https://www.kimbundu.org/pt/word/musuamu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17157,
+      "kimbundu_term": "Musuanu",
+      "portuguese_translation": "Pau que segura o laço da armadilha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musuanu-1 — https://www.kimbundu.org/pt/word/musuanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17158,
+      "kimbundu_term": "Musuanu",
+      "portuguese_translation": "Esparrela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musuanu-1 — https://www.kimbundu.org/pt/word/musuanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17159,
+      "kimbundu_term": "Musúdi",
+      "portuguese_translation": "Odreiro (Melhor seria o emprego do adj.: mubange a lsúri)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musúdi-1 — https://www.kimbundu.org/pt/word/musudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17160,
+      "kimbundu_term": "Musuéke",
+      "portuguese_translation": "Receptador. Que dá abrigo a fugitivos ou a criminosos. Que oculta ou esconde",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musuéke-1 — https://www.kimbundu.org/pt/word/musueke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17161,
+      "kimbundu_term": "Musuính'",
+      "portuguese_translation": "Naco",
+      "definition": null,
+      "alternative_meanings": [
+        "Pedaço de peixe ou carne sem osso",
+        "Polpa",
+        "tecido muscular dos animais"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musuính'-1 — https://www.kimbundu.org/pt/word/musuinh'",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17162,
+      "kimbundu_term": "Musuixu",
+      "portuguese_translation": "Bainha (de costura)",
+      "definition": null,
+      "alternative_meanings": [
+        "Orla",
+        "borda",
+        "fímbria",
+        "Limbo",
+        "Adorno na margem ou na extremidade do pano",
+        "Contorno"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musuixu-1 — https://www.kimbundu.org/pt/word/musuixu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17163,
+      "kimbundu_term": "Musúke",
+      "portuguese_translation": "Que enxota ou conduz o gado ao pasto",
+      "definition": null,
+      "alternative_meanings": [
+        "Afugentador",
+        "perseguidor"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musúke-1 — https://www.kimbundu.org/pt/word/musuke",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
