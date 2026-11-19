@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1164,
+      "kimbundu_term": "Dimi",
+      "portuguese_translation": "Língua",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dimi-1 — https://www.kimbundu.org/pt/word/dimi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1165,
+      "kimbundu_term": "Dimi",
+      "portuguese_translation": "Tradutor",
+      "definition": null,
+      "alternative_meanings": [
+        "intérprete"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dimi-1 — https://www.kimbundu.org/pt/word/dimi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1166,
+      "kimbundu_term": "Dimi",
+      "portuguese_translation": "adj. Maldizente",
+      "definition": null,
+      "alternative_meanings": [
+        "linguarudo",
+        "Delator"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dimi-1 — https://www.kimbundu.org/pt/word/dimi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1167,
+      "kimbundu_term": "Dimóte",
+      "portuguese_translation": "Beringela",
+      "definition": null,
+      "alternative_meanings": [
+        "seu fruto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dimóte-1 — https://www.kimbundu.org/pt/word/dimote",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1168,
+      "kimbundu_term": "Dimoxi",
+      "portuguese_translation": "Um",
+      "definition": null,
+      "alternative_meanings": [
+        "unidade"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dimoxi-1 — https://www.kimbundu.org/pt/word/dimoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1169,
+      "kimbundu_term": "Dimoxi",
+      "portuguese_translation": "Intrujice",
+      "definition": null,
+      "alternative_meanings": [
+        "engano"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dimoxi-1 — https://www.kimbundu.org/pt/word/dimoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1170,
+      "kimbundu_term": "Dimuémue",
+      "portuguese_translation": "Que sorri",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dimuémue-1 — https://www.kimbundu.org/pt/word/dimuemue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1171,
+      "kimbundu_term": "Dimuka",
+      "portuguese_translation": "Acautela-te! Desperta!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dimuka-1 — https://www.kimbundu.org/pt/word/dimuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1172,
+      "kimbundu_term": "Dimuka",
+      "portuguese_translation": "Pov. e sede do posto, circ. civ. de Ambaca, distr. e prov. de Luanda. 9.104 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dimuka-1 — https://www.kimbundu.org/pt/word/dimuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1173,
+      "kimbundu_term": "Dimúme",
+      "portuguese_translation": "Orvalho",
+      "definition": null,
+      "alternative_meanings": [
+        "mangra",
+        "geada",
+        "neblina",
+        "sereno"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dimúme-1 — https://www.kimbundu.org/pt/word/dimume",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
