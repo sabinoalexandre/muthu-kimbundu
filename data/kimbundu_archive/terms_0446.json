@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4564,
+      "kimbundu_term": "Kibengalale",
+      "portuguese_translation": "Que não está em linha reta. Torcido, torto. Inclinado, oblíquo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibengalale-1 — https://www.kimbundu.org/pt/word/kibengalale",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4565,
+      "kimbundu_term": "Kibengalale",
+      "portuguese_translation": "Defeito do que não está reto ou a prumo. O que se apresenta torto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibengalale-1 — https://www.kimbundu.org/pt/word/kibengalale",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4566,
+      "kimbundu_term": "Kibése",
+      "portuguese_translation": "Ajudante de pescador. Tripulante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibése-1 — https://www.kimbundu.org/pt/word/kibese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4567,
+      "kimbundu_term": "Kibéta",
+      "portuguese_translation": "Cada um dos filamentos que saem da raiz de uma planta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibéta-1 — https://www.kimbundu.org/pt/word/kibeta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4568,
+      "kimbundu_term": "Kíbetu",
+      "portuguese_translation": "Pancadaria",
+      "definition": null,
+      "alternative_meanings": [
+        "bordoada",
+        "lambada. Ofensa corporal com pauladas. Sova",
+        "zurzidela"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kíbetu-1 — https://www.kimbundu.org/pt/word/kibetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4569,
+      "kimbundu_term": "Kibétu",
+      "portuguese_translation": "Armadilha. Alçapão",
+      "definition": null,
+      "alternative_meanings": [
+        "Ratoeira. Laçada. Esparrela. fig. Emboscada",
+        "espera"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibétu-1 — https://www.kimbundu.org/pt/word/kibetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4570,
+      "kimbundu_term": "Kibexi",
+      "portuguese_translation": "Antiga pov. e sobado deste nome próximo do conc. de Calumbo, margem direita do rio Quanza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibexi-1 — https://www.kimbundu.org/pt/word/kibexi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4571,
+      "kimbundu_term": "Kibéze",
+      "portuguese_translation": "Digno de ser adorado. Que deleita ou encanta. Adorável. Que se tem amor, que se presta culto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibéze-1 — https://www.kimbundu.org/pt/word/kibeze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4572,
+      "kimbundu_term": "Kibéze",
+      "portuguese_translation": "Deprecado. Rogado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibéze-1 — https://www.kimbundu.org/pt/word/kibeze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4573,
+      "kimbundu_term": "Kibézu",
+      "portuguese_translation": "O que se adora. Pessoa a quem se roga. Ídolo, imagem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibézu-1 — https://www.kimbundu.org/pt/word/kibezu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
