@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10244,
+      "kimbundu_term": "Kuletuka",
+      "portuguese_translation": "Ser abelhudo, metediço, curioso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuletuka-1 — https://www.kimbundu.org/pt/word/kuletuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10245,
+      "kimbundu_term": "Kulevala",
+      "portuguese_translation": "Pedir dinheiro ou coisa emprestada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulevala-1 — https://www.kimbundu.org/pt/word/kulevala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10246,
+      "kimbundu_term": "Kulevala",
+      "portuguese_translation": "Comprar a crédito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulevala-1 — https://www.kimbundu.org/pt/word/kulevala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10247,
+      "kimbundu_term": "Kulevala",
+      "portuguese_translation": "Ficar a dever",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulevala-1 — https://www.kimbundu.org/pt/word/kulevala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10248,
+      "kimbundu_term": "Kulevalesa",
+      "portuguese_translation": "Fiar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulevalesa-1 — https://www.kimbundu.org/pt/word/kulevalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10249,
+      "kimbundu_term": "Kulevalesa",
+      "portuguese_translation": "Dar ou vender a crédito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulevalesa-1 — https://www.kimbundu.org/pt/word/kulevalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10250,
+      "kimbundu_term": "Kuleviala",
+      "portuguese_translation": "(português) Aliviar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuleviala-1 — https://www.kimbundu.org/pt/word/kuleviala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10251,
+      "kimbundu_term": "Kulóka",
+      "portuguese_translation": "Jurar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulóka-1 — https://www.kimbundu.org/pt/word/kuloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10252,
+      "kimbundu_term": "Kulóka",
+      "portuguese_translation": "Protestar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulóka-1 — https://www.kimbundu.org/pt/word/kuloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10253,
+      "kimbundu_term": "Kulóka",
+      "portuguese_translation": "Afirmar",
+      "definition": null,
+      "alternative_meanings": [
+        "asseverar categoricamente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulóka-1 — https://www.kimbundu.org/pt/word/kuloka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
