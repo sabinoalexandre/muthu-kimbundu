@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8844,
+      "kimbundu_term": "Kuidikiza",
+      "portuguese_translation": "Apresentar",
+      "definition": null,
+      "alternative_meanings": [
+        "exibir",
+        "Mostrar",
+        "pôr à vista"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuidikiza-1 — https://www.kimbundu.org/pt/word/kuidikiza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8845,
+      "kimbundu_term": "Kuiéia",
+      "portuguese_translation": "Entoar",
+      "definition": null,
+      "alternative_meanings": [
+        "cantar em coro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuiéia-1 — https://www.kimbundu.org/pt/word/kuieia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8846,
+      "kimbundu_term": "Kuiéia",
+      "portuguese_translation": "Entoamento",
+      "definition": null,
+      "alternative_meanings": [
+        "coro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuiéia-1 — https://www.kimbundu.org/pt/word/kuieia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8847,
+      "kimbundu_term": "Kuiéia",
+      "portuguese_translation": "Canto de muitas vozes reunidas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuiéia-1 — https://www.kimbundu.org/pt/word/kuieia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8848,
+      "kimbundu_term": "Kuieiesa",
+      "portuguese_translation": "Fazer entoar, cantar em coro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuieiesa-1 — https://www.kimbundu.org/pt/word/kuieiesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8849,
+      "kimbundu_term": "Kuieiesa",
+      "portuguese_translation": "Dirigir o canto de muitas vozes reunidas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuieiesa-1 — https://www.kimbundu.org/pt/word/kuieiesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8850,
+      "kimbundu_term": "Kuiji",
+      "portuguese_translation": "Um dos maiores afluentes da margem direita do rio Quanza, que banha as terras do Songo, Malange e Pungo-Andongo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuiji-1 — https://www.kimbundu.org/pt/word/kuiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8851,
+      "kimbundu_term": "Kuijia",
+      "portuguese_translation": "Saber",
+      "definition": null,
+      "alternative_meanings": [
+        "conhecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuijia-1 — https://www.kimbundu.org/pt/word/kuijia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8852,
+      "kimbundu_term": "Kuijia",
+      "portuguese_translation": "Ser experimentado",
+      "definition": null,
+      "alternative_meanings": [
+        "ter prática, ciência"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuijia-1 — https://www.kimbundu.org/pt/word/kuijia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8853,
+      "kimbundu_term": "Kuijia",
+      "portuguese_translation": "Ter certeza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuijia-1 — https://www.kimbundu.org/pt/word/kuijia",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
