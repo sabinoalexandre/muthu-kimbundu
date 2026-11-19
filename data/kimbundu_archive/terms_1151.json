@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11614,
+      "kimbundu_term": "Kusengéla",
+      "portuguese_translation": "Mercar por outrem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusengéla-1 — https://www.kimbundu.org/pt/word/kusengela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11615,
+      "kimbundu_term": "Kusengesa",
+      "portuguese_translation": "Descasar",
+      "definition": null,
+      "alternative_meanings": [
+        "divorciar",
+        "Fazer expulsar (a mulher) do lar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusengesa-1 — https://www.kimbundu.org/pt/word/kusengesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11616,
+      "kimbundu_term": "Kusengúla",
+      "portuguese_translation": "Povoar. Dispor (em algum terreno) de grande quantidade de vegetais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusengúla-1 — https://www.kimbundu.org/pt/word/kusengula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11617,
+      "kimbundu_term": "Kusengúla",
+      "portuguese_translation": "Kurisengula, v. r. Encher-se de habitantes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusengúla-1 — https://www.kimbundu.org/pt/word/kusengula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11618,
+      "kimbundu_term": "Kusenguluka",
+      "portuguese_translation": "Ficar desgraçado, empobrecido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusenguluka-1 — https://www.kimbundu.org/pt/word/kusenguluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11619,
+      "kimbundu_term": "Kusenguluka",
+      "portuguese_translation": "Revés",
+      "definition": null,
+      "alternative_meanings": [
+        "desgraça"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusenguluka-1 — https://www.kimbundu.org/pt/word/kusenguluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11620,
+      "kimbundu_term": "Kusenguluka",
+      "portuguese_translation": "Miséria",
+      "definition": null,
+      "alternative_meanings": [
+        "infortúnio"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusenguluka-1 — https://www.kimbundu.org/pt/word/kusenguluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11621,
+      "kimbundu_term": "Kusengulukisa",
+      "portuguese_translation": "Causar a desgraça de",
+      "definition": null,
+      "alternative_meanings": [
+        "deitar a perder"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusengulukisa-1 — https://www.kimbundu.org/pt/word/kusengulukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11622,
+      "kimbundu_term": "Kusengulula",
+      "portuguese_translation": "Desgraçar",
+      "definition": null,
+      "alternative_meanings": [
+        "reduzir à miséria"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusengulula-1 — https://www.kimbundu.org/pt/word/kusengulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11623,
+      "kimbundu_term": "Kusengulula",
+      "portuguese_translation": "Acabar de vez. (Diz-se do retirar da lavra os mantimentos depois da primeira colheita.)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusengulula-1 — https://www.kimbundu.org/pt/word/kusengulula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
