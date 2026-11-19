@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4834,
+      "kimbundu_term": "Kidifanganu",
+      "portuguese_translation": "Semelhança",
+      "definition": null,
+      "alternative_meanings": [
+        "parecença",
+        "analogia. Imagem",
+        "Representação de pessoa ou coisa",
+        "Figura",
+        "efígie"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidifanganu-1 — https://www.kimbundu.org/pt/word/kidifanganu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4835,
+      "kimbundu_term": "Kidifua",
+      "portuguese_translation": "Aparência",
+      "definition": null,
+      "alternative_meanings": [
+        "espécie",
+        "Qualidade",
+        "classe",
+        "índole",
+        "Aspeto",
+        "Feitio",
+        "configuração",
+        "forma",
+        "Modo",
+        "disposição",
+        "jeito",
+        "Catadura"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidifua-1 — https://www.kimbundu.org/pt/word/kidifua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4836,
+      "kimbundu_term": "Kidiiala",
+      "portuguese_translation": "Homenzarrão",
+      "definition": null,
+      "alternative_meanings": [
+        "Gigante"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidiiala-1 — https://www.kimbundu.org/pt/word/kidiiala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4837,
+      "kimbundu_term": "Kidiie",
+      "portuguese_translation": "Incúria",
+      "definition": null,
+      "alternative_meanings": [
+        "esquecimento",
+        "negligência"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidiie-1 — https://www.kimbundu.org/pt/word/kidiie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4838,
+      "kimbundu_term": "Kidiie",
+      "portuguese_translation": "Acrocómia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidiie-1 — https://www.kimbundu.org/pt/word/kidiie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4839,
+      "kimbundu_term": "Kidiie",
+      "portuguese_translation": "Mukua —, adj. Descuidado",
+      "definition": null,
+      "alternative_meanings": [
+        "negligente",
+        "esquecido"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidiie-1 — https://www.kimbundu.org/pt/word/kidiie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4840,
+      "kimbundu_term": "Kidiju",
+      "portuguese_translation": "Dentola",
+      "definition": null,
+      "alternative_meanings": [
+        "Dentuça",
+        "Pessoa que tem um dente grande"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidiju-1 — https://www.kimbundu.org/pt/word/kidiju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4841,
+      "kimbundu_term": "Kidiju",
+      "portuguese_translation": "Dentudo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidiju-1 — https://www.kimbundu.org/pt/word/kidiju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4842,
+      "kimbundu_term": "Kidikamba",
+      "portuguese_translation": "Amigalhaço",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidikamba-1 — https://www.kimbundu.org/pt/word/kidikamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4843,
+      "kimbundu_term": "Kidikamba",
+      "portuguese_translation": "Amigo por interesse",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidikamba-1 — https://www.kimbundu.org/pt/word/kidikamba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
