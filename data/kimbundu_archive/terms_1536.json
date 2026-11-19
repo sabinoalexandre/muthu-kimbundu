@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15464,
+      "kimbundu_term": "Mídila",
+      "portuguese_translation": "Medida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mídila-1 — https://www.kimbundu.org/pt/word/midila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15465,
+      "kimbundu_term": "Mídimá",
+      "portuguese_translation": "Limoal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mídimá-1 — https://www.kimbundu.org/pt/word/midima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15466,
+      "kimbundu_term": "Midisá",
+      "portuguese_translation": "Bago de chumbo (para caça). É mais usado no plural jimirisá",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, midisá-1 — https://www.kimbundu.org/pt/word/midisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15467,
+      "kimbundu_term": "Miénga",
+      "portuguese_translation": "Aprendizes (de caçadores). Noviços",
+      "definition": null,
+      "alternative_meanings": [
+        "iniciados (na arte de caçar)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, miénga-1 — https://www.kimbundu.org/pt/word/mienga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15468,
+      "kimbundu_term": "Miênge",
+      "portuguese_translation": "Quantidade de cana de açúcar. Canavial",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, miênge-1 — https://www.kimbundu.org/pt/word/mienge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15469,
+      "kimbundu_term": "Miengela",
+      "portuguese_translation": "Família de plantas rizoforáceas (siclnodendron africanus), que têm por tipo o rizóforo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, miengela-1 — https://www.kimbundu.org/pt/word/miengela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15470,
+      "kimbundu_term": "Miengeleka",
+      "portuguese_translation": "Grelos. Esparregado de folhas de abóbora",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, miengeleka-1 — https://www.kimbundu.org/pt/word/miengeleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15471,
+      "kimbundu_term": "Miényu",
+      "portuguese_translation": "Vidas",
+      "definition": null,
+      "alternative_meanings": [
+        "forças espirituais. Almas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, miényu-1 — https://www.kimbundu.org/pt/word/mienyu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15472,
+      "kimbundu_term": "Mifángu",
+      "portuguese_translation": "Família de plantas rizoforáceas (anisophyllea) próprias de regiões quentes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mifángu-1 — https://www.kimbundu.org/pt/word/mifangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15473,
+      "kimbundu_term": "Mifekuzu",
+      "portuguese_translation": "Ordem de plantas gutíferas, que têm por tipo a guteira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mifekuzu-1 — https://www.kimbundu.org/pt/word/mifekuzu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
