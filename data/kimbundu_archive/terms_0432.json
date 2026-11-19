@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4424,
+      "kimbundu_term": "Kí",
+      "portuguese_translation": "concord. dos sub., adj., pron. e adv. da III cl., etc",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, prefixo, concordância",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kí-4 — https://www.kimbundu.org/pt/word/ki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4425,
+      "kimbundu_term": "Kí",
+      "portuguese_translation": "demonstr. Aquele",
+      "definition": null,
+      "alternative_meanings": [
+        "aquela",
+        "aquilo"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, prefixo, concordância",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kí-4 — https://www.kimbundu.org/pt/word/ki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4426,
+      "kimbundu_term": "Kí",
+      "portuguese_translation": "Esse",
+      "definition": null,
+      "alternative_meanings": [
+        "essa",
+        "o",
+        "a"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, prefixo, concordância",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kí-4 — https://www.kimbundu.org/pt/word/ki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4427,
+      "kimbundu_term": "Ki kidi",
+      "portuguese_translation": "Não é verdade",
+      "definition": null,
+      "alternative_meanings": [
+        "Tb. se diz ki kiri' ê"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ki kidi-1 — https://www.kimbundu.org/pt/word/ki%20kidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4428,
+      "kimbundu_term": "Ki-kiene",
+      "portuguese_translation": "Não é assim",
+      "definition": null,
+      "alternative_meanings": [
+        "Não é isso",
+        "Tb. se diz ki kieni' ê"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ki-kiene-1 — https://www.kimbundu.org/pt/word/ki-kiene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4429,
+      "kimbundu_term": "Ki-ten'ê",
+      "portuguese_translation": "Impossível",
+      "definition": null,
+      "alternative_meanings": [
+        "impraticável"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ki-ten'ê-1 — https://www.kimbundu.org/pt/word/ki-ten'e",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4430,
+      "kimbundu_term": "Kia",
+      "portuguese_translation": "Empregado na 3.ª pessoa. Seus, suas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kia-1 — https://www.kimbundu.org/pt/word/kia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4431,
+      "kimbundu_term": "Kia",
+      "portuguese_translation": "De si",
+      "definition": null,
+      "alternative_meanings": [
+        "próprio"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kia-1 — https://www.kimbundu.org/pt/word/kia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4432,
+      "kimbundu_term": "Kia",
+      "portuguese_translation": "Preposição que une ao nome o seu complemento. De",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kia-2 — https://www.kimbundu.org/pt/word/kia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4433,
+      "kimbundu_term": "Kia",
+      "portuguese_translation": "Pronome relativo. Que",
+      "definition": null,
+      "alternative_meanings": [
+        "Quem",
+        "Cujo"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kia-3 — https://www.kimbundu.org/pt/word/kia",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
