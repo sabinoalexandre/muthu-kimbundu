@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15284,
+      "kimbundu_term": "Mbonja",
+      "portuguese_translation": "Líquido que jorra como espadana",
+      "definition": null,
+      "alternative_meanings": [
+        "o que sai ou se lança de uma vez"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbonja-1 — https://www.kimbundu.org/pt/word/mbonja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15285,
+      "kimbundu_term": "Mbonja",
+      "portuguese_translation": "Cauda (de cometa)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbonja-1 — https://www.kimbundu.org/pt/word/mbonja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15286,
+      "kimbundu_term": "Mbonzo",
+      "portuguese_translation": "Planta convolvulácea, mais conhecida por «batata-doce»",
+      "definition": null,
+      "alternative_meanings": [
+        "cará"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbonzo-1 — https://www.kimbundu.org/pt/word/mbonzo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15287,
+      "kimbundu_term": "Mbôsa",
+      "portuguese_translation": "Bosta (esterco de boi)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbôsa-1 — https://www.kimbundu.org/pt/word/mbosa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15288,
+      "kimbundu_term": "Mbotá",
+      "portuguese_translation": "Botão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbotá-1 — https://www.kimbundu.org/pt/word/mbota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15289,
+      "kimbundu_term": "Mbote",
+      "portuguese_translation": "Ausência de doença ou de mal-estar",
+      "definition": null,
+      "alternative_meanings": [
+        "saúde",
+        "estado sanitário",
+        "salvação",
+        "sanidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbote-1 — https://www.kimbundu.org/pt/word/mbote",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15290,
+      "kimbundu_term": "Mbote",
+      "portuguese_translation": "Bem-estar",
+      "definition": null,
+      "alternative_meanings": [
+        "o que é bom, lícito, recomendável",
+        "bem: kubanga o-ki kuviz'ê",
+        "bem que generosamente se faz a alguém",
+        "benefício",
+        "conveniência, utilidade, vantagem, interesse, proveito: ku a ku kala-iê",
+        "ganho, lucro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbote-1 — https://www.kimbundu.org/pt/word/mbote",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15291,
+      "kimbundu_term": "Mbote",
+      "portuguese_translation": "Homem bom",
+      "definition": null,
+      "alternative_meanings": [
+        "homem de bem",
+        "(fig.) mercê, favor, bondade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbote-1 — https://www.kimbundu.org/pt/word/mbote",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15292,
+      "kimbundu_term": "Mbote",
+      "portuguese_translation": "Bom (para a saúde)",
+      "definition": null,
+      "alternative_meanings": [
+        "saudável",
+        "que goza de boa saúde",
+        "salutar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbote-1 — https://www.kimbundu.org/pt/word/mbote",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15293,
+      "kimbundu_term": "Mbote",
+      "portuguese_translation": "Bondoso",
+      "definition": null,
+      "alternative_meanings": [
+        "que é como deve ser, ou que convém que seja",
+        "agradável à vista ou ao ouvido",
+        "bonito",
+        "digno de menção"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbote-1 — https://www.kimbundu.org/pt/word/mbote",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
