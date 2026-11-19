@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8734,
+      "kimbundu_term": "Kuhindingila",
+      "portuguese_translation": "Afan",
+      "definition": null,
+      "alternative_meanings": [
+        "ância"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhindingila-1 — https://www.kimbundu.org/pt/word/kuhindingila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8735,
+      "kimbundu_term": "Kuhindingila",
+      "portuguese_translation": "Kurihindingila, e r. Afadigar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "esforçar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhindingila-1 — https://www.kimbundu.org/pt/word/kuhindingila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8736,
+      "kimbundu_term": "Kuhinduka",
+      "portuguese_translation": "Ser ou estar visível",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhinduka-1 — https://www.kimbundu.org/pt/word/kuhinduka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8737,
+      "kimbundu_term": "Kuhindula",
+      "portuguese_translation": "Acordar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar visível"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhindula-1 — https://www.kimbundu.org/pt/word/kuhindula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8738,
+      "kimbundu_term": "Kuhindula",
+      "portuguese_translation": "Pôr à luz do dia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhindula-1 — https://www.kimbundu.org/pt/word/kuhindula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8739,
+      "kimbundu_term": "Kuhínga",
+      "portuguese_translation": "Invocar",
+      "definition": null,
+      "alternative_meanings": [
+        "jurar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhínga-1 — https://www.kimbundu.org/pt/word/kuhinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8740,
+      "kimbundu_term": "Kuhínga",
+      "portuguese_translation": "Guardar",
+      "definition": null,
+      "alternative_meanings": [
+        "acompanhar (outrem) para proteger"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhínga-1 — https://www.kimbundu.org/pt/word/kuhinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8741,
+      "kimbundu_term": "Kuhínga",
+      "portuguese_translation": "Invocação",
+      "definition": null,
+      "alternative_meanings": [
+        "juramento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhínga-1 — https://www.kimbundu.org/pt/word/kuhinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8742,
+      "kimbundu_term": "Kuhingila",
+      "portuguese_translation": "Representar na imaginação",
+      "definition": null,
+      "alternative_meanings": [
+        "trazer à lembrança"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhingila-1 — https://www.kimbundu.org/pt/word/kuhingila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8743,
+      "kimbundu_term": "Kuhingila",
+      "portuguese_translation": "Evocar",
+      "definition": null,
+      "alternative_meanings": [
+        "jurar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhingila-1 — https://www.kimbundu.org/pt/word/kuhingila",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
