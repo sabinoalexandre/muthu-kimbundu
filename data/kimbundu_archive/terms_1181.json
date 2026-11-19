@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11914,
+      "kimbundu_term": "Kusúna",
+      "portuguese_translation": "Ter cara de poucos amigos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusúna-1 — https://www.kimbundu.org/pt/word/kusuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11915,
+      "kimbundu_term": "Kusunajana",
+      "portuguese_translation": "Estrebuchar",
+      "definition": null,
+      "alternative_meanings": [
+        "debater-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusunajana-1 — https://www.kimbundu.org/pt/word/kusunajana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11916,
+      "kimbundu_term": "Kusunajana",
+      "portuguese_translation": "Estrebuchamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusunajana-1 — https://www.kimbundu.org/pt/word/kusunajana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11917,
+      "kimbundu_term": "Kusunana",
+      "portuguese_translation": "Cair em espasmo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusunana-1 — https://www.kimbundu.org/pt/word/kusunana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11918,
+      "kimbundu_term": "Kusunana",
+      "portuguese_translation": "Ter contrações espasmódicas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusunana-1 — https://www.kimbundu.org/pt/word/kusunana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11919,
+      "kimbundu_term": "Kusunanesa",
+      "portuguese_translation": "Espasmar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusunanesa-1 — https://www.kimbundu.org/pt/word/kusunanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11920,
+      "kimbundu_term": "Kusunata",
+      "portuguese_translation": "Ter proporções menores que as necessárias",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusunata-1 — https://www.kimbundu.org/pt/word/kusunata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11921,
+      "kimbundu_term": "Kusunata",
+      "portuguese_translation": "Estar acanhado, escasso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusunata-1 — https://www.kimbundu.org/pt/word/kusunata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11922,
+      "kimbundu_term": "Kusunatesa",
+      "portuguese_translation": "Acanhar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar escasso, curto"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusunatesa-1 — https://www.kimbundu.org/pt/word/kusunatesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11923,
+      "kimbundu_term": "Kusúnga",
+      "portuguese_translation": "Tirar",
+      "definition": null,
+      "alternative_meanings": [
+        "puxar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusúnga-1 — https://www.kimbundu.org/pt/word/kusunga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
