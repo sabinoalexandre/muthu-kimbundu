@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4594,
+      "kimbundu_term": "Kibhubhe",
+      "portuguese_translation": "(III) Que derrama",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibhubhe-1 — https://www.kimbundu.org/pt/word/kibhubhe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4595,
+      "kimbundu_term": "Kibhuka",
+      "portuguese_translation": "Caravana",
+      "definition": null,
+      "alternative_meanings": [
+        "cáfila",
+        "grupo",
+        "Magote",
+        "rancho",
+        "Turma"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibhuka-1 — https://www.kimbundu.org/pt/word/kibhuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4596,
+      "kimbundu_term": "Kibhukala",
+      "portuguese_translation": "Cada uma das partes ou camadas que constituem o tronco da bananeira",
+      "definition": null,
+      "alternative_meanings": [
+        "Também se chama kiába"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibhukala-1 — https://www.kimbundu.org/pt/word/kibhukala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4597,
+      "kimbundu_term": "Kibhwa",
+      "portuguese_translation": "Ato de cair",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibhwa-1 — https://www.kimbundu.org/pt/word/kibhwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4598,
+      "kimbundu_term": "Kibhwa",
+      "portuguese_translation": "Queda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibhwa-1 — https://www.kimbundu.org/pt/word/kibhwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4599,
+      "kimbundu_term": "Kibhwa",
+      "portuguese_translation": "Trambulhão",
+      "definition": null,
+      "alternative_meanings": [
+        "tombo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibhwa-1 — https://www.kimbundu.org/pt/word/kibhwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4600,
+      "kimbundu_term": "Kibi",
+      "portuguese_translation": "Contrariedade",
+      "definition": null,
+      "alternative_meanings": [
+        "Obstáculo",
+        "Impedimento, dificuldade",
+        "Índole ruim",
+        "Maldade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibi-1 — https://www.kimbundu.org/pt/word/kibi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4601,
+      "kimbundu_term": "Kibiáka",
+      "portuguese_translation": "Flatulência",
+      "definition": null,
+      "alternative_meanings": [
+        "Arroto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibiáka-1 — https://www.kimbundu.org/pt/word/kibiaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4602,
+      "kimbundu_term": "Kibiáka",
+      "portuguese_translation": "Lagarta felpuda das árvores",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibiáka-1 — https://www.kimbundu.org/pt/word/kibiaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4603,
+      "kimbundu_term": "Kibiaxi",
+      "portuguese_translation": "Escamas tênues que se criam no couro cabeludo",
+      "definition": null,
+      "alternative_meanings": [
+        "Pó que se cria na superfície da fruta seca. Grança",
+        "felpo",
+        "caspa miúda"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibiaxi-1 — https://www.kimbundu.org/pt/word/kibiaxi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
