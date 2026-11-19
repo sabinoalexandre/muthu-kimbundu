@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13554,
+      "kimbundu_term": "Kuzebula",
+      "portuguese_translation": "Apalermar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzebula-1 — https://www.kimbundu.org/pt/word/kuzebula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13555,
+      "kimbundu_term": "Kuzebuxa",
+      "portuguese_translation": "Ficar babado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzebuxa-1 — https://www.kimbundu.org/pt/word/kuzebuxa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13556,
+      "kimbundu_term": "Kuzebuxa",
+      "portuguese_translation": "Patarar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzebuxa-1 — https://www.kimbundu.org/pt/word/kuzebuxa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13557,
+      "kimbundu_term": "Kuzebuxa",
+      "portuguese_translation": "Estupefação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzebuxa-1 — https://www.kimbundu.org/pt/word/kuzebuxa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13558,
+      "kimbundu_term": "Kuzediua",
+      "portuguese_translation": "Ser ditoso, abençoado, feliz",
+      "definition": null,
+      "alternative_meanings": [
+        "ser fadado para o bem"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzediua-1 — https://www.kimbundu.org/pt/word/kuzediua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13559,
+      "kimbundu_term": "Kuzediua",
+      "portuguese_translation": "sub. Felicidade",
+      "definition": null,
+      "alternative_meanings": [
+        "ventura",
+        "sorte. Estado de pessoa feliz. Bom êxito"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzediua-1 — https://www.kimbundu.org/pt/word/kuzediua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13560,
+      "kimbundu_term": "Kuzediuisa",
+      "portuguese_translation": "Tornar feliz",
+      "definition": null,
+      "alternative_meanings": [
+        "dar ventura a. Fazer abençoar, ter sorte"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzediuisa-1 — https://www.kimbundu.org/pt/word/kuzediuisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13561,
+      "kimbundu_term": "Kuzéia",
+      "portuguese_translation": "Jardinar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzéia-1 — https://www.kimbundu.org/pt/word/kuzeia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13562,
+      "kimbundu_term": "Kuzéia",
+      "portuguese_translation": "Passear",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzéia-1 — https://www.kimbundu.org/pt/word/kuzeia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13563,
+      "kimbundu_term": "Kuzéka",
+      "portuguese_translation": "Arregaçar",
+      "definition": null,
+      "alternative_meanings": [
+        "fardar",
+        "Adornar (alguém) de vestes especiais"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzéka-1 — https://www.kimbundu.org/pt/word/kuzeka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
