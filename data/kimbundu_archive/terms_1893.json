@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19034,
+      "kimbundu_term": "Sonyi",
+      "portuguese_translation": "Pejo",
+      "definition": null,
+      "alternative_meanings": [
+        "pudor",
+        "vergonha",
+        "Lecôro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sonyi-1 — https://www.kimbundu.org/pt/word/sonyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19035,
+      "kimbundu_term": "Sonyi",
+      "portuguese_translation": "Ato indecoroso contra a moral",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sonyi-1 — https://www.kimbundu.org/pt/word/sonyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19036,
+      "kimbundu_term": "Sonyi",
+      "portuguese_translation": "As partes pudendas",
+      "definition": null,
+      "alternative_meanings": [
+        "rins"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sonyi-1 — https://www.kimbundu.org/pt/word/sonyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19037,
+      "kimbundu_term": "Sôrti",
+      "portuguese_translation": "Sorte",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sôrti-1 — https://www.kimbundu.org/pt/word/sorti",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19038,
+      "kimbundu_term": "Sôsa",
+      "portuguese_translation": "Dardo",
+      "definition": null,
+      "alternative_meanings": [
+        "chuço",
+        "Arma de arremesso em forma de lança"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sôsa-1 — https://www.kimbundu.org/pt/word/sosa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19039,
+      "kimbundu_term": "Soso",
+      "portuguese_translation": "Faísco",
+      "definition": null,
+      "alternative_meanings": [
+        "fona",
+        "Fagulha",
+        "É m us. no pl jisoso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, soso-1 — https://www.kimbundu.org/pt/word/soso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19040,
+      "kimbundu_term": "Sóte",
+      "portuguese_translation": "Encarne",
+      "definition": null,
+      "alternative_meanings": [
+        "cicatriz",
+        "Ato de criar carne"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sóte-1 — https://www.kimbundu.org/pt/word/sote",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19041,
+      "kimbundu_term": "Sóte",
+      "portuguese_translation": "adj. Encarnado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sóte-1 — https://www.kimbundu.org/pt/word/sote",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19042,
+      "kimbundu_term": "Sôxi",
+      "portuguese_translation": "Pequeno orifício",
+      "definition": null,
+      "alternative_meanings": [
+        "Broca",
+        "Diz-se dos orifícios que se notam em certos frutos ou plantas",
+        "muênge uâmi ng'a u fila xuima, — t a u zângu"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sôxi-1 — https://www.kimbundu.org/pt/word/soxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19043,
+      "kimbundu_term": "Sua",
+      "portuguese_translation": "Impassível",
+      "definition": null,
+      "alternative_meanings": [
+        "imperturbável",
+        "Diz-se da pessoa que, encontrada em falta, não se altera",
+        "Sereno",
+        "indiferente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sua-1 — https://www.kimbundu.org/pt/word/sua",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
