@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17174,
+      "kimbundu_term": "Músumbe",
+      "portuguese_translation": "Nascido ou vindo da região do Sumbe",
+      "definition": null,
+      "alternative_meanings": [
+        "Natural de Novo-Redondo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, músumbe-1 — https://www.kimbundu.org/pt/word/musumbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17175,
+      "kimbundu_term": "Músumbe",
+      "portuguese_translation": "Escravizado",
+      "definition": null,
+      "alternative_meanings": [
+        "sub. Homem que pode ser propriedade de outrem"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, músumbe-1 — https://www.kimbundu.org/pt/word/musumbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17176,
+      "kimbundu_term": "Musumbise",
+      "portuguese_translation": "Vendedor: — a ibz",
+      "definition": null,
+      "alternative_meanings": [
+        "Agente de vendas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musumbise-1 — https://www.kimbundu.org/pt/word/musumbise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17177,
+      "kimbundu_term": "Musúmi",
+      "portuguese_translation": "Sorteador",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Visionário",
+        "lunático"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musúmi-1 — https://www.kimbundu.org/pt/word/musumi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17178,
+      "kimbundu_term": "Músumu",
+      "portuguese_translation": "Presságio",
+      "definition": null,
+      "alternative_meanings": [
+        "agouro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, músumu-1 — https://www.kimbundu.org/pt/word/musumu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17179,
+      "kimbundu_term": "Músumu",
+      "portuguese_translation": "Pressagiar",
+      "definition": null,
+      "alternative_meanings": [
+        "vaticinar",
+        "fig. Maldizer"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, músumu-1 — https://www.kimbundu.org/pt/word/musumu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17180,
+      "kimbundu_term": "Musúna",
+      "portuguese_translation": "Planta rosácea scandente e aculeada (rubus pinatus), conhecida por «silva macho» ou «roseira canina», empregada no trata",
+      "definition": null,
+      "alternative_meanings": [
+        "Silveira",
+        "seu fruto (comestível)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musúna-1 — https://www.kimbundu.org/pt/word/musuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17181,
+      "kimbundu_term": "Musúnda",
+      "portuguese_translation": "Ato ou efeito contrário à ordem natural das coisas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musúnda-1 — https://www.kimbundu.org/pt/word/musunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17182,
+      "kimbundu_term": "Musúnda",
+      "portuguese_translation": "Agripa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musúnda-1 — https://www.kimbundu.org/pt/word/musunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17183,
+      "kimbundu_term": "Musúnda",
+      "portuguese_translation": "Inverso",
+      "definition": null,
+      "alternative_meanings": [
+        "contrário"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musúnda-1 — https://www.kimbundu.org/pt/word/musunda",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
