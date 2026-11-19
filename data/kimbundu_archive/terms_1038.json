@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10484,
+      "kimbundu_term": "Kulundúla",
+      "portuguese_translation": "Suceder por herança",
+      "definition": null,
+      "alternative_meanings": [
+        "receber por transmissão ou hereditariedade"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulundúla-1 — https://www.kimbundu.org/pt/word/kulundula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10485,
+      "kimbundu_term": "Kulundúla",
+      "portuguese_translation": "Herdamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulundúla-1 — https://www.kimbundu.org/pt/word/kulundula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10486,
+      "kimbundu_term": "Kulunduluka",
+      "portuguese_translation": "Ficar despejado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulunduluka-1 — https://www.kimbundu.org/pt/word/kulunduluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10487,
+      "kimbundu_term": "Kulunduluka",
+      "portuguese_translation": "Passar de um vaso para o outro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulunduluka-1 — https://www.kimbundu.org/pt/word/kulunduluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10488,
+      "kimbundu_term": "Kulunduluka",
+      "portuguese_translation": "Ficar trasladado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulunduluka-1 — https://www.kimbundu.org/pt/word/kulunduluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10489,
+      "kimbundu_term": "Kulundulula",
+      "portuguese_translation": "Trasfegar",
+      "definition": null,
+      "alternative_meanings": [
+        "despejar de todo. Transferir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulundulula-1 — https://www.kimbundu.org/pt/word/kulundulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10490,
+      "kimbundu_term": "Kulundulula",
+      "portuguese_translation": "Meter em outro saco ou vasilha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulundulula-1 — https://www.kimbundu.org/pt/word/kulundulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10491,
+      "kimbundu_term": "Kulundulula",
+      "portuguese_translation": "Esvaziar",
+      "definition": null,
+      "alternative_meanings": [
+        "espargir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulundulula-1 — https://www.kimbundu.org/pt/word/kulundulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10492,
+      "kimbundu_term": "Kulundumuisa",
+      "portuguese_translation": "Derrubar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer cair, vira-baixo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulundumuisa-1 — https://www.kimbundu.org/pt/word/kulundumuisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10493,
+      "kimbundu_term": "Kulundumuisa",
+      "portuguese_translation": "(Diz-se das cousas que caem pela má preparação ou negligência de). Tb. se dz kulundumukisa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulundumuisa-1 — https://www.kimbundu.org/pt/word/kulundumuisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
