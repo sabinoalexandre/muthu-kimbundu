@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7864,
+      "kimbundu_term": "Kubulakana",
+      "portuguese_translation": "Atender",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubulakana-1 — https://www.kimbundu.org/pt/word/kubulakana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7865,
+      "kimbundu_term": "Kubulakana",
+      "portuguese_translation": "Considerar",
+      "definition": null,
+      "alternative_meanings": [
+        "ouvir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubulakana-1 — https://www.kimbundu.org/pt/word/kubulakana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7866,
+      "kimbundu_term": "Kubulakana",
+      "portuguese_translation": "Ato de escutar, de atender",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubulakana-1 — https://www.kimbundu.org/pt/word/kubulakana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7867,
+      "kimbundu_term": "Kubulala",
+      "portuguese_translation": "Estar muito aberto, muito largo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubulala-1 — https://www.kimbundu.org/pt/word/kubulala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7868,
+      "kimbundu_term": "Kubulala",
+      "portuguese_translation": "Ter grande largura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubulala-1 — https://www.kimbundu.org/pt/word/kubulala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7869,
+      "kimbundu_term": "Kubuláta",
+      "portuguese_translation": "Pegar com violência qualquer membro dorido (ferida, inchaço, entorse, etc.)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuláta-1 — https://www.kimbundu.org/pt/word/kubulata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7870,
+      "kimbundu_term": "Kubuláta",
+      "portuguese_translation": "Magoar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer doer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuláta-1 — https://www.kimbundu.org/pt/word/kubulata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7871,
+      "kimbundu_term": "Kubuláta",
+      "portuguese_translation": "Kuribulata, v. r. Magoar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuláta-1 — https://www.kimbundu.org/pt/word/kubulata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7872,
+      "kimbundu_term": "Kubuliluka",
+      "portuguese_translation": "Perder a fé, o fervor, o entusiasmo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuliluka-1 — https://www.kimbundu.org/pt/word/kubuliluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7873,
+      "kimbundu_term": "Kubuliluka",
+      "portuguese_translation": "Diminuir, baixar de nível",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuliluka-1 — https://www.kimbundu.org/pt/word/kubuliluka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
