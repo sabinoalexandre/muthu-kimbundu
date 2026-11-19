@@ -1,0 +1,173 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15164,
+      "kimbundu_term": "Mbe",
+      "portuguese_translation": "Conjunção que designa posição: mas",
+      "definition": null,
+      "alternative_meanings": [
+        "ora",
+        "no caso de",
+        "logo",
+        "se",
+        "dando-se a circunstância de",
+        "por isso",
+        "se acaso, em vista disso, se porventura",
+        "por consequência",
+        "pois",
+        "' ', ainda que, mesmo que"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbe-1 — https://www.kimbundu.org/pt/word/mbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15165,
+      "kimbundu_term": "Mbe",
+      "portuguese_translation": "No caso de",
+      "definition": null,
+      "alternative_meanings": [
+        "Logo",
+        "Se",
+        "Dando-se a circunstância de",
+        "Por isso",
+        "Se acaso",
+        "em vista disso",
+        "se porventura",
+        "Por consequência",
+        "Pois",
+        "Nê —, ainda que",
+        "mesmo que"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbe-1 — https://www.kimbundu.org/pt/word/mbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15166,
+      "kimbundu_term": "Mbébu",
+      "portuguese_translation": "Portanto",
+      "definition": null,
+      "alternative_meanings": [
+        "por conseguinte",
+        "logo",
+        "desta maneira, assim",
+        "por isso, em vista disso"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbébu-1 — https://www.kimbundu.org/pt/word/mbebu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15167,
+      "kimbundu_term": "Mbébu",
+      "portuguese_translation": "Isto é",
+      "definition": null,
+      "alternative_meanings": [
+        "quer dizer",
+        "a saber"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbébu-1 — https://www.kimbundu.org/pt/word/mbebu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15168,
+      "kimbundu_term": "Mbébu",
+      "portuguese_translation": "Para que",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "conjunção, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbébu-1 — https://www.kimbundu.org/pt/word/mbebu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15169,
+      "kimbundu_term": "Mbeji",
+      "portuguese_translation": "O satélite da Terra",
+      "definition": null,
+      "alternative_meanings": [
+        "Lua"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbeji-1 — https://www.kimbundu.org/pt/word/mbeji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15170,
+      "kimbundu_term": "Mbeji",
+      "portuguese_translation": "Mês",
+      "definition": null,
+      "alternative_meanings": [
+        "espaço durante o qual a lua faz a sua revolução em torno da Terra",
+        "tempo compreendido entre dois novilúnios"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbeji-1 — https://www.kimbundu.org/pt/word/mbeji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15171,
+      "kimbundu_term": "Mbeji",
+      "portuguese_translation": "Lua nova",
+      "definition": null,
+      "alternative_meanings": [
+        "a lua em conjunção com o sol"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbeji-1 — https://www.kimbundu.org/pt/word/mbeji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15172,
+      "kimbundu_term": "Mbeji",
+      "portuguese_translation": "Lua cheia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbeji-1 — https://www.kimbundu.org/pt/word/mbeji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15173,
+      "kimbundu_term": "Mbeji",
+      "portuguese_translation": "Quarto minguante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbeji-1 — https://www.kimbundu.org/pt/word/mbeji",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
