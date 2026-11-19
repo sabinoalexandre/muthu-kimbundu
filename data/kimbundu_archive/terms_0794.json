@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8044,
+      "kimbundu_term": "Kudiahula",
+      "portuguese_translation": "Substituir-se, render-se mutuamente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudiahula-1 — https://www.kimbundu.org/pt/word/kudiahula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8045,
+      "kimbundu_term": "Kudiakala",
+      "portuguese_translation": "Dialogar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudiakala-1 — https://www.kimbundu.org/pt/word/kudiakala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8046,
+      "kimbundu_term": "Kudiakala",
+      "portuguese_translation": "Conversar (entre duas ou mais pessoas)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudiakala-1 — https://www.kimbundu.org/pt/word/kudiakala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8047,
+      "kimbundu_term": "Kudiakala",
+      "portuguese_translation": "Namorar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudiakala-1 — https://www.kimbundu.org/pt/word/kudiakala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8048,
+      "kimbundu_term": "Kudiambesa",
+      "portuguese_translation": "Dar lugar a censura",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer que se diga mal"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudiambesa-1 — https://www.kimbundu.org/pt/word/kudiambesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8049,
+      "kimbundu_term": "Kudiambula",
+      "portuguese_translation": "Separar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "desagregar-se",
+        "desunir-se",
+        "Cessar de viver em comum"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudiambula-1 — https://www.kimbundu.org/pt/word/kudiambula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8050,
+      "kimbundu_term": "Kudíanga",
+      "portuguese_translation": "Ir adiante",
+      "definition": null,
+      "alternative_meanings": [
+        "ser dianteiro",
+        "ter avanço"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudíanga-1 — https://www.kimbundu.org/pt/word/kudianga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8051,
+      "kimbundu_term": "Kudíanga",
+      "portuguese_translation": "Ter vantagem sobre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudíanga-1 — https://www.kimbundu.org/pt/word/kudianga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8052,
+      "kimbundu_term": "Kudiangeka",
+      "portuguese_translation": "Primar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudiangeka-1 — https://www.kimbundu.org/pt/word/kudiangeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8053,
+      "kimbundu_term": "Kudiangeka",
+      "portuguese_translation": "Preparar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "dispor-se com antecedência"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudiangeka-1 — https://www.kimbundu.org/pt/word/kudiangeka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
