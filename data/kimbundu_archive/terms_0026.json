@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 364,
+      "kimbundu_term": "Balánga",
+      "portuguese_translation": "Aventura",
+      "definition": null,
+      "alternative_meanings": [
+        "pelourinho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, balánga-1 — https://www.kimbundu.org/pt/word/balanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 365,
+      "kimbundu_term": "Balánga",
+      "portuguese_translation": "Que se aventura ou vive de aventuras",
+      "definition": null,
+      "alternative_meanings": [
+        "aventureiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, balánga-1 — https://www.kimbundu.org/pt/word/balanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 366,
+      "kimbundu_term": "Bâma",
+      "portuguese_translation": "Veja-se buâma",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bâma-1 — https://www.kimbundu.org/pt/word/bama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 367,
+      "kimbundu_term": "Bânda",
+      "portuguese_translation": "Sobe! Avante! Continua!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bânda-1 — https://www.kimbundu.org/pt/word/banda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 368,
+      "kimbundu_term": "Bande",
+      "portuguese_translation": "Subido",
+      "definition": null,
+      "alternative_meanings": [
+        "alto",
+        "elevado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bande-1 — https://www.kimbundu.org/pt/word/bande",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 369,
+      "kimbundu_term": "Bandeke",
+      "portuguese_translation": "Acrescentado",
+      "definition": null,
+      "alternative_meanings": [
+        "emparelhado",
+        "ajuntado",
+        "unido"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bandeke-1 — https://www.kimbundu.org/pt/word/bandeke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 370,
+      "kimbundu_term": "Bându",
+      "portuguese_translation": "Incisor",
+      "definition": null,
+      "alternative_meanings": [
+        "apartador",
+        "que separa",
+        "que faz incisões"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bându-1 — https://www.kimbundu.org/pt/word/bandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 371,
+      "kimbundu_term": "Bântu",
+      "portuguese_translation": "Pessoas",
+      "definition": null,
+      "alternative_meanings": [
+        "homens",
+        "gente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bântu-1 — https://www.kimbundu.org/pt/word/bantu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 372,
+      "kimbundu_term": "Banze",
+      "portuguese_translation": "Imaginado. Refletido. Pensado. Premeditado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, banze-1 — https://www.kimbundu.org/pt/word/banze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 373,
+      "kimbundu_term": "Batu",
+      "portuguese_translation": "Planta de propriedades medicinais em casos de parto (na Catumbela)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, batu-1 — https://www.kimbundu.org/pt/word/batu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
