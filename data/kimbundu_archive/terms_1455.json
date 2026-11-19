@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14654,
+      "kimbundu_term": "Makunde",
+      "portuguese_translation": "Pov. e sede do posto deste (tb conhecido por N.-makunde), cr. civ. do Baixo Cunene, distr. e prov. da Huíla, 5 855 hab.",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makunde-1 — https://www.kimbundu.org/pt/word/makunde",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14655,
+      "kimbundu_term": "Makungu",
+      "portuguese_translation": "Covoada",
+      "definition": null,
+      "alternative_meanings": [
+        "série de buracos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makungu-1 — https://www.kimbundu.org/pt/word/makungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14656,
+      "kimbundu_term": "Mákunji",
+      "portuguese_translation": "Conjunto de folhas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mákunji-1 — https://www.kimbundu.org/pt/word/makunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14657,
+      "kimbundu_term": "Mákunji",
+      "portuguese_translation": "Pancadas dadas com chicote de cavalo-marinho. Chicotadas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mákunji-1 — https://www.kimbundu.org/pt/word/makunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14658,
+      "kimbundu_term": "Makunwa",
+      "portuguese_translation": "Bebidas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makunwa-1 — https://www.kimbundu.org/pt/word/makunwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14659,
+      "kimbundu_term": "Makunwa",
+      "portuguese_translation": "Bebedeiras",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makunwa-1 — https://www.kimbundu.org/pt/word/makunwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14660,
+      "kimbundu_term": "Makusokana",
+      "portuguese_translation": "Hábitos de marido e mulher",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makusokana-1 — https://www.kimbundu.org/pt/word/makusokana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14661,
+      "kimbundu_term": "Makusokana",
+      "portuguese_translation": "Lares",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makusokana-1 — https://www.kimbundu.org/pt/word/makusokana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14662,
+      "kimbundu_term": "Mákutu",
+      "portuguese_translation": "Buchos",
+      "definition": null,
+      "alternative_meanings": [
+        "estômagos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mákutu-1 — https://www.kimbundu.org/pt/word/makutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14663,
+      "kimbundu_term": "Mákutu",
+      "portuguese_translation": "Falsidades",
+      "definition": null,
+      "alternative_meanings": [
+        "mentiras"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mákutu-1 — https://www.kimbundu.org/pt/word/makutu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
