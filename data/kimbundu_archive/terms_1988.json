@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19984,
+      "kimbundu_term": "Uzokelu",
+      "portuguese_translation": "Maneira de barulhar. Forma de questionar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uzokelu-1 — https://www.kimbundu.org/pt/word/uzokelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19985,
+      "kimbundu_term": "Uzuikilu",
+      "portuguese_translation": "Maneira de amolar navalhas. Forma de enfarpelar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uzuikilu-1 — https://www.kimbundu.org/pt/word/uzuikilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19986,
+      "kimbundu_term": "Uzwelelu",
+      "portuguese_translation": "Dicção",
+      "definition": null,
+      "alternative_meanings": [
+        "estilo",
+        "linguagem. Forma de se expressar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, uzwelelu-1 — https://www.kimbundu.org/pt/word/uzwelelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19987,
+      "kimbundu_term": "Valameiu",
+      "portuguese_translation": "Qualidade de rola de olhos vermelhos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, valameiu-1 — https://www.kimbundu.org/pt/word/valameiu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19988,
+      "kimbundu_term": "Valolo",
+      "portuguese_translation": "Valor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, valolo-1 — https://www.kimbundu.org/pt/word/valolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19989,
+      "kimbundu_term": "Vanza",
+      "portuguese_translation": "Nome por que no Maiombe é conhecida a sicupira, do Brasil. Árvore da família das leguminosas (Pentaclethra macrophylla),",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, vanza-1 — https://www.kimbundu.org/pt/word/vanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19990,
+      "kimbundu_term": "Vapolo",
+      "portuguese_translation": "Vapor",
+      "definition": null,
+      "alternative_meanings": [
+        "navio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, vapolo-1 — https://www.kimbundu.org/pt/word/vapolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19991,
+      "kimbundu_term": "Veia",
+      "portuguese_translation": "Velha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, veia-1 — https://www.kimbundu.org/pt/word/veia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19992,
+      "kimbundu_term": "Vélu",
+      "portuguese_translation": "Velho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, vélu-1 — https://www.kimbundu.org/pt/word/velu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19993,
+      "kimbundu_term": "Vêmbu",
+      "portuguese_translation": "Vergado (de pernas)",
+      "definition": null,
+      "alternative_meanings": [
+        "cambado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, vêmbu-1 — https://www.kimbundu.org/pt/word/vembu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
