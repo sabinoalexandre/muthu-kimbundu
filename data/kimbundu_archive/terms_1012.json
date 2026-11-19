@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10224,
+      "kimbundu_term": "Kulenguluka",
+      "portuguese_translation": "Andar depressa",
+      "definition": null,
+      "alternative_meanings": [
+        "urgir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulenguluka-1 — https://www.kimbundu.org/pt/word/kulenguluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10225,
+      "kimbundu_term": "Kulenguluka",
+      "portuguese_translation": "Ser ligeiro, ágil, presto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulenguluka-1 — https://www.kimbundu.org/pt/word/kulenguluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10226,
+      "kimbundu_term": "Kulenguluka",
+      "portuguese_translation": "Rapidez",
+      "definition": null,
+      "alternative_meanings": [
+        "celeridade"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulenguluka-1 — https://www.kimbundu.org/pt/word/kulenguluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10227,
+      "kimbundu_term": "Kulengulukisa",
+      "portuguese_translation": "Apressar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer urgir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulengulukisa-1 — https://www.kimbundu.org/pt/word/kulengulukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10228,
+      "kimbundu_term": "Kulengulula",
+      "portuguese_translation": "Apressurar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar ligeiro, breve, menos demorado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulengulula-1 — https://www.kimbundu.org/pt/word/kulengulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10229,
+      "kimbundu_term": "Kulengulula",
+      "portuguese_translation": "Apoucar",
+      "definition": null,
+      "alternative_meanings": [
+        "amesquinhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulengulula-1 — https://www.kimbundu.org/pt/word/kulengulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10230,
+      "kimbundu_term": "Kulengulula",
+      "portuguese_translation": "Kurilengulula, v. r. Amesquinhar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "apoucar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulengulula-1 — https://www.kimbundu.org/pt/word/kulengulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10231,
+      "kimbundu_term": "Kulengulula",
+      "portuguese_translation": "Apressar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulengulula-1 — https://www.kimbundu.org/pt/word/kulengulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10232,
+      "kimbundu_term": "Kúlesa",
+      "portuguese_translation": "Lamber (com a língua)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlesa-1 — https://www.kimbundu.org/pt/word/kulesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10233,
+      "kimbundu_term": "Kúlesa",
+      "portuguese_translation": "Adular",
+      "definition": null,
+      "alternative_meanings": [
+        "lisonjear vilmente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlesa-1 — https://www.kimbundu.org/pt/word/kulesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
