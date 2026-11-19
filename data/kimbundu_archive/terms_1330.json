@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13404,
+      "kimbundu_term": "Kuxumukisa",
+      "portuguese_translation": "Fazer entornar, transbordar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxumukisa-1 — https://www.kimbundu.org/pt/word/kuxumukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13405,
+      "kimbundu_term": "Kuxuxuluka",
+      "portuguese_translation": "Sair às escondidas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxuxuluka-1 — https://www.kimbundu.org/pt/word/kuxuxuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13406,
+      "kimbundu_term": "Kuxuxuluka",
+      "portuguese_translation": "Esgueirar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "sumir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxuxuluka-1 — https://www.kimbundu.org/pt/word/kuxuxuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13407,
+      "kimbundu_term": "Kuxuxulukuta",
+      "portuguese_translation": "Ser de caráter adstringitivo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxuxulukuta-1 — https://www.kimbundu.org/pt/word/kuxuxulukuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13408,
+      "kimbundu_term": "Kuxuxulukuta",
+      "portuguese_translation": "Diz-se das substâncias que, como a caoutchouc, se não deixam escorregar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxuxulukuta-1 — https://www.kimbundu.org/pt/word/kuxuxulukuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13409,
+      "kimbundu_term": "Kuxuxulukuta",
+      "portuguese_translation": "Adstringência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxuxulukuta-1 — https://www.kimbundu.org/pt/word/kuxuxulukuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13410,
+      "kimbundu_term": "Kuxuxulukutisa",
+      "portuguese_translation": "Adstringir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxuxulukutisa-1 — https://www.kimbundu.org/pt/word/kuxuxulukutisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13411,
+      "kimbundu_term": "Kuxuxulula",
+      "portuguese_translation": "Acalentar",
+      "definition": null,
+      "alternative_meanings": [
+        "abrandar com fricções. Acariciar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxuxulula-1 — https://www.kimbundu.org/pt/word/kuxuxulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13412,
+      "kimbundu_term": "Kuya",
+      "portuguese_translation": "Ir",
+      "definition": null,
+      "alternative_meanings": [
+        "seguir",
+        "partir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuya-1 — https://www.kimbundu.org/pt/word/kuya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13413,
+      "kimbundu_term": "Kuyuka",
+      "portuguese_translation": "Estar ou ficar direito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuyuka-1 — https://www.kimbundu.org/pt/word/kuyuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
