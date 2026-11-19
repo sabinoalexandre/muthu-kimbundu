@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6294,
+      "kimbundu_term": "Kitadi",
+      "portuguese_translation": "os financeiros",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitadi-1 — https://www.kimbundu.org/pt/word/kitadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6295,
+      "kimbundu_term": "Kitáka",
+      "portuguese_translation": "Pomar",
+      "definition": null,
+      "alternative_meanings": [
+        "quintal",
+        "horta. Terreno vedado junto à casa de habitação"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitáka-1 — https://www.kimbundu.org/pt/word/kitaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6296,
+      "kimbundu_term": "Kitakala",
+      "portuguese_translation": "Bornal. Artefacto com tampa que se traz à tiracolo. Cesto achatado em que os caçadores levam provisões",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitakala-1 — https://www.kimbundu.org/pt/word/kitakala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6297,
+      "kimbundu_term": "Kitalalese",
+      "portuguese_translation": "Que refresca",
+      "definition": null,
+      "alternative_meanings": [
+        "resfriador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitalalese-1 — https://www.kimbundu.org/pt/word/kitalalese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6298,
+      "kimbundu_term": "Kitalalese",
+      "portuguese_translation": "Lugar ou utensílio que faz resfriar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitalalese-1 — https://www.kimbundu.org/pt/word/kitalalese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6299,
+      "kimbundu_term": "Kitalamu",
+      "portuguese_translation": "Estátua. O que se mantém em altura. Pessoa sem ação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitalamu-1 — https://www.kimbundu.org/pt/word/kitalamu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6300,
+      "kimbundu_term": "Kitalangulu",
+      "portuguese_translation": "Corvo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitalangulu-1 — https://www.kimbundu.org/pt/word/kitalangulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6301,
+      "kimbundu_term": "Kitalelu",
+      "portuguese_translation": "Lupa",
+      "definition": null,
+      "alternative_meanings": [
+        "lente",
+        "óculo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitalelu-1 — https://www.kimbundu.org/pt/word/kitalelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6302,
+      "kimbundu_term": "Kitalelu",
+      "portuguese_translation": "Vigia",
+      "definition": null,
+      "alternative_meanings": [
+        "orifício por onde se espreita"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitalelu-1 — https://www.kimbundu.org/pt/word/kitalelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6303,
+      "kimbundu_term": "Kitálu",
+      "portuguese_translation": "Invólucro duro de certos frutos. Diz-se da casca do fruto do imbondeiro, da noz, da castanha, etc",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitálu-1 — https://www.kimbundu.org/pt/word/kitalu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
