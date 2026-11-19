@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10834,
+      "kimbundu_term": "Kunenena",
+      "portuguese_translation": "Kurinenena, v. r. Borrar-se (com excremento)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunenena-1 — https://www.kimbundu.org/pt/word/kunenena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10835,
+      "kimbundu_term": "Kunenena",
+      "portuguese_translation": "Sujar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunenena-1 — https://www.kimbundu.org/pt/word/kunenena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10836,
+      "kimbundu_term": "Kunenena",
+      "portuguese_translation": "Sair-se mal",
+      "definition": null,
+      "alternative_meanings": [
+        "comprometer-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunenena-1 — https://www.kimbundu.org/pt/word/kunenena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10837,
+      "kimbundu_term": "Kunenesa",
+      "portuguese_translation": "Fazer excretar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunenesa-1 — https://www.kimbundu.org/pt/word/kunenesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10838,
+      "kimbundu_term": "Kunengana",
+      "portuguese_translation": "Ser maleável, de fácil manejo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunengana-1 — https://www.kimbundu.org/pt/word/kunengana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10839,
+      "kimbundu_term": "Kunengana",
+      "portuguese_translation": "Ser flexível",
+      "definition": null,
+      "alternative_meanings": [
+        "ficar amolentado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunengana-1 — https://www.kimbundu.org/pt/word/kunengana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10840,
+      "kimbundu_term": "Kunengana",
+      "portuguese_translation": "Molificação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunengana-2 — https://www.kimbundu.org/pt/word/kunengana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10841,
+      "kimbundu_term": "Kunenganana",
+      "portuguese_translation": "Molificar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunenganana-1 — https://www.kimbundu.org/pt/word/kunenganana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10842,
+      "kimbundu_term": "Kunenganana",
+      "portuguese_translation": "Ficar menos duro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunenganana-1 — https://www.kimbundu.org/pt/word/kunenganana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10843,
+      "kimbundu_term": "Kunenganesa",
+      "portuguese_translation": "Emolir",
+      "definition": null,
+      "alternative_meanings": [
+        "desfazer a dureza de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunenganesa-1 — https://www.kimbundu.org/pt/word/kunenganesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
