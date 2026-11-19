@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9564,
+      "kimbundu_term": "Kukombola",
+      "portuguese_translation": "Angariar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukombola-1 — https://www.kimbundu.org/pt/word/kukombola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9565,
+      "kimbundu_term": "Kukombola",
+      "portuguese_translation": "Grangear",
+      "definition": null,
+      "alternative_meanings": [
+        "seduzir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukombola-1 — https://www.kimbundu.org/pt/word/kukombola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9566,
+      "kimbundu_term": "Kukombola",
+      "portuguese_translation": "Copular",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukombola-2 — https://www.kimbundu.org/pt/word/kukombola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9567,
+      "kimbundu_term": "Kukombola",
+      "portuguese_translation": "Kurikombola, v. r. Prejudicar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "ficar mal visto"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukombola-2 — https://www.kimbundu.org/pt/word/kukombola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9568,
+      "kimbundu_term": "Kukomona",
+      "portuguese_translation": "Limpar com o dedo (os restos da comida)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukomona-1 — https://www.kimbundu.org/pt/word/kukomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9569,
+      "kimbundu_term": "Kukomona",
+      "portuguese_translation": "Lamber",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukomona-1 — https://www.kimbundu.org/pt/word/kukomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9570,
+      "kimbundu_term": "Kukomonona",
+      "portuguese_translation": "Varrer com o dedo muitas vezes",
+      "definition": null,
+      "alternative_meanings": [
+        "Passar a língua pelos dentes",
+        "Kurikomonona, v. r. Limpar com a língua os restos de comida na boca",
+        "Passar o dedo entre os dentes",
+        "Lamber-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukomonona-1 — https://www.kimbundu.org/pt/word/kukomonona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9571,
+      "kimbundu_term": "Kukonana",
+      "portuguese_translation": "Estar arqueado, curvado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukonana-1 — https://www.kimbundu.org/pt/word/kukonana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9572,
+      "kimbundu_term": "Kukonana",
+      "portuguese_translation": "Contração",
+      "definition": null,
+      "alternative_meanings": [
+        "curvatura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukonana-1 — https://www.kimbundu.org/pt/word/kukonana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9573,
+      "kimbundu_term": "Kukonanesa",
+      "portuguese_translation": "Arquear",
+      "definition": null,
+      "alternative_meanings": [
+        "dobrar",
+        "Fazer ter a forma de linha curva"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukonanesa-1 — https://www.kimbundu.org/pt/word/kukonanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
