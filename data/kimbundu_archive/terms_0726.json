@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7364,
+      "kimbundu_term": "Kubhanduluka",
+      "portuguese_translation": "Receber benefício",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhanduluka-1 — https://www.kimbundu.org/pt/word/kubhanduluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7365,
+      "kimbundu_term": "Kubhanduluka",
+      "portuguese_translation": "Obter com que atender às suas necessidades",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhanduluka-1 — https://www.kimbundu.org/pt/word/kubhanduluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7366,
+      "kimbundu_term": "Kubhandulula",
+      "portuguese_translation": "Apaziguar",
+      "definition": null,
+      "alternative_meanings": [
+        "separar contendores",
+        "demover"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhandulula-1 — https://www.kimbundu.org/pt/word/kubhandulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7367,
+      "kimbundu_term": "Kubhandulula",
+      "portuguese_translation": "Remediar",
+      "definition": null,
+      "alternative_meanings": [
+        "beneficiar",
+        "socorrer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhandulula-1 — https://www.kimbundu.org/pt/word/kubhandulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7368,
+      "kimbundu_term": "Kubhandulula",
+      "portuguese_translation": "Acomodar",
+      "definition": null,
+      "alternative_meanings": [
+        "pacificar",
+        "acudir. sub. Apaziguamento",
+        "benefício"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhandulula-1 — https://www.kimbundu.org/pt/word/kubhandulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7369,
+      "kimbundu_term": "Kubhandulula",
+      "portuguese_translation": "Kuribandulúla, e r. Dar-se remédio, auxílio mútuo",
+      "definition": null,
+      "alternative_meanings": [
+        "Acomodar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhandulula-1 — https://www.kimbundu.org/pt/word/kubhandulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7370,
+      "kimbundu_term": "Kubhangela",
+      "portuguese_translation": "Fabricar, obrar devido a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhangela-1 — https://www.kimbundu.org/pt/word/kubhangela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7371,
+      "kimbundu_term": "Kubhangela",
+      "portuguese_translation": "Arranjar, fazer para",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhangela-1 — https://www.kimbundu.org/pt/word/kubhangela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7372,
+      "kimbundu_term": "Kubhangela",
+      "portuguese_translation": "Socorrer",
+      "definition": null,
+      "alternative_meanings": [
+        "ser defensor de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhangela-1 — https://www.kimbundu.org/pt/word/kubhangela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7373,
+      "kimbundu_term": "Kubhangela",
+      "portuguese_translation": "Lutar, combater a favor de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhangela-1 — https://www.kimbundu.org/pt/word/kubhangela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
