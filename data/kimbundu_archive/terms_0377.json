@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3874,
+      "kimbundu_term": "Kangómbe",
+      "portuguese_translation": "Bovino",
+      "definition": null,
+      "alternative_meanings": [
+        "bovídeo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kangómbe-1 — https://www.kimbundu.org/pt/word/kangombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3875,
+      "kimbundu_term": "Kangómbe",
+      "portuguese_translation": "Vitelo",
+      "definition": null,
+      "alternative_meanings": [
+        "novilho",
+        "bezerro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kangómbe-1 — https://www.kimbundu.org/pt/word/kangombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3876,
+      "kimbundu_term": "Kangómbe",
+      "portuguese_translation": "Pov. e posto civ. deste nome, circ. dos Luchazes, distr. do Moxico, prov. do Bié, com 8.414 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kangómbe-1 — https://www.kimbundu.org/pt/word/kangombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3877,
+      "kimbundu_term": "Kangonga",
+      "portuguese_translation": "Cócoras (us. na loc. )",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kangonga-1 — https://www.kimbundu.org/pt/word/kangonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3878,
+      "kimbundu_term": "Kangonga",
+      "portuguese_translation": "Acocoramento",
+      "definition": null,
+      "alternative_meanings": [
+        "agachamento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kangonga-1 — https://www.kimbundu.org/pt/word/kangonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3879,
+      "kimbundu_term": "Kangónya",
+      "portuguese_translation": "Cânhamo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kangónya-1 — https://www.kimbundu.org/pt/word/kangonya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3880,
+      "kimbundu_term": "Kanguadi",
+      "portuguese_translation": "Perdigoto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanguadi-1 — https://www.kimbundu.org/pt/word/kanguadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3881,
+      "kimbundu_term": "Kanguadi",
+      "portuguese_translation": "Pequena perdiz",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanguadi-1 — https://www.kimbundu.org/pt/word/kanguadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3882,
+      "kimbundu_term": "Kanguadi",
+      "portuguese_translation": "Da perdiz",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kanguadi-1 — https://www.kimbundu.org/pt/word/kanguadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3883,
+      "kimbundu_term": "Kangúlu",
+      "portuguese_translation": "Bácoro",
+      "definition": null,
+      "alternative_meanings": [
+        "leitão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kangúlu-1 — https://www.kimbundu.org/pt/word/kangulu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
