@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3614,
+      "kimbundu_term": "Kambonga",
+      "portuguese_translation": "Garoto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kambonga-1 — https://www.kimbundu.org/pt/word/kambonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3615,
+      "kimbundu_term": "Kambonga",
+      "portuguese_translation": "Rapazinho",
+      "definition": null,
+      "alternative_meanings": [
+        "Catraio",
+        "Pl. tumbonga"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kambonga-1 — https://www.kimbundu.org/pt/word/kambonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3616,
+      "kimbundu_term": "Kambónge",
+      "portuguese_translation": "Colina",
+      "definition": null,
+      "alternative_meanings": [
+        "Outeiro",
+        "Elevação de terreno menor que o monte"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kambónge-1 — https://www.kimbundu.org/pt/word/kambonge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3617,
+      "kimbundu_term": "Kambónge",
+      "portuguese_translation": "Fortim",
+      "definition": null,
+      "alternative_meanings": [
+        "Pequeno aterro, muralha, dique",
+        "Pequena construção fortificada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kambónge-1 — https://www.kimbundu.org/pt/word/kambonge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3618,
+      "kimbundu_term": "Kambongo",
+      "portuguese_translation": "Nome do rio que banha a vila de Novo-Redondo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kambongo-1 — https://www.kimbundu.org/pt/word/kambongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3619,
+      "kimbundu_term": "Kambôtua",
+      "portuguese_translation": "Saltão. Género de insetos hemípteros",
+      "definition": null,
+      "alternative_meanings": [
+        "Pulgão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kambôtua-1 — https://www.kimbundu.org/pt/word/kambotua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3620,
+      "kimbundu_term": "Kambu",
+      "portuguese_translation": "Confluente da margem esquerda do rio Quango, em Tala-Mungongo, distr. da Lunda, prov. de Malange",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kambu-1 — https://www.kimbundu.org/pt/word/kambu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3621,
+      "kimbundu_term": "Kambu",
+      "portuguese_translation": "Pov. e posto da cir. civ. deste nome, sede do «Forte República», distr. e prov. de Malange, com 12.994 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kambu-1 — https://www.kimbundu.org/pt/word/kambu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3622,
+      "kimbundu_term": "Kâmbu",
+      "portuguese_translation": "Desmaio",
+      "definition": null,
+      "alternative_meanings": [
+        "síncope"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kâmbu-1 — https://www.kimbundu.org/pt/word/kambu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3623,
+      "kimbundu_term": "Kâmbu",
+      "portuguese_translation": "Desfalecimento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kâmbu-1 — https://www.kimbundu.org/pt/word/kambu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
