@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11114,
+      "kimbundu_term": "Kuombesa",
+      "portuguese_translation": "Kuriombesa, v. r. Ocultar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "introduzir-se sem ser pressentido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuombesa-1 — https://www.kimbundu.org/pt/word/kuombesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11115,
+      "kimbundu_term": "Kuombola",
+      "portuguese_translation": "Intercalar",
+      "definition": null,
+      "alternative_meanings": [
+        "intrometer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuombola-1 — https://www.kimbundu.org/pt/word/kuombola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11116,
+      "kimbundu_term": "Kuombola",
+      "portuguese_translation": "Intromissão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuombola-1 — https://www.kimbundu.org/pt/word/kuombola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11117,
+      "kimbundu_term": "Kuombola",
+      "portuguese_translation": "Kuriombola, v. r. Meter-se de permeio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuombola-1 — https://www.kimbundu.org/pt/word/kuombola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11118,
+      "kimbundu_term": "Kuomboloka",
+      "portuguese_translation": "Sair em surdina, às ocultas",
+      "definition": null,
+      "alternative_meanings": [
+        "Despedir-se «à francesa»"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuomboloka-1 — https://www.kimbundu.org/pt/word/kuomboloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11119,
+      "kimbundu_term": "Kuomboloka",
+      "portuguese_translation": "Desviar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "desaparecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuomboloka-1 — https://www.kimbundu.org/pt/word/kuomboloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11120,
+      "kimbundu_term": "Kuomboloka",
+      "portuguese_translation": "Dormir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuomboloka-1 — https://www.kimbundu.org/pt/word/kuomboloka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11121,
+      "kimbundu_term": "Kuombolola",
+      "portuguese_translation": "Surripiar",
+      "definition": null,
+      "alternative_meanings": [
+        "desviar das vistas",
+        "levar às ocultas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuombolola-1 — https://www.kimbundu.org/pt/word/kuombolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11122,
+      "kimbundu_term": "Kuomona",
+      "portuguese_translation": "Ajuntar",
+      "definition": null,
+      "alternative_meanings": [
+        "apanhar (o que está derramado)",
+        "Recolher (com as mãos)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuomona-1 — https://www.kimbundu.org/pt/word/kuomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11123,
+      "kimbundu_term": "Kuondoloka",
+      "portuguese_translation": "Estar congraçado",
+      "definition": null,
+      "alternative_meanings": [
+        "Reconsiderar",
+        "mudar de opinião, de rumo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuondoloka-1 — https://www.kimbundu.org/pt/word/kuondoloka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
