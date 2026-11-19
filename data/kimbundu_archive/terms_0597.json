@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6074,
+      "kimbundu_term": "Kisanga",
+      "portuguese_translation": "Ilhota ao sul da cidade de Luanda, conhecida por «ilha dos pássaros»",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisanga-1 — https://www.kimbundu.org/pt/word/kisanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6075,
+      "kimbundu_term": "Kisangela",
+      "portuguese_translation": "Contribuição",
+      "definition": null,
+      "alternative_meanings": [
+        "cotização",
+        "coleta",
+        "Reunião de todas as cotas",
+        "Coempção",
+        "Parçaria",
+        "Comunhão",
+        "posse em comum"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisangela-1 — https://www.kimbundu.org/pt/word/kisangela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6076,
+      "kimbundu_term": "Kisangela",
+      "portuguese_translation": "Que é de todos, de uma coletividade",
+      "definition": null,
+      "alternative_meanings": [
+        "Geral",
+        "comum"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisangela-1 — https://www.kimbundu.org/pt/word/kisangela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6077,
+      "kimbundu_term": "Kisangela",
+      "portuguese_translation": "contribuinte",
+      "definition": null,
+      "alternative_meanings": [
+        "parceiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisangela-1 — https://www.kimbundu.org/pt/word/kisangela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6078,
+      "kimbundu_term": "Kisangelu",
+      "portuguese_translation": "Quinhão com que se contribui para despesa ou fundo comum",
+      "definition": null,
+      "alternative_meanings": [
+        "Parte contribuinte",
+        "Cota"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisangelu-1 — https://www.kimbundu.org/pt/word/kisangelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6079,
+      "kimbundu_term": "Kisângu",
+      "portuguese_translation": "Cabaça que serve para chocalhar",
+      "definition": null,
+      "alternative_meanings": [
+        "O próprio chocalho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisângu-1 — https://www.kimbundu.org/pt/word/kisangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6080,
+      "kimbundu_term": "Kisangua",
+      "portuguese_translation": "Cerveja de milho grelado e fervido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisangua-1 — https://www.kimbundu.org/pt/word/kisangua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6081,
+      "kimbundu_term": "Kisangusangu",
+      "portuguese_translation": "Caráter alegre e prasenteiro",
+      "definition": null,
+      "alternative_meanings": [
+        "Agrado",
+        "graça",
+        "prazer",
+        "Bom humor"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisangusangu-1 — https://www.kimbundu.org/pt/word/kisangusangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6082,
+      "kimbundu_term": "Kisangusangu",
+      "portuguese_translation": "adj. Alegre",
+      "definition": null,
+      "alternative_meanings": [
+        "prasenteiro",
+        "De maneiras agradáveis"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisangusangu-1 — https://www.kimbundu.org/pt/word/kisangusangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6083,
+      "kimbundu_term": "Kisanji",
+      "portuguese_translation": "Instrumento musical de hastes metálicas, hoje bastante conhecido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisanji-1 — https://www.kimbundu.org/pt/word/kisanji",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
