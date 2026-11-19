@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8744,
+      "kimbundu_term": "Kuhingisa",
+      "portuguese_translation": "Instalar",
+      "definition": null,
+      "alternative_meanings": [
+        "empossar",
+        "investir (na função ou cargo)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhingisa-1 — https://www.kimbundu.org/pt/word/kuhingisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8745,
+      "kimbundu_term": "Kuhingisa",
+      "portuguese_translation": "Testemunhar",
+      "definition": null,
+      "alternative_meanings": [
+        "aprovar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhingisa-1 — https://www.kimbundu.org/pt/word/kuhingisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8746,
+      "kimbundu_term": "Kuhingumuka",
+      "portuguese_translation": "Ter desenvoltura",
+      "definition": null,
+      "alternative_meanings": [
+        "crescer. sub. Crescimento",
+        "desenvoltura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhingumuka-1 — https://www.kimbundu.org/pt/word/kuhingumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8747,
+      "kimbundu_term": "Kuhingumuna",
+      "portuguese_translation": "Fazer crescer, desenvolver. Dar incremento a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhingumuna-1 — https://www.kimbundu.org/pt/word/kuhingumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8748,
+      "kimbundu_term": "Kuhingumuna",
+      "portuguese_translation": "Kurihingumuna, e r. Aumentar",
+      "definition": null,
+      "alternative_meanings": [
+        "progredir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhingumuna-1 — https://www.kimbundu.org/pt/word/kuhingumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8749,
+      "kimbundu_term": "Kuhíta",
+      "portuguese_translation": "Exterminar",
+      "definition": null,
+      "alternative_meanings": [
+        "devastar",
+        "destruir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhíta-1 — https://www.kimbundu.org/pt/word/kuhita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8750,
+      "kimbundu_term": "Kuhóba",
+      "portuguese_translation": "Narrar (algum facto) sob o disfarce da fábula",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhóba-1 — https://www.kimbundu.org/pt/word/kuhoba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8751,
+      "kimbundu_term": "Kuhóba",
+      "portuguese_translation": "Inventar",
+      "definition": null,
+      "alternative_meanings": [
+        "mentir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhóba-1 — https://www.kimbundu.org/pt/word/kuhoba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8752,
+      "kimbundu_term": "Kuhobojoka",
+      "portuguese_translation": "Estar esquelético, encovado. Dar mostras de muita fraqueza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhobojoka-1 — https://www.kimbundu.org/pt/word/kuhobojoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8753,
+      "kimbundu_term": "Kuhoboka",
+      "portuguese_translation": "Estar magro. Ter os olhos sumidos por cansaço ou doença",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhoboka-1 — https://www.kimbundu.org/pt/word/kuhoboka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
