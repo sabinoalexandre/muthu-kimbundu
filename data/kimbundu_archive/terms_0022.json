@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 324,
+      "kimbundu_term": "Atatu",
+      "portuguese_translation": "Três",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, atatu-1 — https://www.kimbundu.org/pt/word/atatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 325,
+      "kimbundu_term": "Ateki",
+      "portuguese_translation": "Pessoas que transportam água do rio ou fonte para outro lugar",
+      "definition": null,
+      "alternative_meanings": [
+        "aguadeiros"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ateki-1 — https://www.kimbundu.org/pt/word/ateki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 326,
+      "kimbundu_term": "Atéki",
+      "portuguese_translation": "Tintureiros",
+      "definition": null,
+      "alternative_meanings": [
+        "que exercem a arte de tingir",
+        "pessoas que tingem vários artigos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, atéki-1 — https://www.kimbundu.org/pt/word/ateki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 327,
+      "kimbundu_term": "Athu",
+      "portuguese_translation": "Conjunto de pessoas",
+      "definition": null,
+      "alternative_meanings": [
+        "pessoal",
+        "multidão",
+        "gente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, athu-1 — https://www.kimbundu.org/pt/word/athu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 328,
+      "kimbundu_term": "Athu",
+      "portuguese_translation": "Bando",
+      "definition": null,
+      "alternative_meanings": [
+        "troço de homens armados",
+        "pessoas",
+        "família",
+        "nação",
+        "povo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, athu-1 — https://www.kimbundu.org/pt/word/athu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 329,
+      "kimbundu_term": "Atona",
+      "portuguese_translation": "Pescadores",
+      "definition": null,
+      "alternative_meanings": [
+        "indivíduos que fazem da pesca profissão",
+        "grupo de pescadores"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, atona-1 — https://www.kimbundu.org/pt/word/atona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 330,
+      "kimbundu_term": "Atongi",
+      "portuguese_translation": "Esgrimistas",
+      "definition": null,
+      "alternative_meanings": [
+        "lutadores",
+        "pessoas dadas a brigas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, atongi-1 — https://www.kimbundu.org/pt/word/atongi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 331,
+      "kimbundu_term": "Atudi",
+      "portuguese_translation": "Viúvas",
+      "definition": null,
+      "alternative_meanings": [
+        "viúvos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, atudi-1 — https://www.kimbundu.org/pt/word/atudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 332,
+      "kimbundu_term": "Atungi",
+      "portuguese_translation": "Fabricantes",
+      "definition": null,
+      "alternative_meanings": [
+        "construtores",
+        "pessoas que fazem costuras"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, atungi-1 — https://www.kimbundu.org/pt/word/atungi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 333,
+      "kimbundu_term": "Aua",
+      "portuguese_translation": "(adjetivo determinativo e pronome demonstrativo, plural) Estes",
+      "definition": null,
+      "alternative_meanings": [
+        "estas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, artigo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, aua-1 — https://www.kimbundu.org/pt/word/aua",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
