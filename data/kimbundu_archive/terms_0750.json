@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7604,
+      "kimbundu_term": "Kubóba",
+      "portuguese_translation": "Sossobrar",
+      "definition": null,
+      "alternative_meanings": [
+        "ir ao fundo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubóba-1 — https://www.kimbundu.org/pt/word/kuboba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7605,
+      "kimbundu_term": "Kubóba",
+      "portuguese_translation": "Naufragar",
+      "definition": null,
+      "alternative_meanings": [
+        "submergir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubóba-1 — https://www.kimbundu.org/pt/word/kuboba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7606,
+      "kimbundu_term": "Kubóba",
+      "portuguese_translation": "Submersão [Ato de naufragar]",
+      "definition": null,
+      "alternative_meanings": [
+        "Alagamento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubóba-1 — https://www.kimbundu.org/pt/word/kuboba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7607,
+      "kimbundu_term": "Kubobésa",
+      "portuguese_translation": "Meter debaixo de água",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubobésa-1 — https://www.kimbundu.org/pt/word/kubobesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7608,
+      "kimbundu_term": "Kubobésa",
+      "portuguese_translation": "Fazer alagar, naufragar, submergir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubobésa-1 — https://www.kimbundu.org/pt/word/kubobesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7609,
+      "kimbundu_term": "Kubobésa",
+      "portuguese_translation": "Fazer sossobrar, ir ao fundo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubobésa-1 — https://www.kimbundu.org/pt/word/kubobesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7610,
+      "kimbundu_term": "Kuboboka",
+      "portuguese_translation": "Não ter dentes (os da frente)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuboboka-1 — https://www.kimbundu.org/pt/word/kuboboka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7611,
+      "kimbundu_term": "Kuboboka",
+      "portuguese_translation": "Diz-se da pessoa que, por lhe faltarem os dentes da frente, tem os lábios metidos para dentro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuboboka-1 — https://www.kimbundu.org/pt/word/kuboboka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7612,
+      "kimbundu_term": "Kubobola",
+      "portuguese_translation": "Deslabiar",
+      "definition": null,
+      "alternative_meanings": [
+        "desdentar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubobola-1 — https://www.kimbundu.org/pt/word/kubobola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7613,
+      "kimbundu_term": "Kubobola",
+      "portuguese_translation": "Atirar para a boca grãos ou caroços",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubobola-1 — https://www.kimbundu.org/pt/word/kubobola",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
