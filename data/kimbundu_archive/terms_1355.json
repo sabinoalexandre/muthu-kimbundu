@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13654,
+      "kimbundu_term": "Kuzondama",
+      "portuguese_translation": "Hebetação",
+      "definition": null,
+      "alternative_meanings": [
+        "pasmo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzondama-1 — https://www.kimbundu.org/pt/word/kuzondama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13655,
+      "kimbundu_term": "Kuzondesa",
+      "portuguese_translation": "Fazer desalentar, esmorecer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzondesa-1 — https://www.kimbundu.org/pt/word/kuzondesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13656,
+      "kimbundu_term": "Kuzondoka",
+      "portuguese_translation": "Ficar alheado, esquecido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzondoka-1 — https://www.kimbundu.org/pt/word/kuzondoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13657,
+      "kimbundu_term": "Kuzondola",
+      "portuguese_translation": "Enlevar",
+      "definition": null,
+      "alternative_meanings": [
+        "alhear",
+        "distrair"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzondola-1 — https://www.kimbundu.org/pt/word/kuzondola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13658,
+      "kimbundu_term": "Kuzónga",
+      "portuguese_translation": "Pesar",
+      "definition": null,
+      "alternative_meanings": [
+        "medir",
+        "Calcular",
+        "avaliar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzónga-1 — https://www.kimbundu.org/pt/word/kuzonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13659,
+      "kimbundu_term": "Kuzónga",
+      "portuguese_translation": "Medição",
+      "definition": null,
+      "alternative_meanings": [
+        "avaliação",
+        "peso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzónga-1 — https://www.kimbundu.org/pt/word/kuzonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13660,
+      "kimbundu_term": "Kúzonga",
+      "portuguese_translation": "Ter muita fundura",
+      "definition": null,
+      "alternative_meanings": [
+        "Estar muito cavado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúzonga-1 — https://www.kimbundu.org/pt/word/kuzonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13661,
+      "kimbundu_term": "Kúzonga",
+      "portuguese_translation": "Urrar",
+      "definition": null,
+      "alternative_meanings": [
+        "bramir",
+        "Gritar",
+        "berrar (no sentido prop. e fig.)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúzonga-1 — https://www.kimbundu.org/pt/word/kuzonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13662,
+      "kimbundu_term": "Kúzonga",
+      "portuguese_translation": "Proferir (imitando gritos comparáveis a urros)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúzonga-1 — https://www.kimbundu.org/pt/word/kuzonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13663,
+      "kimbundu_term": "Kúzonga",
+      "portuguese_translation": "Bramido forte e estrídulo",
+      "definition": null,
+      "alternative_meanings": [
+        "berro",
+        "urro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúzonga-1 — https://www.kimbundu.org/pt/word/kuzonga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
