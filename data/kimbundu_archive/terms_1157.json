@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11674,
+      "kimbundu_term": "Kusokeka",
+      "portuguese_translation": "Encaixar",
+      "definition": null,
+      "alternative_meanings": [
+        "ajustar",
+        "Unir",
+        "Adaptar",
+        "calcar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokeka-1 — https://www.kimbundu.org/pt/word/kusokeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11675,
+      "kimbundu_term": "Kusokeka",
+      "portuguese_translation": "Encaixe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokeka-1 — https://www.kimbundu.org/pt/word/kusokeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11676,
+      "kimbundu_term": "Kusokeka",
+      "portuguese_translation": "Kurisokeka, v. r. Encasquetar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "adaptar-se",
+        "encaixar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokeka-1 — https://www.kimbundu.org/pt/word/kusokeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11677,
+      "kimbundu_term": "Kusokela",
+      "portuguese_translation": "Ser igual a",
+      "definition": null,
+      "alternative_meanings": [
+        "Ser do mesmo tamanho ou altura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokela-1 — https://www.kimbundu.org/pt/word/kusokela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11678,
+      "kimbundu_term": "Kusokela",
+      "portuguese_translation": "Igualdade",
+      "definition": null,
+      "alternative_meanings": [
+        "Identidade de condição moral ou social"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokela-1 — https://www.kimbundu.org/pt/word/kusokela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11679,
+      "kimbundu_term": "Kusokelela",
+      "portuguese_translation": "Estar em igualdade de circunstâncias",
+      "definition": null,
+      "alternative_meanings": [
+        "Ser paralelo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokelela-1 — https://www.kimbundu.org/pt/word/kusokelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11680,
+      "kimbundu_term": "Kusokelela",
+      "portuguese_translation": "Qualidade de igual",
+      "definition": null,
+      "alternative_meanings": [
+        "Paralelismo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokelela-1 — https://www.kimbundu.org/pt/word/kusokelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11681,
+      "kimbundu_term": "Kusokelesa",
+      "portuguese_translation": "Parear",
+      "definition": null,
+      "alternative_meanings": [
+        "igualar",
+        "acertar",
+        "Afinar",
+        "Aplainar",
+        "nivelar",
+        "Confrontar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokelesa-1 — https://www.kimbundu.org/pt/word/kusokelesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11682,
+      "kimbundu_term": "Kusokelesa",
+      "portuguese_translation": "Kurisokelesa, e r. Pôr-se no mesmo nível ou condição",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer-se igualar, comparar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokelesa-1 — https://www.kimbundu.org/pt/word/kusokelesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11683,
+      "kimbundu_term": "Kusokesa",
+      "portuguese_translation": "Classificar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar igual",
+        "pôr em ordem"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokesa-1 — https://www.kimbundu.org/pt/word/kusokesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
