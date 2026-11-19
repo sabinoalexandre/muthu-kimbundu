@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18354,
+      "kimbundu_term": "Njila",
+      "portuguese_translation": "diz-se de qualquer fruta madura, picada pelos pássaros",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, njila-1 — https://www.kimbundu.org/pt/word/njila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18355,
+      "kimbundu_term": "Njila",
+      "portuguese_translation": "Nome genérico de todas as faixas de terreno que conduzem de um para outro lugar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, njila-2 — https://www.kimbundu.org/pt/word/njila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18356,
+      "kimbundu_term": "Njila",
+      "portuguese_translation": "Caminho",
+      "definition": null,
+      "alternative_meanings": [
+        "Espaço que se percorre",
+        "Estrada",
+        "rota",
+        "rua"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, njila-2 — https://www.kimbundu.org/pt/word/njila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18357,
+      "kimbundu_term": "Njila",
+      "portuguese_translation": "Via pública",
+      "definition": null,
+      "alternative_meanings": [
+        "Percurso",
+        "giro",
+        "Viagem",
+        "navegação",
+        "travessia",
+        "Derrota"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, njila-2 — https://www.kimbundu.org/pt/word/njila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18358,
+      "kimbundu_term": "Njîlu",
+      "portuguese_translation": "Desjejua",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, njîlu-1 — https://www.kimbundu.org/pt/word/njilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18359,
+      "kimbundu_term": "Njîlu",
+      "portuguese_translation": "Testemunho",
+      "definition": null,
+      "alternative_meanings": [
+        "prova"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, njîlu-1 — https://www.kimbundu.org/pt/word/njilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18360,
+      "kimbundu_term": "Njîlu",
+      "portuguese_translation": "Planta solanácea, conhecida por «erva moura» (solanum caule)",
+      "definition": null,
+      "alternative_meanings": [
+        "Giló"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, njîlu-1 — https://www.kimbundu.org/pt/word/njilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18361,
+      "kimbundu_term": "Njímba",
+      "portuguese_translation": "Certo instrumento músico",
+      "definition": null,
+      "alternative_meanings": [
+        "Bombo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, njímba-1 — https://www.kimbundu.org/pt/word/njimba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18362,
+      "kimbundu_term": "Njímba",
+      "portuguese_translation": "Dança indígena",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, njímba-1 — https://www.kimbundu.org/pt/word/njimba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18363,
+      "kimbundu_term": "Njimba",
+      "portuguese_translation": "Morsó",
+      "definition": null,
+      "alternative_meanings": [
+        "Terceiro estômago das aves",
+        "Moéla"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, njimba-1 — https://www.kimbundu.org/pt/word/njimba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
