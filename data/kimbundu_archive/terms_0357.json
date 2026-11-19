@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3674,
+      "kimbundu_term": "Kamilemba",
+      "portuguese_translation": "Arborizador",
+      "definition": null,
+      "alternative_meanings": [
+        "Arboricultor",
+        "Pessoa que trata de árvores"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamilemba-1 — https://www.kimbundu.org/pt/word/kamilemba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3675,
+      "kimbundu_term": "Kamilembu",
+      "portuguese_translation": "Diz-se do defeituoso dos dedos",
+      "definition": null,
+      "alternative_meanings": [
+        "ext. Digitígrado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamilembu-1 — https://www.kimbundu.org/pt/word/kamilembu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3676,
+      "kimbundu_term": "Kamilembu",
+      "portuguese_translation": "O que se serve dos dedos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamilembu-1 — https://www.kimbundu.org/pt/word/kamilembu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3677,
+      "kimbundu_term": "Kaminangu",
+      "portuguese_translation": "Capaz de praticar façanhas",
+      "definition": null,
+      "alternative_meanings": [
+        "Façanhudo",
+        "Que pratica grandes feitos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaminangu-1 — https://www.kimbundu.org/pt/word/kaminangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3678,
+      "kimbundu_term": "Kaminangu",
+      "portuguese_translation": "Que faz jornadas",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Viajante",
+        "caminheiro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaminangu-1 — https://www.kimbundu.org/pt/word/kaminangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3679,
+      "kimbundu_term": "Kaminga",
+      "portuguese_translation": "Planta medicinal contra o escorbuto (Gymnosporia senegalensis)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaminga-1 — https://www.kimbundu.org/pt/word/kaminga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3680,
+      "kimbundu_term": "Kamíngua",
+      "portuguese_translation": "Monte na margem esq. do rio Quanza, a E. da pov. de Cambembe, distr. do Quanza-Norte, prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamíngua-1 — https://www.kimbundu.org/pt/word/kamingua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3681,
+      "kimbundu_term": "Kamínya",
+      "portuguese_translation": "Aquele dos aprendizes do caçador encarregado de cortar o rabo da rês logo após abatida",
+      "definition": null,
+      "alternative_meanings": [
+        "Ajudante"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamínya-1 — https://www.kimbundu.org/pt/word/kaminya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3682,
+      "kimbundu_term": "Kamínya",
+      "portuguese_translation": "Faca que se traz pendente para matar a rês derrubada e ferida",
+      "definition": null,
+      "alternative_meanings": [
+        "Misericórdia"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamínya-1 — https://www.kimbundu.org/pt/word/kaminya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3683,
+      "kimbundu_term": "Kamínya",
+      "portuguese_translation": "O que dá o último tiro ou golpe mortal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamínya-1 — https://www.kimbundu.org/pt/word/kaminya",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
