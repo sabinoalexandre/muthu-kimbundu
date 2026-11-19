@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11994,
+      "kimbundu_term": "Kúta",
+      "portuguese_translation": "Projetar",
+      "definition": null,
+      "alternative_meanings": [
+        "intentar",
+        "aludir",
+        "Deitar planos sobre",
+        "fig. Maquinar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúta-1 — https://www.kimbundu.org/pt/word/kuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11995,
+      "kimbundu_term": "Kutá",
+      "portuguese_translation": "Jaqueta",
+      "definition": null,
+      "alternative_meanings": [
+        "casaco que só chega à cintura"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutá-1 — https://www.kimbundu.org/pt/word/kuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11996,
+      "kimbundu_term": "Kuta",
+      "portuguese_translation": "Colocar",
+      "definition": null,
+      "alternative_meanings": [
+        "situar",
+        "pôr",
+        "Preparar",
+        "dispor",
+        "Aplicar",
+        "sobrepor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuta-3 — https://www.kimbundu.org/pt/word/kuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11997,
+      "kimbundu_term": "Kuta",
+      "portuguese_translation": "Esperar",
+      "definition": null,
+      "alternative_meanings": [
+        "aguardar",
+        "contar com",
+        "Fixar, estabelecer",
+        "Cuspir",
+        "Historiar, contar",
+        "Apostrofar",
+        "notar defeito",
+        "Dar",
+        "vibrar",
+        "ferir",
+        "Intercalar",
+        "meter"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuta-3 — https://www.kimbundu.org/pt/word/kuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11998,
+      "kimbundu_term": "Kuta",
+      "portuguese_translation": "Ato de pôr (a ave)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuta-3 — https://www.kimbundu.org/pt/word/kuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11999,
+      "kimbundu_term": "Kuta",
+      "portuguese_translation": "Amarra",
+      "definition": null,
+      "alternative_meanings": [
+        "Prenda"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuta-3 — https://www.kimbundu.org/pt/word/kuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12000,
+      "kimbundu_term": "Kuta",
+      "portuguese_translation": "Kurita, e r. Colocar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "meter-se",
+        "pôr-se",
+        "Aventurar-se",
+        "Intrometer-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuta-3 — https://www.kimbundu.org/pt/word/kuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12001,
+      "kimbundu_term": "Kuta",
+      "portuguese_translation": "Cotovelar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuta-4 — https://www.kimbundu.org/pt/word/kuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12002,
+      "kimbundu_term": "Kútaba",
+      "portuguese_translation": "Transportar água do rio, do poço ou lagoa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútaba-1 — https://www.kimbundu.org/pt/word/kutaba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12003,
+      "kimbundu_term": "Kutabela",
+      "portuguese_translation": "Irrigar",
+      "definition": null,
+      "alternative_meanings": [
+        "banhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutabela-1 — https://www.kimbundu.org/pt/word/kutabela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
