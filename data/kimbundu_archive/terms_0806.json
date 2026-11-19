@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8164,
+      "kimbundu_term": "Kudikála",
+      "portuguese_translation": "Estar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "ficar-se",
+        "sujeitar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikála-1 — https://www.kimbundu.org/pt/word/kudikala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8165,
+      "kimbundu_term": "Kudikála",
+      "portuguese_translation": "Demorar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "submeter-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikála-1 — https://www.kimbundu.org/pt/word/kudikala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8166,
+      "kimbundu_term": "Kudikatuisa",
+      "portuguese_translation": "Fazer-se excluir (de algum lugar)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikatuisa-1 — https://www.kimbundu.org/pt/word/kudikatuisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8167,
+      "kimbundu_term": "Kudikatuisa",
+      "portuguese_translation": "Eliminar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikatuisa-1 — https://www.kimbundu.org/pt/word/kudikatuisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8168,
+      "kimbundu_term": "Kudikenya",
+      "portuguese_translation": "Fazer-se mimoso",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar-se dengoso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikenya-1 — https://www.kimbundu.org/pt/word/kudikenya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8169,
+      "kimbundu_term": "Kudikenya",
+      "portuguese_translation": "Ter niquices",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikenya-1 — https://www.kimbundu.org/pt/word/kudikenya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8170,
+      "kimbundu_term": "Kudikenza",
+      "portuguese_translation": "Escorrer",
+      "definition": null,
+      "alternative_meanings": [
+        "esvair-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikenza-1 — https://www.kimbundu.org/pt/word/kudikenza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8171,
+      "kimbundu_term": "Kudikexidila",
+      "portuguese_translation": "Diferenciar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "distinguir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikexidila-1 — https://www.kimbundu.org/pt/word/kudikexidila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8172,
+      "kimbundu_term": "Kudikexidila",
+      "portuguese_translation": "Ser diferente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikexidila-1 — https://www.kimbundu.org/pt/word/kudikexidila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8173,
+      "kimbundu_term": "Kudikexila",
+      "portuguese_translation": "Afastar-se da convivência",
+      "definition": null,
+      "alternative_meanings": [
+        "pôr-se de parte"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudikexila-1 — https://www.kimbundu.org/pt/word/kudikexila",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
