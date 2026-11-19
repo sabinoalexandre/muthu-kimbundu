@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2614,
+      "kimbundu_term": "Jimvi",
+      "portuguese_translation": "Aspeto respeitável de pessoa idosa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimvi-1 — https://www.kimbundu.org/pt/word/jimvi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2615,
+      "kimbundu_term": "Jimvo",
+      "portuguese_translation": "Podões",
+      "definition": null,
+      "alternative_meanings": [
+        "podadeiras"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimvo-1 — https://www.kimbundu.org/pt/word/jimvo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2616,
+      "kimbundu_term": "Jimvuale",
+      "portuguese_translation": "Titulados",
+      "definition": null,
+      "alternative_meanings": [
+        "Que têm dignidades de nobreza"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimvuale-1 — https://www.kimbundu.org/pt/word/jimvuale",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2617,
+      "kimbundu_term": "Jimvuale",
+      "portuguese_translation": "Pergaminhos",
+      "definition": null,
+      "alternative_meanings": [
+        "Documentos em que se conferem dignidades"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimvuale-1 — https://www.kimbundu.org/pt/word/jimvuale",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2618,
+      "kimbundu_term": "Jimvula",
+      "portuguese_translation": "Chuvas",
+      "definition": null,
+      "alternative_meanings": [
+        "Abundância de água das chuvas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimvula-1 — https://www.kimbundu.org/pt/word/jimvula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2619,
+      "kimbundu_term": "Jimvula",
+      "portuguese_translation": "Enchentes",
+      "definition": null,
+      "alternative_meanings": [
+        "Cheias",
+        "Águas vivas ou mortas",
+        "Marés"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimvula-1 — https://www.kimbundu.org/pt/word/jimvula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2620,
+      "kimbundu_term": "Jimvula",
+      "portuguese_translation": "A época das chuvas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimvula-2 — https://www.kimbundu.org/pt/word/jimvula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2621,
+      "kimbundu_term": "Jimvula",
+      "portuguese_translation": "Marés",
+      "definition": null,
+      "alternative_meanings": [
+        "movimento das águas do mar, baixa-mar e preamar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimvula-2 — https://www.kimbundu.org/pt/word/jimvula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2622,
+      "kimbundu_term": "Jimvunda",
+      "portuguese_translation": "Brigas",
+      "definition": null,
+      "alternative_meanings": [
+        "pelejas",
+        "desordens",
+        "Lutas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimvunda-1 — https://www.kimbundu.org/pt/word/jimvunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2623,
+      "kimbundu_term": "Jimvúnga",
+      "portuguese_translation": "Atos que anunciam perturbação",
+      "definition": null,
+      "alternative_meanings": [
+        "Distúrbios",
+        "ameaças",
+        "Algazarra",
+        "bulha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jimvúnga-1 — https://www.kimbundu.org/pt/word/jimvunga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
