@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3224,
+      "kimbundu_term": "Kahuembe",
+      "portuguese_translation": "Ave do género pombo",
+      "definition": null,
+      "alternative_meanings": [
+        "Qualidade de rola"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kahuembe-1 — https://www.kimbundu.org/pt/word/kahuembe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3225,
+      "kimbundu_term": "Kahuke",
+      "portuguese_translation": "Agreste",
+      "definition": null,
+      "alternative_meanings": [
+        "bravio",
+        "rude",
+        "Que não é polido ou cultivado",
+        "Desobediente",
+        "ingrato"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kahuke-1 — https://www.kimbundu.org/pt/word/kahuke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3226,
+      "kimbundu_term": "Kahululu",
+      "portuguese_translation": "Certa espécie de rola pequena",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kahululu-1 — https://www.kimbundu.org/pt/word/kahululu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3227,
+      "kimbundu_term": "Kahúmba",
+      "portuguese_translation": "Ave apupida da família das galináceas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kahúmba-1 — https://www.kimbundu.org/pt/word/kahumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3228,
+      "kimbundu_term": "Kahumbu",
+      "portuguese_translation": "Decepado",
+      "definition": null,
+      "alternative_meanings": [
+        "Diz-se da pessoa a quem falta parte de um membro",
+        "Maneta"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kahumbu-1 — https://www.kimbundu.org/pt/word/kahumbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3229,
+      "kimbundu_term": "Kahungula",
+      "portuguese_translation": "Pov. e sede da circ. civ. de Camaxilo, distr. da Lunda, prov. de Malange, a 8º 24' 54\" de lat. S. e 18º 39' 40\" de long.",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kahungula-1 — https://www.kimbundu.org/pt/word/kahungula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3230,
+      "kimbundu_term": "Kahuto",
+      "portuguese_translation": "Saquitel",
+      "definition": null,
+      "alternative_meanings": [
+        "Bolsinho",
+        "É tb. adj"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kahuto-1 — https://www.kimbundu.org/pt/word/kahuto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3231,
+      "kimbundu_term": "Kahuto",
+      "portuguese_translation": "Planta trepadeira fam. das leguminosas (Stigolobium pruriens), de utilidade ornamental",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kahuto-1 — https://www.kimbundu.org/pt/word/kahuto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3232,
+      "kimbundu_term": "Kaiadi",
+      "portuguese_translation": "Que vem a seguir ao primeiro. Que ocupa o segundo lugar, ou o número dois numa série de nomes iguais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaiadi-1 — https://www.kimbundu.org/pt/word/kaiadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3233,
+      "kimbundu_term": "Kaiadi",
+      "portuguese_translation": "Outro que tal",
+      "definition": null,
+      "alternative_meanings": [
+        "semelhante. Que se faz segunda vez"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaiadi-1 — https://www.kimbundu.org/pt/word/kaiadi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
