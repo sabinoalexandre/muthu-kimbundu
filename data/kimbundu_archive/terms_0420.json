@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4304,
+      "kimbundu_term": "Kaxi",
+      "portuguese_translation": "Meio",
+      "definition": null,
+      "alternative_meanings": [
+        "metade",
+        "Que está no meio ou entre dois",
+        "Médio",
+        "Que exprime o meio termo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaxi-3 — https://www.kimbundu.org/pt/word/kaxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4305,
+      "kimbundu_term": "Kaxi",
+      "portuguese_translation": "Entre",
+      "definition": null,
+      "alternative_meanings": [
+        "no meio ou dentro de"
+      ],
+      "examples": [],
+      "grammatical_category": "preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaxi-4 — https://www.kimbundu.org/pt/word/kaxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4306,
+      "kimbundu_term": "Kâxi",
+      "portuguese_translation": "Terriola",
+      "definition": null,
+      "alternative_meanings": [
+        "Lugarejo",
+        "Terrinha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kâxi-1 — https://www.kimbundu.org/pt/word/kaxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4307,
+      "kimbundu_term": "Kaxiaxia",
+      "portuguese_translation": "Rouquidão",
+      "definition": null,
+      "alternative_meanings": [
+        "Embaraço que impede a clara emissão da voz"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaxiaxia-1 — https://www.kimbundu.org/pt/word/kaxiaxia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4308,
+      "kimbundu_term": "Kaxiaxia",
+      "portuguese_translation": "Rouquenho",
+      "definition": null,
+      "alternative_meanings": [
+        "De voz tomada"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaxiaxia-2 — https://www.kimbundu.org/pt/word/kaxiaxia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4309,
+      "kimbundu_term": "Kaxiaxia",
+      "portuguese_translation": "Afásico",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaxiaxia-2 — https://www.kimbundu.org/pt/word/kaxiaxia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4310,
+      "kimbundu_term": "Kaxibe",
+      "portuguese_translation": "Rio pantanoso afluente do Quanza, no distr. do Moxicco, prov. do Bié",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaxibe-1 — https://www.kimbundu.org/pt/word/kaxibe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4311,
+      "kimbundu_term": "Kaxibu",
+      "portuguese_translation": "O quinto filho do mesmo parto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaxibu-1 — https://www.kimbundu.org/pt/word/kaxibu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4312,
+      "kimbundu_term": "Kaxíki",
+      "portuguese_translation": "Planta fam. das sapindáceas (pleiulodiscus plurijugatus), de madeira própria para marcenaria",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaxíki-1 — https://www.kimbundu.org/pt/word/kaxiki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4313,
+      "kimbundu_term": "Kaxíki",
+      "portuguese_translation": "Árvore fam. das meliáceas (trichilia Welwitschii), de madeira apreciável",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaxíki-1 — https://www.kimbundu.org/pt/word/kaxiki",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
