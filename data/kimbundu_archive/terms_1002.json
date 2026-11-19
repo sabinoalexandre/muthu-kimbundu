@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10124,
+      "kimbundu_term": "Kuléka",
+      "portuguese_translation": "Atirar de longe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuléka-1 — https://www.kimbundu.org/pt/word/kuleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10125,
+      "kimbundu_term": "Kuléka",
+      "portuguese_translation": "Armar: preparar",
+      "definition": null,
+      "alternative_meanings": [
+        "engatilhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuléka-1 — https://www.kimbundu.org/pt/word/kuleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10126,
+      "kimbundu_term": "Kuléka",
+      "portuguese_translation": "Entretecer",
+      "definition": null,
+      "alternative_meanings": [
+        "urdir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuléka-1 — https://www.kimbundu.org/pt/word/kuleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10127,
+      "kimbundu_term": "Kuléka",
+      "portuguese_translation": "Entrelaçamento",
+      "definition": null,
+      "alternative_meanings": [
+        "urdidura",
+        "movimento de vai e vem (Diz-se do fabrico de tecidos cujos fios horizontais compreendem outros tantos verticais )"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuléka-1 — https://www.kimbundu.org/pt/word/kuleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10128,
+      "kimbundu_term": "Kuléka",
+      "portuguese_translation": "Kurileka, v. r. Entrelaçar-se, aventurar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "atirar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuléka-1 — https://www.kimbundu.org/pt/word/kuleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10129,
+      "kimbundu_term": "Kulekela",
+      "portuguese_translation": "Avisar",
+      "definition": null,
+      "alternative_meanings": [
+        "mandar dizer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulekela-1 — https://www.kimbundu.org/pt/word/kulekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10130,
+      "kimbundu_term": "Kulekela",
+      "portuguese_translation": "Destinar",
+      "definition": null,
+      "alternative_meanings": [
+        "recomendar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulekela-1 — https://www.kimbundu.org/pt/word/kulekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10131,
+      "kimbundu_term": "Kulekela",
+      "portuguese_translation": "Dar cumprimentos a",
+      "definition": null,
+      "alternative_meanings": [
+        "despedir-se de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulekela-1 — https://www.kimbundu.org/pt/word/kulekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10132,
+      "kimbundu_term": "Kulekela",
+      "portuguese_translation": "Mostrar de longe",
+      "definition": null,
+      "alternative_meanings": [
+        "acenar (com a mão)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulekela-1 — https://www.kimbundu.org/pt/word/kulekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10133,
+      "kimbundu_term": "Kulekela",
+      "portuguese_translation": "Aceno",
+      "definition": null,
+      "alternative_meanings": [
+        "despedida"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulekela-1 — https://www.kimbundu.org/pt/word/kulekela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
