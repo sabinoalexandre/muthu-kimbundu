@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1794,
+      "kimbundu_term": "Hanji",
+      "portuguese_translation": "Pequeno quadrúpede sem rabo, que vive em buracos dos morros",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hanji-1 — https://www.kimbundu.org/pt/word/hanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1795,
+      "kimbundu_term": "Hanu",
+      "portuguese_translation": "Acaso",
+      "definition": null,
+      "alternative_meanings": [
+        "porventura. Exemplo Talvez"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hanu-1 — https://www.kimbundu.org/pt/word/hanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1796,
+      "kimbundu_term": "Hanu",
+      "portuguese_translation": "Então",
+      "definition": null,
+      "alternative_meanings": [
+        "nesse caso"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hanu-1 — https://www.kimbundu.org/pt/word/hanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1797,
+      "kimbundu_term": "Hanya",
+      "portuguese_translation": "Pov. e posto deste nome na circ. civ. da Ganda, distr. e prov. de Benguela, com 18.245 hab. e Junta Local do Cubal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hanya-1 — https://www.kimbundu.org/pt/word/hanya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1798,
+      "kimbundu_term": "Hanza",
+      "portuguese_translation": "Ufania",
+      "definition": null,
+      "alternative_meanings": [
+        "motivo de honra, de glória",
+        "preito",
+        "homenagem",
+        "glorificação. Dito lisonjeiro",
+        "lisonja",
+        "louvor afetado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hanza-1 — https://www.kimbundu.org/pt/word/hanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1799,
+      "kimbundu_term": "Hanza",
+      "portuguese_translation": "Dito lisonjeiro",
+      "definition": null,
+      "alternative_meanings": [
+        "Lisonja",
+        "Louvor afetado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hanza-1 — https://www.kimbundu.org/pt/word/hanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1800,
+      "kimbundu_term": "Hanza",
+      "portuguese_translation": "Certa qualidade de feijão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hanza-1 — https://www.kimbundu.org/pt/word/hanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1801,
+      "kimbundu_term": "Hasa",
+      "portuguese_translation": "A primeira folha do feijoeiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hasa-1 — https://www.kimbundu.org/pt/word/hasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1802,
+      "kimbundu_term": "Hása",
+      "portuguese_translation": "Esconjuro",
+      "definition": null,
+      "alternative_meanings": [
+        "exorcismo. Promessa solene",
+        "jura",
+        "voto. O objeto que representa a promessa. Obrigação contraída moralmente por promessa feita à divindade ou a seres sobre"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hása-1 — https://www.kimbundu.org/pt/word/hasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1803,
+      "kimbundu_term": "Hása",
+      "portuguese_translation": "Albino",
+      "definition": null,
+      "alternative_meanings": [
+        "abaçanado. Assá"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, hása-1 — https://www.kimbundu.org/pt/word/hasa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
