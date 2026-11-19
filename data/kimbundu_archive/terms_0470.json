@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4804,
+      "kimbundu_term": "Kîdia-kîdia",
+      "portuguese_translation": "Será verdade!? Poderá ser? É tb. interj",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kîdia-kîdia-1 — https://www.kimbundu.org/pt/word/kidia-kidia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4805,
+      "kimbundu_term": "Kidia-ndende",
+      "portuguese_translation": "Ave trepadora, vulgarmente conhecida por «polícia dos matos»",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidia-ndende-1 — https://www.kimbundu.org/pt/word/kidia-ndende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4806,
+      "kimbundu_term": "Kidia-ndende",
+      "portuguese_translation": "Tucano",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidia-ndende-1 — https://www.kimbundu.org/pt/word/kidia-ndende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4807,
+      "kimbundu_term": "Kidiakáji",
+      "portuguese_translation": "Mulher que come muito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidiakáji-1 — https://www.kimbundu.org/pt/word/kidiakaji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4808,
+      "kimbundu_term": "Kidiakáji",
+      "portuguese_translation": "Glutona",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidiakáji-1 — https://www.kimbundu.org/pt/word/kidiakaji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4809,
+      "kimbundu_term": "Kidiakáji",
+      "portuguese_translation": "Devoradora",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidiakáji-1 — https://www.kimbundu.org/pt/word/kidiakaji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4810,
+      "kimbundu_term": "Kidiandu",
+      "portuguese_translation": "Órgão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidiandu-1 — https://www.kimbundu.org/pt/word/kidiandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4811,
+      "kimbundu_term": "Kidiandu",
+      "portuguese_translation": "Membro",
+      "definition": null,
+      "alternative_meanings": [
+        "articulação",
+        "junta"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidiandu-1 — https://www.kimbundu.org/pt/word/kidiandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4812,
+      "kimbundu_term": "Kidiangelu",
+      "portuguese_translation": "Adiantamento",
+      "definition": null,
+      "alternative_meanings": [
+        "Avanço",
+        "O que vai adiante"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidiangelu-1 — https://www.kimbundu.org/pt/word/kidiangelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4813,
+      "kimbundu_term": "Kidiangombe",
+      "portuguese_translation": "Planta medicinal utilizada em casos de varíola",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidiangombe-1 — https://www.kimbundu.org/pt/word/kidiangombe",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
