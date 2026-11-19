@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7724,
+      "kimbundu_term": "Kubosomona",
+      "portuguese_translation": "Esfarelar",
+      "definition": null,
+      "alternative_meanings": [
+        "reduzir a pequenos fragmentos: —"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubosomona-1 — https://www.kimbundu.org/pt/word/kubosomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7725,
+      "kimbundu_term": "Kubosomona",
+      "portuguese_translation": "rikende",
+      "definition": null,
+      "alternative_meanings": [
+        "Esmigalhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubosomona-1 — https://www.kimbundu.org/pt/word/kubosomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7726,
+      "kimbundu_term": "Kubosomona",
+      "portuguese_translation": "Esboroamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubosomona-1 — https://www.kimbundu.org/pt/word/kubosomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7727,
+      "kimbundu_term": "Kubosomona",
+      "portuguese_translation": "Kuribosomona, v. r. Esfarelar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubosomona-1 — https://www.kimbundu.org/pt/word/kubosomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7728,
+      "kimbundu_term": "Kúbota",
+      "portuguese_translation": "Fervilhar",
+      "definition": null,
+      "alternative_meanings": [
+        "fermentar",
+        "borbotar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbota-1 — https://www.kimbundu.org/pt/word/kubota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7729,
+      "kimbundu_term": "Kúbota",
+      "portuguese_translation": "Fiar",
+      "definition": null,
+      "alternative_meanings": [
+        "trançar",
+        "tecer",
+        "Fazer fio, linha"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbota-1 — https://www.kimbundu.org/pt/word/kubota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7730,
+      "kimbundu_term": "Kúbota",
+      "portuguese_translation": "Torcedura. Fermentação",
+      "definition": null,
+      "alternative_meanings": [
+        "borbulho"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbota-1 — https://www.kimbundu.org/pt/word/kubota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7731,
+      "kimbundu_term": "Kubóta",
+      "portuguese_translation": "e intr. Cair em desuso",
+      "definition": null,
+      "alternative_meanings": [
+        "Sofrer dano, prejuízo",
+        "Diminuir de valor, de merecimento, de conceito",
+        "Perder, ser vencido (em jogo, aposta",
+        "etc.)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubóta-1 — https://www.kimbundu.org/pt/word/kubota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7732,
+      "kimbundu_term": "Kubóta",
+      "portuguese_translation": "Kuribóta, e r. Desvalorizar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "estragar-se",
+        "ficar sem cotação",
+        "Perder-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubóta-1 — https://www.kimbundu.org/pt/word/kubota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7733,
+      "kimbundu_term": "Kuboteka",
+      "portuguese_translation": "Mergulhar",
+      "definition": null,
+      "alternative_meanings": [
+        "afundar",
+        "precipitar no abismo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuboteka-1 — https://www.kimbundu.org/pt/word/kuboteka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
