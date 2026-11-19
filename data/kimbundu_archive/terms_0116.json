@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1264,
+      "kimbundu_term": "Disóto",
+      "portuguese_translation": "Procura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disóto-1 — https://www.kimbundu.org/pt/word/disoto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1265,
+      "kimbundu_term": "Disôxi",
+      "portuguese_translation": "Gota líquida",
+      "definition": null,
+      "alternative_meanings": [
+        "lágrima. Pingo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disôxi-1 — https://www.kimbundu.org/pt/word/disoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1266,
+      "kimbundu_term": "Disu",
+      "portuguese_translation": "Olho",
+      "definition": null,
+      "alternative_meanings": [
+        "furo. Ponto de que há de sair cada grelo do tubérculo",
+        "Vertícilo",
+        "nó"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disu-1 — https://www.kimbundu.org/pt/word/disu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1267,
+      "kimbundu_term": "Disu",
+      "portuguese_translation": "Perspicácia",
+      "definition": null,
+      "alternative_meanings": [
+        "atenção"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disu-1 — https://www.kimbundu.org/pt/word/disu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1268,
+      "kimbundu_term": "Disuamenu",
+      "portuguese_translation": "Esconderijo",
+      "definition": null,
+      "alternative_meanings": [
+        "latíbulo",
+        "refúgio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disuamenu-1 — https://www.kimbundu.org/pt/word/disuamenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1269,
+      "kimbundu_term": "Disubu",
+      "portuguese_translation": "Sobejo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disubu-1 — https://www.kimbundu.org/pt/word/disubu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1270,
+      "kimbundu_term": "Disubu",
+      "portuguese_translation": "Restante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disubu-1 — https://www.kimbundu.org/pt/word/disubu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1271,
+      "kimbundu_term": "Disue",
+      "portuguese_translation": "Alquequenje",
+      "definition": null,
+      "alternative_meanings": [
+        "Planta da família das solanáceas (Solanum tinctorium), semelhante à erva moura"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disue-1 — https://www.kimbundu.org/pt/word/disue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1272,
+      "kimbundu_term": "Disuêmu",
+      "portuguese_translation": "Faculdade de se ocultar, de se esconder",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disuêmu-1 — https://www.kimbundu.org/pt/word/disuemu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1273,
+      "kimbundu_term": "Disui",
+      "portuguese_translation": "Lêndea",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, disui-1 — https://www.kimbundu.org/pt/word/disui",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
