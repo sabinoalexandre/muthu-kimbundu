@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1214,
+      "kimbundu_term": "Diônene",
+      "portuguese_translation": "Grande",
+      "definition": null,
+      "alternative_meanings": [
+        "maior",
+        "notável"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diônene-1 — https://www.kimbundu.org/pt/word/dionene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1215,
+      "kimbundu_term": "Dionga",
+      "portuguese_translation": "Pequena lança de arremesso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dionga-1 — https://www.kimbundu.org/pt/word/dionga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1216,
+      "kimbundu_term": "Dionga",
+      "portuguese_translation": "Zagaia",
+      "definition": null,
+      "alternative_meanings": [
+        "seta"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dionga-1 — https://www.kimbundu.org/pt/word/dionga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1217,
+      "kimbundu_term": "Diongo",
+      "portuguese_translation": "Arpão bifurcado para fisgar peixes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diongo-1 — https://www.kimbundu.org/pt/word/diongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1218,
+      "kimbundu_term": "Diongo",
+      "portuguese_translation": "Nome por que no Seles se conhece a euphorbia ambacensis",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diongo-1 — https://www.kimbundu.org/pt/word/diongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1219,
+      "kimbundu_term": "Dioso",
+      "portuguese_translation": "(IV) Inteiro",
+      "definition": null,
+      "alternative_meanings": [
+        "completo. Todo",
+        "toda"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dioso-1 — https://www.kimbundu.org/pt/word/dioso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1220,
+      "kimbundu_term": "Dioso",
+      "portuguese_translation": "A totalidade",
+      "definition": null,
+      "alternative_meanings": [
+        "tudo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dioso-1 — https://www.kimbundu.org/pt/word/dioso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1221,
+      "kimbundu_term": "Dioso",
+      "portuguese_translation": "Ao todo",
+      "definition": null,
+      "alternative_meanings": [
+        "completamente",
+        "por junto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dioso-1 — https://www.kimbundu.org/pt/word/dioso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1222,
+      "kimbundu_term": "Dioso",
+      "portuguese_translation": "O conjunto",
+      "definition": null,
+      "alternative_meanings": [
+        "a soma",
+        "o aspeto geral"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dioso-1 — https://www.kimbundu.org/pt/word/dioso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1223,
+      "kimbundu_term": "Dióue",
+      "portuguese_translation": "Passatempo entre duas pessoas das quais uma ganha e outra perde",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dióue-1 — https://www.kimbundu.org/pt/word/dioue",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
