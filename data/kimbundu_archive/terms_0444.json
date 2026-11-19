@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4544,
+      "kimbundu_term": "Kibebe",
+      "portuguese_translation": "Impetuosidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibebe-1 — https://www.kimbundu.org/pt/word/kibebe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4545,
+      "kimbundu_term": "Kibebe",
+      "portuguese_translation": "adj. Maleável",
+      "definition": null,
+      "alternative_meanings": [
+        "brando",
+        "mole",
+        "Fraco",
+        "leve"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibebe-1 — https://www.kimbundu.org/pt/word/kibebe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4546,
+      "kimbundu_term": "Kibébu",
+      "portuguese_translation": "Reboco",
+      "definition": null,
+      "alternative_meanings": [
+        "cafelo",
+        "Revestimento de barro ou argamassa numa parede",
+        "Acafelamento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibébu-1 — https://www.kimbundu.org/pt/word/kibebu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4547,
+      "kimbundu_term": "Kibekele",
+      "portuguese_translation": "Volúvel",
+      "definition": null,
+      "alternative_meanings": [
+        "que se oferece",
+        "Maleável",
+        "inconstante"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibekele-1 — https://www.kimbundu.org/pt/word/kibekele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4548,
+      "kimbundu_term": "Kibelabela",
+      "portuguese_translation": "Carne magra e enrugada. Pelanga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibelabela-1 — https://www.kimbundu.org/pt/word/kibelabela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4549,
+      "kimbundu_term": "Kibelejua",
+      "portuguese_translation": "adj. (III) Que não tem força ou resistência. Fraco",
+      "definition": null,
+      "alternative_meanings": [
+        "Debilitado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibelejua-1 — https://www.kimbundu.org/pt/word/kibelejua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4550,
+      "kimbundu_term": "Kibelejua",
+      "portuguese_translation": "Homem fraco, sem condições de resistência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibelejua-1 — https://www.kimbundu.org/pt/word/kibelejua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4551,
+      "kimbundu_term": "Kibelekete",
+      "portuguese_translation": "Que não é duro",
+      "definition": null,
+      "alternative_meanings": [
+        "Que cede à pressão",
+        "Fraco",
+        "leve"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibelekete-1 — https://www.kimbundu.org/pt/word/kibelekete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4552,
+      "kimbundu_term": "Kibeletete",
+      "portuguese_translation": "Escama (de peixe). Pele seca que se forma ou se desprende da epiderme",
+      "definition": null,
+      "alternative_meanings": [
+        "Adorno em forma de escama"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibeletete-1 — https://www.kimbundu.org/pt/word/kibeletete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4553,
+      "kimbundu_term": "Kibemba",
+      "portuguese_translation": "Carta de acusação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibemba-1 — https://www.kimbundu.org/pt/word/kibemba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
