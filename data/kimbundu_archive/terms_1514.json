@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15244,
+      "kimbundu_term": "Mbôdi",
+      "portuguese_translation": "Pancada com a cabeça do dedo médio (curvado e estendido de repente)",
+      "definition": null,
+      "alternative_meanings": [
+        "piparote"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbôdi-1 — https://www.kimbundu.org/pt/word/mbodi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15245,
+      "kimbundu_term": "Mbôdio",
+      "portuguese_translation": "Pássaro conirostro fringilídeo",
+      "definition": null,
+      "alternative_meanings": [
+        "pardal"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbôdio-1 — https://www.kimbundu.org/pt/word/mbodio",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15246,
+      "kimbundu_term": "Mbodiongo",
+      "portuguese_translation": "Mamífero carnívoro do género «canis»",
+      "definition": null,
+      "alternative_meanings": [
+        "chacal",
+        "cão selvagem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbodiongo-1 — https://www.kimbundu.org/pt/word/mbodiongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15247,
+      "kimbundu_term": "Mbojo",
+      "portuguese_translation": "A que falta um ou os dois chifres",
+      "definition": null,
+      "alternative_meanings": [
+        "mocho"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbojo-1 — https://www.kimbundu.org/pt/word/mbojo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15248,
+      "kimbundu_term": "Mbojo",
+      "portuguese_translation": "Que não tem grãos ou sementes",
+      "definition": null,
+      "alternative_meanings": [
+        "que não tem galhos ou ramos",
+        "que não tem mastros",
+        "mutilado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbojo-1 — https://www.kimbundu.org/pt/word/mbojo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15249,
+      "kimbundu_term": "Mbojo",
+      "portuguese_translation": "Planta ou animal mocho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbojo-1 — https://www.kimbundu.org/pt/word/mbojo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15250,
+      "kimbundu_term": "Mbole",
+      "portuguese_translation": "Floresta com…",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbole-1 — https://www.kimbundu.org/pt/word/mbole",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15251,
+      "kimbundu_term": "Mbole",
+      "portuguese_translation": "mato à mistura",
+      "definition": null,
+      "alternative_meanings": [
+        "selva",
+        "mato abundante de caça",
+        "mato onde se vai caçar",
+        "a própria caça"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbole-1 — https://www.kimbundu.org/pt/word/mbole",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15252,
+      "kimbundu_term": "Mbólo",
+      "portuguese_translation": "(do português) bolo",
+      "definition": null,
+      "alternative_meanings": [
+        "pão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbólo-1 — https://www.kimbundu.org/pt/word/mbolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15253,
+      "kimbundu_term": "Mbololo",
+      "portuguese_translation": "bastão em que apoiamos a mão quando andamos",
+      "definition": null,
+      "alternative_meanings": [
+        "bengala",
+        "cacete"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbololo-1 — https://www.kimbundu.org/pt/word/mbololo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
