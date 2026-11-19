@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15814,
+      "kimbundu_term": "Móso",
+      "portuguese_translation": "Companheiro",
+      "definition": null,
+      "alternative_meanings": [
+        "amigo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, móso-1 — https://www.kimbundu.org/pt/word/moso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15815,
+      "kimbundu_term": "Môta",
+      "portuguese_translation": "Armas",
+      "definition": null,
+      "alternative_meanings": [
+        "espingardas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, môta-1 — https://www.kimbundu.org/pt/word/mota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15816,
+      "kimbundu_term": "Môta",
+      "portuguese_translation": "O mesmo que mauta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, môta-1 — https://www.kimbundu.org/pt/word/mota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15817,
+      "kimbundu_term": "Môuau",
+      "portuguese_translation": "Amanhã. Mais tarde",
+      "definition": null,
+      "alternative_meanings": [
+        "depois"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, môuau-1 — https://www.kimbundu.org/pt/word/mouau",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15818,
+      "kimbundu_term": "Môuau",
+      "portuguese_translation": "O dia seguinte",
+      "definition": null,
+      "alternative_meanings": [
+        "a época futura"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, môuau-1 — https://www.kimbundu.org/pt/word/mouau",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15819,
+      "kimbundu_term": "Móxi",
+      "portuguese_translation": "(I) Um",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, móxi-1 — https://www.kimbundu.org/pt/word/moxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15820,
+      "kimbundu_term": "Móxi",
+      "portuguese_translation": "Unidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, móxi-1 — https://www.kimbundu.org/pt/word/moxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15821,
+      "kimbundu_term": "Móxi",
+      "portuguese_translation": "Na parte interior",
+      "definition": null,
+      "alternative_meanings": [
+        "dentro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, móxi-1 — https://www.kimbundu.org/pt/word/moxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15822,
+      "kimbundu_term": "Móxi",
+      "portuguese_translation": "No meio de",
+      "definition": null,
+      "alternative_meanings": [
+        "Entre., com os seus botões",
+        "lá consigo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, móxi-1 — https://www.kimbundu.org/pt/word/moxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15823,
+      "kimbundu_term": "Móxi",
+      "portuguese_translation": "adj. Unido",
+      "definition": null,
+      "alternative_meanings": [
+        "ligado",
+        "junto. Paralelo",
+        "igual"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio, preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, móxi-1 — https://www.kimbundu.org/pt/word/moxi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
