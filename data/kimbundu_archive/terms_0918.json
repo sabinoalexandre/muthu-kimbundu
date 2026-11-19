@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9284,
+      "kimbundu_term": "Kukatuka",
+      "portuguese_translation": "Partida",
+      "definition": null,
+      "alternative_meanings": [
+        "saída"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukatuka-1 — https://www.kimbundu.org/pt/word/kukatuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9285,
+      "kimbundu_term": "Kukatula",
+      "portuguese_translation": "Tirar",
+      "definition": null,
+      "alternative_meanings": [
+        "exceptuar",
+        "excluir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukatula-1 — https://www.kimbundu.org/pt/word/kukatula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9286,
+      "kimbundu_term": "Kukatula",
+      "portuguese_translation": "Participar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukatula-1 — https://www.kimbundu.org/pt/word/kukatula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9287,
+      "kimbundu_term": "Kukatula",
+      "portuguese_translation": "Parecer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukatula-1 — https://www.kimbundu.org/pt/word/kukatula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9288,
+      "kimbundu_term": "Kukatula",
+      "portuguese_translation": "Kurikatula, v. r. Eliminar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "excluir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukatula-1 — https://www.kimbundu.org/pt/word/kukatula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9289,
+      "kimbundu_term": "Kukauidila",
+      "portuguese_translation": "Sair ao encontro de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukauidila-1 — https://www.kimbundu.org/pt/word/kukauidila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9290,
+      "kimbundu_term": "Kukauidila",
+      "portuguese_translation": "Antecipar",
+      "definition": null,
+      "alternative_meanings": [
+        "interromper"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukauidila-1 — https://www.kimbundu.org/pt/word/kukauidila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9291,
+      "kimbundu_term": "Kukauidila",
+      "portuguese_translation": "Atalhar",
+      "definition": null,
+      "alternative_meanings": [
+        "interceptar",
+        "deter no seu curso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukauidila-1 — https://www.kimbundu.org/pt/word/kukauidila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9292,
+      "kimbundu_term": "Kukauila",
+      "portuguese_translation": "Ir por atalho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukauila-1 — https://www.kimbundu.org/pt/word/kukauila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9293,
+      "kimbundu_term": "Kukáuka",
+      "portuguese_translation": "Justar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornear",
+        "campear"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukáuka-1 — https://www.kimbundu.org/pt/word/kukauka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
