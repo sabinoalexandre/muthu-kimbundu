@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18954,
+      "kimbundu_term": "Selengenya",
+      "portuguese_translation": "Referência vaga ou indireta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, selengenya-1 — https://www.kimbundu.org/pt/word/selengenya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18955,
+      "kimbundu_term": "Selengenya",
+      "portuguese_translation": "Alusão",
+      "definition": null,
+      "alternative_meanings": [
+        "censura jocosa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, selengenya-1 — https://www.kimbundu.org/pt/word/selengenya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18956,
+      "kimbundu_term": "Selevende",
+      "portuguese_translation": "Servente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, selevende-1 — https://www.kimbundu.org/pt/word/selevende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18957,
+      "kimbundu_term": "Sembele",
+      "portuguese_translation": "Sofrível",
+      "definition": null,
+      "alternative_meanings": [
+        "suportável. Que não é mau de todo, Pouco melhor"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sembele-1 — https://www.kimbundu.org/pt/word/sembele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18958,
+      "kimbundu_term": "Sembele",
+      "portuguese_translation": "sub Melhoria",
+      "definition": null,
+      "alternative_meanings": [
+        "alívio",
+        "mudança para melhor estado ou condição"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sembele-1 — https://www.kimbundu.org/pt/word/sembele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18959,
+      "kimbundu_term": "Sembele",
+      "portuguese_translation": "Melhor",
+      "definition": null,
+      "alternative_meanings": [
+        "mais bem"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sembele-1 — https://www.kimbundu.org/pt/word/sembele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18960,
+      "kimbundu_term": "Semenyi",
+      "portuguese_translation": "(IX) Mesquinho",
+      "definition": null,
+      "alternative_meanings": [
+        "infame",
+        "vil"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, semenyi-1 — https://www.kimbundu.org/pt/word/semenyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18961,
+      "kimbundu_term": "Semenyi",
+      "portuguese_translation": "Raça: que repugna ao brio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, semenyi-1 — https://www.kimbundu.org/pt/word/semenyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18962,
+      "kimbundu_term": "Semenyi",
+      "portuguese_translation": "Pessoa perversa, miserável",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, semenyi-1 — https://www.kimbundu.org/pt/word/semenyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18963,
+      "kimbundu_term": "Semvu",
+      "portuguese_translation": "Antílope, de que há várias espécies",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, semvu-1 — https://www.kimbundu.org/pt/word/semvu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
