@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16624,
+      "kimbundu_term": "Muláji",
+      "portuguese_translation": "Ébano. Árvore de madeira escura, espécie de carvalho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muláji-1 — https://www.kimbundu.org/pt/word/mulaji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16625,
+      "kimbundu_term": "Mulakasu",
+      "portuguese_translation": "Restolho",
+      "definition": null,
+      "alternative_meanings": [
+        "sussurro (de folhas secas). Ruído parecido ao que se faz andando sobre o capim seco. Fru-fru"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulakasu-1 — https://www.kimbundu.org/pt/word/mulakasu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16626,
+      "kimbundu_term": "Múlake",
+      "portuguese_translation": "Impertérrito",
+      "definition": null,
+      "alternative_meanings": [
+        "denodado",
+        "intrépido. Aquele que não tem medo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múlake-1 — https://www.kimbundu.org/pt/word/mulake",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16627,
+      "kimbundu_term": "Mulâla",
+      "portuguese_translation": "Pano folgado entre as pernas, atado na cintura. Espécie de bragas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulâla-1 — https://www.kimbundu.org/pt/word/mulala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16628,
+      "kimbundu_term": "Mulalanza",
+      "portuguese_translation": "Laranjeira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulalanza-1 — https://www.kimbundu.org/pt/word/mulalanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16629,
+      "kimbundu_term": "Múlalu",
+      "portuguese_translation": "Ponte flutuante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múlalu-1 — https://www.kimbundu.org/pt/word/mulalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16630,
+      "kimbundu_term": "Múlalu",
+      "portuguese_translation": "Pequeno rio afluente do Quanza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múlalu-1 — https://www.kimbundu.org/pt/word/mulalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16631,
+      "kimbundu_term": "Mulamba",
+      "portuguese_translation": "Moxama",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulamba-1 — https://www.kimbundu.org/pt/word/mulamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16632,
+      "kimbundu_term": "Múlambe",
+      "portuguese_translation": "Cozinheiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múlambe-1 — https://www.kimbundu.org/pt/word/mulambe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16633,
+      "kimbundu_term": "Mulambongo",
+      "portuguese_translation": "Antiga moeda de cobre que valia 5 réis (ou 3 réis portugueses). Valor dado ao antigo pano-moeda (mulele-mbongo)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mulambongo-1 — https://www.kimbundu.org/pt/word/mulambongo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
