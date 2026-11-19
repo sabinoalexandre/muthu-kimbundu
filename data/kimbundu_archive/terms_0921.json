@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9314,
+      "kimbundu_term": "Kukayela",
+      "portuguese_translation": "Ir atrás de",
+      "definition": null,
+      "alternative_meanings": [
+        "acompanhar: prosseguir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukayela-1 — https://www.kimbundu.org/pt/word/kukayela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9315,
+      "kimbundu_term": "Kukayela",
+      "portuguese_translation": "Ir no encalço",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukayela-1 — https://www.kimbundu.org/pt/word/kukayela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9316,
+      "kimbundu_term": "Kukayela",
+      "portuguese_translation": "Prosseguimento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukayela-1 — https://www.kimbundu.org/pt/word/kukayela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9317,
+      "kimbundu_term": "Kukayela",
+      "portuguese_translation": "Kurikaiela, e r. Vir, chegar depois de",
+      "definition": null,
+      "alternative_meanings": [
+        "seguir-se",
+        "resultar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukayela-1 — https://www.kimbundu.org/pt/word/kukayela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9318,
+      "kimbundu_term": "Kukayesa",
+      "portuguese_translation": "Afugentar, fazer espantar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukayesa-1 — https://www.kimbundu.org/pt/word/kukayesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9319,
+      "kimbundu_term": "Kukayesa",
+      "portuguese_translation": "Expulsar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukayesa-1 — https://www.kimbundu.org/pt/word/kukayesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9320,
+      "kimbundu_term": "Kukéka",
+      "portuguese_translation": "Chiar",
+      "definition": null,
+      "alternative_meanings": [
+        "trilar",
+        "produzir som agudo e prolongado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukéka-1 — https://www.kimbundu.org/pt/word/kukeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9321,
+      "kimbundu_term": "Kukéka",
+      "portuguese_translation": "Gorgear",
+      "definition": null,
+      "alternative_meanings": [
+        "soltar trinados",
+        "cantar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukéka-1 — https://www.kimbundu.org/pt/word/kukeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9322,
+      "kimbundu_term": "Kukéka",
+      "portuguese_translation": "Trilo",
+      "definition": null,
+      "alternative_meanings": [
+        "trinado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukéka-1 — https://www.kimbundu.org/pt/word/kukeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9323,
+      "kimbundu_term": "Kúkeka",
+      "portuguese_translation": "Estalar",
+      "definition": null,
+      "alternative_meanings": [
+        "fender-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkeka-1 — https://www.kimbundu.org/pt/word/kukeka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
