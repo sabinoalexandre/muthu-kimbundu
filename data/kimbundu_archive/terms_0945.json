@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9554,
+      "kimbundu_term": "Kúkoma",
+      "portuguese_translation": "Ter comoção",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkoma-1 — https://www.kimbundu.org/pt/word/kukoma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9555,
+      "kimbundu_term": "Kukomba",
+      "portuguese_translation": "Varrer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukomba-1 — https://www.kimbundu.org/pt/word/kukomba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9556,
+      "kimbundu_term": "Kukomba",
+      "portuguese_translation": "Vasculhar",
+      "definition": null,
+      "alternative_meanings": [
+        "limpar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukomba-1 — https://www.kimbundu.org/pt/word/kukomba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9557,
+      "kimbundu_term": "Kukomba",
+      "portuguese_translation": "Ato de varrer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukomba-1 — https://www.kimbundu.org/pt/word/kukomba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9558,
+      "kimbundu_term": "Kukomba",
+      "portuguese_translation": "Kurikomba, e r. Limpar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukomba-1 — https://www.kimbundu.org/pt/word/kukomba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9559,
+      "kimbundu_term": "Kukombela",
+      "portuguese_translation": "Varrer no lugar de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukombela-1 — https://www.kimbundu.org/pt/word/kukombela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9560,
+      "kimbundu_term": "Kukombesa",
+      "portuguese_translation": "Mandar limpar, varrer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukombesa-1 — https://www.kimbundu.org/pt/word/kukombesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9561,
+      "kimbundu_term": "Kukombesa",
+      "portuguese_translation": "Kurikombesa, v. r. Fazer-se limpar (de sujidades)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukombesa-1 — https://www.kimbundu.org/pt/word/kukombesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9562,
+      "kimbundu_term": "Kukombola",
+      "portuguese_translation": "Comprar negócio por atacado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukombola-1 — https://www.kimbundu.org/pt/word/kukombola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9563,
+      "kimbundu_term": "Kukombola",
+      "portuguese_translation": "Escambar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer cambolação",
+        "permutar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukombola-1 — https://www.kimbundu.org/pt/word/kukombola",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
