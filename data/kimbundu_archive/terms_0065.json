@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 754,
+      "kimbundu_term": "Diê",
+      "portuguese_translation": "e pron. poss. (contr. da prep. ria e pron. pess. eis) Teu",
+      "definition": null,
+      "alternative_meanings": [
+        "tua: o rue rind —",
+        "Da tua pessoa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diê-1 — https://www.kimbundu.org/pt/word/die",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 755,
+      "kimbundu_term": "Diê",
+      "portuguese_translation": "interrog. Qual? que dele? onde está??",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diê-1 — https://www.kimbundu.org/pt/word/die",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 756,
+      "kimbundu_term": "Die",
+      "portuguese_translation": "Seu",
+      "definition": null,
+      "alternative_meanings": [
+        "sua"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, die-1 — https://www.kimbundu.org/pt/word/die",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 757,
+      "kimbundu_term": "Die",
+      "portuguese_translation": "Dele",
+      "definition": null,
+      "alternative_meanings": [
+        "da sua pessoa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, die-1 — https://www.kimbundu.org/pt/word/die",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 758,
+      "kimbundu_term": "Diêbi",
+      "portuguese_translation": "Qual? Que dele?",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diêbi-1 — https://www.kimbundu.org/pt/word/diebi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 759,
+      "kimbundu_term": "Diédi",
+      "portuguese_translation": "Esta",
+      "definition": null,
+      "alternative_meanings": [
+        "este"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diédi-1 — https://www.kimbundu.org/pt/word/diedi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 760,
+      "kimbundu_term": "Diédi",
+      "portuguese_translation": "Presente",
+      "definition": null,
+      "alternative_meanings": [
+        "que está à vista"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diédi-1 — https://www.kimbundu.org/pt/word/diedi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 761,
+      "kimbundu_term": "Diedinu",
+      "portuguese_translation": "Hoje em dia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diedinu-1 — https://www.kimbundu.org/pt/word/diedinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 762,
+      "kimbundu_term": "Diedinu",
+      "portuguese_translation": "Presentemente",
+      "definition": null,
+      "alternative_meanings": [
+        "agora"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diedinu-1 — https://www.kimbundu.org/pt/word/diedinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 763,
+      "kimbundu_term": "Diedinu",
+      "portuguese_translation": "O momento que vai passando",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diedinu-1 — https://www.kimbundu.org/pt/word/diedinu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
