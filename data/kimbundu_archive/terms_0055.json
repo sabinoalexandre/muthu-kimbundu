@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 654,
+      "kimbundu_term": "Dibla",
+      "portuguese_translation": "Seara",
+      "definition": null,
+      "alternative_meanings": [
+        "horta",
+        "lavra"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibla-1 — https://www.kimbundu.org/pt/word/dibla",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 655,
+      "kimbundu_term": "Dibla",
+      "portuguese_translation": "Plantação",
+      "definition": null,
+      "alternative_meanings": [
+        "arimo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibla-1 — https://www.kimbundu.org/pt/word/dibla",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 656,
+      "kimbundu_term": "Dibofelu",
+      "portuguese_translation": "Lugar onde se faz tecelagem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibofelu-1 — https://www.kimbundu.org/pt/word/dibofelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 657,
+      "kimbundu_term": "Diboho",
+      "portuguese_translation": "Gafanhoto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diboho-1 — https://www.kimbundu.org/pt/word/diboho",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 658,
+      "kimbundu_term": "Diboi",
+      "portuguese_translation": "Modorra",
+      "definition": null,
+      "alternative_meanings": [
+        "sonolência"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diboi-1 — https://www.kimbundu.org/pt/word/diboi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 659,
+      "kimbundu_term": "Diboi",
+      "portuguese_translation": "Apatia",
+      "definition": null,
+      "alternative_meanings": [
+        "indolência"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diboi-1 — https://www.kimbundu.org/pt/word/diboi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 660,
+      "kimbundu_term": "Diboi",
+      "portuguese_translation": "adj. e sub. Modorrento",
+      "definition": null,
+      "alternative_meanings": [
+        "apático"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diboi-1 — https://www.kimbundu.org/pt/word/diboi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 661,
+      "kimbundu_term": "Dibókela",
+      "portuguese_translation": "Anúncio",
+      "definition": null,
+      "alternative_meanings": [
+        "aviso em que se dá conhecimento de algum facto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibókela-1 — https://www.kimbundu.org/pt/word/dibokela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 662,
+      "kimbundu_term": "Dibókela",
+      "portuguese_translation": "Prevenção",
+      "definition": null,
+      "alternative_meanings": [
+        "pregão",
+        "notícia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibókela-1 — https://www.kimbundu.org/pt/word/dibokela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 663,
+      "kimbundu_term": "Dibokélu",
+      "portuguese_translation": "Aparelho para transmitir, para falar ao longe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dibokélu-1 — https://www.kimbundu.org/pt/word/dibokelu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
