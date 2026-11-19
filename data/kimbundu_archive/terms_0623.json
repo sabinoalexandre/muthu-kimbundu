@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6334,
+      "kimbundu_term": "Kitekelu",
+      "portuguese_translation": "Regador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitekelu-1 — https://www.kimbundu.org/pt/word/kitekelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6335,
+      "kimbundu_term": "Kitelekete",
+      "portuguese_translation": "Peça de mobiliário",
+      "definition": null,
+      "alternative_meanings": [
+        "Traste"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitelekete-1 — https://www.kimbundu.org/pt/word/kitelekete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6336,
+      "kimbundu_term": "Kitelekete",
+      "portuguese_translation": "Impertinente",
+      "definition": null,
+      "alternative_meanings": [
+        "ordinário",
+        "reles"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitelekete-1 — https://www.kimbundu.org/pt/word/kitelekete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6337,
+      "kimbundu_term": "Kitelêle",
+      "portuguese_translation": "Haste",
+      "definition": null,
+      "alternative_meanings": [
+        "caule",
+        "Diz-se do tronco onde espiga o milho",
+        "Caniço",
+        "É m. us. no pl. itelêle"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitelêle-1 — https://www.kimbundu.org/pt/word/kitelele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6338,
+      "kimbundu_term": "Kitelembe",
+      "portuguese_translation": "Telheiro",
+      "definition": null,
+      "alternative_meanings": [
+        "velário",
+        "sombra",
+        "Cobertura fixa ou volante de madeira ou palha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitelembe-1 — https://www.kimbundu.org/pt/word/kitelembe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6339,
+      "kimbundu_term": "Kitelu",
+      "portuguese_translation": "Brilho rápido",
+      "definition": null,
+      "alternative_meanings": [
+        "Corisco",
+        "lampejo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitelu-1 — https://www.kimbundu.org/pt/word/kitelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6340,
+      "kimbundu_term": "Kitelu",
+      "portuguese_translation": "Relâmpago",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitelu-1 — https://www.kimbundu.org/pt/word/kitelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6341,
+      "kimbundu_term": "Kitélu",
+      "portuguese_translation": "Comparação",
+      "definition": null,
+      "alternative_meanings": [
+        "forma de dizer",
+        "exemplo",
+        "Facto aduzido como demonstração ou explicação"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitélu-1 — https://www.kimbundu.org/pt/word/kitelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6342,
+      "kimbundu_term": "Kitembe",
+      "portuguese_translation": "Traiçoeiro",
+      "definition": null,
+      "alternative_meanings": [
+        "velhaco",
+        "fig. Espião",
+        "Birbante"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitembe-1 — https://www.kimbundu.org/pt/word/kitembe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6343,
+      "kimbundu_term": "Kitembelexete",
+      "portuguese_translation": "Basbaque",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitembelexete-1 — https://www.kimbundu.org/pt/word/kitembelexete",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
