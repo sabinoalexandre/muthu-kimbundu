@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2714,
+      "kimbundu_term": "Jingúnji",
+      "portuguese_translation": "Pilares",
+      "definition": null,
+      "alternative_meanings": [
+        "Escoras",
+        "Colunas",
+        "Apoios",
+        "encostos",
+        "fig. Penhores"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jingúnji-1 — https://www.kimbundu.org/pt/word/jingunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2715,
+      "kimbundu_term": "Jingunyo",
+      "portuguese_translation": "Família de plantas trepadeiras, vizinhas das ramnáceas",
+      "definition": null,
+      "alternative_meanings": [
+        "Plantas celastrinas",
+        "Cipó",
+        "Plantas sarmentosas",
+        "Terreno em que abundam destas plantas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jingunyo-1 — https://www.kimbundu.org/pt/word/jingunyo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2716,
+      "kimbundu_term": "Jingúnza",
+      "portuguese_translation": "Heróis",
+      "definition": null,
+      "alternative_meanings": [
+        "Pajens",
+        "Arautos",
+        "Mensageiros"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jingúnza-1 — https://www.kimbundu.org/pt/word/jingunza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2717,
+      "kimbundu_term": "Jingusúsu",
+      "portuguese_translation": "Família de plantas combretáceas",
+      "definition": null,
+      "alternative_meanings": [
+        "Conjunto de combretos",
+        "Sua plantação"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jingusúsu-1 — https://www.kimbundu.org/pt/word/jingususu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2718,
+      "kimbundu_term": "Jingúzu",
+      "portuguese_translation": "Forças",
+      "definition": null,
+      "alternative_meanings": [
+        "Rijeza",
+        "Vigor",
+        "Energias"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jingúzu-1 — https://www.kimbundu.org/pt/word/jinguzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2719,
+      "kimbundu_term": "Jinjanjinyu",
+      "portuguese_translation": "Anjinhos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jinjanjinyu-1 — https://www.kimbundu.org/pt/word/jinjanjinyu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2720,
+      "kimbundu_term": "Jinjanjinyu",
+      "portuguese_translation": "Algemas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jinjanjinyu-1 — https://www.kimbundu.org/pt/word/jinjanjinyu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2721,
+      "kimbundu_term": "Jinjende",
+      "portuguese_translation": "Vermes utilizados na pesca como isca",
+      "definition": null,
+      "alternative_meanings": [
+        "Minhocas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jinjende-1 — https://www.kimbundu.org/pt/word/jinjende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2722,
+      "kimbundu_term": "Jínji",
+      "portuguese_translation": "Moscaria",
+      "definition": null,
+      "alternative_meanings": [
+        "Mosquedo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jínji-1 — https://www.kimbundu.org/pt/word/jinji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2723,
+      "kimbundu_term": "Jínji",
+      "portuguese_translation": "Tipo de cabelo peculiar de certas raças, como os nigrilos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jínji-1 — https://www.kimbundu.org/pt/word/jinji",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
