@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11644,
+      "kimbundu_term": "Kusesumuka",
+      "portuguese_translation": "Kurisesumuna, v. r. Esfarelar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "Ficar carunchado, carcomer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusesumuka-1 — https://www.kimbundu.org/pt/word/kusesumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11645,
+      "kimbundu_term": "Kusesumuka",
+      "portuguese_translation": "Esboroamento",
+      "definition": null,
+      "alternative_meanings": [
+        "esmigalhamento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusesumuka-1 — https://www.kimbundu.org/pt/word/kusesumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11646,
+      "kimbundu_term": "Kuséta",
+      "portuguese_translation": "Marchetar",
+      "definition": null,
+      "alternative_meanings": [
+        "tauxiar",
+        "embutir",
+        "Fazer relevos em",
+        "matizar",
+        "esculpir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuséta-1 — https://www.kimbundu.org/pt/word/kuseta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11647,
+      "kimbundu_term": "Kuséta",
+      "portuguese_translation": "Manejar com destreza",
+      "definition": null,
+      "alternative_meanings": [
+        "jogar",
+        "Brincar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuséta-1 — https://www.kimbundu.org/pt/word/kuseta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11648,
+      "kimbundu_term": "Kuséta",
+      "portuguese_translation": "Marchetaria",
+      "definition": null,
+      "alternative_meanings": [
+        "embutidura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuséta-1 — https://www.kimbundu.org/pt/word/kuseta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11649,
+      "kimbundu_term": "Kuseteka",
+      "portuguese_translation": "Fazer combinação",
+      "definition": null,
+      "alternative_meanings": [
+        "consertar",
+        "acordar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuseteka-1 — https://www.kimbundu.org/pt/word/kuseteka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11650,
+      "kimbundu_term": "Kuseteka",
+      "portuguese_translation": "Kuriseteka, e r. Entrar em combinação",
+      "definition": null,
+      "alternative_meanings": [
+        "lembrar-se",
+        "ajustar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuseteka-1 — https://www.kimbundu.org/pt/word/kuseteka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11651,
+      "kimbundu_term": "Kusidivila",
+      "portuguese_translation": "Servir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusidivila-1 — https://www.kimbundu.org/pt/word/kusidivila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11652,
+      "kimbundu_term": "Kusike",
+      "portuguese_translation": "Pequeno afluente da margem direita do rio Luandu, na região do Moxico",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusike-1 — https://www.kimbundu.org/pt/word/kusike",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11653,
+      "kimbundu_term": "Kusindikalesa",
+      "portuguese_translation": "Fazer moderar, ajuizar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusindikalesa-1 — https://www.kimbundu.org/pt/word/kusindikalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
