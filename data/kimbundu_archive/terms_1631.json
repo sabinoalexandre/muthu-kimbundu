@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16414,
+      "kimbundu_term": "Mukéte",
+      "portuguese_translation": "Cavalo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukéte-1 — https://www.kimbundu.org/pt/word/mukete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16415,
+      "kimbundu_term": "Mukexilu",
+      "portuguese_translation": "Convivente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukexilu-1 — https://www.kimbundu.org/pt/word/mukexilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16416,
+      "kimbundu_term": "Mukezu",
+      "portuguese_translation": "Coleira. Grande árvore fam. das esterculáceas (edwardia lurida), de fruto comestível e medicinal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukezu-1 — https://www.kimbundu.org/pt/word/mukezu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16417,
+      "kimbundu_term": "Mukidikidi",
+      "portuguese_translation": "Carreira. Trato de terra percorrido a correr",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukidikidi-1 — https://www.kimbundu.org/pt/word/mukidikidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16418,
+      "kimbundu_term": "Múkila",
+      "portuguese_translation": "Cauda",
+      "definition": null,
+      "alternative_meanings": [
+        "rabo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkila-1 — https://www.kimbundu.org/pt/word/mukila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16419,
+      "kimbundu_term": "Múkila",
+      "portuguese_translation": "Espadana",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkila-1 — https://www.kimbundu.org/pt/word/mukila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16420,
+      "kimbundu_term": "Múkila",
+      "portuguese_translation": "adj. Caudato",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múkila-1 — https://www.kimbundu.org/pt/word/mukila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16421,
+      "kimbundu_term": "Mukíndi",
+      "portuguese_translation": "Que faz balançar, oscilar. Balanceador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukíndi-1 — https://www.kimbundu.org/pt/word/mukindi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16422,
+      "kimbundu_term": "Mukindu",
+      "portuguese_translation": "Balanceadura",
+      "definition": null,
+      "alternative_meanings": [
+        "oscilação"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukindu-1 — https://www.kimbundu.org/pt/word/mukindu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16423,
+      "kimbundu_term": "Mukindu",
+      "portuguese_translation": "Oscilante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mukindu-1 — https://www.kimbundu.org/pt/word/mukindu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
