@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7524,
+      "kimbundu_term": "Kubíla",
+      "portuguese_translation": "Passar e repassar (entre pessoas)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubíla-2 — https://www.kimbundu.org/pt/word/kubila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7525,
+      "kimbundu_term": "Kubíla",
+      "portuguese_translation": "Enroscar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "entrelaçar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubíla-2 — https://www.kimbundu.org/pt/word/kubila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7526,
+      "kimbundu_term": "Kubilama",
+      "portuguese_translation": "Embaraçar",
+      "definition": null,
+      "alternative_meanings": [
+        "obstruir",
+        "Estorvar o passo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubilama-1 — https://www.kimbundu.org/pt/word/kubilama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7527,
+      "kimbundu_term": "Kubilama",
+      "portuguese_translation": "Ficar ou estar atravancado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubilama-1 — https://www.kimbundu.org/pt/word/kubilama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7528,
+      "kimbundu_term": "Kubilama",
+      "portuguese_translation": "sub. Embaraço",
+      "definition": null,
+      "alternative_meanings": [
+        "obstrução"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubilama-1 — https://www.kimbundu.org/pt/word/kubilama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7529,
+      "kimbundu_term": "Kubilama",
+      "portuguese_translation": "Kuribilama, v. r. Embaraçar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "Obstruir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubilama-1 — https://www.kimbundu.org/pt/word/kubilama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7530,
+      "kimbundu_term": "Kubilongo",
+      "portuguese_translation": "Nome por que no Maiombe é conhecida a planta miristicácea mulongo-longo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubilongo-1 — https://www.kimbundu.org/pt/word/kubilongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7531,
+      "kimbundu_term": "Kubilujuka",
+      "portuguese_translation": "Virar-se muitas vezes",
+      "definition": null,
+      "alternative_meanings": [
+        "girar (no mesmo lugar)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubilujuka-1 — https://www.kimbundu.org/pt/word/kubilujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7532,
+      "kimbundu_term": "Kubilujula",
+      "portuguese_translation": "Virar muitas vezes",
+      "definition": null,
+      "alternative_meanings": [
+        "dar voltas a",
+        "Revolver",
+        "remexer. É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubilujula-1 — https://www.kimbundu.org/pt/word/kubilujula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7533,
+      "kimbundu_term": "Kubilukila",
+      "portuguese_translation": "Virar-se para",
+      "definition": null,
+      "alternative_meanings": [
+        "Revoltar-se contra: u angi bilukila mukonda ia ioso i ng'âzuela",
+        "Inculpar. É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubilukila-1 — https://www.kimbundu.org/pt/word/kubilukila",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
