@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5484,
+      "kimbundu_term": "Kilúka",
+      "portuguese_translation": "Indicação determinada",
+      "definition": null,
+      "alternative_meanings": [
+        "Nome",
+        "Denominação",
+        "Designação"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilúka-1 — https://www.kimbundu.org/pt/word/kiluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5485,
+      "kimbundu_term": "Kilúka",
+      "portuguese_translation": "Nominal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilúka-1 — https://www.kimbundu.org/pt/word/kiluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5486,
+      "kimbundu_term": "Kiluke",
+      "portuguese_translation": "Adotado",
+      "definition": null,
+      "alternative_meanings": [
+        "designado",
+        "qualificado",
+        "Que não é natural",
+        "Adotivo"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiluke-1 — https://www.kimbundu.org/pt/word/kiluke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5487,
+      "kimbundu_term": "Kilukuluku",
+      "portuguese_translation": "Calor",
+      "definition": null,
+      "alternative_meanings": [
+        "Estado sensível do ar quente",
+        "Grau de calor dum corpo ou lugar",
+        "Caloria"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilukuluku-1 — https://www.kimbundu.org/pt/word/kilukuluku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5488,
+      "kimbundu_term": "Kilukutu",
+      "portuguese_translation": "Aparelho para produzir calor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilukutu-1 — https://www.kimbundu.org/pt/word/kilukutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5489,
+      "kimbundu_term": "Kilukutu",
+      "portuguese_translation": "Refogado",
+      "definition": null,
+      "alternative_meanings": [
+        "O que é feito ao calor do fogo"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilukutu-1 — https://www.kimbundu.org/pt/word/kilukutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5490,
+      "kimbundu_term": "Kilukutu",
+      "portuguese_translation": "Calorífico",
+      "definition": null,
+      "alternative_meanings": [
+        "Que faz calor"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilukutu-1 — https://www.kimbundu.org/pt/word/kilukutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5491,
+      "kimbundu_term": "Kilule",
+      "portuguese_translation": "Amargoso",
+      "definition": null,
+      "alternative_meanings": [
+        "áspero",
+        "Que não é doce"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilule-1 — https://www.kimbundu.org/pt/word/kilule",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5492,
+      "kimbundu_term": "Kílulu",
+      "portuguese_translation": "Espetro",
+      "definition": null,
+      "alternative_meanings": [
+        "Visão",
+        "Ilusão de espírito",
+        "Alma do outro mundo",
+        "Espírito errante, que vagueia pelo mundo sem destino",
+        "fig. Remoinho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kílulu-1 — https://www.kimbundu.org/pt/word/kilulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5493,
+      "kimbundu_term": "Kílulu",
+      "portuguese_translation": "Desvairado",
+      "definition": null,
+      "alternative_meanings": [
+        "desnorteado",
+        "Erradio"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kílulu-2 — https://www.kimbundu.org/pt/word/kilulu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
