@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18544,
+      "kimbundu_term": "Nzúua",
+      "portuguese_translation": "Hidromel",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzúua-1 — https://www.kimbundu.org/pt/word/nzuua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18545,
+      "kimbundu_term": "O",
+      "portuguese_translation": "adjetivo e pronome demonstrativo. Este, essa, esses, essas: o mutu'—u abele",
+      "definition": null,
+      "alternative_meanings": [
+        "o axong'—alenge"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, o-2 — https://www.kimbundu.org/pt/word/o",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18546,
+      "kimbundu_term": "O",
+      "portuguese_translation": "advérbio demonstrativo. Eis. Aqui está. Ei-lo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, o-2 — https://www.kimbundu.org/pt/word/o",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18547,
+      "kimbundu_term": "O'to",
+      "portuguese_translation": "Essas",
+      "definition": null,
+      "alternative_meanings": [
+        "esse-: ngl bane o tanguta —",
+        "Abrev. do pron. tóto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, o'to-1 — https://www.kimbundu.org/pt/word/o'to",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18548,
+      "kimbundu_term": "Obi",
+      "portuguese_translation": "Afluente da margem esquerda do rio Dande, circunscrição civil deste nome, distrito e província de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, obi-1 — https://www.kimbundu.org/pt/word/obi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18549,
+      "kimbundu_term": "Odio",
+      "portuguese_translation": "e pron. demonstrativo (IV) Esse, essa. Abreviação de riório",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, odio-1 — https://www.kimbundu.org/pt/word/odio",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18550,
+      "kimbundu_term": "Oio",
+      "portuguese_translation": "abreviatura do adjetivo e pronome demonstrativo plural lólo (classe III). Essas",
+      "definition": null,
+      "alternative_meanings": [
+        "esses: o im'—l axiri"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, oio-1 — https://www.kimbundu.org/pt/word/oio",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18551,
+      "kimbundu_term": "Oio",
+      "portuguese_translation": "advérbio. Por aí",
+      "definition": null,
+      "alternative_meanings": [
+        "por esse lado ou caminho. Por aí fora"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, oio-1 — https://www.kimbundu.org/pt/word/oio",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18552,
+      "kimbundu_term": "Ojo",
+      "portuguese_translation": "Esses",
+      "definition": null,
+      "alternative_meanings": [
+        "essas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ojo-1 — https://www.kimbundu.org/pt/word/ojo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18553,
+      "kimbundu_term": "Okavangu",
+      "portuguese_translation": "Nome indígena do rio Cubango",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, okavangu-1 — https://www.kimbundu.org/pt/word/okavangu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
