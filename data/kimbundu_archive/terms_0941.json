@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9514,
+      "kimbundu_term": "Kúkola",
+      "portuguese_translation": "Tornar-se funesto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkola-1 — https://www.kimbundu.org/pt/word/kukola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9515,
+      "kimbundu_term": "Kúkola",
+      "portuguese_translation": "Ser perigoso, impraticável, defeso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkola-1 — https://www.kimbundu.org/pt/word/kukola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9516,
+      "kimbundu_term": "Kúkola",
+      "portuguese_translation": "Piora",
+      "definition": null,
+      "alternative_meanings": [
+        "gravame"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkola-1 — https://www.kimbundu.org/pt/word/kukola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9517,
+      "kimbundu_term": "Kúkola",
+      "portuguese_translation": "Funestação: luto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkola-1 — https://www.kimbundu.org/pt/word/kukola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9518,
+      "kimbundu_term": "Kukoléla",
+      "portuguese_translation": "Gritar, falar para longe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukoléla-1 — https://www.kimbundu.org/pt/word/kukolela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9519,
+      "kimbundu_term": "Kukoléla",
+      "portuguese_translation": "Fazer ouvir (gritando)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukoléla-1 — https://www.kimbundu.org/pt/word/kukolela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9520,
+      "kimbundu_term": "Kukoléla",
+      "portuguese_translation": "Citar",
+      "definition": null,
+      "alternative_meanings": [
+        "intimar",
+        "aprazar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukoléla-1 — https://www.kimbundu.org/pt/word/kukolela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9521,
+      "kimbundu_term": "Kukoléla",
+      "portuguese_translation": "Notificar (alguém) o seu dever",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukoléla-1 — https://www.kimbundu.org/pt/word/kukolela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9522,
+      "kimbundu_term": "Kukoléla",
+      "portuguese_translation": "Suportar",
+      "definition": null,
+      "alternative_meanings": [
+        "sofrer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukoléla-1 — https://www.kimbundu.org/pt/word/kukolela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9523,
+      "kimbundu_term": "Kúkolela",
+      "portuguese_translation": "Funestar",
+      "definition": null,
+      "alternative_meanings": [
+        "agravar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkolela-1 — https://www.kimbundu.org/pt/word/kukolela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
