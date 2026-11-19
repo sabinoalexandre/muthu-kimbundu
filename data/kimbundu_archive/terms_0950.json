@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9604,
+      "kimbundu_term": "Kukotekesa",
+      "portuguese_translation": "Fazer arrebitar, dobrar, virar a ponta de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukotekesa-1 — https://www.kimbundu.org/pt/word/kukotekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9605,
+      "kimbundu_term": "Kukotola",
+      "portuguese_translation": "Desapegar",
+      "definition": null,
+      "alternative_meanings": [
+        "tirar com esforço",
+        "Puxar com ímpeto"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukotola-1 — https://www.kimbundu.org/pt/word/kukotola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9606,
+      "kimbundu_term": "Kukotomoka",
+      "portuguese_translation": "Ficar distendido, aberto, desembrulhado (para deixar ver o que contém)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukotomoka-1 — https://www.kimbundu.org/pt/word/kukotomoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9607,
+      "kimbundu_term": "Kukotomona",
+      "portuguese_translation": "Tirar o que outro tiver na mão (das mãos)",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer cair o kotona (das mãos)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukotomona-1 — https://www.kimbundu.org/pt/word/kukotomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9608,
+      "kimbundu_term": "Kukotomona",
+      "portuguese_translation": "Tirar à força o que outrem tiver na mão",
+      "definition": null,
+      "alternative_meanings": [
+        "Arrancar (das mãos)",
+        "Fazer distender"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukotomona-2 — https://www.kimbundu.org/pt/word/kukotomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9609,
+      "kimbundu_term": "Kukóua",
+      "portuguese_translation": "Ter vitória",
+      "definition": null,
+      "alternative_meanings": [
+        "Obter triunfo em campanha",
+        "Ser aclamado, aplaudido, victoriado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukóua-1 — https://www.kimbundu.org/pt/word/kukoua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9610,
+      "kimbundu_term": "Kukouéla",
+      "portuguese_translation": "Aclamar, victoriar",
+      "definition": null,
+      "alternative_meanings": [
+        "Aplaudir com entusiasmo",
+        "Nomear por aclamação"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukouéla-1 — https://www.kimbundu.org/pt/word/kukouela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9611,
+      "kimbundu_term": "Kukouesa",
+      "portuguese_translation": "Fazer aclamar, aplaudir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukouesa-1 — https://www.kimbundu.org/pt/word/kukouesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9612,
+      "kimbundu_term": "Kukouesa",
+      "portuguese_translation": "Fazer-se aclamar com aplausos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukouesa-1 — https://www.kimbundu.org/pt/word/kukouesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9613,
+      "kimbundu_term": "Kukovala",
+      "portuguese_translation": "Escovar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukovala-1 — https://www.kimbundu.org/pt/word/kukovala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
