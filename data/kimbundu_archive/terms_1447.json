@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14574,
+      "kimbundu_term": "Makénze",
+      "portuguese_translation": "Conjunto de traças",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, selvagem",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makénze-1 — https://www.kimbundu.org/pt/word/makenze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14575,
+      "kimbundu_term": "Makénze",
+      "portuguese_translation": "Altos e baixos (do cabelo cortado)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, selvagem",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makénze-1 — https://www.kimbundu.org/pt/word/makenze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14576,
+      "kimbundu_term": "Mákese",
+      "portuguese_translation": "Diz-se do milho pilado e granulado, próprio para papas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mákese-1 — https://www.kimbundu.org/pt/word/makese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14577,
+      "kimbundu_term": "Makezu",
+      "portuguese_translation": "Conjunto de colas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makezu-1 — https://www.kimbundu.org/pt/word/makezu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14578,
+      "kimbundu_term": "Makezu",
+      "portuguese_translation": "Fruto comestível do mukezu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makezu-1 — https://www.kimbundu.org/pt/word/makezu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14579,
+      "kimbundu_term": "Makidikidi",
+      "portuguese_translation": "Correria",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makidikidi-1 — https://www.kimbundu.org/pt/word/makidikidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14580,
+      "kimbundu_term": "Makidikidi",
+      "portuguese_translation": "Rapidez (no andar ou no correr)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makidikidi-1 — https://www.kimbundu.org/pt/word/makidikidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14581,
+      "kimbundu_term": "Makidikidi",
+      "portuguese_translation": "Apressadamente",
+      "definition": null,
+      "alternative_meanings": [
+        "a correr"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makidikidi-1 — https://www.kimbundu.org/pt/word/makidikidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14582,
+      "kimbundu_term": "Mákinu",
+      "portuguese_translation": "Grandes divertimentos",
+      "definition": null,
+      "alternative_meanings": [
+        "dançares"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mákinu-1 — https://www.kimbundu.org/pt/word/makinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14583,
+      "kimbundu_term": "Mákita",
+      "portuguese_translation": "Chefes de família com direito à sucessão do Estado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mákita-1 — https://www.kimbundu.org/pt/word/makita",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
