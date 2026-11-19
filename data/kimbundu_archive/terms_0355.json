@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3654,
+      "kimbundu_term": "Kambwa",
+      "portuguese_translation": "Calelo",
+      "definition": null,
+      "alternative_meanings": [
+        "cachorro",
+        "Cãozinho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kambwa-1 — https://www.kimbundu.org/pt/word/kambwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3655,
+      "kimbundu_term": "Kambwa",
+      "portuguese_translation": "Canzoal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kambwa-1 — https://www.kimbundu.org/pt/word/kambwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3656,
+      "kimbundu_term": "Kámene",
+      "portuguese_translation": "Matutino",
+      "definition": null,
+      "alternative_meanings": [
+        "Do princípio da manhã"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kámene-1 — https://www.kimbundu.org/pt/word/kamene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3657,
+      "kimbundu_term": "Kámene",
+      "portuguese_translation": "O romper do sol",
+      "definition": null,
+      "alternative_meanings": [
+        "Manhã",
+        "O amanhecer"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kámene-1 — https://www.kimbundu.org/pt/word/kamene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3658,
+      "kimbundu_term": "Kámene",
+      "portuguese_translation": "De manhã",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kámene-1 — https://www.kimbundu.org/pt/word/kamene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3659,
+      "kimbundu_term": "Kamenemene",
+      "portuguese_translation": "Manhãzinha",
+      "definition": null,
+      "alternative_meanings": [
+        "O princípio do dia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamenemene-1 — https://www.kimbundu.org/pt/word/kamenemene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3660,
+      "kimbundu_term": "Kamenemene",
+      "portuguese_translation": "Respeitante à manhã",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamenemene-1 — https://www.kimbundu.org/pt/word/kamenemene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3661,
+      "kimbundu_term": "Kamenemene",
+      "portuguese_translation": "Ao romper do dia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamenemene-1 — https://www.kimbundu.org/pt/word/kamenemene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3662,
+      "kimbundu_term": "Kamenga",
+      "portuguese_translation": "Sertã",
+      "definition": null,
+      "alternative_meanings": [
+        "Tacho pequeno de barro",
+        "Pequeno torrador (de cereais)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamenga-1 — https://www.kimbundu.org/pt/word/kamenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3663,
+      "kimbundu_term": "Kamenga",
+      "portuguese_translation": "Cadeia: calabouço",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamenga-1 — https://www.kimbundu.org/pt/word/kamenga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
