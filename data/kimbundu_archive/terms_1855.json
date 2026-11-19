@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18654,
+      "kimbundu_term": "Pembele",
+      "portuguese_translation": "Felicitação",
+      "definition": null,
+      "alternative_meanings": [
+        "congratulação"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pembele-1 — https://www.kimbundu.org/pt/word/pembele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18655,
+      "kimbundu_term": "Pembele",
+      "portuguese_translation": "Bom êxito. Graça",
+      "definition": null,
+      "alternative_meanings": [
+        "mercê"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pembele-1 — https://www.kimbundu.org/pt/word/pembele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18656,
+      "kimbundu_term": "Pembele",
+      "portuguese_translation": "Dom de pessoa graciosa",
+      "definition": null,
+      "alternative_meanings": [
+        "agrado",
+        "favor"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pembele-1 — https://www.kimbundu.org/pt/word/pembele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18657,
+      "kimbundu_term": "Pembele",
+      "portuguese_translation": "de exortação, de aplauso",
+      "definition": null,
+      "alternative_meanings": [
+        "Bravo! Muito bem! Eu te saúdo!"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pembele-1 — https://www.kimbundu.org/pt/word/pembele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18658,
+      "kimbundu_term": "Péndu",
+      "portuguese_translation": "Pente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, péndu-1 — https://www.kimbundu.org/pt/word/pendu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18659,
+      "kimbundu_term": "Pénga",
+      "portuguese_translation": "Matrícula",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pénga-1 — https://www.kimbundu.org/pt/word/penga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18660,
+      "kimbundu_term": "Pénga",
+      "portuguese_translation": "Mulher de vida fácil",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, pénga-1 — https://www.kimbundu.org/pt/word/penga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18661,
+      "kimbundu_term": "Péngula",
+      "portuguese_translation": "Escasso",
+      "definition": null,
+      "alternative_meanings": [
+        "diminuto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, péngula-1 — https://www.kimbundu.org/pt/word/pengula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18662,
+      "kimbundu_term": "Péngula",
+      "portuguese_translation": "Falto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, péngula-1 — https://www.kimbundu.org/pt/word/pengula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18663,
+      "kimbundu_term": "Péngula",
+      "portuguese_translation": "Diz-se das abas ou bandas do casaco, que se não sobepõem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, péngula-1 — https://www.kimbundu.org/pt/word/pengula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
