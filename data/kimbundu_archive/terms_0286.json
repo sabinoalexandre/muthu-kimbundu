@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2964,
+      "kimbundu_term": "Kabénda",
+      "portuguese_translation": "Eleito",
+      "definition": null,
+      "alternative_meanings": [
+        "O principal",
+        "o escolhido"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kabénda-1 — https://www.kimbundu.org/pt/word/kabenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2965,
+      "kimbundu_term": "Kabénda",
+      "portuguese_translation": "Árvore tipo da família das ulmáceas, de madeira própria para construção (Celtis Henriquesii). Ulmeiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kabénda-1 — https://www.kimbundu.org/pt/word/kabenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2966,
+      "kimbundu_term": "Kabénda",
+      "portuguese_translation": "Planta rosácea (Celtis soyauxii)",
+      "definition": null,
+      "alternative_meanings": [
+        "Ulmária"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kabénda-1 — https://www.kimbundu.org/pt/word/kabenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2967,
+      "kimbundu_term": "Kabéngu",
+      "portuguese_translation": "Diz-se da pessoa ou coisa com focinho de rato",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kabéngu-1 — https://www.kimbundu.org/pt/word/kabengu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2968,
+      "kimbundu_term": "Kabéngu",
+      "portuguese_translation": "De rato, ou a ele relativo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kabéngu-1 — https://www.kimbundu.org/pt/word/kabengu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2969,
+      "kimbundu_term": "Kabéte",
+      "portuguese_translation": "O melhor",
+      "definition": null,
+      "alternative_meanings": [
+        "o mais são, fino ou digno",
+        "Superior",
+        "Decente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kabéte-1 — https://www.kimbundu.org/pt/word/kabete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2970,
+      "kimbundu_term": "Kabéte",
+      "portuguese_translation": "Decentemente",
+      "definition": null,
+      "alternative_meanings": [
+        "Com decência"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kabéte-1 — https://www.kimbundu.org/pt/word/kabete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2971,
+      "kimbundu_term": "Kabhanga",
+      "portuguese_translation": "Planta da família das leguminosas (voandzeia subterranea), de fruto comestível, também conhecida por kaseka",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kabhanga-1 — https://www.kimbundu.org/pt/word/kabhanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2972,
+      "kimbundu_term": "Kabhanga",
+      "portuguese_translation": "Povoação no antigo concelho de Ambaca, margem direita do rio Lucala, distrito do Quanza-Norte, província de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kabhanga-1 — https://www.kimbundu.org/pt/word/kabhanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2973,
+      "kimbundu_term": "Kabhitangu",
+      "portuguese_translation": "Capitão",
+      "definition": null,
+      "alternative_meanings": [
+        "Comandante de navio",
+        "Mestre de embarcação"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kabhitangu-1 — https://www.kimbundu.org/pt/word/kabhitangu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
