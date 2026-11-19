@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17534,
+      "kimbundu_term": "Muzonde",
+      "portuguese_translation": "Desamimador",
+      "definition": null,
+      "alternative_meanings": [
+        "Que faz esmorecer, perder o ânimo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzonde-1 — https://www.kimbundu.org/pt/word/muzonde",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17535,
+      "kimbundu_term": "Muzondo",
+      "portuguese_translation": "Anacardo",
+      "definition": null,
+      "alternative_meanings": [
+        "seu fruto (comestível)",
+        "corogr. Vale conhecido por este nome na circ. civ. de Cazengo, distr. do Quanza-Norte, prov. de Luanda"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzondo-1 — https://www.kimbundu.org/pt/word/muzondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17536,
+      "kimbundu_term": "Múzonga",
+      "portuguese_translation": "Brado",
+      "definition": null,
+      "alternative_meanings": [
+        "clamor",
+        "Chamamento em voz alta"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múzonga-1 — https://www.kimbundu.org/pt/word/muzonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17537,
+      "kimbundu_term": "Muzônge",
+      "portuguese_translation": "Sopa",
+      "definition": null,
+      "alternative_meanings": [
+        "caldo",
+        "Molho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzônge-1 — https://www.kimbundu.org/pt/word/muzonge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17538,
+      "kimbundu_term": "Muzónge",
+      "portuguese_translation": "Medidor",
+      "definition": null,
+      "alternative_meanings": [
+        "pesador",
+        "avaliador",
+        "Agrimensor"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzónge-1 — https://www.kimbundu.org/pt/word/muzonge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17539,
+      "kimbundu_term": "Múzonze",
+      "portuguese_translation": "Lisonjeador",
+      "definition": null,
+      "alternative_meanings": [
+        "lisonjeiro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múzonze-1 — https://www.kimbundu.org/pt/word/muzonze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17540,
+      "kimbundu_term": "Muzówe",
+      "portuguese_translation": "Nadador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzówe-1 — https://www.kimbundu.org/pt/word/muzowe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17541,
+      "kimbundu_term": "Múzua",
+      "portuguese_translation": "Arbusto borracheiro fam. das plantas apocináceas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múzua-1 — https://www.kimbundu.org/pt/word/muzua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17542,
+      "kimbundu_term": "Muzúbe",
+      "portuguese_translation": "Acabador",
+      "definition": null,
+      "alternative_meanings": [
+        "Finalista"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzúbe-1 — https://www.kimbundu.org/pt/word/muzube",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17543,
+      "kimbundu_term": "Muzuédi",
+      "portuguese_translation": "Loquaz",
+      "definition": null,
+      "alternative_meanings": [
+        "verboso",
+        "falador",
+        "Aquele que outorga"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzuédi-1 — https://www.kimbundu.org/pt/word/muzuedi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
