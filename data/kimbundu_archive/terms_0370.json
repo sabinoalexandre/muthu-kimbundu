@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3804,
+      "kimbundu_term": "Kandâmbia",
+      "portuguese_translation": "Erva miúda",
+      "definition": null,
+      "alternative_meanings": [
+        "Relva"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kandâmbia-1 — https://www.kimbundu.org/pt/word/kandambia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3805,
+      "kimbundu_term": "Kandâmbia",
+      "portuguese_translation": "Gramínea alimentar de gado suíno",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kandâmbia-1 — https://www.kimbundu.org/pt/word/kandambia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3806,
+      "kimbundu_term": "Kandanda",
+      "portuguese_translation": "Planta leguminosa",
+      "definition": null,
+      "alternative_meanings": [
+        "vagem de feijoeiro",
+        "Feijão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kandanda-1 — https://www.kimbundu.org/pt/word/kandanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3807,
+      "kimbundu_term": "Kándandu",
+      "portuguese_translation": "Abraço",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kándandu-1 — https://www.kimbundu.org/pt/word/kandandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3808,
+      "kimbundu_term": "Kándandu",
+      "portuguese_translation": "Abraçar",
+      "definition": null,
+      "alternative_meanings": [
+        "Cingir com os braços"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kándandu-1 — https://www.kimbundu.org/pt/word/kandandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3809,
+      "kimbundu_term": "Kandánji",
+      "portuguese_translation": "Pequena raiz",
+      "definition": null,
+      "alternative_meanings": [
+        "rizoma"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kandánji-1 — https://www.kimbundu.org/pt/word/kandanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3810,
+      "kimbundu_term": "Kande",
+      "portuguese_translation": "Cavado",
+      "definition": null,
+      "alternative_meanings": [
+        "Fundo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kande-1 — https://www.kimbundu.org/pt/word/kande",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3811,
+      "kimbundu_term": "Kándemba",
+      "portuguese_translation": "(X) Cabelinho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kándemba-1 — https://www.kimbundu.org/pt/word/kandemba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3812,
+      "kimbundu_term": "Kándemba",
+      "portuguese_translation": "Do cabelo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kándemba-1 — https://www.kimbundu.org/pt/word/kandemba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3813,
+      "kimbundu_term": "Kandenge",
+      "portuguese_translation": "(X) O mais novo dos irmãos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kandenge-1 — https://www.kimbundu.org/pt/word/kandenge",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
