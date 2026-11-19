@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12764,
+      "kimbundu_term": "Kutungisa",
+      "portuguese_translation": "Mandar fabricar, construir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutungisa-1 — https://www.kimbundu.org/pt/word/kutungisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12765,
+      "kimbundu_term": "Kutunguka",
+      "portuguese_translation": "Ser eleito, preferido, distinguido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutunguka-1 — https://www.kimbundu.org/pt/word/kutunguka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12766,
+      "kimbundu_term": "Kutunguka",
+      "portuguese_translation": "Variar",
+      "definition": null,
+      "alternative_meanings": [
+        "divergir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutunguka-1 — https://www.kimbundu.org/pt/word/kutunguka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12767,
+      "kimbundu_term": "Kutunguka",
+      "portuguese_translation": "Ser de opinião diferente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutunguka-1 — https://www.kimbundu.org/pt/word/kutunguka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12768,
+      "kimbundu_term": "Kutunguka",
+      "portuguese_translation": "Eleição",
+      "definition": null,
+      "alternative_meanings": [
+        "escolha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutunguka-2 — https://www.kimbundu.org/pt/word/kutunguka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12769,
+      "kimbundu_term": "Kutungúla",
+      "portuguese_translation": "Apartar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutungúla-1 — https://www.kimbundu.org/pt/word/kutungula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12770,
+      "kimbundu_term": "Kutungúla",
+      "portuguese_translation": "Marcar",
+      "definition": null,
+      "alternative_meanings": [
+        "assinalar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutungúla-1 — https://www.kimbundu.org/pt/word/kutungula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12771,
+      "kimbundu_term": "Kutungúla",
+      "portuguese_translation": "Distinguir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutungúla-1 — https://www.kimbundu.org/pt/word/kutungula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12772,
+      "kimbundu_term": "Kutunguluka",
+      "portuguese_translation": "Diferenciar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutunguluka-1 — https://www.kimbundu.org/pt/word/kutunguluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12773,
+      "kimbundu_term": "Kutunguluka",
+      "portuguese_translation": "Estar fora do comum",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutunguluka-1 — https://www.kimbundu.org/pt/word/kutunguluka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
