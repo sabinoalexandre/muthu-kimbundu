@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1044,
+      "kimbundu_term": "Dikunda",
+      "portuguese_translation": "Costado",
+      "definition": null,
+      "alternative_meanings": [
+        "dorso",
+        "lombo. A parte do vestuário que cobre as costas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikunda-1 — https://www.kimbundu.org/pt/word/dikunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1045,
+      "kimbundu_term": "Dikunde",
+      "portuguese_translation": "Bago de feijão frade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikunde-1 — https://www.kimbundu.org/pt/word/dikunde",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1046,
+      "kimbundu_term": "Dikúndu",
+      "portuguese_translation": "Circunferência",
+      "definition": null,
+      "alternative_meanings": [
+        "aro",
+        "recinto circular"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikúndu-1 — https://www.kimbundu.org/pt/word/dikundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1047,
+      "kimbundu_term": "Dikungu",
+      "portuguese_translation": "Barroca",
+      "definition": null,
+      "alternative_meanings": [
+        "escavação",
+        "cova. fig. Precipício"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikungu-1 — https://www.kimbundu.org/pt/word/dikungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1048,
+      "kimbundu_term": "Dikúnji",
+      "portuguese_translation": "Forqueta. Pau bifurcado para amparar. Espeque",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikúnji-1 — https://www.kimbundu.org/pt/word/dikunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1049,
+      "kimbundu_term": "Dikunji",
+      "portuguese_translation": "Mamífero anfíbio conhecido por «peixe-boi» ou «peixe-mulher». Foca",
+      "definition": null,
+      "alternative_meanings": [
+        "manatim"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikunji-1 — https://www.kimbundu.org/pt/word/dikunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1050,
+      "kimbundu_term": "Dikunji",
+      "portuguese_translation": "Chicote feito da pele do hipopótamo. Chicotada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikunji-1 — https://www.kimbundu.org/pt/word/dikunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1051,
+      "kimbundu_term": "Dikuta",
+      "portuguese_translation": "Malheiro. Pequeno embrulho em que se recolhem moedas dos espíritos tutelares",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikuta-1 — https://www.kimbundu.org/pt/word/dikuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1052,
+      "kimbundu_term": "Dikúu",
+      "portuguese_translation": "Revés militar",
+      "definition": null,
+      "alternative_meanings": [
+        "derrota. Insucesso",
+        "desastre"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikúu-1 — https://www.kimbundu.org/pt/word/dikuu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1053,
+      "kimbundu_term": "Díkuua",
+      "portuguese_translation": "Machado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, díkuua-1 — https://www.kimbundu.org/pt/word/dikuua",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
