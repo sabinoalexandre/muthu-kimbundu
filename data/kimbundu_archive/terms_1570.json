@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15804,
+      "kimbundu_term": "Mono",
+      "portuguese_translation": "Semente e fruto de rícino",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mono-1 — https://www.kimbundu.org/pt/word/mono",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15805,
+      "kimbundu_term": "Mono",
+      "portuguese_translation": "Mamona",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mono-1 — https://www.kimbundu.org/pt/word/mono",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15806,
+      "kimbundu_term": "Monyi",
+      "portuguese_translation": "Ricaço. Abastado",
+      "definition": null,
+      "alternative_meanings": [
+        "poderoso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, monyi-1 — https://www.kimbundu.org/pt/word/monyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15807,
+      "kimbundu_term": "Monyi",
+      "portuguese_translation": "Potestade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, monyi-1 — https://www.kimbundu.org/pt/word/monyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15808,
+      "kimbundu_term": "Mosana",
+      "portuguese_translation": "Modelo",
+      "definition": null,
+      "alternative_meanings": [
+        "imagem ou desenho que serve para reprodução"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mosana-1 — https://www.kimbundu.org/pt/word/mosana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15809,
+      "kimbundu_term": "Mosana",
+      "portuguese_translation": "Cópia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mosana-1 — https://www.kimbundu.org/pt/word/mosana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15810,
+      "kimbundu_term": "Mose",
+      "portuguese_translation": "in def. pl. Completos. Todas",
+      "definition": null,
+      "alternative_meanings": [
+        "todos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mose-1 — https://www.kimbundu.org/pt/word/mose",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15811,
+      "kimbundu_term": "Mose",
+      "portuguese_translation": "Tudo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mose-1 — https://www.kimbundu.org/pt/word/mose",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15812,
+      "kimbundu_term": "Mose",
+      "portuguese_translation": "O conjunto, a soma",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mose-1 — https://www.kimbundu.org/pt/word/mose",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15813,
+      "kimbundu_term": "Mose",
+      "portuguese_translation": "Por junto",
+      "definition": null,
+      "alternative_meanings": [
+        "ao todo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mose-1 — https://www.kimbundu.org/pt/word/mose",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
