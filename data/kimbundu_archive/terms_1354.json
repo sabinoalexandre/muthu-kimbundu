@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13644,
+      "kimbundu_term": "Kúzola",
+      "portuguese_translation": "Prezar",
+      "definition": null,
+      "alternative_meanings": [
+        "ter afeição",
+        "gostar de",
+        "Estimar",
+        "ter em conta"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúzola-1 — https://www.kimbundu.org/pt/word/kuzola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13645,
+      "kimbundu_term": "Kúzola",
+      "portuguese_translation": "Kurizola, v. r. Afeiçoar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "tratar-se com estima"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúzola-1 — https://www.kimbundu.org/pt/word/kuzola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13646,
+      "kimbundu_term": "Kuzolesa",
+      "portuguese_translation": "Fazer estimar, afeiçoar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar simpático"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzolesa-1 — https://www.kimbundu.org/pt/word/kuzolesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13647,
+      "kimbundu_term": "Kuzolesa",
+      "portuguese_translation": "Kurizolesa, v. r. Fazer-se gostar, tratar com distinção",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzolesa-1 — https://www.kimbundu.org/pt/word/kuzolesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13648,
+      "kimbundu_term": "Kúzoma",
+      "portuguese_translation": "Degostar",
+      "definition": null,
+      "alternative_meanings": [
+        "provar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúzoma-1 — https://www.kimbundu.org/pt/word/kuzoma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13649,
+      "kimbundu_term": "Kúzomba",
+      "portuguese_translation": "Andar devagar, pé ante pé (por doença)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúzomba-1 — https://www.kimbundu.org/pt/word/kuzomba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13650,
+      "kimbundu_term": "Kuzombala",
+      "portuguese_translation": "Zombar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzombala-1 — https://www.kimbundu.org/pt/word/kuzombala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13651,
+      "kimbundu_term": "Kuzombela",
+      "portuguese_translation": "Importar",
+      "definition": null,
+      "alternative_meanings": [
+        "trazer",
+        "introduzir",
+        "Fazer algo pela primeira vez",
+        "Vulgarizar o que não era conhecido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzombela-1 — https://www.kimbundu.org/pt/word/kuzombela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13652,
+      "kimbundu_term": "Kúzonda",
+      "portuguese_translation": "Estar desanimado",
+      "definition": null,
+      "alternative_meanings": [
+        "Esmorecer",
+        "perder o entusiasmo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúzonda-1 — https://www.kimbundu.org/pt/word/kuzonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13653,
+      "kimbundu_term": "Kuzondama",
+      "portuguese_translation": "Estar absorto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzondama-1 — https://www.kimbundu.org/pt/word/kuzondama",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
