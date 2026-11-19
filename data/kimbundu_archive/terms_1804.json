@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18144,
+      "kimbundu_term": "Ngítu",
+      "portuguese_translation": "Infusão medicamentosa para clister",
+      "definition": null,
+      "alternative_meanings": [
+        "Remédio caseiro que se toma em clister",
+        "Purgante",
+        "Mesinha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngítu-1 — https://www.kimbundu.org/pt/word/ngitu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18145,
+      "kimbundu_term": "Ngixí",
+      "portuguese_translation": "Que",
+      "definition": null,
+      "alternative_meanings": [
+        "O seguinte"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngixí-1 — https://www.kimbundu.org/pt/word/ngixi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18146,
+      "kimbundu_term": "Ngiya",
+      "portuguese_translation": "1.ª pessoa do singular do indicativo do verbo ir ()",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngiya-1 — https://www.kimbundu.org/pt/word/ngiya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18147,
+      "kimbundu_term": "Ngó",
+      "portuguese_translation": "Vago",
+      "definition": null,
+      "alternative_meanings": [
+        "Não ocupado",
+        "Disponível"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngó-1 — https://www.kimbundu.org/pt/word/ngo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18148,
+      "kimbundu_term": "Ngó",
+      "portuguese_translation": "Só",
+      "definition": null,
+      "alternative_meanings": [
+        "sòzinho",
+        "Não acompanhado",
+        "Único",
+        "Sem mais nada",
+        "Sem ornatos ou pompas",
+        "Vasto",
+        "seco",
+        "Singelo",
+        "simples",
+        "puro",
+        "não corrompido",
+        "Árido, enfadonho"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngó-1 — https://www.kimbundu.org/pt/word/ngo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18149,
+      "kimbundu_term": "Ngó",
+      "portuguese_translation": "Serviço prestado gratuitamente",
+      "definition": null,
+      "alternative_meanings": [
+        "Favor",
+        "Serviço recebido sem retribuição",
+        "Proteção",
+        "amparo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngó-1 — https://www.kimbundu.org/pt/word/ngo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18150,
+      "kimbundu_term": "Ngó",
+      "portuguese_translation": "Apenas",
+      "definition": null,
+      "alternative_meanings": [
+        "sòmente",
+        "Gratuitamente",
+        "Unicamente",
+        "Sem suavidade",
+        "sem importância",
+        "Gratis"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngó-1 — https://www.kimbundu.org/pt/word/ngo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18151,
+      "kimbundu_term": "Ngódi",
+      "portuguese_translation": "Gémeo",
+      "definition": null,
+      "alternative_meanings": [
+        "Irmão nascido do mesmo parto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngódi-1 — https://www.kimbundu.org/pt/word/ngodi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18152,
+      "kimbundu_term": "Ngoê",
+      "portuguese_translation": "(IX) Choro lamentoso",
+      "definition": null,
+      "alternative_meanings": [
+        "Lástima",
+        "Lamentação",
+        "Choro plangente por perda de pessoa querida"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngoê-1 — https://www.kimbundu.org/pt/word/ngoe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18153,
+      "kimbundu_term": "Ngoê",
+      "portuguese_translation": "de dor: Ai de mim! Ai, minha mãe!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngoê-1 — https://www.kimbundu.org/pt/word/ngoe",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
