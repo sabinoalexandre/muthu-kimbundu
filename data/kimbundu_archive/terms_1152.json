@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11624,
+      "kimbundu_term": "Kusengulula",
+      "portuguese_translation": "Despovoar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusengulula-1 — https://www.kimbundu.org/pt/word/kusengulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11625,
+      "kimbundu_term": "Kusengumuka",
+      "portuguese_translation": "Ficar arrasado, aniquilado, desfeito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusengumuka-1 — https://www.kimbundu.org/pt/word/kusengumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11626,
+      "kimbundu_term": "Kusengumuka",
+      "portuguese_translation": "Estar desabitado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusengumuka-1 — https://www.kimbundu.org/pt/word/kusengumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11627,
+      "kimbundu_term": "Kusengumuna",
+      "portuguese_translation": "Aniquilar, deitar abaixo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusengumuna-1 — https://www.kimbundu.org/pt/word/kusengumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11628,
+      "kimbundu_term": "Kusengumuna",
+      "portuguese_translation": "Arrasar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar ermo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusengumuna-1 — https://www.kimbundu.org/pt/word/kusengumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11629,
+      "kimbundu_term": "Kusepuna",
+      "portuguese_translation": "Tornar-se elegante, gracioso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusepuna-1 — https://www.kimbundu.org/pt/word/kusepuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11630,
+      "kimbundu_term": "Kusepuna",
+      "portuguese_translation": "Kurisepuna, e r. Afetar-se para agradar. Tb. se diz Kurisepuinha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusepuna-1 — https://www.kimbundu.org/pt/word/kusepuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11631,
+      "kimbundu_term": "Kúsesa",
+      "portuguese_translation": "Gravar",
+      "definition": null,
+      "alternative_meanings": [
+        "modelar",
+        "esculpir. Fazer recortes em",
+        "lascar. Facear"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsesa-1 — https://www.kimbundu.org/pt/word/kusesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11632,
+      "kimbundu_term": "Kúsesa",
+      "portuguese_translation": "Projetar",
+      "definition": null,
+      "alternative_meanings": [
+        "intentar: «.»"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsesa-1 — https://www.kimbundu.org/pt/word/kusesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11633,
+      "kimbundu_term": "Kúsesa",
+      "portuguese_translation": "Gravação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsesa-1 — https://www.kimbundu.org/pt/word/kusesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
