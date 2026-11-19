@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18134,
+      "kimbundu_term": "Ngínda",
+      "portuguese_translation": "Para que",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngínda-1 — https://www.kimbundu.org/pt/word/nginda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18135,
+      "kimbundu_term": "Ngínde",
+      "portuguese_translation": "Notável",
+      "definition": null,
+      "alternative_meanings": [
+        "ilustre",
+        "dom",
+        "Insigne"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngínde-1 — https://www.kimbundu.org/pt/word/nginde",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18136,
+      "kimbundu_term": "Ngíndu",
+      "portuguese_translation": "Madeixa de cabelos",
+      "definition": null,
+      "alternative_meanings": [
+        "Trança",
+        "Cousa entrançada",
+        "Porção de cabelo torcido. Pl. jingindu"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngíndu-1 — https://www.kimbundu.org/pt/word/ngindu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18137,
+      "kimbundu_term": "Ngînga",
+      "portuguese_translation": "Género de aracnídeos venenosos",
+      "definition": null,
+      "alternative_meanings": [
+        "Lacrau",
+        "Escorpão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngînga-1 — https://www.kimbundu.org/pt/word/nginga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18138,
+      "kimbundu_term": "Ngînga",
+      "portuguese_translation": "Pl. jinginga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngînga-1 — https://www.kimbundu.org/pt/word/nginga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18139,
+      "kimbundu_term": "Ngínza",
+      "portuguese_translation": "Instrumento sonoro composto de um arco de metal atravessado de uma haste solta",
+      "definition": null,
+      "alternative_meanings": [
+        "Espécie de sistro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngínza-1 — https://www.kimbundu.org/pt/word/nginza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18140,
+      "kimbundu_term": "Ngínza",
+      "portuguese_translation": "Campainha de latão ou folha que se agita como sineta",
+      "definition": null,
+      "alternative_meanings": [
+        "Chocalho (para bois, cabras, etc.)",
+        "Pl. jingínza"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngínza-1 — https://www.kimbundu.org/pt/word/nginza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18141,
+      "kimbundu_term": "Ngíongíolo",
+      "portuguese_translation": "(IX) Desleal",
+      "definition": null,
+      "alternative_meanings": [
+        "farsante",
+        "traidor",
+        "Hipócrita",
+        "Mentiroso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngíongíolo-1 — https://www.kimbundu.org/pt/word/ngiongiolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18142,
+      "kimbundu_term": "Ngíongíolo",
+      "portuguese_translation": "Falsário",
+      "definition": null,
+      "alternative_meanings": [
+        "O que não é verdadeiro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngíongíolo-1 — https://www.kimbundu.org/pt/word/ngiongiolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18143,
+      "kimbundu_term": "Ngíongíolo",
+      "portuguese_translation": "e sub. Que tem má fé e finura para enganar",
+      "definition": null,
+      "alternative_meanings": [
+        "Velhaco",
+        "patife",
+        "maroto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngíongíolo-1 — https://www.kimbundu.org/pt/word/ngiongiolo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
