@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12994,
+      "kimbundu_term": "Kuvúnda",
+      "portuguese_translation": "Ignorância, falta de visão ou clareza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvúnda-1 — https://www.kimbundu.org/pt/word/kuvunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12995,
+      "kimbundu_term": "Kúvunda",
+      "portuguese_translation": "Atirar, arremessar ao chão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúvunda-1 — https://www.kimbundu.org/pt/word/kuvunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12996,
+      "kimbundu_term": "Kúvunda",
+      "portuguese_translation": "Arremessamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúvunda-1 — https://www.kimbundu.org/pt/word/kuvunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12997,
+      "kimbundu_term": "Kúvunda",
+      "portuguese_translation": "Kurivunda, v. r. Lançar-se, arremessar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúvunda-1 — https://www.kimbundu.org/pt/word/kuvunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12998,
+      "kimbundu_term": "Kuvundisa",
+      "portuguese_translation": "Ofuscar, fazer escurecer",
+      "definition": null,
+      "alternative_meanings": [
+        "Empanar",
+        "fazer perder a claridade",
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvundisa-1 — https://www.kimbundu.org/pt/word/kuvundisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12999,
+      "kimbundu_term": "Kuvundumuka",
+      "portuguese_translation": "Levantar-se com arrebatamento",
+      "definition": null,
+      "alternative_meanings": [
+        "Erguer-se imediatamente",
+        "Acordar de repente",
+        "pôr-se em pé"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvundumuka-1 — https://www.kimbundu.org/pt/word/kuvundumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13000,
+      "kimbundu_term": "Kuvundumukisa",
+      "portuguese_translation": "Fazer levantar alguém de repelão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvundumukisa-1 — https://www.kimbundu.org/pt/word/kuvundumukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13001,
+      "kimbundu_term": "Kuvundumuna",
+      "portuguese_translation": "Acordar, fazer despertar, levantar imediatamente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvundumuna-1 — https://www.kimbundu.org/pt/word/kuvundumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13002,
+      "kimbundu_term": "Kuvundumuxisa",
+      "portuguese_translation": "Fazer levantar alguém de repelão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvundumuxisa-1 — https://www.kimbundu.org/pt/word/kuvundumuxisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13003,
+      "kimbundu_term": "Kuvunga",
+      "portuguese_translation": "Embuçar",
+      "definition": null,
+      "alternative_meanings": [
+        "encapotar",
+        "Abafar com cobertor",
+        "fig. Favorecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvunga-1 — https://www.kimbundu.org/pt/word/kuvunga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
