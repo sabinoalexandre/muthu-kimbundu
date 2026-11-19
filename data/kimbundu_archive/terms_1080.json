@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10904,
+      "kimbundu_term": "Kunjonjofa",
+      "portuguese_translation": "Estar a comer muitas vezes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunjonjofa-1 — https://www.kimbundu.org/pt/word/kunjonjofa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10905,
+      "kimbundu_term": "Kunjonjona",
+      "portuguese_translation": "Mordicar",
+      "definition": null,
+      "alternative_meanings": [
+        "Beliscar",
+        "unhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunjonjona-1 — https://www.kimbundu.org/pt/word/kunjonjona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10906,
+      "kimbundu_term": "Kunjotona",
+      "portuguese_translation": "Apertar a pele com as unhas",
+      "definition": null,
+      "alternative_meanings": [
+        "Dar beliscões a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunjotona-1 — https://www.kimbundu.org/pt/word/kunjotona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10907,
+      "kimbundu_term": "Kunjotonona",
+      "portuguese_translation": "Estortegar",
+      "definition": null,
+      "alternative_meanings": [
+        "Torcer com os dedos (a pele de)",
+        "Ir beliscando"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunjotonona-1 — https://www.kimbundu.org/pt/word/kunjotonona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10908,
+      "kimbundu_term": "Kunjotujona",
+      "portuguese_translation": "Magoar com beliscões",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunjotujona-1 — https://www.kimbundu.org/pt/word/kunjotujona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10909,
+      "kimbundu_term": "Kunjúmba",
+      "portuguese_translation": "Castigar",
+      "definition": null,
+      "alternative_meanings": [
+        "penitenciar",
+        "fazer penar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunjúmba-1 — https://www.kimbundu.org/pt/word/kunjumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10910,
+      "kimbundu_term": "Kunjúmba",
+      "portuguese_translation": "Estar de castigo",
+      "definition": null,
+      "alternative_meanings": [
+        "Sofrer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunjúmba-1 — https://www.kimbundu.org/pt/word/kunjumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10911,
+      "kimbundu_term": "Kunjúmba",
+      "portuguese_translation": "Sofrimento, penitência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunjúmba-1 — https://www.kimbundu.org/pt/word/kunjumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10912,
+      "kimbundu_term": "Kunjúmba",
+      "portuguese_translation": "Kurinjúmba, v. r. Impor-se castigo",
+      "definition": null,
+      "alternative_meanings": [
+        "mortificar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunjúmba-1 — https://www.kimbundu.org/pt/word/kunjumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10913,
+      "kimbundu_term": "Kunjuzá",
+      "portuguese_translation": "Confusão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunjuzá-1 — https://www.kimbundu.org/pt/word/kunjuza",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
