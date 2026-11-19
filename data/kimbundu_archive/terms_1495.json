@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15054,
+      "kimbundu_term": "Mbadikila",
+      "portuguese_translation": "Diz-se do pequeno negócio que se vende à parte do principal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbadikila-1 — https://www.kimbundu.org/pt/word/mbadikila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15055,
+      "kimbundu_term": "Mbáka",
+      "portuguese_translation": "Multidão",
+      "definition": null,
+      "alternative_meanings": [
+        "comitiva",
+        "povo",
+        "lugar onde habita ou reside muita gente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbáka-1 — https://www.kimbundu.org/pt/word/mbaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15056,
+      "kimbundu_term": "Mbáka",
+      "portuguese_translation": "Cidade",
+      "definition": null,
+      "alternative_meanings": [
+        "capital",
+        "sede de distrito ou de província"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbáka-1 — https://www.kimbundu.org/pt/word/mbaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15057,
+      "kimbundu_term": "Mbáka",
+      "portuguese_translation": "natural ou habitante da cidade",
+      "definition": null,
+      "alternative_meanings": [
+        "cidadão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbáka-1 — https://www.kimbundu.org/pt/word/mbaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15058,
+      "kimbundu_term": "Mbáka",
+      "portuguese_translation": "Território situado entre os concelhos de Cambambe, Golungo e Malange, distrito e província de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbáka-1 — https://www.kimbundu.org/pt/word/mbaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15059,
+      "kimbundu_term": "Mbakanyá",
+      "portuguese_translation": "Bacalhau",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbakanyá-1 — https://www.kimbundu.org/pt/word/mbakanya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15060,
+      "kimbundu_term": "Mbakanyá",
+      "portuguese_translation": "Salobre",
+      "definition": null,
+      "alternative_meanings": [
+        "que sabe a sal"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbakanyá-1 — https://www.kimbundu.org/pt/word/mbakanya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15061,
+      "kimbundu_term": "Mbâku",
+      "portuguese_translation": "Homem impotente",
+      "definition": null,
+      "alternative_meanings": [
+        "que não faz filhos",
+        "que não pode gerar ou procriar"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbâku-1 — https://www.kimbundu.org/pt/word/mbaku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15062,
+      "kimbundu_term": "Mbâku",
+      "portuguese_translation": "diz-se do homem que teve mas já não pode ter filhos",
+      "definition": null,
+      "alternative_meanings": [
+        "agenesia posterior aos primeiros filhos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbâku-1 — https://www.kimbundu.org/pt/word/mbaku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15063,
+      "kimbundu_term": "Mbakúsa",
+      "portuguese_translation": "Diz-se dos alimentos secos ou não cozinhados (farinha, milho torrado, coco, jinguba, etc.), que se comem crus",
+      "definition": null,
+      "alternative_meanings": [
+        "comida que não carece de ser cozinhada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbakúsa-1 — https://www.kimbundu.org/pt/word/mbakusa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
