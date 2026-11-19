@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7644,
+      "kimbundu_term": "Kubóla",
+      "portuguese_translation": "Podridão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubóla-1 — https://www.kimbundu.org/pt/word/kubola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7645,
+      "kimbundu_term": "Kubolama",
+      "portuguese_translation": "Curvar-se, dobrar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "ajoelhar inclinando o corpo submissamente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubolama-1 — https://www.kimbundu.org/pt/word/kubolama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7646,
+      "kimbundu_term": "Kubolama",
+      "portuguese_translation": "Prosternar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubolama-1 — https://www.kimbundu.org/pt/word/kubolama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7647,
+      "kimbundu_term": "Kubolama",
+      "portuguese_translation": "Prosternação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubolama-1 — https://www.kimbundu.org/pt/word/kubolama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7648,
+      "kimbundu_term": "Kubolamesa",
+      "portuguese_translation": "Prosternar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubolamesa-1 — https://www.kimbundu.org/pt/word/kubolamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7649,
+      "kimbundu_term": "Kubolamesa",
+      "portuguese_translation": "Fazer ajoelhar e inclinar o corpo com humildade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubolamesa-1 — https://www.kimbundu.org/pt/word/kubolamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7650,
+      "kimbundu_term": "Kuboleka",
+      "portuguese_translation": "Emborcar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuboleka-1 — https://www.kimbundu.org/pt/word/kuboleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7651,
+      "kimbundu_term": "Kuboleka",
+      "portuguese_translation": "Despejar (emborcando)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuboleka-1 — https://www.kimbundu.org/pt/word/kuboleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7652,
+      "kimbundu_term": "Kuboleka",
+      "portuguese_translation": "Inverter",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuboleka-1 — https://www.kimbundu.org/pt/word/kuboleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7653,
+      "kimbundu_term": "Kuboleka",
+      "portuguese_translation": "Inversão",
+      "definition": null,
+      "alternative_meanings": [
+        "emborque"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuboleka-1 — https://www.kimbundu.org/pt/word/kuboleka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
