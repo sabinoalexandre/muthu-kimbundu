@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13044,
+      "kimbundu_term": "Kúvuuisa",
+      "portuguese_translation": "Fazer passar a vau",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúvuuisa-1 — https://www.kimbundu.org/pt/word/kuvuuisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13045,
+      "kimbundu_term": "Kuvúza",
+      "portuguese_translation": "Descabelar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvúza-1 — https://www.kimbundu.org/pt/word/kuvuza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13046,
+      "kimbundu_term": "Kuvuzakanya",
+      "portuguese_translation": "Desarmar. Desaparelhar, desordenar, desguarnecer. Depor armas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvuzakanya-1 — https://www.kimbundu.org/pt/word/kuvuzakanya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13047,
+      "kimbundu_term": "Kuvuzakanya",
+      "portuguese_translation": "Desarmamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvuzakanya-1 — https://www.kimbundu.org/pt/word/kuvuzakanya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13048,
+      "kimbundu_term": "Kuvuzuka",
+      "portuguese_translation": "Partir com ímpeto: ir com velocidade: correr",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvuzuka-1 — https://www.kimbundu.org/pt/word/kuvuzuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13049,
+      "kimbundu_term": "Kuvuzuka",
+      "portuguese_translation": "Ficar abalado, impressionado, perturbado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvuzuka-1 — https://www.kimbundu.org/pt/word/kuvuzuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13050,
+      "kimbundu_term": "Kuvuzuka",
+      "portuguese_translation": "Abalo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvuzuka-1 — https://www.kimbundu.org/pt/word/kuvuzuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13051,
+      "kimbundu_term": "Kuvuzula",
+      "portuguese_translation": "Fazer arrancar (correndo). Meter susto. Perturbar. É também recíproco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvuzula-1 — https://www.kimbundu.org/pt/word/kuvuzula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13052,
+      "kimbundu_term": "Kuvwala",
+      "portuguese_translation": "Partir (É mais vernáculo, porém, menos usado.)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuvwala-1 — https://www.kimbundu.org/pt/word/kuvwala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13053,
+      "kimbundu_term": "Kuwabha",
+      "portuguese_translation": "Convir",
+      "definition": null,
+      "alternative_meanings": [
+        "ser lícito, bom"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuwabha-1 — https://www.kimbundu.org/pt/word/kuwabha",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
