@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14064,
+      "kimbundu_term": "Kyenu",
+      "portuguese_translation": "Vossa",
+      "definition": null,
+      "alternative_meanings": [
+        "vosso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyenu-1 — https://www.kimbundu.org/pt/word/kyenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14065,
+      "kimbundu_term": "Kyenu",
+      "portuguese_translation": "De vós",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyenu-1 — https://www.kimbundu.org/pt/word/kyenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14066,
+      "kimbundu_term": "Kyenu",
+      "portuguese_translation": "Pertencente às vossas pessoas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyenu-1 — https://www.kimbundu.org/pt/word/kyenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14067,
+      "kimbundu_term": "Kyenu",
+      "portuguese_translation": "Propriamente vosso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyenu-1 — https://www.kimbundu.org/pt/word/kyenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14068,
+      "kimbundu_term": "Kyenu",
+      "portuguese_translation": "Pertencente a vós mesmo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyenu-1 — https://www.kimbundu.org/pt/word/kyenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14069,
+      "kimbundu_term": "Kyetu",
+      "portuguese_translation": "Das pessoas que falam",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyetu-1 — https://www.kimbundu.org/pt/word/kyetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14070,
+      "kimbundu_term": "Kyetu",
+      "portuguese_translation": "Nosso",
+      "definition": null,
+      "alternative_meanings": [
+        "nossa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyetu-1 — https://www.kimbundu.org/pt/word/kyetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14071,
+      "kimbundu_term": "Kyetu",
+      "portuguese_translation": "De nós",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyetu-1 — https://www.kimbundu.org/pt/word/kyetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14072,
+      "kimbundu_term": "Kyetu",
+      "portuguese_translation": "Propriamente nosso",
+      "definition": null,
+      "alternative_meanings": [
+        "das nossas pessoas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyetu-1 — https://www.kimbundu.org/pt/word/kyetu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14073,
+      "kimbundu_term": "Kyonene",
+      "portuguese_translation": "Grande",
+      "definition": null,
+      "alternative_meanings": [
+        "O que é grandioso, de tamanho maior",
+        "Em ponto grande. (Melhor escrever kia unene). Pl. iônene. (ou ia unene)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kyonene-1 — https://www.kimbundu.org/pt/word/kyonene",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
