@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1174,
+      "kimbundu_term": "Diná",
+      "portuguese_translation": "Aquela",
+      "definition": null,
+      "alternative_meanings": [
+        "aquele",
+        "Outro",
+        "diverso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diná-1 — https://www.kimbundu.org/pt/word/dina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1175,
+      "kimbundu_term": "Dina-diná",
+      "portuguese_translation": "Designa coisa que está afastada da pessoa a quem se fala",
+      "definition": null,
+      "alternative_meanings": [
+        "aquel'outro",
+        "que está mais longe",
+        "aquel'além"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dina-diná-1 — https://www.kimbundu.org/pt/word/dina-dina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1176,
+      "kimbundu_term": "Dinake",
+      "portuguese_translation": "Oito",
+      "definition": null,
+      "alternative_meanings": [
+        "oitavo",
+        "o número 8"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dinake-1 — https://www.kimbundu.org/pt/word/dinake",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1177,
+      "kimbundu_term": "Dinangu",
+      "portuguese_translation": "Lugar onde se passa o dia",
+      "definition": null,
+      "alternative_meanings": [
+        "lugar de estar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dinangu-1 — https://www.kimbundu.org/pt/word/dinangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1178,
+      "kimbundu_term": "Dinánzu",
+      "portuguese_translation": "Elogio",
+      "definition": null,
+      "alternative_meanings": [
+        "gabação",
+        "encómio. É mais usado no pl. manánzu"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dinánzu-1 — https://www.kimbundu.org/pt/word/dinanzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1179,
+      "kimbundu_term": "Dinaua",
+      "portuguese_translation": "Anágua",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dinaua-1 — https://www.kimbundu.org/pt/word/dinaua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1180,
+      "kimbundu_term": "Dindonga",
+      "portuguese_translation": "Pano que se veste da cintura e arrasta aos pés",
+      "definition": null,
+      "alternative_meanings": [
+        "o mesmo que rizula"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dindonga-1 — https://www.kimbundu.org/pt/word/dindonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1181,
+      "kimbundu_term": "Díne",
+      "portuguese_translation": "Excessiva sujidade acumulada no corpo humano",
+      "definition": null,
+      "alternative_meanings": [
+        "imundície"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, díne-1 — https://www.kimbundu.org/pt/word/dine",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1182,
+      "kimbundu_term": "Dinenenu",
+      "portuguese_translation": "Anus",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dinenenu-1 — https://www.kimbundu.org/pt/word/dinenenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1183,
+      "kimbundu_term": "Dinga",
+      "portuguese_translation": "Espaço compreendido entre dois pontos",
+      "definition": null,
+      "alternative_meanings": [
+        "extremidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dinga-1 — https://www.kimbundu.org/pt/word/dinga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
