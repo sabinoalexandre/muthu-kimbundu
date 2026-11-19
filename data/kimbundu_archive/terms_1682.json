@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16924,
+      "kimbundu_term": "Munyáme",
+      "portuguese_translation": "(I) Carniceiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munyáme-1 — https://www.kimbundu.org/pt/word/munyame",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16925,
+      "kimbundu_term": "Munyáme",
+      "portuguese_translation": "Magarefe",
+      "definition": null,
+      "alternative_meanings": [
+        "monteiro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munyáme-1 — https://www.kimbundu.org/pt/word/munyame",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16926,
+      "kimbundu_term": "Munyámi",
+      "portuguese_translation": "Carnívoro",
+      "definition": null,
+      "alternative_meanings": [
+        "antropófago"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munyámi-1 — https://www.kimbundu.org/pt/word/munyami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16927,
+      "kimbundu_term": "Munyamuni",
+      "portuguese_translation": "Delator",
+      "definition": null,
+      "alternative_meanings": [
+        "falsário"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munyamuni-1 — https://www.kimbundu.org/pt/word/munyamuni",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16928,
+      "kimbundu_term": "Munyándi",
+      "portuguese_translation": "Nome por que no Sul da prov. é conhecida a planta mulende",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munyándi-1 — https://www.kimbundu.org/pt/word/munyandi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16929,
+      "kimbundu_term": "Munyane",
+      "portuguese_translation": "Roubidor",
+      "definition": null,
+      "alternative_meanings": [
+        "gatuno"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munyane-1 — https://www.kimbundu.org/pt/word/munyane",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16930,
+      "kimbundu_term": "Munyánge",
+      "portuguese_translation": "Que trucida",
+      "definition": null,
+      "alternative_meanings": [
+        "estrangulador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munyánge-1 — https://www.kimbundu.org/pt/word/munyange",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16931,
+      "kimbundu_term": "Munyángu",
+      "portuguese_translation": "Hastilha",
+      "definition": null,
+      "alternative_meanings": [
+        "tira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munyángu-1 — https://www.kimbundu.org/pt/word/munyangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16932,
+      "kimbundu_term": "Munyángu",
+      "portuguese_translation": "Grande rio que dá o nome à região que atravessa. Nasce na serra de Mussamba, no Moxico, e é afluente do Kasai, no distr.",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munyángu-1 — https://www.kimbundu.org/pt/word/munyangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16933,
+      "kimbundu_term": "Munyénge",
+      "portuguese_translation": "Pessoa que dependura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, munyénge-1 — https://www.kimbundu.org/pt/word/munyenge",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
