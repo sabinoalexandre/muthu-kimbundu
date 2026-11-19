@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7074,
+      "kimbundu_term": "Kubandama",
+      "portuguese_translation": "Parar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubandama-1 — https://www.kimbundu.org/pt/word/kubandama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7075,
+      "kimbundu_term": "Kubandeka",
+      "portuguese_translation": "Formar par ou parelha (com outro)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubandeka-1 — https://www.kimbundu.org/pt/word/kubandeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7076,
+      "kimbundu_term": "Kubandeka",
+      "portuguese_translation": "Agrupar",
+      "definition": null,
+      "alternative_meanings": [
+        "ajuntar",
+        "unir (sem ligação)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubandeka-1 — https://www.kimbundu.org/pt/word/kubandeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7077,
+      "kimbundu_term": "Kubandeka",
+      "portuguese_translation": "Flanquear",
+      "definition": null,
+      "alternative_meanings": [
+        "ladear"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubandeka-1 — https://www.kimbundu.org/pt/word/kubandeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7078,
+      "kimbundu_term": "Kubandeka",
+      "portuguese_translation": "Remediar",
+      "definition": null,
+      "alternative_meanings": [
+        "suprir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubandeka-1 — https://www.kimbundu.org/pt/word/kubandeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7079,
+      "kimbundu_term": "Kubandeka",
+      "portuguese_translation": "sub. Emparelhamento",
+      "definition": null,
+      "alternative_meanings": [
+        "acrescentamento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubandeka-1 — https://www.kimbundu.org/pt/word/kubandeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7080,
+      "kimbundu_term": "Kubandeka",
+      "portuguese_translation": "Kuribandeka, e r. Acrescer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubandeka-1 — https://www.kimbundu.org/pt/word/kubandeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7081,
+      "kimbundu_term": "Kubandeka",
+      "portuguese_translation": "Ajuntar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubandeka-1 — https://www.kimbundu.org/pt/word/kubandeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7082,
+      "kimbundu_term": "Kubandeka",
+      "portuguese_translation": "Unir-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubandeka-1 — https://www.kimbundu.org/pt/word/kubandeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7083,
+      "kimbundu_term": "Kubandekeza",
+      "portuguese_translation": "Acrescentar (pondo ao lado)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubandekeza-1 — https://www.kimbundu.org/pt/word/kubandekeza",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
