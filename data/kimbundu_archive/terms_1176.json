@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11864,
+      "kimbundu_term": "Kusukumuka",
+      "portuguese_translation": "Estar a chuviscar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusukumuka-1 — https://www.kimbundu.org/pt/word/kusukumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11865,
+      "kimbundu_term": "Kusukumuka",
+      "portuguese_translation": "Derramar, correr por fora",
+      "definition": null,
+      "alternative_meanings": [
+        "Estar a descer, a cair"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusukumuka-1 — https://www.kimbundu.org/pt/word/kusukumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11866,
+      "kimbundu_term": "Kusukumuka",
+      "portuguese_translation": "Derramamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusukumuka-1 — https://www.kimbundu.org/pt/word/kusukumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11867,
+      "kimbundu_term": "Kusukumukina",
+      "portuguese_translation": "Vasar para",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusukumukina-1 — https://www.kimbundu.org/pt/word/kusukumukina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11868,
+      "kimbundu_term": "Kusukumukina",
+      "portuguese_translation": "Verter, escorrer por",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusukumukina-1 — https://www.kimbundu.org/pt/word/kusukumukina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11869,
+      "kimbundu_term": "Kusukumukina",
+      "portuguese_translation": "Despejar em",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusukumukina-1 — https://www.kimbundu.org/pt/word/kusukumukina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11870,
+      "kimbundu_term": "Kusukumukisa",
+      "portuguese_translation": "Mandar esvaziar, despejar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusukumukisa-1 — https://www.kimbundu.org/pt/word/kusukumukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11871,
+      "kimbundu_term": "Kusukumukisa",
+      "portuguese_translation": "Fazer derramar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusukumukisa-1 — https://www.kimbundu.org/pt/word/kusukumukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11872,
+      "kimbundu_term": "Kusukumuna",
+      "portuguese_translation": "Chuviscar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusukumuna-1 — https://www.kimbundu.org/pt/word/kusukumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11873,
+      "kimbundu_term": "Kusukumuna",
+      "portuguese_translation": "Esvasiar",
+      "definition": null,
+      "alternative_meanings": [
+        "despejar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusukumuna-1 — https://www.kimbundu.org/pt/word/kusukumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
