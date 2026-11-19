@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6664,
+      "kimbundu_term": "Kixóka",
+      "portuguese_translation": "Aguardente",
+      "definition": null,
+      "alternative_meanings": [
+        "zurrapa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixóka-1 — https://www.kimbundu.org/pt/word/kixoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6665,
+      "kimbundu_term": "Kixone",
+      "portuguese_translation": "Taralhão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixone-1 — https://www.kimbundu.org/pt/word/kixone",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6666,
+      "kimbundu_term": "Kixone",
+      "portuguese_translation": "Papa-moscas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixone-1 — https://www.kimbundu.org/pt/word/kixone",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6667,
+      "kimbundu_term": "Kixukuxuku",
+      "portuguese_translation": "Soluço",
+      "definition": null,
+      "alternative_meanings": [
+        "choro breve e irreprimível"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixukuxuku-1 — https://www.kimbundu.org/pt/word/kixukuxuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6668,
+      "kimbundu_term": "Kixukuxuku",
+      "portuguese_translation": "Ação de soluçar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kixukuxuku-1 — https://www.kimbundu.org/pt/word/kixukuxuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6669,
+      "kimbundu_term": "Kiyadi",
+      "portuguese_translation": "Dois",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiyadi-1 — https://www.kimbundu.org/pt/word/kiyadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6670,
+      "kimbundu_term": "Kiyala",
+      "portuguese_translation": "Homenzarrão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiyala-1 — https://www.kimbundu.org/pt/word/kiyala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6671,
+      "kimbundu_term": "Kiyala",
+      "portuguese_translation": "Homem bruto, rude, selvagem. fig. Indivíduo",
+      "definition": null,
+      "alternative_meanings": [
+        "sujeito"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiyala-1 — https://www.kimbundu.org/pt/word/kiyala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6672,
+      "kimbundu_term": "Kizabuia",
+      "portuguese_translation": "Pancada dada com a mão na boca de alguém",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizabuia-1 — https://www.kimbundu.org/pt/word/kizabuia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6673,
+      "kimbundu_term": "Kizabuia",
+      "portuguese_translation": "Tapa-boca",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizabuia-1 — https://www.kimbundu.org/pt/word/kizabuia",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
