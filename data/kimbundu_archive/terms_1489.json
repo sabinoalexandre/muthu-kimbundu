@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14994,
+      "kimbundu_term": "Mavúji",
+      "portuguese_translation": "Conjunto de cabelo que cobre a região púbica",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mavúji-1 — https://www.kimbundu.org/pt/word/mavuji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14995,
+      "kimbundu_term": "Mavúnda",
+      "portuguese_translation": "Moiteira",
+      "definition": null,
+      "alternative_meanings": [
+        "Mata espessa de plantas de pouca altura"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mavúnda-1 — https://www.kimbundu.org/pt/word/mavunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14996,
+      "kimbundu_term": "Mavunzu",
+      "portuguese_translation": "Turvação",
+      "definition": null,
+      "alternative_meanings": [
+        "Lia de líquidos",
+        "Pouca clareza",
+        "fig. Reminiscências"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mavunzu-1 — https://www.kimbundu.org/pt/word/mavunzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14997,
+      "kimbundu_term": "Mavuwa",
+      "portuguese_translation": "Infelicidades",
+      "definition": null,
+      "alternative_meanings": [
+        "reveses",
+        "contratempos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mavuwa-1 — https://www.kimbundu.org/pt/word/mavuwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14998,
+      "kimbundu_term": "Mawindu",
+      "portuguese_translation": "Larvas",
+      "definition": null,
+      "alternative_meanings": [
+        "bichos",
+        "Parasitas que se desenvolvem no corpo vivo",
+        "Nome comum dos animais anelados inarticulados, vermiformes e insetos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mawindu-1 — https://www.kimbundu.org/pt/word/mawindu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14999,
+      "kimbundu_term": "Màxaka",
+      "portuguese_translation": "Sujidades",
+      "definition": null,
+      "alternative_meanings": [
+        "nódoas excrementícias. Esterco",
+        "imundícies"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, màxaka-1 — https://www.kimbundu.org/pt/word/maxaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15000,
+      "kimbundu_term": "Màxaka",
+      "portuguese_translation": "O mesmo que majiaka",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, màxaka-1 — https://www.kimbundu.org/pt/word/maxaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15001,
+      "kimbundu_term": "Maxibua",
+      "portuguese_translation": "Família de plantas tipo das leguminosas (Citrullus vulgaris), de propriedades purgativas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maxibua-1 — https://www.kimbundu.org/pt/word/maxibua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15002,
+      "kimbundu_term": "Maxibua",
+      "portuguese_translation": "Codeçal",
+      "definition": null,
+      "alternative_meanings": [
+        "conjunto de anagiros"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maxibua-1 — https://www.kimbundu.org/pt/word/maxibua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15003,
+      "kimbundu_term": "Maxikululu",
+      "portuguese_translation": "Maus olhares",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maxikululu-1 — https://www.kimbundu.org/pt/word/maxikululu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
