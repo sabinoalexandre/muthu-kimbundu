@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13314,
+      "kimbundu_term": "Kuxingula",
+      "portuguese_translation": "Imprecar males sobre",
+      "definition": null,
+      "alternative_meanings": [
+        "rogar pragas contra",
+        "Deitar maldição a",
+        "maldizer de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxingula-1 — https://www.kimbundu.org/pt/word/kuxingula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13315,
+      "kimbundu_term": "Kuxinina",
+      "portuguese_translation": "Apertar",
+      "definition": null,
+      "alternative_meanings": [
+        "oprimir",
+        "Exercer forte pressão sobre"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxinina-1 — https://www.kimbundu.org/pt/word/kuxinina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13316,
+      "kimbundu_term": "Kuxinjika",
+      "portuguese_translation": "Empurrar",
+      "definition": null,
+      "alternative_meanings": [
+        "impelir",
+        "Meter, introduzir com força"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxinjika-1 — https://www.kimbundu.org/pt/word/kuxinjika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13317,
+      "kimbundu_term": "Kuxinjikila",
+      "portuguese_translation": "Ensinar o caminho",
+      "definition": null,
+      "alternative_meanings": [
+        "Despedir quem não tornamos a ver"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxinjikila-1 — https://www.kimbundu.org/pt/word/kuxinjikila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13318,
+      "kimbundu_term": "Kuxinjikila",
+      "portuguese_translation": "Impingir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxinjikila-1 — https://www.kimbundu.org/pt/word/kuxinjikila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13319,
+      "kimbundu_term": "Kuxinuka",
+      "portuguese_translation": "Ter ganância",
+      "definition": null,
+      "alternative_meanings": [
+        "Mostrar-se afanoso, excitado",
+        "Tb. se diz Kuhâma"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxinuka-1 — https://www.kimbundu.org/pt/word/kuxinuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13320,
+      "kimbundu_term": "Kuxinukina",
+      "portuguese_translation": "Ter afã por",
+      "definition": null,
+      "alternative_meanings": [
+        "Afadigar-se, excitar-se com"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxinukina-1 — https://www.kimbundu.org/pt/word/kuxinukina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13321,
+      "kimbundu_term": "Kuxinukisa",
+      "portuguese_translation": "Fazer abrir, esbugalhar (os olhos)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxinukisa-1 — https://www.kimbundu.org/pt/word/kuxinukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13322,
+      "kimbundu_term": "Kuxinuna",
+      "portuguese_translation": "Arregalar",
+      "definition": null,
+      "alternative_meanings": [
+        "Espantar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxinuna-1 — https://www.kimbundu.org/pt/word/kuxinuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13323,
+      "kimbundu_term": "Kúxisa",
+      "portuguese_translation": "Friccionar levemente",
+      "definition": null,
+      "alternative_meanings": [
+        "untar",
+        "Encerar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxisa-1 — https://www.kimbundu.org/pt/word/kuxisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
