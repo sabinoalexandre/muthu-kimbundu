@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10994,
+      "kimbundu_term": "Kunyekumuna",
+      "portuguese_translation": "Bambolear",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer estremecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyekumuna-1 — https://www.kimbundu.org/pt/word/kunyekumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10995,
+      "kimbundu_term": "Kunyekuna",
+      "portuguese_translation": "Fazer oscilar, mover",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyekuna-1 — https://www.kimbundu.org/pt/word/kunyekuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10996,
+      "kimbundu_term": "Kunyekuna",
+      "portuguese_translation": "Deslocar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer sair do lugar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyekuna-1 — https://www.kimbundu.org/pt/word/kunyekuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10997,
+      "kimbundu_term": "Kunyema",
+      "portuguese_translation": "Estranhar",
+      "definition": null,
+      "alternative_meanings": [
+        "lamentar",
+        "tornar-se queixoso. (Emprega-se no sentido amistoso)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyema-1 — https://www.kimbundu.org/pt/word/kunyema",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10998,
+      "kimbundu_term": "Kunyemena",
+      "portuguese_translation": "Queixar-se, lamentar-se por",
+      "definition": null,
+      "alternative_meanings": [
+        "Estranhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyemena-1 — https://www.kimbundu.org/pt/word/kunyemena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10999,
+      "kimbundu_term": "Kunyemena",
+      "portuguese_translation": "Manifestar sentimento por",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyemena-1 — https://www.kimbundu.org/pt/word/kunyemena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11000,
+      "kimbundu_term": "Kunyemena",
+      "portuguese_translation": "Kurinhemena, v. r. Lamentar-se, queixar-se mutuamente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyemena-1 — https://www.kimbundu.org/pt/word/kunyemena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11001,
+      "kimbundu_term": "Kunyemuka",
+      "portuguese_translation": "Resentir-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyemuka-1 — https://www.kimbundu.org/pt/word/kunyemuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11002,
+      "kimbundu_term": "Kunyemuka",
+      "portuguese_translation": "Manifestar frieza, ressentimento, queixa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyemuka-1 — https://www.kimbundu.org/pt/word/kunyemuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11003,
+      "kimbundu_term": "Kunyénga",
+      "portuguese_translation": "Enforcar",
+      "definition": null,
+      "alternative_meanings": [
+        "estrangular",
+        "Ter pendente",
+        "Suspender"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunyénga-1 — https://www.kimbundu.org/pt/word/kunyenga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
