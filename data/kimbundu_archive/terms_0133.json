@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1434,
+      "kimbundu_term": "Divándu",
+      "portuguese_translation": "Levantamento",
+      "definition": null,
+      "alternative_meanings": [
+        "sublevação",
+        "rompimento (de hostilidades)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, divándu-1 — https://www.kimbundu.org/pt/word/divandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1435,
+      "kimbundu_term": "Divándu",
+      "portuguese_translation": "Brotamento rápido",
+      "definition": null,
+      "alternative_meanings": [
+        "levantamento impetuoso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, divándu-1 — https://www.kimbundu.org/pt/word/divandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1436,
+      "kimbundu_term": "Divándu",
+      "portuguese_translation": "Pujança",
+      "definition": null,
+      "alternative_meanings": [
+        "vigor"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, divándu-1 — https://www.kimbundu.org/pt/word/divandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1437,
+      "kimbundu_term": "Diveve",
+      "portuguese_translation": "Pólipo",
+      "definition": null,
+      "alternative_meanings": [
+        "bolha cheia de serosidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diveve-1 — https://www.kimbundu.org/pt/word/diveve",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1438,
+      "kimbundu_term": "Dívua",
+      "portuguese_translation": "Nove",
+      "definition": null,
+      "alternative_meanings": [
+        "nono"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dívua-1 — https://www.kimbundu.org/pt/word/divua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1439,
+      "kimbundu_term": "Dívua",
+      "portuguese_translation": "O que ocupa o nono lugar. É tb. ord",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dívua-1 — https://www.kimbundu.org/pt/word/divua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1440,
+      "kimbundu_term": "Divúla",
+      "portuguese_translation": "Cozinha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, divúla-1 — https://www.kimbundu.org/pt/word/divula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1441,
+      "kimbundu_term": "Divúli",
+      "portuguese_translation": "Fio de cabelo da púbis. É mais usado no plural mavíli",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, divúli-1 — https://www.kimbundu.org/pt/word/divuli",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1442,
+      "kimbundu_term": "Divulu",
+      "portuguese_translation": "Livro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, divulu-1 — https://www.kimbundu.org/pt/word/divulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1443,
+      "kimbundu_term": "Divúmu",
+      "portuguese_translation": "Ventre",
+      "definition": null,
+      "alternative_meanings": [
+        "barriga",
+        "abdómen"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, divúmu-1 — https://www.kimbundu.org/pt/word/divumu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
