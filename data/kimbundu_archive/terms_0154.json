@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1644,
+      "kimbundu_term": "Fickoso",
+      "portuguese_translation": "Chasco",
+      "definition": null,
+      "alternative_meanings": [
+        "arrelia",
+        "zanga, contrariedade",
+        "(figurado) trapalhice",
+        "importunação",
+        "maçada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fickoso-1 — https://www.kimbundu.org/pt/word/fickoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1645,
+      "kimbundu_term": "Fickoto",
+      "portuguese_translation": "Muito sujo",
+      "definition": null,
+      "alternative_meanings": [
+        "sujamente",
+        "sem nenhuma limpeza",
+        "porcamente"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fickoto-1 — https://www.kimbundu.org/pt/word/fickoto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1646,
+      "kimbundu_term": "Fidila",
+      "portuguese_translation": "Ferida (do português)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fidila-1 — https://www.kimbundu.org/pt/word/fidila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1647,
+      "kimbundu_term": "Fién",
+      "portuguese_translation": "Expressão para imitar o assoar, o rápido volteio das aves ou o mergulhar dos peixes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fién-1 — https://www.kimbundu.org/pt/word/fien",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1648,
+      "kimbundu_term": "Fifi",
+      "portuguese_translation": "Planta dicotiledónea da família das malváceas (gossypium sp.), utilizada como ornamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fifi-1 — https://www.kimbundu.org/pt/word/fifi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1649,
+      "kimbundu_term": "Fifi",
+      "portuguese_translation": "Pequena mosca fabricante de mel",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fifi-1 — https://www.kimbundu.org/pt/word/fifi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1650,
+      "kimbundu_term": "Fiialu",
+      "portuguese_translation": "Promessa mútua de que depende dar ou receber alguma coisa (em determinadas circunstâncias)",
+      "definition": null,
+      "alternative_meanings": [
+        "aposta",
+        "a quantia ou coisa que se aposta"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fiialu-1 — https://www.kimbundu.org/pt/word/fiialu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1651,
+      "kimbundu_term": "Fiialu",
+      "portuguese_translation": "Kuta fiialu: apostar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fiialu-1 — https://www.kimbundu.org/pt/word/fiialu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1652,
+      "kimbundu_term": "Fimba",
+      "portuguese_translation": "Ato de mergulhar ou de meter-se debaixo de água",
+      "definition": null,
+      "alternative_meanings": [
+        "mergulho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fimba-1 — https://www.kimbundu.org/pt/word/fimba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1653,
+      "kimbundu_term": "Fimba",
+      "portuguese_translation": "(figurado) Desaparecimento momentâneo para se conseguir o que é necessário",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, fimba-1 — https://www.kimbundu.org/pt/word/fimba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
