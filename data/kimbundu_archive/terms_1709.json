@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17194,
+      "kimbundu_term": "Musúsi",
+      "portuguese_translation": "Mijão",
+      "definition": null,
+      "alternative_meanings": [
+        "Que urina muitas vezes"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musúsi-1 — https://www.kimbundu.org/pt/word/mususi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17195,
+      "kimbundu_term": "Musúsu",
+      "portuguese_translation": "Dor",
+      "definition": null,
+      "alternative_meanings": [
+        "Pesar",
+        "sofrimento moral"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musúsu-1 — https://www.kimbundu.org/pt/word/mususu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17196,
+      "kimbundu_term": "Musuta",
+      "portuguese_translation": "Bafio",
+      "definition": null,
+      "alternative_meanings": [
+        "mofo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musuta-1 — https://www.kimbundu.org/pt/word/musuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17197,
+      "kimbundu_term": "Músuui",
+      "portuguese_translation": "Arpoador",
+      "definition": null,
+      "alternative_meanings": [
+        "fisgador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, músuui-1 — https://www.kimbundu.org/pt/word/musuui",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17198,
+      "kimbundu_term": "Mútabe",
+      "portuguese_translation": "Aguadeiro",
+      "definition": null,
+      "alternative_meanings": [
+        "Pessoa que vai à fonte, rio ou mar tirar água"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mútabe-1 — https://www.kimbundu.org/pt/word/mutabe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17199,
+      "kimbundu_term": "Mutádi",
+      "portuguese_translation": "Gomo. Talhada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutádi-1 — https://www.kimbundu.org/pt/word/mutadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17200,
+      "kimbundu_term": "Mutafunu",
+      "portuguese_translation": "Nome que um serviçal dá ao outro quando do mesmo patrão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutafunu-1 — https://www.kimbundu.org/pt/word/mutafunu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17201,
+      "kimbundu_term": "Mutafunu",
+      "portuguese_translation": "Companheiro",
+      "definition": null,
+      "alternative_meanings": [
+        "colega (ao serviço do mesmo dono)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutafunu-1 — https://www.kimbundu.org/pt/word/mutafunu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17202,
+      "kimbundu_term": "Mutáju",
+      "portuguese_translation": "Bolor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutáju-1 — https://www.kimbundu.org/pt/word/mutaju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17203,
+      "kimbundu_term": "Mutakalombs",
+      "portuguese_translation": "Deus da caça. Deus protetor dos caçadores",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mutakalombs-1 — https://www.kimbundu.org/pt/word/mutakalombs",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
