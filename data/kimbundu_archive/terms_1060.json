@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10704,
+      "kimbundu_term": "Kumuangununa",
+      "portuguese_translation": "Apartar",
+      "definition": null,
+      "alternative_meanings": [
+        "dividir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumuangununa-1 — https://www.kimbundu.org/pt/word/kumuangununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10705,
+      "kimbundu_term": "Kumuangununa",
+      "portuguese_translation": "Sub. Apartamento. É tb. r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumuangununa-1 — https://www.kimbundu.org/pt/word/kumuangununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10706,
+      "kimbundu_term": "Kumuémua",
+      "portuguese_translation": "Sorrir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumuémua-1 — https://www.kimbundu.org/pt/word/kumuemua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10707,
+      "kimbundu_term": "Kumuemueta",
+      "portuguese_translation": "Estar mole, maduro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumuemueta-1 — https://www.kimbundu.org/pt/word/kumuemueta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10708,
+      "kimbundu_term": "Kumuemueta",
+      "portuguese_translation": "Dar de si",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumuemueta-1 — https://www.kimbundu.org/pt/word/kumuemueta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10709,
+      "kimbundu_term": "Kumuemuetesa",
+      "portuguese_translation": "Fazer amolecer (o fruto)",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar maduro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumuemuetesa-1 — https://www.kimbundu.org/pt/word/kumuemuetesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10710,
+      "kimbundu_term": "Kumuena",
+      "portuguese_translation": "Avistar",
+      "definition": null,
+      "alternative_meanings": [
+        "entrever"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumuena-1 — https://www.kimbundu.org/pt/word/kumuena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10711,
+      "kimbundu_term": "Kumuena",
+      "portuguese_translation": "Entrevistar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumuena-1 — https://www.kimbundu.org/pt/word/kumuena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10712,
+      "kimbundu_term": "Kumuena",
+      "portuguese_translation": "Kurimuena, e r. Conhecer, distinguir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumuena-1 — https://www.kimbundu.org/pt/word/kumuena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10713,
+      "kimbundu_term": "Kumuena",
+      "portuguese_translation": "Ver com os próprios olhos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumuena-1 — https://www.kimbundu.org/pt/word/kumuena",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
