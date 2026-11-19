@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13614,
+      "kimbundu_term": "Kuzengesa",
+      "portuguese_translation": "Fazer brandir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzengesa-1 — https://www.kimbundu.org/pt/word/kuzengesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13615,
+      "kimbundu_term": "Kuzengesa",
+      "portuguese_translation": "Mandar agitar (para arremessar)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzengesa-1 — https://www.kimbundu.org/pt/word/kuzengesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13616,
+      "kimbundu_term": "Kuzénza",
+      "portuguese_translation": "Trazer nos braços (com cuidado)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzénza-1 — https://www.kimbundu.org/pt/word/kuzenza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13617,
+      "kimbundu_term": "Kuzénza",
+      "portuguese_translation": "Conduzir em ar de procissão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzénza-1 — https://www.kimbundu.org/pt/word/kuzenza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13618,
+      "kimbundu_term": "Kuzénza",
+      "portuguese_translation": "Acariciar",
+      "definition": null,
+      "alternative_meanings": [
+        "amimar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzénza-1 — https://www.kimbundu.org/pt/word/kuzenza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13619,
+      "kimbundu_term": "Kuzenzama",
+      "portuguese_translation": "Estar suspenso (sobre o abismo)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzenzama-1 — https://www.kimbundu.org/pt/word/kuzenzama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13620,
+      "kimbundu_term": "Kuzenzama",
+      "portuguese_translation": "Estar pendente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzenzama-1 — https://www.kimbundu.org/pt/word/kuzenzama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13621,
+      "kimbundu_term": "Kuzenzamana",
+      "portuguese_translation": "Estar debruçado (sobre o abismo)",
+      "definition": null,
+      "alternative_meanings": [
+        "Estar muito elevado e suspenso",
+        "v. r. Pôr-se debruçado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzenzamana-1 — https://www.kimbundu.org/pt/word/kuzenzamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13622,
+      "kimbundu_term": "Kuzenzamena",
+      "portuguese_translation": "Pender para",
+      "definition": null,
+      "alternative_meanings": [
+        "estar dependurado. Estar inclinado, suspenso sobre"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzenzamena-1 — https://www.kimbundu.org/pt/word/kuzenzamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13623,
+      "kimbundu_term": "Kuzenzamesa",
+      "portuguese_translation": "Debruçar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer pender",
+        "estar suspenso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzenzamesa-1 — https://www.kimbundu.org/pt/word/kuzenzamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
