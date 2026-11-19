@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8274,
+      "kimbundu_term": "Kudisununa",
+      "portuguese_translation": "Entesar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "estender-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudisununa-1 — https://www.kimbundu.org/pt/word/kudisununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8275,
+      "kimbundu_term": "Kudisununa",
+      "portuguese_translation": "Espreguiçar-se (retesando os membros)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudisununa-1 — https://www.kimbundu.org/pt/word/kudisununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8276,
+      "kimbundu_term": "Kuditeketela",
+      "portuguese_translation": "Sentir estremecimentos",
+      "definition": null,
+      "alternative_meanings": [
+        "ter tremuras"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuditeketela-1 — https://www.kimbundu.org/pt/word/kuditeketela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8277,
+      "kimbundu_term": "Kuditemeneka",
+      "portuguese_translation": "Irritar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "impacientar-se",
+        "tornar-se acerbo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuditemeneka-1 — https://www.kimbundu.org/pt/word/kuditemeneka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8278,
+      "kimbundu_term": "Kudituna",
+      "portuguese_translation": "Recusar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "não se prestar a",
+        "Escusar-se",
+        "Negar",
+        "rejeitar",
+        "Repudiar",
+        "não querer fazer",
+        "Denegar",
+        "indeferir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudituna-1 — https://www.kimbundu.org/pt/word/kudituna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8279,
+      "kimbundu_term": "Kudituna",
+      "portuguese_translation": "Negação",
+      "definition": null,
+      "alternative_meanings": [
+        "recusa"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudituna-1 — https://www.kimbundu.org/pt/word/kudituna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8280,
+      "kimbundu_term": "Kuditunga",
+      "portuguese_translation": "Casar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "unir-se a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuditunga-1 — https://www.kimbundu.org/pt/word/kuditunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8281,
+      "kimbundu_term": "Kuditungula",
+      "portuguese_translation": "Diferenciar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "pôr-se de parte"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuditungula-1 — https://www.kimbundu.org/pt/word/kuditungula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8282,
+      "kimbundu_term": "Kudiúba",
+      "portuguese_translation": "Concentrar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "meditar profundamente. Abismar-se nos seus pensamentos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudiúba-1 — https://www.kimbundu.org/pt/word/kudiuba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8283,
+      "kimbundu_term": "Kúdiubika",
+      "portuguese_translation": "Tomar precauções",
+      "definition": null,
+      "alternative_meanings": [
+        "precaver-se",
+        "ser prudente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúdiubika-1 — https://www.kimbundu.org/pt/word/kudiubika",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
