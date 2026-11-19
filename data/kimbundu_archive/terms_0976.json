@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9864,
+      "kimbundu_term": "Kukutunuka",
+      "portuguese_translation": "Estar ou ficar desamarrado, solto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukutunuka-1 — https://www.kimbundu.org/pt/word/kukutunuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9865,
+      "kimbundu_term": "Kukutunuka",
+      "portuguese_translation": "Ficar desobrigado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukutunuka-1 — https://www.kimbundu.org/pt/word/kukutunuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9866,
+      "kimbundu_term": "Kukutununa",
+      "portuguese_translation": "Desligar",
+      "definition": null,
+      "alternative_meanings": [
+        "desatar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukutununa-1 — https://www.kimbundu.org/pt/word/kukutununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9867,
+      "kimbundu_term": "Kukutununa",
+      "portuguese_translation": "Soltar. É tb. r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukutununa-1 — https://www.kimbundu.org/pt/word/kukutununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9868,
+      "kimbundu_term": "Kúkuua",
+      "portuguese_translation": "Defecar (em casos de diarreia, interito, etc.)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkuua-1 — https://www.kimbundu.org/pt/word/kukuua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9869,
+      "kimbundu_term": "Kúkuua",
+      "portuguese_translation": "Semear",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkuua-1 — https://www.kimbundu.org/pt/word/kukuua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9870,
+      "kimbundu_term": "Kúkuua",
+      "portuguese_translation": "Polvilhar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkuua-1 — https://www.kimbundu.org/pt/word/kukuua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9871,
+      "kimbundu_term": "Kúkuua",
+      "portuguese_translation": "Kurikuua, e r. Recear-se",
+      "definition": null,
+      "alternative_meanings": [
+        "temer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkuua-1 — https://www.kimbundu.org/pt/word/kukuua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9872,
+      "kimbundu_term": "Kúkuua",
+      "portuguese_translation": "Ter medo de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkuua-1 — https://www.kimbundu.org/pt/word/kukuua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9873,
+      "kimbundu_term": "Kukúua",
+      "portuguese_translation": "Derrotar",
+      "definition": null,
+      "alternative_meanings": [
+        "desbaratar (um exército)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukúua-1 — https://www.kimbundu.org/pt/word/kukuua",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
