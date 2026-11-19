@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10824,
+      "kimbundu_term": "Kunemeka",
+      "portuguese_translation": "Viciar",
+      "definition": null,
+      "alternative_meanings": [
+        "corromper"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunemeka-1 — https://www.kimbundu.org/pt/word/kunemeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10825,
+      "kimbundu_term": "Kuneména",
+      "portuguese_translation": "Exercer pressão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuneména-1 — https://www.kimbundu.org/pt/word/kunemena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10826,
+      "kimbundu_term": "Kuneména",
+      "portuguese_translation": "Pesar sobre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuneména-1 — https://www.kimbundu.org/pt/word/kunemena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10827,
+      "kimbundu_term": "Kunemesa",
+      "portuguese_translation": "Fazer pesar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar grave, mais pesado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunemesa-1 — https://www.kimbundu.org/pt/word/kunemesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10828,
+      "kimbundu_term": "Kunemesa",
+      "portuguese_translation": "Dificultar.!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunemesa-1 — https://www.kimbundu.org/pt/word/kunemesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10829,
+      "kimbundu_term": "Kunemesa",
+      "portuguese_translation": "Kurinemesa, v. r. Tornar-se pesado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunemesa-1 — https://www.kimbundu.org/pt/word/kunemesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10830,
+      "kimbundu_term": "Kunéna",
+      "portuguese_translation": "Estrabar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunéna-1 — https://www.kimbundu.org/pt/word/kunena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10831,
+      "kimbundu_term": "Kunéna",
+      "portuguese_translation": "Excretar",
+      "definition": null,
+      "alternative_meanings": [
+        "defecar",
+        "descomer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunéna-1 — https://www.kimbundu.org/pt/word/kunena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10832,
+      "kimbundu_term": "Kunene",
+      "portuguese_translation": "Grande rio que limita a província de Angola pelo S. Nasce nas terras do Ambo, atravessa o território do Humbe e vai desa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunene-1 — https://www.kimbundu.org/pt/word/kunene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10833,
+      "kimbundu_term": "Kunenena",
+      "portuguese_translation": "Evacuar, descomer sobre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunenena-1 — https://www.kimbundu.org/pt/word/kunenena",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
