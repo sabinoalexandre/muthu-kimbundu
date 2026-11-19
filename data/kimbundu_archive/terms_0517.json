@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5274,
+      "kimbundu_term": "Kikuálu",
+      "portuguese_translation": "Planta de raiz medicinal",
+      "definition": null,
+      "alternative_meanings": [
+        "Legação",
+        "Salsaparrilha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikuálu-1 — https://www.kimbundu.org/pt/word/kikualu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5275,
+      "kimbundu_term": "Kikuáme",
+      "portuguese_translation": "(III) Que tem ferimentos",
+      "definition": null,
+      "alternative_meanings": [
+        "Ofendido"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikuáme-1 — https://www.kimbundu.org/pt/word/kikuame",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5276,
+      "kimbundu_term": "Kikuáme",
+      "portuguese_translation": "O que fere",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikuáme-1 — https://www.kimbundu.org/pt/word/kikuame",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5277,
+      "kimbundu_term": "Kikuamese",
+      "portuguese_translation": "(III) Suscetível de produzir ferimento",
+      "definition": null,
+      "alternative_meanings": [
+        "Ferino",
+        "próprio de fera"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikuamese-1 — https://www.kimbundu.org/pt/word/kikuamese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5278,
+      "kimbundu_term": "Kikuanga",
+      "portuguese_translation": "Massa geralmente de mandioca cosida em forma de pão",
+      "definition": null,
+      "alternative_meanings": [
+        "O angú brasileiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikuanga-1 — https://www.kimbundu.org/pt/word/kikuanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5279,
+      "kimbundu_term": "Kikuanyi",
+      "portuguese_translation": "interrog. (I) Que",
+      "definition": null,
+      "alternative_meanings": [
+        "qual",
+        "quem"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikuanyi-1 — https://www.kimbundu.org/pt/word/kikuanyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5280,
+      "kimbundu_term": "Kikuanyi",
+      "portuguese_translation": "É tb. adj",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikuanyi-1 — https://www.kimbundu.org/pt/word/kikuanyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5281,
+      "kimbundu_term": "Kikuanzumba",
+      "portuguese_translation": "Nome fabuloso pelo qual é conhecida a águia. A ave em que Júpiter se transformou para arrebatar Ganimedes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikuanzumba-1 — https://www.kimbundu.org/pt/word/kikuanzumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5282,
+      "kimbundu_term": "Kikuatelu",
+      "portuguese_translation": "Pega",
+      "definition": null,
+      "alternative_meanings": [
+        "cabo",
+        "asa",
+        "A parte por onde se pega"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikuatelu-1 — https://www.kimbundu.org/pt/word/kikuatelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5283,
+      "kimbundu_term": "Kikuaxi",
+      "portuguese_translation": "Pedaço",
+      "definition": null,
+      "alternative_meanings": [
+        "fatia",
+        "lasca (de pão, de bacalhau, de broa, etc.)",
+        "O próprio pão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikuaxi-1 — https://www.kimbundu.org/pt/word/kikuaxi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
