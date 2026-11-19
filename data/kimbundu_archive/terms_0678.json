@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6884,
+      "kimbundu_term": "Kuambuísa",
+      "portuguese_translation": "Fazer deixar, soltar das mãos, largar",
+      "definition": null,
+      "alternative_meanings": [
+        "Abandonar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuambuísa-1 — https://www.kimbundu.org/pt/word/kuambuisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6885,
+      "kimbundu_term": "Kuambuka",
+      "portuguese_translation": "Desmaiar",
+      "definition": null,
+      "alternative_meanings": [
+        "desfalecer",
+        "Estar sem sentidos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuambuka-1 — https://www.kimbundu.org/pt/word/kuambuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6886,
+      "kimbundu_term": "Kuambula",
+      "portuguese_translation": "Largar",
+      "definition": null,
+      "alternative_meanings": [
+        "desistir",
+        "pôr de parte"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuambula-1 — https://www.kimbundu.org/pt/word/kuambula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6887,
+      "kimbundu_term": "Kuamukuá",
+      "portuguese_translation": "Em outro lugar",
+      "definition": null,
+      "alternative_meanings": [
+        "Noutra parte. Também se diz kuakamukuá"
+      ],
+      "examples": [],
+      "grammatical_category": "preposição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuamukuá-1 — https://www.kimbundu.org/pt/word/kuamukua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6888,
+      "kimbundu_term": "Kuanavale",
+      "portuguese_translation": "Rio, afluente da margem esquerda do Cubango, na circ. civ. de Menongue, distr. e prov. do Bié",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuanavale-1 — https://www.kimbundu.org/pt/word/kuanavale",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6889,
+      "kimbundu_term": "Kuanda",
+      "portuguese_translation": "Triturar com os dentes",
+      "definition": null,
+      "alternative_meanings": [
+        "Mastigar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuanda-1 — https://www.kimbundu.org/pt/word/kuanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6890,
+      "kimbundu_term": "Kuanda",
+      "portuguese_translation": "Mastigação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuanda-1 — https://www.kimbundu.org/pt/word/kuanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6891,
+      "kimbundu_term": "Kuánda",
+      "portuguese_translation": "Sonhar",
+      "definition": null,
+      "alternative_meanings": [
+        "Imaginar",
+        "fantasiar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuánda-1 — https://www.kimbundu.org/pt/word/kuanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6892,
+      "kimbundu_term": "Kuandála",
+      "portuguese_translation": "Pretender",
+      "definition": null,
+      "alternative_meanings": [
+        "querer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuandála-1 — https://www.kimbundu.org/pt/word/kuandala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6893,
+      "kimbundu_term": "Kuandála",
+      "portuguese_translation": "Cobiçar",
+      "definition": null,
+      "alternative_meanings": [
+        "aspirar a",
+        "apetecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuandála-1 — https://www.kimbundu.org/pt/word/kuandala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
