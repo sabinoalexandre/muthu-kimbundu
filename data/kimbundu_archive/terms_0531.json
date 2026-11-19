@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5414,
+      "kimbundu_term": "Kilemba",
+      "portuguese_translation": "Magia",
+      "definition": null,
+      "alternative_meanings": [
+        "encantamento",
+        "enlevo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilemba-1 — https://www.kimbundu.org/pt/word/kilemba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5415,
+      "kimbundu_term": "Kilembalelu",
+      "portuguese_translation": "O que faz lembrar ou recordar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilembalelu-1 — https://www.kimbundu.org/pt/word/kilembalelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5416,
+      "kimbundu_term": "Kilembalelu",
+      "portuguese_translation": "Ato pelo qual a memória reproduz um facto passado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilembalelu-1 — https://www.kimbundu.org/pt/word/kilembalelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5417,
+      "kimbundu_term": "Kilembalelu",
+      "portuguese_translation": "Recordação",
+      "definition": null,
+      "alternative_meanings": [
+        "lembrança"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilembalelu-1 — https://www.kimbundu.org/pt/word/kilembalelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5418,
+      "kimbundu_term": "Kilembe",
+      "portuguese_translation": "Nupcial",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilembe-1 — https://www.kimbundu.org/pt/word/kilembe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5419,
+      "kimbundu_term": "Kilembe",
+      "portuguese_translation": "Próprio de noivado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilembe-1 — https://www.kimbundu.org/pt/word/kilembe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5420,
+      "kimbundu_term": "Kilembe",
+      "portuguese_translation": "O que pode ser oferecido aos pais da noiva",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilembe-1 — https://www.kimbundu.org/pt/word/kilembe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5421,
+      "kimbundu_term": "Kilembe",
+      "portuguese_translation": "Árvore da saúde",
+      "definition": null,
+      "alternative_meanings": [
+        "do bem e do mal"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilembe-1 — https://www.kimbundu.org/pt/word/kilembe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5422,
+      "kimbundu_term": "Kilembe",
+      "portuguese_translation": "Planta que dá a conhecer o estado de saúde, doença ou morte de seu dono",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilembe-1 — https://www.kimbundu.org/pt/word/kilembe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5423,
+      "kimbundu_term": "Kilembe",
+      "portuguese_translation": "Pau da vida",
+      "definition": null,
+      "alternative_meanings": [
+        "planta de virtudes"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilembe-1 — https://www.kimbundu.org/pt/word/kilembe",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
