@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17804,
+      "kimbundu_term": "Ndongo",
+      "portuguese_translation": "Antiga residência do rei Ngola (D. João Hari), vencido em 1671 por Luís Lopes de Sequeira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndongo-1 — https://www.kimbundu.org/pt/word/ndongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17805,
+      "kimbundu_term": "Ndongoena",
+      "portuguese_translation": "(corografia) Povoação e sede do posto deste nome, circunscrição civil dos Gambos, distrito e província da Huíla, com 399",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndongoena-1 — https://www.kimbundu.org/pt/word/ndongoena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17806,
+      "kimbundu_term": "Ndongolondo",
+      "portuguese_translation": "(botânica) Planta medicinal em casos de dores de cabeça e defluxo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndongolondo-1 — https://www.kimbundu.org/pt/word/ndongolondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17807,
+      "kimbundu_term": "Ndongóxi",
+      "portuguese_translation": "amigo de saber, da ciência",
+      "definition": null,
+      "alternative_meanings": [
+        "filósofo",
+        "livre-pensador",
+        "crítico"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndongóxi-1 — https://www.kimbundu.org/pt/word/ndongoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17808,
+      "kimbundu_term": "Ndonji",
+      "portuguese_translation": "lógico",
+      "definition": null,
+      "alternative_meanings": [
+        "que sugere ideias",
+        "que aconselha, que entusiasma",
+        "indutor, inspirador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndonji-1 — https://www.kimbundu.org/pt/word/ndonji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17809,
+      "kimbundu_term": "Ndu",
+      "portuguese_translation": "(preposição) indicativa de limite, termo, fim",
+      "definition": null,
+      "alternative_meanings": [
+        "até"
+      ],
+      "examples": [],
+      "grammatical_category": "preposição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndu-1 — https://www.kimbundu.org/pt/word/ndu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17810,
+      "kimbundu_term": "Ndu",
+      "portuguese_translation": "(substantivo) extremidade",
+      "definition": null,
+      "alternative_meanings": [
+        "finalidade"
+      ],
+      "examples": [],
+      "grammatical_category": "preposição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndu-1 — https://www.kimbundu.org/pt/word/ndu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17811,
+      "kimbundu_term": "Ndúa",
+      "portuguese_translation": "(adjetivo) Diz-se das doenças causadas por derramamento ou excesso de sangue",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndúa-1 — https://www.kimbundu.org/pt/word/ndua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17812,
+      "kimbundu_term": "Ndúa",
+      "portuguese_translation": "Em que predomina o sangue",
+      "definition": null,
+      "alternative_meanings": [
+        "sanguinolento",
+        "que derrama muito sangue"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndúa-1 — https://www.kimbundu.org/pt/word/ndua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17813,
+      "kimbundu_term": "Ndúa",
+      "portuguese_translation": "(substantivo) (zoologia) Género de aves tipo das musofágidas",
+      "definition": null,
+      "alternative_meanings": [
+        "musófago, também conhecido por «papa-bananas»",
+        "ave cuja cauda é da cor do sangue"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndúa-1 — https://www.kimbundu.org/pt/word/ndua",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
