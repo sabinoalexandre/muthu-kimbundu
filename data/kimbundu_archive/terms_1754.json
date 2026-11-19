@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17644,
+      "kimbundu_term": "Nakyu",
+      "portuguese_translation": "Comigo",
+      "definition": null,
+      "alternative_meanings": [
+        "contigo",
+        "consigo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nakyu-1 — https://www.kimbundu.org/pt/word/nakyu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17645,
+      "kimbundu_term": "Nakyu",
+      "portuguese_translation": "Em companhia da pessoa que, com quem ou de quem se fala",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nakyu-1 — https://www.kimbundu.org/pt/word/nakyu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17646,
+      "kimbundu_term": "Nambi",
+      "portuguese_translation": "Não obstante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nambi-1 — https://www.kimbundu.org/pt/word/nambi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17647,
+      "kimbundu_term": "Nambi",
+      "portuguese_translation": "Contudo",
+      "definition": null,
+      "alternative_meanings": [
+        "todavia"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nambi-1 — https://www.kimbundu.org/pt/word/nambi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17648,
+      "kimbundu_term": "Nambi",
+      "portuguese_translation": "Apesar de",
+      "definition": null,
+      "alternative_meanings": [
+        "também"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nambi-1 — https://www.kimbundu.org/pt/word/nambi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17649,
+      "kimbundu_term": "Nâmbua",
+      "portuguese_translation": "Adivinhação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nâmbua-1 — https://www.kimbundu.org/pt/word/nambua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17650,
+      "kimbundu_term": "Nâmbua",
+      "portuguese_translation": "Divindade protetora dos adivinhos e caçadores",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nâmbua-1 — https://www.kimbundu.org/pt/word/nambua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17651,
+      "kimbundu_term": "Nâmbua",
+      "portuguese_translation": "gémeos (constelação zodiacal)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nâmbua-1 — https://www.kimbundu.org/pt/word/nambua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17652,
+      "kimbundu_term": "Nâmbua",
+      "portuguese_translation": "Pov. e sede do posto civ. do Ambriz, distr. e prov. de Luanda, 17.534 hab., ambul. sanit. e escola rural",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nâmbua-1 — https://www.kimbundu.org/pt/word/nambua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17653,
+      "kimbundu_term": "Nâna",
+      "portuguese_translation": "Gratuitamente",
+      "definition": null,
+      "alternative_meanings": [
+        "de graça"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nâna-1 — https://www.kimbundu.org/pt/word/nana",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
