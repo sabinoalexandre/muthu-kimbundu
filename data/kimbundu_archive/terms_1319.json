@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13294,
+      "kimbundu_term": "Kuxindila",
+      "portuguese_translation": "Fazer perder (a outrem) a vontade de tornar a dizer ou a fazer algo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxindila-1 — https://www.kimbundu.org/pt/word/kuxindila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13295,
+      "kimbundu_term": "Kuxindisa",
+      "portuguese_translation": "Mandar tracejar, fazer riscos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxindisa-1 — https://www.kimbundu.org/pt/word/kuxindisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13296,
+      "kimbundu_term": "Kuxindisa",
+      "portuguese_translation": "Mandar marcar, fixar por meio de traços",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxindisa-1 — https://www.kimbundu.org/pt/word/kuxindisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13297,
+      "kimbundu_term": "Kuxinduila",
+      "portuguese_translation": "Encaminhar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxinduila-1 — https://www.kimbundu.org/pt/word/kuxinduila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13298,
+      "kimbundu_term": "Kuxinduila",
+      "portuguese_translation": "Servir de guia a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxinduila-1 — https://www.kimbundu.org/pt/word/kuxinduila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13299,
+      "kimbundu_term": "Kuxinduila",
+      "portuguese_translation": "Ser caminho (para alguma parte)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxinduila-1 — https://www.kimbundu.org/pt/word/kuxinduila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13300,
+      "kimbundu_term": "Kuxinduila",
+      "portuguese_translation": "Encaminhamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxinduila-1 — https://www.kimbundu.org/pt/word/kuxinduila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13301,
+      "kimbundu_term": "Kuxinduila",
+      "portuguese_translation": "Ir direito a",
+      "definition": null,
+      "alternative_meanings": [
+        "guiar-se",
+        "dirigir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxinduila-1 — https://www.kimbundu.org/pt/word/kuxinduila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13302,
+      "kimbundu_term": "Kúxinga",
+      "portuguese_translation": "Dirigir injúrias, insolências a",
+      "definition": null,
+      "alternative_meanings": [
+        "Ultrajar",
+        "infamar",
+        "descompor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxinga-1 — https://www.kimbundu.org/pt/word/kuxinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13303,
+      "kimbundu_term": "Kúxinga",
+      "portuguese_translation": "Disparatar",
+      "definition": null,
+      "alternative_meanings": [
+        "dizer indecências"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxinga-1 — https://www.kimbundu.org/pt/word/kuxinga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
