@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6144,
+      "kimbundu_term": "Kisembu",
+      "portuguese_translation": "Belo",
+      "definition": null,
+      "alternative_meanings": [
+        "magnífico"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisembu-1 — https://www.kimbundu.org/pt/word/kisembu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6145,
+      "kimbundu_term": "Kisembu",
+      "portuguese_translation": "Rio e pov. do conc. e circ. civ. do Ambriz, distr. e prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisembu-1 — https://www.kimbundu.org/pt/word/kisembu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6146,
+      "kimbundu_term": "Kisembu",
+      "portuguese_translation": "Baía na costa de Benguela, distr. e prov. do mesmo nome, ao S. da vila de Novo Redondo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisembu-1 — https://www.kimbundu.org/pt/word/kisembu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6147,
+      "kimbundu_term": "Kiseme",
+      "portuguese_translation": "Sujeito à vacina",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiseme-1 — https://www.kimbundu.org/pt/word/kiseme",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6148,
+      "kimbundu_term": "Kiseme",
+      "portuguese_translation": "Ansiado",
+      "definition": null,
+      "alternative_meanings": [
+        "desejado",
+        "apetecido"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiseme-1 — https://www.kimbundu.org/pt/word/kiseme",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6149,
+      "kimbundu_term": "Kiseme",
+      "portuguese_translation": "Sirjado",
+      "definition": null,
+      "alternative_meanings": [
+        "golpeado",
+        "escarificado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiseme-1 — https://www.kimbundu.org/pt/word/kiseme",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6150,
+      "kimbundu_term": "Kisemese",
+      "portuguese_translation": "Que faz ansiar, ter desejos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisemese-1 — https://www.kimbundu.org/pt/word/kisemese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6151,
+      "kimbundu_term": "Kisemu",
+      "portuguese_translation": "Apolo",
+      "definition": null,
+      "alternative_meanings": [
+        "dito afrontoso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisemu-1 — https://www.kimbundu.org/pt/word/kisemu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6152,
+      "kimbundu_term": "Kisemu",
+      "portuguese_translation": "Comparação desdenhosa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisemu-1 — https://www.kimbundu.org/pt/word/kisemu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6153,
+      "kimbundu_term": "Kisende",
+      "portuguese_translation": "Calcanhar",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Patada",
+        "coice"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisende-1 — https://www.kimbundu.org/pt/word/kisende",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
