@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 244,
+      "kimbundu_term": "Ama",
+      "portuguese_translation": "designativo das coisas que estão presentes ou próximas de quem fala. Estes",
+      "definition": null,
+      "alternative_meanings": [
+        "estas"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ama-1 — https://www.kimbundu.org/pt/word/ama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 245,
+      "kimbundu_term": "Ama",
+      "portuguese_translation": "demonstr. pl. Ei-las",
+      "definition": null,
+      "alternative_meanings": [
+        "aqui estão",
+        "vê daqui"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ama-1 — https://www.kimbundu.org/pt/word/ama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 246,
+      "kimbundu_term": "Ama",
+      "portuguese_translation": "Abreviatura de mona",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ama-1 — https://www.kimbundu.org/pt/word/ama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 247,
+      "kimbundu_term": "Amama",
+      "portuguese_translation": "As mães",
+      "definition": null,
+      "alternative_meanings": [
+        "as fêmeas",
+        "grande número de mulheres"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, amama-1 — https://www.kimbundu.org/pt/word/amama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 248,
+      "kimbundu_term": "Amarrador",
+      "portuguese_translation": "Planta fam. das leguminosas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, amarrador-1 — https://www.kimbundu.org/pt/word/amarrador",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 249,
+      "kimbundu_term": "Amb'aniji",
+      "portuguese_translation": "Ora dize",
+      "definition": null,
+      "alternative_meanings": [
+        "considere",
+        "calcula.: ora dize lá, senhor"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, amb'aniji-1 — https://www.kimbundu.org/pt/word/amb'aniji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 250,
+      "kimbundu_term": "Amb'aniji",
+      "portuguese_translation": "Ora essa!",
+      "definition": null,
+      "alternative_meanings": [
+        "que tal está!"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, amb'aniji-1 — https://www.kimbundu.org/pt/word/amb'aniji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 251,
+      "kimbundu_term": "Ambá",
+      "portuguese_translation": "Pois não",
+      "definition": null,
+      "alternative_meanings": [
+        "ora diga lá",
+        "então não!",
+        "calcula tu"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ambá-1 — https://www.kimbundu.org/pt/word/amba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 252,
+      "kimbundu_term": "Ambi",
+      "portuguese_translation": "Dizedores",
+      "definition": null,
+      "alternative_meanings": [
+        "pessoas que dizem com graça e facilidade",
+        "motejadores"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ambi-1 — https://www.kimbundu.org/pt/word/ambi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 253,
+      "kimbundu_term": "Ambúndu",
+      "portuguese_translation": "Pretos",
+      "definition": null,
+      "alternative_meanings": [
+        "homens pretos",
+        "de cor ou raça preta"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ambúndu-1 — https://www.kimbundu.org/pt/word/ambundu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
