@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10564,
+      "kimbundu_term": "Kuluwa",
+      "portuguese_translation": "Mendigar",
+      "definition": null,
+      "alternative_meanings": [
+        "dar-se por convidado",
+        "comer por favor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuluwa-1 — https://www.kimbundu.org/pt/word/kuluwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10565,
+      "kimbundu_term": "Kuluwa",
+      "portuguese_translation": "sub. Ato de mendigar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuluwa-1 — https://www.kimbundu.org/pt/word/kuluwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10566,
+      "kimbundu_term": "Kuluwala",
+      "portuguese_translation": "Demonstrar amuo",
+      "definition": null,
+      "alternative_meanings": [
+        "estar contrariado, zangado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuluwala-1 — https://www.kimbundu.org/pt/word/kuluwala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10567,
+      "kimbundu_term": "Kuluwala",
+      "portuguese_translation": "sub. Mau humor",
+      "definition": null,
+      "alternative_meanings": [
+        "amuo: zanga"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuluwala-1 — https://www.kimbundu.org/pt/word/kuluwala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10568,
+      "kimbundu_term": "Kuluwalesa",
+      "portuguese_translation": "Fazer amuir, aborrecer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuluwalesa-1 — https://www.kimbundu.org/pt/word/kuluwalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10569,
+      "kimbundu_term": "Kuluwalesa",
+      "portuguese_translation": "Kuriluualesa, v. r. Fazer-se amuado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuluwalesa-1 — https://www.kimbundu.org/pt/word/kuluwalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10570,
+      "kimbundu_term": "Kulwa",
+      "portuguese_translation": "Guerrear. Conquistar. Duvidar",
+      "definition": null,
+      "alternative_meanings": [
+        "apostar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulwa-1 — https://www.kimbundu.org/pt/word/kulwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10571,
+      "kimbundu_term": "Kulwa",
+      "portuguese_translation": "Kurilua, v. r. Estar em guerra com",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulwa-1 — https://www.kimbundu.org/pt/word/kulwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10572,
+      "kimbundu_term": "Kulweza",
+      "portuguese_translation": "Errar (o tiro)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulweza-1 — https://www.kimbundu.org/pt/word/kulweza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10573,
+      "kimbundu_term": "Kulweza",
+      "portuguese_translation": "Kuriluéza, v. r. Escapar",
+      "definition": null,
+      "alternative_meanings": [
+        "não ser colhido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulweza-1 — https://www.kimbundu.org/pt/word/kulweza",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
