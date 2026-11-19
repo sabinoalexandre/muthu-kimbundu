@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8364,
+      "kimbundu_term": "Kufandujula",
+      "portuguese_translation": "Desalinhar, amarrotar, amarfanhar (roupa)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufandujula-1 — https://www.kimbundu.org/pt/word/kufandujula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8365,
+      "kimbundu_term": "Kufandujula",
+      "portuguese_translation": "Ultrajar, ofender publicamente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufandujula-1 — https://www.kimbundu.org/pt/word/kufandujula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8366,
+      "kimbundu_term": "Kufandujula",
+      "portuguese_translation": "Desrespeitar",
+      "definition": null,
+      "alternative_meanings": [
+        "menoscabar",
+        "deprimir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufandujula-1 — https://www.kimbundu.org/pt/word/kufandujula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8367,
+      "kimbundu_term": "Kufandujula",
+      "portuguese_translation": "Kurifandujula, v. r. Amachucar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "enxovalhar-se",
+        "desordenar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufandujula-1 — https://www.kimbundu.org/pt/word/kufandujula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8368,
+      "kimbundu_term": "Kufandumuna",
+      "portuguese_translation": "Alterar",
+      "definition": null,
+      "alternative_meanings": [
+        "atrapalhar (o que está arrumado)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufandumuna-1 — https://www.kimbundu.org/pt/word/kufandumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8369,
+      "kimbundu_term": "Kufandumuna",
+      "portuguese_translation": "Desconcertar",
+      "definition": null,
+      "alternative_meanings": [
+        "desfazer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufandumuna-1 — https://www.kimbundu.org/pt/word/kufandumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8370,
+      "kimbundu_term": "Kufangana",
+      "portuguese_translation": "Ser semelhante, análogo, idêntico",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufangana-1 — https://www.kimbundu.org/pt/word/kufangana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8371,
+      "kimbundu_term": "Kufangana",
+      "portuguese_translation": "Ter ares de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufangana-1 — https://www.kimbundu.org/pt/word/kufangana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8372,
+      "kimbundu_term": "Kufangana",
+      "portuguese_translation": "Aparências",
+      "definition": null,
+      "alternative_meanings": [
+        "semelhança"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufangana-1 — https://www.kimbundu.org/pt/word/kufangana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8373,
+      "kimbundu_term": "Kufangana",
+      "portuguese_translation": "Kurifangana, v. r. Parecer-se",
+      "definition": null,
+      "alternative_meanings": [
+        "assimilar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufangana-1 — https://www.kimbundu.org/pt/word/kufangana",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
