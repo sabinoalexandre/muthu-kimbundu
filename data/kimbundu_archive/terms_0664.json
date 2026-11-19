@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6744,
+      "kimbundu_term": "Kizómba",
+      "portuguese_translation": "Função (em que há regozijo)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizómba-1 — https://www.kimbundu.org/pt/word/kizomba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6745,
+      "kimbundu_term": "Kizómba",
+      "portuguese_translation": "Diversão",
+      "definition": null,
+      "alternative_meanings": [
+        "bularico"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizómba-1 — https://www.kimbundu.org/pt/word/kizomba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6746,
+      "kimbundu_term": "Kizona",
+      "portuguese_translation": "Formiga brava de cor castanha que inunda as árvores de fruta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizona-1 — https://www.kimbundu.org/pt/word/kizona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6747,
+      "kimbundu_term": "Kizonda",
+      "portuguese_translation": "Desânimo",
+      "definition": null,
+      "alternative_meanings": [
+        "desalento"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizonda-1 — https://www.kimbundu.org/pt/word/kizonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6748,
+      "kimbundu_term": "Kizonga",
+      "portuguese_translation": "Reunião",
+      "definition": null,
+      "alternative_meanings": [
+        "assembleia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizonga-1 — https://www.kimbundu.org/pt/word/kizonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6749,
+      "kimbundu_term": "Kizonga",
+      "portuguese_translation": "Junta que tem por fim deliberar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizonga-1 — https://www.kimbundu.org/pt/word/kizonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6750,
+      "kimbundu_term": "Kizongelu",
+      "portuguese_translation": "Antiga medida de capacidade para sólidos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizongelu-1 — https://www.kimbundu.org/pt/word/kizongelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6751,
+      "kimbundu_term": "Kizongelu",
+      "portuguese_translation": "O que serve para avaliar quantidades mensuráveis",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizongelu-1 — https://www.kimbundu.org/pt/word/kizongelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6752,
+      "kimbundu_term": "Kizongelu",
+      "portuguese_translation": "Medida",
+      "definition": null,
+      "alternative_meanings": [
+        "páculo",
+        "bitola"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizongelu-1 — https://www.kimbundu.org/pt/word/kizongelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6753,
+      "kimbundu_term": "Kizongo",
+      "portuguese_translation": "Lacustre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kizongo-1 — https://www.kimbundu.org/pt/word/kizongo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
