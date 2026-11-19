@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2054,
+      "kimbundu_term": "Ijata",
+      "portuguese_translation": "Peidos (entre os mutemos)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ijata-1 — https://www.kimbundu.org/pt/word/ijata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2055,
+      "kimbundu_term": "Ijibha",
+      "portuguese_translation": "Grande número de mortes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ijibha-1 — https://www.kimbundu.org/pt/word/ijibha",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2056,
+      "kimbundu_term": "Ijibha",
+      "portuguese_translation": "Carnificina",
+      "definition": null,
+      "alternative_meanings": [
+        "matança",
+        "mortícinio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ijibha-1 — https://www.kimbundu.org/pt/word/ijibha",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2057,
+      "kimbundu_term": "Ijingu",
+      "portuguese_translation": "Dignidades",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ijingu-1 — https://www.kimbundu.org/pt/word/ijingu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2058,
+      "kimbundu_term": "Ijingu",
+      "portuguese_translation": "Honras",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ijingu-1 — https://www.kimbundu.org/pt/word/ijingu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2059,
+      "kimbundu_term": "Ijingu",
+      "portuguese_translation": "Distinções honoríficas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ijingu-1 — https://www.kimbundu.org/pt/word/ijingu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2060,
+      "kimbundu_term": "Ijingu",
+      "portuguese_translation": "Cargos elevados",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ijingu-1 — https://www.kimbundu.org/pt/word/ijingu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2061,
+      "kimbundu_term": "Ijingu",
+      "portuguese_translation": "Glórias",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ijingu-1 — https://www.kimbundu.org/pt/word/ijingu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2062,
+      "kimbundu_term": "Íju",
+      "portuguese_translation": "Assassínios",
+      "definition": null,
+      "alternative_meanings": [
+        "homicídios"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, íju-1 — https://www.kimbundu.org/pt/word/iju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2063,
+      "kimbundu_term": "Íju",
+      "portuguese_translation": "Mortos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, íju-1 — https://www.kimbundu.org/pt/word/iju",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
