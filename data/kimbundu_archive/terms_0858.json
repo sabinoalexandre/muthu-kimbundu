@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8684,
+      "kimbundu_term": "Kuhabula",
+      "portuguese_translation": "Devorar",
+      "definition": null,
+      "alternative_meanings": [
+        "tragar, engulir avidamente",
+        "Abocar",
+        "zampar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhabula-1 — https://www.kimbundu.org/pt/word/kuhabula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8685,
+      "kimbundu_term": "Kuhabula",
+      "portuguese_translation": "Tragamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhabula-1 — https://www.kimbundu.org/pt/word/kuhabula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8686,
+      "kimbundu_term": "Kuháha",
+      "portuguese_translation": "Ofegar",
+      "definition": null,
+      "alternative_meanings": [
+        "respirar fundo e ruidosamente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuháha-1 — https://www.kimbundu.org/pt/word/kuhaha",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8687,
+      "kimbundu_term": "Kuháha",
+      "portuguese_translation": "Ofego",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuháha-1 — https://www.kimbundu.org/pt/word/kuhaha",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8688,
+      "kimbundu_term": "Kuhahela",
+      "portuguese_translation": "Gesticular",
+      "definition": null,
+      "alternative_meanings": [
+        "provocar",
+        "Dirigir-se (a alguém) de voz em grita e atitude agressiva",
+        "Vexar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhahela-1 — https://www.kimbundu.org/pt/word/kuhahela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8689,
+      "kimbundu_term": "Kuhahela",
+      "portuguese_translation": "Kurihahela, v. r. Desafiar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "provocar-se mutuamente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhahela-1 — https://www.kimbundu.org/pt/word/kuhahela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8690,
+      "kimbundu_term": "Kuhahesa",
+      "portuguese_translation": "Esbofar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer ofegar",
+        "causar cansaço"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhahesa-1 — https://www.kimbundu.org/pt/word/kuhahesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8691,
+      "kimbundu_term": "Kuhahumuna",
+      "portuguese_translation": "Arrebatar",
+      "definition": null,
+      "alternative_meanings": [
+        "arrancar",
+        "levar à força"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhahumuna-1 — https://www.kimbundu.org/pt/word/kuhahumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8692,
+      "kimbundu_term": "Kuhahumuna",
+      "portuguese_translation": "Ato de arrebatar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhahumuna-1 — https://www.kimbundu.org/pt/word/kuhahumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8693,
+      "kimbundu_term": "Kuhalumukina",
+      "portuguese_translation": "Arremeter, romper contra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuhalumukina-1 — https://www.kimbundu.org/pt/word/kuhalumukina",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
