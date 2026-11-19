@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 20194,
+      "kimbundu_term": "Zê",
+      "portuguese_translation": "A letra Z",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, zê-1 — https://www.kimbundu.org/pt/word/ze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20195,
+      "kimbundu_term": "Ze",
+      "portuguese_translation": "Então",
+      "definition": null,
+      "alternative_meanings": [
+        "pois"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ze-1 — https://www.kimbundu.org/pt/word/ze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20196,
+      "kimbundu_term": "Ze",
+      "portuguese_translation": "Portanto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ze-1 — https://www.kimbundu.org/pt/word/ze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20197,
+      "kimbundu_term": "Zobokoto",
+      "portuguese_translation": "Encharcado",
+      "definition": null,
+      "alternative_meanings": [
+        "alagado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, zobokoto-1 — https://www.kimbundu.org/pt/word/zobokoto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20198,
+      "kimbundu_term": "Zobokoto",
+      "portuguese_translation": "Completamente molhado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, zobokoto-1 — https://www.kimbundu.org/pt/word/zobokoto",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20199,
+      "kimbundu_term": "Zote",
+      "portuguese_translation": "Abrev. de rizóte",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, zote-1 — https://www.kimbundu.org/pt/word/zote",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20200,
+      "kimbundu_term": "Zûndu",
+      "portuguese_translation": "Batráquio ranídeo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, zûndu-1 — https://www.kimbundu.org/pt/word/zundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20201,
+      "kimbundu_term": "Zûndu",
+      "portuguese_translation": "Abreviatura de rizundu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, zûndu-1 — https://www.kimbundu.org/pt/word/zundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20202,
+      "kimbundu_term": "Zunu",
+      "portuguese_translation": "Abreviatura de rizunu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, zunu-1 — https://www.kimbundu.org/pt/word/zunu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20203,
+      "kimbundu_term": "Zunu",
+      "portuguese_translation": "Peixe ciprinídeo, conhecido por «barbudo»",
+      "definition": null,
+      "alternative_meanings": [
+        "escalho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, zunu-1 — https://www.kimbundu.org/pt/word/zunu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
