@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13664,
+      "kimbundu_term": "Kuzongesa",
+      "portuguese_translation": "Mandar pesar ou medir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzongesa-1 — https://www.kimbundu.org/pt/word/kuzongesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13665,
+      "kimbundu_term": "Kuzongesa",
+      "portuguese_translation": "Fazer gritar, urrar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzongesa-1 — https://www.kimbundu.org/pt/word/kuzongesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13666,
+      "kimbundu_term": "Kuzongola",
+      "portuguese_translation": "Espreitar",
+      "definition": null,
+      "alternative_meanings": [
+        "espiar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzongola-1 — https://www.kimbundu.org/pt/word/kuzongola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13667,
+      "kimbundu_term": "Kuzongola",
+      "portuguese_translation": "Espreita",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzongola-1 — https://www.kimbundu.org/pt/word/kuzongola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13668,
+      "kimbundu_term": "Kuzongola",
+      "portuguese_translation": "Teté",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzongola-1 — https://www.kimbundu.org/pt/word/kuzongola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13669,
+      "kimbundu_term": "Kuzongolola",
+      "portuguese_translation": "Repesar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar a medir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzongolola-1 — https://www.kimbundu.org/pt/word/kuzongolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13670,
+      "kimbundu_term": "Kuzongolola",
+      "portuguese_translation": "Espreitar mais uma vez",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzongolola-1 — https://www.kimbundu.org/pt/word/kuzongolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13671,
+      "kimbundu_term": "Kúzonza",
+      "portuguese_translation": "Embelecar",
+      "definition": null,
+      "alternative_meanings": [
+        "lisonjear"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúzonza-1 — https://www.kimbundu.org/pt/word/kuzonza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13672,
+      "kimbundu_term": "Kúzonza",
+      "portuguese_translation": "Subornar",
+      "definition": null,
+      "alternative_meanings": [
+        "engodar",
+        "seduzir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúzonza-1 — https://www.kimbundu.org/pt/word/kuzonza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13673,
+      "kimbundu_term": "Kuzonzola",
+      "portuguese_translation": "Andar devagar",
+      "definition": null,
+      "alternative_meanings": [
+        "caminhar lentamente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzonzola-1 — https://www.kimbundu.org/pt/word/kuzonzola",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
