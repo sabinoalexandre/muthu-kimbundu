@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11254,
+      "kimbundu_term": "Kusáka",
+      "portuguese_translation": "Sanear, purificar por meio de sortilégios",
+      "definition": null,
+      "alternative_meanings": [
+        "livrar do mal"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusáka-1 — https://www.kimbundu.org/pt/word/kusaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11255,
+      "kimbundu_term": "Kusáka",
+      "portuguese_translation": "Bochechar",
+      "definition": null,
+      "alternative_meanings": [
+        "lavar, tirar as impurezas em (agitando)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusáka-1 — https://www.kimbundu.org/pt/word/kusaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11256,
+      "kimbundu_term": "Kusáka",
+      "portuguese_translation": "Saneamento",
+      "definition": null,
+      "alternative_meanings": [
+        "bochecho",
+        "cura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusáka-1 — https://www.kimbundu.org/pt/word/kusaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11257,
+      "kimbundu_term": "Kusáka",
+      "portuguese_translation": "Kurisáka, e r. Curar-se por meio de exorcismos",
+      "definition": null,
+      "alternative_meanings": [
+        "purificar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusáka-1 — https://www.kimbundu.org/pt/word/kusaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11258,
+      "kimbundu_term": "Kusáka",
+      "portuguese_translation": "Tornar-se são",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusáka-1 — https://www.kimbundu.org/pt/word/kusaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11259,
+      "kimbundu_term": "Kusakala",
+      "portuguese_translation": "Apressar",
+      "definition": null,
+      "alternative_meanings": [
+        "aligeirar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusakala-1 — https://www.kimbundu.org/pt/word/kusakala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11260,
+      "kimbundu_term": "Kusakalala",
+      "portuguese_translation": "Ser expedito, ligeiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusakalala-1 — https://www.kimbundu.org/pt/word/kusakalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11261,
+      "kimbundu_term": "Kusakalala",
+      "portuguese_translation": "Abreviação",
+      "definition": null,
+      "alternative_meanings": [
+        "ligeireza",
+        "desembaraço"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusakalala-1 — https://www.kimbundu.org/pt/word/kusakalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11262,
+      "kimbundu_term": "Kusakalesa",
+      "portuguese_translation": "Fazer abreviar, dar pressa a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusakalesa-1 — https://www.kimbundu.org/pt/word/kusakalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11263,
+      "kimbundu_term": "Kusakalesa",
+      "portuguese_translation": "Tornar ligeiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusakalesa-1 — https://www.kimbundu.org/pt/word/kusakalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
