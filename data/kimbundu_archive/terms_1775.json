@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17854,
+      "kimbundu_term": "Ndumu",
+      "portuguese_translation": "Palavra ou gesto que anuncia a alguém o mal que lhe queremos fazer",
+      "definition": null,
+      "alternative_meanings": [
+        "sinal que indica um mal, uma doença",
+        "ameaço"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndumu-1 — https://www.kimbundu.org/pt/word/ndumu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17855,
+      "kimbundu_term": "Ndunda",
+      "portuguese_translation": "Causa (de mal ou dano)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndunda-1 — https://www.kimbundu.org/pt/word/ndunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17856,
+      "kimbundu_term": "Ndunda",
+      "portuguese_translation": "Omissão",
+      "definition": null,
+      "alternative_meanings": [
+        "culpa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndunda-1 — https://www.kimbundu.org/pt/word/ndunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17857,
+      "kimbundu_term": "Ndunda",
+      "portuguese_translation": "Responsabilidade",
+      "definition": null,
+      "alternative_meanings": [
+        "motivo para ressentimento",
+        "queixa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndunda-1 — https://www.kimbundu.org/pt/word/ndunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17858,
+      "kimbundu_term": "Ndúndu",
+      "portuguese_translation": "Dores nos músculos ou nas articulações",
+      "definition": null,
+      "alternative_meanings": [
+        "reumatismo",
+        "reumático"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndúndu-1 — https://www.kimbundu.org/pt/word/ndundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17859,
+      "kimbundu_term": "Ndúndu",
+      "portuguese_translation": "Cadáver",
+      "definition": null,
+      "alternative_meanings": [
+        "cheiro cadavérico"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndúndu-1 — https://www.kimbundu.org/pt/word/ndundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17860,
+      "kimbundu_term": "Ndúndu",
+      "portuguese_translation": "Borracha (na Lunda)",
+      "definition": null,
+      "alternative_meanings": [
+        "látex borrachífero"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndúndu-1 — https://www.kimbundu.org/pt/word/ndundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17861,
+      "kimbundu_term": "Ndúndu",
+      "portuguese_translation": "(adjetivo) Reumatismal",
+      "definition": null,
+      "alternative_meanings": [
+        "que provém do reumatismo",
+        "reumático"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndúndu-1 — https://www.kimbundu.org/pt/word/ndundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17862,
+      "kimbundu_term": "Ndúndu",
+      "portuguese_translation": "Cadaveroso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndúndu-1 — https://www.kimbundu.org/pt/word/ndundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17863,
+      "kimbundu_term": "Ndúndu",
+      "portuguese_translation": "Putrefato",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ndúndu-1 — https://www.kimbundu.org/pt/word/ndundu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
