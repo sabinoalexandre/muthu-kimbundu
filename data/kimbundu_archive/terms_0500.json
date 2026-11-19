@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5104,
+      "kimbundu_term": "Kijikijiki",
+      "portuguese_translation": "Prolongadamente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijikijiki-1 — https://www.kimbundu.org/pt/word/kijikijiki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5105,
+      "kimbundu_term": "Kijikijiki",
+      "portuguese_translation": "Com muita demora",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijikijiki-1 — https://www.kimbundu.org/pt/word/kijikijiki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5106,
+      "kimbundu_term": "Kijikilu",
+      "portuguese_translation": "Taramela: fecho",
+      "definition": null,
+      "alternative_meanings": [
+        "ferrolho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijikilu-1 — https://www.kimbundu.org/pt/word/kijikilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5107,
+      "kimbundu_term": "Kijiku",
+      "portuguese_translation": "Sujeito",
+      "definition": null,
+      "alternative_meanings": [
+        "cativo. Que não tem regalias"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijiku-1 — https://www.kimbundu.org/pt/word/kijiku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5108,
+      "kimbundu_term": "Kijiku",
+      "portuguese_translation": "Cousa",
+      "definition": null,
+      "alternative_meanings": [
+        "objeto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijiku-1 — https://www.kimbundu.org/pt/word/kijiku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5109,
+      "kimbundu_term": "Kijiku",
+      "portuguese_translation": "Pessoa que depende de outrem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijiku-1 — https://www.kimbundu.org/pt/word/kijiku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5110,
+      "kimbundu_term": "Kijíla",
+      "portuguese_translation": "Proibição imposta pela religião, pela tradição ou pela lei",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijíla-1 — https://www.kimbundu.org/pt/word/kijila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5111,
+      "kimbundu_term": "Kijíla",
+      "portuguese_translation": "Prescrição",
+      "definition": null,
+      "alternative_meanings": [
+        "jura: renúncia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijíla-1 — https://www.kimbundu.org/pt/word/kijila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5112,
+      "kimbundu_term": "Kijíla",
+      "portuguese_translation": "Abstenção",
+      "definition": null,
+      "alternative_meanings": [
+        "privação de prática de certos atos. Abstinência"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijíla-1 — https://www.kimbundu.org/pt/word/kijila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5113,
+      "kimbundu_term": "Kijima",
+      "portuguese_translation": "Sala de receção de visitas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijima-1 — https://www.kimbundu.org/pt/word/kijima",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
