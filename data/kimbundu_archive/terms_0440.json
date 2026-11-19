@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4504,
+      "kimbundu_term": "Kibama",
+      "portuguese_translation": "Diz-se dos primeiros sinais de gravidez dos animais",
+      "definition": null,
+      "alternative_meanings": [
+        "A primeira gestação"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibama-1 — https://www.kimbundu.org/pt/word/kibama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4505,
+      "kimbundu_term": "Kibánda",
+      "portuguese_translation": "Que não pode realizar o ato",
+      "definition": null,
+      "alternative_meanings": [
+        "Que está reduzido à impotência",
+        "Fraco"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibánda-1 — https://www.kimbundu.org/pt/word/kibanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4506,
+      "kimbundu_term": "Kibánda",
+      "portuguese_translation": "Aquele que tem impotência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibánda-1 — https://www.kimbundu.org/pt/word/kibanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4507,
+      "kimbundu_term": "Kibandekelu",
+      "portuguese_translation": "Acrescento",
+      "definition": null,
+      "alternative_meanings": [
+        "Aumento",
+        "Junção"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibandekelu-1 — https://www.kimbundu.org/pt/word/kibandekelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4508,
+      "kimbundu_term": "Kibandeku",
+      "portuguese_translation": "Acrescentamento",
+      "definition": null,
+      "alternative_meanings": [
+        "O que se junta"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibandeku-1 — https://www.kimbundu.org/pt/word/kibandeku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4509,
+      "kimbundu_term": "Kibandelu",
+      "portuguese_translation": "Ascensor",
+      "definition": null,
+      "alternative_meanings": [
+        "escada",
+        "Coisa por onde se sobe"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibandelu-1 — https://www.kimbundu.org/pt/word/kibandelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4510,
+      "kimbundu_term": "Kibándu",
+      "portuguese_translation": "Artefato de mateba para limpar ou secar cereais. Joeira",
+      "definition": null,
+      "alternative_meanings": [
+        "Cesto de palha em forma de disco",
+        "Balaio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibándu-1 — https://www.kimbundu.org/pt/word/kibandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4511,
+      "kimbundu_term": "Kibandu",
+      "portuguese_translation": "Sinal (de ferida ou chaga curada)",
+      "definition": null,
+      "alternative_meanings": [
+        "Cicatriz",
+        "marca. Vestígio que deixa na haste as folhas ou ramos quando caem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibandu-1 — https://www.kimbundu.org/pt/word/kibandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4512,
+      "kimbundu_term": "Kibandu",
+      "portuguese_translation": "topon. Antigo bairro da cidade de Luanda, onde se encontra edificado o «Nacional-Cine-Teatro»",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibandu-1 — https://www.kimbundu.org/pt/word/kibandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4513,
+      "kimbundu_term": "Kibánga",
+      "portuguese_translation": "Manada",
+      "definition": null,
+      "alternative_meanings": [
+        "vata: rebanho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibánga-1 — https://www.kimbundu.org/pt/word/kibanga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
