@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13374,
+      "kimbundu_term": "Kuxóna",
+      "portuguese_translation": "Escapulir",
+      "definition": null,
+      "alternative_meanings": [
+        "fugir (burlando a vigilância). Desfasar, desaparecer das vistas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxóna-1 — https://www.kimbundu.org/pt/word/kuxona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13375,
+      "kimbundu_term": "Kuxóna",
+      "portuguese_translation": "Alisar roupa a ferro",
+      "definition": null,
+      "alternative_meanings": [
+        "amaciar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxóna-1 — https://www.kimbundu.org/pt/word/kuxona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13376,
+      "kimbundu_term": "Kuxonga",
+      "portuguese_translation": "Ciciar",
+      "definition": null,
+      "alternative_meanings": [
+        "murmurejar",
+        "enternecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxonga-1 — https://www.kimbundu.org/pt/word/kuxonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13377,
+      "kimbundu_term": "Kuxonga",
+      "portuguese_translation": "Tornar mavioso, suave",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxonga-1 — https://www.kimbundu.org/pt/word/kuxonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13378,
+      "kimbundu_term": "Kuxonga",
+      "portuguese_translation": "Cício",
+      "definition": null,
+      "alternative_meanings": [
+        "maviosidade"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxonga-1 — https://www.kimbundu.org/pt/word/kuxonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13379,
+      "kimbundu_term": "Kuxonga",
+      "portuguese_translation": "Kurixonga, v. r. Contristar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "comover-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxonga-1 — https://www.kimbundu.org/pt/word/kuxonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13380,
+      "kimbundu_term": "Kuxongomoka",
+      "portuguese_translation": "Escorregar",
+      "definition": null,
+      "alternative_meanings": [
+        "escapar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxongomoka-1 — https://www.kimbundu.org/pt/word/kuxongomoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13381,
+      "kimbundu_term": "Kuxongomoka",
+      "portuguese_translation": "Soltar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxongomoka-1 — https://www.kimbundu.org/pt/word/kuxongomoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13382,
+      "kimbundu_term": "Kuxongomona",
+      "portuguese_translation": "Deslocar",
+      "definition": null,
+      "alternative_meanings": [
+        "tirar",
+        "arrancar (da cova)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxongomona-1 — https://www.kimbundu.org/pt/word/kuxongomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13383,
+      "kimbundu_term": "Kuxongomona",
+      "portuguese_translation": "Fazer escorregar (das mãos)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxongomona-1 — https://www.kimbundu.org/pt/word/kuxongomona",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
