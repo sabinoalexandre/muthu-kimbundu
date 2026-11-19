@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 304,
+      "kimbundu_term": "Anyi",
+      "portuguese_translation": "Cujos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, anyi-1 — https://www.kimbundu.org/pt/word/anyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 305,
+      "kimbundu_term": "Anzangala",
+      "portuguese_translation": "Veja-se minzangala",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, anzangala-1 — https://www.kimbundu.org/pt/word/anzangala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 306,
+      "kimbundu_term": "Anzenza",
+      "portuguese_translation": "Veja-se minzenza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, anzenza-1 — https://www.kimbundu.org/pt/word/anzenza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 307,
+      "kimbundu_term": "araliáceas",
+      "portuguese_translation": "Araliáceas (Corinante panleulata), de madeira clara, densa e rija, própria para construções",
+      "definition": null,
+      "alternative_meanings": [
+        "Arália"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, araliáceas-1 — https://www.kimbundu.org/pt/word/araliaceas",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 308,
+      "kimbundu_term": "Asa",
+      "portuguese_translation": "Planta umbelífera muito venenosa",
+      "definition": null,
+      "alternative_meanings": [
+        "cicuta. Substância com que se prepara o mbulungu"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, asa-1 — https://www.kimbundu.org/pt/word/asa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 309,
+      "kimbundu_term": "Asa",
+      "portuguese_translation": "Substância com que se prepara o mbulungu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, asa-1 — https://www.kimbundu.org/pt/word/asa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 310,
+      "kimbundu_term": "Asakidi",
+      "portuguese_translation": "Adivinhadores",
+      "definition": null,
+      "alternative_meanings": [
+        "que adivinham",
+        "homens a quem se atribui o dom de adivinhar",
+        "adivinhos",
+        "bruxos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, asakidi-1 — https://www.kimbundu.org/pt/word/asakidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 311,
+      "kimbundu_term": "Asemi",
+      "portuguese_translation": "Sarjadores",
+      "definition": null,
+      "alternative_meanings": [
+        "conjunto de pessoas que golpeiam, sarjam, etc"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, asemi-1 — https://www.kimbundu.org/pt/word/asemi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 312,
+      "kimbundu_term": "Asoneki",
+      "portuguese_translation": "Escriturários",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, asoneki-1 — https://www.kimbundu.org/pt/word/asoneki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 313,
+      "kimbundu_term": "Asoneki",
+      "portuguese_translation": "Amanuenses",
+      "definition": null,
+      "alternative_meanings": [
+        "escribas",
+        "escreventes"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, asoneki-1 — https://www.kimbundu.org/pt/word/asoneki",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
