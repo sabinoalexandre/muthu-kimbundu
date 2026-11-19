@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7784,
+      "kimbundu_term": "Kubudika",
+      "portuguese_translation": "Quebrar",
+      "definition": null,
+      "alternative_meanings": [
+        "partir. Falir",
+        "ficar pobre"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubudika-1 — https://www.kimbundu.org/pt/word/kubudika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7785,
+      "kimbundu_term": "Kubudika",
+      "portuguese_translation": "Quebrar-se. Perder a força",
+      "definition": null,
+      "alternative_meanings": [
+        "ser inútil"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubudika-1 — https://www.kimbundu.org/pt/word/kubudika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7786,
+      "kimbundu_term": "Kubudikinya",
+      "portuguese_translation": "Agadanhar",
+      "definition": null,
+      "alternative_meanings": [
+        "apanhar com as mãos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubudikinya-1 — https://www.kimbundu.org/pt/word/kubudikinya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7787,
+      "kimbundu_term": "Kubudikinya",
+      "portuguese_translation": "Atabafar",
+      "definition": null,
+      "alternative_meanings": [
+        "abater"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubudikinya-1 — https://www.kimbundu.org/pt/word/kubudikinya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7788,
+      "kimbundu_term": "Kubudisa",
+      "portuguese_translation": "Fazer quebrar, escangalhar, partir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubudisa-1 — https://www.kimbundu.org/pt/word/kubudisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7789,
+      "kimbundu_term": "Kubuébua",
+      "portuguese_translation": "Afrouxar",
+      "definition": null,
+      "alternative_meanings": [
+        "desvaziar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuébua-1 — https://www.kimbundu.org/pt/word/kubuebua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7790,
+      "kimbundu_term": "Kubuébua",
+      "portuguese_translation": "Ficar murcho. É também reflexivo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuébua-1 — https://www.kimbundu.org/pt/word/kubuebua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7791,
+      "kimbundu_term": "Kubuebuela",
+      "portuguese_translation": "Estar frouxo",
+      "definition": null,
+      "alternative_meanings": [
+        "Ficar amolecido, lasso, vazio"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuebuela-1 — https://www.kimbundu.org/pt/word/kubuebuela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7792,
+      "kimbundu_term": "Kubuebuela",
+      "portuguese_translation": "Amolecimento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuebuela-1 — https://www.kimbundu.org/pt/word/kubuebuela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7793,
+      "kimbundu_term": "Kubuebuesa",
+      "portuguese_translation": "Tornar murcho, frouxo, vazio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuebuesa-1 — https://www.kimbundu.org/pt/word/kubuebuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
