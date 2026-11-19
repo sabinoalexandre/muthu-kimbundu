@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10634,
+      "kimbundu_term": "Kumenekesa",
+      "portuguese_translation": "Fazer madrugar, matinar, sair de manhã",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumenekesa-1 — https://www.kimbundu.org/pt/word/kumenekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10635,
+      "kimbundu_term": "Kuménga",
+      "portuguese_translation": "Rabear",
+      "definition": null,
+      "alternative_meanings": [
+        "rebolar",
+        "saracotear"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuménga-1 — https://www.kimbundu.org/pt/word/kumenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10636,
+      "kimbundu_term": "Kumenuka",
+      "portuguese_translation": "Ter falta",
+      "definition": null,
+      "alternative_meanings": [
+        "estar diminuído",
+        "Ter ou ir a menos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumenuka-1 — https://www.kimbundu.org/pt/word/kumenuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10637,
+      "kimbundu_term": "Kumenuka",
+      "portuguese_translation": "Decrescimento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumenuka-1 — https://www.kimbundu.org/pt/word/kumenuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10638,
+      "kimbundu_term": "Kumenukisa",
+      "portuguese_translation": "Fazer faltar, diminuir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumenukisa-1 — https://www.kimbundu.org/pt/word/kumenukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10639,
+      "kimbundu_term": "Kumenuna",
+      "portuguese_translation": "Tornar menor",
+      "definition": null,
+      "alternative_meanings": [
+        "Reduzir",
+        "Abater"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumenuna-1 — https://www.kimbundu.org/pt/word/kumenuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10640,
+      "kimbundu_term": "Kumenuna",
+      "portuguese_translation": "Kurimenuna, e r. Apoucar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "diminuir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumenuna-1 — https://www.kimbundu.org/pt/word/kumenuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10641,
+      "kimbundu_term": "Kumesena",
+      "portuguese_translation": "Pretender",
+      "definition": null,
+      "alternative_meanings": [
+        "querer",
+        "Intentar",
+        "empregar diligência"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumesena-1 — https://www.kimbundu.org/pt/word/kumesena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10642,
+      "kimbundu_term": "Kuméta",
+      "portuguese_translation": "Dar sinal ou demonstrar vontade de chorar",
+      "definition": null,
+      "alternative_meanings": [
+        "Diz-se dos primeiros sinais de choro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuméta-1 — https://www.kimbundu.org/pt/word/kumeta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10643,
+      "kimbundu_term": "Kumiámia",
+      "portuguese_translation": "Chuviscar brandamente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumiámia-1 — https://www.kimbundu.org/pt/word/kumiamia",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
