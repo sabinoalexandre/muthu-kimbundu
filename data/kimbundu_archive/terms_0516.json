@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5264,
+      "kimbundu_term": "Kíkoua",
+      "portuguese_translation": "Pele espessa dos grandes quadrúpedes",
+      "definition": null,
+      "alternative_meanings": [
+        "Couro",
+        "Pele grossa surrada",
+        "Cabedal (para calçado)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kíkoua-1 — https://www.kimbundu.org/pt/word/kikoua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5265,
+      "kimbundu_term": "Kíkovo",
+      "portuguese_translation": "Tartaruga",
+      "definition": null,
+      "alternative_meanings": [
+        "Carapaça",
+        "Couraça"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kíkovo-1 — https://www.kimbundu.org/pt/word/kikovo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5266,
+      "kimbundu_term": "Kikôwe",
+      "portuguese_translation": "Aclamação",
+      "definition": null,
+      "alternative_meanings": [
+        "Clamor de aplausos",
+        "Ato solene com que se eleva ao trono o soberano ou seu herdeiro",
+        "Proclamação"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikôwe-1 — https://www.kimbundu.org/pt/word/kikowe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5267,
+      "kimbundu_term": "Kikôwe",
+      "portuguese_translation": "Glória",
+      "definition": null,
+      "alternative_meanings": [
+        "vitória",
+        "Ovação estrondosa",
+        "Ato de triunfar do inimigo em combate ou batalha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikôwe-1 — https://www.kimbundu.org/pt/word/kikowe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5268,
+      "kimbundu_term": "Kikôwe",
+      "portuguese_translation": "Exclamação de aplauso",
+      "definition": null,
+      "alternative_meanings": [
+        "Victor"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikôwe-1 — https://www.kimbundu.org/pt/word/kikowe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5269,
+      "kimbundu_term": "Kikôwe",
+      "portuguese_translation": "Vitorioso",
+      "definition": null,
+      "alternative_meanings": [
+        "vencedor",
+        "Glorificado",
+        "Triunfador"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikôwe-1 — https://www.kimbundu.org/pt/word/kikowe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5270,
+      "kimbundu_term": "Kikóza",
+      "portuguese_translation": "Pedaço de tecido velho",
+      "definition": null,
+      "alternative_meanings": [
+        "Trapo",
+        "farrapo",
+        "Roupa velha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikóza-1 — https://www.kimbundu.org/pt/word/kikoza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5271,
+      "kimbundu_term": "Kikozo",
+      "portuguese_translation": "Pecíolo",
+      "definition": null,
+      "alternative_meanings": [
+        "Pedúnculo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikozo-1 — https://www.kimbundu.org/pt/word/kikozo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5272,
+      "kimbundu_term": "Kikuákua",
+      "portuguese_translation": "(III) Pretencioso. Guturoso",
+      "definition": null,
+      "alternative_meanings": [
+        "que fala guturalmente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikuákua-1 — https://www.kimbundu.org/pt/word/kikuakua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5273,
+      "kimbundu_term": "Kikuákua",
+      "portuguese_translation": "Ave trepadora semelhante ao papagaio",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Miserável com ares de importante"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikuákua-1 — https://www.kimbundu.org/pt/word/kikuakua",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
