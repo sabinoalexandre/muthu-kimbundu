@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16054,
+      "kimbundu_term": "Mudimu",
+      "portuguese_translation": "Pagamento pelo que se trabalhou numa lavra",
+      "definition": null,
+      "alternative_meanings": [
+        "Salário",
+        "jornal"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mudimu-1 — https://www.kimbundu.org/pt/word/mudimu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16055,
+      "kimbundu_term": "Mudimune",
+      "portuguese_translation": "Avisador",
+      "definition": null,
+      "alternative_meanings": [
+        "Que põe de sobreaviso",
+        "que faz despertar, ter cautela"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mudimune-1 — https://www.kimbundu.org/pt/word/mudimune",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16056,
+      "kimbundu_term": "Mudinda",
+      "portuguese_translation": "Aquele que pode dispor de si",
+      "definition": null,
+      "alternative_meanings": [
+        "livre",
+        "Morador",
+        "habitante de uma região ou lugar",
+        "Vassalo que não podia ser vendido"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mudinda-1 — https://www.kimbundu.org/pt/word/mudinda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16057,
+      "kimbundu_term": "Múdinge",
+      "portuguese_translation": "Estrangulador",
+      "definition": null,
+      "alternative_meanings": [
+        "Matador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múdinge-1 — https://www.kimbundu.org/pt/word/mudinge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16058,
+      "kimbundu_term": "Mudíngi",
+      "portuguese_translation": "Bilha",
+      "definition": null,
+      "alternative_meanings": [
+        "alcarraza",
+        "Vaso de barro para água"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mudíngi-1 — https://www.kimbundu.org/pt/word/mudingi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16059,
+      "kimbundu_term": "Múdise",
+      "portuguese_translation": "Que faz ou ajuda a comer",
+      "definition": null,
+      "alternative_meanings": [
+        "Diz-se da pessoa que dá de comer a crianças"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múdise-1 — https://www.kimbundu.org/pt/word/mudise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16060,
+      "kimbundu_term": "Muê",
+      "portuguese_translation": "e pron. demonstr. (contr. da prep. mu e do pron. pess éie). Teu",
+      "definition": null,
+      "alternative_meanings": [
+        "tua",
+        "para ti"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muê-1 — https://www.kimbundu.org/pt/word/mue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16061,
+      "kimbundu_term": "Muê",
+      "portuguese_translation": "interrog. Onde? Em que lugar?",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, advérbio, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muê-1 — https://www.kimbundu.org/pt/word/mue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16062,
+      "kimbundu_term": "Mue",
+      "portuguese_translation": "Dela",
+      "definition": null,
+      "alternative_meanings": [
+        "dele"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, demonstrativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mue-1 — https://www.kimbundu.org/pt/word/mue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16063,
+      "kimbundu_term": "Mue",
+      "portuguese_translation": "Para ele",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, demonstrativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mue-1 — https://www.kimbundu.org/pt/word/mue",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
