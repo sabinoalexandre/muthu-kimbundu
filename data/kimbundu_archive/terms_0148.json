@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1584,
+      "kimbundu_term": "Eki",
+      "portuguese_translation": "substantivo: o tempo atual",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, sufixo, conjunção, advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, eki-1 — https://www.kimbundu.org/pt/word/eki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1585,
+      "kimbundu_term": "Elel'enu",
+      "portuguese_translation": "Corresponde a uma aclamação de alegria, de regozijo, e equivale a «Bravo! Hurra!» À letra: «riem-se",
+      "definition": null,
+      "alternative_meanings": [
+        "alegrem-se»"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, elel'enu-1 — https://www.kimbundu.org/pt/word/elel'enu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1586,
+      "kimbundu_term": "Éli",
+      "portuguese_translation": "Nome da letra L",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, éli-1 — https://www.kimbundu.org/pt/word/eli",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1587,
+      "kimbundu_term": "Élu",
+      "portuguese_translation": "Diz-se das pessoas não caridosas",
+      "definition": null,
+      "alternative_meanings": [
+        "que não dão (esmolas)",
+        "somíticos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, élu-1 — https://www.kimbundu.org/pt/word/elu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1588,
+      "kimbundu_term": "Élu",
+      "portuguese_translation": "Unhas de fome (avarento)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, élu-1 — https://www.kimbundu.org/pt/word/elu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1589,
+      "kimbundu_term": "Éme",
+      "portuguese_translation": "pronome pessoal: a minha pessoa",
+      "definition": null,
+      "alternative_meanings": [
+        "eu"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, éme-1 — https://www.kimbundu.org/pt/word/eme",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1590,
+      "kimbundu_term": "Éme",
+      "portuguese_translation": "A 1.ª pessoa do singular",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, éme-1 — https://www.kimbundu.org/pt/word/eme",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1591,
+      "kimbundu_term": "Éme",
+      "portuguese_translation": "interjeição: presente! aqui estou! eis-me aqui!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, éme-1 — https://www.kimbundu.org/pt/word/eme",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1592,
+      "kimbundu_term": "Émi",
+      "portuguese_translation": "A letra M",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, émi-1 — https://www.kimbundu.org/pt/word/emi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1593,
+      "kimbundu_term": "Êne",
+      "portuguese_translation": "pronome pessoal plural: eles",
+      "definition": null,
+      "alternative_meanings": [
+        "elas",
+        "as pessoas"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, êne-1 — https://www.kimbundu.org/pt/word/ene",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
