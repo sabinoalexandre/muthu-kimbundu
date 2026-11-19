@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15414,
+      "kimbundu_term": "Mbwenga",
+      "portuguese_translation": "Substantivo. Saco em que os trabalhadores e os soldados levam as suas provisões",
+      "definition": null,
+      "alternative_meanings": [
+        "bornal",
+        "algibeira",
+        "bolso. Plural: jimbuénga"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbwenga-1 — https://www.kimbundu.org/pt/word/mbwenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15415,
+      "kimbundu_term": "Mbwenga",
+      "portuguese_translation": "Corografia. Povoação e posto da circunscrição civil do Pombo, distrito do Congo, província de Luanda, com 10.927 habitan",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbwenga-1 — https://www.kimbundu.org/pt/word/mbwenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15416,
+      "kimbundu_term": "Mbwiji",
+      "portuguese_translation": "zoologia. Mamífero roedor",
+      "definition": null,
+      "alternative_meanings": [
+        "Paca"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbwiji-1 — https://www.kimbundu.org/pt/word/mbwiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15417,
+      "kimbundu_term": "Mbwiji",
+      "portuguese_translation": "porco espinho",
+      "definition": null,
+      "alternative_meanings": [
+        "Plural: jimbuiji"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbwiji-1 — https://www.kimbundu.org/pt/word/mbwiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15418,
+      "kimbundu_term": "Me",
+      "portuguese_translation": "(contração da prep. ma e do pron. pess. muene)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, me-1 — https://www.kimbundu.org/pt/word/me",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15419,
+      "kimbundu_term": "Me",
+      "portuguese_translation": "Dele",
+      "definition": null,
+      "alternative_meanings": [
+        "dela: o. Da sua pessoa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, me-1 — https://www.kimbundu.org/pt/word/me",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15420,
+      "kimbundu_term": "Mê",
+      "portuguese_translation": "adj. poss. pl. (contr. da prep. ma e do pron. pess. ĕie) Teus",
+      "definition": null,
+      "alternative_meanings": [
+        "tuas. Pertencente à tua pessoa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mê-1 — https://www.kimbundu.org/pt/word/me",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15421,
+      "kimbundu_term": "Mé",
+      "portuguese_translation": "abrev. de mánhi. Tratamento dado às antigas escravas ou à mulher de condição servil",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mé-1 — https://www.kimbundu.org/pt/word/me",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15422,
+      "kimbundu_term": "Mé",
+      "portuguese_translation": "Onomat. do vagido da cabra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mé-1 — https://www.kimbundu.org/pt/word/me",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15423,
+      "kimbundu_term": "Mêbi",
+      "portuguese_translation": "pron. interrog. pl. Quais? Onde estão? Que deles?",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mêbi-1 — https://www.kimbundu.org/pt/word/mebi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
