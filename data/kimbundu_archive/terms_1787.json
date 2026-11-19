@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17974,
+      "kimbundu_term": "Ngana",
+      "portuguese_translation": "ngana-ia-muhatu. Veja-se ngamuhatu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngana-1 — https://www.kimbundu.org/pt/word/ngana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17975,
+      "kimbundu_term": "Ngana",
+      "portuguese_translation": "(adjetivo) Que tem senhoria ou posse. Plural: jingana",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngana-1 — https://www.kimbundu.org/pt/word/ngana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17976,
+      "kimbundu_term": "Ngânda",
+      "portuguese_translation": "Lugar onde se reúnem cavalheiros",
+      "definition": null,
+      "alternative_meanings": [
+        "Ponto de reunião de indivíduos da mesma povoação",
+        "Lugar público",
+        "Acampamento",
+        "Esp(a)radouro",
+        "pousada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngânda-1 — https://www.kimbundu.org/pt/word/nganda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17977,
+      "kimbundu_term": "Ngânda",
+      "portuguese_translation": "Pureza de corpo e de alma",
+      "definition": null,
+      "alternative_meanings": [
+        "Ação, gesto ou palavra que denota pudor",
+        "Pudicícia. Carácter do que é pudico"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngânda-1 — https://www.kimbundu.org/pt/word/nganda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17978,
+      "kimbundu_term": "Ngânda",
+      "portuguese_translation": "Decência",
+      "definition": null,
+      "alternative_meanings": [
+        "decoro",
+        "bons costumes",
+        "(figurado) Sociedade",
+        "civilidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngânda-1 — https://www.kimbundu.org/pt/word/nganda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17979,
+      "kimbundu_term": "Ngânda",
+      "portuguese_translation": "(corografia) Concelho e sede da Vila Mariano Machado, distrito e província de Benguela, a 13º02' de latitude S. e 14º40'",
+      "definition": null,
+      "alternative_meanings": [
+        "julgado, instructor, delegação de Saúde e de Fazenda, estação telégrafo-postal e de Caminho de Ferro, Missão de N. S. de"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngânda-1 — https://www.kimbundu.org/pt/word/nganda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17980,
+      "kimbundu_term": "Ngandála",
+      "portuguese_translation": "Pequeno pano geralmente branco, com que, à comida, se limpa a boca",
+      "definition": null,
+      "alternative_meanings": [
+        "Pequena…"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngandála-1 — https://www.kimbundu.org/pt/word/ngandala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17981,
+      "kimbundu_term": "Ngandála",
+      "portuguese_translation": "Toalha sobre a qual se pousa o prato no lugar de cada um",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngandála-1 — https://www.kimbundu.org/pt/word/ngandala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17982,
+      "kimbundu_term": "Ngandála",
+      "portuguese_translation": "Toalha de mesa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngandála-1 — https://www.kimbundu.org/pt/word/ngandala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17983,
+      "kimbundu_term": "Ngandála",
+      "portuguese_translation": "Guardanapo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngandála-1 — https://www.kimbundu.org/pt/word/ngandala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
