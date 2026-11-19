@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7194,
+      "kimbundu_term": "Kubaúka",
+      "portuguese_translation": "Estar sem brilho. Perder o luzimento. Estar fusco, empoado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubaúka-1 — https://www.kimbundu.org/pt/word/kubauka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7195,
+      "kimbundu_term": "Kubaúka",
+      "portuguese_translation": "Falta de lustro. Empanamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubaúka-1 — https://www.kimbundu.org/pt/word/kubauka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7196,
+      "kimbundu_term": "Kubaukisa",
+      "portuguese_translation": "Empanar",
+      "definition": null,
+      "alternative_meanings": [
+        "embaciar",
+        "tirar o lustre"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubaukisa-1 — https://www.kimbundu.org/pt/word/kubaukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7197,
+      "kimbundu_term": "Kubaukisa",
+      "portuguese_translation": "Kuribaukisa, v. r. Ofuscar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "entroviscar-se",
+        "mascarrar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubaukisa-1 — https://www.kimbundu.org/pt/word/kubaukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7198,
+      "kimbundu_term": "Kúbaula",
+      "portuguese_translation": "Não deixar aproximar ou entrar. Recusar",
+      "definition": null,
+      "alternative_meanings": [
+        "repelir com força"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbaula-1 — https://www.kimbundu.org/pt/word/kubaula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7199,
+      "kimbundu_term": "Kúbaza",
+      "portuguese_translation": "Estoirar",
+      "definition": null,
+      "alternative_meanings": [
+        "rebentar",
+        "explodir. Estalar",
+        "rachar",
+        "fender"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbaza-1 — https://www.kimbundu.org/pt/word/kubaza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7200,
+      "kimbundu_term": "Kúbaza",
+      "portuguese_translation": "Capar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbaza-1 — https://www.kimbundu.org/pt/word/kubaza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7201,
+      "kimbundu_term": "Kúbaza",
+      "portuguese_translation": "castrar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbaza-1 — https://www.kimbundu.org/pt/word/kubaza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7202,
+      "kimbundu_term": "Kúbaza",
+      "portuguese_translation": "Boa disposição",
+      "definition": null,
+      "alternative_meanings": [
+        "manifestação de saúde",
+        "Explosão",
+        "estoiro",
+        "Rebentina"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbaza-1 — https://www.kimbundu.org/pt/word/kubaza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7203,
+      "kimbundu_term": "Kubazela",
+      "portuguese_translation": "Ralhar",
+      "definition": null,
+      "alternative_meanings": [
+        "repreender gritando"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubazela-1 — https://www.kimbundu.org/pt/word/kubazela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
