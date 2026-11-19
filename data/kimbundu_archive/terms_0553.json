@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5634,
+      "kimbundu_term": "Kimenemene",
+      "portuguese_translation": "Matinal",
+      "definition": null,
+      "alternative_meanings": [
+        "matutino",
+        "muito cedo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimenemene-1 — https://www.kimbundu.org/pt/word/kimenemene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5635,
+      "kimbundu_term": "Kimenemene",
+      "portuguese_translation": "Espaço de tempo entre o amanhecer e o romper do sol",
+      "definition": null,
+      "alternative_meanings": [
+        "Princípio do dia",
+        "O amanhecer"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimenemene-1 — https://www.kimbundu.org/pt/word/kimenemene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5636,
+      "kimbundu_term": "Kimenemene",
+      "portuguese_translation": "De manhã cedo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimenemene-1 — https://www.kimbundu.org/pt/word/kimenemene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5637,
+      "kimbundu_term": "Kimenga",
+      "portuguese_translation": "Parte de panela que serve de frigideira…",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimenga-1 — https://www.kimbundu.org/pt/word/kimenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5638,
+      "kimbundu_term": "Kimenga",
+      "portuguese_translation": "nela que serve de frigideira",
+      "definition": null,
+      "alternative_meanings": [
+        "Panela ou prato rachado ou partido",
+        "Caco"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimenga-1 — https://www.kimbundu.org/pt/word/kimenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5639,
+      "kimbundu_term": "Kimi",
+      "portuguese_translation": "Palavra que se pospõe ao substantivo, significativa de respeito, consideração ou estima, etc. Caro",
+      "definition": null,
+      "alternative_meanings": [
+        "estimado",
+        "querido",
+        "amado, etc"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimi-1 — https://www.kimbundu.org/pt/word/kimi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5640,
+      "kimbundu_term": "Kimiku",
+      "portuguese_translation": "Dança das espáduas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimiku-1 — https://www.kimbundu.org/pt/word/kimiku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5641,
+      "kimbundu_term": "Kimiku",
+      "portuguese_translation": "Inclinação do busto em movimentos rápidos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimiku-1 — https://www.kimbundu.org/pt/word/kimiku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5642,
+      "kimbundu_term": "Kiminu",
+      "portuguese_translation": "Economista",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiminu-1 — https://www.kimbundu.org/pt/word/kiminu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5643,
+      "kimbundu_term": "Kiminu",
+      "portuguese_translation": "Proveito que resulta de gastar pouco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiminu-1 — https://www.kimbundu.org/pt/word/kiminu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
