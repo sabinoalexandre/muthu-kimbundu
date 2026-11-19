@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10174,
+      "kimbundu_term": "Kulelumuna",
+      "portuguese_translation": "Esparralhar",
+      "definition": null,
+      "alternative_meanings": [
+        "derreter (sob a ação do calor)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulelumuna-1 — https://www.kimbundu.org/pt/word/kulelumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10175,
+      "kimbundu_term": "Kulemala",
+      "portuguese_translation": "Remar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulemala-1 — https://www.kimbundu.org/pt/word/kulemala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10176,
+      "kimbundu_term": "Kúlemba",
+      "portuguese_translation": "Dar presente de noivado",
+      "definition": null,
+      "alternative_meanings": [
+        "Contrair esponsais"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlemba-1 — https://www.kimbundu.org/pt/word/kulemba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10177,
+      "kimbundu_term": "Kúlemba",
+      "portuguese_translation": "Dotar",
+      "definition": null,
+      "alternative_meanings": [
+        "Prendar",
+        "conceder (o que é bom)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlemba-1 — https://www.kimbundu.org/pt/word/kulemba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10178,
+      "kimbundu_term": "Kúlemba",
+      "portuguese_translation": "Karilemba, v. r. Entregar-se como presente de casamento",
+      "definition": null,
+      "alternative_meanings": [
+        "Oferecer-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlemba-1 — https://www.kimbundu.org/pt/word/kulemba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10179,
+      "kimbundu_term": "Kulémba",
+      "portuguese_translation": "Entardecer",
+      "definition": null,
+      "alternative_meanings": [
+        "vir chegando a noite",
+        "Anoitecer",
+        "Escurecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulémba-1 — https://www.kimbundu.org/pt/word/kulemba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10180,
+      "kimbundu_term": "Kulembalala",
+      "portuguese_translation": "Lembrar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulembalala-1 — https://www.kimbundu.org/pt/word/kulembalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10181,
+      "kimbundu_term": "Kulembalesa",
+      "portuguese_translation": "Fazer lembrar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulembalesa-1 — https://www.kimbundu.org/pt/word/kulembalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10182,
+      "kimbundu_term": "Kulembeka",
+      "portuguese_translation": "Espaçar",
+      "definition": null,
+      "alternative_meanings": [
+        "tardar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulembeka-1 — https://www.kimbundu.org/pt/word/kulembeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10183,
+      "kimbundu_term": "Kulembeka",
+      "portuguese_translation": "Demorar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer-se tarde"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulembeka-1 — https://www.kimbundu.org/pt/word/kulembeka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
