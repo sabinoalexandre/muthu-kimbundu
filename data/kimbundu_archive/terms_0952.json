@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9624,
+      "kimbundu_term": "Kúku",
+      "portuguese_translation": "Antepassado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúku-2 — https://www.kimbundu.org/pt/word/kuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9625,
+      "kimbundu_term": "Kúku",
+      "portuguese_translation": "Baleia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúku-2 — https://www.kimbundu.org/pt/word/kuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9626,
+      "kimbundu_term": "Kukuáka",
+      "portuguese_translation": "Aportar",
+      "definition": null,
+      "alternative_meanings": [
+        "arribar",
+        "encalhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuáka-1 — https://www.kimbundu.org/pt/word/kukuaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9627,
+      "kimbundu_term": "Kukuáka",
+      "portuguese_translation": "Ancorar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuáka-1 — https://www.kimbundu.org/pt/word/kukuaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9628,
+      "kimbundu_term": "Kukuáka",
+      "portuguese_translation": "Ficar empatado, estar parado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuáka-1 — https://www.kimbundu.org/pt/word/kukuaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9629,
+      "kimbundu_term": "Kukuáka",
+      "portuguese_translation": "Chegada ao porto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuáka-2 — https://www.kimbundu.org/pt/word/kukuaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9630,
+      "kimbundu_term": "Kukuáka",
+      "portuguese_translation": "Encalhe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuáka-2 — https://www.kimbundu.org/pt/word/kukuaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9631,
+      "kimbundu_term": "Kukuakasa",
+      "portuguese_translation": "Lixar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuakasa-1 — https://www.kimbundu.org/pt/word/kukuakasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9632,
+      "kimbundu_term": "Kukuakela",
+      "portuguese_translation": "Varar",
+      "definition": null,
+      "alternative_meanings": [
+        "encalhar",
+        "dar em seco"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuakela-1 — https://www.kimbundu.org/pt/word/kukuakela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9633,
+      "kimbundu_term": "Kukuakela",
+      "portuguese_translation": "Aportar ao acaso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuakela-1 — https://www.kimbundu.org/pt/word/kukuakela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
