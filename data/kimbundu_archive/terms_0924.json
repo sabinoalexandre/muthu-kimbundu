@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9344,
+      "kimbundu_term": "Kukembesa",
+      "portuguese_translation": "Enfeitar",
+      "definition": null,
+      "alternative_meanings": [
+        "cobrir de lentejoulas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukembesa-1 — https://www.kimbundu.org/pt/word/kukembesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9345,
+      "kimbundu_term": "Kukembesa",
+      "portuguese_translation": "Kurikembesa, e r. Enfeitar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer-se janota"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukembesa-1 — https://www.kimbundu.org/pt/word/kukembesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9346,
+      "kimbundu_term": "Kukemesa",
+      "portuguese_translation": "Ajudar a expremer",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer gemer, evacuar (às crianças)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukemesa-1 — https://www.kimbundu.org/pt/word/kukemesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9347,
+      "kimbundu_term": "Kukenana",
+      "portuguese_translation": "Estar sobressaltado, inquieto",
+      "definition": null,
+      "alternative_meanings": [
+        "Amofinar",
+        "Estar descarnado, enfezido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukenana-1 — https://www.kimbundu.org/pt/word/kukenana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9348,
+      "kimbundu_term": "Kukenanesa",
+      "portuguese_translation": "Inquietar",
+      "definition": null,
+      "alternative_meanings": [
+        "desassossegar",
+        "Fazer recear",
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukenanesa-1 — https://www.kimbundu.org/pt/word/kukenanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9349,
+      "kimbundu_term": "Kukendalala",
+      "portuguese_translation": "Estar inclinado, pendido, descaído",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukendalala-1 — https://www.kimbundu.org/pt/word/kukendalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9350,
+      "kimbundu_term": "Kukendeleka",
+      "portuguese_translation": "Arrimar",
+      "definition": null,
+      "alternative_meanings": [
+        "inclinar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukendeleka-1 — https://www.kimbundu.org/pt/word/kukendeleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9351,
+      "kimbundu_term": "Kukendeleka",
+      "portuguese_translation": "Kurikendeleka, e r. Deitar-se de lado",
+      "definition": null,
+      "alternative_meanings": [
+        "recostar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukendeleka-1 — https://www.kimbundu.org/pt/word/kukendeleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9352,
+      "kimbundu_term": "Kúkenga",
+      "portuguese_translation": "Afuroar",
+      "definition": null,
+      "alternative_meanings": [
+        "buscar",
+        "procurar descobrir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkenga-1 — https://www.kimbundu.org/pt/word/kukenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9353,
+      "kimbundu_term": "Kukénga",
+      "portuguese_translation": "Arredar",
+      "definition": null,
+      "alternative_meanings": [
+        "afastar Estar de atalaia",
+        "vigiar. sub. Afastamento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukénga-1 — https://www.kimbundu.org/pt/word/kukenga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
