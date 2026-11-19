@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10434,
+      "kimbundu_term": "Kulúma",
+      "portuguese_translation": "Kuriluma, e r. Ter cópula",
+      "definition": null,
+      "alternative_meanings": [
+        "coabitar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulúma-1 — https://www.kimbundu.org/pt/word/kuluma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10435,
+      "kimbundu_term": "Kulumata",
+      "portuguese_translation": "Dentar",
+      "definition": null,
+      "alternative_meanings": [
+        "morder"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulumata-1 — https://www.kimbundu.org/pt/word/kulumata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10436,
+      "kimbundu_term": "Kulumata",
+      "portuguese_translation": "Dar dentadas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulumata-1 — https://www.kimbundu.org/pt/word/kulumata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10437,
+      "kimbundu_term": "Kulumata",
+      "portuguese_translation": "Ferrar",
+      "definition": null,
+      "alternative_meanings": [
+        "trincar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulumata-1 — https://www.kimbundu.org/pt/word/kulumata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10438,
+      "kimbundu_term": "Kulumata",
+      "portuguese_translation": "É também reflexivo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulumata-1 — https://www.kimbundu.org/pt/word/kulumata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10439,
+      "kimbundu_term": "Kulumatesa",
+      "portuguese_translation": "Fazer morder",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulumatesa-1 — https://www.kimbundu.org/pt/word/kulumatesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10440,
+      "kimbundu_term": "Kulumatesa",
+      "portuguese_translation": "dar dentadas",
+      "definition": null,
+      "alternative_meanings": [
+        "Mandar ferrar (os dentes) em",
+        "Kurilumatesa, v. r. Fazer-se morder"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulumatesa-1 — https://www.kimbundu.org/pt/word/kulumatesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10441,
+      "kimbundu_term": "Kulúmba",
+      "portuguese_translation": "Santificar",
+      "definition": null,
+      "alternative_meanings": [
+        "Glorificar",
+        "bendizer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulúmba-1 — https://www.kimbundu.org/pt/word/kulumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10442,
+      "kimbundu_term": "Kulúmba",
+      "portuguese_translation": "Tornar brilhante",
+      "definition": null,
+      "alternative_meanings": [
+        "realçar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulúmba-1 — https://www.kimbundu.org/pt/word/kulumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10443,
+      "kimbundu_term": "Kulúmba",
+      "portuguese_translation": "Santificação",
+      "definition": null,
+      "alternative_meanings": [
+        "brilho"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulúmba-1 — https://www.kimbundu.org/pt/word/kulumba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
