@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19154,
+      "kimbundu_term": "Tekula-fuku",
+      "portuguese_translation": "planta fam. das combretáceas (Combretum mechavianum) de madeira aproveitável",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tekula-fuku-1 — https://www.kimbundu.org/pt/word/tekula-fuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19155,
+      "kimbundu_term": "Téle",
+      "portuguese_translation": "Certa ordem de pequenos macacos de pelo cinzento-claro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, téle-1 — https://www.kimbundu.org/pt/word/tele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19156,
+      "kimbundu_term": "Teléku",
+      "portuguese_translation": "Oferecimento",
+      "definition": null,
+      "alternative_meanings": [
+        "oferta",
+        "O que se serve à mesa",
+        "Alimento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, teléku-1 — https://www.kimbundu.org/pt/word/teleku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19157,
+      "kimbundu_term": "Telesa",
+      "portuguese_translation": "Terça",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, telesa-1 — https://www.kimbundu.org/pt/word/telesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19158,
+      "kimbundu_term": "Télu",
+      "portuguese_translation": "Modo, forma, maneira de dizer",
+      "definition": null,
+      "alternative_meanings": [
+        "Princípio",
+        "exórdio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, télu-1 — https://www.kimbundu.org/pt/word/telu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19159,
+      "kimbundu_term": "Tembuá",
+      "portuguese_translation": "Às cascas",
+      "definition": null,
+      "alternative_meanings": [
+        "Abertamente"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tembuá-1 — https://www.kimbundu.org/pt/word/tembua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19160,
+      "kimbundu_term": "Tembuákata",
+      "portuguese_translation": "Aberto de par em par",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tembuákata-1 — https://www.kimbundu.org/pt/word/tembuakata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19161,
+      "kimbundu_term": "Tenda",
+      "portuguese_translation": "Pequena cabaça para guardar óleos",
+      "definition": null,
+      "alternative_meanings": [
+        "Recipiente",
+        "vaso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tenda-1 — https://www.kimbundu.org/pt/word/tenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19162,
+      "kimbundu_term": "Tênda",
+      "portuguese_translation": "Recorda! Adivinha! (Usa-se nos adivinhos e xinguilamentos)",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Remember!"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tênda-1 — https://www.kimbundu.org/pt/word/tenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19163,
+      "kimbundu_term": "Tendasá",
+      "portuguese_translation": "port. Tentação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tendasá-1 — https://www.kimbundu.org/pt/word/tendasa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
