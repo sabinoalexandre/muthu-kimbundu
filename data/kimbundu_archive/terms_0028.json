@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 384,
+      "kimbundu_term": "Besá",
+      "portuguese_translation": "Cumprimento",
+      "definition": null,
+      "alternative_meanings": [
+        "saudação"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, besá-1 — https://www.kimbundu.org/pt/word/besa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 385,
+      "kimbundu_term": "Béta",
+      "portuguese_translation": "Planta hortense quenopodiácea",
+      "definition": null,
+      "alternative_meanings": [
+        "acelga",
+        "o fruto desta planta"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, béta-1 — https://www.kimbundu.org/pt/word/beta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 386,
+      "kimbundu_term": "Béta",
+      "portuguese_translation": "Beterraba",
+      "definition": null,
+      "alternative_meanings": [
+        "sua raiz",
+        "planta medicinal, cujo cozimento das folhas em banho a vapor se emprega como sudorífico",
+        "limónio",
+        "acelga brava"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, béta-1 — https://www.kimbundu.org/pt/word/beta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 387,
+      "kimbundu_term": "Bete",
+      "portuguese_translation": "Espancado",
+      "definition": null,
+      "alternative_meanings": [
+        "castigado",
+        "batido"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bete-1 — https://www.kimbundu.org/pt/word/bete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 388,
+      "kimbundu_term": "Betebete",
+      "portuguese_translation": "Inconsistente",
+      "definition": null,
+      "alternative_meanings": [
+        "amolecido"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, betebete-1 — https://www.kimbundu.org/pt/word/betebete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 389,
+      "kimbundu_term": "Bêxi",
+      "portuguese_translation": "Cachimbo (antigo)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bêxi-1 — https://www.kimbundu.org/pt/word/bexi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 390,
+      "kimbundu_term": "Bhana",
+      "portuguese_translation": "Naquele lugar",
+      "definition": null,
+      "alternative_meanings": [
+        "ali",
+        "naquele sítio",
+        "acolá"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhana-1 — https://www.kimbundu.org/pt/word/bhana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 391,
+      "kimbundu_term": "Bhana",
+      "portuguese_translation": "Além",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhana-1 — https://www.kimbundu.org/pt/word/bhana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 392,
+      "kimbundu_term": "Bhane",
+      "portuguese_translation": "Dado",
+      "definition": null,
+      "alternative_meanings": [
+        "facultado",
+        "entregue",
+        "permitido",
+        "oferecido"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhane-1 — https://www.kimbundu.org/pt/word/bhane",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 393,
+      "kimbundu_term": "Bhange",
+      "portuguese_translation": "Planta de porte elevado, também conhecida por mubála",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhange-1 — https://www.kimbundu.org/pt/word/bhange",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
