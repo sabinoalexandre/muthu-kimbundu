@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4584,
+      "kimbundu_term": "Kibhaku",
+      "portuguese_translation": "Animal doméstico. Escravo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibhaku-1 — https://www.kimbundu.org/pt/word/kibhaku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4585,
+      "kimbundu_term": "Kibhane",
+      "portuguese_translation": "Próprio para dar",
+      "definition": null,
+      "alternative_meanings": [
+        "Facultado",
+        "permitido, gratuito"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibhane-1 — https://www.kimbundu.org/pt/word/kibhane",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4586,
+      "kimbundu_term": "Kibhane",
+      "portuguese_translation": "O que se dá",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Presente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibhane-1 — https://www.kimbundu.org/pt/word/kibhane",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4587,
+      "kimbundu_term": "Kibhangelu",
+      "portuguese_translation": "Peça que serve para armar outra, comunicando-lhe o seu feitio. Molde",
+      "definition": null,
+      "alternative_meanings": [
+        "forma"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibhangelu-1 — https://www.kimbundu.org/pt/word/kibhangelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4588,
+      "kimbundu_term": "Kibhasu",
+      "portuguese_translation": "Fragmento",
+      "definition": null,
+      "alternative_meanings": [
+        "pedaço",
+        "lasca. Lascado. Caco"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibhasu-1 — https://www.kimbundu.org/pt/word/kibhasu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4589,
+      "kimbundu_term": "Kibhela",
+      "portuguese_translation": "Terreno próprio para edificar ou construir",
+      "definition": null,
+      "alternative_meanings": [
+        "Chão",
+        "Solo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibhela-1 — https://www.kimbundu.org/pt/word/kibhela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4590,
+      "kimbundu_term": "Kibhite",
+      "portuguese_translation": "Viajeiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibhite-1 — https://www.kimbundu.org/pt/word/kibhite",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4591,
+      "kimbundu_term": "Kibhite",
+      "portuguese_translation": "Que passa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibhite-1 — https://www.kimbundu.org/pt/word/kibhite",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4592,
+      "kimbundu_term": "Kibhite",
+      "portuguese_translation": "Transitório",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibhite-1 — https://www.kimbundu.org/pt/word/kibhite",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4593,
+      "kimbundu_term": "Kibhite",
+      "portuguese_translation": "Causa que passa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibhite-1 — https://www.kimbundu.org/pt/word/kibhite",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
