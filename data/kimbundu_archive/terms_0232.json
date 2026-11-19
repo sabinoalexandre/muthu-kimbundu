@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2424,
+      "kimbundu_term": "Ixi",
+      "portuguese_translation": "Pov. e sede do posto da circ. civil de Minungo, distr. da Lunda, prov. de Malange, com 6.032 hab. e est. teleg. postal d",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ixi-1 — https://www.kimbundu.org/pt/word/ixi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2425,
+      "kimbundu_term": "Íxi",
+      "portuguese_translation": "Penhores. Sinais ou objetos que se dão para garantia de alguma dívida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, íxi-1 — https://www.kimbundu.org/pt/word/ixi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2426,
+      "kimbundu_term": "Íxi",
+      "portuguese_translation": "casa de penhores onde se emprestam dinheiros sobre objetos de valor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, íxi-1 — https://www.kimbundu.org/pt/word/ixi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2427,
+      "kimbundu_term": "Ixíla",
+      "portuguese_translation": "Conjunto de vários cortiços. Colmeal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ixíla-1 — https://www.kimbundu.org/pt/word/ixila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2428,
+      "kimbundu_term": "Iximbi",
+      "portuguese_translation": "Magnates. Próceres. Os grandes de uma Nação, os principais cidadãos de um Estado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iximbi-1 — https://www.kimbundu.org/pt/word/iximbi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2429,
+      "kimbundu_term": "Iximbi",
+      "portuguese_translation": "Seres sobrenaturais, dotados de grandes virtudes. Heróis",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iximbi-1 — https://www.kimbundu.org/pt/word/iximbi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2430,
+      "kimbundu_term": "Ixinyi",
+      "portuguese_translation": "Partes. Pedaços. Postas. Metades",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ixinyi-1 — https://www.kimbundu.org/pt/word/ixinyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2431,
+      "kimbundu_term": "Ixinyi",
+      "portuguese_translation": "Aos poucos. De onde em onde",
+      "definition": null,
+      "alternative_meanings": [
+        "daqui e dacolá. Por partes"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ixinyi-1 — https://www.kimbundu.org/pt/word/ixinyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2432,
+      "kimbundu_term": "Ixíxi",
+      "portuguese_translation": "Resíduos. Polvilhos. Restos reduzidos a pó. Diz-se das cascas ou matérias que restam dos cereais por meio de expremedura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ixíxi-1 — https://www.kimbundu.org/pt/word/ixixi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2433,
+      "kimbundu_term": "Izakélu",
+      "portuguese_translation": "Uniforme completo (considerado como traje obrigatório de uma corporação). Fardamento",
+      "definition": null,
+      "alternative_meanings": [
+        "Traje"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, izakélu-1 — https://www.kimbundu.org/pt/word/izakelu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
