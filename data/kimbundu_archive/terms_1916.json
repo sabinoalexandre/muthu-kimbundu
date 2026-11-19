@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19264,
+      "kimbundu_term": "Tukum",
+      "portuguese_translation": "De uma vez. De um só golpe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tukum-1 — https://www.kimbundu.org/pt/word/tukum",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19265,
+      "kimbundu_term": "Tukum",
+      "portuguese_translation": "Não repetido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tukum-1 — https://www.kimbundu.org/pt/word/tukum",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19266,
+      "kimbundu_term": "Tukuxi",
+      "portuguese_translation": "Quantos? Que número ou quantidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tukuxi-1 — https://www.kimbundu.org/pt/word/tukuxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19267,
+      "kimbundu_term": "Tulu",
+      "portuguese_translation": "Peito",
+      "definition": null,
+      "alternative_meanings": [
+        "sua cavidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tulu-1 — https://www.kimbundu.org/pt/word/tulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19268,
+      "kimbundu_term": "Tulu",
+      "portuguese_translation": "Franqueza",
+      "definition": null,
+      "alternative_meanings": [
+        "sinceridade de sentimentos",
+        "lealdade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tulu-1 — https://www.kimbundu.org/pt/word/tulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19269,
+      "kimbundu_term": "Tulu",
+      "portuguese_translation": "Opinião",
+      "definition": null,
+      "alternative_meanings": [
+        "conselho",
+        "parecer"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tulu-1 — https://www.kimbundu.org/pt/word/tulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19270,
+      "kimbundu_term": "Tulu",
+      "portuguese_translation": "Discrição",
+      "definition": null,
+      "alternative_meanings": [
+        "reserva",
+        "segredo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tulu-1 — https://www.kimbundu.org/pt/word/tulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19271,
+      "kimbundu_term": "Tulu",
+      "portuguese_translation": "Íntimo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tulu-2 — https://www.kimbundu.org/pt/word/tulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19272,
+      "kimbundu_term": "Túlu",
+      "portuguese_translation": "Tanto, tal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, túlu-1 — https://www.kimbundu.org/pt/word/tulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19273,
+      "kimbundu_term": "Tulukutu",
+      "portuguese_translation": "Turbulento",
+      "definition": null,
+      "alternative_meanings": [
+        "irrequieto",
+        "buliçoso. Que provoca desordens"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tulukutu-1 — https://www.kimbundu.org/pt/word/tulukutu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
