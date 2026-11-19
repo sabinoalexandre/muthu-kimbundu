@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12604,
+      "kimbundu_term": "Kutufina",
+      "portuguese_translation": "Expelir pela boca (cuspo com violência)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutufina-1 — https://www.kimbundu.org/pt/word/kutufina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12605,
+      "kimbundu_term": "Kutufuka",
+      "portuguese_translation": "Supurar",
+      "definition": null,
+      "alternative_meanings": [
+        "rebentar. Verter",
+        "deitar pus"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutufuka-1 — https://www.kimbundu.org/pt/word/kutufuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12606,
+      "kimbundu_term": "Kutufula",
+      "portuguese_translation": "Perfurar",
+      "definition": null,
+      "alternative_meanings": [
+        "rebentar",
+        "premer. Fazer sair o conteúdo de um tumor, de uma bolha, etc"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutufula-1 — https://www.kimbundu.org/pt/word/kutufula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12607,
+      "kimbundu_term": "Kutufula",
+      "portuguese_translation": "Esborrachar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutufula-1 — https://www.kimbundu.org/pt/word/kutufula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12608,
+      "kimbundu_term": "Kutuika",
+      "portuguese_translation": "Ajudar a carregar, a colocar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutuika-1 — https://www.kimbundu.org/pt/word/kutuika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12609,
+      "kimbundu_term": "Kutuika",
+      "portuguese_translation": "Plantar",
+      "definition": null,
+      "alternative_meanings": [
+        "esperar",
+        "tornar firme"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutuika-1 — https://www.kimbundu.org/pt/word/kutuika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12610,
+      "kimbundu_term": "Kutuika",
+      "portuguese_translation": "Oprimir",
+      "definition": null,
+      "alternative_meanings": [
+        "agravar com sarcasmos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutuika-1 — https://www.kimbundu.org/pt/word/kutuika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12611,
+      "kimbundu_term": "Kutuika",
+      "portuguese_translation": "Molestamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutuika-1 — https://www.kimbundu.org/pt/word/kutuika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12612,
+      "kimbundu_term": "Kutuina",
+      "portuguese_translation": "Vingar",
+      "definition": null,
+      "alternative_meanings": [
+        "tirar desforra de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutuina-1 — https://www.kimbundu.org/pt/word/kutuina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12613,
+      "kimbundu_term": "Kutuina",
+      "portuguese_translation": "Catar",
+      "definition": null,
+      "alternative_meanings": [
+        "matar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutuina-1 — https://www.kimbundu.org/pt/word/kutuina",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
