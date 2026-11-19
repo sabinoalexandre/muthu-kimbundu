@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12154,
+      "kimbundu_term": "Kutatamána",
+      "portuguese_translation": "Ser atado, obstinado, teimoso",
+      "definition": null,
+      "alternative_meanings": [
+        "Ser cabeçudo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutatamána-1 — https://www.kimbundu.org/pt/word/kutatamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12155,
+      "kimbundu_term": "Kutatamana",
+      "portuguese_translation": "Estar inchado, intumescido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutatamana-1 — https://www.kimbundu.org/pt/word/kutatamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12156,
+      "kimbundu_term": "Kutatamana",
+      "portuguese_translation": "Ser baixo e gordo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutatamana-1 — https://www.kimbundu.org/pt/word/kutatamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12157,
+      "kimbundu_term": "Kutatamanesa",
+      "portuguese_translation": "Obstinar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar teimoso",
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutatamanesa-1 — https://www.kimbundu.org/pt/word/kutatamanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12158,
+      "kimbundu_term": "Kutatameka",
+      "portuguese_translation": "Obrigar",
+      "definition": null,
+      "alternative_meanings": [
+        "exigir o cumprimento de",
+        "Coagir",
+        "É tb. intr. e r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutatameka-1 — https://www.kimbundu.org/pt/word/kutatameka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12159,
+      "kimbundu_term": "Kutatela",
+      "portuguese_translation": "Inculpar",
+      "definition": null,
+      "alternative_meanings": [
+        "arguir",
+        "Tornar responsável (quem não o é)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutatela-1 — https://www.kimbundu.org/pt/word/kutatela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12160,
+      "kimbundu_term": "Kutatela",
+      "portuguese_translation": "Kuritatela, v. r. Deitar-se culpas",
+      "definition": null,
+      "alternative_meanings": [
+        "incriminar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutatela-1 — https://www.kimbundu.org/pt/word/kutatela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12161,
+      "kimbundu_term": "Kútatesa",
+      "portuguese_translation": "Ajudar a ligar, a amarrar com cordas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútatesa-1 — https://www.kimbundu.org/pt/word/kutatesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12162,
+      "kimbundu_term": "Kutatésa",
+      "portuguese_translation": "Objetar",
+      "definition": null,
+      "alternative_meanings": [
+        "duvidar",
+        "opor",
+        "Molestar",
+        "enfadar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutatésa-1 — https://www.kimbundu.org/pt/word/kutatesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12163,
+      "kimbundu_term": "Kutatésa",
+      "portuguese_translation": "Kuritatesa, v. r. Disputar",
+      "definition": null,
+      "alternative_meanings": [
+        "discutir",
+        "opor dúvidas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutatésa-1 — https://www.kimbundu.org/pt/word/kutatesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
