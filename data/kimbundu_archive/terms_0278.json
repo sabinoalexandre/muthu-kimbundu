@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2884,
+      "kimbundu_term": "Ju",
+      "portuguese_translation": "A elas ou a eles",
+      "definition": null,
+      "alternative_meanings": [
+        "Lhe",
+        "Lh'as",
+        "lh'os"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ju-1 — https://www.kimbundu.org/pt/word/ju",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2885,
+      "kimbundu_term": "Judê",
+      "portuguese_translation": "Judeu. Pl. jijudê",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, judê-1 — https://www.kimbundu.org/pt/word/jude",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2886,
+      "kimbundu_term": "Júla",
+      "portuguese_translation": "Clister",
+      "definition": null,
+      "alternative_meanings": [
+        "Injeção pelo ânus para os intestinos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, júla-1 — https://www.kimbundu.org/pt/word/jula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2887,
+      "kimbundu_term": "Júva",
+      "portuguese_translation": "Uvas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, júva-1 — https://www.kimbundu.org/pt/word/juva",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2888,
+      "kimbundu_term": "K sanzame",
+      "portuguese_translation": "Extensivo",
+      "definition": null,
+      "alternative_meanings": [
+        "que pode ou deve ser aplicado a casos análogos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, k sanzame-1 — https://www.kimbundu.org/pt/word/k%20sanzame",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2889,
+      "kimbundu_term": "K'jata",
+      "portuguese_translation": "Folha tenra do feijoeiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, k'jata-1 — https://www.kimbundu.org/pt/word/k'jata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2890,
+      "kimbundu_term": "K'jata",
+      "portuguese_translation": "É mais usado no plural. Ifata",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, k'jata-1 — https://www.kimbundu.org/pt/word/k'jata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2891,
+      "kimbundu_term": "K'jíngu",
+      "portuguese_translation": "Dignidade",
+      "definition": null,
+      "alternative_meanings": [
+        "Gravidade",
+        "brio",
+        "Cargo ou título de alta graduação"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, k'jíngu-1 — https://www.kimbundu.org/pt/word/k'jingu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2892,
+      "kimbundu_term": "K'jíngu",
+      "portuguese_translation": "Sentimento do dever",
+      "definition": null,
+      "alternative_meanings": [
+        "Honra",
+        "Distinção",
+        "Decoro",
+        "Probidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, k'jíngu-1 — https://www.kimbundu.org/pt/word/k'jingu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2893,
+      "kimbundu_term": "K'jíngu",
+      "portuguese_translation": "Ornamento",
+      "definition": null,
+      "alternative_meanings": [
+        "orgulho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, k'jíngu-1 — https://www.kimbundu.org/pt/word/k'jingu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
