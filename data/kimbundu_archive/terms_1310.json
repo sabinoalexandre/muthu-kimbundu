@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13204,
+      "kimbundu_term": "Kuxikelela",
+      "portuguese_translation": "Ter a cor preta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikelela-1 — https://www.kimbundu.org/pt/word/kuxikelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13205,
+      "kimbundu_term": "Kuxikelela",
+      "portuguese_translation": "Enegrecimento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikelela-1 — https://www.kimbundu.org/pt/word/kuxikelela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13206,
+      "kimbundu_term": "Kuxikelesa",
+      "portuguese_translation": "Denegrir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikelesa-1 — https://www.kimbundu.org/pt/word/kuxikelesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13207,
+      "kimbundu_term": "Kuxikelesa",
+      "portuguese_translation": "Tornar ou manchar de preto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikelesa-1 — https://www.kimbundu.org/pt/word/kuxikelesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13208,
+      "kimbundu_term": "Kuxikelesa",
+      "portuguese_translation": "Kurixikelesa, e r. Manchar-se de preto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikelesa-1 — https://www.kimbundu.org/pt/word/kuxikelesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13209,
+      "kimbundu_term": "Kuxiketela",
+      "portuguese_translation": "Negrejar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxiketela-1 — https://www.kimbundu.org/pt/word/kuxiketela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13210,
+      "kimbundu_term": "Kuxiketela",
+      "portuguese_translation": "Estar coberto de luto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxiketela-1 — https://www.kimbundu.org/pt/word/kuxiketela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13211,
+      "kimbundu_term": "Kuxikika",
+      "portuguese_translation": "Fazer sentar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikika-1 — https://www.kimbundu.org/pt/word/kuxikika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13212,
+      "kimbundu_term": "Kuxikika",
+      "portuguese_translation": "Situar",
+      "definition": null,
+      "alternative_meanings": [
+        "assentar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikika-1 — https://www.kimbundu.org/pt/word/kuxikika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13213,
+      "kimbundu_term": "Kuxikina",
+      "portuguese_translation": "Assentar",
+      "definition": null,
+      "alternative_meanings": [
+        "ter juízo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxikina-1 — https://www.kimbundu.org/pt/word/kuxikina",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
