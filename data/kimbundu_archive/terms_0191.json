@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2014,
+      "kimbundu_term": "Ibiafe",
+      "portuguese_translation": "Moínha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ibiafe-1 — https://www.kimbundu.org/pt/word/ibiafe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2015,
+      "kimbundu_term": "Ibiafe",
+      "portuguese_translation": "O que fica depois da debulha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ibiafe-1 — https://www.kimbundu.org/pt/word/ibiafe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2016,
+      "kimbundu_term": "Ibiafe",
+      "portuguese_translation": "Restos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ibiafe-1 — https://www.kimbundu.org/pt/word/ibiafe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2017,
+      "kimbundu_term": "Ibiafe",
+      "portuguese_translation": "Cizânia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ibiafe-1 — https://www.kimbundu.org/pt/word/ibiafe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2018,
+      "kimbundu_term": "Ibiafe",
+      "portuguese_translation": "Discórdia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ibiafe-1 — https://www.kimbundu.org/pt/word/ibiafe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2019,
+      "kimbundu_term": "Ibúbu",
+      "portuguese_translation": "Sons produzidos pelo bater das palmas das mãos em cruz, para significar sentimento ou tristeza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ibúbu-1 — https://www.kimbundu.org/pt/word/ibubu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2020,
+      "kimbundu_term": "Ibúbu",
+      "portuguese_translation": "Imprecações de males contra alguém",
+      "definition": null,
+      "alternative_meanings": [
+        "Pragas",
+        "Maldições",
+        "Apóstrofes"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ibúbu-1 — https://www.kimbundu.org/pt/word/ibubu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2021,
+      "kimbundu_term": "Ibukidilu",
+      "portuguese_translation": "Ventiladores",
+      "definition": null,
+      "alternative_meanings": [
+        "Porção de abanos",
+        "Ventarolas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ibukidilu-1 — https://www.kimbundu.org/pt/word/ibukidilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2022,
+      "kimbundu_term": "Ibundu",
+      "portuguese_translation": "Frutas que a terra dá",
+      "definition": null,
+      "alternative_meanings": [
+        "Produtos",
+        "Interesses: ganhos: lucros",
+        "fig. Consequências",
+        "efeitos",
+        "Despojos",
+        "restos mortais"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ibundu-1 — https://www.kimbundu.org/pt/word/ibundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2023,
+      "kimbundu_term": "Ibunji",
+      "portuguese_translation": "Raquitismo",
+      "definition": null,
+      "alternative_meanings": [
+        "Estiolamento",
+        "Diz-se da planta não desenvolvida por falta de chuvas",
+        "Diz-se das espigas de milho com poucos grãos, ou de outra fruta de pouco desenvolvimento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ibunji-1 — https://www.kimbundu.org/pt/word/ibunji",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
