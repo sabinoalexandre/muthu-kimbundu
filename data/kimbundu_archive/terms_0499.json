@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5094,
+      "kimbundu_term": "Kijibha",
+      "portuguese_translation": "Matança",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijibha-1 — https://www.kimbundu.org/pt/word/kijibha",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5095,
+      "kimbundu_term": "Kijibha",
+      "portuguese_translation": "Carnificina",
+      "definition": null,
+      "alternative_meanings": [
+        "mortandade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijibha-1 — https://www.kimbundu.org/pt/word/kijibha",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5096,
+      "kimbundu_term": "Kijibha",
+      "portuguese_translation": "homicida",
+      "definition": null,
+      "alternative_meanings": [
+        "assassino",
+        "facínora. Grande criminoso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijibha-1 — https://www.kimbundu.org/pt/word/kijibha",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5097,
+      "kimbundu_term": "Kijidila",
+      "portuguese_translation": "Afeição",
+      "definition": null,
+      "alternative_meanings": [
+        "inclinação",
+        "amizade",
+        "Tendência natural para uma pessoa ou coisa",
+        "Simpatia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijidila-1 — https://www.kimbundu.org/pt/word/kijidila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5098,
+      "kimbundu_term": "Kijidilu",
+      "portuguese_translation": "Faculdade adquirida mais pelo hábito que pelo estudo",
+      "definition": null,
+      "alternative_meanings": [
+        "Rotina",
+        "Costumeira",
+        "prática",
+        "uso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijidilu-1 — https://www.kimbundu.org/pt/word/kijidilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5099,
+      "kimbundu_term": "Kijidisa",
+      "portuguese_translation": "Conhecimento",
+      "definition": null,
+      "alternative_meanings": [
+        "Conjunto de noções relativas a um assunto",
+        "Relações pessoais",
+        "O que faz saber ou conhecer"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijidisa-1 — https://www.kimbundu.org/pt/word/kijidisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5100,
+      "kimbundu_term": "Kijikame",
+      "portuguese_translation": "Proibido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijikame-1 — https://www.kimbundu.org/pt/word/kijikame",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5101,
+      "kimbundu_term": "Kijikame",
+      "portuguese_translation": "Proibitivo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijikame-1 — https://www.kimbundu.org/pt/word/kijikame",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5102,
+      "kimbundu_term": "Kijikame",
+      "portuguese_translation": "Causa proibida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijikame-1 — https://www.kimbundu.org/pt/word/kijikame",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5103,
+      "kimbundu_term": "Kijikame",
+      "portuguese_translation": "Proibição do direito de usar ou fazer algo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kijikame-1 — https://www.kimbundu.org/pt/word/kijikame",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
