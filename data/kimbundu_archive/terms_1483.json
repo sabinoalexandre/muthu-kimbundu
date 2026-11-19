@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14934,
+      "kimbundu_term": "Mathe",
+      "portuguese_translation": "adj. e sub. (I) Cuspidor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mathe-1 — https://www.kimbundu.org/pt/word/mathe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14935,
+      "kimbundu_term": "Matiamvu",
+      "portuguese_translation": "Vasto território a Este da província de Malange, na Lunda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, matiamvu-1 — https://www.kimbundu.org/pt/word/matiamvu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14936,
+      "kimbundu_term": "Mátidi",
+      "portuguese_translation": "Madre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mátidi-1 — https://www.kimbundu.org/pt/word/matidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14937,
+      "kimbundu_term": "Matidimbimbi",
+      "portuguese_translation": "Estardalhaço",
+      "definition": null,
+      "alternative_meanings": [
+        "arruído",
+        "ostentação de forças"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, matidimbimbi-1 — https://www.kimbundu.org/pt/word/matidimbimbi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14938,
+      "kimbundu_term": "Matidindindi",
+      "portuguese_translation": "Insetos locustídeos. Gafanhotos de cor avermelhada, abundantes em Novo-Redondo e Benguela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, matidindindi-1 — https://www.kimbundu.org/pt/word/matidindindi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14939,
+      "kimbundu_term": "Matobe",
+      "portuguese_translation": "Estrume de gados",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, matobe-1 — https://www.kimbundu.org/pt/word/matobe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14940,
+      "kimbundu_term": "Matobe",
+      "portuguese_translation": "Esterco",
+      "definition": null,
+      "alternative_meanings": [
+        "bosta"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, matobe-1 — https://www.kimbundu.org/pt/word/matobe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14941,
+      "kimbundu_term": "Mátodi",
+      "portuguese_translation": "Detritos, tripas, resíduos de peixe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mátodi-1 — https://www.kimbundu.org/pt/word/matodi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14942,
+      "kimbundu_term": "Matódia",
+      "portuguese_translation": "Isca das lagoas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, matódia-1 — https://www.kimbundu.org/pt/word/matodia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14943,
+      "kimbundu_term": "Matódia",
+      "portuguese_translation": "Sumaúma",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, matódia-1 — https://www.kimbundu.org/pt/word/matodia",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
