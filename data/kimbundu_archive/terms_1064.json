@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10744,
+      "kimbundu_term": "Kunafunuka",
+      "portuguese_translation": "Encopar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunafunuka-1 — https://www.kimbundu.org/pt/word/kunafunuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10745,
+      "kimbundu_term": "Kunafunukisa",
+      "portuguese_translation": "Enfunar, engrossar, ensoberbecer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunafunukisa-1 — https://www.kimbundu.org/pt/word/kunafunukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10746,
+      "kimbundu_term": "Kunakina",
+      "portuguese_translation": "Permanecer",
+      "definition": null,
+      "alternative_meanings": [
+        "jazer",
+        "ficar exposto ou demorado por muito tempo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunakina-1 — https://www.kimbundu.org/pt/word/kunakina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10747,
+      "kimbundu_term": "Kunakina",
+      "portuguese_translation": "Estar no mesmo estado ou situação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunakina-1 — https://www.kimbundu.org/pt/word/kunakina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10748,
+      "kimbundu_term": "Kunakina",
+      "portuguese_translation": "Jazida",
+      "definition": null,
+      "alternative_meanings": [
+        "permanência"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunakina-1 — https://www.kimbundu.org/pt/word/kunakina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10749,
+      "kimbundu_term": "Kunameka",
+      "portuguese_translation": "Espetar",
+      "definition": null,
+      "alternative_meanings": [
+        "trazer pendente. É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunameka-1 — https://www.kimbundu.org/pt/word/kunameka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10750,
+      "kimbundu_term": "Kunaminina",
+      "portuguese_translation": "Estar agarrado, colado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunaminina-1 — https://www.kimbundu.org/pt/word/kunaminina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10751,
+      "kimbundu_term": "Kunaminina",
+      "portuguese_translation": "Agarrar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunaminina-1 — https://www.kimbundu.org/pt/word/kunaminina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10752,
+      "kimbundu_term": "Kunaminina",
+      "portuguese_translation": "Segurar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunaminina-1 — https://www.kimbundu.org/pt/word/kunaminina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10753,
+      "kimbundu_term": "Kunaminina",
+      "portuguese_translation": "Kurinaminina, v. r. Agarrar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "ligar-se intimamente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kunaminina-1 — https://www.kimbundu.org/pt/word/kunaminina",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
