@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16804,
+      "kimbundu_term": "Mumbúndu",
+      "portuguese_translation": "Escuro",
+      "definition": null,
+      "alternative_meanings": [
+        "de cor preta",
+        "Africano",
+        "Leal",
+        "franco",
+        "honesto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mumbúndu-1 — https://www.kimbundu.org/pt/word/mumbundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16805,
+      "kimbundu_term": "Mumbúndu",
+      "portuguese_translation": "Homem de raça preta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mumbúndu-1 — https://www.kimbundu.org/pt/word/mumbundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16806,
+      "kimbundu_term": "Múmbungu",
+      "portuguese_translation": "Planta exótica, geralmente conhecida por «bambú»",
+      "definition": null,
+      "alternative_meanings": [
+        "Cana"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múmbungu-1 — https://www.kimbundu.org/pt/word/mumbungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16807,
+      "kimbundu_term": "Múmbungu",
+      "portuguese_translation": "Bairro na vila de Caxito, circ. civ. do Dande, distr. e prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múmbungu-1 — https://www.kimbundu.org/pt/word/mumbungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16808,
+      "kimbundu_term": "Mumeneki",
+      "portuguese_translation": "Madrugador",
+      "definition": null,
+      "alternative_meanings": [
+        "Pessoa que se levanta cedo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mumeneki-1 — https://www.kimbundu.org/pt/word/mumeneki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16809,
+      "kimbundu_term": "Mumgémbu",
+      "portuguese_translation": "Pequena cabaça com haste natural que lhe serve de axa, utilizada para fins domésticos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mumgémbu-1 — https://www.kimbundu.org/pt/word/mumgembu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16810,
+      "kimbundu_term": "Múmone",
+      "portuguese_translation": "Vidente",
+      "definition": null,
+      "alternative_meanings": [
+        "vedor",
+        "Pessoa que imagina ver o que a outro se não revela",
+        "Perspicaz",
+        "fig. Adivinho"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múmone-1 — https://www.kimbundu.org/pt/word/mumone",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16811,
+      "kimbundu_term": "Múmono",
+      "portuguese_translation": "Rícino",
+      "definition": null,
+      "alternative_meanings": [
+        "Carrapateiro",
+        "palma-christi"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múmono-1 — https://www.kimbundu.org/pt/word/mumono",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16812,
+      "kimbundu_term": "Mumónya",
+      "portuguese_translation": "Indolente",
+      "definition": null,
+      "alternative_meanings": [
+        "preguiçoso",
+        "Aquele que não gosta de trabalhar",
+        "Calaceiro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mumónya-1 — https://www.kimbundu.org/pt/word/mumonya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16813,
+      "kimbundu_term": "Múmu",
+      "portuguese_translation": "Aqui (dentro)",
+      "definition": null,
+      "alternative_meanings": [
+        "Na parte interior"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múmu-1 — https://www.kimbundu.org/pt/word/mumu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
