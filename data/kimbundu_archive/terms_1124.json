@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11344,
+      "kimbundu_term": "Kusamúna",
+      "portuguese_translation": "Pentear",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer toucado. É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusamúna-1 — https://www.kimbundu.org/pt/word/kusamuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11345,
+      "kimbundu_term": "Kusána",
+      "portuguese_translation": "Desfiar",
+      "definition": null,
+      "alternative_meanings": [
+        "desfibrar",
+        "estarpar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusána-1 — https://www.kimbundu.org/pt/word/kusana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11346,
+      "kimbundu_term": "Kusána",
+      "portuguese_translation": "Desfiadura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusána-1 — https://www.kimbundu.org/pt/word/kusana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11347,
+      "kimbundu_term": "Kusána",
+      "portuguese_translation": "Kurisana, v. r. Desfiar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. arrepelar-se",
+        "desesperar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusána-1 — https://www.kimbundu.org/pt/word/kusana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11348,
+      "kimbundu_term": "Kusána",
+      "portuguese_translation": "Arrepelar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "desesperar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusána-1 — https://www.kimbundu.org/pt/word/kusana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11349,
+      "kimbundu_term": "Kusána",
+      "portuguese_translation": "Kurisanasana, Estar a desfiar-se em muitos lugares",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusána-1 — https://www.kimbundu.org/pt/word/kusana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11350,
+      "kimbundu_term": "Kusanajana",
+      "portuguese_translation": "Desfiar muitas vezes ou por muito tempo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusanajana-1 — https://www.kimbundu.org/pt/word/kusanajana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11351,
+      "kimbundu_term": "Kusanána",
+      "portuguese_translation": "Ecoar",
+      "definition": null,
+      "alternative_meanings": [
+        "repercutir",
+        "repetir em éco"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusanána-1 — https://www.kimbundu.org/pt/word/kusanana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11352,
+      "kimbundu_term": "Kusanána",
+      "portuguese_translation": "Ressoar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar-se notável"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusanána-1 — https://www.kimbundu.org/pt/word/kusanana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11353,
+      "kimbundu_term": "Kusánda",
+      "portuguese_translation": "Esgaravatar (a galinha) a terra com os pés",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusánda-1 — https://www.kimbundu.org/pt/word/kusanda",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
