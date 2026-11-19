@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16084,
+      "kimbundu_term": "Muêlu",
+      "portuguese_translation": "adj. e sub. (I) Porteiro",
+      "definition": null,
+      "alternative_meanings": [
+        "Guarda-portão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muêlu-1 — https://www.kimbundu.org/pt/word/muelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16085,
+      "kimbundu_term": "Muemi",
+      "portuguese_translation": "Vinhateiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muemi-1 — https://www.kimbundu.org/pt/word/muemi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16086,
+      "kimbundu_term": "Muemi",
+      "portuguese_translation": "Pessoa que fabrica vinho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muemi-1 — https://www.kimbundu.org/pt/word/muemi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16087,
+      "kimbundu_term": "Muémuse",
+      "portuguese_translation": "Ridente",
+      "definition": null,
+      "alternative_meanings": [
+        "que sorri"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muémuse-1 — https://www.kimbundu.org/pt/word/muemuse",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16088,
+      "kimbundu_term": "Muémuse",
+      "portuguese_translation": "Risonho",
+      "definition": null,
+      "alternative_meanings": [
+        "alegre",
+        "contente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muémuse-1 — https://www.kimbundu.org/pt/word/muemuse",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16089,
+      "kimbundu_term": "Muen'ió",
+      "portuguese_translation": "de muene ió. Esse mesmo. É esse",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muen'ió-1 — https://www.kimbundu.org/pt/word/muen'io",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16090,
+      "kimbundu_term": "Muene",
+      "portuguese_translation": "(I) Mesmo. Próprio",
+      "definition": null,
+      "alternative_meanings": [
+        "que não sofreu alteração"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muene-1 — https://www.kimbundu.org/pt/word/muene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16091,
+      "kimbundu_term": "Muene",
+      "portuguese_translation": "O mesmo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muene-1 — https://www.kimbundu.org/pt/word/muene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16092,
+      "kimbundu_term": "Muene",
+      "portuguese_translation": "Efetivamente",
+      "definition": null,
+      "alternative_meanings": [
+        "de certo",
+        "Assim",
+        "deste modo",
+        "deveras",
+        "Exatamente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muene-1 — https://www.kimbundu.org/pt/word/muene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16093,
+      "kimbundu_term": "Muêne",
+      "portuguese_translation": "Ele",
+      "definition": null,
+      "alternative_meanings": [
+        "ela",
+        "A 3.ª pessoa do sing"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, substantivo, pessoa",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muêne-1 — https://www.kimbundu.org/pt/word/muene",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
