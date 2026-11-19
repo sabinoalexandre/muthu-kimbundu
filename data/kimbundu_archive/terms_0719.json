@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7294,
+      "kimbundu_term": "Kubendesa",
+      "portuguese_translation": "Mandar fatiar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubendesa-1 — https://www.kimbundu.org/pt/word/kubendesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7295,
+      "kimbundu_term": "Kubendesa",
+      "portuguese_translation": "Fazer cortar levemente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubendesa-1 — https://www.kimbundu.org/pt/word/kubendesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7296,
+      "kimbundu_term": "Kubenduka",
+      "portuguese_translation": "Estar descaído, cambado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubenduka-1 — https://www.kimbundu.org/pt/word/kubenduka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7297,
+      "kimbundu_term": "Kubenduka",
+      "portuguese_translation": "Ficar inclinado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubenduka-1 — https://www.kimbundu.org/pt/word/kubenduka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7298,
+      "kimbundu_term": "Kubenduka",
+      "portuguese_translation": "Cambaleio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubenduka-1 — https://www.kimbundu.org/pt/word/kubenduka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7299,
+      "kimbundu_term": "Kubénga",
+      "portuguese_translation": "Lambujar",
+      "definition": null,
+      "alternative_meanings": [
+        "ser guloso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubénga-1 — https://www.kimbundu.org/pt/word/kubenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7300,
+      "kimbundu_term": "Kubénga",
+      "portuguese_translation": "Gulodice",
+      "definition": null,
+      "alternative_meanings": [
+        "glutonaria",
+        "Carácter de pessoa ou animal voraz"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubénga-1 — https://www.kimbundu.org/pt/word/kubenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7301,
+      "kimbundu_term": "Kúbenga",
+      "portuguese_translation": "Noivar",
+      "definition": null,
+      "alternative_meanings": [
+        "Cortejar a mulher com que se vai casar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbenga-1 — https://www.kimbundu.org/pt/word/kubenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7302,
+      "kimbundu_term": "Kúbenga",
+      "portuguese_translation": "Casamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbenga-1 — https://www.kimbundu.org/pt/word/kubenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7303,
+      "kimbundu_term": "Kubengala'a",
+      "portuguese_translation": "Estar torto",
+      "definition": null,
+      "alternative_meanings": [
+        "Estar desviado (da reta)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubengala'a-1 — https://www.kimbundu.org/pt/word/kubengala'a",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
