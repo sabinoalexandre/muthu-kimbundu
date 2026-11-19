@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4954,
+      "kimbundu_term": "Kifukunukinu",
+      "portuguese_translation": "Reaparição. Ressurgimento. Ressurreição",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifukunukinu-1 — https://www.kimbundu.org/pt/word/kifukunukinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4955,
+      "kimbundu_term": "Kifulu",
+      "portuguese_translation": "Espécie de mucilagem que se forma na superfície dos líquidos em fermentação. Asquerosidade. Espuma",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifulu-1 — https://www.kimbundu.org/pt/word/kifulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4956,
+      "kimbundu_term": "Kifulu",
+      "portuguese_translation": "Miope. Catacego. fig. Raiva",
+      "definition": null,
+      "alternative_meanings": [
+        "cólera",
+        "irritação"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifulu-1 — https://www.kimbundu.org/pt/word/kifulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4957,
+      "kimbundu_term": "Kifulu",
+      "portuguese_translation": "escuma",
+      "definition": null,
+      "alternative_meanings": [
+        "bolha. O que se forma à superfície das substâncias fermentadas. Reação produzida por um fermento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifulu-1 — https://www.kimbundu.org/pt/word/kifulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4958,
+      "kimbundu_term": "Kifumbe",
+      "portuguese_translation": "O que na divisão, tire a parte maior. Usurpador. O que se apossa do que lhe não pertence. Salteador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifumbe-1 — https://www.kimbundu.org/pt/word/kifumbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4959,
+      "kimbundu_term": "Kifunafe",
+      "portuguese_translation": "Torcedura",
+      "definition": null,
+      "alternative_meanings": [
+        "luxação",
+        "entorse. Deslocação de um osso para fora da sua cavidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifunafe-1 — https://www.kimbundu.org/pt/word/kifunafe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4960,
+      "kimbundu_term": "Kifundamenu",
+      "portuguese_translation": "Quarentena",
+      "definition": null,
+      "alternative_meanings": [
+        "quaresma. É tb adj"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifundamenu-1 — https://www.kimbundu.org/pt/word/kifundamenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4961,
+      "kimbundu_term": "Kifunde",
+      "portuguese_translation": "Pleito",
+      "definition": null,
+      "alternative_meanings": [
+        "demanda. Testemunho. Referência",
+        "sinal. O que se aponta como prova do alegado. Objeto demonstrativo da razão de quem pleiteia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifunde-1 — https://www.kimbundu.org/pt/word/kifunde",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4962,
+      "kimbundu_term": "Kifune",
+      "portuguese_translation": "Estalo das unhas na cabeça de outrem (como que catando-lha). É m. us. no pl. ifune",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kifune-1 — https://www.kimbundu.org/pt/word/kifune",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4963,
+      "kimbundu_term": "Kífúnga",
+      "portuguese_translation": "Almocreavaria. Conjunto de almocreves",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kífúnga-1 — https://www.kimbundu.org/pt/word/kifunga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
