@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 284,
+      "kimbundu_term": "Aná",
+      "portuguese_translation": "Designa os que estão afastados de quem fala e com quem se fala. Aquelas",
+      "definition": null,
+      "alternative_meanings": [
+        "aqueles (homens)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, aná-1 — https://www.kimbundu.org/pt/word/ana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 285,
+      "kimbundu_term": "Aná",
+      "portuguese_translation": "(pron. demonstr.) Os mesmos",
+      "definition": null,
+      "alternative_meanings": [
+        "aqueles outros. Serve para indicar as pessoas que não sabemos ou não queremos designar pelo nome: v. g"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, aná-1 — https://www.kimbundu.org/pt/word/ana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 286,
+      "kimbundu_term": "Anake",
+      "portuguese_translation": "Para exprimir admiração, surpresa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, anake-1 — https://www.kimbundu.org/pt/word/anake",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 287,
+      "kimbundu_term": "Ananyi",
+      "portuguese_translation": "Quais",
+      "definition": null,
+      "alternative_meanings": [
+        "que pessoas (entre outras)",
+        "quem",
+        "cujos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ananyi-1 — https://www.kimbundu.org/pt/word/ananyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 288,
+      "kimbundu_term": "Ananyi",
+      "portuguese_translation": "Alguns",
+      "definition": null,
+      "alternative_meanings": [
+        "quaisquer"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, interrogativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ananyi-1 — https://www.kimbundu.org/pt/word/ananyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 289,
+      "kimbundu_term": "Anda",
+      "portuguese_translation": "Palavra com que se forma o futuro dos verbos",
+      "definition": null,
+      "alternative_meanings": [
+        "hão-de"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, anda-1 — https://www.kimbundu.org/pt/word/anda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 290,
+      "kimbundu_term": "Andá",
+      "portuguese_translation": "Então",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, andá-1 — https://www.kimbundu.org/pt/word/anda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 291,
+      "kimbundu_term": "Anga",
+      "portuguese_translation": "Conj. que indica alternativa. Ou",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, anga-1 — https://www.kimbundu.org/pt/word/anga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 292,
+      "kimbundu_term": "Anga",
+      "portuguese_translation": "Apesar de",
+      "definition": null,
+      "alternative_meanings": [
+        "não obstante",
+        "ainda que: o menha,— m'alulu, ngi ma nuá",
+        "Todavia"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, anga-1 — https://www.kimbundu.org/pt/word/anga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 293,
+      "kimbundu_term": "Angene",
+      "portuguese_translation": "Os alheios",
+      "definition": null,
+      "alternative_meanings": [
+        "os outros"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, angene-1 — https://www.kimbundu.org/pt/word/angene",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
