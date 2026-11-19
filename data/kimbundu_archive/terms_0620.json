@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6304,
+      "kimbundu_term": "Kitálu",
+      "portuguese_translation": "Utensílio de madeira para torrar farinha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitálu-1 — https://www.kimbundu.org/pt/word/kitalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6305,
+      "kimbundu_term": "Kitalu",
+      "portuguese_translation": "Rasgão",
+      "definition": null,
+      "alternative_meanings": [
+        "arranhadura",
+        "unhada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitalu-1 — https://www.kimbundu.org/pt/word/kitalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6306,
+      "kimbundu_term": "Kitámba",
+      "portuguese_translation": "Fogueira de lenha para fazer carvão",
+      "definition": null,
+      "alternative_meanings": [
+        "Pira",
+        "fig. Braseiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitámba-1 — https://www.kimbundu.org/pt/word/kitamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6307,
+      "kimbundu_term": "Kitâmbi",
+      "portuguese_translation": "Catana de cabo comprido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitâmbi-1 — https://www.kimbundu.org/pt/word/kitambi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6308,
+      "kimbundu_term": "Kitâmbi",
+      "portuguese_translation": "Instrumento para roçar mato",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitâmbi-1 — https://www.kimbundu.org/pt/word/kitambi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6309,
+      "kimbundu_term": "Kitánda",
+      "portuguese_translation": "Mercado",
+      "definition": null,
+      "alternative_meanings": [
+        "feira",
+        "praça"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitánda-1 — https://www.kimbundu.org/pt/word/kitanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6310,
+      "kimbundu_term": "Kitánda",
+      "portuguese_translation": "Posto de venda de géneros frescos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitánda-1 — https://www.kimbundu.org/pt/word/kitanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6311,
+      "kimbundu_term": "Kitánda",
+      "portuguese_translation": "Loja de negócios",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitánda-1 — https://www.kimbundu.org/pt/word/kitanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6312,
+      "kimbundu_term": "Kitánda",
+      "portuguese_translation": "O que é suscetível de venda ambulante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitánda-1 — https://www.kimbundu.org/pt/word/kitanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6313,
+      "kimbundu_term": "Kitanda",
+      "portuguese_translation": "Talas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitanda-1 — https://www.kimbundu.org/pt/word/kitanda",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
