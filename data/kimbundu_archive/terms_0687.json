@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6974,
+      "kimbundu_term": "Kubadikinya",
+      "portuguese_translation": "Atafulhar, fechar, tapar à pressa",
+      "definition": null,
+      "alternative_meanings": [
+        "atabafar",
+        "impedir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubadikinya-1 — https://www.kimbundu.org/pt/word/kubadikinya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6975,
+      "kimbundu_term": "Kubadikinya",
+      "portuguese_translation": "Kuribarikinha, e r. Fechar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "calar-se",
+        "não se mover",
+        "ter os olhos fechados"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubadikinya-1 — https://www.kimbundu.org/pt/word/kubadikinya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6976,
+      "kimbundu_term": "Kubadikisa",
+      "portuguese_translation": "Mandar aviar, aligeirar, despachar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer vender a retalho"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubadikisa-1 — https://www.kimbundu.org/pt/word/kubadikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6977,
+      "kimbundu_term": "Kubadikisa",
+      "portuguese_translation": "Kuribarikisa, v. r. Fazer-se aviar, vestir ligeiramente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubadikisa-1 — https://www.kimbundu.org/pt/word/kubadikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6978,
+      "kimbundu_term": "Kubaiala",
+      "portuguese_translation": "Menear afetadamente (ao andar). Gingar. Bambolear",
+      "definition": null,
+      "alternative_meanings": [
+        "janotar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubaiala-1 — https://www.kimbundu.org/pt/word/kubaiala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6979,
+      "kimbundu_term": "Kubaiala",
+      "portuguese_translation": "Meneio afetado do corpo. Ginga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubaiala-1 — https://www.kimbundu.org/pt/word/kubaiala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6980,
+      "kimbundu_term": "Kubajuka",
+      "portuguese_translation": "Saltar, disparar, sair (do buraco). Ser arremessado, atirado, impelido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubajuka-1 — https://www.kimbundu.org/pt/word/kubajuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6981,
+      "kimbundu_term": "Kubajula",
+      "portuguese_translation": "Arremessar com violência e inopinadamente (através de um cano ou orifício). Disparar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer saltar, sair o tiro. Descarregar. Desfechar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubajula-1 — https://www.kimbundu.org/pt/word/kubajula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6982,
+      "kimbundu_term": "Kubajula",
+      "portuguese_translation": "Descarregar",
+      "definition": null,
+      "alternative_meanings": [
+        "Desfechar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubajula-1 — https://www.kimbundu.org/pt/word/kubajula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6983,
+      "kimbundu_term": "Kubáka",
+      "portuguese_translation": "Arregaçar (as calças, as mangas, etc.). Arremangar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubáka-1 — https://www.kimbundu.org/pt/word/kubaka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
