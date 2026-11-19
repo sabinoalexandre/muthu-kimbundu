@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18384,
+      "kimbundu_term": "Njongo-njongo",
+      "portuguese_translation": "Nadinha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, njongo-njongo-1 — https://www.kimbundu.org/pt/word/njongo-njongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18385,
+      "kimbundu_term": "Njongo-njongo",
+      "portuguese_translation": "Quase nada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, njongo-njongo-1 — https://www.kimbundu.org/pt/word/njongo-njongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18386,
+      "kimbundu_term": "Njongo-njongo",
+      "portuguese_translation": "Coisa mínima, insignificante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, njongo-njongo-1 — https://www.kimbundu.org/pt/word/njongo-njongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18387,
+      "kimbundu_term": "Njónjo",
+      "portuguese_translation": "Pequeno tumor que nasce na pálpebra do olho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, njónjo-1 — https://www.kimbundu.org/pt/word/njonjo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18388,
+      "kimbundu_term": "Njónjo",
+      "portuguese_translation": "Torsol",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, njónjo-1 — https://www.kimbundu.org/pt/word/njonjo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18389,
+      "kimbundu_term": "Njû'u",
+      "portuguese_translation": "melhor njilu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, njû'u-1 — https://www.kimbundu.org/pt/word/nju'u",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18390,
+      "kimbundu_term": "Njumbu",
+      "portuguese_translation": "Mortificação",
+      "definition": null,
+      "alternative_meanings": [
+        "Castigo",
+        "Punição que se aplica a um culpado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, njumbu-1 — https://www.kimbundu.org/pt/word/njumbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18391,
+      "kimbundu_term": "Njungu",
+      "portuguese_translation": "Branco e alourado. Louro. Que tem a cor e o cabelo louro. Por extensão: Fino",
+      "definition": null,
+      "alternative_meanings": [
+        "educado",
+        "correto. De maneiras delicadas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, njungu-1 — https://www.kimbundu.org/pt/word/njungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18392,
+      "kimbundu_term": "Njungu",
+      "portuguese_translation": "Ave trepadora de cor alourada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, njungu-2 — https://www.kimbundu.org/pt/word/njungu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18393,
+      "kimbundu_term": "Njunjumbala",
+      "portuguese_translation": "Pequeno pássaro dos desertos, que furta e cria os filhos dos outros. É também conhecido por kanjunj'a-mbala",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, njunjumbala-1 — https://www.kimbundu.org/pt/word/njunjumbala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
