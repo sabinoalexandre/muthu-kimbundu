@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10574,
+      "kimbundu_term": "Kûma",
+      "portuguese_translation": "Atmosfera",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kûma-1 — https://www.kimbundu.org/pt/word/kuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10575,
+      "kimbundu_term": "Kûma",
+      "portuguese_translation": "Tempo",
+      "definition": null,
+      "alternative_meanings": [
+        "espaço",
+        "dia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kûma-1 — https://www.kimbundu.org/pt/word/kuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10576,
+      "kimbundu_term": "Kûma",
+      "portuguese_translation": "Porte",
+      "definition": null,
+      "alternative_meanings": [
+        "lugar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kûma-1 — https://www.kimbundu.org/pt/word/kuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10577,
+      "kimbundu_term": "Kûma",
+      "portuguese_translation": "Ar",
+      "definition": null,
+      "alternative_meanings": [
+        "temperatura",
+        "grau de frio ou calor"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kûma-1 — https://www.kimbundu.org/pt/word/kuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10578,
+      "kimbundu_term": "Kûma",
+      "portuguese_translation": "O fluido que envolve a terra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kûma-1 — https://www.kimbundu.org/pt/word/kuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10579,
+      "kimbundu_term": "Kûma",
+      "portuguese_translation": "Clima",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kûma-1 — https://www.kimbundu.org/pt/word/kuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10580,
+      "kimbundu_term": "Kuma",
+      "portuguese_translation": "Que",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, conjunção, corografia, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuma-1 — https://www.kimbundu.org/pt/word/kuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10581,
+      "kimbundu_term": "Kuma",
+      "portuguese_translation": "O qual",
+      "definition": null,
+      "alternative_meanings": [
+        "do qual"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, conjunção, corografia, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuma-1 — https://www.kimbundu.org/pt/word/kuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10582,
+      "kimbundu_term": "Kuma",
+      "portuguese_translation": "integr. O seguinte",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, conjunção, corografia, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuma-1 — https://www.kimbundu.org/pt/word/kuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10583,
+      "kimbundu_term": "Kuma",
+      "portuguese_translation": "Importante afluente da margem esquerda do rio Kuime, distr. do Moxico, prov. do Bié",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome, conjunção, corografia, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuma-1 — https://www.kimbundu.org/pt/word/kuma",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
