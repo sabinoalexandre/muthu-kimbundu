@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 374,
+      "kimbundu_term": "Bê",
+      "portuguese_translation": "A letra B",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bê-1 — https://www.kimbundu.org/pt/word/be",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 375,
+      "kimbundu_term": "Bê",
+      "portuguese_translation": "Em que lugar? Onde? Em que parte?",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bê-1 — https://www.kimbundu.org/pt/word/be",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 376,
+      "kimbundu_term": "Bebényi",
+      "portuguese_translation": "Terreno de pouco pendor onde se cultiva milho, hortaliças, etc",
+      "definition": null,
+      "alternative_meanings": [
+        "várzea"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bebényi-1 — https://www.kimbundu.org/pt/word/bebenyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 377,
+      "kimbundu_term": "Belami",
+      "portuguese_translation": "Do português «beirame» (tecido)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, belami-1 — https://www.kimbundu.org/pt/word/belami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 378,
+      "kimbundu_term": "Belengenze",
+      "portuguese_translation": "Navalha (de barba)",
+      "definition": null,
+      "alternative_meanings": [
+        "faca de ponta e mola",
+        "navalhão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, belengenze-1 — https://www.kimbundu.org/pt/word/belengenze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 379,
+      "kimbundu_term": "Bendele",
+      "portuguese_translation": "Interjeição imitativa de um corpo que tomba",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bendele-1 — https://www.kimbundu.org/pt/word/bendele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 380,
+      "kimbundu_term": "Bengebénge",
+      "portuguese_translation": "Especialmente",
+      "definition": null,
+      "alternative_meanings": [
+        "principalmente",
+        "a começar por",
+        "essencialmente",
+        "em primeiro lugar"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bengebénge-1 — https://www.kimbundu.org/pt/word/bengebenge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 381,
+      "kimbundu_term": "Bengebénge",
+      "portuguese_translation": "(substantivo) o principal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bengebénge-1 — https://www.kimbundu.org/pt/word/bengebenge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 382,
+      "kimbundu_term": "Bêngi",
+      "portuguese_translation": "Em outro lugar",
+      "definition": null,
+      "alternative_meanings": [
+        "diferente",
+        "em outra parte",
+        "em sítio diferente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bêngi-1 — https://www.kimbundu.org/pt/word/bengi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 383,
+      "kimbundu_term": "Béngu",
+      "portuguese_translation": "Rato",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, béngu-1 — https://www.kimbundu.org/pt/word/bengu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
