@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15074,
+      "kimbundu_term": "Mbalâle",
+      "portuguese_translation": "Terreno destinado à sepultura de cadáveres humanos",
+      "definition": null,
+      "alternative_meanings": [
+        "cemitério",
+        "necrópole"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbalâle-1 — https://www.kimbundu.org/pt/word/mbalale",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15075,
+      "kimbundu_term": "Mbalâle",
+      "portuguese_translation": "Derrota",
+      "definition": null,
+      "alternative_meanings": [
+        "caminho",
+        "rumo",
+        "rota",
+        "grande estrada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbalâle-1 — https://www.kimbundu.org/pt/word/mbalale",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15076,
+      "kimbundu_term": "Mbalamatódia",
+      "portuguese_translation": "Palmatória (instrumento de suplício)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbalamatódia-1 — https://www.kimbundu.org/pt/word/mbalamatodia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15077,
+      "kimbundu_term": "Mbalambala",
+      "portuguese_translation": "Acólito",
+      "definition": null,
+      "alternative_meanings": [
+        "ajudante",
+        "discípulo",
+        "ordenança",
+        "executor das ordens de um chefe"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbalambala-1 — https://www.kimbundu.org/pt/word/mbalambala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15078,
+      "kimbundu_term": "Mbalambanda",
+      "portuguese_translation": "Nome por que na região do Seles e Amboim se dá a conhecer a árvore kitende",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbalambanda-1 — https://www.kimbundu.org/pt/word/mbalambanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15079,
+      "kimbundu_term": "Mbalamu",
+      "portuguese_translation": "Vaso de madeira em forma de canoa ou alguidar",
+      "definition": null,
+      "alternative_meanings": [
+        "gamela",
+        "escudela grande"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbalamu-1 — https://www.kimbundu.org/pt/word/mbalamu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15080,
+      "kimbundu_term": "Mbalanganza",
+      "portuguese_translation": "Inseto cujo abdómen termina em forma de tenaz",
+      "definition": null,
+      "alternative_meanings": [
+        "tesoura",
+        "bicha-cadela"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbalanganza-1 — https://www.kimbundu.org/pt/word/mbalanganza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15081,
+      "kimbundu_term": "Mbalaxia",
+      "portuguese_translation": "Melancia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbalaxia-1 — https://www.kimbundu.org/pt/word/mbalaxia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15082,
+      "kimbundu_term": "Mbâlu",
+      "portuguese_translation": "Insubordinado",
+      "definition": null,
+      "alternative_meanings": [
+        "revoltado. Bravo",
+        "selvagem. Indómito. Que anda a monte"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbâlu-1 — https://www.kimbundu.org/pt/word/mbalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15083,
+      "kimbundu_term": "Mbalu",
+      "portuguese_translation": "Pedaço de madeira comprido e estreito que se amarra ou se prega transversalmente a uma série de paus. Ripa. Haste de pal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbalu-1 — https://www.kimbundu.org/pt/word/mbalu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
