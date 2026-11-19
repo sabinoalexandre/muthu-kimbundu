@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14664,
+      "kimbundu_term": "Mákutu",
+      "portuguese_translation": "Enganar",
+      "definition": null,
+      "alternative_meanings": [
+        "falsear",
+        "mentir"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mákutu-1 — https://www.kimbundu.org/pt/word/makutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14665,
+      "kimbundu_term": "Mákutu",
+      "portuguese_translation": "Dizer mentiras",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mákutu-1 — https://www.kimbundu.org/pt/word/makutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14666,
+      "kimbundu_term": "Mákutu",
+      "portuguese_translation": "adj. e sub. Mentiroso",
+      "definition": null,
+      "alternative_meanings": [
+        "falsário"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mákutu-1 — https://www.kimbundu.org/pt/word/makutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14667,
+      "kimbundu_term": "Makuwa",
+      "portuguese_translation": "Machados",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makuwa-1 — https://www.kimbundu.org/pt/word/makuwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14668,
+      "kimbundu_term": "Makuwa",
+      "portuguese_translation": "Nome de certa tribo do interior de África, caracterizada por incisões na cara",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makuwa-1 — https://www.kimbundu.org/pt/word/makuwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14669,
+      "kimbundu_term": "Makuxi",
+      "portuguese_translation": "Quanto? Que número ou quantidade: malenge--?",
+      "definition": null,
+      "alternative_meanings": [
+        "adv. interrogativo. Que tempo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, interrogativo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makuxi-1 — https://www.kimbundu.org/pt/word/makuxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14670,
+      "kimbundu_term": "Makuzoka",
+      "portuguese_translation": "Disputas",
+      "definition": null,
+      "alternative_meanings": [
+        "contendas",
+        "Desentendimentos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makuzoka-1 — https://www.kimbundu.org/pt/word/makuzoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14671,
+      "kimbundu_term": "Makwinyi",
+      "portuguese_translation": "Dezenas. Grupos de dez",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makwinyi-1 — https://www.kimbundu.org/pt/word/makwinyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14672,
+      "kimbundu_term": "Makwinyi",
+      "portuguese_translation": "Vigésimos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, makwinyi-1 — https://www.kimbundu.org/pt/word/makwinyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14673,
+      "kimbundu_term": "Mal'ê",
+      "portuguese_translation": "para chamar atenção: «Ó rapazes!»",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mal'ê-1 — https://www.kimbundu.org/pt/word/mal'e",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
