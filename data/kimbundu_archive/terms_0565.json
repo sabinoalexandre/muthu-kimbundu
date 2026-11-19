@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5754,
+      "kimbundu_term": "Kingánja",
+      "portuguese_translation": "Casa de recolher cereais",
+      "definition": null,
+      "alternative_meanings": [
+        "Armazém",
+        "celeiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingánja-1 — https://www.kimbundu.org/pt/word/kinganja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5755,
+      "kimbundu_term": "Kinganji",
+      "portuguese_translation": "e pron. Certo",
+      "definition": null,
+      "alternative_meanings": [
+        "tal",
+        "Tanto",
+        "Não bem definido"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinganji-1 — https://www.kimbundu.org/pt/word/kinganji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5756,
+      "kimbundu_term": "Kinganji",
+      "portuguese_translation": "demonstr. Isto",
+      "definition": null,
+      "alternative_meanings": [
+        "aquilo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinganji-1 — https://www.kimbundu.org/pt/word/kinganji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5757,
+      "kimbundu_term": "Kingeleji",
+      "portuguese_translation": "Inglês",
+      "definition": null,
+      "alternative_meanings": [
+        "Britânico"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingeleji-1 — https://www.kimbundu.org/pt/word/kingeleji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5758,
+      "kimbundu_term": "Kingelengele",
+      "portuguese_translation": "Brinco",
+      "definition": null,
+      "alternative_meanings": [
+        "Arrecada",
+        "pingente",
+        "Campainha",
+        "uíso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingelengele-1 — https://www.kimbundu.org/pt/word/kingelengele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5759,
+      "kimbundu_term": "Kingelengende",
+      "portuguese_translation": "Caco de castanha de dendém",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingelengende-1 — https://www.kimbundu.org/pt/word/kingelengende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5760,
+      "kimbundu_term": "Kingenge",
+      "portuguese_translation": "Corrente",
+      "definition": null,
+      "alternative_meanings": [
+        "prisão",
+        "algema",
+        "Cadeia",
+        "Estado de quem se acha preso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingenge-1 — https://www.kimbundu.org/pt/word/kingenge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5761,
+      "kimbundu_term": "Kingéngu",
+      "portuguese_translation": "Cor avermelhada…",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingéngu-1 — https://www.kimbundu.org/pt/word/kingengu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5762,
+      "kimbundu_term": "Kingéngu",
+      "portuguese_translation": "lhada e brilhante",
+      "definition": null,
+      "alternative_meanings": [
+        "Púrpura"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingéngu-1 — https://www.kimbundu.org/pt/word/kingengu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5763,
+      "kimbundu_term": "Kingéngu",
+      "portuguese_translation": "Purpurino",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingéngu-1 — https://www.kimbundu.org/pt/word/kingengu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
