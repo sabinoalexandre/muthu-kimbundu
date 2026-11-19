@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16964,
+      "kimbundu_term": "Muondo",
+      "portuguese_translation": "Maldizer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muondo-1 — https://www.kimbundu.org/pt/word/muondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16965,
+      "kimbundu_term": "Muondóna",
+      "portuguese_translation": "Fortuna",
+      "definition": null,
+      "alternative_meanings": [
+        "fado",
+        "ventura"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muondóna-1 — https://www.kimbundu.org/pt/word/muondona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16966,
+      "kimbundu_term": "Muondóna",
+      "portuguese_translation": "Ente espiritual que se supõe encaminhar o homem para o bem, inspirar ou proteger",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muondóna-1 — https://www.kimbundu.org/pt/word/muondona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16967,
+      "kimbundu_term": "Muóngi",
+      "portuguese_translation": "Senador",
+      "definition": null,
+      "alternative_meanings": [
+        "edil"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muóngi-1 — https://www.kimbundu.org/pt/word/muongi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16968,
+      "kimbundu_term": "Muongóngo",
+      "portuguese_translation": "Coluna, espinha dorsal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muongóngo-1 — https://www.kimbundu.org/pt/word/muongongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16969,
+      "kimbundu_term": "Muongóngo",
+      "portuguese_translation": "Espinhaço",
+      "definition": null,
+      "alternative_meanings": [
+        "sustentáculo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muongóngo-1 — https://www.kimbundu.org/pt/word/muongongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16970,
+      "kimbundu_term": "Muóue",
+      "portuguese_translation": "Nadador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muóue-1 — https://www.kimbundu.org/pt/word/muoue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16971,
+      "kimbundu_term": "Muóze",
+      "portuguese_translation": "Ralador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muóze-1 — https://www.kimbundu.org/pt/word/muoze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16972,
+      "kimbundu_term": "Múpa",
+      "portuguese_translation": "Lugar de passagem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múpa-1 — https://www.kimbundu.org/pt/word/mupa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16973,
+      "kimbundu_term": "Múpa",
+      "portuguese_translation": "Diz-se do lugar onde, sobre pedras, se atravessa uma corrente de água",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múpa-1 — https://www.kimbundu.org/pt/word/mupa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
