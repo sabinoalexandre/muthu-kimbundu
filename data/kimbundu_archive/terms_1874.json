@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18844,
+      "kimbundu_term": "Rukombuésa",
+      "portuguese_translation": "Kurikombuesa, v. r. Vender-se: prostituir-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, rukombuésa-1 — https://www.kimbundu.org/pt/word/rukombuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18845,
+      "kimbundu_term": "Sabala",
+      "portuguese_translation": "Terra alagadiça. Campo inundado. Vasa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sabala-1 — https://www.kimbundu.org/pt/word/sabala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18846,
+      "kimbundu_term": "Sabatu",
+      "portuguese_translation": "Sapato",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sabatu-1 — https://www.kimbundu.org/pt/word/sabatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18847,
+      "kimbundu_term": "Sabhalalu",
+      "portuguese_translation": "Sobrado",
+      "definition": null,
+      "alternative_meanings": [
+        "casa de 1.º andar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sabhalalu-1 — https://www.kimbundu.org/pt/word/sabhalalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18848,
+      "kimbundu_term": "Sábhalu",
+      "portuguese_translation": "Sábado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sábhalu-1 — https://www.kimbundu.org/pt/word/sabhalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18849,
+      "kimbundu_term": "Sabhi",
+      "portuguese_translation": "Chave",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sabhi-1 — https://www.kimbundu.org/pt/word/sabhi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18850,
+      "kimbundu_term": "Sabhu",
+      "portuguese_translation": "Adágio",
+      "definition": null,
+      "alternative_meanings": [
+        "provérbio. Sentença moral. Ditado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sabhu-1 — https://www.kimbundu.org/pt/word/sabhu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18851,
+      "kimbundu_term": "Sabola",
+      "portuguese_translation": "Cebola",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sabola-1 — https://www.kimbundu.org/pt/word/sabola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18852,
+      "kimbundu_term": "Sadimu",
+      "portuguese_translation": "Pov. e sede da circ. civ. de Saurimo, vila Henrique de Carvalho, distr. da Lunda, prov. de Malanje, a 9º 39' 26\" de Lat.",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sadimu-1 — https://www.kimbundu.org/pt/word/sadimu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18853,
+      "kimbundu_term": "Sadinya",
+      "portuguese_translation": "Sardinha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sadinya-1 — https://www.kimbundu.org/pt/word/sadinya",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
