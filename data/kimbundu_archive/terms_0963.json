@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9734,
+      "kimbundu_term": "Kukulúla",
+      "portuguese_translation": "Raspadura",
+      "definition": null,
+      "alternative_meanings": [
+        "limpeza. É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukulúla-1 — https://www.kimbundu.org/pt/word/kukulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9735,
+      "kimbundu_term": "Kúkululu",
+      "portuguese_translation": "Bisavô. Avoengo",
+      "definition": null,
+      "alternative_meanings": [
+        "antepassado remoto"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkululu-1 — https://www.kimbundu.org/pt/word/kukululu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9736,
+      "kimbundu_term": "Kukulumuisa",
+      "portuguese_translation": "Baixar",
+      "definition": null,
+      "alternative_meanings": [
+        "ajudar a passar, a descer",
+        "Trazer ou levar para baixo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukulumuisa-1 — https://www.kimbundu.org/pt/word/kukulumuisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9737,
+      "kimbundu_term": "Kukulumuka",
+      "portuguese_translation": "Vir de cima para baixo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukulumuka-1 — https://www.kimbundu.org/pt/word/kukulumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9738,
+      "kimbundu_term": "Kukulumuka",
+      "portuguese_translation": "Seguir ou ir com a corrente",
+      "definition": null,
+      "alternative_meanings": [
+        "descer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukulumuka-1 — https://www.kimbundu.org/pt/word/kukulumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9739,
+      "kimbundu_term": "Kukulumuna",
+      "portuguese_translation": "Fazer descer, ir para baixo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukulumuna-1 — https://www.kimbundu.org/pt/word/kukulumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9740,
+      "kimbundu_term": "Kukuluta",
+      "portuguese_translation": "Esgadanhar",
+      "definition": null,
+      "alternative_meanings": [
+        "coçar com frenesi"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuluta-1 — https://www.kimbundu.org/pt/word/kukuluta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9741,
+      "kimbundu_term": "Kúkuma",
+      "portuguese_translation": "Enfadar",
+      "definition": null,
+      "alternative_meanings": [
+        "aborrecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkuma-1 — https://www.kimbundu.org/pt/word/kukuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9742,
+      "kimbundu_term": "Kúkuma",
+      "portuguese_translation": "Pesar",
+      "definition": null,
+      "alternative_meanings": [
+        "causar desprazer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkuma-1 — https://www.kimbundu.org/pt/word/kukuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9743,
+      "kimbundu_term": "Kúkuma",
+      "portuguese_translation": "Aborrecimento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkuma-1 — https://www.kimbundu.org/pt/word/kukuma",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
