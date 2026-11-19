@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 204,
+      "kimbundu_term": "Ake",
+      "portuguese_translation": "Agora mesmo",
+      "definition": null,
+      "alternative_meanings": [
+        "neste momento",
+        "sem perda de tempo. Veja-se aki"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ake-1 — https://www.kimbundu.org/pt/word/ake",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 205,
+      "kimbundu_term": "Akembi",
+      "portuguese_translation": "Janotas",
+      "definition": null,
+      "alternative_meanings": [
+        "que vestem à moda",
+        "dândis",
+        "casquilhos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akembi-1 — https://www.kimbundu.org/pt/word/akembi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 206,
+      "kimbundu_term": "Aki",
+      "portuguese_translation": "Neste mesmo instante",
+      "definition": null,
+      "alternative_meanings": [
+        "agora mesmo",
+        "sem demora",
+        "imediatamente"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, aki-1 — https://www.kimbundu.org/pt/word/aki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 207,
+      "kimbundu_term": "Akiki",
+      "portuguese_translation": "Agora",
+      "definition": null,
+      "alternative_meanings": [
+        "entretanto",
+        "neste tempo. Abreviatura de aba kiki"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akiki-1 — https://www.kimbundu.org/pt/word/akiki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 208,
+      "kimbundu_term": "Akini",
+      "portuguese_translation": "Dançadores",
+      "definition": null,
+      "alternative_meanings": [
+        "dançarinos",
+        "pessoas que dançam"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akini-1 — https://www.kimbundu.org/pt/word/akini",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 209,
+      "kimbundu_term": "Akoki",
+      "portuguese_translation": "Conjunto de pessoas empregadas no arrasto de uma coisa",
+      "definition": null,
+      "alternative_meanings": [
+        "arrastadores",
+        "rojadores",
+        "os que levam de rasto (algo) pelo chão"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akoki-1 — https://www.kimbundu.org/pt/word/akoki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 210,
+      "kimbundu_term": "Akuânyi",
+      "portuguese_translation": "Quais? Quem são? Que pessoas?",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akuânyi-1 — https://www.kimbundu.org/pt/word/akuanyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 211,
+      "kimbundu_term": "Akuenze",
+      "portuguese_translation": "Os esforçados",
+      "definition": null,
+      "alternative_meanings": [
+        "os valentes"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akuenze-1 — https://www.kimbundu.org/pt/word/akuenze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 212,
+      "kimbundu_term": "Akulu",
+      "portuguese_translation": "Finados",
+      "definition": null,
+      "alternative_meanings": [
+        "defuntos",
+        "os antepassados",
+        "os avoengos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akulu-1 — https://www.kimbundu.org/pt/word/akulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 213,
+      "kimbundu_term": "Akulu",
+      "portuguese_translation": "Advérbio, usado na locução Mu—: a seguir",
+      "definition": null,
+      "alternative_meanings": [
+        "imediatamente",
+        "a eito",
+        "in continenti",
+        "sem detença"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akulu-1 — https://www.kimbundu.org/pt/word/akulu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
