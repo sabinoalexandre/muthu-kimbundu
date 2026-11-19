@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5764,
+      "kimbundu_term": "Kingô",
+      "portuguese_translation": "Gratuitidade",
+      "definition": null,
+      "alternative_meanings": [
+        "Favor"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingô-1 — https://www.kimbundu.org/pt/word/kingo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5765,
+      "kimbundu_term": "Kingô",
+      "portuguese_translation": "Nada",
+      "definition": null,
+      "alternative_meanings": [
+        "cousa nenhuma"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingô-2 — https://www.kimbundu.org/pt/word/kingo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5766,
+      "kimbundu_term": "Kingô",
+      "portuguese_translation": "De favor. Gratuitamente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingô-3 — https://www.kimbundu.org/pt/word/kingo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5767,
+      "kimbundu_term": "Kingodi",
+      "portuguese_translation": "Coque",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingodi-1 — https://www.kimbundu.org/pt/word/kingodi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5768,
+      "kimbundu_term": "Kingoho",
+      "portuguese_translation": "Em vão",
+      "definition": null,
+      "alternative_meanings": [
+        "Debalde",
+        "Inutilmente"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingoho-1 — https://www.kimbundu.org/pt/word/kingoho",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5769,
+      "kimbundu_term": "Kingole",
+      "portuguese_translation": "Mexilhão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingole-1 — https://www.kimbundu.org/pt/word/kingole",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5770,
+      "kimbundu_term": "Kingololo",
+      "portuguese_translation": "Batraquio anfíbio",
+      "definition": null,
+      "alternative_meanings": [
+        "Rã"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingololo-1 — https://www.kimbundu.org/pt/word/kingololo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5771,
+      "kimbundu_term": "Kingolongolo",
+      "portuguese_translation": "Animal articulado miriápode",
+      "definition": null,
+      "alternative_meanings": [
+        "Escolopendra"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingolongolo-1 — https://www.kimbundu.org/pt/word/kingolongolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5772,
+      "kimbundu_term": "Kingolongondo",
+      "portuguese_translation": "Traste velho de pouco valor",
+      "definition": null,
+      "alternative_meanings": [
+        "Objeto que chocalha quando levado de um lugar para o outro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingolongondo-1 — https://www.kimbundu.org/pt/word/kingolongondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5773,
+      "kimbundu_term": "Kingómbe",
+      "portuguese_translation": "aument. de ngómbe",
+      "definition": null,
+      "alternative_meanings": [
+        "Búfalo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingómbe-1 — https://www.kimbundu.org/pt/word/kingombe",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
