@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6964,
+      "kimbundu_term": "Kubabula",
+      "portuguese_translation": "Passar pelo fogo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubabula-1 — https://www.kimbundu.org/pt/word/kubabula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6965,
+      "kimbundu_term": "Kubabula",
+      "portuguese_translation": "Chamuscar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubabula-1 — https://www.kimbundu.org/pt/word/kubabula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6966,
+      "kimbundu_term": "Kúbabulula",
+      "portuguese_translation": "Requeimar. Tornar a crestar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbabulula-1 — https://www.kimbundu.org/pt/word/kubabulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6967,
+      "kimbundu_term": "Kubabulúla",
+      "portuguese_translation": "Tornar a bater lentamente. Tornar a acalmar, a acalentar, a ninar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubabulúla-1 — https://www.kimbundu.org/pt/word/kubabulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6968,
+      "kimbundu_term": "Kubabulúla",
+      "portuguese_translation": "Diz-se do bater das asas e canto do galo pela madrugada velha",
+      "definition": null,
+      "alternative_meanings": [
+        "Tornar a bater (as asas)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubabulúla-1 — https://www.kimbundu.org/pt/word/kubabulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6969,
+      "kimbundu_term": "Kubadika",
+      "portuguese_translation": "Retalhar (negócio)",
+      "definition": null,
+      "alternative_meanings": [
+        "aviar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubadika-1 — https://www.kimbundu.org/pt/word/kubadika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6970,
+      "kimbundu_term": "Kubadika",
+      "portuguese_translation": "Ter posto de venda a retalho de artigos de negócio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubadika-1 — https://www.kimbundu.org/pt/word/kubadika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6971,
+      "kimbundu_term": "Kubadika",
+      "portuguese_translation": "Retalhamento",
+      "definition": null,
+      "alternative_meanings": [
+        "aviamento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubadika-1 — https://www.kimbundu.org/pt/word/kubadika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6972,
+      "kimbundu_term": "Kubadika",
+      "portuguese_translation": "Kuribarika, v. r. Aviar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "apressar-se (na venda)",
+        "despachar-se",
+        "vestir-se ligeiramente, com brevidade"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubadika-1 — https://www.kimbundu.org/pt/word/kubadika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6973,
+      "kimbundu_term": "Kubadikila",
+      "portuguese_translation": "Vender a retalho em",
+      "definition": null,
+      "alternative_meanings": [
+        "retalhar por"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubadikila-1 — https://www.kimbundu.org/pt/word/kubadikila",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
