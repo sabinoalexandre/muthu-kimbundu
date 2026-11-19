@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14324,
+      "kimbundu_term": "Lúvua",
+      "portuguese_translation": "Quantidade 9 vezes maior que outra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lúvua-1 — https://www.kimbundu.org/pt/word/luvua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14325,
+      "kimbundu_term": "Luvualu",
+      "portuguese_translation": "Sucessão",
+      "definition": null,
+      "alternative_meanings": [
+        "descendência. (Grafia melhor do que luvalu, mas menos usada)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, luvualu-1 — https://www.kimbundu.org/pt/word/luvualu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14326,
+      "kimbundu_term": "Luwana",
+      "portuguese_translation": "Quatro ou quarta vez. Quádruplo. sub. Quantidade ou número quadruplicado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, luwana-1 — https://www.kimbundu.org/pt/word/luwana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14327,
+      "kimbundu_term": "Luwana",
+      "portuguese_translation": "Quantidade ou nú[mero quadruplicado: kutanga —.]",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, luwana-1 — https://www.kimbundu.org/pt/word/luwana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14328,
+      "kimbundu_term": "Luwana",
+      "portuguese_translation": "mero quadruplicado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, luwana-1 — https://www.kimbundu.org/pt/word/luwana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14329,
+      "kimbundu_term": "Luxía",
+      "portuguese_translation": "Afluente da margem esquerda do rio Cassai, distr. da Lunda, prov. de Malange",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, luxía-1 — https://www.kimbundu.org/pt/word/luxia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14330,
+      "kimbundu_term": "Luxisa",
+      "portuguese_translation": "Seguimento",
+      "definition": null,
+      "alternative_meanings": [
+        "prática corrente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, luxisa-1 — https://www.kimbundu.org/pt/word/luxisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14331,
+      "kimbundu_term": "Luzuélu",
+      "portuguese_translation": "Loquela",
+      "definition": null,
+      "alternative_meanings": [
+        "verbosidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, luzuélu-1 — https://www.kimbundu.org/pt/word/luzuelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14332,
+      "kimbundu_term": "Lwa",
+      "portuguese_translation": "De",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "preposição, adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lwa-1 — https://www.kimbundu.org/pt/word/lwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14333,
+      "kimbundu_term": "Lwa",
+      "portuguese_translation": "Contr. da prep. e art. o, a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "preposição, adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lwa-1 — https://www.kimbundu.org/pt/word/lwa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
