@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7994,
+      "kimbundu_term": "Kubuualala",
+      "portuguese_translation": "Repousar",
+      "definition": null,
+      "alternative_meanings": [
+        "passar pelo sono"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuualala-1 — https://www.kimbundu.org/pt/word/kubuualala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7995,
+      "kimbundu_term": "Kubuuama",
+      "portuguese_translation": "Ficar absorto, pasmado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuuama-1 — https://www.kimbundu.org/pt/word/kubuuama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7996,
+      "kimbundu_term": "Kubuuama",
+      "portuguese_translation": "Estar alheio a quanto nos rodeia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuuama-1 — https://www.kimbundu.org/pt/word/kubuuama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7997,
+      "kimbundu_term": "Kubuuama",
+      "portuguese_translation": "Absorvimento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuuama-1 — https://www.kimbundu.org/pt/word/kubuuama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7998,
+      "kimbundu_term": "Kubuuika",
+      "portuguese_translation": "Tornar indeciso, perplexo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuuika-1 — https://www.kimbundu.org/pt/word/kubuuika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7999,
+      "kimbundu_term": "Kubuuika",
+      "portuguese_translation": "Abater o espírito de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuuika-1 — https://www.kimbundu.org/pt/word/kubuuika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8000,
+      "kimbundu_term": "Kubúza",
+      "portuguese_translation": "Depenar",
+      "definition": null,
+      "alternative_meanings": [
+        "espenicar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubúza-1 — https://www.kimbundu.org/pt/word/kubuza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8001,
+      "kimbundu_term": "Kubúza",
+      "portuguese_translation": "Desfolhar",
+      "definition": null,
+      "alternative_meanings": [
+        "arrancar erva (com as mãos)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubúza-1 — https://www.kimbundu.org/pt/word/kubuza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8002,
+      "kimbundu_term": "Kubúza",
+      "portuguese_translation": "Tirar",
+      "definition": null,
+      "alternative_meanings": [
+        "estorquir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubúza-1 — https://www.kimbundu.org/pt/word/kubuza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8003,
+      "kimbundu_term": "Kubúza",
+      "portuguese_translation": "Kuribuza, v.r. Depenar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "despir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubúza-1 — https://www.kimbundu.org/pt/word/kubuza",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
