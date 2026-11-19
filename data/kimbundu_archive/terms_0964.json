@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9744,
+      "kimbundu_term": "Kúkuma",
+      "portuguese_translation": "Aborrecer-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkuma-1 — https://www.kimbundu.org/pt/word/kukuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9745,
+      "kimbundu_term": "Kukumbama",
+      "portuguese_translation": "Estar moribundo, nos últimos momentos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumbama-1 — https://www.kimbundu.org/pt/word/kukumbama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9746,
+      "kimbundu_term": "Kukumbama",
+      "portuguese_translation": "Agonizar, estar a finar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumbama-1 — https://www.kimbundu.org/pt/word/kukumbama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9747,
+      "kimbundu_term": "Kukumbama",
+      "portuguese_translation": "Agonia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumbama-1 — https://www.kimbundu.org/pt/word/kukumbama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9748,
+      "kimbundu_term": "Kukumbamesa",
+      "portuguese_translation": "Assistir na agonia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumbamesa-1 — https://www.kimbundu.org/pt/word/kukumbamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9749,
+      "kimbundu_term": "Kukumbidila",
+      "portuguese_translation": "Cumprir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumbidila-1 — https://www.kimbundu.org/pt/word/kukumbidila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9750,
+      "kimbundu_term": "Kukumbika",
+      "portuguese_translation": "Defrontar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumbika-1 — https://www.kimbundu.org/pt/word/kukumbika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9751,
+      "kimbundu_term": "Kukumbika",
+      "portuguese_translation": "Deparar, encarar",
+      "definition": null,
+      "alternative_meanings": [
+        "confinar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumbika-1 — https://www.kimbundu.org/pt/word/kukumbika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9752,
+      "kimbundu_term": "Kukumbikinya",
+      "portuguese_translation": "Embuchar",
+      "definition": null,
+      "alternative_meanings": [
+        "embatucar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumbikinya-1 — https://www.kimbundu.org/pt/word/kukumbikinya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9753,
+      "kimbundu_term": "Kukumbikinya",
+      "portuguese_translation": "Ficar perplexo, engasgado (no falar)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukumbikinya-1 — https://www.kimbundu.org/pt/word/kukumbikinya",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
