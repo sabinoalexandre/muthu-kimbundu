@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3704,
+      "kimbundu_term": "Kamuéji",
+      "portuguese_translation": "Afluente do rio Lucala, no antigo conc. de Ambaca, distr. do Quanza-Norte, prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamuéji-1 — https://www.kimbundu.org/pt/word/kamueji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3705,
+      "kimbundu_term": "Kamueléle",
+      "portuguese_translation": "Planta da família das labiadas (becium)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamueléle-1 — https://www.kimbundu.org/pt/word/kamuelele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3706,
+      "kimbundu_term": "Kamuêlu",
+      "portuguese_translation": "Portinhola",
+      "definition": null,
+      "alternative_meanings": [
+        "Postigo",
+        "Fresta parcial em porta ou janela"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamuêlu-1 — https://www.kimbundu.org/pt/word/kamuelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3707,
+      "kimbundu_term": "Kamuélu",
+      "portuguese_translation": "Sovina",
+      "definition": null,
+      "alternative_meanings": [
+        "Pouco liberal",
+        "Que dá pouco. (Emprega-se em sentido jocoso)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamuélu-1 — https://www.kimbundu.org/pt/word/kamuelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3708,
+      "kimbundu_term": "Kamuényu",
+      "portuguese_translation": "Espiritual",
+      "definition": null,
+      "alternative_meanings": [
+        "Da vida ou a ela relativo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamuényu-1 — https://www.kimbundu.org/pt/word/kamuenyu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3709,
+      "kimbundu_term": "Kamuényu",
+      "portuguese_translation": "Alminha",
+      "definition": null,
+      "alternative_meanings": [
+        "Vidinha. Pl. tumiénhu"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamuényu-1 — https://www.kimbundu.org/pt/word/kamuenyu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3710,
+      "kimbundu_term": "Kamuézu",
+      "portuguese_translation": "Barbado",
+      "definition": null,
+      "alternative_meanings": [
+        "barbífero",
+        "Barbiças",
+        "Pessoa de queixo alongado ou saliente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamuézu-1 — https://www.kimbundu.org/pt/word/kamuezu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3711,
+      "kimbundu_term": "Kamuhála",
+      "portuguese_translation": "Mangusto",
+      "definition": null,
+      "alternative_meanings": [
+        "furão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamuhála-1 — https://www.kimbundu.org/pt/word/kamuhala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3712,
+      "kimbundu_term": "Kamuhála",
+      "portuguese_translation": "Pequeno afluente do rio Camuéji, no antigo conc. de Ambaca, distr. de Quanza-Norte, prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamuhála-1 — https://www.kimbundu.org/pt/word/kamuhala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3713,
+      "kimbundu_term": "Kamuhâtu",
+      "portuguese_translation": "Mulherzinha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamuhâtu-1 — https://www.kimbundu.org/pt/word/kamuhatu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
