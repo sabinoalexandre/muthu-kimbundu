@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9214,
+      "kimbundu_term": "Kukamuka",
+      "portuguese_translation": "Ficar compresso, exprimido. Diz-se dos objetos a que se exprime todo o líquido",
+      "definition": null,
+      "alternative_meanings": [
+        "da pessoa depois do banho ficando com o corpo enxuto",
+        "da carne de porco limpa de gordura, etc"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukamuka-1 — https://www.kimbundu.org/pt/word/kukamuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9215,
+      "kimbundu_term": "Kukamuka",
+      "portuguese_translation": "Enxugo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukamuka-1 — https://www.kimbundu.org/pt/word/kukamuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9216,
+      "kimbundu_term": "Kúkana",
+      "portuguese_translation": "Levar destino",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkana-1 — https://www.kimbundu.org/pt/word/kukana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9217,
+      "kimbundu_term": "Kúkana",
+      "portuguese_translation": "sub. Desígnio",
+      "definition": null,
+      "alternative_meanings": [
+        "destinação"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkana-1 — https://www.kimbundu.org/pt/word/kukana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9218,
+      "kimbundu_term": "Kukánda",
+      "portuguese_translation": "Cavar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer covas. Extrair da terra"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukánda-1 — https://www.kimbundu.org/pt/word/kukanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9219,
+      "kimbundu_term": "Kukánda",
+      "portuguese_translation": "(cavando)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukánda-1 — https://www.kimbundu.org/pt/word/kukanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9220,
+      "kimbundu_term": "Kukánda",
+      "portuguese_translation": "Cava",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukánda-1 — https://www.kimbundu.org/pt/word/kukanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9221,
+      "kimbundu_term": "Kukandála",
+      "portuguese_translation": "Cantar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukandála-1 — https://www.kimbundu.org/pt/word/kukandala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9222,
+      "kimbundu_term": "Kukandalala",
+      "portuguese_translation": "Recostar-se comodamente. Esteiriçar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukandalala-1 — https://www.kimbundu.org/pt/word/kukandalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9223,
+      "kimbundu_term": "Kukandama",
+      "portuguese_translation": "Aterrar",
+      "definition": null,
+      "alternative_meanings": [
+        "tapar (com terra)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukandama-1 — https://www.kimbundu.org/pt/word/kukandama",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
