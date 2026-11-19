@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6494,
+      "kimbundu_term": "Kiuáia",
+      "portuguese_translation": "Gato bravo",
+      "definition": null,
+      "alternative_meanings": [
+        "Mulher da rua",
+        "Vagabunda",
+        "meretriz"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiuáia-1 — https://www.kimbundu.org/pt/word/kiuaia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6495,
+      "kimbundu_term": "Kiuáne",
+      "portuguese_translation": "Divisível. Que se pode quartear ou dividir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiuáne-1 — https://www.kimbundu.org/pt/word/kiuane",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6496,
+      "kimbundu_term": "Kiuanuinu",
+      "portuguese_translation": "(III) Divisor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiuanuinu-1 — https://www.kimbundu.org/pt/word/kiuanuinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6497,
+      "kimbundu_term": "Kiuanuinu",
+      "portuguese_translation": "Dissensão",
+      "definition": null,
+      "alternative_meanings": [
+        "falta de harmonia, de concordância",
+        "Divisão de opiniões"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiuanuinu-1 — https://www.kimbundu.org/pt/word/kiuanuinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6498,
+      "kimbundu_term": "Kiúba",
+      "portuguese_translation": "Irmão uterino, materno",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiúba-1 — https://www.kimbundu.org/pt/word/kiuba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6499,
+      "kimbundu_term": "Kiúba",
+      "portuguese_translation": "Maternal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiúba-1 — https://www.kimbundu.org/pt/word/kiuba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6500,
+      "kimbundu_term": "Kiúbe",
+      "portuguese_translation": "Liberal",
+      "definition": null,
+      "alternative_meanings": [
+        "amigo de dar",
+        "Filantropo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiúbe-1 — https://www.kimbundu.org/pt/word/kiube",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6501,
+      "kimbundu_term": "Kiuéue",
+      "portuguese_translation": "(III) Jucundo",
+      "definition": null,
+      "alternative_meanings": [
+        "alegre",
+        "Festejado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiuéue-1 — https://www.kimbundu.org/pt/word/kiueue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6502,
+      "kimbundu_term": "Kiuéue",
+      "portuguese_translation": "Aurora",
+      "definition": null,
+      "alternative_meanings": [
+        "crepúsculo matutino",
+        "Alvor"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiuéue-1 — https://www.kimbundu.org/pt/word/kiueue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6503,
+      "kimbundu_term": "Kiuéue",
+      "portuguese_translation": "Alegria",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kiuéue-1 — https://www.kimbundu.org/pt/word/kiueue",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
