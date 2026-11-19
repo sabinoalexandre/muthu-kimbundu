@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17914,
+      "kimbundu_term": "Ne",
+      "portuguese_translation": "Consigo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, definido",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ne-1 — https://www.kimbundu.org/pt/word/ne",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17915,
+      "kimbundu_term": "Ne",
+      "portuguese_translation": "Junto",
+      "definition": null,
+      "alternative_meanings": [
+        "perto dele"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, definido",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ne-1 — https://www.kimbundu.org/pt/word/ne",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17916,
+      "kimbundu_term": "Né",
+      "portuguese_translation": "Apesar de",
+      "definition": null,
+      "alternative_meanings": [
+        "mesmo que"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, né-1 — https://www.kimbundu.org/pt/word/ne",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17917,
+      "kimbundu_term": "Né",
+      "portuguese_translation": "Embora",
+      "definition": null,
+      "alternative_meanings": [
+        "não: de maneira nenhuma"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, né-1 — https://www.kimbundu.org/pt/word/ne",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17918,
+      "kimbundu_term": "Né",
+      "portuguese_translation": "Ainda que",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, né-1 — https://www.kimbundu.org/pt/word/ne",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17919,
+      "kimbundu_term": "Né",
+      "portuguese_translation": "nada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, né-1 — https://www.kimbundu.org/pt/word/ne",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17920,
+      "kimbundu_term": "Né",
+      "portuguese_translation": "Coisa nenhuma",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, né-1 — https://www.kimbundu.org/pt/word/ne",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17921,
+      "kimbundu_term": "Nékulu",
+      "portuguese_translation": "Escravo",
+      "definition": null,
+      "alternative_meanings": [
+        "negro. (É termo insultuoso)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nékulu-1 — https://www.kimbundu.org/pt/word/nekulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17922,
+      "kimbundu_term": "Néla",
+      "portuguese_translation": "Anel",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, néla-1 — https://www.kimbundu.org/pt/word/nela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17923,
+      "kimbundu_term": "Nene",
+      "portuguese_translation": "Maiúsculo",
+      "definition": null,
+      "alternative_meanings": [
+        "grande"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nene-1 — https://www.kimbundu.org/pt/word/nene",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
