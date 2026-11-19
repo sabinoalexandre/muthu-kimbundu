@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17964,
+      "kimbundu_term": "Ngambu",
+      "portuguese_translation": "Árvore da família das leguminosas (afrormosia angolensis), resistente e incorruptível, utilizada para construções",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngambu-1 — https://www.kimbundu.org/pt/word/ngambu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17965,
+      "kimbundu_term": "Ngan'a-diiala",
+      "portuguese_translation": "Senhor",
+      "definition": null,
+      "alternative_meanings": [
+        "Dono da casa. Veja-se nganhala. Plural: ngana-ja-mala"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngan'a-diiala-1 — https://www.kimbundu.org/pt/word/ngan'a-diiala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17966,
+      "kimbundu_term": "Ngan'a-ndenge",
+      "portuguese_translation": "Jovem amo",
+      "definition": null,
+      "alternative_meanings": [
+        "O filho do dono da casa. Abreviatura de ngana-ia-ndenge. Plural: ngana-ja-ndenge"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngan'a-ndenge-1 — https://www.kimbundu.org/pt/word/ngan'a-ndenge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17967,
+      "kimbundu_term": "Ngan'ami",
+      "portuguese_translation": "(contração de ngana e iami) Meu amo",
+      "definition": null,
+      "alternative_meanings": [
+        "Meu senhor. Plural: ngana jami"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngan'ami-1 — https://www.kimbundu.org/pt/word/ngan'ami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17968,
+      "kimbundu_term": "Ngan'etu",
+      "portuguese_translation": "Nosso amo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngan'etu-1 — https://www.kimbundu.org/pt/word/ngan'etu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17969,
+      "kimbundu_term": "Ngan'etu",
+      "portuguese_translation": "Nosso senhor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngan'etu-1 — https://www.kimbundu.org/pt/word/ngan'etu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17970,
+      "kimbundu_term": "Ngan'etu",
+      "portuguese_translation": "Abreviatura de 'ngana ietu'",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngan'etu-1 — https://www.kimbundu.org/pt/word/ngan'etu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17971,
+      "kimbundu_term": "Ngana",
+      "portuguese_translation": "O que possui honras ou dinheiro",
+      "definition": null,
+      "alternative_meanings": [
+        "Senhor",
+        "dono",
+        "possuidor",
+        "dominador",
+        "Cavalheiro",
+        "homem de bons sentimentos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngana-1 — https://www.kimbundu.org/pt/word/ngana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17972,
+      "kimbundu_term": "Ngana",
+      "portuguese_translation": "Título que se dá às pessoas que se não tutelam",
+      "definition": null,
+      "alternative_meanings": [
+        "O dono ou dona de casa (com relação aos criados)",
+        "Senhora",
+        "Aquele que tem domínio sobre outro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngana-1 — https://www.kimbundu.org/pt/word/ngana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17973,
+      "kimbundu_term": "Ngana",
+      "portuguese_translation": "ngana-ia-riala. Veja-se nganhala",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngana-1 — https://www.kimbundu.org/pt/word/ngana",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
