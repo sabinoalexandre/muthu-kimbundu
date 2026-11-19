@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17494,
+      "kimbundu_term": "Muzádi",
+      "portuguese_translation": "Estendedor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzádi-1 — https://www.kimbundu.org/pt/word/muzadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17495,
+      "kimbundu_term": "Muzámba",
+      "portuguese_translation": "Árvore fam. das leguminosas (Berlinea tamarindoides), de boa madeira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzámba-1 — https://www.kimbundu.org/pt/word/muzamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17496,
+      "kimbundu_term": "Muzambidi",
+      "portuguese_translation": "Tolhador",
+      "definition": null,
+      "alternative_meanings": [
+        "Pessoa que cobre de colmo as casas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzambidi-1 — https://www.kimbundu.org/pt/word/muzambidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17497,
+      "kimbundu_term": "Muzambu",
+      "portuguese_translation": "Sortilégio",
+      "definition": null,
+      "alternative_meanings": [
+        "meio de adivinhar o futuro ou a doença que a pessoa tem",
+        "Bruxaria"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzambu-1 — https://www.kimbundu.org/pt/word/muzambu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17498,
+      "kimbundu_term": "Muzambu",
+      "portuguese_translation": "Adivinhar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzambu-1 — https://www.kimbundu.org/pt/word/muzambu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17499,
+      "kimbundu_term": "Muzambudi",
+      "portuguese_translation": "Cartomante",
+      "definition": null,
+      "alternative_meanings": [
+        "Adivinho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzambudi-1 — https://www.kimbundu.org/pt/word/muzambudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17500,
+      "kimbundu_term": "Múzanga",
+      "portuguese_translation": "Uzança",
+      "definition": null,
+      "alternative_meanings": [
+        "uso",
+        "Continuação",
+        "emprego frequente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múzanga-1 — https://www.kimbundu.org/pt/word/muzanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17501,
+      "kimbundu_term": "Muzangala",
+      "portuguese_translation": "Mancebo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzangala-1 — https://www.kimbundu.org/pt/word/muzangala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17502,
+      "kimbundu_term": "Muzánge",
+      "portuguese_translation": "Danificco",
+      "definition": null,
+      "alternative_meanings": [
+        "nocivo",
+        "Estragador",
+        "destruidor",
+        "Extravagante",
+        "esbanjador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzánge-1 — https://www.kimbundu.org/pt/word/muzange",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17503,
+      "kimbundu_term": "Muzánza",
+      "portuguese_translation": "Planta fam. das melastonáceas (Memecylon vogelii), de madeira rija e elástica e frutos comestíveis",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muzánza-1 — https://www.kimbundu.org/pt/word/muzanza",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
