@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5744,
+      "kimbundu_term": "Kînga",
+      "portuguese_translation": "Alto! Espera!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kînga-1 — https://www.kimbundu.org/pt/word/kinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5745,
+      "kimbundu_term": "Kingálu",
+      "portuguese_translation": "Balaio de luxo. Acafate enfeitado a missanga de várias cores, ngariama u ki tekujula ngo",
+      "definition": null,
+      "alternative_meanings": [
+        "Coisa bonita, de valor estimativo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingálu-1 — https://www.kimbundu.org/pt/word/kingalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5746,
+      "kimbundu_term": "Kingána",
+      "portuguese_translation": "Mamífero quadrúmano",
+      "definition": null,
+      "alternative_meanings": [
+        "Macaco grande",
+        "Babuíno",
+        "macaco-cão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingána-1 — https://www.kimbundu.org/pt/word/kingana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5747,
+      "kimbundu_term": "Kingandu",
+      "portuguese_translation": "Arurão",
+      "definition": null,
+      "alternative_meanings": [
+        "Arrebatador",
+        "destruidor",
+        "sanguinário",
+        "Cobarde"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingandu-1 — https://www.kimbundu.org/pt/word/kingandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5748,
+      "kimbundu_term": "Kingandu",
+      "portuguese_translation": "Planta fam. das leguminosas (Tephrosia vogelii), de propriedades narcóticas",
+      "definition": null,
+      "alternative_meanings": [
+        "Titim"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingandu-1 — https://www.kimbundu.org/pt/word/kingandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5749,
+      "kimbundu_term": "Kinganga",
+      "portuguese_translation": "Mau sacerdote. Falso profeta",
+      "definition": null,
+      "alternative_meanings": [
+        "Fingido",
+        "hipócrita"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kinganga-1 — https://www.kimbundu.org/pt/word/kinganga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5750,
+      "kimbundu_term": "Kingangaménu",
+      "portuguese_translation": "(III) Que faz azedar",
+      "definition": null,
+      "alternative_meanings": [
+        "Que tem acidez"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingangaménu-1 — https://www.kimbundu.org/pt/word/kingangamenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5751,
+      "kimbundu_term": "Kingangaménu",
+      "portuguese_translation": "O que torna azedo ou acerbo ao paladar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingangaménu-1 — https://www.kimbundu.org/pt/word/kingangamenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5752,
+      "kimbundu_term": "Kingange",
+      "portuguese_translation": "Da cor da carne",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingange-1 — https://www.kimbundu.org/pt/word/kingange",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5753,
+      "kimbundu_term": "Kingange",
+      "portuguese_translation": "Roaz",
+      "definition": null,
+      "alternative_meanings": [
+        "Mamífero cetáceo do gen. golfinho, tb. conhecido por «porco-marinho»",
+        "Toninha"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kingange-1 — https://www.kimbundu.org/pt/word/kingange",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
