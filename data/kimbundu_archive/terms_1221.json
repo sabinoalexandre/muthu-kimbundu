@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12314,
+      "kimbundu_term": "Kutendula",
+      "portuguese_translation": "Não ter (alguém) no devido apreço",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutendula-2 — https://www.kimbundu.org/pt/word/kutendula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12315,
+      "kimbundu_term": "Kutendula",
+      "portuguese_translation": "Desprimorar",
+      "definition": null,
+      "alternative_meanings": [
+        "deslustrar",
+        "dar ao desprezo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutendula-2 — https://www.kimbundu.org/pt/word/kutendula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12316,
+      "kimbundu_term": "Kutendula",
+      "portuguese_translation": "Kuritendula, v. r. Dedignar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutendula-2 — https://www.kimbundu.org/pt/word/kutendula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12317,
+      "kimbundu_term": "Kutendumuna",
+      "portuguese_translation": "Fazer estendal",
+      "definition": null,
+      "alternative_meanings": [
+        "dar brado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutendumuna-1 — https://www.kimbundu.org/pt/word/kutendumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12318,
+      "kimbundu_term": "Kutendumuna",
+      "portuguese_translation": "Estrepitar",
+      "definition": null,
+      "alternative_meanings": [
+        "soar alto"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutendumuna-1 — https://www.kimbundu.org/pt/word/kutendumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12319,
+      "kimbundu_term": "Kutendumuna",
+      "portuguese_translation": "É também recíproco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutendumuna-1 — https://www.kimbundu.org/pt/word/kutendumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12320,
+      "kimbundu_term": "Kutenena",
+      "portuguese_translation": "Estar completo, exato, certo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutenena-1 — https://www.kimbundu.org/pt/word/kutenena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12321,
+      "kimbundu_term": "Kutenena",
+      "portuguese_translation": "A que não falta nada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutenena-1 — https://www.kimbundu.org/pt/word/kutenena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12322,
+      "kimbundu_term": "Kutenesa",
+      "portuguese_translation": "Inteirar",
+      "definition": null,
+      "alternative_meanings": [
+        "completar (o que falta)",
+        "Totalizar",
+        "prefazer: ng'atenesa izuua llatu",
+        "Dar a",
+        "tornar possível"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutenesa-1 — https://www.kimbundu.org/pt/word/kutenesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12323,
+      "kimbundu_term": "Kutenesena",
+      "portuguese_translation": "Contribuir para que outrem supra à falta",
+      "definition": null,
+      "alternative_meanings": [
+        "Ajudar a completar",
+        "Favorecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutenesena-1 — https://www.kimbundu.org/pt/word/kutenesena",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
