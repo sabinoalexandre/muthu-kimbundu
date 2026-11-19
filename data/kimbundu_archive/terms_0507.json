@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5174,
+      "kimbundu_term": "Kikambe",
+      "portuguese_translation": "Faltoso",
+      "definition": null,
+      "alternative_meanings": [
+        "ausente",
+        "Que não responde à chamada"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikambe-1 — https://www.kimbundu.org/pt/word/kikambe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5175,
+      "kimbundu_term": "Kikami",
+      "portuguese_translation": "Prensado",
+      "definition": null,
+      "alternative_meanings": [
+        "espremido"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikami-1 — https://www.kimbundu.org/pt/word/kikami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5176,
+      "kimbundu_term": "Kikami",
+      "portuguese_translation": "Resíduo de fruto espremido. Ver plural ikami",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikami-1 — https://www.kimbundu.org/pt/word/kikami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5177,
+      "kimbundu_term": "Kikânda",
+      "portuguese_translation": "Conjunto de plantas cujas raízes formam entre si um bloco sólido e flutuante no meio de uma lagoa",
+      "definition": null,
+      "alternative_meanings": [
+        "Pedaço de terra ervada deslocado de um continente",
+        "Ilhota flutuante"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikânda-1 — https://www.kimbundu.org/pt/word/kikanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5178,
+      "kimbundu_term": "Kikane",
+      "portuguese_translation": "Proposto",
+      "definition": null,
+      "alternative_meanings": [
+        "destinado",
+        "dirigido",
+        "Que tem destino"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikane-1 — https://www.kimbundu.org/pt/word/kikane",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5179,
+      "kimbundu_term": "Kikane",
+      "portuguese_translation": "O que se destina",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikane-1 — https://www.kimbundu.org/pt/word/kikane",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5180,
+      "kimbundu_term": "Kikanenu",
+      "portuguese_translation": "Premeditação, reserva",
+      "definition": null,
+      "alternative_meanings": [
+        "Ameaça",
+        "propósito",
+        "Intenção tomada em mau sentido",
+        "Voto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikanenu-1 — https://www.kimbundu.org/pt/word/kikanenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5181,
+      "kimbundu_term": "Kikanga",
+      "portuguese_translation": "Terreiro",
+      "definition": null,
+      "alternative_meanings": [
+        "praça",
+        "Lugar espaçoso em que se combate ou diverte"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikanga-1 — https://www.kimbundu.org/pt/word/kikanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5182,
+      "kimbundu_term": "Kikanga",
+      "portuguese_translation": "Lugar na ilha de Luanda entre o «Coqueiro» e o «Lelo»",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikanga-1 — https://www.kimbundu.org/pt/word/kikanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5183,
+      "kimbundu_term": "Kikanga",
+      "portuguese_translation": "Povoação no concelho do Ambriz, caminho do Bembe, distrito de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kikanga-1 — https://www.kimbundu.org/pt/word/kikanga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
