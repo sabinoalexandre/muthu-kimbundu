@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9684,
+      "kimbundu_term": "Kukudikila",
+      "portuguese_translation": "Acrescentar",
+      "definition": null,
+      "alternative_meanings": [
+        "ajuntar",
+        "tornar maior"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukudikila-1 — https://www.kimbundu.org/pt/word/kukudikila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9685,
+      "kimbundu_term": "Kukudikila",
+      "portuguese_translation": "Adicionamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukudikila-1 — https://www.kimbundu.org/pt/word/kukudikila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9686,
+      "kimbundu_term": "Kukudikila",
+      "portuguese_translation": "Kurikurikila, v. r. Aumentar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "crescer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukudikila-1 — https://www.kimbundu.org/pt/word/kukudikila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9687,
+      "kimbundu_term": "Kukudikisa",
+      "portuguese_translation": "Fazer acrescentar, somar, aumentar",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer crescer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukudikisa-1 — https://www.kimbundu.org/pt/word/kukudikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9688,
+      "kimbundu_term": "Kukudila",
+      "portuguese_translation": "Acudir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukudila-1 — https://www.kimbundu.org/pt/word/kukudila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9689,
+      "kimbundu_term": "Kukudisa",
+      "portuguese_translation": "Fazer aumentar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar maior"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukudisa-1 — https://www.kimbundu.org/pt/word/kukudisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9690,
+      "kimbundu_term": "Kukudisa",
+      "portuguese_translation": "Mandar resgatar, rehavendo o que se deu em penhor",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer expiar, remir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukudisa-1 — https://www.kimbundu.org/pt/word/kukudisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9691,
+      "kimbundu_term": "Kukudisa",
+      "portuguese_translation": "Kurikurisa, v. r. Elevar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "engrandecer-se",
+        "Fazer-se resgatar, remir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukudisa-1 — https://www.kimbundu.org/pt/word/kukudisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9692,
+      "kimbundu_term": "Kukuela",
+      "portuguese_translation": "Consorciar",
+      "definition": null,
+      "alternative_meanings": [
+        "unir-se (a uma mulher)",
+        "Tratar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuela-1 — https://www.kimbundu.org/pt/word/kukuela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9693,
+      "kimbundu_term": "Kukuela",
+      "portuguese_translation": "Trato",
+      "definition": null,
+      "alternative_meanings": [
+        "consórcio"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuela-1 — https://www.kimbundu.org/pt/word/kukuela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
