@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11574,
+      "kimbundu_term": "Kúsema",
+      "portuguese_translation": "Ansiar",
+      "definition": null,
+      "alternative_meanings": [
+        "ter apetites"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsema-1 — https://www.kimbundu.org/pt/word/kusema",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11575,
+      "kimbundu_term": "Kúsema",
+      "portuguese_translation": "e r. Antojar",
+      "definition": null,
+      "alternative_meanings": [
+        "desejar",
+        "apetecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsema-1 — https://www.kimbundu.org/pt/word/kusema",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11576,
+      "kimbundu_term": "Kúsema",
+      "portuguese_translation": "Escarificar",
+      "definition": null,
+      "alternative_meanings": [
+        "sarjar",
+        "Golpear",
+        "fazer incisões na pele"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsema-1 — https://www.kimbundu.org/pt/word/kusema",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11577,
+      "kimbundu_term": "Kúsema",
+      "portuguese_translation": "Desejo",
+      "definition": null,
+      "alternative_meanings": [
+        "Sarjação",
+        "incisão"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsema-1 — https://www.kimbundu.org/pt/word/kusema",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11578,
+      "kimbundu_term": "Kusémba",
+      "portuguese_translation": "Agradar",
+      "definition": null,
+      "alternative_meanings": [
+        "Galantear",
+        "desvanecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusémba-1 — https://www.kimbundu.org/pt/word/kusemba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11579,
+      "kimbundu_term": "Kusémba",
+      "portuguese_translation": "Desvanecimento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusémba-1 — https://www.kimbundu.org/pt/word/kusemba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11580,
+      "kimbundu_term": "Kusémba",
+      "portuguese_translation": "Kurisémba, v. r. Vangloriar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer-se dengue"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusémba-1 — https://www.kimbundu.org/pt/word/kusemba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11581,
+      "kimbundu_term": "Kusembesa",
+      "portuguese_translation": "Fazer agradar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusembesa-1 — https://www.kimbundu.org/pt/word/kusembesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11582,
+      "kimbundu_term": "Kusembesa",
+      "portuguese_translation": "inspirar desvanecimento a",
+      "definition": null,
+      "alternative_meanings": [
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusembesa-1 — https://www.kimbundu.org/pt/word/kusembesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11583,
+      "kimbundu_term": "Kusemesa",
+      "portuguese_translation": "Fazer ter ânsias, desejos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusemesa-1 — https://www.kimbundu.org/pt/word/kusemesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
