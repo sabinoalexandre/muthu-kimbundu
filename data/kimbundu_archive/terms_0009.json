@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 194,
+      "kimbundu_term": "Ajitu",
+      "portuguese_translation": "Respeitosos",
+      "definition": null,
+      "alternative_meanings": [
+        "corteses",
+        "atenciosos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ajitu-1 — https://www.kimbundu.org/pt/word/ajitu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 195,
+      "kimbundu_term": "Aka",
+      "portuguese_translation": "Esta",
+      "definition": null,
+      "alternative_meanings": [
+        "este. Abreviatura de kaka, koka"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, aka-1 — https://www.kimbundu.org/pt/word/aka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 196,
+      "kimbundu_term": "Akaj'a-mona",
+      "portuguese_translation": "Noras. Veja-se jimbalakaji",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akaj'a-mona-1 — https://www.kimbundu.org/pt/word/akaj'a-mona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 197,
+      "kimbundu_term": "Akaji",
+      "portuguese_translation": "Esposas",
+      "definition": null,
+      "alternative_meanings": [
+        "mulheres, amantes (com relação aos homens com que vivem)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akaji-1 — https://www.kimbundu.org/pt/word/akaji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 198,
+      "kimbundu_term": "Akajina",
+      "portuguese_translation": "Mulheres de homem comum",
+      "definition": null,
+      "alternative_meanings": [
+        "comborças"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akajina-1 — https://www.kimbundu.org/pt/word/akajina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 199,
+      "kimbundu_term": "Akalakadi",
+      "portuguese_translation": "Trabalhadores",
+      "definition": null,
+      "alternative_meanings": [
+        "obreiros",
+        "operários",
+        "amigos do trabalho"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akalakadi-1 — https://www.kimbundu.org/pt/word/akalakadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 200,
+      "kimbundu_term": "Akalakadi",
+      "portuguese_translation": "Produtores",
+      "definition": null,
+      "alternative_meanings": [
+        "que vivem do trabalho"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akalakadi-1 — https://www.kimbundu.org/pt/word/akalakadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 201,
+      "kimbundu_term": "Akamukwa",
+      "portuguese_translation": "Outras",
+      "definition": null,
+      "alternative_meanings": [
+        "outros",
+        "não estes",
+        "diferentes",
+        "restantes",
+        "seguintes"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akamukwa-1 — https://www.kimbundu.org/pt/word/akamukwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 202,
+      "kimbundu_term": "Akamukwa",
+      "portuguese_translation": "Os alheios",
+      "definition": null,
+      "alternative_meanings": [
+        "os outros"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akamukwa-1 — https://www.kimbundu.org/pt/word/akamukwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 203,
+      "kimbundu_term": "Akándi",
+      "portuguese_translation": "Cavadores",
+      "definition": null,
+      "alternative_meanings": [
+        "coveiros",
+        "homens que abrem covas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, akándi-1 — https://www.kimbundu.org/pt/word/akandi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
