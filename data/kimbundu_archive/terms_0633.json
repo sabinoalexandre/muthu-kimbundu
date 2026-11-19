@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6434,
+      "kimbundu_term": "Kituenze",
+      "portuguese_translation": "Planta fam. das leguminosas (albizia coriaria), utilizada para sombra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kituenze-1 — https://www.kimbundu.org/pt/word/kituenze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6435,
+      "kimbundu_term": "Kituinu",
+      "portuguese_translation": "Instrumento vingador",
+      "definition": null,
+      "alternative_meanings": [
+        "Que serve para exercer vingança, para tirar desforra"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kituinu-1 — https://www.kimbundu.org/pt/word/kituinu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6436,
+      "kimbundu_term": "Kituji",
+      "portuguese_translation": "Coisa excrementícia, que cheira mal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kituji-1 — https://www.kimbundu.org/pt/word/kituji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6437,
+      "kimbundu_term": "Kituji",
+      "portuguese_translation": "Ignaro",
+      "definition": null,
+      "alternative_meanings": [
+        "imbecil",
+        "estúpido"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kituji-1 — https://www.kimbundu.org/pt/word/kituji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6438,
+      "kimbundu_term": "Kitúku",
+      "portuguese_translation": "Choupa",
+      "definition": null,
+      "alternative_meanings": [
+        "Instrumento para abater reses"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitúku-1 — https://www.kimbundu.org/pt/word/kituku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6439,
+      "kimbundu_term": "Kitúkulu",
+      "portuguese_translation": "Ocasião",
+      "definition": null,
+      "alternative_meanings": [
+        "oportunidade (que podemos aproveitar)",
+        "Lance",
+        "vez"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitúkulu-1 — https://www.kimbundu.org/pt/word/kitukulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6440,
+      "kimbundu_term": "Kitukuluke",
+      "portuguese_translation": "Casual",
+      "definition": null,
+      "alternative_meanings": [
+        "convergente",
+        "Que aparece (sem ser esperado)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitukuluke-1 — https://www.kimbundu.org/pt/word/kitukuluke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6441,
+      "kimbundu_term": "Kitukuluke",
+      "portuguese_translation": "Emergência",
+      "definition": null,
+      "alternative_meanings": [
+        "aparecimento",
+        "O que pode aparecer",
+        "Sucesso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitukuluke-1 — https://www.kimbundu.org/pt/word/kitukuluke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6442,
+      "kimbundu_term": "Kitukumuise",
+      "portuguese_translation": "Assustador",
+      "definition": null,
+      "alternative_meanings": [
+        "Espantoso",
+        "Que causa susto",
+        "que é motivo de pasmo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitukumuise-1 — https://www.kimbundu.org/pt/word/kitukumuise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6443,
+      "kimbundu_term": "Kitukumuke",
+      "portuguese_translation": "Surpreendente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kitukumuke-1 — https://www.kimbundu.org/pt/word/kitukumuke",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
