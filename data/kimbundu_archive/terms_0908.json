@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9184,
+      "kimbundu_term": "Kukalumuka",
+      "portuguese_translation": "Estrondear",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukalumuka-1 — https://www.kimbundu.org/pt/word/kukalumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9185,
+      "kimbundu_term": "Kukalumuka",
+      "portuguese_translation": "Bramir de raiva, de furor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukalumuka-1 — https://www.kimbundu.org/pt/word/kukalumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9186,
+      "kimbundu_term": "Kukalumuka",
+      "portuguese_translation": "Rugir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukalumuka-1 — https://www.kimbundu.org/pt/word/kukalumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9187,
+      "kimbundu_term": "Kukalumuna",
+      "portuguese_translation": "Escalar",
+      "definition": null,
+      "alternative_meanings": [
+        "arranhar fundamente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukalumuna-1 — https://www.kimbundu.org/pt/word/kukalumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9188,
+      "kimbundu_term": "Kukalumuna",
+      "portuguese_translation": "Agatanhar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer rasgões"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukalumuna-1 — https://www.kimbundu.org/pt/word/kukalumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9189,
+      "kimbundu_term": "Kukalumuna",
+      "portuguese_translation": "Kurkalumuna, e r. Declarar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "abrir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukalumuna-1 — https://www.kimbundu.org/pt/word/kukalumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9190,
+      "kimbundu_term": "Kúkama",
+      "portuguese_translation": "Prensar",
+      "definition": null,
+      "alternative_meanings": [
+        "expremer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkama-1 — https://www.kimbundu.org/pt/word/kukama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9191,
+      "kimbundu_term": "Kúkama",
+      "portuguese_translation": "Amarrotar",
+      "definition": null,
+      "alternative_meanings": [
+        "retorcer",
+        "comprimir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkama-1 — https://www.kimbundu.org/pt/word/kukama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9192,
+      "kimbundu_term": "Kúkama",
+      "portuguese_translation": "É tb. intr. e r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkama-1 — https://www.kimbundu.org/pt/word/kukama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9193,
+      "kimbundu_term": "Kukamata",
+      "portuguese_translation": "Estrangular",
+      "definition": null,
+      "alternative_meanings": [
+        "sufocar (com as mãos)",
+        "obstringir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukamata-1 — https://www.kimbundu.org/pt/word/kukamata",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
