@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11984,
+      "kimbundu_term": "Kuswekela",
+      "portuguese_translation": "Dissimular",
+      "definition": null,
+      "alternative_meanings": [
+        "negar (a verdade)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuswekela-1 — https://www.kimbundu.org/pt/word/kuswekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11985,
+      "kimbundu_term": "Kuswekela",
+      "portuguese_translation": "Ocultar",
+      "definition": null,
+      "alternative_meanings": [
+        "iludir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuswekela-1 — https://www.kimbundu.org/pt/word/kuswekela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11986,
+      "kimbundu_term": "Kuswina",
+      "portuguese_translation": "Esforçar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar-se forte"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuswina-1 — https://www.kimbundu.org/pt/word/kuswina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11987,
+      "kimbundu_term": "Kuswina",
+      "portuguese_translation": "Animar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "ter coragem"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuswina-1 — https://www.kimbundu.org/pt/word/kuswina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11988,
+      "kimbundu_term": "Kuswina",
+      "portuguese_translation": "Esforço",
+      "definition": null,
+      "alternative_meanings": [
+        "emprego de energia, de vigor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuswina-1 — https://www.kimbundu.org/pt/word/kuswina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11989,
+      "kimbundu_term": "Kuswinisa",
+      "portuguese_translation": "Esforçar",
+      "definition": null,
+      "alternative_meanings": [
+        "dar alento a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuswinisa-1 — https://www.kimbundu.org/pt/word/kuswinisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11990,
+      "kimbundu_term": "Kuswinisa",
+      "portuguese_translation": "Reforçar",
+      "definition": null,
+      "alternative_meanings": [
+        "estimular",
+        "exortar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuswinisa-1 — https://www.kimbundu.org/pt/word/kuswinisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11991,
+      "kimbundu_term": "Kuta",
+      "portuguese_translation": "Verbo transitivo: dar providências. Tratar de arranjar, de obter. Providenciar. Ordenar",
+      "definition": null,
+      "alternative_meanings": [
+        "abastecer",
+        "dispor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuta-1 — https://www.kimbundu.org/pt/word/kuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11992,
+      "kimbundu_term": "Kuta",
+      "portuguese_translation": "Verbo intransitivo: prover",
+      "definition": null,
+      "alternative_meanings": [
+        "tomar providências. Ter cuidado em. Cuidar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuta-1 — https://www.kimbundu.org/pt/word/kuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11993,
+      "kimbundu_term": "Kuta",
+      "portuguese_translation": "Determinar por cálculos",
+      "definition": null,
+      "alternative_meanings": [
+        "Calcular",
+        "Fazer cálculos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuta-2 — https://www.kimbundu.org/pt/word/kuta",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
