@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 854,
+      "kimbundu_term": "Díjiji",
+      "portuguese_translation": "Pertinácia",
+      "definition": null,
+      "alternative_meanings": [
+        "birra",
+        "teima. Persistência"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, díjiji-1 — https://www.kimbundu.org/pt/word/dijiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 855,
+      "kimbundu_term": "Dijikame",
+      "portuguese_translation": "Defeso",
+      "definition": null,
+      "alternative_meanings": [
+        "que impede",
+        "proibitivo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dijikame-1 — https://www.kimbundu.org/pt/word/dijikame",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 856,
+      "kimbundu_term": "Dijikame",
+      "portuguese_translation": "Restrição",
+      "definition": null,
+      "alternative_meanings": [
+        "proibição"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dijikame-1 — https://www.kimbundu.org/pt/word/dijikame",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 857,
+      "kimbundu_term": "Díjiku",
+      "portuguese_translation": "Lar",
+      "definition": null,
+      "alternative_meanings": [
+        "seio da família. Lareira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, díjiku-1 — https://www.kimbundu.org/pt/word/dijiku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 858,
+      "kimbundu_term": "Dijimbululu",
+      "portuguese_translation": "Coisa por via da qual se chega à compreensão de outra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dijimbululu-1 — https://www.kimbundu.org/pt/word/dijimbululu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 859,
+      "kimbundu_term": "Dijimu",
+      "portuguese_translation": "Dízimo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dijimu-1 — https://www.kimbundu.org/pt/word/dijimu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 860,
+      "kimbundu_term": "Dijina",
+      "portuguese_translation": "Nome",
+      "definition": null,
+      "alternative_meanings": [
+        "apelido",
+        "alcunha"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dijina-1 — https://www.kimbundu.org/pt/word/dijina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 861,
+      "kimbundu_term": "Dijina",
+      "portuguese_translation": "Nome que se adota da pia batismal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dijina-1 — https://www.kimbundu.org/pt/word/dijina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 862,
+      "kimbundu_term": "Dijina",
+      "portuguese_translation": "Nome indígena dado à nascença",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dijina-1 — https://www.kimbundu.org/pt/word/dijina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 863,
+      "kimbundu_term": "Dijina",
+      "portuguese_translation": "Homonímia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dijina-1 — https://www.kimbundu.org/pt/word/dijina",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
