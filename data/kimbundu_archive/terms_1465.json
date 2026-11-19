@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14754,
+      "kimbundu_term": "Mâmi",
+      "portuguese_translation": "(contr. da prep. ma e do pron. pess. ese). Meus",
+      "definition": null,
+      "alternative_meanings": [
+        "minha. De mim",
+        "pertencente à minha pessoa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mâmi-1 — https://www.kimbundu.org/pt/word/mami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14755,
+      "kimbundu_term": "Mâmi",
+      "portuguese_translation": "propriamente meus",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mâmi-1 — https://www.kimbundu.org/pt/word/mami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14756,
+      "kimbundu_term": "Mamóte",
+      "portuguese_translation": "Conjunto de plantas solanáceas (solanum saponaceum), de propriedades alimentares",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mamóte-1 — https://www.kimbundu.org/pt/word/mamote",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14757,
+      "kimbundu_term": "Mamóte",
+      "portuguese_translation": "Campo plantado de beringelas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mamóte-1 — https://www.kimbundu.org/pt/word/mamote",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14758,
+      "kimbundu_term": "Mamoxi",
+      "portuguese_translation": "(IV) Uns",
+      "definition": null,
+      "alternative_meanings": [
+        "umas"
+      ],
+      "examples": [],
+      "grammatical_category": "artigo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mamoxi-1 — https://www.kimbundu.org/pt/word/mamoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14759,
+      "kimbundu_term": "Mamukua",
+      "portuguese_translation": "(IV) De outros",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mamukua-1 — https://www.kimbundu.org/pt/word/mamukua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14760,
+      "kimbundu_term": "Maná",
+      "portuguese_translation": "adj. e pron. dem. n-tr. pl. (IV) Aqueles",
+      "definition": null,
+      "alternative_meanings": [
+        "aquelas. Designa objetos que estão afastados das pessoas que falam"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, demonstrativo, intransitivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maná-1 — https://www.kimbundu.org/pt/word/mana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14761,
+      "kimbundu_term": "Manánzu",
+      "portuguese_translation": "sub. pl. (IV) Elogios",
+      "definition": null,
+      "alternative_meanings": [
+        "encómios",
+        "gabos",
+        "Jactância",
+        "ufania"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, manánzu-1 — https://www.kimbundu.org/pt/word/mananzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14762,
+      "kimbundu_term": "Manda",
+      "portuguese_translation": "Grande árvore de que se extraem fibras e cascas taninos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, manda-1 — https://www.kimbundu.org/pt/word/manda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14763,
+      "kimbundu_term": "Mandimba",
+      "portuguese_translation": "Pov. e sede do posto civ. deste nome, circ. de S. Salvador, distr. do Congo, prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mandimba-1 — https://www.kimbundu.org/pt/word/mandimba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
