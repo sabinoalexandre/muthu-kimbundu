@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15204,
+      "kimbundu_term": "Mbidikita",
+      "portuguese_translation": "Sarilho",
+      "definition": null,
+      "alternative_meanings": [
+        "azáfama",
+        "trabalho",
+        "lida",
+        "luta",
+        "natureza do que se apresenta difícil de obter, de vencer, de conseguir",
+        "o que dá muito trabalho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbidikita-1 — https://www.kimbundu.org/pt/word/mbidikita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15205,
+      "kimbundu_term": "Mbidikita",
+      "portuguese_translation": "Dobadoura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbidikita-1 — https://www.kimbundu.org/pt/word/mbidikita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15206,
+      "kimbundu_term": "Mbiji",
+      "portuguese_translation": "Animal vertebrado de circulação dupla e sangue frio, respirando por meio de guelras e destinado à vida na água",
+      "definition": null,
+      "alternative_meanings": [
+        "peixe",
+        "tudo o que se pesca",
+        "qualquer peixe",
+        "mukua-mbiji, vendedeira de peixe",
+        "peixeira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbiji-1 — https://www.kimbundu.org/pt/word/mbiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15207,
+      "kimbundu_term": "Mbiji",
+      "portuguese_translation": "Tudo que se pesca",
+      "definition": null,
+      "alternative_meanings": [
+        "Qualquer peixe, vendedeira de peixe",
+        "Peixeira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbiji-1 — https://www.kimbundu.org/pt/word/mbiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15208,
+      "kimbundu_term": "Mbiji",
+      "portuguese_translation": "(adjetivo) Que tem ou é dono do peixe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbiji-1 — https://www.kimbundu.org/pt/word/mbiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15209,
+      "kimbundu_term": "Mbila",
+      "portuguese_translation": "Sepultura",
+      "definition": null,
+      "alternative_meanings": [
+        "túmulo",
+        "sepulcro",
+        "jazigo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbila-1 — https://www.kimbundu.org/pt/word/mbila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15210,
+      "kimbundu_term": "Mbila",
+      "portuguese_translation": "Cova",
+      "definition": null,
+      "alternative_meanings": [
+        "lugar onde se sepulta um cadáver"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbila-1 — https://www.kimbundu.org/pt/word/mbila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15211,
+      "kimbundu_term": "Mbila",
+      "portuguese_translation": "O fim da vida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbila-1 — https://www.kimbundu.org/pt/word/mbila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15212,
+      "kimbundu_term": "Mbila",
+      "portuguese_translation": "A morte",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbila-1 — https://www.kimbundu.org/pt/word/mbila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15213,
+      "kimbundu_term": "Mbima",
+      "portuguese_translation": "Varapau",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbima-1 — https://www.kimbundu.org/pt/word/mbima",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
