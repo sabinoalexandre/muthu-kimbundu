@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3274,
+      "kimbundu_term": "Kakalanga",
+      "portuguese_translation": "Capoeira",
+      "definition": null,
+      "alternative_meanings": [
+        "gaiola",
+        "Rede para transportar aves"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakalanga-1 — https://www.kimbundu.org/pt/word/kakalanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3275,
+      "kimbundu_term": "Kakamukua",
+      "portuguese_translation": "Não igual",
+      "definition": null,
+      "alternative_meanings": [
+        "não este",
+        "Outro",
+        "Seguinte",
+        "Restante",
+        "Precedente",
+        "Mais um",
+        "Pl. tuakamukua"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakamukua-1 — https://www.kimbundu.org/pt/word/kakamukua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3276,
+      "kimbundu_term": "Kakenge",
+      "portuguese_translation": "Afurador",
+      "definition": null,
+      "alternative_meanings": [
+        "Que pesquisa",
+        "Investigador",
+        "curioso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakenge-1 — https://www.kimbundu.org/pt/word/kakenge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3277,
+      "kimbundu_term": "Kakenge",
+      "portuguese_translation": "Periquito de plumagem verde",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakenge-1 — https://www.kimbundu.org/pt/word/kakenge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3278,
+      "kimbundu_term": "Kakiala",
+      "portuguese_translation": "Pequena unha ou garra",
+      "definition": null,
+      "alternative_meanings": [
+        "Dim. de kiála"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakiala-1 — https://www.kimbundu.org/pt/word/kakiala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3279,
+      "kimbundu_term": "Kakiáma",
+      "portuguese_translation": "Animalzinho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakiáma-1 — https://www.kimbundu.org/pt/word/kakiama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3280,
+      "kimbundu_term": "Kakiáma",
+      "portuguese_translation": "Bichinho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakiáma-1 — https://www.kimbundu.org/pt/word/kakiama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3281,
+      "kimbundu_term": "Kakiangu",
+      "portuguese_translation": "Palhinha. Palha fina. Folhinha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakiangu-1 — https://www.kimbundu.org/pt/word/kakiangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3282,
+      "kimbundu_term": "Kakíba",
+      "portuguese_translation": "Pequena pele",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakíba-1 — https://www.kimbundu.org/pt/word/kakiba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3283,
+      "kimbundu_term": "Kakibaku",
+      "portuguese_translation": "Banguinho. Pequeno mocho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakibaku-1 — https://www.kimbundu.org/pt/word/kakibaku",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
