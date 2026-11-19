@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11564,
+      "kimbundu_term": "Kuselela",
+      "portuguese_translation": "Crescer para baixo",
+      "definition": null,
+      "alternative_meanings": [
+        "descair",
+        "Descer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuselela-1 — https://www.kimbundu.org/pt/word/kuselela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11565,
+      "kimbundu_term": "Kuselelesa",
+      "portuguese_translation": "Fazer descer, descair",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuselelesa-1 — https://www.kimbundu.org/pt/word/kuselelesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11566,
+      "kimbundu_term": "Kuselema",
+      "portuguese_translation": "Enjeitar, despeitar",
+      "definition": null,
+      "alternative_meanings": [
+        "Abandonar (por desprezo)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuselema-1 — https://www.kimbundu.org/pt/word/kuselema",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11567,
+      "kimbundu_term": "Kuselema",
+      "portuguese_translation": "Abortamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuselema-1 — https://www.kimbundu.org/pt/word/kuselema",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11568,
+      "kimbundu_term": "Kuseluka",
+      "portuguese_translation": "Abortar",
+      "definition": null,
+      "alternative_meanings": [
+        "Mover"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuseluka-1 — https://www.kimbundu.org/pt/word/kuseluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11569,
+      "kimbundu_term": "Kuselukisa",
+      "portuguese_translation": "Fazer abortar, mover",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuselukisa-1 — https://www.kimbundu.org/pt/word/kuselukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11570,
+      "kimbundu_term": "Kuselula",
+      "portuguese_translation": "Atrofiar",
+      "definition": null,
+      "alternative_meanings": [
+        "estiolar",
+        "mirrar (a planta)",
+        "Frustrar",
+        "gorar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuselula-1 — https://www.kimbundu.org/pt/word/kuselula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11571,
+      "kimbundu_term": "Kuselumuka",
+      "portuguese_translation": "Descair",
+      "definition": null,
+      "alternative_meanings": [
+        "Desviar-se do lugar",
+        "descer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuselumuka-1 — https://www.kimbundu.org/pt/word/kuselumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11572,
+      "kimbundu_term": "Kuselumuka",
+      "portuguese_translation": "Estado do que descai",
+      "definition": null,
+      "alternative_meanings": [
+        "Descida"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuselumuka-1 — https://www.kimbundu.org/pt/word/kuselumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11573,
+      "kimbundu_term": "Kuselumuna",
+      "portuguese_translation": "Abaixar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer descair. É também reflexivo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuselumuna-1 — https://www.kimbundu.org/pt/word/kuselumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
