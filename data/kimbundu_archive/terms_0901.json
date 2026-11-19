@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9114,
+      "kimbundu_term": "Kujunga",
+      "portuguese_translation": "Cirandar",
+      "definition": null,
+      "alternative_meanings": [
+        "girar de um lado para o outro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujunga-1 — https://www.kimbundu.org/pt/word/kujunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9115,
+      "kimbundu_term": "Kujuuala",
+      "portuguese_translation": "Perder o siso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujuuala-1 — https://www.kimbundu.org/pt/word/kujuuala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9116,
+      "kimbundu_term": "Kujuuala",
+      "portuguese_translation": "Fazer doidices",
+      "definition": null,
+      "alternative_meanings": [
+        "estar tonto"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujuuala-1 — https://www.kimbundu.org/pt/word/kujuuala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9117,
+      "kimbundu_term": "Kujuuala",
+      "portuguese_translation": "Não estar em si",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujuuala-1 — https://www.kimbundu.org/pt/word/kujuuala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9118,
+      "kimbundu_term": "Kujuuala",
+      "portuguese_translation": "Tontice",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujuuala-1 — https://www.kimbundu.org/pt/word/kujuuala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9119,
+      "kimbundu_term": "Kujuualesa",
+      "portuguese_translation": "Desassizar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer perder o juízo a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujuualesa-1 — https://www.kimbundu.org/pt/word/kujuualesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9120,
+      "kimbundu_term": "Kukabula",
+      "portuguese_translation": "Abocar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukabula-1 — https://www.kimbundu.org/pt/word/kukabula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9121,
+      "kimbundu_term": "Kukabula",
+      "portuguese_translation": "Atirar (alimentos) para a boca",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukabula-1 — https://www.kimbundu.org/pt/word/kukabula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9122,
+      "kimbundu_term": "Kukádia",
+      "portuguese_translation": "Dissimular",
+      "definition": null,
+      "alternative_meanings": [
+        "disfarçar",
+        "fingir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukádia-1 — https://www.kimbundu.org/pt/word/kukadia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9123,
+      "kimbundu_term": "Kukádia",
+      "portuguese_translation": "Dissimulação",
+      "definition": null,
+      "alternative_meanings": [
+        "fingimento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukádia-1 — https://www.kimbundu.org/pt/word/kukadia",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
