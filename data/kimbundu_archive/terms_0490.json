@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5004,
+      "kimbundu_term": "Kihabu",
+      "portuguese_translation": "de habu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihabu-1 — https://www.kimbundu.org/pt/word/kihabu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5005,
+      "kimbundu_term": "Kihabu-habu",
+      "portuguese_translation": "Desejo ardente e insaciável",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihabu-habu-1 — https://www.kimbundu.org/pt/word/kihabu-habu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5006,
+      "kimbundu_term": "Kihabu-habu",
+      "portuguese_translation": "Avidez",
+      "definition": null,
+      "alternative_meanings": [
+        "voracidade, sofreguidão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihabu-habu-1 — https://www.kimbundu.org/pt/word/kihabu-habu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5007,
+      "kimbundu_term": "Kihabu-habu",
+      "portuguese_translation": "adj. Sófrego",
+      "definition": null,
+      "alternative_meanings": [
+        "Sequioso",
+        "muito desejoso"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihabu-habu-1 — https://www.kimbundu.org/pt/word/kihabu-habu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5008,
+      "kimbundu_term": "Kihabu-habu",
+      "portuguese_translation": "Insaciável",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihabu-habu-1 — https://www.kimbundu.org/pt/word/kihabu-habu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5009,
+      "kimbundu_term": "Kihámba",
+      "portuguese_translation": "Cipó ou esparto entrelaçado que ampara, pela cintura, o trepador na ascensão à palmeira ou coqueiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihámba-1 — https://www.kimbundu.org/pt/word/kihamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5010,
+      "kimbundu_term": "Kihámba",
+      "portuguese_translation": "Encosto",
+      "definition": null,
+      "alternative_meanings": [
+        "apoio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihámba-1 — https://www.kimbundu.org/pt/word/kihamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5011,
+      "kimbundu_term": "Kihanda",
+      "portuguese_translation": "Limo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihanda-1 — https://www.kimbundu.org/pt/word/kihanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5012,
+      "kimbundu_term": "Kihanda",
+      "portuguese_translation": "Sarro",
+      "definition": null,
+      "alternative_meanings": [
+        "borra",
+        "pé"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihanda-1 — https://www.kimbundu.org/pt/word/kihanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5013,
+      "kimbundu_term": "Kihándu",
+      "portuguese_translation": "Peça móvel que imprime a direção do navio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihándu-1 — https://www.kimbundu.org/pt/word/kihandu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
