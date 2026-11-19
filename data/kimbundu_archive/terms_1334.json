@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13444,
+      "kimbundu_term": "Kuzála",
+      "portuguese_translation": "Kurizála, e r. Espraiar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "transbordar",
+        "inundar as margens (falando de rios)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzála-1 — https://www.kimbundu.org/pt/word/kuzala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13445,
+      "kimbundu_term": "Kuzála",
+      "portuguese_translation": "Espalhar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "estender-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzála-1 — https://www.kimbundu.org/pt/word/kuzala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13446,
+      "kimbundu_term": "Kuzalela",
+      "portuguese_translation": "Estender (roupa, esteira, etc.) para",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzalela-1 — https://www.kimbundu.org/pt/word/kuzalela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13447,
+      "kimbundu_term": "Kuzaléleka",
+      "portuguese_translation": "Alastrar",
+      "definition": null,
+      "alternative_meanings": [
+        "estender muito"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzaléleka-1 — https://www.kimbundu.org/pt/word/kuzaleleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13448,
+      "kimbundu_term": "Kuzaléleka",
+      "portuguese_translation": "Ocupar maior superfície",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzaléleka-1 — https://www.kimbundu.org/pt/word/kuzaleleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13449,
+      "kimbundu_term": "Kuzalujula",
+      "portuguese_translation": "Estender e recolher por vezes pano, toalha, esteira etc",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzalujula-1 — https://www.kimbundu.org/pt/word/kuzalujula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13450,
+      "kimbundu_term": "Kuzalula",
+      "portuguese_translation": "Recolher o que está estendido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzalula-1 — https://www.kimbundu.org/pt/word/kuzalula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13451,
+      "kimbundu_term": "Kuzalula",
+      "portuguese_translation": "Levantar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzalula-1 — https://www.kimbundu.org/pt/word/kuzalula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13452,
+      "kimbundu_term": "Kuzalumuna",
+      "portuguese_translation": "Desfraldar",
+      "definition": null,
+      "alternative_meanings": [
+        "desenrolar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzalumuna-1 — https://www.kimbundu.org/pt/word/kuzalumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13453,
+      "kimbundu_term": "Kuzalumuna",
+      "portuguese_translation": "Tender",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzalumuna-1 — https://www.kimbundu.org/pt/word/kuzalumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
