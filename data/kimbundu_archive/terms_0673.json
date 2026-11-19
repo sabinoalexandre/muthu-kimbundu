@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6834,
+      "kimbundu_term": "Koso",
+      "portuguese_translation": "Tudo",
+      "definition": null,
+      "alternative_meanings": [
+        "Seja qual for"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, koso-1 — https://www.kimbundu.org/pt/word/koso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6835,
+      "kimbundu_term": "Koso",
+      "portuguese_translation": "adj. indef. Um (de entre muitos sem escolher). Qualquer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, koso-1 — https://www.kimbundu.org/pt/word/koso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6836,
+      "kimbundu_term": "Kot'ê",
+      "portuguese_translation": "Preferível",
+      "definition": null,
+      "alternative_meanings": [
+        "Melhor",
+        "Antes isso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kot'ê-1 — https://www.kimbundu.org/pt/word/kot'e",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6837,
+      "kimbundu_term": "Kota",
+      "portuguese_translation": "de rikota. adj. Maior",
+      "definition": null,
+      "alternative_meanings": [
+        "superior",
+        "Mais"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kota-1 — https://www.kimbundu.org/pt/word/kota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6838,
+      "kimbundu_term": "Kota",
+      "portuguese_translation": "O mais conveniente",
+      "definition": null,
+      "alternative_meanings": [
+        "o melhor: —"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kota-1 — https://www.kimbundu.org/pt/word/kota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6839,
+      "kimbundu_term": "Kota",
+      "portuguese_translation": "Antes",
+      "definition": null,
+      "alternative_meanings": [
+        "de preferência"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kota-1 — https://www.kimbundu.org/pt/word/kota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6840,
+      "kimbundu_term": "Kotelele",
+      "portuguese_translation": "Muito mais",
+      "definition": null,
+      "alternative_meanings": [
+        "muito acima. Muito superior",
+        "Sem igual"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kotelele-1 — https://www.kimbundu.org/pt/word/kotelele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6841,
+      "kimbundu_term": "Kotondo",
+      "portuguese_translation": "Parcialidade",
+      "definition": null,
+      "alternative_meanings": [
+        "Trato desigual de duas pessoas",
+        "Diferença de tratamento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kotondo-1 — https://www.kimbundu.org/pt/word/kotondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6842,
+      "kimbundu_term": "Kotondo",
+      "portuguese_translation": "adj. Parcial",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kotondo-1 — https://www.kimbundu.org/pt/word/kotondo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6843,
+      "kimbundu_term": "Kouê",
+      "portuguese_translation": "com que aplaudimos os vencedores",
+      "definition": null,
+      "alternative_meanings": [
+        "Victor"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kouê-1 — https://www.kimbundu.org/pt/word/koue",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
