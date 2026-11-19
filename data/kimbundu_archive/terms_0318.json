@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3284,
+      "kimbundu_term": "Kakibándu",
+      "portuguese_translation": "Pequeno balaio ou peneira. Joeira. Tb. se diz kabándu",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakibándu-1 — https://www.kimbundu.org/pt/word/kakibandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3285,
+      "kimbundu_term": "Kakibhasu",
+      "portuguese_translation": "Pedacito. Pequeno caco. Lasquinha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakibhasu-1 — https://www.kimbundu.org/pt/word/kakibhasu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3286,
+      "kimbundu_term": "Kakibolongonyo",
+      "portuguese_translation": "Pequena cabeça de morto, limpa de tecidos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakibolongonyo-1 — https://www.kimbundu.org/pt/word/kakibolongonyo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3287,
+      "kimbundu_term": "Kakibolongonyo",
+      "portuguese_translation": "Caveiroso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakibolongonyo-2 — https://www.kimbundu.org/pt/word/kakibolongonyo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3288,
+      "kimbundu_term": "Kakibosa",
+      "portuguese_translation": "Planta têxtil fam. das malváceas (urena lobata), de madeira aproveitável",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakibosa-1 — https://www.kimbundu.org/pt/word/kakibosa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3289,
+      "kimbundu_term": "Kakididi",
+      "portuguese_translation": "Pequeno espaço ou lugar (para estar ou dormir). Caminha",
+      "definition": null,
+      "alternative_meanings": [
+        "berço"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakididi-1 — https://www.kimbundu.org/pt/word/kakididi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3290,
+      "kimbundu_term": "Kakiézu",
+      "portuguese_translation": "Vassourinha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakiézu-1 — https://www.kimbundu.org/pt/word/kakiezu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3291,
+      "kimbundu_term": "Kakiézu",
+      "portuguese_translation": "Delator. Intriguista",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakiézu-1 — https://www.kimbundu.org/pt/word/kakiezu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3292,
+      "kimbundu_term": "Kakijengetela",
+      "portuguese_translation": "Pequena escoriação ou mancha escura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakijengetela-1 — https://www.kimbundu.org/pt/word/kakijengetela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3293,
+      "kimbundu_term": "Kakijinga",
+      "portuguese_translation": "Barrete de criança",
+      "definition": null,
+      "alternative_meanings": [
+        "gorro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kakijinga-1 — https://www.kimbundu.org/pt/word/kakijinga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
