@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13364,
+      "kimbundu_term": "Kuxolóla",
+      "portuguese_translation": "Deitar pingos em",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxolóla-1 — https://www.kimbundu.org/pt/word/kuxolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13365,
+      "kimbundu_term": "Kuxolóla",
+      "portuguese_translation": "Deixar cair um fio de líquido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxolóla-1 — https://www.kimbundu.org/pt/word/kuxolola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13366,
+      "kimbundu_term": "Kuxómba",
+      "portuguese_translation": "Tramar",
+      "definition": null,
+      "alternative_meanings": [
+        "enganar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxómba-1 — https://www.kimbundu.org/pt/word/kuxomba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13367,
+      "kimbundu_term": "Kuxómba",
+      "portuguese_translation": "Desfavorecer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxómba-1 — https://www.kimbundu.org/pt/word/kuxomba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13368,
+      "kimbundu_term": "Kuxomoka",
+      "portuguese_translation": "Ficar escaldado, excoriado, queimado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxomoka-1 — https://www.kimbundu.org/pt/word/kuxomoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13369,
+      "kimbundu_term": "Kuxomoka",
+      "portuguese_translation": "Escaldão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxomoka-1 — https://www.kimbundu.org/pt/word/kuxomoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13370,
+      "kimbundu_term": "Kuxomokesa",
+      "portuguese_translation": "Mandar escaldar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer queimar (com água fervente)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxomokesa-1 — https://www.kimbundu.org/pt/word/kuxomokesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13371,
+      "kimbundu_term": "Kuxomona",
+      "portuguese_translation": "Esfolar",
+      "definition": null,
+      "alternative_meanings": [
+        "escaldar",
+        "tirar a derme"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxomona-1 — https://www.kimbundu.org/pt/word/kuxomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13372,
+      "kimbundu_term": "Kuxomona",
+      "portuguese_translation": "Chamuscar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxomona-1 — https://www.kimbundu.org/pt/word/kuxomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13373,
+      "kimbundu_term": "Kuxóna",
+      "portuguese_translation": "Estrabar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxóna-1 — https://www.kimbundu.org/pt/word/kuxona",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
