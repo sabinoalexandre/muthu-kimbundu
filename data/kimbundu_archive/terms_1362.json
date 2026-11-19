@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13724,
+      "kimbundu_term": "Kuzukuta",
+      "portuguese_translation": "Tocar o fole",
+      "definition": null,
+      "alternative_meanings": [
+        "Trabalhar",
+        "vencer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo transitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzukuta-1 — https://www.kimbundu.org/pt/word/kuzukuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13725,
+      "kimbundu_term": "Kuzukuta",
+      "portuguese_translation": "Devastar",
+      "definition": null,
+      "alternative_meanings": [
+        "executar",
+        "tirar",
+        "penhorar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo transitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzukuta-1 — https://www.kimbundu.org/pt/word/kuzukuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13726,
+      "kimbundu_term": "Kuzukuta",
+      "portuguese_translation": "Tragar",
+      "definition": null,
+      "alternative_meanings": [
+        "devorar",
+        "destruir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo transitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzukuta-1 — https://www.kimbundu.org/pt/word/kuzukuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13727,
+      "kimbundu_term": "Kuzukutisa",
+      "portuguese_translation": "Importunar",
+      "definition": null,
+      "alternative_meanings": [
+        "mortificar",
+        "fazer ralar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo transitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzukutisa-1 — https://www.kimbundu.org/pt/word/kuzukutisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13728,
+      "kimbundu_term": "Kuzukutisa",
+      "portuguese_translation": "Mandar executar, devastar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo transitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzukutisa-1 — https://www.kimbundu.org/pt/word/kuzukutisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13729,
+      "kimbundu_term": "Kúzula",
+      "portuguese_translation": "Desnudar",
+      "definition": null,
+      "alternative_meanings": [
+        "despir",
+        "deixar nu",
+        "Despelar",
+        "descortiçar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo transitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúzula-1 — https://www.kimbundu.org/pt/word/kuzula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13730,
+      "kimbundu_term": "Kúzula",
+      "portuguese_translation": "Despimento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúzula-2 — https://www.kimbundu.org/pt/word/kuzula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13731,
+      "kimbundu_term": "Kuzúla",
+      "portuguese_translation": "Estar encharcado, molhado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo intransitivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzúla-1 — https://www.kimbundu.org/pt/word/kuzula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13732,
+      "kimbundu_term": "Kuzúla",
+      "portuguese_translation": "Molhadela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzúla-2 — https://www.kimbundu.org/pt/word/kuzula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13733,
+      "kimbundu_term": "Kuzule",
+      "portuguese_translation": "Metido",
+      "definition": null,
+      "alternative_meanings": [
+        "encaixado, introduzido"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzule-1 — https://www.kimbundu.org/pt/word/kuzule",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
