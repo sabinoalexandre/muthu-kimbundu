@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18014,
+      "kimbundu_term": "Ngánja",
+      "portuguese_translation": "Planta de madeira castanho-escura e resistente ao salalé (térmita)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngánja-1 — https://www.kimbundu.org/pt/word/nganja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18015,
+      "kimbundu_term": "Ngánji",
+      "portuguese_translation": "Ousadia. Soberba. Atrevimento",
+      "definition": null,
+      "alternative_meanings": [
+        "insolência"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngánji-1 — https://www.kimbundu.org/pt/word/nganji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18016,
+      "kimbundu_term": "Ngánji",
+      "portuguese_translation": "atrevido",
+      "definition": null,
+      "alternative_meanings": [
+        "soberbo. Malcriado",
+        "insolente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngánji-1 — https://www.kimbundu.org/pt/word/nganji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18017,
+      "kimbundu_term": "Ngânji",
+      "portuguese_translation": "Designação vaga de uma pessoa incerta, ou daquela cujo nome se ignora. Fulano. Sicrano. Vário. Etc",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngânji-1 — https://www.kimbundu.org/pt/word/nganji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18018,
+      "kimbundu_term": "Ngânji",
+      "portuguese_translation": "Certo. Tal homem. Não bem definido. Beltrano",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngânji-1 — https://www.kimbundu.org/pt/word/nganji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18019,
+      "kimbundu_term": "Nganji",
+      "portuguese_translation": "Julgador. Pessoa que julga. Juiz. Desembargador. Árbitro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nganji-1 — https://www.kimbundu.org/pt/word/nganji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18020,
+      "kimbundu_term": "Nganji",
+      "portuguese_translation": "Que come muito. Comilão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nganji-1 — https://www.kimbundu.org/pt/word/nganji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18021,
+      "kimbundu_term": "Nganji",
+      "portuguese_translation": "Nome por que, na região do Zaire, se conhece a planta múhinji",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nganji-1 — https://www.kimbundu.org/pt/word/nganji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18022,
+      "kimbundu_term": "Nganya",
+      "portuguese_translation": "Bocejo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nganya-1 — https://www.kimbundu.org/pt/word/nganya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18023,
+      "kimbundu_term": "Nganyâla",
+      "portuguese_translation": "Tratamento dado ao homem casado. Senhor. Amo. (Corrupção de ngana ia ritala.)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nganyâla-1 — https://www.kimbundu.org/pt/word/nganyala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
