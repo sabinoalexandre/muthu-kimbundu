@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18434,
+      "kimbundu_term": "Nzāji",
+      "portuguese_translation": "Raio",
+      "definition": null,
+      "alternative_meanings": [
+        "faísca elétrica",
+        "Corisco"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzāji-1 — https://www.kimbundu.org/pt/word/nzaji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18435,
+      "kimbundu_term": "Nzála",
+      "portuguese_translation": "Fome",
+      "definition": null,
+      "alternative_meanings": [
+        "apetite",
+        "vontade de comer"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzála-1 — https://www.kimbundu.org/pt/word/nzala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18436,
+      "kimbundu_term": "Nzála",
+      "portuguese_translation": "Penúria",
+      "definition": null,
+      "alternative_meanings": [
+        "miséria"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzála-1 — https://www.kimbundu.org/pt/word/nzala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18437,
+      "kimbundu_term": "Nzála",
+      "portuguese_translation": "Precisão",
+      "definition": null,
+      "alternative_meanings": [
+        "necessidade: Kusumba kua—kutexl"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzála-1 — https://www.kimbundu.org/pt/word/nzala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18438,
+      "kimbundu_term": "Nzamba",
+      "portuguese_translation": "Elefante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzamba-1 — https://www.kimbundu.org/pt/word/nzamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18439,
+      "kimbundu_term": "Nzámba",
+      "portuguese_translation": "Sociedade: uênjil ua—",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzámba-1 — https://www.kimbundu.org/pt/word/nzamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18440,
+      "kimbundu_term": "Nzámba",
+      "portuguese_translation": "Associação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzámba-1 — https://www.kimbundu.org/pt/word/nzamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18441,
+      "kimbundu_term": "Nzámba",
+      "portuguese_translation": "Parçaria",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzámba-1 — https://www.kimbundu.org/pt/word/nzamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18442,
+      "kimbundu_term": "Nzámba",
+      "portuguese_translation": "A meias",
+      "definition": null,
+      "alternative_meanings": [
+        "em partes iguais"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzámba-1 — https://www.kimbundu.org/pt/word/nzamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18443,
+      "kimbundu_term": "Nzambaki",
+      "portuguese_translation": "Pechisbeque",
+      "definition": null,
+      "alternative_meanings": [
+        "ouropel"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, nzambaki-1 — https://www.kimbundu.org/pt/word/nzambaki",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
