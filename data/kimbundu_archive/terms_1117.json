@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11274,
+      "kimbundu_term": "Kusakesa",
+      "portuguese_translation": "Agitar",
+      "definition": null,
+      "alternative_meanings": [
+        "misturar",
+        "mover com força"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusakesa-1 — https://www.kimbundu.org/pt/word/kusakesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11275,
+      "kimbundu_term": "Kusakesa",
+      "portuguese_translation": "Ação e efeito de agitar",
+      "definition": null,
+      "alternative_meanings": [
+        "sacudidura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusakesa-1 — https://www.kimbundu.org/pt/word/kusakesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11276,
+      "kimbundu_term": "Kusakidila",
+      "portuguese_translation": "Agradecer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusakidila-1 — https://www.kimbundu.org/pt/word/kusakidila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11277,
+      "kimbundu_term": "Kusakidila",
+      "portuguese_translation": "Expressão ou facto que manifesta gratidão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusakidila-1 — https://www.kimbundu.org/pt/word/kusakidila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11278,
+      "kimbundu_term": "Kusakúka",
+      "portuguese_translation": "Voltar a cabeça para o lado (por virtude de uma chamada)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusakúka-1 — https://www.kimbundu.org/pt/word/kusakuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11279,
+      "kimbundu_term": "Kusakúka",
+      "portuguese_translation": "Olhar para trás",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusakúka-1 — https://www.kimbundu.org/pt/word/kusakuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11280,
+      "kimbundu_term": "Kusakúka",
+      "portuguese_translation": "Virar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "voltar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusakúka-1 — https://www.kimbundu.org/pt/word/kusakuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11281,
+      "kimbundu_term": "Kúsakuka",
+      "portuguese_translation": "Ficar purificado, curado, salvo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsakuka-1 — https://www.kimbundu.org/pt/word/kusakuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11282,
+      "kimbundu_term": "Kúsakuka",
+      "portuguese_translation": "Estar livre (da doença, do mal, do pecado)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsakuka-1 — https://www.kimbundu.org/pt/word/kusakuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11283,
+      "kimbundu_term": "Kúsakuka",
+      "portuguese_translation": "Ficar limpo de consciência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsakuka-1 — https://www.kimbundu.org/pt/word/kusakuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
