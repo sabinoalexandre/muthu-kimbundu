@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5354,
+      "kimbundu_term": "Kilalekelu",
+      "portuguese_translation": "Divertimento",
+      "definition": null,
+      "alternative_meanings": [
+        "Passatempo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilalekelu-1 — https://www.kimbundu.org/pt/word/kilalekelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5355,
+      "kimbundu_term": "Kilálu",
+      "portuguese_translation": "Boiante",
+      "definition": null,
+      "alternative_meanings": [
+        "flutuante"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilálu-1 — https://www.kimbundu.org/pt/word/kilalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5356,
+      "kimbundu_term": "Kilálu",
+      "portuguese_translation": "Que se move sobre as águas. fig. Vacilante",
+      "definition": null,
+      "alternative_meanings": [
+        "irresoluto",
+        "indeciso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilálu-1 — https://www.kimbundu.org/pt/word/kilalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5357,
+      "kimbundu_term": "Kilálu",
+      "portuguese_translation": "Ponte levadiça ou de barcas",
+      "definition": null,
+      "alternative_meanings": [
+        "ponte móvel"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilálu-1 — https://www.kimbundu.org/pt/word/kilalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5358,
+      "kimbundu_term": "Kilálu",
+      "portuguese_translation": "Pontão",
+      "definition": null,
+      "alternative_meanings": [
+        "boia"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilálu-1 — https://www.kimbundu.org/pt/word/kilalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5359,
+      "kimbundu_term": "Kilalu",
+      "portuguese_translation": "Brigante",
+      "definition": null,
+      "alternative_meanings": [
+        "erradio",
+        "desordenado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilalu-1 — https://www.kimbundu.org/pt/word/kilalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5360,
+      "kimbundu_term": "Kilalu",
+      "portuguese_translation": "Pródigo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilalu-1 — https://www.kimbundu.org/pt/word/kilalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5361,
+      "kimbundu_term": "Kilalu",
+      "portuguese_translation": "Perdulário",
+      "definition": null,
+      "alternative_meanings": [
+        "leviano"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilalu-1 — https://www.kimbundu.org/pt/word/kilalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5362,
+      "kimbundu_term": "Kilâma",
+      "portuguese_translation": "Planta euforbácea de madeira aproveitável",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilâma-1 — https://www.kimbundu.org/pt/word/kilama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5363,
+      "kimbundu_term": "Kilámba",
+      "portuguese_translation": "Exorcista",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kilámba-1 — https://www.kimbundu.org/pt/word/kilamba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
