@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13324,
+      "kimbundu_term": "Kúxisa",
+      "portuguese_translation": "Fricção",
+      "definition": null,
+      "alternative_meanings": [
+        "untura",
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxisa-1 — https://www.kimbundu.org/pt/word/kuxisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13325,
+      "kimbundu_term": "Kuxísa",
+      "portuguese_translation": "Deixar ficar",
+      "definition": null,
+      "alternative_meanings": [
+        "abandonar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxísa-1 — https://www.kimbundu.org/pt/word/kuxisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13326,
+      "kimbundu_term": "Kúxita",
+      "portuguese_translation": "Tapar",
+      "definition": null,
+      "alternative_meanings": [
+        "vedar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxita-1 — https://www.kimbundu.org/pt/word/kuxita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13327,
+      "kimbundu_term": "Kúxita",
+      "portuguese_translation": "Rolhar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxita-1 — https://www.kimbundu.org/pt/word/kuxita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13328,
+      "kimbundu_term": "Kúxita",
+      "portuguese_translation": "Obstruir a entrada ou saída de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxita-1 — https://www.kimbundu.org/pt/word/kuxita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13329,
+      "kimbundu_term": "Kúxita",
+      "portuguese_translation": "Cercar",
+      "definition": null,
+      "alternative_meanings": [
+        "pôr tapume"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxita-1 — https://www.kimbundu.org/pt/word/kuxita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13330,
+      "kimbundu_term": "Kúxita",
+      "portuguese_translation": "Cortar",
+      "definition": null,
+      "alternative_meanings": [
+        "fechar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxita-1 — https://www.kimbundu.org/pt/word/kuxita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13331,
+      "kimbundu_term": "Kúxita",
+      "portuguese_translation": "Tapamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúxita-1 — https://www.kimbundu.org/pt/word/kuxita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13332,
+      "kimbundu_term": "Kuxitala",
+      "portuguese_translation": "Citar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxitala-1 — https://www.kimbundu.org/pt/word/kuxitala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13333,
+      "kimbundu_term": "Kuxitama",
+      "portuguese_translation": "Estar abrigado, resguardado",
+      "definition": null,
+      "alternative_meanings": [
+        "vedado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxitama-1 — https://www.kimbundu.org/pt/word/kuxitama",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
