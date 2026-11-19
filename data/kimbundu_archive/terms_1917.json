@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19274,
+      "kimbundu_term": "Tulúlu",
+      "portuguese_translation": "Tenda",
+      "definition": null,
+      "alternative_meanings": [
+        "barraca de campanha. Sombra"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tulúlu-1 — https://www.kimbundu.org/pt/word/tululu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19275,
+      "kimbundu_term": "Tûma",
+      "portuguese_translation": "Coisinhas",
+      "definition": null,
+      "alternative_meanings": [
+        "miudezas",
+        "bugigangas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, interjeição, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tûma-1 — https://www.kimbundu.org/pt/word/tuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19276,
+      "kimbundu_term": "Tûma",
+      "portuguese_translation": "Manda! Ordena!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, interjeição, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tûma-1 — https://www.kimbundu.org/pt/word/tuma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19277,
+      "kimbundu_term": "Tumafu",
+      "portuguese_translation": "Pós. Substâncias vegetais reduzidas a pó. Folhinhas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tumafu-1 — https://www.kimbundu.org/pt/word/tumafu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19278,
+      "kimbundu_term": "Tûmba",
+      "portuguese_translation": "Naco",
+      "definition": null,
+      "alternative_meanings": [
+        "pedaço (de carne). Morsegão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tûmba-1 — https://www.kimbundu.org/pt/word/tumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19279,
+      "kimbundu_term": "Tumba",
+      "portuguese_translation": "Pessoa de nossa íntima amizade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tumba-1 — https://www.kimbundu.org/pt/word/tumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19280,
+      "kimbundu_term": "Tumba",
+      "portuguese_translation": "Aparentado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tumba-1 — https://www.kimbundu.org/pt/word/tumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19281,
+      "kimbundu_term": "Tumba",
+      "portuguese_translation": "Personagem mítica",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tumba-1 — https://www.kimbundu.org/pt/word/tumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19282,
+      "kimbundu_term": "Tumbende",
+      "portuguese_translation": "Pecúlio",
+      "definition": null,
+      "alternative_meanings": [
+        "pé de meia. Pequenas somas de dinheiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tumbende-1 — https://www.kimbundu.org/pt/word/tumbende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19283,
+      "kimbundu_term": "Tumbéndu",
+      "portuguese_translation": "Flautins. fig. Bebedeiras",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, tumbéndu-1 — https://www.kimbundu.org/pt/word/tumbendu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
