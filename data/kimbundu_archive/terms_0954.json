@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9644,
+      "kimbundu_term": "Kukuata",
+      "portuguese_translation": "Agarrar",
+      "definition": null,
+      "alternative_meanings": [
+        "pegar",
+        "segurar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuata-1 — https://www.kimbundu.org/pt/word/kukuata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9645,
+      "kimbundu_term": "Kukuata",
+      "portuguese_translation": "Tocar",
+      "definition": null,
+      "alternative_meanings": [
+        "comunicar por contágio"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuata-1 — https://www.kimbundu.org/pt/word/kukuata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9646,
+      "kimbundu_term": "Kukuata",
+      "portuguese_translation": "Tomar",
+      "definition": null,
+      "alternative_meanings": [
+        "alcançar",
+        "deitar mão a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuata-1 — https://www.kimbundu.org/pt/word/kukuata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9647,
+      "kimbundu_term": "Kukuata",
+      "portuguese_translation": "Obter",
+      "definition": null,
+      "alternative_meanings": [
+        "conseguir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuata-1 — https://www.kimbundu.org/pt/word/kukuata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9648,
+      "kimbundu_term": "Kukuata",
+      "portuguese_translation": "Apanhar",
+      "definition": null,
+      "alternative_meanings": [
+        "encontrar",
+        "surpreender"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuata-1 — https://www.kimbundu.org/pt/word/kukuata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9649,
+      "kimbundu_term": "Kukuata",
+      "portuguese_translation": "Apoderar-se de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuata-1 — https://www.kimbundu.org/pt/word/kukuata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9650,
+      "kimbundu_term": "Kukuata",
+      "portuguese_translation": "Agarração",
+      "definition": null,
+      "alternative_meanings": [
+        "pega"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuata-2 — https://www.kimbundu.org/pt/word/kukuata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9651,
+      "kimbundu_term": "Kukuatenena",
+      "portuguese_translation": "Estar seguro",
+      "definition": null,
+      "alternative_meanings": [
+        "ficar agarrado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuatenena-1 — https://www.kimbundu.org/pt/word/kukuatenena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9652,
+      "kimbundu_term": "Kukuatenena",
+      "portuguese_translation": "Segurar, amparar, proteger",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuatenena-1 — https://www.kimbundu.org/pt/word/kukuatenena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9653,
+      "kimbundu_term": "Kukuatenena",
+      "portuguese_translation": "Kurikuatenena, v. r. Agarrar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "amparar-se",
+        "valer-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuatenena-1 — https://www.kimbundu.org/pt/word/kukuatenena",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
