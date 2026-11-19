@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10664,
+      "kimbundu_term": "Kumokóna",
+      "portuguese_translation": "Kurimokóna, v. r. Ferir-se com bico (como as galinhas)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumokóna-1 — https://www.kimbundu.org/pt/word/kumokona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10665,
+      "kimbundu_term": "Kumokuesa",
+      "portuguese_translation": "Fazer picar, ferir com bico",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumokuesa-1 — https://www.kimbundu.org/pt/word/kumokuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10666,
+      "kimbundu_term": "Kumokuesa",
+      "portuguese_translation": "Kurimokuesa, e r. Permutar palavras",
+      "definition": null,
+      "alternative_meanings": [
+        "disputar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumokuesa-1 — https://www.kimbundu.org/pt/word/kumokuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10667,
+      "kimbundu_term": "Kumóma",
+      "portuguese_translation": "Nicar",
+      "definition": null,
+      "alternative_meanings": [
+        "debicar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumóma-1 — https://www.kimbundu.org/pt/word/kumoma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10668,
+      "kimbundu_term": "Kumóma",
+      "portuguese_translation": "Pedir dinheiro emprestado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumóma-1 — https://www.kimbundu.org/pt/word/kumoma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10669,
+      "kimbundu_term": "Kumóma",
+      "portuguese_translation": "O comer das aves",
+      "definition": null,
+      "alternative_meanings": [
+        "Nicada"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumóma-1 — https://www.kimbundu.org/pt/word/kumoma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10670,
+      "kimbundu_term": "Kumóma",
+      "portuguese_translation": "Kurimóma, v. r. Ferir-se com picadura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumóma-1 — https://www.kimbundu.org/pt/word/kumoma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10671,
+      "kimbundu_term": "Kumomeka",
+      "portuguese_translation": "Marcar com bico",
+      "definition": null,
+      "alternative_meanings": [
+        "pôr ponto em",
+        "Assinalar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumomeka-1 — https://www.kimbundu.org/pt/word/kumomeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10672,
+      "kimbundu_term": "Kumomeka",
+      "portuguese_translation": "Apontamento",
+      "definition": null,
+      "alternative_meanings": [
+        "bicada"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumomeka-1 — https://www.kimbundu.org/pt/word/kumomeka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10673,
+      "kimbundu_term": "Kumomekesa",
+      "portuguese_translation": "Fazer marcar, apontar, tomar nota",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumomekesa-1 — https://www.kimbundu.org/pt/word/kumomekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
