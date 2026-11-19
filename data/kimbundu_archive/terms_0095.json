@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1054,
+      "kimbundu_term": "Dikúxa",
+      "portuguese_translation": "Negação",
+      "definition": null,
+      "alternative_meanings": [
+        "secura. Mentira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dikúxa-1 — https://www.kimbundu.org/pt/word/dikuxa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1055,
+      "kimbundu_term": "Dila",
+      "portuguese_translation": "Fojo",
+      "definition": null,
+      "alternative_meanings": [
+        "trapa. Alçapão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dila-1 — https://www.kimbundu.org/pt/word/dila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1056,
+      "kimbundu_term": "Díla",
+      "portuguese_translation": "Madre",
+      "definition": null,
+      "alternative_meanings": [
+        "ventre materno. Entranhas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, díla-1 — https://www.kimbundu.org/pt/word/dila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1057,
+      "kimbundu_term": "Diladi",
+      "portuguese_translation": "Do português: Dedal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diladi-1 — https://www.kimbundu.org/pt/word/diladi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1058,
+      "kimbundu_term": "Diláji",
+      "portuguese_translation": "Alienado",
+      "definition": null,
+      "alternative_meanings": [
+        "doido. Fig. Estroina"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diláji-1 — https://www.kimbundu.org/pt/word/dilaji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1059,
+      "kimbundu_term": "Dilála",
+      "portuguese_translation": "Cesto ou saco que o trapador leva à cintura, para meter as frutas que tirar da árvore",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dilála-1 — https://www.kimbundu.org/pt/word/dilala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1060,
+      "kimbundu_term": "Dilalânza",
+      "portuguese_translation": "Laranja",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dilalânza-1 — https://www.kimbundu.org/pt/word/dilalanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1061,
+      "kimbundu_term": "Dilámba",
+      "portuguese_translation": "Aflição",
+      "definition": null,
+      "alternative_meanings": [
+        "dessossego. Nostalgia",
+        "tristeza"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dilámba-1 — https://www.kimbundu.org/pt/word/dilamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1062,
+      "kimbundu_term": "Dilambelu",
+      "portuguese_translation": "Lugar onde se cozinha. Fogão",
+      "definition": null,
+      "alternative_meanings": [
+        "lareira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dilambelu-1 — https://www.kimbundu.org/pt/word/dilambelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1063,
+      "kimbundu_term": "Dilâmbula",
+      "portuguese_translation": "Sardinha (gorda ou fêmea)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dilâmbula-1 — https://www.kimbundu.org/pt/word/dilambula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
