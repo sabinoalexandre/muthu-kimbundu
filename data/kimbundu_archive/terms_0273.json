@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2834,
+      "kimbundu_term": "Jitanu",
+      "portuguese_translation": "Composto de quatro unidades mais uma",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jitanu-1 — https://www.kimbundu.org/pt/word/jitanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2835,
+      "kimbundu_term": "Jitanu",
+      "portuguese_translation": "Cinco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jitanu-1 — https://www.kimbundu.org/pt/word/jitanu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2836,
+      "kimbundu_term": "Jitata",
+      "portuguese_translation": "O pai e a mãe (em qualquer espécie). Avós e demais progenitores de uma família",
+      "definition": null,
+      "alternative_meanings": [
+        "Os pais",
+        "os avós",
+        "Autores",
+        "fundadores"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jitata-1 — https://www.kimbundu.org/pt/word/jitata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2837,
+      "kimbundu_term": "Jitatu",
+      "portuguese_translation": "Três",
+      "definition": null,
+      "alternative_meanings": [
+        "Dois mais um",
+        "Conjunto de três"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jitatu-1 — https://www.kimbundu.org/pt/word/jitatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2838,
+      "kimbundu_term": "Jithambi",
+      "portuguese_translation": "Registo de óbitos",
+      "definition": null,
+      "alternative_meanings": [
+        "Mortes",
+        "Falecimentos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jithambi-1 — https://www.kimbundu.org/pt/word/jithambi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2839,
+      "kimbundu_term": "Jitongo",
+      "portuguese_translation": "Pevides de imbondeiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jitongo-1 — https://www.kimbundu.org/pt/word/jitongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2840,
+      "kimbundu_term": "Jitongo",
+      "portuguese_translation": "Os caroços contidos na múkua",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jitongo-1 — https://www.kimbundu.org/pt/word/jitongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2841,
+      "kimbundu_term": "Jitotokanya",
+      "portuguese_translation": "Diz-se do milho que, torrado, estala ao calor do fogo e fica como se fora flor de jasmineiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jitotokanya-1 — https://www.kimbundu.org/pt/word/jitotokanya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2842,
+      "kimbundu_term": "Jitu",
+      "portuguese_translation": "Ribeira",
+      "definition": null,
+      "alternative_meanings": [
+        "Pequeno curso de água",
+        "Fonte"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jitu-1 — https://www.kimbundu.org/pt/word/jitu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2843,
+      "kimbundu_term": "Jitu",
+      "portuguese_translation": "Que vive ou anda pelos rios ou ribeiras",
+      "definition": null,
+      "alternative_meanings": [
+        "Ribeirinho"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jitu-2 — https://www.kimbundu.org/pt/word/jitu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
