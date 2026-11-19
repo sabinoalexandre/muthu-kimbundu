@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10074,
+      "kimbundu_term": "Kulangidila",
+      "portuguese_translation": "Estar alerta, de sentinela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulangidila-1 — https://www.kimbundu.org/pt/word/kulangidila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10075,
+      "kimbundu_term": "Kulangidila",
+      "portuguese_translation": "Ter cuidado",
+      "definition": null,
+      "alternative_meanings": [
+        "estar atento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulangidila-1 — https://www.kimbundu.org/pt/word/kulangidila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10076,
+      "kimbundu_term": "Kulangidila",
+      "portuguese_translation": "Kurilangirila, v. r. Guardar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "exercer vigilância sobre si próprio"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulangidila-1 — https://www.kimbundu.org/pt/word/kulangidila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10077,
+      "kimbundu_term": "Kulanguka",
+      "portuguese_translation": "Penar",
+      "definition": null,
+      "alternative_meanings": [
+        "ter sofrimento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulanguka-1 — https://www.kimbundu.org/pt/word/kulanguka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10078,
+      "kimbundu_term": "Kulangúla",
+      "portuguese_translation": "Fazer perturbar, sofrer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulangúla-1 — https://www.kimbundu.org/pt/word/kulangula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10079,
+      "kimbundu_term": "Kulangumuka",
+      "portuguese_translation": "Cair (com",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulangumuka-1 — https://www.kimbundu.org/pt/word/kulangumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10080,
+      "kimbundu_term": "Kulangumuna",
+      "portuguese_translation": "Precipitar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer cair estrondosamente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulangumuna-1 — https://www.kimbundu.org/pt/word/kulangumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10081,
+      "kimbundu_term": "Kulangumuna",
+      "portuguese_translation": "Esbarrondar",
+      "definition": null,
+      "alternative_meanings": [
+        "deitar abaixo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulangumuna-1 — https://www.kimbundu.org/pt/word/kulangumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10082,
+      "kimbundu_term": "Kulangumuna",
+      "portuguese_translation": "Kurilangumuna, v. r. Atirar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "precipitar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulangumuna-1 — https://www.kimbundu.org/pt/word/kulangumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10083,
+      "kimbundu_term": "Kulaúka",
+      "portuguese_translation": "Despencar",
+      "definition": null,
+      "alternative_meanings": [
+        "cair de muito alto"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulaúka-1 — https://www.kimbundu.org/pt/word/kulauka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
