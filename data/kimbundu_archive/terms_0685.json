@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6954,
+      "kimbundu_term": "Kubabata",
+      "portuguese_translation": "Tatear",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubabata-1 — https://www.kimbundu.org/pt/word/kubabata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6955,
+      "kimbundu_term": "Kubabata",
+      "portuguese_translation": "Procurar às escuras tateando",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubabata-1 — https://www.kimbundu.org/pt/word/kubabata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6956,
+      "kimbundu_term": "Kubabata",
+      "portuguese_translation": "Topar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubabata-1 — https://www.kimbundu.org/pt/word/kubabata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6957,
+      "kimbundu_term": "Kubabata",
+      "portuguese_translation": "Apalpamento",
+      "definition": null,
+      "alternative_meanings": [
+        "tateio"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubabata-1 — https://www.kimbundu.org/pt/word/kubabata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6958,
+      "kimbundu_term": "Kubabata",
+      "portuguese_translation": "Apaldela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubabata-1 — https://www.kimbundu.org/pt/word/kubabata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6959,
+      "kimbundu_term": "Kubabata",
+      "portuguese_translation": "Kuribabata, v. r. Apalpar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "passar-se em revista",
+        "examinar-se com as mãos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubabata-1 — https://www.kimbundu.org/pt/word/kubabata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6960,
+      "kimbundu_term": "Kubabéla",
+      "portuguese_translation": "Alisar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar raso",
+        "Pôr ao nível de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubabéla-1 — https://www.kimbundu.org/pt/word/kubabela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6961,
+      "kimbundu_term": "Kubabesa",
+      "portuguese_translation": "Fazer acalentar, bater levemente (para que adormeça)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubabesa-1 — https://www.kimbundu.org/pt/word/kubabesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6962,
+      "kimbundu_term": "Kubabesa",
+      "portuguese_translation": "Mandar afagar (acalmando)",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer carícia"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubabesa-1 — https://www.kimbundu.org/pt/word/kubabesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6963,
+      "kimbundu_term": "Kubabula",
+      "portuguese_translation": "Assar, queimar em casca",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubabula-1 — https://www.kimbundu.org/pt/word/kubabula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
