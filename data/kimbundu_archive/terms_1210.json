@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12204,
+      "kimbundu_term": "Kuteialalesa",
+      "portuguese_translation": "Estridular: tornar agudo (o som)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuteialalesa-1 — https://www.kimbundu.org/pt/word/kuteialalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12205,
+      "kimbundu_term": "Kuteialalesa",
+      "portuguese_translation": "Resequir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuteialalesa-1 — https://www.kimbundu.org/pt/word/kuteialalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12206,
+      "kimbundu_term": "Kutéka",
+      "portuguese_translation": "Tingir",
+      "definition": null,
+      "alternative_meanings": [
+        "colorir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutéka-1 — https://www.kimbundu.org/pt/word/kuteka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12207,
+      "kimbundu_term": "Kutéka",
+      "portuguese_translation": "Dar cor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutéka-1 — https://www.kimbundu.org/pt/word/kuteka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12208,
+      "kimbundu_term": "Kutéka",
+      "portuguese_translation": "Coloração, tingidura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutéka-1 — https://www.kimbundu.org/pt/word/kuteka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12209,
+      "kimbundu_term": "Kúteka",
+      "portuguese_translation": "Haurir",
+      "definition": null,
+      "alternative_meanings": [
+        "esgotar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúteka-1 — https://www.kimbundu.org/pt/word/kuteka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12210,
+      "kimbundu_term": "Kúteka",
+      "portuguese_translation": "Fazer água",
+      "definition": null,
+      "alternative_meanings": [
+        "filtrar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúteka-1 — https://www.kimbundu.org/pt/word/kuteka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12211,
+      "kimbundu_term": "Kúteka",
+      "portuguese_translation": "Ter água própria: mbinda K'aritekê, mubixa K'aritumu'ê",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúteka-1 — https://www.kimbundu.org/pt/word/kuteka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12212,
+      "kimbundu_term": "Kúteka",
+      "portuguese_translation": "Abastecer-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúteka-1 — https://www.kimbundu.org/pt/word/kuteka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12213,
+      "kimbundu_term": "Kutekama",
+      "portuguese_translation": "Tomar cor",
+      "definition": null,
+      "alternative_meanings": [
+        "ficar tingido (de preto)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutekama-1 — https://www.kimbundu.org/pt/word/kutekama",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
