@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 234,
+      "kimbundu_term": "Alóngi",
+      "portuguese_translation": "Ensinadores",
+      "definition": null,
+      "alternative_meanings": [
+        "Educadores",
+        "Mestres"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, alóngi-1 — https://www.kimbundu.org/pt/word/alongi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 235,
+      "kimbundu_term": "Alongi",
+      "portuguese_translation": "Que carregam barcos ou vagões",
+      "definition": null,
+      "alternative_meanings": [
+        "Carregadores",
+        "Que embarcam gado, géneros e outros artigos",
+        "Encarregados de embarque"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, alongi-1 — https://www.kimbundu.org/pt/word/alongi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 236,
+      "kimbundu_term": "Aluka",
+      "portuguese_translation": "que exprime vários afetos",
+      "definition": null,
+      "alternative_meanings": [
+        "Atenção!",
+        "Alerta!",
+        "Cuidado!",
+        "Cautela!"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, aluka-1 — https://www.kimbundu.org/pt/word/aluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 237,
+      "kimbundu_term": "Aluka",
+      "portuguese_translation": "Ato de atender",
+      "definition": null,
+      "alternative_meanings": [
+        "Silêncio e consideração com que se ouve",
+        "Cuidado"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, aluka-1 — https://www.kimbundu.org/pt/word/aluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 238,
+      "kimbundu_term": "Aluka",
+      "portuguese_translation": "Veja lá",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, aluka-1 — https://www.kimbundu.org/pt/word/aluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 239,
+      "kimbundu_term": "Aluka",
+      "portuguese_translation": "toma cuidado",
+      "definition": null,
+      "alternative_meanings": [
+        "Acautela-te",
+        "Tem paciência"
+      ],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, aluka-1 — https://www.kimbundu.org/pt/word/aluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 240,
+      "kimbundu_term": "Alúlu",
+      "portuguese_translation": "Filhos do neto ou neta",
+      "definition": null,
+      "alternative_meanings": [
+        "Bisnetos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, alúlu-1 — https://www.kimbundu.org/pt/word/alulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 241,
+      "kimbundu_term": "Alúlu",
+      "portuguese_translation": "Descendentes",
+      "definition": null,
+      "alternative_meanings": [
+        "Sucessores"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, alúlu-1 — https://www.kimbundu.org/pt/word/alulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 242,
+      "kimbundu_term": "Amá",
+      "portuguese_translation": "Toma!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, amá-1 — https://www.kimbundu.org/pt/word/ama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 243,
+      "kimbundu_term": "Amá",
+      "portuguese_translation": "Palavra que anuncia o ato de dar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, amá-1 — https://www.kimbundu.org/pt/word/ama",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
