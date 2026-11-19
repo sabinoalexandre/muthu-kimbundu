@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5534,
+      "kimbundu_term": "Kima",
+      "portuguese_translation": "Tudo que ocupa um espaço ou lugar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kima-1 — https://www.kimbundu.org/pt/word/kima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5535,
+      "kimbundu_term": "Kima",
+      "portuguese_translation": "Ser",
+      "definition": null,
+      "alternative_meanings": [
+        "sujeito",
+        "indivíduo. Exemplar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kima-1 — https://www.kimbundu.org/pt/word/kima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5536,
+      "kimbundu_term": "Kimajï",
+      "portuguese_translation": "Icterícia. Derramamento da bílis",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimajï-1 — https://www.kimbundu.org/pt/word/kimaji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5537,
+      "kimbundu_term": "Kimalanga",
+      "portuguese_translation": "Mamífero carnívoro digitígrado. Hiena",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimalanga-1 — https://www.kimbundu.org/pt/word/kimalanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5538,
+      "kimbundu_term": "Kimalauézu",
+      "portuguese_translation": "Aura",
+      "definition": null,
+      "alternative_meanings": [
+        "espírito sideral"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimalauézu-1 — https://www.kimbundu.org/pt/word/kimalauezu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5539,
+      "kimbundu_term": "Kimalauézu",
+      "portuguese_translation": "Personagem mitológica que figura como soberano insigne ou grão-potentado nos contos, fábulas ou histórias. Astral",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimalauézu-1 — https://www.kimbundu.org/pt/word/kimalauezu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5540,
+      "kimbundu_term": "Kimáma",
+      "portuguese_translation": "Iguaria feita de gergelim, farinha e sal. Matete",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimáma-1 — https://www.kimbundu.org/pt/word/kimama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5541,
+      "kimbundu_term": "Kimamáma",
+      "portuguese_translation": "Mulher forte e desajeitada. Mulheranga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimamáma-1 — https://www.kimbundu.org/pt/word/kimamama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5542,
+      "kimbundu_term": "Kimamányi",
+      "portuguese_translation": "Mulherona. Mulheraça",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimamányi-1 — https://www.kimbundu.org/pt/word/kimamanyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5543,
+      "kimbundu_term": "Kimánga",
+      "portuguese_translation": "Ceira",
+      "definition": null,
+      "alternative_meanings": [
+        "sacola"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimánga-1 — https://www.kimbundu.org/pt/word/kimanga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
