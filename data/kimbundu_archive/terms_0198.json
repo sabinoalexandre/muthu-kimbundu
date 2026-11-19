@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2084,
+      "kimbundu_term": "Ikau",
+      "portuguese_translation": "Campinas",
+      "definition": null,
+      "alternative_meanings": [
+        "Campos",
+        "Jogos campestres"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ikau-1 — https://www.kimbundu.org/pt/word/ikau",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2085,
+      "kimbundu_term": "Ikau",
+      "portuguese_translation": "Pov. e posto civ. deste nome, na circ. civ. do Dande, prov. e distr. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ikau-1 — https://www.kimbundu.org/pt/word/ikau",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2086,
+      "kimbundu_term": "Ike",
+      "portuguese_translation": "Agora",
+      "definition": null,
+      "alternative_meanings": [
+        "neste momento",
+        "Neste instante"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ike-1 — https://www.kimbundu.org/pt/word/ike",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2087,
+      "kimbundu_term": "Ikelekete",
+      "portuguese_translation": "Espigas de milho definhadas",
+      "definition": null,
+      "alternative_meanings": [
+        "Pequenas maçarocas com escassos bagos de milho",
+        "Refugo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ikelekete-1 — https://www.kimbundu.org/pt/word/ikelekete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2088,
+      "kimbundu_term": "Ikengele",
+      "portuguese_translation": "Soslaio",
+      "definition": null,
+      "alternative_meanings": [
+        "esguelha",
+        "Obliquidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ikengele-1 — https://www.kimbundu.org/pt/word/ikengele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2089,
+      "kimbundu_term": "Ikengele",
+      "portuguese_translation": "De soslaio",
+      "definition": null,
+      "alternative_meanings": [
+        "Obliquamente",
+        "Em diagonal",
+        "Ao invés"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ikengele-1 — https://www.kimbundu.org/pt/word/ikengele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2090,
+      "kimbundu_term": "Ikengele",
+      "portuguese_translation": "Não perpendicular",
+      "definition": null,
+      "alternative_meanings": [
+        "Oblíquo",
+        "Que se apresenta ou vai de soslaio",
+        "Dirigido de lado",
+        "Diagonal"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ikengele-1 — https://www.kimbundu.org/pt/word/ikengele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2091,
+      "kimbundu_term": "Ikese",
+      "portuguese_translation": "Peças que constituem as conchas dos mariscos",
+      "definition": null,
+      "alternative_meanings": [
+        "Valvas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ikese-1 — https://www.kimbundu.org/pt/word/ikese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2092,
+      "kimbundu_term": "Ikobiakobia",
+      "portuguese_translation": "Cantos dos olhos",
+      "definition": null,
+      "alternative_meanings": [
+        "Situação atravessada",
+        "esguelha",
+        "obliquidade",
+        "Travês",
+        "Lado",
+        "revês"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ikobiakobia-1 — https://www.kimbundu.org/pt/word/ikobiakobia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2093,
+      "kimbundu_term": "Ikobiakobia",
+      "portuguese_translation": "De travês",
+      "definition": null,
+      "alternative_meanings": [
+        "Obliquamente",
+        "de lado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ikobiakobia-1 — https://www.kimbundu.org/pt/word/ikobiakobia",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
