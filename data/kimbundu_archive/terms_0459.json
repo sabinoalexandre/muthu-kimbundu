@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4694,
+      "kimbundu_term": "Kibubidilu",
+      "portuguese_translation": "Malóito: perverso",
+      "definition": null,
+      "alternative_meanings": [
+        "Maldizente"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibubidilu-1 — https://www.kimbundu.org/pt/word/kibubidilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4695,
+      "kimbundu_term": "Kibubidilu",
+      "portuguese_translation": "Maldição",
+      "definition": null,
+      "alternative_meanings": [
+        "imprecação de males contra alguém",
+        "Praga"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibubidilu-1 — https://www.kimbundu.org/pt/word/kibubidilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4696,
+      "kimbundu_term": "Kibubílu",
+      "portuguese_translation": "Pingadouro",
+      "definition": null,
+      "alternative_meanings": [
+        "Utensílio onde vazam sucos. Vaso onde se recolhem pingos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibubílu-1 — https://www.kimbundu.org/pt/word/kibubilu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4697,
+      "kimbundu_term": "Kibubise",
+      "portuguese_translation": "Que faz vazar ou correr como líquido",
+      "definition": null,
+      "alternative_meanings": [
+        "Que provoca hemorragia"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibubise-1 — https://www.kimbundu.org/pt/word/kibubise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4698,
+      "kimbundu_term": "Kibúbu",
+      "portuguese_translation": "Som produzido pelo bater das mãos cruzadas. (Traduz admiração, sentimento, tristeza)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibúbu-1 — https://www.kimbundu.org/pt/word/kibubu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4699,
+      "kimbundu_term": "Kibubuia",
+      "portuguese_translation": "Abrigo",
+      "definition": null,
+      "alternative_meanings": [
+        "Choupana: palhota"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibubuia-1 — https://www.kimbundu.org/pt/word/kibubuia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4700,
+      "kimbundu_term": "Kibubulu",
+      "portuguese_translation": "Desatinado",
+      "definition": null,
+      "alternative_meanings": [
+        "Destituído de inteligência",
+        "Vão",
+        "frívolo",
+        "Vazio",
+        "oco",
+        "Leve",
+        "Despejado",
+        "sem consistência"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibubulu-1 — https://www.kimbundu.org/pt/word/kibubulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4701,
+      "kimbundu_term": "Kibuia",
+      "portuguese_translation": "Chata",
+      "definition": null,
+      "alternative_meanings": [
+        "jangada",
+        "batel"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibuia-1 — https://www.kimbundu.org/pt/word/kibuia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4702,
+      "kimbundu_term": "Kibuia",
+      "portuguese_translation": "Embarcação para carga e descarga de mercadorias",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibuia-1 — https://www.kimbundu.org/pt/word/kibuia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4703,
+      "kimbundu_term": "Kibuia",
+      "portuguese_translation": "Vagão para transporte de géneros",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibuia-1 — https://www.kimbundu.org/pt/word/kibuia",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
