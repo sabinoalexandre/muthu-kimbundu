@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15904,
+      "kimbundu_term": "Mubáse",
+      "portuguese_translation": "Rachador",
+      "definition": null,
+      "alternative_meanings": [
+        "Que estrangalha",
+        "que faz lascas",
+        "Lenhador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mubáse-1 — https://www.kimbundu.org/pt/word/mubase",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15905,
+      "kimbundu_term": "Mubate",
+      "portuguese_translation": "Calafate",
+      "definition": null,
+      "alternative_meanings": [
+        "tapador de fendas, rachas, etc",
+        "Calcador"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mubate-1 — https://www.kimbundu.org/pt/word/mubate",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15906,
+      "kimbundu_term": "Mubate",
+      "portuguese_translation": "Peixe do mar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mubate-1 — https://www.kimbundu.org/pt/word/mubate",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15907,
+      "kimbundu_term": "Mubatudi",
+      "portuguese_translation": "Cortador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mubatudi-1 — https://www.kimbundu.org/pt/word/mubatudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15908,
+      "kimbundu_term": "Múbaze",
+      "portuguese_translation": "Capador",
+      "definition": null,
+      "alternative_meanings": [
+        "Que castra animais domésticos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múbaze-1 — https://www.kimbundu.org/pt/word/mubaze",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15909,
+      "kimbundu_term": "Múbazu",
+      "portuguese_translation": "Ruído forte e breve",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múbazu-1 — https://www.kimbundu.org/pt/word/mubazu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15910,
+      "kimbundu_term": "Múbazu",
+      "portuguese_translation": "Ralho",
+      "definition": null,
+      "alternative_meanings": [
+        "urro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múbazu-1 — https://www.kimbundu.org/pt/word/mubazu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15911,
+      "kimbundu_term": "Múbe",
+      "portuguese_translation": "Árvore fam. das combretáceas (combretum holocericium), de madeira própria para carvão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múbe-1 — https://www.kimbundu.org/pt/word/mube",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15912,
+      "kimbundu_term": "Múbe",
+      "portuguese_translation": "Carvalho (combretum imberbe)",
+      "definition": null,
+      "alternative_meanings": [
+        "árvore de madeira resistente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múbe-1 — https://www.kimbundu.org/pt/word/mube",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15913,
+      "kimbundu_term": "Múbe",
+      "portuguese_translation": "Dador. Que cede",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múbe-2 — https://www.kimbundu.org/pt/word/mube",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
