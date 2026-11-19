@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3854,
+      "kimbundu_term": "Kangatu",
+      "portuguese_translation": "De gato",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kangatu-1 — https://www.kimbundu.org/pt/word/kangatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3855,
+      "kimbundu_term": "Kange",
+      "portuguese_translation": "Atado",
+      "definition": null,
+      "alternative_meanings": [
+        "amarrado. Preso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kange-1 — https://www.kimbundu.org/pt/word/kange",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3856,
+      "kimbundu_term": "Kange",
+      "portuguese_translation": "Torrado",
+      "definition": null,
+      "alternative_meanings": [
+        "frito"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kange-1 — https://www.kimbundu.org/pt/word/kange",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3857,
+      "kimbundu_term": "Kangela",
+      "portuguese_translation": "Corninho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kangela-1 — https://www.kimbundu.org/pt/word/kangela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3858,
+      "kimbundu_term": "Kangela",
+      "portuguese_translation": "Pequeno chavelho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kangela-1 — https://www.kimbundu.org/pt/word/kangela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3859,
+      "kimbundu_term": "Kangela",
+      "portuguese_translation": "Cornífero",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kangela-1 — https://www.kimbundu.org/pt/word/kangela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3860,
+      "kimbundu_term": "Kangeleke",
+      "portuguese_translation": "Oblíquo",
+      "definition": null,
+      "alternative_meanings": [
+        "atravessado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kangeleke-1 — https://www.kimbundu.org/pt/word/kangeleke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3861,
+      "kimbundu_term": "Kangéma",
+      "portuguese_translation": "de ngéma",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kangéma-1 — https://www.kimbundu.org/pt/word/kangema",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3862,
+      "kimbundu_term": "Kángengo",
+      "portuguese_translation": "Pausinho com desenho em relevo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kángengo-1 — https://www.kimbundu.org/pt/word/kangengo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3863,
+      "kimbundu_term": "Kángengo",
+      "portuguese_translation": "Camafeu. fig. Cara feia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kángengo-1 — https://www.kimbundu.org/pt/word/kangengo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
