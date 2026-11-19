@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9384,
+      "kimbundu_term": "Kukenzuluka",
+      "portuguese_translation": "Clarear",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukenzuluka-1 — https://www.kimbundu.org/pt/word/kukenzuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9385,
+      "kimbundu_term": "Kukenzuluka",
+      "portuguese_translation": "Ficar desanuviado, limpo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukenzuluka-1 — https://www.kimbundu.org/pt/word/kukenzuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9386,
+      "kimbundu_term": "Kukenzuluka",
+      "portuguese_translation": "Clareza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukenzuluka-1 — https://www.kimbundu.org/pt/word/kukenzuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9387,
+      "kimbundu_term": "Kukenzulula",
+      "portuguese_translation": "Aclarar",
+      "definition": null,
+      "alternative_meanings": [
+        "clarificar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukenzulula-1 — https://www.kimbundu.org/pt/word/kukenzulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9388,
+      "kimbundu_term": "Kukenzulula",
+      "portuguese_translation": "Tornar a coar, filtrar, escorrer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukenzulula-1 — https://www.kimbundu.org/pt/word/kukenzulula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9389,
+      "kimbundu_term": "Kúkesa",
+      "portuguese_translation": "Roer, morder lentamente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkesa-1 — https://www.kimbundu.org/pt/word/kukesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9390,
+      "kimbundu_term": "Kúkesa",
+      "portuguese_translation": "Bifar",
+      "definition": null,
+      "alternative_meanings": [
+        "furtar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkesa-1 — https://www.kimbundu.org/pt/word/kukesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9391,
+      "kimbundu_term": "Kukesesa",
+      "portuguese_translation": "Fazer mordiscar",
+      "definition": null,
+      "alternative_meanings": [
+        "corroer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukesesa-1 — https://www.kimbundu.org/pt/word/kukesesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9392,
+      "kimbundu_term": "Kukesujuka",
+      "portuguese_translation": "Ficar reduzido a muitos pedaços, roído em diferentes partes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukesujuka-1 — https://www.kimbundu.org/pt/word/kukesujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9393,
+      "kimbundu_term": "Kukesujula",
+      "portuguese_translation": "Roer em diferentes partes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukesujula-1 — https://www.kimbundu.org/pt/word/kukesujula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
