@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 20144,
+      "kimbundu_term": "Yangu",
+      "portuguese_translation": "Cascas",
+      "definition": null,
+      "alternative_meanings": [
+        "invólucros de frutas, cápsulas, etc"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yangu-1 — https://www.kimbundu.org/pt/word/yangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20145,
+      "kimbundu_term": "Yangu",
+      "portuguese_translation": "Quantidade de folhas de árvore secas",
+      "definition": null,
+      "alternative_meanings": [
+        "Cascabulho",
+        "Feno",
+        "Forragem",
+        "Pasto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yangu-1 — https://www.kimbundu.org/pt/word/yangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20146,
+      "kimbundu_term": "Yangu",
+      "portuguese_translation": "Varreduras",
+      "definition": null,
+      "alternative_meanings": [
+        "O que se recolhe varrendo",
+        "Cisco",
+        "Palha",
+        "Lixo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yangu-1 — https://www.kimbundu.org/pt/word/yangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20147,
+      "kimbundu_term": "Yangu",
+      "portuguese_translation": "V. kauéue",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yangu-1 — https://www.kimbundu.org/pt/word/yangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20148,
+      "kimbundu_term": "Yangu",
+      "portuguese_translation": "planta medicinal da família das ambrosiáceas mais conhecida por «herva Santa Maria»",
+      "definition": null,
+      "alternative_meanings": [
+        "Ambrósia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yangu-1 — https://www.kimbundu.org/pt/word/yangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20149,
+      "kimbundu_term": "Yangu",
+      "portuguese_translation": "Plantas ambrosióides",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yangu-1 — https://www.kimbundu.org/pt/word/yangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20150,
+      "kimbundu_term": "Yangu",
+      "portuguese_translation": "Capinzal",
+      "definition": null,
+      "alternative_meanings": [
+        "Terra de capim",
+        "Terreno onde cresce capim"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yangu-1 — https://www.kimbundu.org/pt/word/yangu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20151,
+      "kimbundu_term": "Yaye",
+      "portuguese_translation": "Teus, tuas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yaye-1 — https://www.kimbundu.org/pt/word/yaye",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20152,
+      "kimbundu_term": "Yene",
+      "portuguese_translation": "(III) Exprime afirmação, consentimento, anuência",
+      "definition": null,
+      "alternative_meanings": [
+        "Sim",
+        "Efetivamente",
+        "Na verdade"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yene-1 — https://www.kimbundu.org/pt/word/yene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 20153,
+      "kimbundu_term": "Yene",
+      "portuguese_translation": "Como adv. interrog. indica surpresa e equivale à «será isto?»",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, yene-1 — https://www.kimbundu.org/pt/word/yene",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
