@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15334,
+      "kimbundu_term": "Mbuémbue",
+      "portuguese_translation": "verbo intransitivo, murmurar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuémbue-1 — https://www.kimbundu.org/pt/word/mbuembue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15335,
+      "kimbundu_term": "Mbuende",
+      "portuguese_translation": "Adjetivo. Recente",
+      "definition": null,
+      "alternative_meanings": [
+        "novo",
+        "tenro",
+        "cortado ou colhido há pouco",
+        "pouco desenvolvido"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuende-1 — https://www.kimbundu.org/pt/word/mbuende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15336,
+      "kimbundu_term": "Mbuende",
+      "portuguese_translation": "Substantivo. Diz-se da batata ou mandioca miúda, pouco desenvolvida. Tamboeira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuende-1 — https://www.kimbundu.org/pt/word/mbuende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15337,
+      "kimbundu_term": "Mbuetete",
+      "portuguese_translation": "Instrumento músico, forma de kisanji com palhetas de aparas de bordão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuetete-1 — https://www.kimbundu.org/pt/word/mbuetete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15338,
+      "kimbundu_term": "Mbuetete",
+      "portuguese_translation": "A dança ou música tocada neste instrumento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuetete-1 — https://www.kimbundu.org/pt/word/mbuetete",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15339,
+      "kimbundu_term": "Mbufamena",
+      "portuguese_translation": "Noitibó",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbufamena-1 — https://www.kimbundu.org/pt/word/mbufamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15340,
+      "kimbundu_term": "Mbui",
+      "portuguese_translation": "Bola (de funji)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbui-1 — https://www.kimbundu.org/pt/word/mbui",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15341,
+      "kimbundu_term": "Mbui",
+      "portuguese_translation": "corografia. Região que constitui a área da circunscrição civil do Amboim, distrito do Cuanza-Sul, província de Benguela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbui-1 — https://www.kimbundu.org/pt/word/mbui",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15342,
+      "kimbundu_term": "Mbuiva",
+      "portuguese_translation": "corografia. Povoação e sede do posto de Amboiva, circunscrição civil do Seles, distrito do Cuanza-Sul, província de Beng",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbuiva-1 — https://www.kimbundu.org/pt/word/mbuiva",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15343,
+      "kimbundu_term": "Mbúke",
+      "portuguese_translation": "Humidade fria da noite",
+      "definition": null,
+      "alternative_meanings": [
+        "Sereno",
+        "Orvalho",
+        "cacimbo",
+        "Nevoeiro denso",
+        "Caligem",
+        "Neblina",
+        "geada",
+        "relento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbúke-1 — https://www.kimbundu.org/pt/word/mbuke",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
