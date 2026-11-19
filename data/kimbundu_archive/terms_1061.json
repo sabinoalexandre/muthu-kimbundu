@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10714,
+      "kimbundu_term": "Kumuena",
+      "portuguese_translation": "Estar à vista",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumuena-1 — https://www.kimbundu.org/pt/word/kumuena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10715,
+      "kimbundu_term": "Kumuesa",
+      "portuguese_translation": "Fazer ver, passar por: ua ngi imuesa harl",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumuesa-1 — https://www.kimbundu.org/pt/word/kumuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10716,
+      "kimbundu_term": "Kumuesa",
+      "portuguese_translation": "Pôr à prova, à vista",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumuesa-1 — https://www.kimbundu.org/pt/word/kumuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10717,
+      "kimbundu_term": "Kumuesa",
+      "portuguese_translation": "Kurimuesa, e r. Mostrar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "dar-se a conhecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumuesa-1 — https://www.kimbundu.org/pt/word/kumuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10718,
+      "kimbundu_term": "Kumuesa",
+      "portuguese_translation": "Pôr-se às vistas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumuesa-1 — https://www.kimbundu.org/pt/word/kumuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10719,
+      "kimbundu_term": "Kumuikisa",
+      "portuguese_translation": "Fazer alumiar, aclarar, dar luz. É tb. r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumuikisa-1 — https://www.kimbundu.org/pt/word/kumuikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10720,
+      "kimbundu_term": "Kumumata",
+      "portuguese_translation": "Ter água na boca",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumumata-1 — https://www.kimbundu.org/pt/word/kumumata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10721,
+      "kimbundu_term": "Kumumunya",
+      "portuguese_translation": "Mastigar alimentos de boca fechada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumumunya-1 — https://www.kimbundu.org/pt/word/kumumunya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10722,
+      "kimbundu_term": "Kumúna",
+      "portuguese_translation": "Compartilhar",
+      "definition": null,
+      "alternative_meanings": [
+        "participar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumúna-1 — https://www.kimbundu.org/pt/word/kumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10723,
+      "kimbundu_term": "Kumúna",
+      "portuguese_translation": "Ter direito a",
+      "definition": null,
+      "alternative_meanings": [
+        "ser comparte"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumúna-1 — https://www.kimbundu.org/pt/word/kumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
