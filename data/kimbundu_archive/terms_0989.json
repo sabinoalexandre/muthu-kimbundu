@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9994,
+      "kimbundu_term": "Kulaluka",
+      "portuguese_translation": "Ir à mercê da corrente, das ondas. Boiar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulaluka-1 — https://www.kimbundu.org/pt/word/kulaluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9995,
+      "kimbundu_term": "Kulaluka",
+      "portuguese_translation": "Bargantear",
+      "definition": null,
+      "alternative_meanings": [
+        "levar vida de vagabundo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulaluka-1 — https://www.kimbundu.org/pt/word/kulaluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9996,
+      "kimbundu_term": "Kulalukisa",
+      "portuguese_translation": "Alijar. Aliviar (a embarcação). Fazer ir à mercê das águas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulalukisa-1 — https://www.kimbundu.org/pt/word/kulalukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9997,
+      "kimbundu_term": "Kulalukisa",
+      "portuguese_translation": "Desinquietar",
+      "definition": null,
+      "alternative_meanings": [
+        "arrastar outrem para a vadiagem"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulalukisa-1 — https://www.kimbundu.org/pt/word/kulalukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9998,
+      "kimbundu_term": "Kulalukisa",
+      "portuguese_translation": "Alijamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulalukisa-1 — https://www.kimbundu.org/pt/word/kulalukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9999,
+      "kimbundu_term": "Kulalukisa",
+      "portuguese_translation": "Kurilalukisa, v. r. Tornar-se erradio, vagabundo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulalukisa-1 — https://www.kimbundu.org/pt/word/kulalukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10000,
+      "kimbundu_term": "Kulalula",
+      "portuguese_translation": "Tornar boiante, leve. Tirar (a carga para aliviar a embarcação). Aligeirar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulalula-1 — https://www.kimbundu.org/pt/word/kulalula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10001,
+      "kimbundu_term": "Kulalula",
+      "portuguese_translation": "Kurilalula, v. r. Desembaraçar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "alijar-se de responsabilidades"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulalula-1 — https://www.kimbundu.org/pt/word/kulalula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10002,
+      "kimbundu_term": "Kulalula",
+      "portuguese_translation": "sub. Aligeiramento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulalula-1 — https://www.kimbundu.org/pt/word/kulalula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10003,
+      "kimbundu_term": "Kulalúla",
+      "portuguese_translation": "Amparar",
+      "definition": null,
+      "alternative_meanings": [
+        "proteger. Acarinhar",
+        "favorecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulalúla-1 — https://www.kimbundu.org/pt/word/kulalula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
