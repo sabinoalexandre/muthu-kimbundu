@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 1074,
+      "kimbundu_term": "Diláu",
+      "portuguese_translation": "Riqueza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, diláu-1 — https://www.kimbundu.org/pt/word/dilau",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1075,
+      "kimbundu_term": "Dilebu",
+      "portuguese_translation": "Enxovalho",
+      "definition": null,
+      "alternative_meanings": [
+        "humilhação",
+        "afronta"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dilebu-1 — https://www.kimbundu.org/pt/word/dilebu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1076,
+      "kimbundu_term": "Dilebu",
+      "portuguese_translation": "Vexame",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dilebu-1 — https://www.kimbundu.org/pt/word/dilebu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1077,
+      "kimbundu_term": "Dilebu",
+      "portuguese_translation": "Ato injurioso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dilebu-1 — https://www.kimbundu.org/pt/word/dilebu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1078,
+      "kimbundu_term": "Dileka",
+      "portuguese_translation": "Pato marreco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dileka-1 — https://www.kimbundu.org/pt/word/dileka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1079,
+      "kimbundu_term": "Dileka",
+      "portuguese_translation": "e sub. Grasnador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dileka-1 — https://www.kimbundu.org/pt/word/dileka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1080,
+      "kimbundu_term": "Dilekelu",
+      "portuguese_translation": "Lugar de despedida",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dilekelu-1 — https://www.kimbundu.org/pt/word/dilekelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1081,
+      "kimbundu_term": "Dilekese",
+      "portuguese_translation": "Pedra porosa",
+      "definition": null,
+      "alternative_meanings": [
+        "pedra-pomes"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dilekese-1 — https://www.kimbundu.org/pt/word/dilekese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1082,
+      "kimbundu_term": "Dilekese",
+      "portuguese_translation": "Que tem a superfície encrespada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dilekese-1 — https://www.kimbundu.org/pt/word/dilekese",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 1083,
+      "kimbundu_term": "Dileku",
+      "portuguese_translation": "Traquinas",
+      "definition": null,
+      "alternative_meanings": [
+        "saliente",
+        "endiabrado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, dileku-1 — https://www.kimbundu.org/pt/word/dileku",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
