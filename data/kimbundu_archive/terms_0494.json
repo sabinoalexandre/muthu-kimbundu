@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5044,
+      "kimbundu_term": "Kihúhu",
+      "portuguese_translation": "Animal fabuloso (misto de águia e leão)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihúhu-1 — https://www.kimbundu.org/pt/word/kihuhu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5045,
+      "kimbundu_term": "Kihúhu",
+      "portuguese_translation": "Lepra",
+      "definition": null,
+      "alternative_meanings": [
+        "Coisa nociva e contagiosa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihúhu-1 — https://www.kimbundu.org/pt/word/kihuhu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5046,
+      "kimbundu_term": "Kihúhu",
+      "portuguese_translation": "Atafona",
+      "definition": null,
+      "alternative_meanings": [
+        "mó"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihúhu-1 — https://www.kimbundu.org/pt/word/kihuhu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5047,
+      "kimbundu_term": "Kihuke",
+      "portuguese_translation": "Bronco",
+      "definition": null,
+      "alternative_meanings": [
+        "grosseiro",
+        "Tal como saiu da natureza"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihuke-1 — https://www.kimbundu.org/pt/word/kihuke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5048,
+      "kimbundu_term": "Kihuke",
+      "portuguese_translation": "Muito teimoso",
+      "definition": null,
+      "alternative_meanings": [
+        "Obstinado"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihuke-1 — https://www.kimbundu.org/pt/word/kihuke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5049,
+      "kimbundu_term": "Kihuku",
+      "portuguese_translation": "Ignorância",
+      "definition": null,
+      "alternative_meanings": [
+        "falta de saber",
+        "Incompetência"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihuku-1 — https://www.kimbundu.org/pt/word/kihuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5050,
+      "kimbundu_term": "Kihuku",
+      "portuguese_translation": "Ignorantão",
+      "definition": null,
+      "alternative_meanings": [
+        "Bruto",
+        "Homem rude",
+        "É tb. adj"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihuku-1 — https://www.kimbundu.org/pt/word/kihuku",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5051,
+      "kimbundu_term": "Kihumbu",
+      "portuguese_translation": "Privado (por corte) de qualquer membro do corpo",
+      "definition": null,
+      "alternative_meanings": [
+        "Mutilado",
+        "Mutilo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihumbu-1 — https://www.kimbundu.org/pt/word/kihumbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5052,
+      "kimbundu_term": "Kihumbu",
+      "portuguese_translation": "Cortado rente",
+      "definition": null,
+      "alternative_meanings": [
+        "Cérceo",
+        "Sem ficar nada pegado (do que se cortou)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihumbu-1 — https://www.kimbundu.org/pt/word/kihumbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5053,
+      "kimbundu_term": "Kihúndu",
+      "portuguese_translation": "Cerimónia batismal",
+      "definition": null,
+      "alternative_meanings": [
+        "Batizado",
+        "Festim solemnizador do batismo",
+        "Banquete"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kihúndu-1 — https://www.kimbundu.org/pt/word/kihundu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
