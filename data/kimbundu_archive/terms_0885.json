@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8954,
+      "kimbundu_term": "Kujijika",
+      "portuguese_translation": "Kurijijika, v. r. Obrigar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "sujeitar-se",
+        "Prometer cumprir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujijika-1 — https://www.kimbundu.org/pt/word/kujijika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8955,
+      "kimbundu_term": "Kujijila",
+      "portuguese_translation": "Forçar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar obrigatório",
+        "Persistir numa opinião",
+        "continuar num costume",
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujijila-1 — https://www.kimbundu.org/pt/word/kujijila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8956,
+      "kimbundu_term": "Kujijisa",
+      "portuguese_translation": "Fazer teimar",
+      "definition": null,
+      "alternative_meanings": [
+        "contrariar, obstinar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujijisa-1 — https://www.kimbundu.org/pt/word/kujijisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8957,
+      "kimbundu_term": "Kujijisa",
+      "portuguese_translation": "Kurijijisa, v. r. Teimar e persistir",
+      "definition": null,
+      "alternative_meanings": [
+        "não ceder",
+        "fazer-se teimoso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujijisa-1 — https://www.kimbundu.org/pt/word/kujijisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8958,
+      "kimbundu_term": "Kujika",
+      "portuguese_translation": "Fechar",
+      "definition": null,
+      "alternative_meanings": [
+        "Cerrar",
+        "rematar",
+        "Unir as bordas de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujika-1 — https://www.kimbundu.org/pt/word/kujika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8959,
+      "kimbundu_term": "Kujika",
+      "portuguese_translation": "Fechar muitas vezes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujika-1 — https://www.kimbundu.org/pt/word/kujika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8960,
+      "kimbundu_term": "Kujika",
+      "portuguese_translation": "Kurijika, v. r. Fechar-se por si",
+      "definition": null,
+      "alternative_meanings": [
+        "cerrar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujika-1 — https://www.kimbundu.org/pt/word/kujika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8961,
+      "kimbundu_term": "Kujika",
+      "portuguese_translation": "— jika, fechar-se, comprimir-se em muitos lugares",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujika-1 — https://www.kimbundu.org/pt/word/kujika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8962,
+      "kimbundu_term": "Kujikafesa",
+      "portuguese_translation": "Incinerar",
+      "definition": null,
+      "alternative_meanings": [
+        "cremar",
+        "calcinar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujikafesa-1 — https://www.kimbundu.org/pt/word/kujikafesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8963,
+      "kimbundu_term": "Kujikafesa",
+      "portuguese_translation": "Esturrar",
+      "definition": null,
+      "alternative_meanings": [
+        "torrificar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujikafesa-1 — https://www.kimbundu.org/pt/word/kujikafesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
