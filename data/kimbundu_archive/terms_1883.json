@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18934,
+      "kimbundu_term": "Sefu",
+      "portuguese_translation": "Ruminante bovídeo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sefu-1 — https://www.kimbundu.org/pt/word/sefu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18935,
+      "kimbundu_term": "Sekaji",
+      "portuguese_translation": "Tia",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sekaji-1 — https://www.kimbundu.org/pt/word/sekaji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18936,
+      "kimbundu_term": "Séke",
+      "portuguese_translation": "Inseto da família das formicídas, espécie de agude",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, séke-1 — https://www.kimbundu.org/pt/word/seke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18937,
+      "kimbundu_term": "Sekéle",
+      "portuguese_translation": "Secretaria",
+      "definition": null,
+      "alternative_meanings": [
+        "secretário"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sekéle-1 — https://www.kimbundu.org/pt/word/sekele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18938,
+      "kimbundu_term": "Sekeseke",
+      "portuguese_translation": "(III) Da farinha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sekeseke-1 — https://www.kimbundu.org/pt/word/sekeseke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18939,
+      "kimbundu_term": "Sekeseke",
+      "portuguese_translation": "Fragmentos",
+      "definition": null,
+      "alternative_meanings": [
+        "coisas miúdas. Trocos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sekeseke-1 — https://www.kimbundu.org/pt/word/sekeseke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18940,
+      "kimbundu_term": "Sekeseke",
+      "portuguese_translation": "Dinheiro miúdo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sekeseke-1 — https://www.kimbundu.org/pt/word/sekeseke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18941,
+      "kimbundu_term": "Sêki",
+      "portuguese_translation": "Pássaro da família dos merópidas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sêki-1 — https://www.kimbundu.org/pt/word/seki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18942,
+      "kimbundu_term": "Sekulu",
+      "portuguese_translation": "Tio: k'l kuriá o rimi riê",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sekulu-1 — https://www.kimbundu.org/pt/word/sekulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18943,
+      "kimbundu_term": "Sekulu",
+      "portuguese_translation": "Ancião",
+      "definition": null,
+      "alternative_meanings": [
+        "chefe de casa ou sanzala (no Sul da Província)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sekulu-1 — https://www.kimbundu.org/pt/word/sekulu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
