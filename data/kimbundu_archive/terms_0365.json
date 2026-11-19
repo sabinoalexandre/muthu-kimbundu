@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3754,
+      "kimbundu_term": "Kamulumba",
+      "portuguese_translation": "Giboso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamulumba-1 — https://www.kimbundu.org/pt/word/kamulumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3755,
+      "kimbundu_term": "Kamulumba",
+      "portuguese_translation": "Corcovado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamulumba-1 — https://www.kimbundu.org/pt/word/kamulumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3756,
+      "kimbundu_term": "Kamulumba",
+      "portuguese_translation": "Que padece de giba",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamulumba-1 — https://www.kimbundu.org/pt/word/kamulumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3757,
+      "kimbundu_term": "Kamulundu",
+      "portuguese_translation": "Pequena elevação de terreno",
+      "definition": null,
+      "alternative_meanings": [
+        "Pequeno morro",
+        "Monte"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamulundu-1 — https://www.kimbundu.org/pt/word/kamulundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3758,
+      "kimbundu_term": "Kamulundu",
+      "portuguese_translation": "Do monte",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamulundu-1 — https://www.kimbundu.org/pt/word/kamulundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3759,
+      "kimbundu_term": "Kamumbundu",
+      "portuguese_translation": "e sub. (X) Pretinho",
+      "definition": null,
+      "alternative_meanings": [
+        "negrinho",
+        "Rapaz ou rapariga de cor preta. (Toma-se em sentido amistoso)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamumbundu-1 — https://www.kimbundu.org/pt/word/kamumbundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3760,
+      "kimbundu_term": "Kamumbundu",
+      "portuguese_translation": "Do preto ou a ele relativo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamumbundu-1 — https://www.kimbundu.org/pt/word/kamumbundu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3761,
+      "kimbundu_term": "Kamundai",
+      "portuguese_translation": "Pov. na circ. civ. de Cizengo, antiga «quinta Candido Baptista», a 2 km da «Vila Salazar», distr. do Quanza-Norte, prov.",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamundai-1 — https://www.kimbundu.org/pt/word/kamundai",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3762,
+      "kimbundu_term": "Kamundânda",
+      "portuguese_translation": "Expressão equivalente à loc. lat. et caetera",
+      "definition": null,
+      "alternative_meanings": [
+        "O que se não repete por desnecessário",
+        "Etc"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamundânda-1 — https://www.kimbundu.org/pt/word/kamundanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3763,
+      "kimbundu_term": "Kamunzangala",
+      "portuguese_translation": "Homenzinho",
+      "definition": null,
+      "alternative_meanings": [
+        "Jovem",
+        "Rapazote"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamunzangala-1 — https://www.kimbundu.org/pt/word/kamunzangala",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
