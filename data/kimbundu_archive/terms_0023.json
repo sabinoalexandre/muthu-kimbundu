@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 334,
+      "kimbundu_term": "Aua",
+      "portuguese_translation": "(artigo indefinido, plural) Uns",
+      "definition": null,
+      "alternative_meanings": [
+        "umas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, artigo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, aua-1 — https://www.kimbundu.org/pt/word/aua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 335,
+      "kimbundu_term": "Auá",
+      "portuguese_translation": "para exprimir estranheza, aborrecimento, enfado, resignação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, auá-1 — https://www.kimbundu.org/pt/word/aua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 336,
+      "kimbundu_term": "Auáni",
+      "portuguese_translation": "Distribuidores",
+      "definition": null,
+      "alternative_meanings": [
+        "repartidores"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, auáni-1 — https://www.kimbundu.org/pt/word/auani",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 337,
+      "kimbundu_term": "Aumbi",
+      "portuguese_translation": "Oleiros",
+      "definition": null,
+      "alternative_meanings": [
+        "pessoas que trabalham em olaria",
+        "fabricantes de louça de barro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, aumbi-1 — https://www.kimbundu.org/pt/word/aumbi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 338,
+      "kimbundu_term": "Avula",
+      "portuguese_translation": "Pode ser que",
+      "definition": null,
+      "alternative_meanings": [
+        "possivelmente",
+        "talvez"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, avula-1 — https://www.kimbundu.org/pt/word/avula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 339,
+      "kimbundu_term": "Awana",
+      "portuguese_translation": "Quatro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, awana-1 — https://www.kimbundu.org/pt/word/awana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 340,
+      "kimbundu_term": "Axedi",
+      "portuguese_translation": "Sem par",
+      "definition": null,
+      "alternative_meanings": [
+        "sem iguais",
+        "sós",
+        "únicos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, axedi-1 — https://www.kimbundu.org/pt/word/axedi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 341,
+      "kimbundu_term": "Axedi",
+      "portuguese_translation": "Os que ficaram",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, axedi-1 — https://www.kimbundu.org/pt/word/axedi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 342,
+      "kimbundu_term": "Axiki",
+      "portuguese_translation": "Tocadores de música",
+      "definition": null,
+      "alternative_meanings": [
+        "músicos",
+        "tangedores"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, axiki-1 — https://www.kimbundu.org/pt/word/axiki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 343,
+      "kimbundu_term": "Axikongo",
+      "portuguese_translation": "Indivíduos que, sendo naturais do Congo, residem em outra localidade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, axikongo-1 — https://www.kimbundu.org/pt/word/axikongo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
