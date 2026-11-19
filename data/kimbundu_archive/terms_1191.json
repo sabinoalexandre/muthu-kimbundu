@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12014,
+      "kimbundu_term": "Kutabula",
+      "portuguese_translation": "Levar ou transportar (alguém) para outra banda",
+      "definition": null,
+      "alternative_meanings": [
+        "Trazer a porto",
+        "desembarcar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutabula-1 — https://www.kimbundu.org/pt/word/kutabula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12015,
+      "kimbundu_term": "Kutabula",
+      "portuguese_translation": "Kuritabula, e r. Transportar-se para outra margem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutabula-1 — https://www.kimbundu.org/pt/word/kutabula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12016,
+      "kimbundu_term": "Kutadika",
+      "portuguese_translation": "Mercadejar",
+      "definition": null,
+      "alternative_meanings": [
+        "negociar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutadika-1 — https://www.kimbundu.org/pt/word/kutadika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12017,
+      "kimbundu_term": "Kutadika",
+      "portuguese_translation": "Pôr a preço de venda",
+      "definition": null,
+      "alternative_meanings": [
+        "feirar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutadika-1 — https://www.kimbundu.org/pt/word/kutadika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12018,
+      "kimbundu_term": "Kutadinga",
+      "portuguese_translation": "Brilhar",
+      "definition": null,
+      "alternative_meanings": [
+        "fulgir",
+        "Diz-se dos olhos azuis ou verdes brilhantes, luminosos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutadinga-1 — https://www.kimbundu.org/pt/word/kutadinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12019,
+      "kimbundu_term": "Kutadinga",
+      "portuguese_translation": "Fulgor",
+      "definition": null,
+      "alternative_meanings": [
+        "brilho"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutadinga-1 — https://www.kimbundu.org/pt/word/kutadinga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12020,
+      "kimbundu_term": "Kutajima",
+      "portuguese_translation": "Rutilar",
+      "definition": null,
+      "alternative_meanings": [
+        "resplandecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutajima-1 — https://www.kimbundu.org/pt/word/kutajima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12021,
+      "kimbundu_term": "Kutajima",
+      "portuguese_translation": "Brilho",
+      "definition": null,
+      "alternative_meanings": [
+        "fulgor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutajima-1 — https://www.kimbundu.org/pt/word/kutajima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12022,
+      "kimbundu_term": "Kutakajana",
+      "portuguese_translation": "Reencontrar",
+      "definition": null,
+      "alternative_meanings": [
+        "Dar de cara com"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutakajana-1 — https://www.kimbundu.org/pt/word/kutakajana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12023,
+      "kimbundu_term": "Kutakajanesa",
+      "portuguese_translation": "Fazer encarar, encontrar com",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutakajanesa-1 — https://www.kimbundu.org/pt/word/kutakajanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
