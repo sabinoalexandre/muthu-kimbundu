@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 19904,
+      "kimbundu_term": "Utangelu",
+      "portuguese_translation": "Maneira de ler, narrar, contar",
+      "definition": null,
+      "alternative_meanings": [
+        "Forma de comunicar, anunciar, dizer"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, utangelu-1 — https://www.kimbundu.org/pt/word/utangelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19905,
+      "kimbundu_term": "Utata",
+      "portuguese_translation": "Paternidade",
+      "definition": null,
+      "alternative_meanings": [
+        "O que dá a autoridade paternal"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, utata-1 — https://www.kimbundu.org/pt/word/utata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19906,
+      "kimbundu_term": "Utata",
+      "portuguese_translation": "Paternalmente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, utata-1 — https://www.kimbundu.org/pt/word/utata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19907,
+      "kimbundu_term": "Útatu",
+      "portuguese_translation": "Simpleza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, útatu-1 — https://www.kimbundu.org/pt/word/utatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19908,
+      "kimbundu_term": "Útatu",
+      "portuguese_translation": "Sem acompanhamento ou conduto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, útatu-1 — https://www.kimbundu.org/pt/word/utatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19909,
+      "kimbundu_term": "Utealelu",
+      "portuguese_translation": "Estridência",
+      "definition": null,
+      "alternative_meanings": [
+        "Agudeza de som",
+        "estridor"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, utealelu-1 — https://www.kimbundu.org/pt/word/utealelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19910,
+      "kimbundu_term": "Útelu",
+      "portuguese_translation": "Maneira de se expressar, de pôr",
+      "definition": null,
+      "alternative_meanings": [
+        "Forma de falar",
+        "Modo, estilo, costume"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, útelu-1 — https://www.kimbundu.org/pt/word/utelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19911,
+      "kimbundu_term": "Utemenu",
+      "portuguese_translation": "Forma de ralhar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, utemenu-1 — https://www.kimbundu.org/pt/word/utemenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19912,
+      "kimbundu_term": "Utemenu",
+      "portuguese_translation": "Qualidade de bravo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, utemenu-1 — https://www.kimbundu.org/pt/word/utemenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 19913,
+      "kimbundu_term": "Utéta",
+      "portuguese_translation": "Ternura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, utéta-1 — https://www.kimbundu.org/pt/word/uteta",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
