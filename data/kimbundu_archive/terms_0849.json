@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8594,
+      "kimbundu_term": "Kufúnda",
+      "portuguese_translation": "Inumar",
+      "definition": null,
+      "alternative_meanings": [
+        "sepultar",
+        "enterrar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufúnda-1 — https://www.kimbundu.org/pt/word/kufunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8595,
+      "kimbundu_term": "Kufúnda",
+      "portuguese_translation": "Inumação",
+      "definition": null,
+      "alternative_meanings": [
+        "enterramento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufúnda-1 — https://www.kimbundu.org/pt/word/kufunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8596,
+      "kimbundu_term": "Kufúnda",
+      "portuguese_translation": "Kurifúnda, v. r. fig. Separar-se do mundo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufúnda-1 — https://www.kimbundu.org/pt/word/kufunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8597,
+      "kimbundu_term": "Kufundalala",
+      "portuguese_translation": "Virar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "inventar (sucessos fabulosos)",
+        "sob o disfarce da fábula",
+        "Inventar",
+        "mentir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufundalala-1 — https://www.kimbundu.org/pt/word/kufundalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8598,
+      "kimbundu_term": "Kufundalala",
+      "portuguese_translation": "Naufrágio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufundalala-1 — https://www.kimbundu.org/pt/word/kufundalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8599,
+      "kimbundu_term": "Kufundalalesa",
+      "portuguese_translation": "Fazer voltar uma embarcação",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer naufragar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufundalalesa-1 — https://www.kimbundu.org/pt/word/kufundalalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8600,
+      "kimbundu_term": "Kufundama",
+      "portuguese_translation": "Criar bolor",
+      "definition": null,
+      "alternative_meanings": [
+        "Estar deteriorado, estragado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufundama-1 — https://www.kimbundu.org/pt/word/kufundama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8601,
+      "kimbundu_term": "Kufundama",
+      "portuguese_translation": "Chocar",
+      "definition": null,
+      "alternative_meanings": [
+        "aquecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufundama-1 — https://www.kimbundu.org/pt/word/kufundama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8602,
+      "kimbundu_term": "Kufundamena",
+      "portuguese_translation": "Quarentenar",
+      "definition": null,
+      "alternative_meanings": [
+        "estar em observação. Estar isolado (em cumprimento de um preceito)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufundamena-1 — https://www.kimbundu.org/pt/word/kufundamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8603,
+      "kimbundu_term": "Kufundamena",
+      "portuguese_translation": "Estar de penitência, de choco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kufundamena-1 — https://www.kimbundu.org/pt/word/kufundamena",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
