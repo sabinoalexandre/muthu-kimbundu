@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7424,
+      "kimbundu_term": "Kubhindama",
+      "portuguese_translation": "Necessidade",
+      "definition": null,
+      "alternative_meanings": [
+        "pobreza"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhindama-1 — https://www.kimbundu.org/pt/word/kubhindama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7425,
+      "kimbundu_term": "Kubhindama",
+      "portuguese_translation": "Carência de meios para subsistir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhindama-1 — https://www.kimbundu.org/pt/word/kubhindama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7426,
+      "kimbundu_term": "Kubhindamena",
+      "portuguese_translation": "Precisar absolutamente de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhindamena-1 — https://www.kimbundu.org/pt/word/kubhindamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7427,
+      "kimbundu_term": "Kubhindamena",
+      "portuguese_translation": "Necessitar, carecer de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhindamena-1 — https://www.kimbundu.org/pt/word/kubhindamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7428,
+      "kimbundu_term": "Kubhindamena",
+      "portuguese_translation": "Buscar",
+      "definition": null,
+      "alternative_meanings": [
+        "querer",
+        "exigir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhindamena-1 — https://www.kimbundu.org/pt/word/kubhindamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7429,
+      "kimbundu_term": "Kubhingana",
+      "portuguese_translation": "Suceder",
+      "definition": null,
+      "alternative_meanings": [
+        "substituir",
+        "Vir fazer as vezes ou ocupar o lugar de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhingana-1 — https://www.kimbundu.org/pt/word/kubhingana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7430,
+      "kimbundu_term": "Kubhingana",
+      "portuguese_translation": "Kuribingana, v. r. Desencontrar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "revezar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhingana-1 — https://www.kimbundu.org/pt/word/kubhingana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7431,
+      "kimbundu_term": "Kubhinganesa",
+      "portuguese_translation": "Fazer render, substituir",
+      "definition": null,
+      "alternative_meanings": [
+        "Pôr pessoa ou coisa em lugar de outra",
+        "Suprir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhinganesa-1 — https://www.kimbundu.org/pt/word/kubhinganesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7432,
+      "kimbundu_term": "Kubhingila",
+      "portuguese_translation": "Patrocinar",
+      "definition": null,
+      "alternative_meanings": [
+        "recomendar",
+        "proteger"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhingila-1 — https://www.kimbundu.org/pt/word/kubhingila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7433,
+      "kimbundu_term": "Kubhingila",
+      "portuguese_translation": "Pedir por outrem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhingila-1 — https://www.kimbundu.org/pt/word/kubhingila",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
