@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7904,
+      "kimbundu_term": "Kubumina",
+      "portuguese_translation": "Arriscar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "sentir-se com coragem"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubumina-1 — https://www.kimbundu.org/pt/word/kubumina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7905,
+      "kimbundu_term": "Kubumisa",
+      "portuguese_translation": "Afoitar",
+      "definition": null,
+      "alternative_meanings": [
+        "animar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubumisa-1 — https://www.kimbundu.org/pt/word/kubumisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7906,
+      "kimbundu_term": "Kubumisa",
+      "portuguese_translation": "Fazer ser arrojado, corajoso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubumisa-1 — https://www.kimbundu.org/pt/word/kubumisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7907,
+      "kimbundu_term": "Kubumisa",
+      "portuguese_translation": "Alentar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "dar-se coragem"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubumisa-1 — https://www.kimbundu.org/pt/word/kubumisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7908,
+      "kimbundu_term": "Kubumujuka",
+      "portuguese_translation": "Ter muitas mossas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubumujuka-1 — https://www.kimbundu.org/pt/word/kubumujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7909,
+      "kimbundu_term": "Kubumujuka",
+      "portuguese_translation": "Estar cheio de concavidades",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubumujuka-1 — https://www.kimbundu.org/pt/word/kubumujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7910,
+      "kimbundu_term": "Kubumujuna",
+      "portuguese_translation": "Fazer mossas, brechas em",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubumujuna-1 — https://www.kimbundu.org/pt/word/kubumujuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7911,
+      "kimbundu_term": "Kubumujuna",
+      "portuguese_translation": "Esburacar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubumujuna-1 — https://www.kimbundu.org/pt/word/kubumujuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7912,
+      "kimbundu_term": "Kubumujuna",
+      "portuguese_translation": "É também reflexivo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubumujuna-1 — https://www.kimbundu.org/pt/word/kubumujuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7913,
+      "kimbundu_term": "Kubumuka",
+      "portuguese_translation": "Ter mossa, brecha",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubumuka-1 — https://www.kimbundu.org/pt/word/kubumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
