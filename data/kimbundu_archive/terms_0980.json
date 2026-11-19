@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9904,
+      "kimbundu_term": "Kukwama",
+      "portuguese_translation": "Dar golpes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukwama-1 — https://www.kimbundu.org/pt/word/kukwama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9905,
+      "kimbundu_term": "Kukwatekesa",
+      "portuguese_translation": "Prestar auxílio",
+      "definition": null,
+      "alternative_meanings": [
+        "cooperar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukwatekesa-1 — https://www.kimbundu.org/pt/word/kukwatekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9906,
+      "kimbundu_term": "Kukwatekesa",
+      "portuguese_translation": "Operar simultânea ou coletivamente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukwatekesa-1 — https://www.kimbundu.org/pt/word/kukwatekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9907,
+      "kimbundu_term": "Kukwatekesa",
+      "portuguese_translation": "Ajudar",
+      "definition": null,
+      "alternative_meanings": [
+        "concorrer",
+        "contribuir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukwatekesa-1 — https://www.kimbundu.org/pt/word/kukwatekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9908,
+      "kimbundu_term": "Kukwatekesa",
+      "portuguese_translation": "Juntar-se a outros para um fim comum",
+      "definition": null,
+      "alternative_meanings": [
+        "aderir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukwatekesa-1 — https://www.kimbundu.org/pt/word/kukwatekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9909,
+      "kimbundu_term": "Kukwatekesa",
+      "portuguese_translation": "Kurikuatekesa, v. r. Valer-se",
+      "definition": null,
+      "alternative_meanings": [
+        "servir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukwatekesa-1 — https://www.kimbundu.org/pt/word/kukwatekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9910,
+      "kimbundu_term": "Kukwatela",
+      "portuguese_translation": "Pagar-se por suas mãos",
+      "definition": null,
+      "alternative_meanings": [
+        "reter"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukwatela-1 — https://www.kimbundu.org/pt/word/kukwatela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9911,
+      "kimbundu_term": "Kukwatela",
+      "portuguese_translation": "Impedir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukwatela-1 — https://www.kimbundu.org/pt/word/kukwatela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9912,
+      "kimbundu_term": "Kukwatela",
+      "portuguese_translation": "Agarrar, pegar, segurar por",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukwatela-1 — https://www.kimbundu.org/pt/word/kukwatela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9913,
+      "kimbundu_term": "Kukwatela",
+      "portuguese_translation": "Reserva",
+      "definition": null,
+      "alternative_meanings": [
+        "demora"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukwatela-1 — https://www.kimbundu.org/pt/word/kukwatela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
