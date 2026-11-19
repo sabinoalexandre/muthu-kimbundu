@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4764,
+      "kimbundu_term": "Kibunji",
+      "portuguese_translation": "Estado de planta enfezada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibunji-1 — https://www.kimbundu.org/pt/word/kibunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4765,
+      "kimbundu_term": "Kibunji",
+      "portuguese_translation": "Enfraquecimento",
+      "definition": null,
+      "alternative_meanings": [
+        "perda de vigor e robustez"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibunji-1 — https://www.kimbundu.org/pt/word/kibunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4766,
+      "kimbundu_term": "Kibunji",
+      "portuguese_translation": "Pessoa raquítica, magra e enfezada",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibunji-1 — https://www.kimbundu.org/pt/word/kibunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4767,
+      "kimbundu_term": "Kibuse",
+      "portuguese_translation": "Assoprador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibuse-1 — https://www.kimbundu.org/pt/word/kibuse",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4768,
+      "kimbundu_term": "Kibuse",
+      "portuguese_translation": "Soprador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibuse-1 — https://www.kimbundu.org/pt/word/kibuse",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4769,
+      "kimbundu_term": "Kibuse",
+      "portuguese_translation": "Fingido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibuse-1 — https://www.kimbundu.org/pt/word/kibuse",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4770,
+      "kimbundu_term": "Kibuse",
+      "portuguese_translation": "O que aparenta ignorar o que pergunta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibuse-1 — https://www.kimbundu.org/pt/word/kibuse",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4771,
+      "kimbundu_term": "Kibuselelu",
+      "portuguese_translation": "Próprio para assoprar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibuselelu-1 — https://www.kimbundu.org/pt/word/kibuselelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4772,
+      "kimbundu_term": "Kibuselelu",
+      "portuguese_translation": "Instrumento por onde se assopra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibuselelu-1 — https://www.kimbundu.org/pt/word/kibuselelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4773,
+      "kimbundu_term": "Kíbuta",
+      "portuguese_translation": "Topada com os pés",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kíbuta-1 — https://www.kimbundu.org/pt/word/kibuta",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
