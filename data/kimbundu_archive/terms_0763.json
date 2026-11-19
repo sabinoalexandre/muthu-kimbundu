@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7734,
+      "kimbundu_term": "Kubotesa",
+      "portuguese_translation": "Ajudar a fiar",
+      "definition": null,
+      "alternative_meanings": [
+        "Mandar tecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubotesa-1 — https://www.kimbundu.org/pt/word/kubotesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7735,
+      "kimbundu_term": "Kubotesa",
+      "portuguese_translation": "Fazer borbotar",
+      "definition": null,
+      "alternative_meanings": [
+        "Danificar",
+        "fazer desmerecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubotesa-1 — https://www.kimbundu.org/pt/word/kubotesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7736,
+      "kimbundu_term": "Kubotoka",
+      "portuguese_translation": "Ter vinco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubotoka-1 — https://www.kimbundu.org/pt/word/kubotoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7737,
+      "kimbundu_term": "Kubotoka",
+      "portuguese_translation": "Ficar decotado, sulcado em toda a volta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubotoka-1 — https://www.kimbundu.org/pt/word/kubotoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7738,
+      "kimbundu_term": "Kubotoka",
+      "portuguese_translation": "Vinco",
+      "definition": null,
+      "alternative_meanings": [
+        "decote"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubotoka-1 — https://www.kimbundu.org/pt/word/kubotoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7739,
+      "kimbundu_term": "Kubotokesa",
+      "portuguese_translation": "Fazer apertar, vincar. Fazer ligar, apertar por forma a deixar vestígios",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubotokesa-1 — https://www.kimbundu.org/pt/word/kubotokesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7740,
+      "kimbundu_term": "Kubotola",
+      "portuguese_translation": "Cintar",
+      "definition": null,
+      "alternative_meanings": [
+        "apertar",
+        "fazer decote em"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubotola-1 — https://www.kimbundu.org/pt/word/kubotola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7741,
+      "kimbundu_term": "Kubotola",
+      "portuguese_translation": "Kuribotola, e r. Ligar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "vincular-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubotola-1 — https://www.kimbundu.org/pt/word/kubotola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7742,
+      "kimbundu_term": "Kubotomoka",
+      "portuguese_translation": "Ficar mole, impotente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubotomoka-1 — https://www.kimbundu.org/pt/word/kubotomoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7743,
+      "kimbundu_term": "Kubotomoka",
+      "portuguese_translation": "Inércia",
+      "definition": null,
+      "alternative_meanings": [
+        "desfalecimento",
+        "moleza"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubotomoka-1 — https://www.kimbundu.org/pt/word/kubotomoka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
