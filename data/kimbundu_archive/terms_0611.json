@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6214,
+      "kimbundu_term": "Kisóngo",
+      "portuguese_translation": "Povoação e posto civil da circunscrição do Libolo, distrito do Quanza-Sul, província de Benguela, a 10º 02' de lat. S e",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisóngo-1 — https://www.kimbundu.org/pt/word/kisongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6215,
+      "kimbundu_term": "Kisoso",
+      "portuguese_translation": "Picada ou furo feito com punção",
+      "definition": null,
+      "alternative_meanings": [
+        "Marca",
+        "ponto",
+        "Instrumento que serve para marcar, gravar, cunhar, pungir"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisoso-1 — https://www.kimbundu.org/pt/word/kisoso",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6216,
+      "kimbundu_term": "Kisótola",
+      "portuguese_translation": "Couce",
+      "definition": null,
+      "alternative_meanings": [
+        "Patada dada com o calcanhar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisótola-1 — https://www.kimbundu.org/pt/word/kisotola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6217,
+      "kimbundu_term": "Kisua-njila",
+      "portuguese_translation": "Maltrapilho",
+      "definition": null,
+      "alternative_meanings": [
+        "farroupilha",
+        "Pelintra"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisua-njila-1 — https://www.kimbundu.org/pt/word/kisua-njila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6218,
+      "kimbundu_term": "Kisua-njila",
+      "portuguese_translation": "Que não tem onde cair morto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisua-njila-1 — https://www.kimbundu.org/pt/word/kisua-njila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6219,
+      "kimbundu_term": "Kisuámu",
+      "portuguese_translation": "O ocultismo",
+      "definition": null,
+      "alternative_meanings": [
+        "Arte de se esconder"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisuámu-1 — https://www.kimbundu.org/pt/word/kisuamu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6220,
+      "kimbundu_term": "Kisuásua",
+      "portuguese_translation": "Xilófago",
+      "definition": null,
+      "alternative_meanings": [
+        "Carcoma",
+        "farelo",
+        "fig. Podridão (da madeira)",
+        "O que arruína"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisuásua-1 — https://www.kimbundu.org/pt/word/kisuasua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6221,
+      "kimbundu_term": "Kisúba",
+      "portuguese_translation": "Refugo",
+      "definition": null,
+      "alternative_meanings": [
+        "rebotalho",
+        "O que fica depois de uma escolha",
+        "O resto. É m. us. no pl. isúba"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisúba-1 — https://www.kimbundu.org/pt/word/kisuba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6222,
+      "kimbundu_term": "Kisúbia",
+      "portuguese_translation": "Resaca",
+      "definition": null,
+      "alternative_meanings": [
+        "Orla na praia que fica na baixa-mar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisúbia-1 — https://www.kimbundu.org/pt/word/kisubia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6223,
+      "kimbundu_term": "Kisubu",
+      "portuguese_translation": "Sobejo",
+      "definition": null,
+      "alternative_meanings": [
+        "resto",
+        "O que sobra do preciso",
+        "A parte menor que o divisor"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisubu-1 — https://www.kimbundu.org/pt/word/kisubu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
