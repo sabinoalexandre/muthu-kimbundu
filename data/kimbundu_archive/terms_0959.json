@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9694,
+      "kimbundu_term": "Kukuena",
+      "portuguese_translation": "Indenizar",
+      "definition": null,
+      "alternative_meanings": [
+        "pagar. Satisfazer (uma dívida, uma obrigação)",
+        "Expiar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuena-1 — https://www.kimbundu.org/pt/word/kukuena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9695,
+      "kimbundu_term": "Kukuena",
+      "portuguese_translation": "Kuricuena, v. r. Receber indenização",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuena-1 — https://www.kimbundu.org/pt/word/kukuena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9696,
+      "kimbundu_term": "Kukuikisa",
+      "portuguese_translation": "Mandar agrilhoar, capturar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuikisa-1 — https://www.kimbundu.org/pt/word/kukuikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9697,
+      "kimbundu_term": "Kukuila",
+      "portuguese_translation": "Dar sobras ou quebras ao comprador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuila-1 — https://www.kimbundu.org/pt/word/kukuila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9698,
+      "kimbundu_term": "Kukuka",
+      "portuguese_translation": "Estar caduco, fora de uso",
+      "definition": null,
+      "alternative_meanings": [
+        "Chegar a velho"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuka-1 — https://www.kimbundu.org/pt/word/kukuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9699,
+      "kimbundu_term": "Kukuka",
+      "portuguese_translation": "Velhice",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukuka-1 — https://www.kimbundu.org/pt/word/kukuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9700,
+      "kimbundu_term": "Kukukisa",
+      "portuguese_translation": "Usar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar velho"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukukisa-1 — https://www.kimbundu.org/pt/word/kukukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9701,
+      "kimbundu_term": "Kukukisa",
+      "portuguese_translation": "Kurikukisa, v. r. Avelhentar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "pôr-se fora de uso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukukisa-1 — https://www.kimbundu.org/pt/word/kukukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9702,
+      "kimbundu_term": "Kukukula",
+      "portuguese_translation": "Reunir",
+      "definition": null,
+      "alternative_meanings": [
+        "levar junto",
+        "Apanhar",
+        "limpar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukukula-1 — https://www.kimbundu.org/pt/word/kukukula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9703,
+      "kimbundu_term": "Kukukula",
+      "portuguese_translation": "Kurikukula, v. r. Engalfinhar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "Pegar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukukula-1 — https://www.kimbundu.org/pt/word/kukukula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
