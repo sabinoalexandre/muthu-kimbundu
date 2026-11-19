@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15644,
+      "kimbundu_term": "Minya",
+      "portuguese_translation": "Espigões",
+      "definition": null,
+      "alternative_meanings": [
+        "abrolhos",
+        "espinhos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, minya-1 — https://www.kimbundu.org/pt/word/minya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15645,
+      "kimbundu_term": "Minya",
+      "portuguese_translation": "Pêta",
+      "definition": null,
+      "alternative_meanings": [
+        "Mentira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, minya-1 — https://www.kimbundu.org/pt/word/minya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15646,
+      "kimbundu_term": "Minyame",
+      "portuguese_translation": "Carnívoros",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, minyame-1 — https://www.kimbundu.org/pt/word/minyame",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15647,
+      "kimbundu_term": "Minyame",
+      "portuguese_translation": "Os que se alimentam exclusivamente de carne",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, minyame-1 — https://www.kimbundu.org/pt/word/minyame",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15648,
+      "kimbundu_term": "Minyange-minyange",
+      "portuguese_translation": "Esmigalhado",
+      "definition": null,
+      "alternative_meanings": [
+        "esfacelado",
+        "retalhado. Reduzido a pedaços"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, minyange-minyange-1 — https://www.kimbundu.org/pt/word/minyange-minyange",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15649,
+      "kimbundu_term": "Minyanji",
+      "portuguese_translation": "Dinheiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, minyanji-1 — https://www.kimbundu.org/pt/word/minyanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15650,
+      "kimbundu_term": "Minyoka",
+      "portuguese_translation": "Ordem de vermes a que pertence o njênde, a mukoka, etc",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, minyoka-1 — https://www.kimbundu.org/pt/word/minyoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15651,
+      "kimbundu_term": "Minyoka",
+      "portuguese_translation": "Quantidade de vermes desta espécie",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, minyoka-1 — https://www.kimbundu.org/pt/word/minyoka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15652,
+      "kimbundu_term": "Minyómbo",
+      "portuguese_translation": "Fam. de plantas rubiáceas (gardenia florida), a que pertence o jasmim e outras plantas tintórias e medicinais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, minyómbo-1 — https://www.kimbundu.org/pt/word/minyombo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15653,
+      "kimbundu_term": "Minyómbo",
+      "portuguese_translation": "Plantas jasmináceas",
+      "definition": null,
+      "alternative_meanings": [
+        "seu plantio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, minyómbo-1 — https://www.kimbundu.org/pt/word/minyombo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
