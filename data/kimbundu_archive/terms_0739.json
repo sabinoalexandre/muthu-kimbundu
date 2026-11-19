@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7494,
+      "kimbundu_term": "Kubiáta",
+      "portuguese_translation": "Limpar (de impurezas)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubiáta-1 — https://www.kimbundu.org/pt/word/kubiata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7495,
+      "kimbundu_term": "Kubidika",
+      "portuguese_translation": "Ser ou tornar-se incompreensível",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubidika-1 — https://www.kimbundu.org/pt/word/kubidika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7496,
+      "kimbundu_term": "Kubidika",
+      "portuguese_translation": "Falar língua estrangeira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubidika-1 — https://www.kimbundu.org/pt/word/kubidika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7497,
+      "kimbundu_term": "Kubidika",
+      "portuguese_translation": "Enredar",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar confuso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubidika-1 — https://www.kimbundu.org/pt/word/kubidika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7498,
+      "kimbundu_term": "Kubiia",
+      "portuguese_translation": "Menear",
+      "definition": null,
+      "alternative_meanings": [
+        "saracotear"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubiia-1 — https://www.kimbundu.org/pt/word/kubiia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7499,
+      "kimbundu_term": "Kubiia",
+      "portuguese_translation": "Manejar (o corpo dançando)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubiia-1 — https://www.kimbundu.org/pt/word/kubiia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7500,
+      "kimbundu_term": "Kubiia",
+      "portuguese_translation": "Meneio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubiia-1 — https://www.kimbundu.org/pt/word/kubiia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7501,
+      "kimbundu_term": "Kubiia",
+      "portuguese_translation": "Dança de manejos (do corpo)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubiia-1 — https://www.kimbundu.org/pt/word/kubiia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7502,
+      "kimbundu_term": "Kubiia",
+      "portuguese_translation": "Kúribiia, v. r. Menear-se",
+      "definition": null,
+      "alternative_meanings": [
+        "sacotear-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubiia-1 — https://www.kimbundu.org/pt/word/kubiia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7503,
+      "kimbundu_term": "Kúbika",
+      "portuguese_translation": "Agourar",
+      "definition": null,
+      "alternative_meanings": [
+        "predizer acontecimentos funestos ou desagradáveis"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbika-1 — https://www.kimbundu.org/pt/word/kubika",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
