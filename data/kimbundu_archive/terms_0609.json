@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6194,
+      "kimbundu_term": "Kisole",
+      "portuguese_translation": "O que pode ou deve ser escolhido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisole-1 — https://www.kimbundu.org/pt/word/kisole",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6195,
+      "kimbundu_term": "Kisole",
+      "portuguese_translation": "Árvore autocárpia do género Ficus",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisole-1 — https://www.kimbundu.org/pt/word/kisole",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6196,
+      "kimbundu_term": "Kisole",
+      "portuguese_translation": "Pov. a E. do conc. de Malange, distr. e prov. do mesmo nome",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisole-1 — https://www.kimbundu.org/pt/word/kisole",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6197,
+      "kimbundu_term": "Kisolélu",
+      "portuguese_translation": "(III) Podão",
+      "definition": null,
+      "alternative_meanings": [
+        "corta-mato"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisolélu-1 — https://www.kimbundu.org/pt/word/kisolelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6198,
+      "kimbundu_term": "Kisolongo",
+      "portuguese_translation": "(III) Linguagem dos mussorongos: Kuzuela. —",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisolongo-1 — https://www.kimbundu.org/pt/word/kisolongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6199,
+      "kimbundu_term": "Kisolongo",
+      "portuguese_translation": "Próprio da terra ou dos mussorongos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisolongo-1 — https://www.kimbundu.org/pt/word/kisolongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6200,
+      "kimbundu_term": "Kisoma",
+      "portuguese_translation": "(III) bot. Planta euforbiácea de suco corrosivo (Euphorbia candelabrum), utilizada para sebes e ornamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisoma-1 — https://www.kimbundu.org/pt/word/kisoma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6201,
+      "kimbundu_term": "Kisomekenu",
+      "portuguese_translation": "(III) Recompensa",
+      "definition": null,
+      "alternative_meanings": [
+        "prémio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisomekenu-1 — https://www.kimbundu.org/pt/word/kisomekenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6202,
+      "kimbundu_term": "Kisomekenu",
+      "portuguese_translation": "Distinção conferida por trabalho ou exercício bem executado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisomekenu-1 — https://www.kimbundu.org/pt/word/kisomekenu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6203,
+      "kimbundu_term": "Kisomekenu",
+      "portuguese_translation": "Estímulo",
+      "definition": null,
+      "alternative_meanings": [
+        "galardão"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisomekenu-1 — https://www.kimbundu.org/pt/word/kisomekenu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
