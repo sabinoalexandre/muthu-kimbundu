@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12584,
+      "kimbundu_term": "Kutubhula",
+      "portuguese_translation": "Penetrar",
+      "definition": null,
+      "alternative_meanings": [
+        "irromper. É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutubhula-1 — https://www.kimbundu.org/pt/word/kutubhula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12585,
+      "kimbundu_term": "Kutubujuka",
+      "portuguese_translation": "Estar esburacado em muitos lugares",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutubujuka-1 — https://www.kimbundu.org/pt/word/kutubujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12586,
+      "kimbundu_term": "Kutubujula",
+      "portuguese_translation": "Fazer muitos buracos. Furar muitas vezes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutubujula-1 — https://www.kimbundu.org/pt/word/kutubujula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12587,
+      "kimbundu_term": "Kutubuka",
+      "portuguese_translation": "Estar furado",
+      "definition": null,
+      "alternative_meanings": [
+        "ter buraco"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutubuka-1 — https://www.kimbundu.org/pt/word/kutubuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12588,
+      "kimbundu_term": "Kutubuka",
+      "portuguese_translation": "Sair",
+      "definition": null,
+      "alternative_meanings": [
+        "pôr-se fora"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutubuka-1 — https://www.kimbundu.org/pt/word/kutubuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12589,
+      "kimbundu_term": "Kutubuka",
+      "portuguese_translation": "Furagem. Ato de sair",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutubuka-1 — https://www.kimbundu.org/pt/word/kutubuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12590,
+      "kimbundu_term": "Kutubuluka",
+      "portuguese_translation": "Tornar a sair do mesmo buraco. Ficar furado de novo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutubuluka-1 — https://www.kimbundu.org/pt/word/kutubuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12591,
+      "kimbundu_term": "Kutudijika",
+      "portuguese_translation": "Estratificar. Sobrepor repetidas vezes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutudijika-1 — https://www.kimbundu.org/pt/word/kutudijika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12592,
+      "kimbundu_term": "Kutudijika",
+      "portuguese_translation": "Colocação em camadas sobrepostas. É tb. r",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutudijika-1 — https://www.kimbundu.org/pt/word/kutudijika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12593,
+      "kimbundu_term": "Kutudika",
+      "portuguese_translation": "Encimar",
+      "definition": null,
+      "alternative_meanings": [
+        "alçar",
+        "sobrepor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutudika-1 — https://www.kimbundu.org/pt/word/kutudika",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
