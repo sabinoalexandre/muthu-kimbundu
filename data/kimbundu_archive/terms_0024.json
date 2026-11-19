@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 344,
+      "kimbundu_term": "Axiluanda",
+      "portuguese_translation": "Nome dado aos naturais ou residentes das ilhas adjacentes à cidade de Luanda que, a certo tempo, as abandonaram",
+      "definition": null,
+      "alternative_meanings": [
+        "os que deixaram as terras de Luanda"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, axiluanda-1 — https://www.kimbundu.org/pt/word/axiluanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 345,
+      "kimbundu_term": "Aye",
+      "portuguese_translation": "Deixá-lo",
+      "definition": null,
+      "alternative_meanings": [
+        "que vá"
+      ],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, aye-1 — https://www.kimbundu.org/pt/word/aye",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 346,
+      "kimbundu_term": "Azuédi",
+      "portuguese_translation": "Faladores",
+      "definition": null,
+      "alternative_meanings": [
+        "verbosos",
+        "que falam muito",
+        "tagarelas",
+        "grandes faladores"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, azuédi-1 — https://www.kimbundu.org/pt/word/azuedi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 347,
+      "kimbundu_term": "Azúni",
+      "portuguese_translation": "Descarnadores",
+      "definition": null,
+      "alternative_meanings": [
+        "pessoas que descarnam"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, azúni-1 — https://www.kimbundu.org/pt/word/azuni",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 348,
+      "kimbundu_term": "Bá",
+      "portuguese_translation": "Ai! Ora toma!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bá-1 — https://www.kimbundu.org/pt/word/ba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 349,
+      "kimbundu_term": "Ba",
+      "portuguese_translation": "(indica alternativa) Ou",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ba-1 — https://www.kimbundu.org/pt/word/ba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 350,
+      "kimbundu_term": "Ba",
+      "portuguese_translation": "No caso de",
+      "definition": null,
+      "alternative_meanings": [
+        "se",
+        "dada a circunstância de",
+        "se porventura"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ba-1 — https://www.kimbundu.org/pt/word/ba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 351,
+      "kimbundu_term": "Ba",
+      "portuguese_translation": "Consoante",
+      "definition": null,
+      "alternative_meanings": [
+        "conforme"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ba-1 — https://www.kimbundu.org/pt/word/ba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 352,
+      "kimbundu_term": "Ba",
+      "portuguese_translation": "Abreviatura de ríbia, horta, lavra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "conjunção",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ba-1 — https://www.kimbundu.org/pt/word/ba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 353,
+      "kimbundu_term": "Baba",
+      "portuguese_translation": "Aqui",
+      "definition": null,
+      "alternative_meanings": [
+        "cá",
+        "neste lugar",
+        "neste ponto"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, baba-1 — https://www.kimbundu.org/pt/word/baba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
