@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4684,
+      "kimbundu_term": "Kibozo",
+      "portuguese_translation": "Ladrido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibozo-1 — https://www.kimbundu.org/pt/word/kibozo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4685,
+      "kimbundu_term": "Kibu",
+      "portuguese_translation": "Massa carnuda na extremidade do cordão umbilical",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibu-1 — https://www.kimbundu.org/pt/word/kibu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4686,
+      "kimbundu_term": "Kibu",
+      "portuguese_translation": "Placenta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibu-1 — https://www.kimbundu.org/pt/word/kibu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4687,
+      "kimbundu_term": "Kibuâbua",
+      "portuguese_translation": "(III) Manante",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibuâbua-1 — https://www.kimbundu.org/pt/word/kibuabua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4688,
+      "kimbundu_term": "Kibuâbua",
+      "portuguese_translation": "Fluente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibuâbua-1 — https://www.kimbundu.org/pt/word/kibuabua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4689,
+      "kimbundu_term": "Kibuâbua",
+      "portuguese_translation": "Que brota incessantemente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibuâbua-1 — https://www.kimbundu.org/pt/word/kibuabua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4690,
+      "kimbundu_term": "Kibuâbua",
+      "portuguese_translation": "Pessoa que fala com fluência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibuâbua-1 — https://www.kimbundu.org/pt/word/kibuabua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4691,
+      "kimbundu_term": "Kibuâbua",
+      "portuguese_translation": "Loquaz",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibuâbua-1 — https://www.kimbundu.org/pt/word/kibuabua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4692,
+      "kimbundu_term": "Kibuabuelu",
+      "portuguese_translation": "(III) Manancial",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibuabuelu-1 — https://www.kimbundu.org/pt/word/kibuabuelu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4693,
+      "kimbundu_term": "Kibuabuelu",
+      "portuguese_translation": "Que brota",
+      "definition": null,
+      "alternative_meanings": [
+        "que derrama",
+        "que flui"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibuabuelu-1 — https://www.kimbundu.org/pt/word/kibuabuelu",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
