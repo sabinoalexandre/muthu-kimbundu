@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2384,
+      "kimbundu_term": "Ítonda",
+      "portuguese_translation": "Diversão ou brincadeira de crianças em que se batem palmas cantando",
+      "definition": null,
+      "alternative_meanings": [
+        "Palmadas de aplauso",
+        "Palmas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ítonda-1 — https://www.kimbundu.org/pt/word/itonda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2385,
+      "kimbundu_term": "ïtote",
+      "portuguese_translation": "Nódoas",
+      "definition": null,
+      "alternative_meanings": [
+        "pintas",
+        "manchas",
+        "Cicatrizes de feridas curadas",
+        "Sinais",
+        "marcas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ïtote-1 — https://www.kimbundu.org/pt/word/itote",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2386,
+      "kimbundu_term": "ïtote",
+      "portuguese_translation": "Pecados",
+      "definition": null,
+      "alternative_meanings": [
+        "culpas",
+        "faltas",
+        "Remorsos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ïtote-1 — https://www.kimbundu.org/pt/word/itote",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2387,
+      "kimbundu_term": "ïtote",
+      "portuguese_translation": "adj. Manchado",
+      "definition": null,
+      "alternative_meanings": [
+        "Que tem malhas ou manchas",
+        "Sarapintado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ïtote-1 — https://www.kimbundu.org/pt/word/itote",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2388,
+      "kimbundu_term": "Itúba",
+      "portuguese_translation": "Deus da loucura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, itúba-1 — https://www.kimbundu.org/pt/word/ituba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2389,
+      "kimbundu_term": "Ítui",
+      "portuguese_translation": "A parte dura de certos frutos que encerra a semente",
+      "definition": null,
+      "alternative_meanings": [
+        "Caroço",
+        "Pevide"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ítui-1 — https://www.kimbundu.org/pt/word/itui",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2390,
+      "kimbundu_term": "Itúla",
+      "portuguese_translation": "Secadouros",
+      "definition": null,
+      "alternative_meanings": [
+        "Lugares onde se secam cereais"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, itúla-1 — https://www.kimbundu.org/pt/word/itula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2391,
+      "kimbundu_term": "Itulukufu",
+      "portuguese_translation": "Dissenções",
+      "definition": null,
+      "alternative_meanings": [
+        "Turbulências",
+        "traquinices",
+        "Desavenças",
+        "Desordens"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, itulukufu-1 — https://www.kimbundu.org/pt/word/itulukufu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2392,
+      "kimbundu_term": "Itúmba",
+      "portuguese_translation": "(III) Ignorantes",
+      "definition": null,
+      "alternative_meanings": [
+        "cegos",
+        "Que não sabem discernir o bem do mal",
+        "Autómatos",
+        "Faltos de discernimento"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, itúmba-1 — https://www.kimbundu.org/pt/word/itumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2393,
+      "kimbundu_term": "Itúmba",
+      "portuguese_translation": "Conjunto de cegos",
+      "definition": null,
+      "alternative_meanings": [
+        "Pessoas sem energia"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, itúmba-1 — https://www.kimbundu.org/pt/word/itumba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
