@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10314,
+      "kimbundu_term": "Kulondola",
+      "portuguese_translation": "melhor kulandula",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": null,
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulondola-1 — https://www.kimbundu.org/pt/word/kulondola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10315,
+      "kimbundu_term": "Kulónga",
+      "portuguese_translation": "Adestrar, evangelizar",
+      "definition": null,
+      "alternative_meanings": [
+        "instruir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulónga-1 — https://www.kimbundu.org/pt/word/kulonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10316,
+      "kimbundu_term": "Kulónga",
+      "portuguese_translation": "Tornar apto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulónga-1 — https://www.kimbundu.org/pt/word/kulonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10317,
+      "kimbundu_term": "Kulónga",
+      "portuguese_translation": "Instrução",
+      "definition": null,
+      "alternative_meanings": [
+        "ensino"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulónga-1 — https://www.kimbundu.org/pt/word/kulonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10318,
+      "kimbundu_term": "Kulónga",
+      "portuguese_translation": "Aprender",
+      "definition": null,
+      "alternative_meanings": [
+        "adquirir instrução",
+        "procurar saber"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulónga-1 — https://www.kimbundu.org/pt/word/kulonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10319,
+      "kimbundu_term": "Kúlonga",
+      "portuguese_translation": "Carregar",
+      "definition": null,
+      "alternative_meanings": [
+        "embarcar",
+        "pôr a bordo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlonga-1 — https://www.kimbundu.org/pt/word/kulonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10320,
+      "kimbundu_term": "Kúlonga",
+      "portuguese_translation": "Deportar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlonga-1 — https://www.kimbundu.org/pt/word/kulonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10321,
+      "kimbundu_term": "Kúlonga",
+      "portuguese_translation": "Embarcar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlonga-1 — https://www.kimbundu.org/pt/word/kulonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10322,
+      "kimbundu_term": "Kúlonga",
+      "portuguese_translation": "Meter-se em carro ou caminho de ferro",
+      "definition": null,
+      "alternative_meanings": [
+        "seguir viagem"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúlonga-1 — https://www.kimbundu.org/pt/word/kulonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10323,
+      "kimbundu_term": "Kulongama",
+      "portuguese_translation": "Estar em monte, agrupado, reunido como um só corpo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulongama-1 — https://www.kimbundu.org/pt/word/kulongama",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
