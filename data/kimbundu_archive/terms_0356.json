@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3664,
+      "kimbundu_term": "Kamenga",
+      "portuguese_translation": "Pessoa faladora e exigente",
+      "definition": null,
+      "alternative_meanings": [
+        "Homem pequeno e birrento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamenga-1 — https://www.kimbundu.org/pt/word/kamenga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3665,
+      "kimbundu_term": "Kamenya",
+      "portuguese_translation": "Bretanha",
+      "definition": null,
+      "alternative_meanings": [
+        "Cambráia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamenya-1 — https://www.kimbundu.org/pt/word/kamenya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3666,
+      "kimbundu_term": "Kamenya",
+      "portuguese_translation": "Tecido fino de linho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamenya-1 — https://www.kimbundu.org/pt/word/kamenya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3667,
+      "kimbundu_term": "Kamenya",
+      "portuguese_translation": "Da água ou a ela relativo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamenya-1 — https://www.kimbundu.org/pt/word/kamenya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3668,
+      "kimbundu_term": "Kâmi",
+      "portuguese_translation": "Meu",
+      "definition": null,
+      "alternative_meanings": [
+        "minha",
+        "Pertencente à minha pessoa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kâmi-1 — https://www.kimbundu.org/pt/word/kami",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3669,
+      "kimbundu_term": "Kamibazu",
+      "portuguese_translation": "Ralhão",
+      "definition": null,
+      "alternative_meanings": [
+        "Que fala em voz alta",
+        "Ralhador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamibazu-1 — https://www.kimbundu.org/pt/word/kamibazu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3670,
+      "kimbundu_term": "Kamikanda",
+      "portuguese_translation": "Papeleiro",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamikanda-1 — https://www.kimbundu.org/pt/word/kamikanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3671,
+      "kimbundu_term": "Kamikanda",
+      "portuguese_translation": "Carteiro",
+      "definition": null,
+      "alternative_meanings": [
+        "Pessoa que distribui cartas, que fabrica ou vende papel"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamikanda-1 — https://www.kimbundu.org/pt/word/kamikanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3672,
+      "kimbundu_term": "Kamikolo",
+      "portuguese_translation": "Cordoeiro",
+      "definition": null,
+      "alternative_meanings": [
+        "O que faz ou vende cordas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamikolo-1 — https://www.kimbundu.org/pt/word/kamikolo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3673,
+      "kimbundu_term": "Kamikoxi",
+      "portuguese_translation": "Rio do antigo conc. e atual posto civ. do Golungo, conc. de Cazengo. Nasce nos Dembos e lança-se na margem dir. do Léfua",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kamikoxi-1 — https://www.kimbundu.org/pt/word/kamikoxi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
