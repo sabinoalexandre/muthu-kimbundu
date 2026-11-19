@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13074,
+      "kimbundu_term": "Kuwika",
+      "portuguese_translation": "Acender",
+      "definition": null,
+      "alternative_meanings": [
+        "abrasar",
+        "fazer fogo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuwika-1 — https://www.kimbundu.org/pt/word/kuwika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13075,
+      "kimbundu_term": "Kûxa",
+      "portuguese_translation": "Legar",
+      "definition": null,
+      "alternative_meanings": [
+        "doar. Dar de uma vez. Assinalar",
+        "perpetuar",
+        "deixar para sempre"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kûxa-1 — https://www.kimbundu.org/pt/word/kuxa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13076,
+      "kimbundu_term": "Kûxa",
+      "portuguese_translation": "Doação",
+      "definition": null,
+      "alternative_meanings": [
+        "legado",
+        "perpetuidade"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kûxa-1 — https://www.kimbundu.org/pt/word/kuxa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13077,
+      "kimbundu_term": "Kuxabalala",
+      "portuguese_translation": "Ser ou estar achatado. Ficar deprimido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxabalala-1 — https://www.kimbundu.org/pt/word/kuxabalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13078,
+      "kimbundu_term": "Kuxabalala",
+      "portuguese_translation": "Achatamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxabalala-1 — https://www.kimbundu.org/pt/word/kuxabalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13079,
+      "kimbundu_term": "Kuxabalalesa",
+      "portuguese_translation": "Achatar. Fazer deprimir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxabalalesa-1 — https://www.kimbundu.org/pt/word/kuxabalalesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13080,
+      "kimbundu_term": "Kuxáka",
+      "portuguese_translation": "Fugir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxáka-1 — https://www.kimbundu.org/pt/word/kuxaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13081,
+      "kimbundu_term": "Kuxakata",
+      "portuguese_translation": "Arrastar os pés, andando. Roçagar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxakata-1 — https://www.kimbundu.org/pt/word/kuxakata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13082,
+      "kimbundu_term": "Kuxakata",
+      "portuguese_translation": "Friccionar",
+      "definition": null,
+      "alternative_meanings": [
+        "roçar. Ir arrastando por"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxakata-1 — https://www.kimbundu.org/pt/word/kuxakata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13083,
+      "kimbundu_term": "Kuxakatesa",
+      "portuguese_translation": "Mandar roçar, arrastar os pés",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuxakatesa-1 — https://www.kimbundu.org/pt/word/kuxakatesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
