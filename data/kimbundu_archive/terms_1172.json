@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11824,
+      "kimbundu_term": "Kusuetesa",
+      "portuguese_translation": "Trazer para perto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuetesa-1 — https://www.kimbundu.org/pt/word/kusuetesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11825,
+      "kimbundu_term": "Kusuetesa",
+      "portuguese_translation": "Fazer pôr ao alcance de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuetesa-1 — https://www.kimbundu.org/pt/word/kusuetesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11826,
+      "kimbundu_term": "Kusuetesa",
+      "portuguese_translation": "Kurisuetesa, e r. Fazer-se chegar, pôr perto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuetesa-1 — https://www.kimbundu.org/pt/word/kusuetesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11827,
+      "kimbundu_term": "Kusuetula",
+      "portuguese_translation": "(cal.) Cobrar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuetula-1 — https://www.kimbundu.org/pt/word/kusuetula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11828,
+      "kimbundu_term": "Kusuila",
+      "portuguese_translation": "Almotaçar",
+      "definition": null,
+      "alternative_meanings": [
+        "apreçar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuila-1 — https://www.kimbundu.org/pt/word/kusuila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11829,
+      "kimbundu_term": "Kusuila",
+      "portuguese_translation": "Avaliar",
+      "definition": null,
+      "alternative_meanings": [
+        "ajustar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuila-1 — https://www.kimbundu.org/pt/word/kusuila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11830,
+      "kimbundu_term": "Kusuinina",
+      "portuguese_translation": "Fazer-se forte, valente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuinina-1 — https://www.kimbundu.org/pt/word/kusuinina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11831,
+      "kimbundu_term": "Kusuinina",
+      "portuguese_translation": "Esforçar-se por",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuinina-1 — https://www.kimbundu.org/pt/word/kusuinina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11832,
+      "kimbundu_term": "Kúsuka",
+      "portuguese_translation": "Desesperar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsuka-1 — https://www.kimbundu.org/pt/word/kusuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11833,
+      "kimbundu_term": "Kúsuka",
+      "portuguese_translation": "Bastar",
+      "definition": null,
+      "alternative_meanings": [
+        "satisfazer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsuka-1 — https://www.kimbundu.org/pt/word/kusuka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
