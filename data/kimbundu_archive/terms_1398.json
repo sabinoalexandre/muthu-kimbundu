@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14084,
+      "kimbundu_term": "La",
+      "portuguese_translation": "Visto que",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "conjunção, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, la-1 — https://www.kimbundu.org/pt/word/la",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14085,
+      "kimbundu_term": "La",
+      "portuguese_translation": "Quanto",
+      "definition": null,
+      "alternative_meanings": [
+        "porquanto"
+      ],
+      "examples": [],
+      "grammatical_category": "conjunção, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, la-1 — https://www.kimbundu.org/pt/word/la",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14086,
+      "kimbundu_term": "Lábanga",
+      "portuguese_translation": "Ordinário",
+      "definition": null,
+      "alternative_meanings": [
+        "grosseiro",
+        "incivil"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lábanga-1 — https://www.kimbundu.org/pt/word/labanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14087,
+      "kimbundu_term": "Lábanga",
+      "portuguese_translation": "Pessoa rebelde, de maneiras ordinárias",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lábanga-1 — https://www.kimbundu.org/pt/word/labanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14088,
+      "kimbundu_term": "Labuákata",
+      "portuguese_translation": "Diz-se da entrada de alguém em um recinto sem prévio aviso ou licença",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, labuákata-1 — https://www.kimbundu.org/pt/word/labuakata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14089,
+      "kimbundu_term": "ládi",
+      "portuguese_translation": "Dois",
+      "definition": null,
+      "alternative_meanings": [
+        "Um mais um",
+        "Segundo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ládi-1 — https://www.kimbundu.org/pt/word/ladi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14090,
+      "kimbundu_term": "ládi",
+      "portuguese_translation": "O algarismo dois (2)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ládi-1 — https://www.kimbundu.org/pt/word/ladi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14091,
+      "kimbundu_term": "Lalama",
+      "portuguese_translation": "Lagoa próxima da pov. de Cabiri, circ. civ. de Icolo e Bengo, distr. e prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lalama-1 — https://www.kimbundu.org/pt/word/lalama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14092,
+      "kimbundu_term": "Láluvi",
+      "portuguese_translation": "Alarve",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, láluvi-1 — https://www.kimbundu.org/pt/word/laluvi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14093,
+      "kimbundu_term": "Lâmba",
+      "portuguese_translation": "Desventura",
+      "definition": null,
+      "alternative_meanings": [
+        "provação",
+        "infortúnio"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, lâmba-1 — https://www.kimbundu.org/pt/word/lamba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
