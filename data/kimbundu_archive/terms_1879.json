@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18894,
+      "kimbundu_term": "Sambwa",
+      "portuguese_translation": "Borda",
+      "definition": null,
+      "alternative_meanings": [
+        "margem",
+        "banda"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sambwa-1 — https://www.kimbundu.org/pt/word/sambwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18895,
+      "kimbundu_term": "Sambwa",
+      "portuguese_translation": "Marginal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sambwa-1 — https://www.kimbundu.org/pt/word/sambwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18896,
+      "kimbundu_term": "Sambwadi",
+      "portuguese_translation": "Sete",
+      "definition": null,
+      "alternative_meanings": [
+        "o algarismo 7"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sambwadi-1 — https://www.kimbundu.org/pt/word/sambwadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18897,
+      "kimbundu_term": "Sânda",
+      "portuguese_translation": "Aparte",
+      "definition": null,
+      "alternative_meanings": [
+        "Interrupção a quem fala",
+        "O que um contador diz simulando falar consigo",
+        "É mais usado no pl. jisânda"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sânda-1 — https://www.kimbundu.org/pt/word/sanda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18898,
+      "kimbundu_term": "Sanda-Madia",
+      "portuguese_translation": "ia Nzambi",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sanda-madia-1 — https://www.kimbundu.org/pt/word/sanda-madia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18899,
+      "kimbundu_term": "Sándu",
+      "portuguese_translation": "Homónimo",
+      "definition": null,
+      "alternative_meanings": [
+        "xará"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sándu-1 — https://www.kimbundu.org/pt/word/sandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18900,
+      "kimbundu_term": "Sándu",
+      "portuguese_translation": "Ser espiritual",
+      "definition": null,
+      "alternative_meanings": [
+        "Mammon"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sándu-1 — https://www.kimbundu.org/pt/word/sandu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18901,
+      "kimbundu_term": "Sang'a-ndombe",
+      "portuguese_translation": "Antigo bairro da cidade de Luanda, nas traseiras do edifício das Obras Públicas e onde se fabricavam bilhas de barro pre",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sang'a-ndombe-1 — https://www.kimbundu.org/pt/word/sang'a-ndombe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18902,
+      "kimbundu_term": "Sánga",
+      "portuguese_translation": "Abrev. de risánga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sánga-1 — https://www.kimbundu.org/pt/word/sanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18903,
+      "kimbundu_term": "Sánga",
+      "portuguese_translation": "Pov. e sede do posto deste nome, circ. civ. da Quibal, distr. do Quanz-Sul, prov. de Benguela, 5.549 hab",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, sánga-1 — https://www.kimbundu.org/pt/word/sanga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
