@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3624,
+      "kimbundu_term": "Kâmbu",
+      "portuguese_translation": "Fanico",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kâmbu-1 — https://www.kimbundu.org/pt/word/kambu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3625,
+      "kimbundu_term": "Kâmbu",
+      "portuguese_translation": "Ataque",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kâmbu-1 — https://www.kimbundu.org/pt/word/kambu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3626,
+      "kimbundu_term": "Kâmbu",
+      "portuguese_translation": "Desmaiar, destalecer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kâmbu-1 — https://www.kimbundu.org/pt/word/kambu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3627,
+      "kimbundu_term": "Kámbudi",
+      "portuguese_translation": "Qualidade de banana, fam. das plantas zingiberáceas / musáceas (musa sapientum), conhecida por «banana macaca»",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kámbudi-1 — https://www.kimbundu.org/pt/word/kambudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3628,
+      "kimbundu_term": "Kambúdi",
+      "portuguese_translation": "Corderinho",
+      "definition": null,
+      "alternative_meanings": [
+        "Anho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kambúdi-1 — https://www.kimbundu.org/pt/word/kambudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3629,
+      "kimbundu_term": "Kambúdi",
+      "portuguese_translation": "Anínio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kambúdi-1 — https://www.kimbundu.org/pt/word/kambudi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3630,
+      "kimbundu_term": "Kambuémbue",
+      "portuguese_translation": "(X) Borbulhante",
+      "definition": null,
+      "alternative_meanings": [
+        "Murmurador",
+        "Que produz sussurro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kambuémbue-1 — https://www.kimbundu.org/pt/word/kambuembue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3631,
+      "kimbundu_term": "Kambuémbue",
+      "portuguese_translation": "Sussurro leve e agradável",
+      "definition": null,
+      "alternative_meanings": [
+        "Murmurinho",
+        "Pessoa que murmura"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kambuémbue-1 — https://www.kimbundu.org/pt/word/kambuembue",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3632,
+      "kimbundu_term": "Kambuende",
+      "portuguese_translation": "Batatinha",
+      "definition": null,
+      "alternative_meanings": [
+        "Mandioca tenra, de pequeno tamanho, ou de pouco desenvolvimento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kambuende-1 — https://www.kimbundu.org/pt/word/kambuende",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3633,
+      "kimbundu_term": "Kámbui",
+      "portuguese_translation": "Pequena bola de comida que se mete na boca de uma só vez",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kámbui-1 — https://www.kimbundu.org/pt/word/kambui",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
