@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10504,
+      "kimbundu_term": "Kulúnga",
+      "portuguese_translation": "Ir direito a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulúnga-1 — https://www.kimbundu.org/pt/word/kulunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10505,
+      "kimbundu_term": "Kulúnga",
+      "portuguese_translation": "Adubar",
+      "definition": null,
+      "alternative_meanings": [
+        "afinar",
+        "temperar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulúnga-1 — https://www.kimbundu.org/pt/word/kulunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10506,
+      "kimbundu_term": "Kulúnga",
+      "portuguese_translation": "Adjetivar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulúnga-1 — https://www.kimbundu.org/pt/word/kulunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10507,
+      "kimbundu_term": "Kulúnga",
+      "portuguese_translation": "Concordar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulúnga-1 — https://www.kimbundu.org/pt/word/kulunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10508,
+      "kimbundu_term": "Kulungama",
+      "portuguese_translation": "Estreitar",
+      "definition": null,
+      "alternative_meanings": [
+        "aproximar",
+        "tornar mais íntimo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungama-1 — https://www.kimbundu.org/pt/word/kulungama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10509,
+      "kimbundu_term": "Kulungama",
+      "portuguese_translation": "Pôr em paralelo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungama-1 — https://www.kimbundu.org/pt/word/kulungama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10510,
+      "kimbundu_term": "Kulungamena",
+      "portuguese_translation": "Agrupar-se, juntar-se",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungamena-1 — https://www.kimbundu.org/pt/word/kulungamena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10511,
+      "kimbundu_term": "Kulungika",
+      "portuguese_translation": "Regular",
+      "definition": null,
+      "alternative_meanings": [
+        "servir de modelo, de regra"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungika-1 — https://www.kimbundu.org/pt/word/kulungika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10512,
+      "kimbundu_term": "Kulungika",
+      "portuguese_translation": "Estabelecer regras",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungika-1 — https://www.kimbundu.org/pt/word/kulungika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10513,
+      "kimbundu_term": "Kulungika",
+      "portuguese_translation": "Harmonizar",
+      "definition": null,
+      "alternative_meanings": [
+        "pôr certo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulungika-1 — https://www.kimbundu.org/pt/word/kulungika",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
