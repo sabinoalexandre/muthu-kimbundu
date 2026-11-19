@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8214,
+      "kimbundu_term": "Kudiloza",
+      "portuguese_translation": "Dar estampido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudiloza-1 — https://www.kimbundu.org/pt/word/kudiloza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8215,
+      "kimbundu_term": "Kudiludisa",
+      "portuguese_translation": "Amargurar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "afligir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudiludisa-1 — https://www.kimbundu.org/pt/word/kudiludisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8216,
+      "kimbundu_term": "Kudilundisa",
+      "portuguese_translation": "Guardar sem propósito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudilundisa-1 — https://www.kimbundu.org/pt/word/kudilundisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8217,
+      "kimbundu_term": "Kudilundisa",
+      "portuguese_translation": "Ter em depósito, em arquivo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudilundisa-1 — https://www.kimbundu.org/pt/word/kudilundisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8218,
+      "kimbundu_term": "Kudilundujula",
+      "portuguese_translation": "Ir aos encontrões",
+      "definition": null,
+      "alternative_meanings": [
+        "empurrar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudilundujula-1 — https://www.kimbundu.org/pt/word/kudilundujula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8219,
+      "kimbundu_term": "Kudilundumuna",
+      "portuguese_translation": "Deitar-se abaixo",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer-se cair"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudilundumuna-1 — https://www.kimbundu.org/pt/word/kudilundumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8220,
+      "kimbundu_term": "Kudiluualesa",
+      "portuguese_translation": "Enfadar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer-se zangado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudiluualesa-1 — https://www.kimbundu.org/pt/word/kudiluualesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8221,
+      "kimbundu_term": "Kudíma",
+      "portuguese_translation": "Lavrar (terra)",
+      "definition": null,
+      "alternative_meanings": [
+        "capinar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudíma-1 — https://www.kimbundu.org/pt/word/kudima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8222,
+      "kimbundu_term": "Kudíma",
+      "portuguese_translation": "Amanhar",
+      "definition": null,
+      "alternative_meanings": [
+        "agricultar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudíma-1 — https://www.kimbundu.org/pt/word/kudima",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8223,
+      "kimbundu_term": "Kudíma",
+      "portuguese_translation": "Capinação",
+      "definition": null,
+      "alternative_meanings": [
+        "lavoura"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kudíma-1 — https://www.kimbundu.org/pt/word/kudima",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
