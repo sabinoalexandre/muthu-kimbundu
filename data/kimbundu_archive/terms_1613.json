@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 16234,
+      "kimbundu_term": "Muísu",
+      "portuguese_translation": "Pilão",
+      "definition": null,
+      "alternative_meanings": [
+        "mão de gral. Maço",
+        "triturador"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muísu-1 — https://www.kimbundu.org/pt/word/muisu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16235,
+      "kimbundu_term": "Muiúxi",
+      "portuguese_translation": "Justo",
+      "definition": null,
+      "alternative_meanings": [
+        "reto",
+        "acertado. Pessoa que obra com justiça. Corregedor"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muiúxi-1 — https://www.kimbundu.org/pt/word/muiuxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16236,
+      "kimbundu_term": "Muivui",
+      "portuguese_translation": "Ouvidor. Que faz parte de um auditório. Ouvinte",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muivui-1 — https://www.kimbundu.org/pt/word/muivui",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16237,
+      "kimbundu_term": "Múja",
+      "portuguese_translation": "Mujém (peixe)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, múja-1 — https://www.kimbundu.org/pt/word/muja",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16238,
+      "kimbundu_term": "Mujéji",
+      "portuguese_translation": "Pedúnculo do milho. Mais usado no plural: mijéji",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mujéji-1 — https://www.kimbundu.org/pt/word/mujeji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16239,
+      "kimbundu_term": "Mujeti",
+      "portuguese_translation": "Que paira ou adeja",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mujeti-1 — https://www.kimbundu.org/pt/word/mujeti",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16240,
+      "kimbundu_term": "Muji",
+      "portuguese_translation": "Raiz",
+      "definition": null,
+      "alternative_meanings": [
+        "rizoma (na Lunda)"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muji-1 — https://www.kimbundu.org/pt/word/muji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16241,
+      "kimbundu_term": "Mujía",
+      "portuguese_translation": "Planta da família das rosáceas (parinari capensis), de fruto comestível",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mujía-1 — https://www.kimbundu.org/pt/word/mujia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16242,
+      "kimbundu_term": "Mujibhe",
+      "portuguese_translation": "Matador. Magarefe",
+      "definition": null,
+      "alternative_meanings": [
+        "assassino"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mujibhe-1 — https://www.kimbundu.org/pt/word/mujibhe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 16243,
+      "kimbundu_term": "Mujídi",
+      "portuguese_translation": "Que se priva de alguma coisa (de comer)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mujídi-1 — https://www.kimbundu.org/pt/word/mujidi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
