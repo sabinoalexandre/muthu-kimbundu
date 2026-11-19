@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4794,
+      "kimbundu_term": "Kibwika",
+      "portuguese_translation": "Destruição",
+      "definition": null,
+      "alternative_meanings": [
+        "Perecimento",
+        "Aniquilamento: mortandade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kibwika-1 — https://www.kimbundu.org/pt/word/kibwika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4795,
+      "kimbundu_term": "Kîdi",
+      "portuguese_translation": "Verdade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kîdi-1 — https://www.kimbundu.org/pt/word/kidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4796,
+      "kimbundu_term": "Kîdi",
+      "portuguese_translation": "Comida",
+      "definition": null,
+      "alternative_meanings": [
+        "alimento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kîdi-1 — https://www.kimbundu.org/pt/word/kidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4797,
+      "kimbundu_term": "Kîdi",
+      "portuguese_translation": "Comido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kîdi-1 — https://www.kimbundu.org/pt/word/kidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4798,
+      "kimbundu_term": "Kîdi",
+      "portuguese_translation": "Realmente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kîdi-1 — https://www.kimbundu.org/pt/word/kidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4799,
+      "kimbundu_term": "Kîdi",
+      "portuguese_translation": "De veras",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kîdi-1 — https://www.kimbundu.org/pt/word/kidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4800,
+      "kimbundu_term": "Kîdi",
+      "portuguese_translation": "Verdadeiramente, certamente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kîdi-1 — https://www.kimbundu.org/pt/word/kidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4801,
+      "kimbundu_term": "Kîdi",
+      "portuguese_translation": "Sim",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kîdi-1 — https://www.kimbundu.org/pt/word/kidi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4802,
+      "kimbundu_term": "Kîdia-kîdia",
+      "portuguese_translation": "Certamente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kîdia-kîdia-1 — https://www.kimbundu.org/pt/word/kidia-kidia",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4803,
+      "kimbundu_term": "Kîdia-kîdia",
+      "portuguese_translation": "Verdadeiramente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kîdia-kîdia-1 — https://www.kimbundu.org/pt/word/kidia-kidia",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
