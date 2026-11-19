@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12364,
+      "kimbundu_term": "Kutêxi",
+      "portuguese_translation": "Perda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutêxi-1 — https://www.kimbundu.org/pt/word/kutexi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12365,
+      "kimbundu_term": "Kutêxi",
+      "portuguese_translation": "Kuritêxi, e r. Deitar a correr",
+      "definition": null,
+      "alternative_meanings": [
+        "fugir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutêxi-1 — https://www.kimbundu.org/pt/word/kutexi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12366,
+      "kimbundu_term": "Kutexika",
+      "portuguese_translation": "Sofrer perda, extravio",
+      "definition": null,
+      "alternative_meanings": [
+        "Desaparecimento"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutexika-1 — https://www.kimbundu.org/pt/word/kutexika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12367,
+      "kimbundu_term": "Kutexikisa",
+      "portuguese_translation": "Fazer perder",
+      "definition": null,
+      "alternative_meanings": [
+        "deixar desaparecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutexikisa-1 — https://www.kimbundu.org/pt/word/kutexikisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12368,
+      "kimbundu_term": "Kutexila",
+      "portuguese_translation": "Deitar fora algo pertencente a outrem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutexila-1 — https://www.kimbundu.org/pt/word/kutexila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12369,
+      "kimbundu_term": "Kutexisa",
+      "portuguese_translation": "Fazer descaminhar, perder",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutexisa-1 — https://www.kimbundu.org/pt/word/kutexisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12370,
+      "kimbundu_term": "Kuthathamesa",
+      "portuguese_translation": "Fazer durar (em um lugar)",
+      "definition": null,
+      "alternative_meanings": [
+        "Tornar estável, demorado"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuthathamesa-1 — https://www.kimbundu.org/pt/word/kuthathamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12371,
+      "kimbundu_term": "Kuthathamesa",
+      "portuguese_translation": "Sujeitar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer tomar compromissos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuthathamesa-1 — https://www.kimbundu.org/pt/word/kuthathamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12372,
+      "kimbundu_term": "Kuthathamesa",
+      "portuguese_translation": "Kuritatamesa, e r. Demorar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "obrigar-se",
+        "comprometer-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuthathamesa-1 — https://www.kimbundu.org/pt/word/kuthathamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12373,
+      "kimbundu_term": "Kutiambela",
+      "portuguese_translation": "Dizer de si para si",
+      "definition": null,
+      "alternative_meanings": [
+        "Escutar-se",
+        "referir-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutiambela-1 — https://www.kimbundu.org/pt/word/kutiambela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
