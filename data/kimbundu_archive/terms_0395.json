@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4054,
+      "kimbundu_term": "Kasánji",
+      "portuguese_translation": "pov. na região do Quembo, na margem esquerda do rio Quango, distr. da Lunda, prov. de Malange",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasánji-1 — https://www.kimbundu.org/pt/word/kasanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4055,
+      "kimbundu_term": "Kasanya",
+      "portuguese_translation": "Pov. na região da Quissama, circ. civ. de Muxima, na vertente E. do monte Kabólo-ka-mbóndo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasanya-1 — https://www.kimbundu.org/pt/word/kasanya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4056,
+      "kimbundu_term": "Kasanza",
+      "portuguese_translation": "confluente da margem esquerda do Quanza",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasanza-1 — https://www.kimbundu.org/pt/word/kasanza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4057,
+      "kimbundu_term": "Kasanzu",
+      "portuguese_translation": "Chibata",
+      "definition": null,
+      "alternative_meanings": [
+        "Raminho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasanzu-1 — https://www.kimbundu.org/pt/word/kasanzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4058,
+      "kimbundu_term": "Kasanzu",
+      "portuguese_translation": "Aldeia na área da circ. civ. de Icolo e Bengo, (Catete) distr. e prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, corografia",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasanzu-1 — https://www.kimbundu.org/pt/word/kasanzu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4059,
+      "kimbundu_term": "Kasasa",
+      "portuguese_translation": "de kakisasa",
+      "definition": null,
+      "alternative_meanings": [
+        "Sarça",
+        "Raminho",
+        "silva"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasasa-1 — https://www.kimbundu.org/pt/word/kasasa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4060,
+      "kimbundu_term": "Kasasala",
+      "portuguese_translation": "Reptil lacertídea, insetívoro",
+      "definition": null,
+      "alternative_meanings": [
+        "Saramantiga",
+        "Lagartixa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasasala-1 — https://www.kimbundu.org/pt/word/kasasala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4061,
+      "kimbundu_term": "Kasasamba",
+      "portuguese_translation": "Tendinha",
+      "definition": null,
+      "alternative_meanings": [
+        "Pequena barraca para venda de água",
+        "Abrev. de kakisasamba"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasasamba-1 — https://www.kimbundu.org/pt/word/kasasamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4062,
+      "kimbundu_term": "Kasau-sau",
+      "portuguese_translation": "Planta euforbiácea (Tragia cordifolia)",
+      "definition": null,
+      "alternative_meanings": [
+        "Urtiga"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasau-sau-1 — https://www.kimbundu.org/pt/word/kasau-sau",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4063,
+      "kimbundu_term": "Kasau-sau",
+      "portuguese_translation": "Erupção cutânea produzida pelo contacto da urtiga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kasau-sau-1 — https://www.kimbundu.org/pt/word/kasau-sau",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
