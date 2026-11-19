@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11324,
+      "kimbundu_term": "Kusambela",
+      "portuguese_translation": "Rezar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusambela-1 — https://www.kimbundu.org/pt/word/kusambela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11325,
+      "kimbundu_term": "Kusambela",
+      "portuguese_translation": "Suplicar",
+      "definition": null,
+      "alternative_meanings": [
+        "pedir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusambela-1 — https://www.kimbundu.org/pt/word/kusambela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11326,
+      "kimbundu_term": "Kusambila",
+      "portuguese_translation": "Penetrar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusambila-1 — https://www.kimbundu.org/pt/word/kusambila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11327,
+      "kimbundu_term": "Kusambila",
+      "portuguese_translation": "Entrar",
+      "definition": null,
+      "alternative_meanings": [
+        "meter-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusambila-1 — https://www.kimbundu.org/pt/word/kusambila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11328,
+      "kimbundu_term": "Kusambujuka",
+      "portuguese_translation": "Ir contagiando",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusambujuka-1 — https://www.kimbundu.org/pt/word/kusambujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11329,
+      "kimbundu_term": "Kusambujuka",
+      "portuguese_translation": "Estar a passar, a transpor por vezes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusambujuka-1 — https://www.kimbundu.org/pt/word/kusambujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11330,
+      "kimbundu_term": "Kusambúka",
+      "portuguese_translation": "Contaminar",
+      "definition": null,
+      "alternative_meanings": [
+        "comunicar por contágio"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusambúka-1 — https://www.kimbundu.org/pt/word/kusambuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11331,
+      "kimbundu_term": "Kusambukisa",
+      "portuguese_translation": "Transmitir por contágio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusambukisa-1 — https://www.kimbundu.org/pt/word/kusambukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11332,
+      "kimbundu_term": "Kusambukisa",
+      "portuguese_translation": "Fazer contaminar (o mal)",
+      "definition": null,
+      "alternative_meanings": [
+        "corromper"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusambukisa-1 — https://www.kimbundu.org/pt/word/kusambukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11333,
+      "kimbundu_term": "Kusambuluka",
+      "portuguese_translation": "Repostar",
+      "definition": null,
+      "alternative_meanings": [
+        "retorquir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusambuluka-1 — https://www.kimbundu.org/pt/word/kusambuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
