@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2914,
+      "kimbundu_term": "Ka unene-néne",
+      "portuguese_translation": "Grandíssimo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ka unene-néne-1 — https://www.kimbundu.org/pt/word/ka%20unene-nene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2915,
+      "kimbundu_term": "Ka unene-néne",
+      "portuguese_translation": "Pouco mais volumoso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ka unene-néne-1 — https://www.kimbundu.org/pt/word/ka%20unene-nene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2916,
+      "kimbundu_term": "Ka-éne",
+      "portuguese_translation": "Delas",
+      "definition": null,
+      "alternative_meanings": [
+        "deles",
+        "Da pessoa deles"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ka-éne-1 — https://www.kimbundu.org/pt/word/ka-ene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2917,
+      "kimbundu_term": "Ka-ukulu",
+      "portuguese_translation": "Do tempo remoto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ka-ukulu-1 — https://www.kimbundu.org/pt/word/ka-ukulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2918,
+      "kimbundu_term": "Ka-ukulu",
+      "portuguese_translation": "Dos tempos idos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ka-ukulu-1 — https://www.kimbundu.org/pt/word/ka-ukulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2919,
+      "kimbundu_term": "Ka-ukulu",
+      "portuguese_translation": "De outras épocas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ka-ukulu-1 — https://www.kimbundu.org/pt/word/ka-ukulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2920,
+      "kimbundu_term": "Ka-unene",
+      "portuguese_translation": "De tamanho maior que o ordinário",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ka-unene-1 — https://www.kimbundu.org/pt/word/ka-unene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2921,
+      "kimbundu_term": "Ka-unene",
+      "portuguese_translation": "Pouco grande",
+      "definition": null,
+      "alternative_meanings": [
+        "pouco considerável"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ka-unene-1 — https://www.kimbundu.org/pt/word/ka-unene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2922,
+      "kimbundu_term": "Kába",
+      "portuguese_translation": "Pequena pele",
+      "definition": null,
+      "alternative_meanings": [
+        "Pele delgada e fina"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kába-1 — https://www.kimbundu.org/pt/word/kaba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2923,
+      "kimbundu_term": "Kábaba",
+      "portuguese_translation": "Que não dá",
+      "definition": null,
+      "alternative_meanings": [
+        "Sovina"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kábaba-1 — https://www.kimbundu.org/pt/word/kababa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
