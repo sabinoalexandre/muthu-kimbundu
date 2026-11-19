@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7204,
+      "kimbundu_term": "Kubazela",
+      "portuguese_translation": "Exprobar",
+      "definition": null,
+      "alternative_meanings": [
+        "censurar com aspereza"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubazela-1 — https://www.kimbundu.org/pt/word/kubazela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7205,
+      "kimbundu_term": "Kubazelesa",
+      "portuguese_translation": "Fazer ralhar, censurar, repreender",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubazelesa-1 — https://www.kimbundu.org/pt/word/kubazelesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7206,
+      "kimbundu_term": "Kubazelesa",
+      "portuguese_translation": "Dar causa a ralhos, a repreensões",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubazelesa-1 — https://www.kimbundu.org/pt/word/kubazelesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7207,
+      "kimbundu_term": "Kubazesa",
+      "portuguese_translation": "Fazer estalar, estoirar, explodir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubazesa-1 — https://www.kimbundu.org/pt/word/kubazesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7208,
+      "kimbundu_term": "Kubazesa",
+      "portuguese_translation": "Mandar capar, castrar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubazesa-1 — https://www.kimbundu.org/pt/word/kubazesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7209,
+      "kimbundu_term": "Kúbe",
+      "portuguese_translation": "Arbusto de folhagem composta, miúda e cor verde, comum no planalto de Benguela",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbe-1 — https://www.kimbundu.org/pt/word/kube",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7210,
+      "kimbundu_term": "Kubéba",
+      "portuguese_translation": "Emboçar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubéba-1 — https://www.kimbundu.org/pt/word/kubeba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7211,
+      "kimbundu_term": "Kubéba",
+      "portuguese_translation": "Emboço",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubéba-1 — https://www.kimbundu.org/pt/word/kubeba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7212,
+      "kimbundu_term": "Kúbeba",
+      "portuguese_translation": "Grazinar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbeba-1 — https://www.kimbundu.org/pt/word/kubeba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7213,
+      "kimbundu_term": "Kúbeba",
+      "portuguese_translation": "Praguejar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbeba-1 — https://www.kimbundu.org/pt/word/kubeba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
