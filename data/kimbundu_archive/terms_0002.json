@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 124,
+      "kimbundu_term": "Abási",
+      "portuguese_translation": "Rachadores",
+      "definition": null,
+      "alternative_meanings": [
+        "pessoas que racham paus, tábuas ou outra madeira"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, abási-1 — https://www.kimbundu.org/pt/word/abasi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 125,
+      "kimbundu_term": "Abási",
+      "portuguese_translation": "Que reduzem a pedaços",
+      "definition": null,
+      "alternative_meanings": [
+        "esmigalhadores"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, abási-1 — https://www.kimbundu.org/pt/word/abasi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 126,
+      "kimbundu_term": "Abási",
+      "portuguese_translation": "Que esfacelam",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, abási-1 — https://www.kimbundu.org/pt/word/abasi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 127,
+      "kimbundu_term": "Abébi",
+      "portuguese_translation": "Embarradores",
+      "definition": null,
+      "alternative_meanings": [
+        "conjunto ou grupo de pessoas que cobrem, tapam ou rebocam paredes com barro",
+        "alisadores"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, abébi-1 — https://www.kimbundu.org/pt/word/abebi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 128,
+      "kimbundu_term": "Abebi",
+      "portuguese_translation": "Aduladores",
+      "definition": null,
+      "alternative_meanings": [
+        "lisonjeadores"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, abebi-1 — https://www.kimbundu.org/pt/word/abebi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 129,
+      "kimbundu_term": "Abebi",
+      "portuguese_translation": "Conjunto de praguejadores",
+      "definition": null,
+      "alternative_meanings": [
+        "pessoas que dizem imprecações, que rogam pragas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, abebi-1 — https://www.kimbundu.org/pt/word/abebi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 130,
+      "kimbundu_term": "Abha",
+      "portuguese_translation": "Palavra que anuncia o ato de dar",
+      "definition": null,
+      "alternative_meanings": [
+        "toma",
+        "ação de dar"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, abha-1 — https://www.kimbundu.org/pt/word/abha",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 131,
+      "kimbundu_term": "Abha",
+      "portuguese_translation": "Toma! Recebe! Apanha!",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, interjeição",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, abha-1 — https://www.kimbundu.org/pt/word/abha",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 132,
+      "kimbundu_term": "Abhange",
+      "portuguese_translation": "Fatores",
+      "definition": null,
+      "alternative_meanings": [
+        "fabricantes"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, abhange-1 — https://www.kimbundu.org/pt/word/abhange",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 133,
+      "kimbundu_term": "Abhangi",
+      "portuguese_translation": "Lutadores",
+      "definition": null,
+      "alternative_meanings": [
+        "pelejadores",
+        "combatentes"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, abhangi-1 — https://www.kimbundu.org/pt/word/abhangi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
