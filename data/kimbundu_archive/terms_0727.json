@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7374,
+      "kimbundu_term": "Kubhangela",
+      "portuguese_translation": "Kuribangela, e r. Construir, fazer obrar sem auxílio de estranho",
+      "definition": null,
+      "alternative_meanings": [
+        "Lutar por si, defender-se",
+        "fig. Burrar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhangela-1 — https://www.kimbundu.org/pt/word/kubhangela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7375,
+      "kimbundu_term": "Kubhangesa",
+      "portuguese_translation": "Forcejar",
+      "definition": null,
+      "alternative_meanings": [
+        "debater-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhangesa-1 — https://www.kimbundu.org/pt/word/kubhangesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7376,
+      "kimbundu_term": "Kubhangesa",
+      "portuguese_translation": "Causar impedimento",
+      "definition": null,
+      "alternative_meanings": [
+        "Obstar",
+        "procurar opor-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhangesa-1 — https://www.kimbundu.org/pt/word/kubhangesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7377,
+      "kimbundu_term": "Kubhangesa",
+      "portuguese_translation": "Exercer pressão contra",
+      "definition": null,
+      "alternative_meanings": [
+        "Empecer-resistir, opor",
+        "Proporcionar",
+        "dar ocasião a",
+        "concorrer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhangesa-1 — https://www.kimbundu.org/pt/word/kubhangesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7378,
+      "kimbundu_term": "Kubhangesa",
+      "portuguese_translation": "Mandar executar, fazer, construir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhangesa-1 — https://www.kimbundu.org/pt/word/kubhangesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7379,
+      "kimbundu_term": "Kubhangesa",
+      "portuguese_translation": "Kuribangesa, v. r. Ser causa de",
+      "definition": null,
+      "alternative_meanings": [
+        "Proporcionar ensejo a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhangesa-1 — https://www.kimbundu.org/pt/word/kubhangesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7380,
+      "kimbundu_term": "Kubhata",
+      "portuguese_translation": "Calcar (com a mão)",
+      "definition": null,
+      "alternative_meanings": [
+        "apertar, tornar compacto",
+        "fazer camadas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhata-1 — https://www.kimbundu.org/pt/word/kubhata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7381,
+      "kimbundu_term": "Kubhata",
+      "portuguese_translation": "Calafetar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhata-1 — https://www.kimbundu.org/pt/word/kubhata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7382,
+      "kimbundu_term": "Kubhatula",
+      "portuguese_translation": "Postejar",
+      "definition": null,
+      "alternative_meanings": [
+        "cortar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhatula-1 — https://www.kimbundu.org/pt/word/kubhatula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7383,
+      "kimbundu_term": "Kubhatula",
+      "portuguese_translation": "Amputar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubhatula-1 — https://www.kimbundu.org/pt/word/kubhatula",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
