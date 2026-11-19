@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11974,
+      "kimbundu_term": "Kusuwa",
+      "portuguese_translation": "Fazer caso",
+      "definition": null,
+      "alternative_meanings": [
+        "importar-se",
+        "Considerar",
+        "ligar importância"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuwa-1 — https://www.kimbundu.org/pt/word/kusuwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11975,
+      "kimbundu_term": "Kusuwala",
+      "portuguese_translation": "Suar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusuwala-1 — https://www.kimbundu.org/pt/word/kusuwala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11976,
+      "kimbundu_term": "Kuswala",
+      "portuguese_translation": "Passar a fuba pelo musuálu",
+      "definition": null,
+      "alternative_meanings": [
+        "Cirandar",
+        "fig. Separar o mau do bom"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuswala-1 — https://www.kimbundu.org/pt/word/kuswala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11977,
+      "kimbundu_term": "Kuswama",
+      "portuguese_translation": "Ocultar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "esconder-se",
+        "Não se mostrar",
+        "Encoquinar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuswama-1 — https://www.kimbundu.org/pt/word/kuswama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11978,
+      "kimbundu_term": "Kusweka",
+      "portuguese_translation": "Ocultar",
+      "definition": null,
+      "alternative_meanings": [
+        "esconder"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusweka-1 — https://www.kimbundu.org/pt/word/kusweka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11979,
+      "kimbundu_term": "Kusweka",
+      "portuguese_translation": "Calar",
+      "definition": null,
+      "alternative_meanings": [
+        "disfarçar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusweka-1 — https://www.kimbundu.org/pt/word/kusweka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11980,
+      "kimbundu_term": "Kusweka",
+      "portuguese_translation": "Tapar",
+      "definition": null,
+      "alternative_meanings": [
+        "sonegar",
+        "cobrir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusweka-1 — https://www.kimbundu.org/pt/word/kusweka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11981,
+      "kimbundu_term": "Kusweka",
+      "portuguese_translation": "Ocultação",
+      "definition": null,
+      "alternative_meanings": [
+        "sonegação"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusweka-1 — https://www.kimbundu.org/pt/word/kusweka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11982,
+      "kimbundu_term": "Kusweka",
+      "portuguese_translation": "Kurisueka, v. r. Alapar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "esconder-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusweka-1 — https://www.kimbundu.org/pt/word/kusweka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11983,
+      "kimbundu_term": "Kuswekela",
+      "portuguese_translation": "Dizer que não (tendo)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuswekela-1 — https://www.kimbundu.org/pt/word/kuswekela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
