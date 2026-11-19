@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11694,
+      "kimbundu_term": "Kusokuesa",
+      "portuguese_translation": "Mandar deslocar, tirar frutos do cacho",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokuesa-1 — https://www.kimbundu.org/pt/word/kusokuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11695,
+      "kimbundu_term": "Kusokuesa",
+      "portuguese_translation": "Mandar extrair, tirar do lugar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokuesa-1 — https://www.kimbundu.org/pt/word/kusokuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11696,
+      "kimbundu_term": "Kusokuesa",
+      "portuguese_translation": "Mandar desunir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusokuesa-1 — https://www.kimbundu.org/pt/word/kusokuesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11697,
+      "kimbundu_term": "Kúsola",
+      "portuguese_translation": "e intr. Escolher",
+      "definition": null,
+      "alternative_meanings": [
+        "preferir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsola-1 — https://www.kimbundu.org/pt/word/kusola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11698,
+      "kimbundu_term": "Kúsola",
+      "portuguese_translation": "Optar",
+      "definition": null,
+      "alternative_meanings": [
+        "ser preferido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsola-1 — https://www.kimbundu.org/pt/word/kusola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11699,
+      "kimbundu_term": "Kúsola",
+      "portuguese_translation": "Escolha",
+      "definition": null,
+      "alternative_meanings": [
+        "preferência"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsola-1 — https://www.kimbundu.org/pt/word/kusola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11700,
+      "kimbundu_term": "Kúsola",
+      "portuguese_translation": "Kurisola, v. r. Escolher-se (entre si)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúsola-1 — https://www.kimbundu.org/pt/word/kusola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11701,
+      "kimbundu_term": "Kusóla",
+      "portuguese_translation": "Derribar",
+      "definition": null,
+      "alternative_meanings": [
+        "roçar",
+        "Arrotear",
+        "arrifar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusóla-1 — https://www.kimbundu.org/pt/word/kusola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11702,
+      "kimbundu_term": "Kusóla",
+      "portuguese_translation": "Expugnar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusóla-1 — https://www.kimbundu.org/pt/word/kusola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11703,
+      "kimbundu_term": "Kusóla",
+      "portuguese_translation": "Roçadura",
+      "definition": null,
+      "alternative_meanings": [
+        "arrife"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusóla-1 — https://www.kimbundu.org/pt/word/kusola",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
