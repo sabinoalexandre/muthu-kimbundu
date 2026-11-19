@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17584,
+      "kimbundu_term": "Mvunji",
+      "portuguese_translation": "adj e sub. Ingénuo",
+      "definition": null,
+      "alternative_meanings": [
+        "inofensivo",
+        "pessoa simples"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mvunji-1 — https://www.kimbundu.org/pt/word/mvunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17585,
+      "kimbundu_term": "Mvunji",
+      "portuguese_translation": "Caninana",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mvunji-1 — https://www.kimbundu.org/pt/word/mvunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17586,
+      "kimbundu_term": "Mvwale",
+      "portuguese_translation": "Nativo",
+      "definition": null,
+      "alternative_meanings": [
+        "nato., s. sª (senhor, senhora)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mvwale-1 — https://www.kimbundu.org/pt/word/mvwale",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17587,
+      "kimbundu_term": "Mvwale",
+      "portuguese_translation": "Tratamento devido a pessoas ilustres",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mvwale-1 — https://www.kimbundu.org/pt/word/mvwale",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17588,
+      "kimbundu_term": "Mwa",
+      "portuguese_translation": "de lugar. Em, no, dentro de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mwa-1 — https://www.kimbundu.org/pt/word/mwa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17589,
+      "kimbundu_term": "Mwamba",
+      "portuguese_translation": "Guisado de molho de dendém",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mwamba-1 — https://www.kimbundu.org/pt/word/mwamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17590,
+      "kimbundu_term": "Mwambe",
+      "portuguese_translation": "Dizedor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mwambe-1 — https://www.kimbundu.org/pt/word/mwambe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17591,
+      "kimbundu_term": "Mwambe",
+      "portuguese_translation": "Conversador",
+      "definition": null,
+      "alternative_meanings": [
+        "que conta anedotas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mwambe-1 — https://www.kimbundu.org/pt/word/mwambe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17592,
+      "kimbundu_term": "Mwamwise",
+      "portuguese_translation": "Mulher que dá de mamar",
+      "definition": null,
+      "alternative_meanings": [
+        "Ama de leite"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mwamwise-1 — https://www.kimbundu.org/pt/word/mwamwise",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17593,
+      "kimbundu_term": "Mwanda",
+      "portuguese_translation": "Planta fam. das leguminosas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mwanda-1 — https://www.kimbundu.org/pt/word/mwanda",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
