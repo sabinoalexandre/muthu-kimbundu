@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 8964,
+      "kimbundu_term": "Kujikama",
+      "portuguese_translation": "Ficar interdito",
+      "definition": null,
+      "alternative_meanings": [
+        "ser defeso proibido"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujikama-1 — https://www.kimbundu.org/pt/word/kujikama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8965,
+      "kimbundu_term": "Kujikama",
+      "portuguese_translation": "Proibição",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujikama-1 — https://www.kimbundu.org/pt/word/kujikama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8966,
+      "kimbundu_term": "Kujikamesa",
+      "portuguese_translation": "Obstar",
+      "definition": null,
+      "alternative_meanings": [
+        "proibir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujikamesa-1 — https://www.kimbundu.org/pt/word/kujikamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8967,
+      "kimbundu_term": "Kujikamesa",
+      "portuguese_translation": "Prescrever a abstenção de",
+      "definition": null,
+      "alternative_meanings": [
+        "tornar defeso"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujikamesa-1 — https://www.kimbundu.org/pt/word/kujikamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8968,
+      "kimbundu_term": "Kujikinina",
+      "portuguese_translation": "Sumir-se",
+      "definition": null,
+      "alternative_meanings": [
+        "desaparecer lentamente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujikinina-1 — https://www.kimbundu.org/pt/word/kujikinina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8969,
+      "kimbundu_term": "Kujikinina",
+      "portuguese_translation": "Evaporar",
+      "definition": null,
+      "alternative_meanings": [
+        "esvair"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujikinina-1 — https://www.kimbundu.org/pt/word/kujikinina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8970,
+      "kimbundu_term": "Kujikinina",
+      "portuguese_translation": "Escoar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "dissipar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujikinina-1 — https://www.kimbundu.org/pt/word/kujikinina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8971,
+      "kimbundu_term": "Kujikinina",
+      "portuguese_translation": "Escoamento",
+      "definition": null,
+      "alternative_meanings": [
+        "evaporação"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujikinina-1 — https://www.kimbundu.org/pt/word/kujikinina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8972,
+      "kimbundu_term": "Kujikinina",
+      "portuguese_translation": "Consunção lenta mas progressiva",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujikinina-1 — https://www.kimbundu.org/pt/word/kujikinina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 8973,
+      "kimbundu_term": "Kujikinisa",
+      "portuguese_translation": "Fazer desaparecer lentamente (o líquido)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kujikinisa-1 — https://www.kimbundu.org/pt/word/kujikinisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
