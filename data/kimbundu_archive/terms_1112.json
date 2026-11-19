@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11224,
+      "kimbundu_term": "Kusabula",
+      "portuguese_translation": "Delirar",
+      "definition": null,
+      "alternative_meanings": [
+        "desvariar",
+        "dizer coisas desconexas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusabula-1 — https://www.kimbundu.org/pt/word/kusabula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11225,
+      "kimbundu_term": "Kusabuluka",
+      "portuguese_translation": "Estar salobre, sem gosto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusabuluka-1 — https://www.kimbundu.org/pt/word/kusabuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11226,
+      "kimbundu_term": "Kusabuluka",
+      "portuguese_translation": "Brotar de novo",
+      "definition": null,
+      "alternative_meanings": [
+        "reflorir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusabuluka-1 — https://www.kimbundu.org/pt/word/kusabuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11227,
+      "kimbundu_term": "Kusabuluka",
+      "portuguese_translation": "Tornar a nascer (a planta)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusabuluka-1 — https://www.kimbundu.org/pt/word/kusabuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11228,
+      "kimbundu_term": "Kusabuluka",
+      "portuguese_translation": "Ressurgimento",
+      "definition": null,
+      "alternative_meanings": [
+        "renascença"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusabuluka-1 — https://www.kimbundu.org/pt/word/kusabuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11229,
+      "kimbundu_term": "Kusabulukisa",
+      "portuguese_translation": "Tornar viçoso. Reverdecer",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer brotar de novo (a planta)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusabulukisa-1 — https://www.kimbundu.org/pt/word/kusabulukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11230,
+      "kimbundu_term": "Kusabulukisa",
+      "portuguese_translation": "Tornar salobre (a água)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusabulukisa-1 — https://www.kimbundu.org/pt/word/kusabulukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11231,
+      "kimbundu_term": "Kusabuxisa",
+      "portuguese_translation": "Fazer germinar, despontar, deitar rebentos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusabuxisa-1 — https://www.kimbundu.org/pt/word/kusabuxisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11232,
+      "kimbundu_term": "Kusadixila",
+      "portuguese_translation": "Salgar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusadixila-1 — https://www.kimbundu.org/pt/word/kusadixila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11233,
+      "kimbundu_term": "Kusadixila",
+      "portuguese_translation": "Fazer salgadura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusadixila-1 — https://www.kimbundu.org/pt/word/kusadixila",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
