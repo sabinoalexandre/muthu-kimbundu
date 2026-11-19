@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17124,
+      "kimbundu_term": "Músonde",
+      "portuguese_translation": "Afastamento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, músonde-1 — https://www.kimbundu.org/pt/word/musonde",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17125,
+      "kimbundu_term": "Músonde",
+      "portuguese_translation": "Gamberna",
+      "definition": null,
+      "alternative_meanings": [
+        "prisão de perna"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, músonde-1 — https://www.kimbundu.org/pt/word/musonde",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17126,
+      "kimbundu_term": "Musónde",
+      "portuguese_translation": "Indolente",
+      "definition": null,
+      "alternative_meanings": [
+        "preguiçoso",
+        "mandrião"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musónde-1 — https://www.kimbundu.org/pt/word/musonde",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17127,
+      "kimbundu_term": "Musondomona",
+      "portuguese_translation": "Boroa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musondomona-1 — https://www.kimbundu.org/pt/word/musondomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17128,
+      "kimbundu_term": "Musondomona",
+      "portuguese_translation": "Pão ordinário, mal cosido e farelento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musondomona-1 — https://www.kimbundu.org/pt/word/musondomona",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17129,
+      "kimbundu_term": "Musoneke",
+      "portuguese_translation": "Escriturário",
+      "definition": null,
+      "alternative_meanings": [
+        "escriba"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musoneke-1 — https://www.kimbundu.org/pt/word/musoneke",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17130,
+      "kimbundu_term": "Músonga",
+      "portuguese_translation": "Leira",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, músonga-1 — https://www.kimbundu.org/pt/word/musonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17131,
+      "kimbundu_term": "Músonga",
+      "portuguese_translation": "Tabuleiro (de horta, lavra). Monte de terra lavrada em comprimento",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, músonga-1 — https://www.kimbundu.org/pt/word/musonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17132,
+      "kimbundu_term": "Músonga",
+      "portuguese_translation": "Dádiva permissória para a viúva contrair segundas núpcias",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, músonga-1 — https://www.kimbundu.org/pt/word/musonga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17133,
+      "kimbundu_term": "Músonge",
+      "portuguese_translation": "Acacia siberiana de propriedades medicinais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, músonge-1 — https://www.kimbundu.org/pt/word/musonge",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
