@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2394,
+      "kimbundu_term": "Ítumba",
+      "portuguese_translation": "Conjunto de plantas de uma região",
+      "definition": null,
+      "alternative_meanings": [
+        "Pequena mata",
+        "floresta",
+        "Selva",
+        "Bosque. Armações de madeira"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ítumba-1 — https://www.kimbundu.org/pt/word/itumba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2395,
+      "kimbundu_term": "Ítumbi",
+      "portuguese_translation": "Batidouros",
+      "definition": null,
+      "alternative_meanings": [
+        "Pequenas pás para alijar águas das pequenas embarcações"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ítumbi-1 — https://www.kimbundu.org/pt/word/itumbi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2396,
+      "kimbundu_term": "Ítumbi",
+      "portuguese_translation": "Bofetões",
+      "definition": null,
+      "alternative_meanings": [
+        "sopapos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ítumbi-1 — https://www.kimbundu.org/pt/word/itumbi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2397,
+      "kimbundu_term": "Ítumbi",
+      "portuguese_translation": "audição",
+      "definition": null,
+      "alternative_meanings": [
+        "Outiva"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ítumbi-1 — https://www.kimbundu.org/pt/word/itumbi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2398,
+      "kimbundu_term": "Ítumbi",
+      "portuguese_translation": "De ouvi-la",
+      "definition": null,
+      "alternative_meanings": [
+        "Por ouvir dizer",
+        "De boca em boca"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ítumbi-1 — https://www.kimbundu.org/pt/word/itumbi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2399,
+      "kimbundu_term": "Ítunda",
+      "portuguese_translation": "Quantidade de carvão vegetal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ítunda-1 — https://www.kimbundu.org/pt/word/itunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2400,
+      "kimbundu_term": "Ítunda",
+      "portuguese_translation": "Recordação vaga de uma pessoa ou coisa",
+      "definition": null,
+      "alternative_meanings": [
+        "Reminiscências",
+        "Impressão que fica de uma coisa que se leu ou passou",
+        "Lembrança",
+        "memória"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ítunda-1 — https://www.kimbundu.org/pt/word/itunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2401,
+      "kimbundu_term": "Itundulu",
+      "portuguese_translation": "Maus tratos",
+      "definition": null,
+      "alternative_meanings": [
+        "Empurrões"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, itundulu-1 — https://www.kimbundu.org/pt/word/itundulu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2402,
+      "kimbundu_term": "Ítuxi",
+      "portuguese_translation": "Delitos",
+      "definition": null,
+      "alternative_meanings": [
+        "crimes"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ítuxi-1 — https://www.kimbundu.org/pt/word/ituxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2403,
+      "kimbundu_term": "Ítuxi",
+      "portuguese_translation": "Culpas",
+      "definition": null,
+      "alternative_meanings": [
+        "faltas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ítuxi-1 — https://www.kimbundu.org/pt/word/ituxi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
