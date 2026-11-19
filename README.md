@@ -1,16 +1,16 @@
-# MUTHU — Tradutor de Português ↔ Kimbundu
+# MUTHU — Tradutor de Português, Kimbundu e Kikongo
 
-**MUTHU** é uma aplicação bilingue de tradução concebida para traduzir palavras, expressões, frases, parágrafos e textos mais longos entre o português e o Kimbundu.
+**MUTHU** é uma aplicação de tradução concebida para português, Kimbundu e Kikongo. O dicionário local cobre atualmente apenas o par português–Kimbundu.
 
-**Lema:** «Duas línguas. Uma conexão.»
+**Lema:** «Idiomas que criam pontes.»
 
 ---
 
 ## 1. Visão geral do projeto
 
-O MUTHU tem como objetivo tornar a comunicação entre o português e o Kimbundu mais acessível, através de uma interface intuitiva, uma arquitetura modular e recursos linguísticos cuidadosamente geridos.
+O MUTHU tem como objetivo tornar a comunicação entre o português, o Kimbundu e o Kikongo mais acessível, através de uma interface intuitiva, uma arquitetura modular e recursos linguísticos cuidadosamente geridos.
 
-O projeto pretende também contribuir para a preservação, valorização e acessibilidade digital da língua Kimbundu.
+O projeto pretende também contribuir para a preservação, valorização e acessibilidade digital das línguas Kimbundu e Kikongo.
 
 A aplicação foi concebida para funcionar em computadores e dispositivos móveis, com especial atenção à experiência de utilização em smartphones Android.
 
@@ -20,7 +20,7 @@ A aplicação foi concebida para funcionar em computadores e dispositivos móvei
 - Navegação inferior entre os diferentes ecrãs da aplicação.
 - Ecrãs com conteúdo deslizável, pesquisa em tempo real e mensagens informativas quando não existem resultados.
 - Campos de texto adaptados à utilização do teclado.
-- Tradução bidirecional:
+- Tradução bidirecional disponível no dicionário local:
   - Português → Kimbundu.
   - Kimbundu → Português.
 - Tradução de palavras, expressões, frases, parágrafos e textos extensos.
@@ -430,7 +430,7 @@ O MUTHU encontra-se numa fase inicial de desenvolvimento dos seus recursos lingu
 
 É importante compreender as seguintes limitações:
 
-- Ainda não foi validado um serviço de tradução automática capaz de traduzir Kimbundu de forma suficientemente fiável.
+- Ainda não foi validado um serviço de tradução automática capaz de traduzir Kimbundu ou Kikongo de forma suficientemente fiável. O Kikongo já pode ser selecionado, mas ainda não tem recursos de tradução integrados.
 - A implementação inicial utiliza um mecanismo de tradução baseado num dicionário local.
 - A pesquisa de palavras no dicionário não equivale à tradução contextual de frases completas.
 - Os resultados são identificados como consultas ao dicionário.
@@ -526,4 +526,4 @@ O MUTHU não pretende ser apenas uma ferramenta de tradução.
 
 Pretende ser uma iniciativa tecnológica que aproxima duas línguas, facilita a comunicação e contribui para a valorização e preservação do património linguístico angolano.
 
-**MUTHU — Duas línguas. Uma conexão.**
+**MUTHU — Idiomas que criam pontes.**

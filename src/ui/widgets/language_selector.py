@@ -12,7 +12,11 @@ from src.ui.widgets.buttons import create_mdbutton
 
 
 def _language_label(code: str) -> str:
-    return {"pt": "Português", "kimbundu": "Kimbundu"}.get(code, get_language_name(code))
+    return {
+        "pt": "Português",
+        "kimbundu": "Kimbundu",
+        "kikongo": "Kikongo",
+    }.get(code, get_language_name(code))
 
 
 class LanguageSelector(BoxLayout):
