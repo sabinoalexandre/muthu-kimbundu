@@ -1,6 +1,6 @@
 # MUTHU — Tradutor de Português, Kimbundu e Kikongo
 
-**MUTHU** é uma aplicação de tradução concebida para português, Kimbundu e Kikongo. O dicionário local cobre atualmente apenas o par português–Kimbundu.
+**MUTHU** é uma aplicação de tradução concebida para português, Kimbundu e Kikongo. O dicionário local contém equivalências entre os três idiomas, com cobertura inicial limitada.
 
 **Lema:** «Idiomas que criam pontes.»
 
@@ -24,7 +24,7 @@ A aplicação foi concebida para funcionar em computadores e dispositivos móvei
   - Português → Kimbundu.
   - Kimbundu → Português.
 - Tradução de palavras, expressões, frases, parágrafos e textos extensos.
-- Dicionário bilingue com funcionalidade de pesquisa.
+- Dicionário local com pesquisa em português, Kimbundu e Kikongo, incluindo equivalências entre os três idiomas.
 - Histórico de traduções com pesquisa, eliminação individual e limpeza completa.
 - Sistema de favoritos para guardar traduções e expressões.
 - Temas claro e escuro.
@@ -430,8 +430,8 @@ O MUTHU encontra-se numa fase inicial de desenvolvimento dos seus recursos lingu
 
 É importante compreender as seguintes limitações:
 
-- Ainda não foi validado um serviço de tradução automática capaz de traduzir Kimbundu ou Kikongo de forma suficientemente fiável. O Kikongo já pode ser selecionado, mas ainda não tem recursos de tradução integrados.
-- A implementação inicial utiliza um mecanismo de tradução baseado num dicionário local.
+- Ainda não foi validado um serviço de tradução automática capaz de traduzir Kimbundu ou Kikongo de forma suficientemente fiável.
+- A implementação inicial utiliza um mecanismo de tradução baseado num dicionário local; as equivalências em Kikongo estão limitadas às entradas com fonte e permanecem não verificadas.
 - A pesquisa de palavras no dicionário não equivale à tradução contextual de frases completas.
 - Os resultados são identificados como consultas ao dicionário.
 - As entradas linguísticas não verificadas são devidamente identificadas.
@@ -510,7 +510,7 @@ As contribuições linguísticas devem incluir referências às fontes e permane
 O desenvolvimento do MUTHU poderá incluir:
 
 - Integração de um modelo de tradução automática validado para português e Kimbundu.
-- Expansão do dicionário bilingue.
+- Expansão do dicionário multilingue.
 - Validação linguística das palavras e expressões existentes.
 - Colaboração com falantes nativos e especialistas em Kimbundu.
 - Melhoria da tradução contextual de frases e textos extensos.

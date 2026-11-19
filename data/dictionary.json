@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "entries": [
     {
       "id": 1,
@@ -97,6 +97,7 @@
     {
       "id": 7,
       "kimbundu_term": "Muthu",
+      "kikongo_term": "mûntu",
       "portuguese_translation": "pessoa",
       "definition": "Pessoa; ser ou criatura.",
       "alternative_meanings": [
@@ -108,12 +109,13 @@
       "grammatical_category": "substantivo",
       "regional_variation": null,
       "verification_status": "unverified",
-      "source_reference": "Arquivo Kimbundu, Muthu, Assis Júnior (c. 1940), p. 326 — https://www.kimbundu.org/pt/word/muthu",
+      "source_reference": "Kimbundu: Arquivo Kimbundu, Muthu, Assis Júnior (c. 1940), p. 326 — https://www.kimbundu.org/pt/word/muthu; Kikongo: Kia Kongo, conteúdo das classes nominais — https://www.kiakongo.com/9-conteudo-dos-diferentes-classes/",
       "timestamp": "2026-11-02T00:00:00"
     },
     {
       "id": 8,
       "kimbundu_term": "Muthu",
+      "kikongo_term": "mûntu",
       "portuguese_translation": "gente",
       "definition": "Pessoa; ser ou criatura.",
       "alternative_meanings": [
@@ -125,12 +127,13 @@
       "grammatical_category": "substantivo",
       "regional_variation": null,
       "verification_status": "unverified",
-      "source_reference": "Arquivo Kimbundu, Muthu, Assis Júnior (c. 1940), p. 326 — https://www.kimbundu.org/pt/word/muthu",
+      "source_reference": "Kimbundu: Arquivo Kimbundu, Muthu, Assis Júnior (c. 1940), p. 326 — https://www.kimbundu.org/pt/word/muthu; Kikongo: Kia Kongo, conteúdo das classes nominais — https://www.kiakongo.com/9-conteudo-dos-diferentes-classes/",
       "timestamp": "2026-11-02T00:00:00"
     },
     {
       "id": 9,
       "kimbundu_term": "Athu",
+      "kikongo_term": "bântu",
       "portuguese_translation": "pessoas",
       "definition": "Conjunto de pessoas; gente.",
       "alternative_meanings": [
@@ -142,7 +145,7 @@
       "grammatical_category": "substantivo plural",
       "regional_variation": null,
       "verification_status": "unverified",
-      "source_reference": "Arquivo Kimbundu, Athu, Assis Júnior (c. 1940), p. 19 — https://www.kimbundu.org/pt/word/athu",
+      "source_reference": "Kimbundu: Arquivo Kimbundu, Athu, Assis Júnior (c. 1940), p. 19 — https://www.kimbundu.org/pt/word/athu; Kikongo: Kia Kongo, classes nominais e plural — https://www.kiakongo.com/classes-dos-nomes-em-kikongo/",
       "timestamp": "2026-11-02T00:00:00"
     },
     {
@@ -213,6 +216,7 @@
     {
       "id": 14,
       "kimbundu_term": "Mênya",
+      "kikongo_term": "maza",
       "portuguese_translation": "água",
       "definition": "Água; lugar por onde a água corre ou alaga; mar.",
       "alternative_meanings": [
@@ -226,7 +230,7 @@
       "grammatical_category": "substantivo",
       "regional_variation": null,
       "verification_status": "unverified",
-      "source_reference": "Arquivo Kimbundu, Mênya, Assis Júnior (c. 1940), p. 287 — https://www.kimbundu.org/pt/word/menya",
+      "source_reference": "Kimbundu: Arquivo Kimbundu, Mênya, Assis Júnior (c. 1940), p. 287 — https://www.kimbundu.org/pt/word/menya; Kikongo: Kia Kongo, palavras e suas origens — https://www.kiakongo.com/aprender-kikongo/palavras-e-suas-origens/",
       "timestamp": "2026-11-02T00:00:00"
     },
     {
@@ -343,6 +347,7 @@
     {
       "id": 22,
       "kimbundu_term": "Bhata",
+      "kikongo_term": "nzo",
       "portuguese_translation": "casa",
       "definition": "Casa; domicílio; residência; lar.",
       "alternative_meanings": [
@@ -355,7 +360,7 @@
       "grammatical_category": "substantivo",
       "regional_variation": null,
       "verification_status": "unverified",
-      "source_reference": "Arquivo Kimbundu, Bhata, Assis Júnior (c. 1940), p. 24 — https://www.kimbundu.org/pt/word/bhata",
+      "source_reference": "Kimbundu: Arquivo Kimbundu, Bhata, Assis Júnior (c. 1940), p. 24 — https://www.kimbundu.org/pt/word/bhata; Kikongo: Kia Kongo, conteúdo das classes nominais — https://www.kiakongo.com/9-conteudo-dos-diferentes-classes/",
       "timestamp": "2026-11-02T00:00:00"
     },
     {
@@ -841,6 +846,7 @@
     {
       "id": 56,
       "kimbundu_term": "Múkaji",
+      "kikongo_term": "n’kênto",
       "portuguese_translation": "mulher",
       "definition": "Mulher; esposa.",
       "alternative_meanings": [
@@ -850,7 +856,7 @@
       "grammatical_category": "substantivo",
       "regional_variation": null,
       "verification_status": "unverified",
-      "source_reference": "Arquivo Kimbundu, Múkaji, Assis Júnior (anos 1940), p. 304 — https://www.kimbundu.org/en/word/mukaji",
+      "source_reference": "Kimbundu: Arquivo Kimbundu, Múkaji, Assis Júnior (anos 1940), p. 304 — https://www.kimbundu.org/en/word/mukaji; Kikongo: Kia Kongo, classes dos nomes — https://www.kiakongo.com/classes-dos-nomes-em-kikongo/",
       "timestamp": "2026-11-02T00:00:00"
     },
     {
@@ -1102,6 +1108,7 @@
     {
       "id": 74,
       "kimbundu_term": "Mona",
+      "kikongo_term": "mwâna",
       "portuguese_translation": "filho",
       "definition": "Filho ou filha; uma só forma pode referir-se aos dois sexos.",
       "alternative_meanings": [
@@ -1112,12 +1119,13 @@
       "grammatical_category": "substantivo",
       "regional_variation": null,
       "verification_status": "unverified",
-      "source_reference": "Aprender Kimbundu, Palavras para pessoas, Chatelain (1889) — https://www.kimbundu.org/pt/learn/words-for-people",
+      "source_reference": "Kimbundu: Aprender Kimbundu, Palavras para pessoas, Chatelain (1889) — https://www.kimbundu.org/pt/learn/words-for-people; Kikongo: Kia Kongo, conteúdo das classes nominais — https://www.kiakongo.com/9-conteudo-dos-diferentes-classes/",
       "timestamp": "2026-11-02T00:00:00"
     },
     {
       "id": 75,
       "kimbundu_term": "Mona",
+      "kikongo_term": "mwâna",
       "portuguese_translation": "filha",
       "definition": "Filho ou filha; uma só forma pode referir-se aos dois sexos.",
       "alternative_meanings": [
@@ -1128,7 +1136,7 @@
       "grammatical_category": "substantivo",
       "regional_variation": null,
       "verification_status": "unverified",
-      "source_reference": "Aprender Kimbundu, Palavras para pessoas, Chatelain (1889) — https://www.kimbundu.org/pt/learn/words-for-people",
+      "source_reference": "Kimbundu: Aprender Kimbundu, Palavras para pessoas, Chatelain (1889) — https://www.kimbundu.org/pt/learn/words-for-people; Kikongo: Kia Kongo, conteúdo das classes nominais — https://www.kiakongo.com/9-conteudo-dos-diferentes-classes/",
       "timestamp": "2026-11-02T00:00:00"
     },
     {
