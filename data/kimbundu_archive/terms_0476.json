@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 4864,
+      "kimbundu_term": "Kídimbu",
+      "portuguese_translation": "adj. Tumultuoso",
+      "definition": null,
+      "alternative_meanings": [
+        "revoltado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kídimbu-1 — https://www.kimbundu.org/pt/word/kidimbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4865,
+      "kimbundu_term": "Kidimi",
+      "portuguese_translation": "Blesidade",
+      "definition": null,
+      "alternative_meanings": [
+        "Fala imperfeita como a das crianças"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidimi-1 — https://www.kimbundu.org/pt/word/kidimi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4866,
+      "kimbundu_term": "Kidimi",
+      "portuguese_translation": "adj. e sub. Bleso",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidimi-1 — https://www.kimbundu.org/pt/word/kidimi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4867,
+      "kimbundu_term": "Kidímu",
+      "portuguese_translation": "Vegetal",
+      "definition": null,
+      "alternative_meanings": [
+        "semente",
+        "O que se pode plantar ou semear"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidímu-1 — https://www.kimbundu.org/pt/word/kidimu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4868,
+      "kimbundu_term": "Kidímu",
+      "portuguese_translation": "Digno de ser semeado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidímu-1 — https://www.kimbundu.org/pt/word/kidimu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4869,
+      "kimbundu_term": "Kidinda",
+      "portuguese_translation": "Aleijado",
+      "definition": null,
+      "alternative_meanings": [
+        "Deformado",
+        "Diz-se da pessoa que não pode andar, ou que o faz de rastos",
+        "Imperfeito: inerte"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidinda-1 — https://www.kimbundu.org/pt/word/kidinda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4870,
+      "kimbundu_term": "Kidinda",
+      "portuguese_translation": "Pessoa de membros estropiados",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidinda-1 — https://www.kimbundu.org/pt/word/kidinda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4871,
+      "kimbundu_term": "Kidíngu",
+      "portuguese_translation": "Nome genérico das plantas euforbiáceas que têm por tipo a mandioca: (manihot utilissima)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidíngu-1 — https://www.kimbundu.org/pt/word/kidingu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4872,
+      "kimbundu_term": "Kidioma",
+      "portuguese_translation": "Comilão",
+      "definition": null,
+      "alternative_meanings": [
+        "alarve",
+        "Voraz",
+        "guloso"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidioma-1 — https://www.kimbundu.org/pt/word/kidioma",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 4873,
+      "kimbundu_term": "Kidiondo",
+      "portuguese_translation": "Pedido humilde",
+      "definition": null,
+      "alternative_meanings": [
+        "súplica: rogo",
+        "Oração",
+        "prece",
+        "Carta de perdão. Deprecada",
+        "rogatória"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kidiondo-1 — https://www.kimbundu.org/pt/word/kidiondo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
