@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2034,
+      "kimbundu_term": "Iê",
+      "portuguese_translation": "interrog. pl. Quais? Que?",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iê-1 — https://www.kimbundu.org/pt/word/ie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2035,
+      "kimbundu_term": "Ie",
+      "portuguese_translation": "Seu",
+      "definition": null,
+      "alternative_meanings": [
+        "sua (dele)",
+        "Pertencente à pessoa dele"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ie-1 — https://www.kimbundu.org/pt/word/ie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2036,
+      "kimbundu_term": "Iêbi",
+      "portuguese_translation": "Quais? Que coisas?",
+      "definition": null,
+      "alternative_meanings": [
+        "Onde estão?"
+      ],
+      "examples": [],
+      "grammatical_category": "pronome, interrogativo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, iêbi-1 — https://www.kimbundu.org/pt/word/iebi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2037,
+      "kimbundu_term": "Ienyê",
+      "portuguese_translation": "(III) Exprime negação, contrariedade",
+      "definition": null,
+      "alternative_meanings": [
+        "Não é"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ienyê-1 — https://www.kimbundu.org/pt/word/ienye",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2038,
+      "kimbundu_term": "Ienyê",
+      "portuguese_translation": "Recusa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ienyê-1 — https://www.kimbundu.org/pt/word/ienye",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2039,
+      "kimbundu_term": "Ifi",
+      "portuguese_translation": "Planta têxtil cilíndrica (sansiviera angolensis) fam. das hemerodoráceas [hemadaráceas], cujo succ[o se emprega contra i",
+      "definition": null,
+      "alternative_meanings": [
+        "Ramie",
+        "Pl. Jifi]"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ifi-1 — https://www.kimbundu.org/pt/word/ifi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2040,
+      "kimbundu_term": "Ifi",
+      "portuguese_translation": "emprega-se contra inflamação de olhos. Ramie. Pl. jîlfi",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ifi-1 — https://www.kimbundu.org/pt/word/ifi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2041,
+      "kimbundu_term": "Ifika",
+      "portuguese_translation": "Comparações",
+      "definition": null,
+      "alternative_meanings": [
+        "exemplos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ifika-1 — https://www.kimbundu.org/pt/word/ifika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2042,
+      "kimbundu_term": "Ifika",
+      "portuguese_translation": "Factos aduzidos como demonstrações, confronto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ifika-1 — https://www.kimbundu.org/pt/word/ifika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2043,
+      "kimbundu_term": "Ifika",
+      "portuguese_translation": "Ditos populares, alegóricos ou figurados",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ifika-1 — https://www.kimbundu.org/pt/word/ifika",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
