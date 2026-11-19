@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15834,
+      "kimbundu_term": "Mu'ulumbe",
+      "portuguese_translation": "Que solta arrulhos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mu'ulumbe-1 — https://www.kimbundu.org/pt/word/mu'ulumbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15835,
+      "kimbundu_term": "Mu'ulumbe",
+      "portuguese_translation": "Brincalhão",
+      "definition": null,
+      "alternative_meanings": [
+        "foliador"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mu'ulumbe-1 — https://www.kimbundu.org/pt/word/mu'ulumbe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15836,
+      "kimbundu_term": "Mu'xi",
+      "portuguese_translation": "que designa terra, sítio, lugar onde: —idmt (mu ix)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mu'xi-1 — https://www.kimbundu.org/pt/word/mu'xi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15837,
+      "kimbundu_term": "Muâdi",
+      "portuguese_translation": "Amo",
+      "definition": null,
+      "alternative_meanings": [
+        "patrão",
+        "dono"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muâdi-1 — https://www.kimbundu.org/pt/word/muadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15838,
+      "kimbundu_term": "Muâdi",
+      "portuguese_translation": "Marido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muâdi-1 — https://www.kimbundu.org/pt/word/muadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15839,
+      "kimbundu_term": "Muâdi",
+      "portuguese_translation": "O mais velho, o de mais idade",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muâdi-1 — https://www.kimbundu.org/pt/word/muadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15840,
+      "kimbundu_term": "Muâdi",
+      "portuguese_translation": "adj. e sub. Adulto",
+      "definition": null,
+      "alternative_meanings": [
+        "ancião",
+        "velho. Maior",
+        "superior"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muâdi-1 — https://www.kimbundu.org/pt/word/muadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15841,
+      "kimbundu_term": "Muâji",
+      "portuguese_translation": "Planta venenosa, tb. conhecida por ndíua",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muâji-1 — https://www.kimbundu.org/pt/word/muaji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15842,
+      "kimbundu_term": "Mualala",
+      "portuguese_translation": "Ébano (maba mualula)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mualala-1 — https://www.kimbundu.org/pt/word/mualala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15843,
+      "kimbundu_term": "Muâmi",
+      "portuguese_translation": "e pron. demonstr. (contr. da prep. mua e do pron. pess. eme) A mim",
+      "definition": null,
+      "alternative_meanings": [
+        "para mim",
+        "comigo"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, muâmi-1 — https://www.kimbundu.org/pt/word/muami",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
