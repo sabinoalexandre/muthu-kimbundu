@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12334,
+      "kimbundu_term": "Kutenuna",
+      "portuguese_translation": "Entreabrir",
+      "definition": null,
+      "alternative_meanings": [
+        "Abrir de mansinho (as bordas de)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutenuna-1 — https://www.kimbundu.org/pt/word/kutenuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12335,
+      "kimbundu_term": "Kutesa",
+      "portuguese_translation": "Mandar situar, meter",
+      "definition": null,
+      "alternative_meanings": [
+        "pôr"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutesa-1 — https://www.kimbundu.org/pt/word/kutesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12336,
+      "kimbundu_term": "Kutesa",
+      "portuguese_translation": "Atiçar",
+      "definition": null,
+      "alternative_meanings": [
+        "açular",
+        "Estimular",
+        "fazer acirrar, irritar",
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutesa-1 — https://www.kimbundu.org/pt/word/kutesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12337,
+      "kimbundu_term": "Kuteseka",
+      "portuguese_translation": "Acrescentar",
+      "definition": null,
+      "alternative_meanings": [
+        "juntar uma coisa a outra",
+        "tornar maior"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuteseka-1 — https://www.kimbundu.org/pt/word/kuteseka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12338,
+      "kimbundu_term": "Kuteseka",
+      "portuguese_translation": "Kuriteseka, e r. Fazer-se juntar a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuteseka-1 — https://www.kimbundu.org/pt/word/kuteseka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12339,
+      "kimbundu_term": "Kutéta",
+      "portuguese_translation": "Desfolhar",
+      "definition": null,
+      "alternative_meanings": [
+        "descascar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutéta-1 — https://www.kimbundu.org/pt/word/kuteta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12340,
+      "kimbundu_term": "Kutéta",
+      "portuguese_translation": "Descasque",
+      "definition": null,
+      "alternative_meanings": [
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutéta-1 — https://www.kimbundu.org/pt/word/kuteta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12341,
+      "kimbundu_term": "Kúteta",
+      "portuguese_translation": "Estalejar",
+      "definition": null,
+      "alternative_meanings": [
+        "Estalar",
+        "produzir som como o do pau que fende"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúteta-1 — https://www.kimbundu.org/pt/word/kuteta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12342,
+      "kimbundu_term": "Kúteta",
+      "portuguese_translation": "Estalido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúteta-1 — https://www.kimbundu.org/pt/word/kuteta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12343,
+      "kimbundu_term": "Kutetama",
+      "portuguese_translation": "Despontar (a lua)",
+      "definition": null,
+      "alternative_meanings": [
+        "Começar a aparecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutetama-1 — https://www.kimbundu.org/pt/word/kutetama",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
