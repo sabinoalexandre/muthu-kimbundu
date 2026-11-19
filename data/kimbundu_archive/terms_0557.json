@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5674,
+      "kimbundu_term": "Kimuanga",
+      "portuguese_translation": "Separatista",
+      "definition": null,
+      "alternative_meanings": [
+        "separador",
+        "Que é motivo de separação, causador de discórdias"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimuanga-1 — https://www.kimbundu.org/pt/word/kimuanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5675,
+      "kimbundu_term": "Kimuanga",
+      "portuguese_translation": "Espalhador",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimuanga-1 — https://www.kimbundu.org/pt/word/kimuanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5676,
+      "kimbundu_term": "Kimuanyu",
+      "portuguese_translation": "Vagarosamente",
+      "definition": null,
+      "alternative_meanings": [
+        "a pouco e pouco",
+        "Lentamente",
+        "Devagar"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimuanyu-1 — https://www.kimbundu.org/pt/word/kimuanyu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5677,
+      "kimbundu_term": "Kimuenge",
+      "portuguese_translation": "aumentativo de muênge",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, aumentativo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimuenge-1 — https://www.kimbundu.org/pt/word/kimuenge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5678,
+      "kimbundu_term": "Kimuézu",
+      "portuguese_translation": "Barbado",
+      "definition": null,
+      "alternative_meanings": [
+        "barbudo",
+        "De barbas compridas"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimuézu-1 — https://www.kimbundu.org/pt/word/kimuezu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5679,
+      "kimbundu_term": "Kimuézu",
+      "portuguese_translation": "Barba crescida e mal cuidada",
+      "definition": null,
+      "alternative_meanings": [
+        "Barbaçana"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimuézu-1 — https://www.kimbundu.org/pt/word/kimuezu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5680,
+      "kimbundu_term": "Kimúna",
+      "portuguese_translation": "Alimária",
+      "definition": null,
+      "alternative_meanings": [
+        "Besta",
+        "animal doméstico"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimúna-1 — https://www.kimbundu.org/pt/word/kimuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5681,
+      "kimbundu_term": "Kimúna",
+      "portuguese_translation": "Irracional",
+      "definition": null,
+      "alternative_meanings": [
+        "quadrúpede",
+        "bruto"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimúna-1 — https://www.kimbundu.org/pt/word/kimuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5682,
+      "kimbundu_term": "Kimúua",
+      "portuguese_translation": "Sossegamento",
+      "definition": null,
+      "alternative_meanings": [
+        "Tranquilidade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimúua-1 — https://www.kimbundu.org/pt/word/kimuua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5683,
+      "kimbundu_term": "Kimvengete",
+      "portuguese_translation": "Ajuntamento",
+      "definition": null,
+      "alternative_meanings": [
+        "Aglomerado",
+        "multidão compacta que segue uma direção",
+        "Vaga: onda",
+        "nuvem",
+        "Aglomeração de pessoas em movimento",
+        "fig. Ataque de fúria",
+        "agitação de ânimo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kimvengete-1 — https://www.kimbundu.org/pt/word/kimvengete",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
