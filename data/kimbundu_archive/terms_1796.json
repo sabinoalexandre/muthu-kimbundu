@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 18064,
+      "kimbundu_term": "Ngémi",
+      "portuguese_translation": "Homem que vindima",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngémi-1 — https://www.kimbundu.org/pt/word/ngemi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18065,
+      "kimbundu_term": "Ngéna",
+      "portuguese_translation": "Ódio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngéna-1 — https://www.kimbundu.org/pt/word/ngena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18066,
+      "kimbundu_term": "Ngéna",
+      "portuguese_translation": "Aversão inveterada, figadal",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngéna-1 — https://www.kimbundu.org/pt/word/ngena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18067,
+      "kimbundu_term": "Ngéna",
+      "portuguese_translation": "Rancor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngéna-1 — https://www.kimbundu.org/pt/word/ngena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18068,
+      "kimbundu_term": "Ngéna",
+      "portuguese_translation": "Asco",
+      "definition": null,
+      "alternative_meanings": [
+        "repugnância"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngéna-1 — https://www.kimbundu.org/pt/word/ngena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18069,
+      "kimbundu_term": "Ngénda",
+      "portuguese_translation": "Cova de feras",
+      "definition": null,
+      "alternative_meanings": [
+        "covil"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngénda-1 — https://www.kimbundu.org/pt/word/ngenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18070,
+      "kimbundu_term": "Ngénda",
+      "portuguese_translation": "Caverna",
+      "definition": null,
+      "alternative_meanings": [
+        "furna",
+        "lugar escuro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngénda-1 — https://www.kimbundu.org/pt/word/ngenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18071,
+      "kimbundu_term": "Ngénda",
+      "portuguese_translation": "Passagem abobadada por baixo do monte",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngénda-1 — https://www.kimbundu.org/pt/word/ngenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18072,
+      "kimbundu_term": "Ngénda",
+      "portuguese_translation": "Túnel",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngénda-1 — https://www.kimbundu.org/pt/word/ngenda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 18073,
+      "kimbundu_term": "Ngénda",
+      "portuguese_translation": "Subterrâneo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, ngénda-1 — https://www.kimbundu.org/pt/word/ngenda",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
