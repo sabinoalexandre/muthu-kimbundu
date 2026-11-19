@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10084,
+      "kimbundu_term": "Kulaúka",
+      "portuguese_translation": "Lançar-se em desgraça",
+      "definition": null,
+      "alternative_meanings": [
+        "malucar",
+        "endoidecer"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulaúka-1 — https://www.kimbundu.org/pt/word/kulauka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10085,
+      "kimbundu_term": "Kulaúka",
+      "portuguese_translation": "Andar pensativo, cismático",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulaúka-1 — https://www.kimbundu.org/pt/word/kulauka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10086,
+      "kimbundu_term": "Kulaukisa",
+      "portuguese_translation": "Fazer cair (de grande altura)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulaukisa-1 — https://www.kimbundu.org/pt/word/kulaukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10087,
+      "kimbundu_term": "Kulaukisa",
+      "portuguese_translation": "Fazer endoidecer. Tornar maluco. É também reflexivo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulaukisa-1 — https://www.kimbundu.org/pt/word/kulaukisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10088,
+      "kimbundu_term": "Kulaúla",
+      "portuguese_translation": "Ser ou estar na idade de avô",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulaúla-1 — https://www.kimbundu.org/pt/word/kulaula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10089,
+      "kimbundu_term": "Kulaúla",
+      "portuguese_translation": "Ter netos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulaúla-1 — https://www.kimbundu.org/pt/word/kulaula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10090,
+      "kimbundu_term": "Kulaúla",
+      "portuguese_translation": "Qualidade de avô",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kulaúla-1 — https://www.kimbundu.org/pt/word/kulaula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10091,
+      "kimbundu_term": "Kúleba",
+      "portuguese_translation": "Procurar, por meios indiretos, saber o que se ignora",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúleba-1 — https://www.kimbundu.org/pt/word/kuleba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10092,
+      "kimbundu_term": "Kúleba",
+      "portuguese_translation": "Enganar",
+      "definition": null,
+      "alternative_meanings": [
+        "atrair pelo engodo"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúleba-1 — https://www.kimbundu.org/pt/word/kuleba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10093,
+      "kimbundu_term": "Kúleba",
+      "portuguese_translation": "Pedir amostra",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúleba-1 — https://www.kimbundu.org/pt/word/kuleba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
