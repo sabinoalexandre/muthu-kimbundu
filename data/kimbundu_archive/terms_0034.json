@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 444,
+      "kimbundu_term": "Bhwene",
+      "portuguese_translation": "Adjetivo que indica afirmação. Sim",
+      "definition": null,
+      "alternative_meanings": [
+        "precisamente, aí!",
+        "com exatidão. (Melhor do que bêne.)"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bhwene-1 — https://www.kimbundu.org/pt/word/bhwene",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 445,
+      "kimbundu_term": "Bie",
+      "portuguese_translation": "Território e província com sede na cidade de «Silva Porto», concelho, distrito e província do Bié, a 12º 23' de latitude",
+      "definition": null,
+      "alternative_meanings": [
+        "direção de Fazenda, dos Correios e Telégrafos, Tribunal Judicial, Missão Evangélica e estação do Caminho de Ferro de Ben"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bie-1 — https://www.kimbundu.org/pt/word/bie",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 446,
+      "kimbundu_term": "Bikibiki",
+      "portuguese_translation": "Termo comparativo de um corpo cadente",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bikibiki-1 — https://www.kimbundu.org/pt/word/bikibiki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 447,
+      "kimbundu_term": "Bikibiki",
+      "portuguese_translation": "Ato ou efeito do objeto que cai e consequente estrondo no solo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bikibiki-1 — https://www.kimbundu.org/pt/word/bikibiki",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 448,
+      "kimbundu_term": "Bilule",
+      "portuguese_translation": "Virado",
+      "definition": null,
+      "alternative_meanings": [
+        "voltado",
+        "invertido",
+        "com o avesso para fora"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bilule-1 — https://www.kimbundu.org/pt/word/bilule",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 449,
+      "kimbundu_term": "Bixa",
+      "portuguese_translation": "Brinco",
+      "definition": null,
+      "alternative_meanings": [
+        "enfeite pendente das orelhas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bixa-1 — https://www.kimbundu.org/pt/word/bixa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 450,
+      "kimbundu_term": "Bóba",
+      "portuguese_translation": "Aqui",
+      "definition": null,
+      "alternative_meanings": [
+        "neste lugar",
+        "cá",
+        "neste ponto. Também se diz 'bába'"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bóba-1 — https://www.kimbundu.org/pt/word/boba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 451,
+      "kimbundu_term": "Bofeta",
+      "portuguese_translation": "Manto preto com que as mulheres se cobrem da cabeça aos pés",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bofeta-1 — https://www.kimbundu.org/pt/word/bofeta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 452,
+      "kimbundu_term": "Bofeta",
+      "portuguese_translation": "Capa senhoril de luto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bofeta-1 — https://www.kimbundu.org/pt/word/bofeta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 453,
+      "kimbundu_term": "Bofeta",
+      "portuguese_translation": "Sinal de distinção",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, bofeta-1 — https://www.kimbundu.org/pt/word/bofeta",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
