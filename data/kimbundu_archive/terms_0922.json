@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9324,
+      "kimbundu_term": "Kukekema",
+      "portuguese_translation": "Dar mostras de medo, de terror",
+      "definition": null,
+      "alternative_meanings": [
+        "Estar possuído de pavor"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukekema-1 — https://www.kimbundu.org/pt/word/kukekema",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9325,
+      "kimbundu_term": "Kukekenya",
+      "portuguese_translation": "Diz-se do fechar os olhos por se não poder suportar o brilho forte da luz, ou a sensação produzida pelo seu reflexo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukekenya-1 — https://www.kimbundu.org/pt/word/kukekenya",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9326,
+      "kimbundu_term": "Kukeketa",
+      "portuguese_translation": "Ranger",
+      "definition": null,
+      "alternative_meanings": [
+        "Produzir som como o da cadeira desconjuntada"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukeketa-1 — https://www.kimbundu.org/pt/word/kukeketa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9327,
+      "kimbundu_term": "Kukeketa",
+      "portuguese_translation": "O ranger dos dentes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukeketa-1 — https://www.kimbundu.org/pt/word/kukeketa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9328,
+      "kimbundu_term": "Kukeketa",
+      "portuguese_translation": "Kurikeketa, v. r. Demonstração de cólera (rangendo os dentes)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukeketa-1 — https://www.kimbundu.org/pt/word/kukeketa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9329,
+      "kimbundu_term": "Kukekumuna",
+      "portuguese_translation": "Tossir por forma a tirar o pigarro da garganta",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukekumuna-1 — https://www.kimbundu.org/pt/word/kukekumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9330,
+      "kimbundu_term": "Kukekumuna",
+      "portuguese_translation": "Tossidela",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Prevenção, atenção",
+        "sinal demonstrativo da entrada, saída ou passagem de alguém",
+        "É tb. r"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukekumuna-1 — https://www.kimbundu.org/pt/word/kukekumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9331,
+      "kimbundu_term": "Kúkela",
+      "portuguese_translation": "Vindimar",
+      "definition": null,
+      "alternative_meanings": [
+        "Purificar, limpar (o vinho) das fezes que contiver",
+        "Coar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkela-1 — https://www.kimbundu.org/pt/word/kukela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9332,
+      "kimbundu_term": "Kúkela",
+      "portuguese_translation": "sub. Vindima",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkela-1 — https://www.kimbundu.org/pt/word/kukela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9333,
+      "kimbundu_term": "Kukéla",
+      "portuguese_translation": "Mimosear",
+      "definition": null,
+      "alternative_meanings": [
+        "presentear, fazer oferta a",
+        "Dedicar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukéla-1 — https://www.kimbundu.org/pt/word/kukela",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
