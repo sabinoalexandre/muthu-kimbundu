@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 17014,
+      "kimbundu_term": "Musalanga",
+      "portuguese_translation": "Grande árvore fam. das verbenáceas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musalanga-1 — https://www.kimbundu.org/pt/word/musalanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17015,
+      "kimbundu_term": "Musálu",
+      "portuguese_translation": "Arbusto ornamental, assaz espinhoso, fam. das leguminosas, empregue em tapumes de quintais",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musálu-1 — https://www.kimbundu.org/pt/word/musalu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17016,
+      "kimbundu_term": "Musaludi",
+      "portuguese_translation": "Aquele que provoca demência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musaludi-1 — https://www.kimbundu.org/pt/word/musaludi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17017,
+      "kimbundu_term": "Musámba",
+      "portuguese_translation": "Planta têxtil de casca taninosa, fam. das leguminosas (brachytegia tamarindoides), utilizada para curtimenta. (E'",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musámba-1 — https://www.kimbundu.org/pt/word/musamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17018,
+      "kimbundu_term": "Musámba",
+      "portuguese_translation": "tb. conhecida por musdsa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musámba-1 — https://www.kimbundu.org/pt/word/musamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17019,
+      "kimbundu_term": "Musámba",
+      "portuguese_translation": "Serra no vastíssimo planalto do Moxico, distr. do Bié, 1 400 m. de alt. e da onde nascem os grandes rios Zara, o Cungo p",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musámba-1 — https://www.kimbundu.org/pt/word/musamba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17020,
+      "kimbundu_term": "Musambalakata",
+      "portuguese_translation": "Prontidão",
+      "definition": null,
+      "alternative_meanings": [
+        "diligência em fazer algo",
+        "Desenvoltura",
+        "pré-timo",
+        "desembaraço",
+        "Recompensa",
+        "estímulo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musambalakata-1 — https://www.kimbundu.org/pt/word/musambalakata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17021,
+      "kimbundu_term": "Musambalakata",
+      "portuguese_translation": "adj. Serviçal",
+      "definition": null,
+      "alternative_meanings": [
+        "prestante",
+        "desembaraçado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musambalakata-1 — https://www.kimbundu.org/pt/word/musambalakata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17022,
+      "kimbundu_term": "Musambe",
+      "portuguese_translation": "Planta fam. das leguminosas (Cassia siberiana), comestível e medicinal",
+      "definition": null,
+      "alternative_meanings": [
+        "fig. Peixe"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musambe-1 — https://www.kimbundu.org/pt/word/musambe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 17023,
+      "kimbundu_term": "Musambe",
+      "portuguese_translation": "Cidade, sede do distr. de Moçâmedes, prov. da Huila, a 15° 1' lat. e 2° 9' e 17\" long. E., 12 m. de alt., 13 780 hab., c",
+      "definition": null,
+      "alternative_meanings": [
+        "cap. do Porto",
+        "Comp. Discipl., Mat. de Guerra",
+        "est. do Cam. de Ferro e Rádio teleg.-postal"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, musambe-1 — https://www.kimbundu.org/pt/word/musambe",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
