@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12374,
+      "kimbundu_term": "Kutididika",
+      "portuguese_translation": "Arranjar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "compor-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutididika-1 — https://www.kimbundu.org/pt/word/kutididika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12375,
+      "kimbundu_term": "Kutididika",
+      "portuguese_translation": "Ataviar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "aparelhar-se",
+        "pôr-se nas condições devidas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutididika-1 — https://www.kimbundu.org/pt/word/kutididika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12376,
+      "kimbundu_term": "Kútinda",
+      "portuguese_translation": "Empertigar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "entezar-se",
+        "resistir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútinda-1 — https://www.kimbundu.org/pt/word/kutinda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12377,
+      "kimbundu_term": "Kútinda",
+      "portuguese_translation": "Tomar calor",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kútinda-1 — https://www.kimbundu.org/pt/word/kutinda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12378,
+      "kimbundu_term": "Kutingita",
+      "portuguese_translation": "Oscilar",
+      "definition": null,
+      "alternative_meanings": [
+        "balouçar, abanar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutingita-1 — https://www.kimbundu.org/pt/word/kutingita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12379,
+      "kimbundu_term": "Kutingita",
+      "portuguese_translation": "Dançar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutingita-1 — https://www.kimbundu.org/pt/word/kutingita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12380,
+      "kimbundu_term": "Kutingita",
+      "portuguese_translation": "Abalo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutingita-1 — https://www.kimbundu.org/pt/word/kutingita",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12381,
+      "kimbundu_term": "Kutingitisa",
+      "portuguese_translation": "Mover com frequência",
+      "definition": null,
+      "alternative_meanings": [
+        "imprimir agitação a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutingitisa-1 — https://www.kimbundu.org/pt/word/kutingitisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12382,
+      "kimbundu_term": "Kutingitisa",
+      "portuguese_translation": "Fazer oscilar, bambalear",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutingitisa-1 — https://www.kimbundu.org/pt/word/kutingitisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12383,
+      "kimbundu_term": "Kutingitisa",
+      "portuguese_translation": "Kuritingitisa, e r. Ter movimento oscilatório",
+      "definition": null,
+      "alternative_meanings": [
+        "Balouçar-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutingitisa-1 — https://www.kimbundu.org/pt/word/kutingitisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
