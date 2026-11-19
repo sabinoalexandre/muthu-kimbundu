@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 10724,
+      "kimbundu_term": "Kumúna",
+      "portuguese_translation": "Comparticipação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumúna-1 — https://www.kimbundu.org/pt/word/kumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10725,
+      "kimbundu_term": "Kumúnga",
+      "portuguese_translation": "Granar",
+      "definition": null,
+      "alternative_meanings": [
+        "granular"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumúnga-1 — https://www.kimbundu.org/pt/word/kumunga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10726,
+      "kimbundu_term": "Kumungujuna",
+      "portuguese_translation": "Ir tirando os grãos da espiga",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumungujuna-1 — https://www.kimbundu.org/pt/word/kumungujuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10727,
+      "kimbundu_term": "Kumunguna",
+      "portuguese_translation": "Escarolar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumunguna-1 — https://www.kimbundu.org/pt/word/kumunguna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10728,
+      "kimbundu_term": "Kumunguna",
+      "portuguese_translation": "Esburgar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumunguna-1 — https://www.kimbundu.org/pt/word/kumunguna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10729,
+      "kimbundu_term": "Kumungununa",
+      "portuguese_translation": "Tornar a esburgar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumungununa-1 — https://www.kimbundu.org/pt/word/kumungununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10730,
+      "kimbundu_term": "Kumungununa",
+      "portuguese_translation": "Ir tirando da espiga os restantes bagos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumungununa-1 — https://www.kimbundu.org/pt/word/kumungununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10731,
+      "kimbundu_term": "Kumungununa",
+      "portuguese_translation": "Granular, desbagoar de novo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumungununa-1 — https://www.kimbundu.org/pt/word/kumungununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10732,
+      "kimbundu_term": "Kumwanga",
+      "portuguese_translation": "Dispersar: tuta ria nvula ri umuanga o kizômba polo ta muloji i amuanga o ukâmba",
+      "definition": null,
+      "alternative_meanings": [
+        "Espalhar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumwanga-1 — https://www.kimbundu.org/pt/word/kumwanga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 10733,
+      "kimbundu_term": "Kumwanga",
+      "portuguese_translation": "Dispersão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kumwanga-1 — https://www.kimbundu.org/pt/word/kumwanga",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
