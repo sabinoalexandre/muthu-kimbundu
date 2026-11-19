@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14474,
+      "kimbundu_term": "Máhaxi",
+      "portuguese_translation": "Enfermidades",
+      "definition": null,
+      "alternative_meanings": [
+        "doenças perigosas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, máhaxi-1 — https://www.kimbundu.org/pt/word/mahaxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14475,
+      "kimbundu_term": "Mahézu",
+      "portuguese_translation": "Cumprimentos",
+      "definition": null,
+      "alternative_meanings": [
+        "saudações"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mahézu-1 — https://www.kimbundu.org/pt/word/mahezu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14476,
+      "kimbundu_term": "Mahézu",
+      "portuguese_translation": "Palavra com que se finaliza um discurso, palestra, conto, notícia. loc. adv. «Tenho dito»",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mahézu-1 — https://www.kimbundu.org/pt/word/mahezu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14477,
+      "kimbundu_term": "Mahína",
+      "portuguese_translation": "Leite",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mahína-1 — https://www.kimbundu.org/pt/word/mahina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14478,
+      "kimbundu_term": "Mahinza",
+      "portuguese_translation": "Estação calmosa. Verão (nos Dembos)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mahinza-1 — https://www.kimbundu.org/pt/word/mahinza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14479,
+      "kimbundu_term": "Máhoho",
+      "portuguese_translation": "Conjunto de gafanhotos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, máhoho-1 — https://www.kimbundu.org/pt/word/mahoho",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14480,
+      "kimbundu_term": "Máhoho",
+      "portuguese_translation": "Género de insetos lacustídas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, máhoho-1 — https://www.kimbundu.org/pt/word/mahoho",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14481,
+      "kimbundu_term": "Mahúbi",
+      "portuguese_translation": "Arbusto fam. das apocináceas (Carpodinus gracilis), de látex borrachifero",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mahúbi-1 — https://www.kimbundu.org/pt/word/mahubi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14482,
+      "kimbundu_term": "Mahúpu",
+      "portuguese_translation": "Maracujá",
+      "definition": null,
+      "alternative_meanings": [
+        "seus frutos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mahúpu-1 — https://www.kimbundu.org/pt/word/mahupu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14483,
+      "kimbundu_term": "Maia",
+      "portuguese_translation": "Continuamente",
+      "definition": null,
+      "alternative_meanings": [
+        "a todo o momento",
+        "Sempre eles",
+        "sem interrupção"
+      ],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, maia-1 — https://www.kimbundu.org/pt/word/maia",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
