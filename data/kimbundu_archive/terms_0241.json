@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 2514,
+      "kimbundu_term": "Jihûmbi",
+      "portuguese_translation": "Dilatação permanente e mórbida das veias",
+      "definition": null,
+      "alternative_meanings": [
+        "Varizes",
+        "Úlceras",
+        "feridas incuráveis"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jihûmbi-1 — https://www.kimbundu.org/pt/word/jihumbi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2515,
+      "kimbundu_term": "Jihunji",
+      "portuguese_translation": "Protestos",
+      "definition": null,
+      "alternative_meanings": [
+        "Privações",
+        "Juramentos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jihunji-1 — https://www.kimbundu.org/pt/word/jihunji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2516,
+      "kimbundu_term": "Jihutu",
+      "portuguese_translation": "Bolsas",
+      "definition": null,
+      "alternative_meanings": [
+        "sacolas",
+        "Sacos de dinheiro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jihutu-1 — https://www.kimbundu.org/pt/word/jihutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2517,
+      "kimbundu_term": "Jihutu",
+      "portuguese_translation": "Sacaria",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jihutu-1 — https://www.kimbundu.org/pt/word/jihutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2518,
+      "kimbundu_term": "Jihuxi",
+      "portuguese_translation": "Bofetadas",
+      "definition": null,
+      "alternative_meanings": [
+        "Palmadas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jihuxi-1 — https://www.kimbundu.org/pt/word/jihuxi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2519,
+      "kimbundu_term": "Jihwínyi",
+      "portuguese_translation": "Porção de lenha",
+      "definition": null,
+      "alternative_meanings": [
+        "Montes de madeira própria para queimar",
+        "Atados de lenha",
+        "fig. Paveija"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jihwínyi-1 — https://www.kimbundu.org/pt/word/jihwinyi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2520,
+      "kimbundu_term": "Jiiadi",
+      "portuguese_translation": "Duas",
+      "definition": null,
+      "alternative_meanings": [
+        "dois",
+        "Um mais um"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jiiadi-1 — https://www.kimbundu.org/pt/word/jiiadi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2521,
+      "kimbundu_term": "Jíji",
+      "portuguese_translation": "Estas",
+      "definition": null,
+      "alternative_meanings": [
+        "estes",
+        "Designa coisas que estão presentes, ou perto da pessoa que fala"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jíji-1 — https://www.kimbundu.org/pt/word/jiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2522,
+      "kimbundu_term": "Jíji",
+      "portuguese_translation": "Isto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, pronome, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jíji-1 — https://www.kimbundu.org/pt/word/jiji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 2523,
+      "kimbundu_term": "Jiji",
+      "portuguese_translation": "Ilha fronteiriça ao continente",
+      "definition": null,
+      "alternative_meanings": [
+        "Restinga",
+        "Contra-costa"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, jiji-1 — https://www.kimbundu.org/pt/word/jiji",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
