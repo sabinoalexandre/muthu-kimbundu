@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 11264,
+      "kimbundu_term": "Kusakamana",
+      "portuguese_translation": "Travessear. Ser irrequieto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusakamana-1 — https://www.kimbundu.org/pt/word/kusakamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11265,
+      "kimbundu_term": "Kusakamanesa",
+      "portuguese_translation": "Mandar fazer bulício",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer ser irrequieto"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusakamanesa-1 — https://www.kimbundu.org/pt/word/kusakamanesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11266,
+      "kimbundu_term": "Kusakamesa",
+      "portuguese_translation": "Fazer acelerar, andar depressa, ser rápido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusakamesa-1 — https://www.kimbundu.org/pt/word/kusakamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11267,
+      "kimbundu_term": "Kusakana",
+      "portuguese_translation": "Casar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusakana-1 — https://www.kimbundu.org/pt/word/kusakana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11268,
+      "kimbundu_term": "Kusakata",
+      "portuguese_translation": "Avançar",
+      "definition": null,
+      "alternative_meanings": [
+        "caminhar para frente"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusakata-1 — https://www.kimbundu.org/pt/word/kusakata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11269,
+      "kimbundu_term": "Kusakata",
+      "portuguese_translation": "Continuar",
+      "definition": null,
+      "alternative_meanings": [
+        "tomar a avançada"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusakata-1 — https://www.kimbundu.org/pt/word/kusakata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11270,
+      "kimbundu_term": "Kusakata",
+      "portuguese_translation": "Avanço",
+      "definition": null,
+      "alternative_meanings": [
+        "dianteira"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusakata-1 — https://www.kimbundu.org/pt/word/kusakata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11271,
+      "kimbundu_term": "Kusakela",
+      "portuguese_translation": "Prognosticar",
+      "definition": null,
+      "alternative_meanings": [
+        "profetizar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusakela-1 — https://www.kimbundu.org/pt/word/kusakela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11272,
+      "kimbundu_term": "Kusakelesa",
+      "portuguese_translation": "Mandar prognosticar, predizer uma doença",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusakelesa-1 — https://www.kimbundu.org/pt/word/kusakelesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 11273,
+      "kimbundu_term": "Kusakesa",
+      "portuguese_translation": "Vascolejar",
+      "definition": null,
+      "alternative_meanings": [
+        "chocalhar",
+        "sacudir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kusakesa-1 — https://www.kimbundu.org/pt/word/kusakesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
