@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 5714,
+      "kimbundu_term": "Kindandalakata",
+      "portuguese_translation": "adj. Robusto",
+      "definition": null,
+      "alternative_meanings": [
+        "forte",
+        "Alentado",
+        "Corpulento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kindandalakata-1 — https://www.kimbundu.org/pt/word/kindandalakata",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5715,
+      "kimbundu_term": "Kindangala",
+      "portuguese_translation": "Investida",
+      "definition": null,
+      "alternative_meanings": [
+        "intimativa",
+        "Ultimato"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kindangala-1 — https://www.kimbundu.org/pt/word/kindangala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5716,
+      "kimbundu_term": "Kindangala",
+      "portuguese_translation": "Ultimatum",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kindangala-1 — https://www.kimbundu.org/pt/word/kindangala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5717,
+      "kimbundu_term": "Kindaula",
+      "portuguese_translation": "Agora",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "advérbio",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kindaula-1 — https://www.kimbundu.org/pt/word/kindaula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5718,
+      "kimbundu_term": "Kindele",
+      "portuguese_translation": "(III) De cor branca",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kindele-1 — https://www.kimbundu.org/pt/word/kindele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5719,
+      "kimbundu_term": "Kindele",
+      "portuguese_translation": "A cor branca",
+      "definition": null,
+      "alternative_meanings": [
+        "alvura",
+        "fig. Límpido"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kindele-1 — https://www.kimbundu.org/pt/word/kindele",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5720,
+      "kimbundu_term": "Kindemba",
+      "portuguese_translation": "Cabeleira",
+      "definition": null,
+      "alternative_meanings": [
+        "crina",
+        "Pelo comprido de certos animais",
+        "Felpa",
+        "penugem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kindemba-1 — https://www.kimbundu.org/pt/word/kindemba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5721,
+      "kimbundu_term": "Kindemba",
+      "portuguese_translation": "adj. Peludo",
+      "definition": null,
+      "alternative_meanings": [
+        "cabeludo",
+        "Que tem penugem"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kindemba-1 — https://www.kimbundu.org/pt/word/kindemba",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5722,
+      "kimbundu_term": "Kindembendembe",
+      "portuguese_translation": "Penacho",
+      "definition": null,
+      "alternative_meanings": [
+        "poupa das aves",
+        "Pluma"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kindembendembe-1 — https://www.kimbundu.org/pt/word/kindembendembe",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 5723,
+      "kimbundu_term": "Kindombo",
+      "portuguese_translation": "Rama de batata-doce. É m. us. no pl. indombo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kindombo-1 — https://www.kimbundu.org/pt/word/kindombo",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
