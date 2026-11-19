@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 15274,
+      "kimbundu_term": "Mbónge",
+      "portuguese_translation": "Aterro (à margem dos rios) para impedir a inundação das águas",
+      "definition": null,
+      "alternative_meanings": [
+        "mota",
+        "muralha",
+        "marachão",
+        "dique",
+        "cômoro"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbónge-1 — https://www.kimbundu.org/pt/word/mbonge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15275,
+      "kimbundu_term": "Mbónge",
+      "portuguese_translation": "Baluarte",
+      "definition": null,
+      "alternative_meanings": [
+        "castelo",
+        "recinto fortificado"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbónge-1 — https://www.kimbundu.org/pt/word/mbonge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15276,
+      "kimbundu_term": "Mbónge",
+      "portuguese_translation": "Depósito de pólvora e outros explosivos",
+      "definition": null,
+      "alternative_meanings": [
+        "paiol"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbónge-1 — https://www.kimbundu.org/pt/word/mbonge",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15277,
+      "kimbundu_term": "Mbongo",
+      "portuguese_translation": "Cada uma das partes que formam as hastes das plantas gramíneas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbongo-1 — https://www.kimbundu.org/pt/word/mbongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15278,
+      "kimbundu_term": "Mbongo",
+      "portuguese_translation": "Cada uma das partes da cana de açúcar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbongo-1 — https://www.kimbundu.org/pt/word/mbongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15279,
+      "kimbundu_term": "Mbongo",
+      "portuguese_translation": "Espaço entre os nós de um caule",
+      "definition": null,
+      "alternative_meanings": [
+        "entrenó"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbongo-1 — https://www.kimbundu.org/pt/word/mbongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15280,
+      "kimbundu_term": "Mbongo",
+      "portuguese_translation": "Parte de um órgão distinta de outra ainda que seja a continuação desta",
+      "definition": null,
+      "alternative_meanings": [
+        "segmento"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbongo-1 — https://www.kimbundu.org/pt/word/mbongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15281,
+      "kimbundu_term": "Mbongo",
+      "portuguese_translation": "Peça de dinheiro cunhada",
+      "definition": null,
+      "alternative_meanings": [
+        "moeda",
+        "dinheiro",
+        "valor representativo de qualquer quantia"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbongo-1 — https://www.kimbundu.org/pt/word/mbongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15282,
+      "kimbundu_term": "Mbongo",
+      "portuguese_translation": "Soante",
+      "definition": null,
+      "alternative_meanings": [
+        "que soa",
+        "que tem som"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbongo-1 — https://www.kimbundu.org/pt/word/mbongo",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 15283,
+      "kimbundu_term": "Mbonja",
+      "portuguese_translation": "Jorro de água que sai com força de um repuxo",
+      "definition": null,
+      "alternative_meanings": [
+        "esguicho",
+        "volume de água atirado pela cauda do jacaré",
+        "espadana",
+        "saída impetuosa de qualquer líquido",
+        "jato",
+        "espadanada"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mbonja-1 — https://www.kimbundu.org/pt/word/mbonja",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
