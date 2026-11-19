@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 3504,
+      "kimbundu_term": "Kalungánga",
+      "portuguese_translation": "Quadrúpede, espécie de urso que se alimenta de mel",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalungánga-1 — https://www.kimbundu.org/pt/word/kalunganga",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3505,
+      "kimbundu_term": "Kalungena",
+      "portuguese_translation": "Planta rutácea (zanthoxylum citriodarum), de utilidade medicinal. Asplénio. Arruda dos muros",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalungena-1 — https://www.kimbundu.org/pt/word/kalungena",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3506,
+      "kimbundu_term": "Kalusánji",
+      "portuguese_translation": "Grande árvore burserácea (balsamea angolensis) de propriedades medicinais contra doenças do peito",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, botânica",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalusánji-1 — https://www.kimbundu.org/pt/word/kalusanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3507,
+      "kimbundu_term": "Kalusánji",
+      "portuguese_translation": "Pequena planta herbácea fam. das umbelíferas (peucedanum frascinifolium), utilizada em cozimentos como peitoral",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, botânica",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalusánji-1 — https://www.kimbundu.org/pt/word/kalusanji",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3508,
+      "kimbundu_term": "Kalusuámu",
+      "portuguese_translation": "Instrumento ou meio pelo qual se pratica o ocultismo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalusuámu-1 — https://www.kimbundu.org/pt/word/kalusuamu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3509,
+      "kimbundu_term": "Kalusuámu",
+      "portuguese_translation": "Método ou livro que trata de ciências ocultas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalusuámu-1 — https://www.kimbundu.org/pt/word/kalusuamu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3510,
+      "kimbundu_term": "Kalusuámu",
+      "portuguese_translation": "Invisível",
+      "definition": null,
+      "alternative_meanings": [
+        "oculto",
+        "escondido"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kalusuámu-1 — https://www.kimbundu.org/pt/word/kalusuamu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3511,
+      "kimbundu_term": "Kaluxisa",
+      "portuguese_translation": "Correntio",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaluxisa-1 — https://www.kimbundu.org/pt/word/kaluxisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3512,
+      "kimbundu_term": "Kaluxisa",
+      "portuguese_translation": "Da série",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaluxisa-1 — https://www.kimbundu.org/pt/word/kaluxisa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 3513,
+      "kimbundu_term": "Kaluxisa",
+      "portuguese_translation": "Seguido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kaluxisa-1 — https://www.kimbundu.org/pt/word/kaluxisa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
