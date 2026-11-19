@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9334,
+      "kimbundu_term": "Kukelama",
+      "portuguese_translation": "Boiar",
+      "definition": null,
+      "alternative_meanings": [
+        "sobrenadar",
+        "vir à superfície"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukelama-1 — https://www.kimbundu.org/pt/word/kukelama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9335,
+      "kimbundu_term": "Kúkeleka",
+      "portuguese_translation": "Condensar",
+      "definition": null,
+      "alternative_meanings": [
+        "Engrossar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkeleka-1 — https://www.kimbundu.org/pt/word/kukeleka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9336,
+      "kimbundu_term": "Kukelekesa",
+      "portuguese_translation": "Diz-se do efeito causado pela areia nos olhos, ou na comida ao mastigar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukelekesa-1 — https://www.kimbundu.org/pt/word/kukelekesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9337,
+      "kimbundu_term": "Kukeluka",
+      "portuguese_translation": "Costear",
+      "definition": null,
+      "alternative_meanings": [
+        "bordejar",
+        "Navegar próximo à terra"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukeluka-1 — https://www.kimbundu.org/pt/word/kukeluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9338,
+      "kimbundu_term": "Kukeluka",
+      "portuguese_translation": "Margear",
+      "definition": null,
+      "alternative_meanings": [
+        "ir pela beira"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukeluka-1 — https://www.kimbundu.org/pt/word/kukeluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9339,
+      "kimbundu_term": "Kukelula",
+      "portuguese_translation": "Fazer ladear, costear, vir à margem",
+      "definition": null,
+      "alternative_meanings": [
+        "Fazer vir à superfície"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukelula-1 — https://www.kimbundu.org/pt/word/kukelula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9340,
+      "kimbundu_term": "Kukelula",
+      "portuguese_translation": "Espumar",
+      "definition": null,
+      "alternative_meanings": [
+        "limpar as impurezas que margnam os líquidos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukelula-1 — https://www.kimbundu.org/pt/word/kukelula",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9341,
+      "kimbundu_term": "Kúkema",
+      "portuguese_translation": "Expremer-se",
+      "definition": null,
+      "alternative_meanings": [
+        "deitar fora de si",
+        "expelir (dejetos)"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkema-1 — https://www.kimbundu.org/pt/word/kukema",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9342,
+      "kimbundu_term": "Kúkema",
+      "portuguese_translation": "Kurikema, Bazofiar",
+      "definition": null,
+      "alternative_meanings": [
+        "falar com afetação"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúkema-1 — https://www.kimbundu.org/pt/word/kukema",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9343,
+      "kimbundu_term": "Kukemba",
+      "portuguese_translation": "Janotar",
+      "definition": null,
+      "alternative_meanings": [
+        "ataviar-se",
+        "cobrir-se de adornos"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukemba-1 — https://www.kimbundu.org/pt/word/kukemba",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
