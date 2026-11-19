@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 9404,
+      "kimbundu_term": "Kukidika",
+      "portuguese_translation": "Apaziguar",
+      "definition": null,
+      "alternative_meanings": [
+        "evitar",
+        "proibir. Kurikirika, e r.: Aquietar-se",
+        "conter-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukidika-1 — https://www.kimbundu.org/pt/word/kukidika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9405,
+      "kimbundu_term": "Kukidika",
+      "portuguese_translation": "Kurikirika, e r. Aquietar-se",
+      "definition": null,
+      "alternative_meanings": [
+        "conter-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukidika-1 — https://www.kimbundu.org/pt/word/kukidika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9406,
+      "kimbundu_term": "Kukidinginza",
+      "portuguese_translation": "Diligenciar",
+      "definition": null,
+      "alternative_meanings": [
+        "esforçar-se por. Empenhar os meios para. Movimentar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukidinginza-1 — https://www.kimbundu.org/pt/word/kukidinginza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9407,
+      "kimbundu_term": "Kukidinginza",
+      "portuguese_translation": "Empenhar os meios para. Movimentar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukidinginza-1 — https://www.kimbundu.org/pt/word/kukidinginza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9408,
+      "kimbundu_term": "Kukiela",
+      "portuguese_translation": "Levantar-se tarde (da cama)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukiela-1 — https://www.kimbundu.org/pt/word/kukiela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9409,
+      "kimbundu_term": "Kukiela",
+      "portuguese_translation": "Tardar (por circunstâncias alheias à nossa vontade)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukiela-1 — https://www.kimbundu.org/pt/word/kukiela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9410,
+      "kimbundu_term": "Kukiela",
+      "portuguese_translation": "Perder a manhã",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukiela-1 — https://www.kimbundu.org/pt/word/kukiela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9411,
+      "kimbundu_term": "Kukiela",
+      "portuguese_translation": "Vir ou sair de casa depois da hora própria",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukiela-1 — https://www.kimbundu.org/pt/word/kukiela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9412,
+      "kimbundu_term": "Kukiela",
+      "portuguese_translation": "Preceder",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukiela-1 — https://www.kimbundu.org/pt/word/kukiela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 9413,
+      "kimbundu_term": "Kukiesa",
+      "portuguese_translation": "Acordar depois do nascer do sol",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kukiesa-1 — https://www.kimbundu.org/pt/word/kukiesa",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
