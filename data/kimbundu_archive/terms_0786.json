@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7964,
+      "kimbundu_term": "Kubunjika",
+      "portuguese_translation": "Ajustar",
+      "definition": null,
+      "alternative_meanings": [
+        "embalar",
+        "unir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubunjika-1 — https://www.kimbundu.org/pt/word/kubunjika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7965,
+      "kimbundu_term": "Kubunjika",
+      "portuguese_translation": "Kuribunjika, e r. Ficar apinhado. Reunir-se por aglomeração",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubunjika-1 — https://www.kimbundu.org/pt/word/kubunjika",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7966,
+      "kimbundu_term": "Kubunjikila",
+      "portuguese_translation": "Dobrar, ajustar por outrem",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubunjikila-1 — https://www.kimbundu.org/pt/word/kubunjikila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7967,
+      "kimbundu_term": "Kubunjiksa",
+      "portuguese_translation": "Ajudar a vincar. Mandar ou fazer dobrar, unir",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubunjiksa-1 — https://www.kimbundu.org/pt/word/kubunjiksa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7968,
+      "kimbundu_term": "Kubunúna",
+      "portuguese_translation": "Passar pelo sono. Dormir pouco",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubunúna-1 — https://www.kimbundu.org/pt/word/kubununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7969,
+      "kimbundu_term": "Kubusela",
+      "portuguese_translation": "Soprar. Diz-se do vento em deslocação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubusela-1 — https://www.kimbundu.org/pt/word/kubusela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7970,
+      "kimbundu_term": "Kubuselela",
+      "portuguese_translation": "Dirigir sopro para. Bafejar, soprar branda e continuadamente: o ribengu u lumata ni abuselele. Inspirar",
+      "definition": null,
+      "alternative_meanings": [
+        "sugerir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuselela-1 — https://www.kimbundu.org/pt/word/kubuselela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7971,
+      "kimbundu_term": "Kubuselela",
+      "portuguese_translation": "Bafejo. Leve agitação do ar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubuselela-1 — https://www.kimbundu.org/pt/word/kubuselela",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7972,
+      "kimbundu_term": "Kúbuta",
+      "portuguese_translation": "Barbear",
+      "definition": null,
+      "alternative_meanings": [
+        "tosquiar",
+        "cortar cabelo a. Kuributa v. r. Barbear-se"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúbuta-1 — https://www.kimbundu.org/pt/word/kubuta",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7973,
+      "kimbundu_term": "Kubúta",
+      "portuguese_translation": "Ser baixo, curto. Ter pouco comprimento ou altura",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubúta-1 — https://www.kimbundu.org/pt/word/kubuta",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
