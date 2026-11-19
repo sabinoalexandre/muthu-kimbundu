@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 6034,
+      "kimbundu_term": "Kisafixi",
+      "portuguese_translation": "Ourelo. É mais usado no plural: isafixi",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisafixi-1 — https://www.kimbundu.org/pt/word/kisafixi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6035,
+      "kimbundu_term": "Kisafu",
+      "portuguese_translation": "Indecente",
+      "definition": null,
+      "alternative_meanings": [
+        "desonesto",
+        "sujo",
+        "Que pratica imoralidades",
+        "Pessoa indecorosa"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisafu-1 — https://www.kimbundu.org/pt/word/kisafu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6036,
+      "kimbundu_term": "Kisafu",
+      "portuguese_translation": "Planta da família das bixinas (bixa orellana), de propriedades tinturiais",
+      "definition": null,
+      "alternative_meanings": [
+        "Urucueiro"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisafu-1 — https://www.kimbundu.org/pt/word/kisafu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6037,
+      "kimbundu_term": "Kisaka",
+      "portuguese_translation": "Pámpano",
+      "definition": null,
+      "alternative_meanings": [
+        "galho",
+        "corimbo",
+        "Ramo em que há vários frutos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisaka-1 — https://www.kimbundu.org/pt/word/kisaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6038,
+      "kimbundu_term": "Kisaka",
+      "portuguese_translation": "Pequena cabaça oca com pedrinhas que soam quando se agita",
+      "definition": null,
+      "alternative_meanings": [
+        "Chocalho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisaka-1 — https://www.kimbundu.org/pt/word/kisaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6039,
+      "kimbundu_term": "Kisaka",
+      "portuguese_translation": "Mamífero de corpo coberto de setas, também conhecido por «porco espinhos». Equidna",
+      "definition": null,
+      "alternative_meanings": [
+        "A seta ou cânula do mesmo animal"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisaka-1 — https://www.kimbundu.org/pt/word/kisaka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6040,
+      "kimbundu_term": "Kisakanye",
+      "portuguese_translation": "Trucidado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisakanye-1 — https://www.kimbundu.org/pt/word/kisakanye",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6041,
+      "kimbundu_term": "Kisakanye",
+      "portuguese_translation": "Diz-se dos restos do indivíduo que a fera matou",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisakanye-1 — https://www.kimbundu.org/pt/word/kisakanye",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6042,
+      "kimbundu_term": "Kisakatu",
+      "portuguese_translation": "Avançamento",
+      "definition": null,
+      "alternative_meanings": [
+        "Dianteira",
+        "Cometimento",
+        "investida"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisakatu-1 — https://www.kimbundu.org/pt/word/kisakatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 6043,
+      "kimbundu_term": "Kisakaxi",
+      "portuguese_translation": "Cacho de bagas, de flores, de frutos",
+      "definition": null,
+      "alternative_meanings": [
+        "Rácimo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kisakaxi-1 — https://www.kimbundu.org/pt/word/kisakaxi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
