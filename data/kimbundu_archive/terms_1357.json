@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13674,
+      "kimbundu_term": "Kuzonzola",
+      "portuguese_translation": "Haver-se com lentidão",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzonzola-1 — https://www.kimbundu.org/pt/word/kuzonzola",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13675,
+      "kimbundu_term": "Kuzóta",
+      "portuguese_translation": "Estar parvo, sorumbático",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzóta-1 — https://www.kimbundu.org/pt/word/kuzota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13676,
+      "kimbundu_term": "Kuzóta",
+      "portuguese_translation": "Dizer ou fazer parvoices",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzóta-1 — https://www.kimbundu.org/pt/word/kuzota",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13677,
+      "kimbundu_term": "Kuzotalala",
+      "portuguese_translation": "Estar molhado, úmido",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzotalala-1 — https://www.kimbundu.org/pt/word/kuzotalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13678,
+      "kimbundu_term": "Kuzotalala",
+      "portuguese_translation": "Estar insípido, triste",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzotalala-1 — https://www.kimbundu.org/pt/word/kuzotalala",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13679,
+      "kimbundu_term": "Kuzotáma",
+      "portuguese_translation": "Parvoeirar",
+      "definition": null,
+      "alternative_meanings": [
+        "estar patético"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzotáma-1 — https://www.kimbundu.org/pt/word/kuzotama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13680,
+      "kimbundu_term": "Kuzowa",
+      "portuguese_translation": "Nadar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzowa-1 — https://www.kimbundu.org/pt/word/kuzowa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13681,
+      "kimbundu_term": "Kuzowa",
+      "portuguese_translation": "Natação",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzowa-1 — https://www.kimbundu.org/pt/word/kuzowa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13682,
+      "kimbundu_term": "Kuzóza",
+      "portuguese_translation": "Aliviar (o laço)",
+      "definition": null,
+      "alternative_meanings": [
+        "folgar",
+        "alargar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzóza-1 — https://www.kimbundu.org/pt/word/kuzoza",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13683,
+      "kimbundu_term": "Kuzóza",
+      "portuguese_translation": "Tornar lasso, bambo",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzóza-1 — https://www.kimbundu.org/pt/word/kuzoza",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
