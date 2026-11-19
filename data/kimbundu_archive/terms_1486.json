@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 14964,
+      "kimbundu_term": "Mátumbu",
+      "portuguese_translation": "Sertão",
+      "definition": null,
+      "alternative_meanings": [
+        "terras do interior"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mátumbu-1 — https://www.kimbundu.org/pt/word/matumbu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14965,
+      "kimbundu_term": "Mátunda",
+      "portuguese_translation": "Compostura",
+      "definition": null,
+      "alternative_meanings": [
+        "correção"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mátunda-1 — https://www.kimbundu.org/pt/word/matunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14966,
+      "kimbundu_term": "Mátunda",
+      "portuguese_translation": "Distinção",
+      "definition": null,
+      "alternative_meanings": [
+        "delicadeza",
+        "bondade"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mátunda-1 — https://www.kimbundu.org/pt/word/matunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14967,
+      "kimbundu_term": "Mátunda",
+      "portuguese_translation": "Fino",
+      "definition": null,
+      "alternative_meanings": [
+        "decente Ilustre",
+        "perfeito"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mátunda-1 — https://www.kimbundu.org/pt/word/matunda",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14968,
+      "kimbundu_term": "Mátutu",
+      "portuguese_translation": "Selvas. Lugares desertos, solitários",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mátutu-1 — https://www.kimbundu.org/pt/word/matutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14969,
+      "kimbundu_term": "Mátutu",
+      "portuguese_translation": "Campônio, lorpa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, adjectivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mátutu-1 — https://www.kimbundu.org/pt/word/matutu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14970,
+      "kimbundu_term": "Mátwi",
+      "portuguese_translation": "Orelhas",
+      "definition": null,
+      "alternative_meanings": [
+        "ouvidores"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mátwi-1 — https://www.kimbundu.org/pt/word/matwi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14971,
+      "kimbundu_term": "Mátwi",
+      "portuguese_translation": "V. ximba",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mátwi-1 — https://www.kimbundu.org/pt/word/matwi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14972,
+      "kimbundu_term": "Mâua",
+      "portuguese_translation": "Sinais deixados pela queda do cabelo. Clareiras",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mâua-1 — https://www.kimbundu.org/pt/word/maua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 14973,
+      "kimbundu_term": "Mâua",
+      "portuguese_translation": "Afluente da margem direita do rio Kamuéji, circ. clv. de Ambaca, distr. de Cuanza-Norte, prov. de Luanda",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo, plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, mâua-1 — https://www.kimbundu.org/pt/word/maua",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
