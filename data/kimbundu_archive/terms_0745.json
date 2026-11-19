@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 7554,
+      "kimbundu_term": "Kubindumuka",
+      "portuguese_translation": "Estar beneficiado, aliviado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubindumuka-1 — https://www.kimbundu.org/pt/word/kubindumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7555,
+      "kimbundu_term": "Kubindumuka",
+      "portuguese_translation": "Ter melhoria (de situação)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubindumuka-1 — https://www.kimbundu.org/pt/word/kubindumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7556,
+      "kimbundu_term": "Kubindumuka",
+      "portuguese_translation": "Ramificação",
+      "definition": null,
+      "alternative_meanings": [
+        "benefício"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubindumuka-1 — https://www.kimbundu.org/pt/word/kubindumuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7557,
+      "kimbundu_term": "Kubindumuna",
+      "portuguese_translation": "Beneficiar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubindumuna-1 — https://www.kimbundu.org/pt/word/kubindumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7558,
+      "kimbundu_term": "Kubindumuna",
+      "portuguese_translation": "Socorrer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubindumuna-1 — https://www.kimbundu.org/pt/word/kubindumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7559,
+      "kimbundu_term": "Kubindumuna",
+      "portuguese_translation": "Auxiliar",
+      "definition": null,
+      "alternative_meanings": [
+        "consentir por partes"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubindumuna-1 — https://www.kimbundu.org/pt/word/kubindumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7560,
+      "kimbundu_term": "Kubindumuna",
+      "portuguese_translation": "Abastecer",
+      "definition": null,
+      "alternative_meanings": [
+        "distribuir"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubindumuna-1 — https://www.kimbundu.org/pt/word/kubindumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7561,
+      "kimbundu_term": "Kubindumuna",
+      "portuguese_translation": "Cobrar",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubindumuna-1 — https://www.kimbundu.org/pt/word/kubindumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7562,
+      "kimbundu_term": "Kubindumuna",
+      "portuguese_translation": "Recuperar",
+      "definition": null,
+      "alternative_meanings": [
+        "receber"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubindumuna-1 — https://www.kimbundu.org/pt/word/kubindumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 7563,
+      "kimbundu_term": "Kubindumuna",
+      "portuguese_translation": "Kuribindumuna, e r. Libertar-se (da obrigação)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kubindumuna-1 — https://www.kimbundu.org/pt/word/kubindumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
