@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 174,
+      "kimbundu_term": "Abútua",
+      "portuguese_translation": "Planta têxtil da família das menispermáceas, de utilidade medicinal (chasmanthera strigosa). Anamirto",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, abútua-1 — https://www.kimbundu.org/pt/word/abutua",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 175,
+      "kimbundu_term": "Adi",
+      "portuguese_translation": "Adultos",
+      "definition": null,
+      "alternative_meanings": [
+        "superiores",
+        "os mais velhos",
+        "os parentes de maior idade na família",
+        "os superiores, avançados em anos, os nossos maiores"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, adi-1 — https://www.kimbundu.org/pt/word/adi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 176,
+      "kimbundu_term": "Adiakimi",
+      "portuguese_translation": "Grupo de velhos",
+      "definition": null,
+      "alternative_meanings": [
+        "velhada",
+        "conjunto de velhos ou velhas"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, adiakimi-1 — https://www.kimbundu.org/pt/word/adiakimi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 177,
+      "kimbundu_term": "Adiakimi",
+      "portuguese_translation": "Adultos",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, adiakimi-1 — https://www.kimbundu.org/pt/word/adiakimi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 178,
+      "kimbundu_term": "Adiakimi",
+      "portuguese_translation": "Senadores",
+      "definition": null,
+      "alternative_meanings": [
+        "anciãos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, adiakimi-1 — https://www.kimbundu.org/pt/word/adiakimi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 179,
+      "kimbundu_term": "Adiatu",
+      "portuguese_translation": "Comedores de carne humana",
+      "definition": null,
+      "alternative_meanings": [
+        "que praticam antropofagia"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, adiatu-1 — https://www.kimbundu.org/pt/word/adiatu",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 180,
+      "kimbundu_term": "Àfi",
+      "portuguese_translation": "Sujeitos à morte",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, àfi-1 — https://www.kimbundu.org/pt/word/afi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 181,
+      "kimbundu_term": "Àfi",
+      "portuguese_translation": "Mortais",
+      "definition": null,
+      "alternative_meanings": [
+        "defuntos"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, àfi-1 — https://www.kimbundu.org/pt/word/afi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 182,
+      "kimbundu_term": "Àfi",
+      "portuguese_translation": "Mortos",
+      "definition": null,
+      "alternative_meanings": [
+        "cadáveres"
+      ],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, àfi-1 — https://www.kimbundu.org/pt/word/afi",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 183,
+      "kimbundu_term": "Àfi",
+      "portuguese_translation": "Os homens",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "adjectivo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, àfi-1 — https://www.kimbundu.org/pt/word/afi",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
