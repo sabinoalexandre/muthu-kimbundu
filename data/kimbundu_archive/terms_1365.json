@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 13754,
+      "kimbundu_term": "Kuzungila",
+      "portuguese_translation": "Visitar",
+      "definition": null,
+      "alternative_meanings": [
+        "assistir. Prestar auxílio a"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzungila-1 — https://www.kimbundu.org/pt/word/kuzungila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13755,
+      "kimbundu_term": "Kuzungila",
+      "portuguese_translation": "Visitação, assistência",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzungila-1 — https://www.kimbundu.org/pt/word/kuzungila",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13756,
+      "kimbundu_term": "Kuzungina",
+      "portuguese_translation": "Estar de visita a. Viajar (por distração)",
+      "definition": null,
+      "alternative_meanings": [
+        "dar voltas por. fig. Passear"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzungina-1 — https://www.kimbundu.org/pt/word/kuzungina",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13757,
+      "kimbundu_term": "Kuzunujuka",
+      "portuguese_translation": "Estar cheio de feridas. Ter falhas",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzunujuka-1 — https://www.kimbundu.org/pt/word/kuzunujuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13758,
+      "kimbundu_term": "Kuzunujuna",
+      "portuguese_translation": "O mesmo que kuzuna-zuna",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzunujuna-1 — https://www.kimbundu.org/pt/word/kuzunujuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13759,
+      "kimbundu_term": "Kuzunuka",
+      "portuguese_translation": "Estar chagado",
+      "definition": null,
+      "alternative_meanings": [
+        "ter as carnes cortadas"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzunuka-1 — https://www.kimbundu.org/pt/word/kuzunuka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13760,
+      "kimbundu_term": "Kuzununa",
+      "portuguese_translation": "Tornar a dilacerar, a arrancar carnes de. Descarnar mais vezes",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzununa-1 — https://www.kimbundu.org/pt/word/kuzununa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13761,
+      "kimbundu_term": "Kuzunzumuna",
+      "portuguese_translation": "Escorropicher",
+      "definition": null,
+      "alternative_meanings": [
+        "esvaziar",
+        "ultimar. Comprar o último bocado",
+        "levar os restos de"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzunzumuna-1 — https://www.kimbundu.org/pt/word/kuzunzumuna",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13762,
+      "kimbundu_term": "Kúzutama",
+      "portuguese_translation": "Ficar admirado, pasmado",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kúzutama-1 — https://www.kimbundu.org/pt/word/kuzutama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 13763,
+      "kimbundu_term": "Kuzutamana",
+      "portuguese_translation": "Embasbacar. Ficar estupefato",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kuzutamana-1 — https://www.kimbundu.org/pt/word/kuzutamana",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
