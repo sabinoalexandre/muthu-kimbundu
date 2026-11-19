@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 12654,
+      "kimbundu_term": "Kutulama",
+      "portuguese_translation": "Colocar-se sobre",
+      "definition": null,
+      "alternative_meanings": [
+        "montar"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutulama-1 — https://www.kimbundu.org/pt/word/kutulama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12655,
+      "kimbundu_term": "Kutulama",
+      "portuguese_translation": "Estar por cima de",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutulama-1 — https://www.kimbundu.org/pt/word/kutulama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12656,
+      "kimbundu_term": "Kutulama",
+      "portuguese_translation": "Kuritulama, v. r. Sobrepor-se",
+      "definition": null,
+      "alternative_meanings": [
+        "estar um por cima de outro"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutulama-1 — https://www.kimbundu.org/pt/word/kutulama",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12657,
+      "kimbundu_term": "Kutulamana",
+      "portuguese_translation": "Sobrepor-se a",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutulamana-1 — https://www.kimbundu.org/pt/word/kutulamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12658,
+      "kimbundu_term": "Kutulamana",
+      "portuguese_translation": "Ficar separado, excedido (em altura)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutulamana-1 — https://www.kimbundu.org/pt/word/kutulamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12659,
+      "kimbundu_term": "Kutulamana",
+      "portuguese_translation": "Sobressair",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutulamana-1 — https://www.kimbundu.org/pt/word/kutulamana",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12660,
+      "kimbundu_term": "Kutulamesa",
+      "portuguese_translation": "Acavalar",
+      "definition": null,
+      "alternative_meanings": [
+        "fazer colocar sobre"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutulamesa-1 — https://www.kimbundu.org/pt/word/kutulamesa",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12661,
+      "kimbundu_term": "Kutuluka",
+      "portuguese_translation": "Apear-se, descer",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutuluka-1 — https://www.kimbundu.org/pt/word/kutuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12662,
+      "kimbundu_term": "Kutuluka",
+      "portuguese_translation": "Baixar (de classe, de nível)",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutuluka-1 — https://www.kimbundu.org/pt/word/kutuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    },
+    {
+      "id": 12663,
+      "kimbundu_term": "Kutuluka",
+      "portuguese_translation": "Abaixamento",
+      "definition": null,
+      "alternative_meanings": [
+        "descida"
+      ],
+      "examples": [],
+      "grammatical_category": "verbo, substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Arquivo Kimbundu, kutuluka-1 — https://www.kimbundu.org/pt/word/kutuluka",
+      "timestamp": "2026-11-19T00:00:00"
+    }
+  ]
+}
