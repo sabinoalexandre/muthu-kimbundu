@@ -32,6 +32,7 @@ CREATE TABLE IF NOT EXISTS dictionary (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     kimbundu_term TEXT NOT NULL,
     kikongo_term TEXT NOT NULL DEFAULT '',
+    umbundu_term TEXT NOT NULL DEFAULT '',
     portuguese_translation TEXT NOT NULL,
     definition TEXT,
     alternative_meanings TEXT,
@@ -71,6 +72,10 @@ def initialize_database() -> None:
             connection.execute(
                 "ALTER TABLE dictionary ADD COLUMN kikongo_term TEXT NOT NULL DEFAULT ''"
             )
+        if "umbundu_term" not in columns:
+            connection.execute(
+                "ALTER TABLE dictionary ADD COLUMN umbundu_term TEXT NOT NULL DEFAULT ''"
+            )
         _seed_dictionary(connection)
         connection.commit()
     finally:
@@ -84,11 +89,12 @@ def _seed_dictionary(connection: sqlite3.Connection) -> None:
         return
     payloads = [dictionary_path]
     payloads.extend(sorted((dictionary_path.parent / "kimbundu_archive").glob("terms_*.json")))
+    payloads.extend(sorted((dictionary_path.parent / "umbundu_archive").glob("terms_*.json")))
 
     existing = {
         tuple(str(value).casefold().strip() for value in row)
         for row in connection.execute(
-            "SELECT kimbundu_term, kikongo_term, portuguese_translation FROM dictionary"
+            "SELECT kimbundu_term, kikongo_term, umbundu_term, portuguese_translation FROM dictionary"
         )
     }
     for payload_path in payloads:
@@ -105,12 +111,14 @@ def _seed_dictionary(connection: sqlite3.Connection) -> None:
                 continue
             kimbundu_term = str(entry.get("kimbundu_term") or "").strip()
             kikongo_term = str(entry.get("kikongo_term") or "").strip()
+            umbundu_term = str(entry.get("umbundu_term") or "").strip()
             portuguese_translation = str(entry.get("portuguese_translation") or "").strip()
-            if not (kimbundu_term or kikongo_term) or not portuguese_translation:
+            if not (kimbundu_term or kikongo_term or umbundu_term) or not portuguese_translation:
                 continue
             key = (
                 kimbundu_term.casefold(),
                 kikongo_term.casefold(),
+                umbundu_term.casefold(),
                 portuguese_translation.casefold(),
             )
             if key in existing:
@@ -118,15 +126,17 @@ def _seed_dictionary(connection: sqlite3.Connection) -> None:
             legacy_key = (
                 kimbundu_term.casefold(),
                 "",
+                umbundu_term.casefold(),
                 portuguese_translation.casefold(),
             )
             if kikongo_term and legacy_key in existing:
                 connection.execute(
                     """UPDATE dictionary SET kikongo_term = ?
                        WHERE lower(trim(kimbundu_term)) = ?
+                         AND lower(trim(umbundu_term)) = ?
                          AND lower(trim(portuguese_translation)) = ?
                          AND trim(kikongo_term) = ''""",
-                    (kikongo_term, legacy_key[0], legacy_key[2]),
+                    (kikongo_term, legacy_key[0], legacy_key[2], legacy_key[3]),
                 )
                 existing.discard(legacy_key)
                 existing.add(key)
@@ -134,14 +144,15 @@ def _seed_dictionary(connection: sqlite3.Connection) -> None:
             connection.execute(
                 """
                 INSERT INTO dictionary (
-                    kimbundu_term, kikongo_term, portuguese_translation, definition,
+                    kimbundu_term, kikongo_term, umbundu_term, portuguese_translation, definition,
                     alternative_meanings, examples, grammatical_category,
                     regional_variation, verification_status, source_reference, timestamp
-                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """,
                 (
                     kimbundu_term,
                     kikongo_term,
+                    umbundu_term,
                     portuguese_translation,
                     entry.get("definition"),
                     json.dumps(entry.get("alternative_meanings") or [], ensure_ascii=False),

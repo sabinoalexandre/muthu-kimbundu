@@ -18,14 +18,15 @@ class DictionaryRepository:
         cursor = self.connection.execute(
             """
             INSERT INTO dictionary (
-                kimbundu_term, kikongo_term, portuguese_translation, definition, alternative_meanings,
+                kimbundu_term, kikongo_term, umbundu_term, portuguese_translation, definition, alternative_meanings,
                 examples, grammatical_category, regional_variation, verification_status,
                 source_reference, timestamp
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             """,
             (
                 entry.kimbundu_term,
                 entry.kikongo_term,
+                entry.umbundu_term,
                 entry.portuguese_translation,
                 entry.definition,
                 json.dumps(entry.alternative_meanings or []),

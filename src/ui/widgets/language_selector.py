@@ -16,6 +16,7 @@ def _language_label(code: str) -> str:
         "pt": "Português",
         "kimbundu": "Kimbundu",
         "kikongo": "Kikongo",
+        "umbundu": "Umbundu",
     }.get(code, get_language_name(code))
 
 

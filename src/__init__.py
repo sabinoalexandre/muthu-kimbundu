@@ -1,1 +1,1 @@
-"""MUTHU --- Portuguese <-> Kimbundu translator package."""
+"""MUTHU --- Portuguese and Angolan Bantu language tools."""

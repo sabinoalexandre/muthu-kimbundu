@@ -90,7 +90,7 @@ class HomeScreen(MDScreen):
                       spacing=dp(5), radius=[dp(22)], elevation=0,
                       md_bg_color=ACCENT_BLUE)
         bind_theme_color(hero, "md_bg_color", ACCENT_BLUE, DARK_ACCENT_BLUE)
-        hero.add_widget(MDLabel(text="PORTUGUÊS  ·  KIMBUNDU  ·  KIKONGO", font_style="Label", role="small",
+        hero.add_widget(MDLabel(text="PORTUGUÊS  ·  KIMBUNDU  ·  KIKONGO  ·  UMBUNDU", font_style="Label", role="small",
                                 theme_text_color="Custom", text_color=(0.78, 0.88, 1.0, 1),
                                 size_hint_y=None, height=dp(20)))
         hero.add_widget(MDLabel(text="Palavras que criam pontes.", font_style="Headline",

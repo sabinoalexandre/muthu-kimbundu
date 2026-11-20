@@ -11,7 +11,7 @@ class MachineTranslationProvider(TranslationProvider):
     """Placeholder for a future machine translation provider.
 
     No machine translation service has been verified so far to support
-    Kimbundu or Kikongo reliably, therefore this provider does not translate yet and
+    Kimbundu, Kikongo or Umbundu reliably, therefore this provider does not translate yet and
     fails explicitly instead of returning unverified results.
     """
 

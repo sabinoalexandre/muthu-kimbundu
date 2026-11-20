@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": 106,
+      "kimbundu_term": "",
+      "kikongo_term": "",
+      "umbundu_term": "ovava",
+      "portuguese_translation": "água",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Mundumbundu — https://www.mundumbundu.ao/en/palavra/agua",
+      "timestamp": "2026-11-20T00:00:00"
+    },
+    {
+      "id": 107,
+      "kimbundu_term": "",
+      "kikongo_term": "",
+      "umbundu_term": "omunu",
+      "portuguese_translation": "pessoa",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Mundumbundu — https://www.mundumbundu.ao/en/palavra/pessoa",
+      "timestamp": "2026-11-20T00:00:00"
+    },
+    {
+      "id": 108,
+      "kimbundu_term": "",
+      "kikongo_term": "",
+      "umbundu_term": "omanu",
+      "portuguese_translation": "pessoas",
+      "definition": null,
+      "alternative_meanings": [
+        "gente"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Mundumbundu — https://www.mundumbundu.ao/en/palavra/pessoa",
+      "timestamp": "2026-11-20T00:00:00"
+    },
+    {
+      "id": 109,
+      "kimbundu_term": "",
+      "kikongo_term": "",
+      "umbundu_term": "onjo",
+      "portuguese_translation": "casa",
+      "definition": null,
+      "alternative_meanings": [
+        "ociyotēlo"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Mundumbundu — https://www.mundumbundu.ao/en/palavra/casa",
+      "timestamp": "2026-11-20T00:00:00"
+    },
+    {
+      "id": 110,
+      "kimbundu_term": "",
+      "kikongo_term": "",
+      "umbundu_term": "osikola",
+      "portuguese_translation": "escola",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Mundumbundu — https://www.mundumbundu.ao/en/palavra/escola",
+      "timestamp": "2026-11-20T00:00:00"
+    },
+    {
+      "id": 111,
+      "kimbundu_term": "",
+      "kikongo_term": "",
+      "umbundu_term": "tate",
+      "portuguese_translation": "pai",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Mundumbundu — https://www.mundumbundu.ao/temas/familia",
+      "timestamp": "2026-11-20T00:00:00"
+    },
+    {
+      "id": 112,
+      "kimbundu_term": "",
+      "kikongo_term": "",
+      "umbundu_term": "ina",
+      "portuguese_translation": "mãe",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Mundumbundu — https://www.mundumbundu.ao/temas/familia",
+      "timestamp": "2026-11-20T00:00:00"
+    },
+    {
+      "id": 113,
+      "kimbundu_term": "",
+      "kikongo_term": "",
+      "umbundu_term": "omõla",
+      "portuguese_translation": "criança",
+      "definition": null,
+      "alternative_meanings": [
+        "filho"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Mundumbundu — https://www.mundumbundu.ao/temas/familia",
+      "timestamp": "2026-11-20T00:00:00"
+    },
+    {
+      "id": 114,
+      "kimbundu_term": "",
+      "kikongo_term": "",
+      "umbundu_term": "omãla",
+      "portuguese_translation": "crianças",
+      "definition": null,
+      "alternative_meanings": [
+        "filhos"
+      ],
+      "examples": [],
+      "grammatical_category": "substantivo plural",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Mundumbundu — https://www.mundumbundu.ao/temas/familia",
+      "timestamp": "2026-11-20T00:00:00"
+    },
+    {
+      "id": 115,
+      "kimbundu_term": "",
+      "kikongo_term": "",
+      "umbundu_term": "epata",
+      "portuguese_translation": "família",
+      "definition": null,
+      "alternative_meanings": [],
+      "examples": [],
+      "grammatical_category": "substantivo",
+      "regional_variation": null,
+      "verification_status": "unverified",
+      "source_reference": "Mundumbundu — https://www.mundumbundu.ao/temas/familia",
+      "timestamp": "2026-11-20T00:00:00"
+    }
+  ]
+}

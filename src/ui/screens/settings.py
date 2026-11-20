@@ -80,7 +80,7 @@ class SettingsScreen(MDScreen):
         bind_theme_color(info, "md_bg_color", SURFACE, DARK_SURFACE)
         info.add_widget(MDLabel(text="MUTHU", font_style="Title", role="medium", bold=True,
                                 size_hint_y=None, height=dp(30)))
-        info.add_widget(MDLabel(text="Três idiomas. Uma conexão.\nPortuguês · Kimbundu · Kikongo",
+        info.add_widget(MDLabel(text="Quatro idiomas. Uma conexão.\nPortuguês · Kimbundu · Kikongo · Umbundu",
                                 theme_text_color="Secondary", size_hint_y=None, height=dp(52)))
         root.add_widget(info)
         root.add_widget(MDLabel(

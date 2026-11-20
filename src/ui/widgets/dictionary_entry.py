@@ -24,6 +24,7 @@ class DictionaryEntryView(MDCard):
         for language, term in (
             ("Kimbundu", entry.kimbundu_term),
             ("Kikongo", entry.kikongo_term),
+            ("Umbundu", entry.umbundu_term),
             ("Português", entry.portuguese_translation),
         ):
             if term:

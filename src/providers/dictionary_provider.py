@@ -6,7 +6,7 @@ import unicodedata
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
-from src.core.language import KIKONGO, KIMBUNDU, PORTUGUESE
+from src.core.language import KIKONGO, KIMBUNDU, PORTUGUESE, UMBUNDU
 from src.core.translation_result import TranslationResult
 from src.providers.base_provider import TranslationProvider
 
@@ -24,7 +24,7 @@ def _normalize_term(value: Optional[str]) -> str:
 
 
 class LocalDictionaryProvider(TranslationProvider):
-    """Dictionary based provider for Portuguese, Kimbundu and Kikongo."""
+    """Dictionary based provider for Portuguese, Kimbundu, Kikongo and Umbundu."""
 
     def __init__(self, dictionary_path: Optional[str] = None) -> None:
         self.dictionary_path = (
@@ -55,6 +55,18 @@ class LocalDictionaryProvider(TranslationProvider):
                     loaded.extend(
                         entry for entry in shard_entries if isinstance(entry, dict)
                     )
+            umbundu_dir = self.dictionary_path.parent / "umbundu_archive"
+            for shard_path in sorted(umbundu_dir.glob("terms_*.json")):
+                try:
+                    with shard_path.open("r", encoding="utf-8") as handle:
+                        shard = json.load(handle)
+                except (OSError, json.JSONDecodeError):
+                    continue
+                shard_entries = shard.get("entries") if isinstance(shard, dict) else None
+                if isinstance(shard_entries, list):
+                    loaded.extend(
+                        entry for entry in shard_entries if isinstance(entry, dict)
+                    )
         return loaded
 
     @property
@@ -67,18 +79,23 @@ class LocalDictionaryProvider(TranslationProvider):
         kimbundu_term: Optional[str] = None,
         portuguese_translation: Optional[str] = None,
         kikongo_term: Optional[str] = None,
+        umbundu_term: Optional[str] = None,
     ) -> Optional[Dict[str, Any]]:
         """Return a single dictionary entry matching the given fields."""
         term = _normalize_term(kimbundu_term)
         kikongo = _normalize_term(kikongo_term)
+        umbundu = _normalize_term(umbundu_term)
         translation = _normalize_term(portuguese_translation)
         for entry in self.entries:
             entry_term = _normalize_term(entry.get("kimbundu_term"))
             entry_kikongo = _normalize_term(entry.get("kikongo_term"))
+            entry_umbundu = _normalize_term(entry.get("umbundu_term"))
             entry_translation = _normalize_term(entry.get("portuguese_translation"))
             if term and entry_term == term:
                 return entry
             if kikongo and entry_kikongo == kikongo:
+                return entry
+            if umbundu and entry_umbundu == umbundu:
                 return entry
             if translation and entry_translation == translation:
                 return entry
@@ -96,6 +113,7 @@ class LocalDictionaryProvider(TranslationProvider):
         language_fields = {
             KIMBUNDU: "kimbundu_term",
             KIKONGO: "kikongo_term",
+            UMBUNDU: "umbundu_term",
             PORTUGUESE: "portuguese_translation",
         }
         if (

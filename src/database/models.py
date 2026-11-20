@@ -81,12 +81,13 @@ class Favorite:
 
 @dataclass
 class DictionaryEntry:
-    """A dictionary entry with Kimbundu, Kikongo and Portuguese terms."""
+    """A dictionary entry with Kimbundu, Kikongo, Umbundu and Portuguese terms."""
 
     id: Optional[int] = None
     kimbundu_term: str = ""
     kikongo_term: str = ""
     portuguese_translation: str = ""
+    umbundu_term: str = ""
     definition: Optional[str] = None
     alternative_meanings: List[str] = field(default_factory=list)
     examples: List[str] = field(default_factory=list)
@@ -106,6 +107,7 @@ class DictionaryEntry:
         return cls(
             kimbundu_term=str(mapping.get("kimbundu_term") or ""),
             kikongo_term=str(mapping.get("kikongo_term") or ""),
+            umbundu_term=str(mapping.get("umbundu_term") or ""),
             portuguese_translation=str(mapping.get("portuguese_translation") or ""),
             definition=mapping.get("definition"),
             alternative_meanings=list(mapping.get("alternative_meanings") or []),
@@ -123,6 +125,7 @@ class DictionaryEntry:
             id=row["id"],
             kimbundu_term=row["kimbundu_term"],
             kikongo_term=row["kikongo_term"] if "kikongo_term" in row.keys() else "",
+            umbundu_term=row["umbundu_term"] if "umbundu_term" in row.keys() else "",
             portuguese_translation=row["portuguese_translation"],
             definition=row["definition"],
             alternative_meanings=_as_list(row["alternative_meanings"]),
@@ -140,6 +143,7 @@ class DictionaryEntry:
             self.id,
             self.kimbundu_term,
             self.kikongo_term,
+            self.umbundu_term,
             self.portuguese_translation,
             self.definition,
             json.dumps(self.alternative_meanings or []),

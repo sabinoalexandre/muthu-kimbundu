@@ -3,14 +3,16 @@
 PORTUGUESE = "pt"
 KIMBUNDU = "kimbundu"
 KIKONGO = "kikongo"
+UMBUNDU = "umbundu"
 
 LANGUAGE_LABELS = {
     PORTUGUESE: "Portuguese",
     KIMBUNDU: "Kimbundu",
     KIKONGO: "Kikongo",
+    UMBUNDU: "Umbundu",
 }
 
-SUPPORTED_LANGUAGES = (PORTUGUESE, KIMBUNDU, KIKONGO)
+SUPPORTED_LANGUAGES = (PORTUGUESE, KIMBUNDU, KIKONGO, UMBUNDU)
 
 
 def is_supported(language: str) -> bool:
@@ -29,7 +31,7 @@ def get_opposite(language: str) -> str:
         return KIMBUNDU
     if language == KIMBUNDU:
         return PORTUGUESE
-    if language == KIKONGO:
+    if language in (KIKONGO, UMBUNDU):
         return PORTUGUESE
     raise ValueError(f"Unsupported language: {language}")
 
