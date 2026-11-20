@@ -1,4 +1,4 @@
-"""Bilingual dictionary screen."""
+"""Multilingual dictionary screen."""
 
 from kivy.metrics import dp
 from kivy.properties import ListProperty
@@ -75,7 +75,7 @@ class DictionaryScreen(MDScreen):
         self.on_search()
 
     def on_search(self, *args) -> None:
-        """Search the dictionary in either language."""
+        """Search the dictionary in any supported language."""
         if self.dictionary_service is None:
             return
         self.results = self.dictionary_service.search(

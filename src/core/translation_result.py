@@ -109,7 +109,7 @@ class TranslationResult:
         target_language: str,
         entry: Any,
     ) -> "TranslationResult":
-        """Build a result from a bilingual dictionary entry."""
+        """Build a result from a multilingual dictionary entry."""
         if isinstance(entry, dict):
             verification_status = entry.get("verification_status") or VERIFICATION_STATUS_UNVERIFIED
             source_reference = entry.get("source_reference")

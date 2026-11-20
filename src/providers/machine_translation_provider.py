@@ -10,17 +10,16 @@ from src.providers.base_provider import TranslationProvider
 class MachineTranslationProvider(TranslationProvider):
     """Placeholder for a future machine translation provider.
 
-    No machine translation service has been verified so far to support
-    Kimbundu, Kikongo or Umbundu reliably, therefore this provider does not translate yet and
-    fails explicitly instead of returning unverified results.
+    No machine translation service has been verified to support the app's
+    languages reliably, so this provider fails explicitly instead of returning
+    unverified results.
     """
 
     def translate(self, text: str, source: str, target: str) -> TranslationResult:
         """Machine translation is not available yet."""
         raise ProviderError(
-            "No verified Kimbundu machine translation model is integrated "
-            "yet. Use the LocalDictionaryProvider or another verified "
-            "provider instead."
+            "No verified machine translation model is integrated yet. Use the "
+            "local dictionary or another verified provider instead."
         )
 
     def detect_language(self, text: str) -> Optional[str]:

@@ -4,7 +4,10 @@ from typing import List, Optional
 
 from src.core.language import KIKONGO, KIMBUNDU, PORTUGUESE, UMBUNDU
 from src.database.models import DictionaryEntry
-from src.providers.dictionary_provider import LocalDictionaryProvider
+from src.providers.dictionary_provider import (
+    LocalDictionaryProvider,
+    normalize_dictionary_term,
+)
 
 
 class DictionaryService:
@@ -24,17 +27,17 @@ class DictionaryService:
 
         Searches the Kikongo, Kimbundu, Umbundu and Portuguese terms in each entry.
         """
-        term = (query or "").strip().lower()
+        term = normalize_dictionary_term(query)
         if not term:
             return []
 
         matches: List[DictionaryEntry] = []
         for entry in self.dictionary_provider.entries:
-            kimbundu_term = str(entry.get("kimbundu_term") or "").lower()
-            kikongo_term = str(entry.get("kikongo_term") or "").lower()
-            umbundu_term = str(entry.get("umbundu_term") or "").lower()
-            portuguese_translation = (
-                str(entry.get("portuguese_translation") or "").lower()
+            kimbundu_term = normalize_dictionary_term(entry.get("kimbundu_term"))
+            kikongo_term = normalize_dictionary_term(entry.get("kikongo_term"))
+            umbundu_term = normalize_dictionary_term(entry.get("umbundu_term"))
+            portuguese_translation = normalize_dictionary_term(
+                entry.get("portuguese_translation")
             )
             kimbundu_match = term in kimbundu_term
             kikongo_match = term in kikongo_term

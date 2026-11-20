@@ -16,9 +16,14 @@ DEFAULT_DICTIONARY_PATH = (
 _WORD_PATTERN = re.compile(r"[^\W_]+(?:['’][^\W_]+)*", re.UNICODE)
 
 
-def _normalize_term(value: Optional[str]) -> str:
-    """Normalize accents, case, whitespace and sentence-ending punctuation."""
-    normalized = unicodedata.normalize("NFC", str(value or "")).casefold().strip()
+def normalize_dictionary_term(value: Optional[str]) -> str:
+    """Normalize case, accents, whitespace and sentence-ending punctuation."""
+    normalized = unicodedata.normalize("NFD", str(value or "").casefold().strip())
+    normalized = "".join(
+        character for character in normalized
+        if unicodedata.category(character) != "Mn"
+    )
+    normalized = unicodedata.normalize("NFC", normalized)
     normalized = " ".join(normalized.split())
     return normalized.rstrip(".,;:!?…\"'”’»)]}")
 
@@ -82,15 +87,15 @@ class LocalDictionaryProvider(TranslationProvider):
         umbundu_term: Optional[str] = None,
     ) -> Optional[Dict[str, Any]]:
         """Return a single dictionary entry matching the given fields."""
-        term = _normalize_term(kimbundu_term)
-        kikongo = _normalize_term(kikongo_term)
-        umbundu = _normalize_term(umbundu_term)
-        translation = _normalize_term(portuguese_translation)
+        term = normalize_dictionary_term(kimbundu_term)
+        kikongo = normalize_dictionary_term(kikongo_term)
+        umbundu = normalize_dictionary_term(umbundu_term)
+        translation = normalize_dictionary_term(portuguese_translation)
         for entry in self.entries:
-            entry_term = _normalize_term(entry.get("kimbundu_term"))
-            entry_kikongo = _normalize_term(entry.get("kikongo_term"))
-            entry_umbundu = _normalize_term(entry.get("umbundu_term"))
-            entry_translation = _normalize_term(entry.get("portuguese_translation"))
+            entry_term = normalize_dictionary_term(entry.get("kimbundu_term"))
+            entry_kikongo = normalize_dictionary_term(entry.get("kikongo_term"))
+            entry_umbundu = normalize_dictionary_term(entry.get("umbundu_term"))
+            entry_translation = normalize_dictionary_term(entry.get("portuguese_translation"))
             if term and entry_term == term:
                 return entry
             if kikongo and entry_kikongo == kikongo:
@@ -130,7 +135,10 @@ class LocalDictionaryProvider(TranslationProvider):
         for entry in self.entries:
             source_term = entry.get(language_fields[source])
             target_term = entry.get(language_fields[target])
-            source_words = tuple(_normalize_term(word) for word in _WORD_PATTERN.findall(str(source_term or "")))
+            source_words = tuple(
+                normalize_dictionary_term(word)
+                for word in _WORD_PATTERN.findall(str(source_term or ""))
+            )
             if source_words and str(target_term or "").strip():
                 matches.setdefault(source_words, []).append(entry)
 
@@ -157,7 +165,7 @@ class LocalDictionaryProvider(TranslationProvider):
                     for i in range(len(spans) - 1)
                 ):
                     continue
-                key = tuple(_normalize_term(span.group()) for span in spans)
+                key = tuple(normalize_dictionary_term(span.group()) for span in spans)
                 candidates = matches.get(key)
                 if candidates:
                     selected = candidates[0]
