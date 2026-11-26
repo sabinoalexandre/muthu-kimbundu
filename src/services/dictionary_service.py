@@ -15,6 +15,16 @@ class DictionaryService:
 
     def __init__(self, dictionary_provider: LocalDictionaryProvider) -> None:
         self.dictionary_provider = dictionary_provider
+        self._search_entries = [
+            (
+                entry,
+                normalize_dictionary_term(entry.get("kimbundu_term")),
+                normalize_dictionary_term(entry.get("kikongo_term")),
+                normalize_dictionary_term(entry.get("umbundu_term")),
+                normalize_dictionary_term(entry.get("portuguese_translation")),
+            )
+            for entry in dictionary_provider.entries
+        ]
 
     def search(
         self,
@@ -32,13 +42,13 @@ class DictionaryService:
             return []
 
         matches: List[DictionaryEntry] = []
-        for entry in self.dictionary_provider.entries:
-            kimbundu_term = normalize_dictionary_term(entry.get("kimbundu_term"))
-            kikongo_term = normalize_dictionary_term(entry.get("kikongo_term"))
-            umbundu_term = normalize_dictionary_term(entry.get("umbundu_term"))
-            portuguese_translation = normalize_dictionary_term(
-                entry.get("portuguese_translation")
-            )
+        for (
+            entry,
+            kimbundu_term,
+            kikongo_term,
+            umbundu_term,
+            portuguese_translation,
+        ) in self._search_entries:
             kimbundu_match = term in kimbundu_term
             kikongo_match = term in kikongo_term
             umbundu_match = term in umbundu_term

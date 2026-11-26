@@ -36,6 +36,11 @@ class LocalDictionaryProvider(TranslationProvider):
             Path(dictionary_path) if dictionary_path else DEFAULT_DICTIONARY_PATH
         )
         self.entries: List[Dict[str, Any]] = self._load_entries()
+        self._entry_indexes: Dict[str, Dict[str, Dict[str, Any]]] = {}
+        self._translation_indexes: Dict[
+            tuple[str, str],
+            tuple[Dict[tuple[str, ...], List[Dict[str, Any]]], int],
+        ] = {}
 
     def _load_entries(self) -> List[Dict[str, Any]]:
         """Load the multilingual dictionary resource."""
@@ -74,6 +79,38 @@ class LocalDictionaryProvider(TranslationProvider):
                     )
         return loaded
 
+    def _get_entry_index(self, field: str) -> Dict[str, Dict[str, Any]]:
+        """Build an exact term index on first use."""
+        if field not in self._entry_indexes:
+            index: Dict[str, Dict[str, Any]] = {}
+            for entry in self.entries:
+                normalized = normalize_dictionary_term(entry.get(field))
+                if normalized:
+                    index.setdefault(normalized, entry)
+            self._entry_indexes[field] = index
+        return self._entry_indexes[field]
+
+    def _get_translation_index(
+        self, source_field: str, target_field: str
+    ) -> tuple[Dict[tuple[str, ...], List[Dict[str, Any]]], int]:
+        """Cache phrase matches for a language pair after its first lookup."""
+        cache_key = (source_field, target_field)
+        if cache_key not in self._translation_indexes:
+            matches: Dict[tuple[str, ...], List[Dict[str, Any]]] = {}
+            max_phrase_length = 1
+            for entry in self.entries:
+                source_words = tuple(
+                    normalize_dictionary_term(word)
+                    for word in _WORD_PATTERN.findall(
+                        str(entry.get(source_field) or "")
+                    )
+                )
+                if source_words and str(entry.get(target_field) or "").strip():
+                    matches.setdefault(source_words, []).append(entry)
+                    max_phrase_length = max(max_phrase_length, len(source_words))
+            self._translation_indexes[cache_key] = (matches, max_phrase_length)
+        return self._translation_indexes[cache_key]
+
     @property
     def entry_count(self) -> int:
         """Return the number of loaded dictionary entries."""
@@ -91,19 +128,16 @@ class LocalDictionaryProvider(TranslationProvider):
         kikongo = normalize_dictionary_term(kikongo_term)
         umbundu = normalize_dictionary_term(umbundu_term)
         translation = normalize_dictionary_term(portuguese_translation)
-        for entry in self.entries:
-            entry_term = normalize_dictionary_term(entry.get("kimbundu_term"))
-            entry_kikongo = normalize_dictionary_term(entry.get("kikongo_term"))
-            entry_umbundu = normalize_dictionary_term(entry.get("umbundu_term"))
-            entry_translation = normalize_dictionary_term(entry.get("portuguese_translation"))
-            if term and entry_term == term:
-                return entry
-            if kikongo and entry_kikongo == kikongo:
-                return entry
-            if umbundu and entry_umbundu == umbundu:
-                return entry
-            if translation and entry_translation == translation:
-                return entry
+        for field, normalized in (
+            ("kimbundu_term", term),
+            ("kikongo_term", kikongo),
+            ("umbundu_term", umbundu),
+            ("portuguese_translation", translation),
+        ):
+            if normalized:
+                entry = self._get_entry_index(field).get(normalized)
+                if entry is not None:
+                    return entry
         return None
 
     def translate(
@@ -131,16 +165,9 @@ class LocalDictionaryProvider(TranslationProvider):
                 term, source, target, "",
             )
 
-        matches: Dict[tuple[str, ...], List[Dict[str, Any]]] = {}
-        for entry in self.entries:
-            source_term = entry.get(language_fields[source])
-            target_term = entry.get(language_fields[target])
-            source_words = tuple(
-                normalize_dictionary_term(word)
-                for word in _WORD_PATTERN.findall(str(source_term or ""))
-            )
-            if source_words and str(target_term or "").strip():
-                matches.setdefault(source_words, []).append(entry)
+        matches, max_phrase_length = self._get_translation_index(
+            language_fields[source], language_fields[target]
+        )
 
         input_words = list(_WORD_PATTERN.finditer(term))
         if not input_words:
@@ -153,7 +180,6 @@ class LocalDictionaryProvider(TranslationProvider):
         word_index = 0
         matched_entries: List[Dict[str, Any]] = []
         matched_any = False
-        max_phrase_length = max((len(key) for key in matches), default=1)
         while word_index < len(input_words):
             selected = None
             selected_length = 0
