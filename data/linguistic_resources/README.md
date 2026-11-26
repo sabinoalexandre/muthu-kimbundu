@@ -1,38 +1,13 @@
-# Linguistic resources
+# Recursos linguísticos
 
-The application seed lexicon is stored in `data/dictionary.json`. It contains
-single words and multiword expressions with source references on each entry.
-Entries can link Portuguese, Kimbundu and Kikongo terms. The SQLite `dictionary`
-table is seeded from that file at startup without inserting duplicates; older
-databases gain the Kikongo column automatically.
+Os dados de referência do dicionário estão organizados em:
 
-The initial entries were checked against the public Kimbundu archive, whose
-historical lexicon is based on Assis Júnior and records editorial status and
-page references. The app keeps these entries marked `unverified` pending review
-by Kimbundu speakers; source attribution does not imply contemporary validation.
+- `data/dictionary.json`: entradas-base e ligações entre Kimbundu, Kikongo e português.
+- `data/kimbundu_archive/`: arquivo de acepções Kimbundu dividido em lotes de dez registos.
+- `data/umbundu_archive/`: lotes de vocabulário Umbundu com referências às fontes.
 
-The initial Kikongo equivalents were checked against the Kia Kongo Léxikongo
-and its notes on noun classes and regional variation. These entries also remain
-`unverified` pending review by Kikongo speakers. The spelling and vocabulary
-may vary across Kikongo varieties.
+O `LocalDictionaryProvider` carrega estes ficheiros para pesquisa e tradução lexical. Na inicialização, a aplicação importa as entradas para SQLite sem duplicar registos já existentes. As bases de dados anteriores recebem automaticamente as colunas Kikongo e Umbundu quando necessário.
 
-The seed lexicon also includes Kikongo terms for the sun, earth, dog, pig,
-mother, father, family, chair, car, dances, chief and nose. Their individual
-source references are stored with each entry in `data/dictionary.json`.
+As entradas importadas permanecem `unverified` até serem revistas por falantes da língua ou especialistas. As referências indicam a fonte consultada; não significam validação contemporânea nem equivalência contextual para frases completas.
 
-Ten additional Kikongo verb forms are linked directly to existing Kimbundu and
-Portuguese entries: *diata*, *wiza*, *zola*, *longa*, *tala*, *sosa*, *tuma*,
-*nata*, *futa* and *dia*. The entries retain their source citations and the
-`unverified` status.
-
-This directory can also host additional resources such as:
-
-- Bilingual dictionaries.
-- Linguistic corpora.
-- Example sentences.
-- Grammatical annotations.
-- Academic references and datasets.
-
-No linguistic resource is considered verified until it has been reviewed by
-Kimbundu or Kikongo speakers or linguists. Entries contributed by the community
-remain unverified until such a review takes place.
+O arquivo Kimbundu inclui entradas do Arquivo Kimbundu, com referências individuais. O vocabulário Umbundu inicial foi consultado no Mundumbundu e mantém links para as páginas temáticas ou de verbete correspondentes.

@@ -1,6 +1,6 @@
-# MUTHU — Tradutor de Português, Kimbundu e Kikongo
+# MUTHU — Dicionário de Português, Kimbundu, Kikongo e Umbundu
 
-**MUTHU** é uma aplicação de tradução concebida para português, Kimbundu e Kikongo. O dicionário local contém equivalências entre os três idiomas, com cobertura inicial limitada.
+**MUTHU** é uma aplicação de consulta e tradução lexical para português, Kimbundu, Kikongo e Umbundu. As traduções usam correspondências registadas no dicionário local; a cobertura varia por idioma.
 
 **Lema:** «Idiomas que criam pontes.»
 
@@ -8,9 +8,9 @@
 
 ## 1. Visão geral do projeto
 
-O MUTHU tem como objetivo tornar a comunicação entre o português, o Kimbundu e o Kikongo mais acessível, através de uma interface intuitiva, uma arquitetura modular e recursos linguísticos cuidadosamente geridos.
+O MUTHU tem como objetivo tornar a comunicação entre o português, o Kimbundu, o Kikongo e o Umbundu mais acessível, através de uma interface intuitiva, uma arquitetura modular e recursos linguísticos cuidadosamente geridos.
 
-O projeto pretende também contribuir para a preservação, valorização e acessibilidade digital das línguas Kimbundu e Kikongo.
+O projeto pretende também contribuir para a preservação, valorização e acessibilidade digital das línguas Kimbundu, Kikongo e Umbundu.
 
 A aplicação foi concebida para funcionar em computadores e dispositivos móveis, com especial atenção à experiência de utilização em smartphones Android.
 
@@ -20,11 +20,9 @@ A aplicação foi concebida para funcionar em computadores e dispositivos móvei
 - Navegação inferior entre os diferentes ecrãs da aplicação.
 - Ecrãs com conteúdo deslizável, pesquisa em tempo real e mensagens informativas quando não existem resultados.
 - Campos de texto adaptados à utilização do teclado.
-- Tradução bidirecional disponível no dicionário local:
-  - Português → Kimbundu.
-  - Kimbundu → Português.
+- Tradução lexical entre idiomas para os pares que têm correspondências no dicionário local.
 - Tradução de palavras, expressões, frases, parágrafos e textos extensos.
-- Dicionário local com pesquisa em português, Kimbundu e Kikongo, incluindo equivalências entre os três idiomas.
+- Dicionário local com pesquisa em português, Kimbundu, Kikongo e Umbundu.
 - Histórico de traduções com pesquisa, eliminação individual e limpeza completa.
 - Sistema de favoritos para guardar traduções e expressões.
 - Temas claro e escuro.
@@ -207,8 +205,8 @@ Ajuste os valores conforme as necessidades do projeto.
 |---|---|
 | `TRANSLATION_PROVIDER` | Estratégia inicial de tradução: `dictionary` ou `machine`. |
 | `MUTHU_THEME` | Tema inicial da aplicação: `light` ou `dark`. |
-| `MUTHU_DEFAULT_SOURCE` | Idioma de origem predefinido: `pt` ou `kimbundu`. |
-| `MUTHU_DEFAULT_TARGET` | Idioma de destino predefinido: `pt` ou `kimbundu`. |
+| `MUTHU_DEFAULT_SOURCE` | Idioma de origem predefinido: `pt`, `kimbundu`, `kikongo` ou `umbundu`. |
+| `MUTHU_DEFAULT_TARGET` | Idioma de destino predefinido: `pt`, `kimbundu`, `kikongo` ou `umbundu`. |
 
 As credenciais de APIs externas estão reservadas para futuros serviços de tradução.
 
@@ -430,8 +428,8 @@ O MUTHU encontra-se numa fase inicial de desenvolvimento dos seus recursos lingu
 
 É importante compreender as seguintes limitações:
 
-- Ainda não foi validado um serviço de tradução automática capaz de traduzir Kimbundu ou Kikongo de forma suficientemente fiável.
-- A implementação inicial utiliza um mecanismo de tradução baseado num dicionário local; as equivalências em Kikongo estão limitadas às entradas com fonte e permanecem não verificadas.
+- Ainda não foi validado um serviço de tradução automática capaz de traduzir Kimbundu, Kikongo ou Umbundu de forma suficientemente fiável.
+- A tradução atual usa correspondências do dicionário local. As entradas de Kimbundu, Kikongo e Umbundu permanecem não verificadas até serem revistas por falantes ou especialistas.
 - A pesquisa de palavras no dicionário não equivale à tradução contextual de frases completas.
 - Os resultados são identificados como consultas ao dicionário.
 - As entradas linguísticas não verificadas são devidamente identificadas.
@@ -471,7 +469,7 @@ Cada entrada do dicionário deve conter:
 | `verified` | Entrada verificada e validada. |
 | `unverified` | Entrada ainda não validada. |
 
-As contribuições da comunidade permanecem classificadas como não verificadas até serem analisadas por falantes de Kimbundu ou especialistas na língua.
+As contribuições da comunidade permanecem classificadas como não verificadas até serem analisadas por falantes ou especialistas da língua correspondente.
 
 A qualidade dos dados linguísticos é essencial para garantir a credibilidade do MUTHU.
 
@@ -495,7 +493,7 @@ Esta organização facilita a manutenção, os testes e a futura integração de
 São bem-vindas contribuições relacionadas com:
 
 - Correção e validação de traduções.
-- Ampliação do dicionário português–Kimbundu–Kikongo.
+- Ampliação do dicionário português–Kimbundu–Kikongo–Umbundu.
 - Documentação de expressões e estruturas linguísticas.
 - Melhorias na interface e experiência de utilização.
 - Correção de erros e otimização do código.
@@ -509,14 +507,14 @@ As contribuições linguísticas devem incluir referências às fontes e permane
 
 O desenvolvimento do MUTHU poderá incluir:
 
-- Integração de um modelo de tradução automática validado para português e Kimbundu.
+- Integração de um modelo de tradução automática validado para os idiomas suportados.
 - Expansão do dicionário multilingue.
 - Validação linguística das palavras e expressões existentes.
-- Colaboração com falantes nativos e especialistas em Kimbundu.
+- Colaboração com falantes nativos e especialistas nas línguas suportadas.
 - Melhoria da tradução contextual de frases e textos extensos.
 - Desenvolvimento e distribuição da aplicação Android.
 - Possível integração de funcionalidades de reconhecimento e síntese de voz.
-- Expansão dos recursos linguísticos para apoiar a preservação digital do Kimbundu.
+- Expansão dos recursos linguísticos para apoiar a preservação digital das línguas suportadas.
 
 ---
 
