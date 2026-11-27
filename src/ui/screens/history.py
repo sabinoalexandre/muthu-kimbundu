@@ -109,7 +109,7 @@ class HistoryScreen(MDScreen):
                 entry.target_language, entry.target_language.upper()
             )
             language_pair.add_widget(MDLabel(
-                text=f"{source_name} → {target_name}",
+                text=f"{source_name} - {target_name}",
                 theme_text_color="Secondary", font_style="Label", role="small",
                 size_hint_y=None, height=dp(22), shorten=True,
             ))
