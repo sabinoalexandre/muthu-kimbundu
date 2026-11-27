@@ -3,7 +3,6 @@
 from kivy.metrics import dp
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.scrollview import ScrollView
-from kivy.uix.widget import Widget
 from kivymd.uix.button import MDIconButton
 from kivymd.uix.card import MDCard
 from kivymd.uix.label import MDLabel
@@ -15,6 +14,17 @@ from src.ui.widgets.theme import (
     ACCENT_BLUE, DARK_ACCENT_BLUE, DARK_SURFACE, SURFACE,
     apply_page_background, bind_theme_color,
 )
+
+_LANGUAGE_NAMES = {
+    "pt": "Português",
+    "kimbundu": "Kimbundu",
+    "kikongo": "Kikongo",
+    "umbundu": "Umbundu",
+}
+_VERIFICATION_LABELS = {
+    "verified": "Verificada",
+    "unverified": "Não verificada",
+}
 
 
 class HistoryScreen(MDScreen):
@@ -78,27 +88,70 @@ class HistoryScreen(MDScreen):
         entries = [item for item in self.entries if not term or term in item.original_text.lower()
                    or term in item.translated_text.lower()]
         self.entries_container.clear_widgets()
-        self.count_label.text = f"{len(entries)} consulta(s) · resultados de dicionário"
+        count = len(entries)
+        self.count_label.text = f"{count} {'consulta' if count == 1 else 'consultas'}"
         if not entries:
             self.entries_container.add_widget(MDLabel(
                 text="Ainda não há consultas guardadas." if not term else "Nenhum registo corresponde à pesquisa.",
                 theme_text_color="Secondary", size_hint_y=None, height=dp(72), halign="center"))
             return
         for entry in entries:
-            card = MDCard(orientation="vertical", size_hint_y=None, height=dp(142),
-                          padding=dp(14), spacing=dp(5), radius=[dp(19)], elevation=0,
+            card = MDCard(orientation="vertical", size_hint_y=None, height=dp(164),
+                          padding=dp(12), spacing=dp(4), radius=[dp(19)], elevation=0,
                           md_bg_color=(1, 1, 1, 1))
             bind_theme_color(card, "md_bg_color", SURFACE, DARK_SURFACE)
-            card.add_widget(MDLabel(text=entry.original_text, bold=True,
-                                    size_hint_y=None, height=dp(28), shorten=True))
-            card.add_widget(MDLabel(text=entry.translated_text, size_hint_y=None,
-                                    height=dp(28), shorten=True))
-            card.add_widget(MDLabel(
-                text=f"{entry.source_language} → {entry.target_language} · {entry.verification_status} · {entry.timestamp}",
-                theme_text_color="Secondary", font_style="Label", role="small", size_hint_y=None, height=dp(24)))
-            actions = BoxLayout(size_hint_y=None, height=dp(34))
-            actions.add_widget(Widget())
-            delete = MDIconButton(icon="delete-outline", on_release=lambda *_args, item_id=entry.id: self.on_delete(item_id))
+
+            language_pair = BoxLayout(size_hint_y=None, height=dp(22))
+            source_name = _LANGUAGE_NAMES.get(
+                entry.source_language, entry.source_language.upper()
+            )
+            target_name = _LANGUAGE_NAMES.get(
+                entry.target_language, entry.target_language.upper()
+            )
+            language_pair.add_widget(MDLabel(
+                text=f"{source_name} → {target_name}",
+                theme_text_color="Secondary", font_style="Label", role="small",
+                size_hint_y=None, height=dp(22), shorten=True,
+            ))
+            card.add_widget(language_pair)
+
+            original_row = BoxLayout(size_hint_y=None, height=dp(30), spacing=dp(8))
+            original_row.add_widget(MDLabel(
+                text="Original", theme_text_color="Secondary", font_style="Label",
+                role="small", size_hint=(None, 1), width=dp(66),
+            ))
+            original_row.add_widget(MDLabel(
+                text=entry.original_text, bold=True, size_hint_y=None,
+                height=dp(30), shorten=True,
+            ))
+            card.add_widget(original_row)
+
+            result_row = BoxLayout(size_hint_y=None, height=dp(30), spacing=dp(8))
+            result_row.add_widget(MDLabel(
+                text="Resultado", theme_text_color="Secondary", font_style="Label",
+                role="small", size_hint=(None, 1), width=dp(66),
+            ))
+            result_row.add_widget(MDLabel(
+                text=entry.translated_text, size_hint_y=None,
+                height=dp(30), shorten=True,
+            ))
+            card.add_widget(result_row)
+
+            timestamp = entry.timestamp.strftime("%d/%m/%Y, %H:%M") if entry.timestamp else ""
+            status = _VERIFICATION_LABELS.get(
+                entry.verification_status, "Estado desconhecido"
+            )
+            actions = BoxLayout(size_hint_y=None, height=dp(32), spacing=dp(6))
+            actions.add_widget(MDLabel(
+                text=f"{status} · {timestamp}" if timestamp else status,
+                theme_text_color="Secondary", font_style="Label", role="small",
+                shorten=True,
+            ))
+            delete = MDIconButton(
+                icon="delete-outline",
+                on_release=lambda *_args, item_id=entry.id: self.on_delete(item_id),
+                size_hint=(None, 1), width=dp(38),
+            )
             actions.add_widget(delete)
             card.add_widget(actions)
             self.entries_container.add_widget(card)
