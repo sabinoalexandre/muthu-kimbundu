@@ -3,6 +3,7 @@
 from kivy.metrics import dp
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.scrollview import ScrollView
+from kivy.uix.widget import Widget
 from kivymd.uix.button import MDIconButton
 from kivymd.uix.card import MDCard
 from kivymd.uix.label import MDLabel
@@ -75,7 +76,7 @@ class HistoryScreen(MDScreen):
             return
         term = (self.search_field.text or "").strip().lower()
         entries = [item for item in self.entries if not term or term in item.original_text.lower()
-                   or term in item.translated_text.lower() or term in (item.provider or "").lower()]
+                   or term in item.translated_text.lower()]
         self.entries_container.clear_widgets()
         self.count_label.text = f"{len(entries)} consulta(s) · resultados de dicionário"
         if not entries:
@@ -96,7 +97,7 @@ class HistoryScreen(MDScreen):
                 text=f"{entry.source_language} → {entry.target_language} · {entry.verification_status} · {entry.timestamp}",
                 theme_text_color="Secondary", font_style="Label", role="small", size_hint_y=None, height=dp(24)))
             actions = BoxLayout(size_hint_y=None, height=dp(34))
-            actions.add_widget(MDLabel(text=entry.provider or "Consulta local", theme_text_color="Secondary"))
+            actions.add_widget(Widget())
             delete = MDIconButton(icon="delete-outline", on_release=lambda *_args, item_id=entry.id: self.on_delete(item_id))
             actions.add_widget(delete)
             card.add_widget(actions)
